@@ -27,4 +27,3 @@ URL: https://keith-mcnulty.medium.com/only-one-pair-of-distinct-integers-satisfy
 
 Title: The Colorful Charm of Amiga Utility Disks
 URL: https://www.datagubbe.se/utildisks/
-

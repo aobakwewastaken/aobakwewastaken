@@ -2,7 +2,7 @@ name: Update Stories
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 0,9,12,17 * * *"
 
 jobs:
   build:
@@ -19,4 +19,4 @@ jobs:
 
       - name: Build and run Go function
         run: |
-          go run ./.github/scripts/main.go
+          cd .github/scripts/ && go run main.go

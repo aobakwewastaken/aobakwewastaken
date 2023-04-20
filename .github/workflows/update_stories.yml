@@ -3,7 +3,11 @@ name: Update Stories
 on:
   schedule:
     - cron: "0 0,9,12,17 * * *"
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      trigger-reason:
+        description: "Reason for manual trigger"
+        required: true
 
 jobs:
   build:
@@ -19,9 +23,9 @@ jobs:
           go-version: 1.17
 
       - name: Set environment variables
-      env:
-        ACCESS_TOKEN: ${{ secrets.GITHUB_ACCESS_TOKEN }}
-        
+        env:
+          ACCESS_TOKEN: ${{ secrets.GITHUB_ACCESS_TOKEN }}
+
       - name: Build and run Go function
         run: |
           cd .github/scripts/ && go run main.go

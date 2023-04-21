@@ -1,30 +1,30 @@
-Title: Shutting down my legal torrent site after 17 years
-URL: https://www.legittorrents.info/
+Title: Spinning Diagrams with CSS
+URL: https://x.st/spinning-diagrams-with-css/
 
-Title: Smuggling of silkworm eggs into the Byzantine Empire
-URL: https://en.wikipedia.org/wiki/Smuggling_of_silkworm_eggs_into_the_Byzantine_Empire
+Title: AOLserver is America Online's Open-Source web server (2010)
+URL: https://aolserver.github.io/
 
-Title: SpaceX Starship rocket explodes minutes after launch from Texas
-URL: https://apnews.com/article/spacex-starship-launch-elon-musk-d9989401e2e07cdfc9753f352e44f6e2
+Title: Show HN: Thoughts on Flash in 2023, in Flash, in 2023
+URL: https://www.newgrounds.com/portal/view/881533
 
-Title: In 1981, Intel released the iAPX 432
-URL: https://oldbytes.space/@kenshirriff/110231910098167742
+Title: Rhythm (taal) in Indian Classical Music (2011)
+URL: https://raag-hindustani.com/Rhythm.html
 
-Title: BuzzFeed News is shutting down
-URL: https://www.thedailybeast.com/buzzfeed-news-is-shutting-down
+Title: Glucomate: an app for people who record, track, and monitor their blood glucose
+URL: https://zachsim.one/blog/2023/4/19/introducing-glucomate
 
-Title: Space Elevator
-URL: https://neal.fun/space-elevator/
+Title: WebGPU GPT Model Demo
+URL: https://www.kmeans.org/
 
-Title: GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer
-URL: 
+Title: Introducing 'Trusted Publishers'
+URL: https://blog.pypi.org/posts/2023-04-20-introducing-trusted-publishers/
 
-Title: Google DeepMind
-URL: https://www.deepmind.com/blog/announcing-google-deepmind
+Title: World’s largest battery maker announces major breakthrough in energy density
+URL: https://thedriven.io/2023/04/21/worlds-largest-battery-maker-announces-major-breakthrough-in-battery-density/
 
-Title: Only one pair of distinct positive integers satisfy the equation m^n = n^m
-URL: https://keith-mcnulty.medium.com/only-one-pair-of-distinct-integers-satisfy-this-equation-76ea45469a96
+Title: Conway's Game of Life digital clock
+URL: https://copy.sh/life/?gist=f3413564b1fa9c69f2bad4b0400b8090&step=512
 
-Title: Mullvad VPN was subject to a search warrant – customer data not compromised
-URL: https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/
+Title: Show HN: WasmGPT – “ChatGPT” in the browser, no WebGPU and no server needed
+URL: https://lxe.co/wasmgpt/
 

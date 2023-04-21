@@ -18,7 +18,7 @@ type Story struct {
 }
 func main() {
 	var readMeContent string
-	accessToken := os.Getenv("GITHUB_ACCESS_TOKEN")
+	accessToken := os.Getenv("MY_ACCESS_TOKEN")
 	ctx := context.Background()
 	ts := oauth2.StaticTokenSource(
 		&oauth2.Token{ AccessToken: accessToken},

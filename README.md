@@ -4,27 +4,27 @@ URL: https://inkscape.org/news/2023/04/17/inkscape-hiring-accelerating-gtk4-migr
 Title: World’s largest battery maker announces major breakthrough in energy density
 URL: https://thedriven.io/2023/04/21/worlds-largest-battery-maker-announces-major-breakthrough-in-battery-density/
 
-Title: Office of the President of Mongolia (top to bottom text on the web)
-URL: https://president.mn/mng/
+Title: US warship collides with tugboat in disastrous launch
+URL: https://www.navytimes.com/news/your-navy/2023/04/19/future-lcs-cleveland-launches-strikes-tugboat/
 
-Title: Spinning Diagrams with CSS
-URL: https://x.st/spinning-diagrams-with-css/
+Title: Fictional Brands Archive
+URL: https://fictionalbrandsarchive.com/
+
+Title: Large, creative AI models will transform lives and labour markets
+URL: https://www.economist.com/interactive/science-and-technology/2023/04/22/large-creative-ai-models-will-transform-how-we-live-and-work
+
+Title: Show HN: Gsubpy, an interpreter for subset of Python, written in Go
+URL: https://github.com/realyixuan/gsubpy
+
+Title: Current issues with the Qt project from the outside looking in
+URL: https://kelteseth.com/post/20-04-2023-current-issues-with-the-qt-project-from-the-outside-looking-in/
 
 Title: Car thieves using tech disguised inside old Nokia phones and Bluetooth speakers
 URL: https://www.vice.com/en/article/v7beyj/car-thieves-tech-hidden-old-nokia-phones-bluetooth-speakers-emergency-engine-start-keyless
 
+Title: Use databases without putting domain logic in them
+URL: https://alexkondov.com/use-databases-without-putting-domain-logic-in-them/
+
 Title: AOLserver is America Online's Open-Source web server (2010)
 URL: https://aolserver.github.io/
-
-Title: Show HN: Thoughts on Flash in 2023, in Flash, in 2023
-URL: https://www.newgrounds.com/portal/view/881533
-
-Title: Rhythm (taal) in Indian Classical Music (2011)
-URL: https://raag-hindustani.com/Rhythm.html
-
-Title: WebGPU GPT Model Demo
-URL: https://www.kmeans.org/
-
-Title: Memfault (YC W19) Is Hiring Their First Product Designer in Berlin
-URL: https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34
 

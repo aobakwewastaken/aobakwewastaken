@@ -1,30 +1,30 @@
-Title: Inkscape is hiring: Accelerating the GTK4 migration
-URL: https://inkscape.org/news/2023/04/17/inkscape-hiring-accelerating-gtk4-migration/
+Title: Scaling Databases at Activision [pdf]
+URL: https://static.sched.com/hosted_files/kccnceu2023/3d/KubeCon-2023-Scaling-Databases-Activision.pdf
 
-Title: World’s largest battery maker announces major breakthrough in energy density
+Title: The EARN IT bill is back, seeking to scan our messages and photos
+URL: https://www.eff.org/deeplinks/2023/04/earn-it-bill-back-again-seeking-scan-our-messages-and-photos
+
+Title: CATL has announced a new “condensed” battery with 500 Wh/kg
 URL: https://thedriven.io/2023/04/21/worlds-largest-battery-maker-announces-major-breakthrough-in-battery-density/
 
-Title: US warship collides with tugboat in disastrous launch
-URL: https://www.navytimes.com/news/your-navy/2023/04/19/future-lcs-cleveland-launches-strikes-tugboat/
+Title: The weird world of Windows file paths
+URL: https://www.fileside.app/blog/2023-03-17_windows-file-paths/
 
-Title: Fictional Brands Archive
-URL: https://fictionalbrandsarchive.com/
+Title: Lyft to Cut at Least 1,200 Jobs in New Round of Layoffs to Reduce Costs
+URL: https://www.wsj.com/articles/lyft-to-cut-at-least-1-200-jobs-in-new-round-of-layoffs-to-reduce-costs-da423e53
 
-Title: Large, creative AI models will transform lives and labour markets
-URL: https://www.economist.com/interactive/science-and-technology/2023/04/22/large-creative-ai-models-will-transform-how-we-live-and-work
+Title: Lago(YC): open-source Usage Based Billing – is hiring an Infrastructure Engineer
+URL: https://www.ycombinator.com/companies/lago/jobs/YL8DQw4-infrastructure-engineer
 
-Title: Show HN: Gsubpy, an interpreter for subset of Python, written in Go
-URL: https://github.com/realyixuan/gsubpy
+Title: Atari 800XL Remake
+URL: https://revive-machines.com/index-en.html
 
-Title: Current issues with the Qt project from the outside looking in
-URL: https://kelteseth.com/post/20-04-2023-current-issues-with-the-qt-project-from-the-outside-looking-in/
+Title: Show HN: We built a ClickHouse-based logging service
+URL: https://github.com/highlight/highlight/blob/main/README.md
 
-Title: Car thieves using tech disguised inside old Nokia phones and Bluetooth speakers
-URL: https://www.vice.com/en/article/v7beyj/car-thieves-tech-hidden-old-nokia-phones-bluetooth-speakers-emergency-engine-start-keyless
+Title: Four-Byte Burger [video]
+URL: https://www.youtube.com/watch?v=i4EFkspO5p4
 
-Title: Use databases without putting domain logic in them
-URL: https://alexkondov.com/use-databases-without-putting-domain-logic-in-them/
-
-Title: AOLserver is America Online's Open-Source web server (2010)
-URL: https://aolserver.github.io/
+Title: OpenBSD: Viogpu(4), a VirtIO GPU driver, added to -current
+URL: https://www.undeadly.org/cgi?action=article;sid=20230421124221
 

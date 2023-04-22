@@ -30,11 +30,13 @@ func main() {
 	readme, _, err := client.Repositories.GetReadme(ctx, owner, repo, &github.RepositoryContentGetOptions{})
 	if err != nil {
 		fmt.Println("Failed to fetch readme: ", err)
+		return
 	}
 
 	resp, err := http.Get("https://hacker-news.firebaseio.com/v0/topstories.json")
 	if err != nil {
 		fmt.Println("Failed to fetch top stories: ", err)
+		return
 	}
 	defer resp.Body.Close()
 
@@ -68,6 +70,7 @@ func main() {
 
 	if err != nil {
 		fmt.Println("Failed to get content: ", err)
+		return
 	}
 	currentReadMeContent = readMeContent
 	opts := &github.RepositoryContentFileOptions{
@@ -78,6 +81,7 @@ func main() {
 	_, _, err = client.Repositories.UpdateFile(ctx, owner, repo, *readme.Path, opts)
 	if err != nil {
 		fmt.Println("Failed to update Readme: ", err)
+		return
 	}
 	
 }

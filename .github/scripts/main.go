@@ -46,7 +46,7 @@ func main() {
 		fmt.Println("Failed to decode response: ", err)
 		return
 	}
-	readMeContent = "# Top Stories on hackernews"
+	readMeContent = "# Top Stories on hackernews <br />"
 	for i := 0; i < 10 && i < len(storyIDs); i++ {
 		storyID := storyIDs[i]
 		storyResp, err := http.Get(fmt.Sprintf("https://hacker-news.firebaseio.com/v0/item/%d.json", storyID))

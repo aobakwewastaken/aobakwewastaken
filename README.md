@@ -1,30 +1,20 @@
-Title: Show HN: I made a SQL game to help people learn / challenge their skills
-URL: https://lost-at-sql.therobinlord.com/
+# Top Stories on hackernews[The “Build Your Own Database” book is finished](https://build-your-own.org/blog/20230420_byodb_done/)
 
-Title: Researchers Taught Parrots to Video Call Other Parrots
-URL: https://news.northeastern.edu/2023/04/21/parrots-talking-video-calls/
+[Finetuning Large Language Models](https://magazine.sebastianraschka.com/p/finetuning-large-language-models)
 
-Title: Should you remove duplicate files?
-URL: https://eclecticlight.co/2023/04/22/should-you-remove-duplicate-files/
+[Show HN: I made a SQL game to help people learn / challenge their skills](https://lost-at-sql.therobinlord.com/)
 
-Title: Windows on Btrfs
-URL: https://www.lilysthings.org/blog/windows-on-btrfs/
+[Why the Brain’s Connections to the Body Are Crisscrossed](https://www.quantamagazine.org/why-the-brains-connections-to-the-body-are-crisscrossed-20230419/)
 
-Title: Medical wordlists in English, French and Ukrainian
-URL: https://github.com/theophpo/medical-wordlist
+[Using solar farms to generate fresh desert soil crust](https://phys.org/news/2023-04-solar-farms-generate-fresh-soil.html)
 
-Title: Meticulous (YC S21) Is Hiring Founding Engineer to Build AI for Testing
-URL: 
+[ReceptioGate and the (Absolute) State of Academia](https://thecritic.co.uk/receptiogate-and-the-absolute-state-of-academia/)
 
-Title: Google Mars
-URL: https://www.google.com/mars/
+[Methane may not warm the Earth quite as much as previously thought](https://www.sciencenews.org/article/methane-warm-earth-atmosphere-radiation)
 
-Title: Google CEO Sundar Pichai Received $226M Compensation While Firing Thousands
-URL: https://www.bloomberg.com/news/articles/2023-04-21/alphabet-ceo-s-pay-soars-to-226-million-on-massive-stock-award
+[Parrots learn to make video calls to chat with other parrots – study](https://news.northeastern.edu/2023/04/21/parrots-talking-video-calls/)
 
-Title: More than 19k undersea volcanoes discovered
-URL: https://www.science.org/content/article/it-s-just-mind-boggling-more-19-000-undersea-volcanoes-discovered
+[The Box](https://soaringtwenties.substack.com/p/inside-the-box)
 
-Title: Telegram Web Apps for Bots
-URL: https://core.telegram.org/bots/webapps
+[WebAssembly Text Code Samples](https://eli.thegreenplace.net/2023/webassembly-text-code-samples/)
 

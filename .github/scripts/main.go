@@ -62,7 +62,7 @@ func main() {
 			fmt.Println("Failed to decode story:", err)
 			continue
 		}
-		readMeContent += fmt.Sprintf("[%s](%s)\n\n", story.Title, story.URL)
+		readMeContent += fmt.Sprintf("\n[%s](%s)\n", story.Title, story.URL)
 	}
 	currentReadMeContent, err := readme.GetContent()
 

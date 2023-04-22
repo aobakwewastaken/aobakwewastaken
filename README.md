@@ -1,30 +1,30 @@
+Title: Show HN: I made a SQL game to help people learn / challenge their skills
+URL: https://lost-at-sql.therobinlord.com/
+
+Title: Researchers Taught Parrots to Video Call Other Parrots
+URL: https://news.northeastern.edu/2023/04/21/parrots-talking-video-calls/
+
+Title: Should you remove duplicate files?
+URL: https://eclecticlight.co/2023/04/22/should-you-remove-duplicate-files/
+
 Title: Windows on Btrfs
 URL: https://www.lilysthings.org/blog/windows-on-btrfs/
+
+Title: Medical wordlists in English, French and Ukrainian
+URL: https://github.com/theophpo/medical-wordlist
+
+Title: Meticulous (YC S21) Is Hiring Founding Engineer to Build AI for Testing
+URL: 
+
+Title: Google Mars
+URL: https://www.google.com/mars/
+
+Title: Google CEO Sundar Pichai Received $226M Compensation While Firing Thousands
+URL: https://www.bloomberg.com/news/articles/2023-04-21/alphabet-ceo-s-pay-soars-to-226-million-on-massive-stock-award
 
 Title: More than 19k undersea volcanoes discovered
 URL: https://www.science.org/content/article/it-s-just-mind-boggling-more-19-000-undersea-volcanoes-discovered
 
-Title: Navigating the world when your senses conjure up phenomena others can’t perceive
-URL: https://theamericanscholar.org/phantoms/
-
-Title: Boot to Vim, Vim as Pid 1 (2014)
-URL: https://raymii.org/s/blog/Vim_as_PID_1_Boot_to_Vim.html
-
 Title: Telegram Web Apps for Bots
 URL: https://core.telegram.org/bots/webapps
-
-Title: Show HN: TxtNet Browser – Browse the Web over SMS, No Wi-Fi/Mobile Data Needed
-URL: https://github.com/lukeaschenbrenner/TxtNet-Browser/blob/master/README.md
-
-Title: Faster LZ is not the answer to 150-250 GB video game downloads
-URL: http://richg42.blogspot.com/2023/04/faster-lz-is-not-answer-to-150-250-gb.html
-
-Title: The EARN IT bill is back, seeking to scan our messages and photos
-URL: https://www.eff.org/deeplinks/2023/04/earn-it-bill-back-again-seeking-scan-our-messages-and-photos
-
-Title: Four-Byte Burger [video]
-URL: https://www.youtube.com/watch?v=i4EFkspO5p4
-
-Title: Will boiling water ruin green tea?
-URL: https://www.myjapanesegreentea.com/will-boiling-water-ruin-green-tea
 

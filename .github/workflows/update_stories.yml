@@ -2,7 +2,7 @@ name: Update Stories
 
 on:
   schedule:
-    - cron: "0 22,7,10,12,15 * * *"
+    - cron: "0 22,7,10,12,15,16 * * *"
   workflow_dispatch:
 
 jobs:

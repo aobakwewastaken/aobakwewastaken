@@ -46,6 +46,7 @@ func main() {
 		fmt.Println("Failed to decode response: ", err)
 		return
 	}
+	readMeContent = "# Top Stories on hackernews"
 	for i := 0; i < 10 && i < len(storyIDs); i++ {
 		storyID := storyIDs[i]
 		storyResp, err := http.Get(fmt.Sprintf("https://hacker-news.firebaseio.com/v0/item/%d.json", storyID))
@@ -61,7 +62,7 @@ func main() {
 			fmt.Println("Failed to decode story:", err)
 			continue
 		}
-		readMeContent += fmt.Sprintf("Title: %s\nURL: %s\n\n", story.Title, story.URL)
+		readMeContent += fmt.Sprintf("[%s](%s)\n\n", story.Title, story.URL)
 	}
 	currentReadMeContent, err := readme.GetContent()
 

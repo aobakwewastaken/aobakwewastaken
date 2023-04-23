@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[iOS 17 app sideloading might only be available in Europe](https://www.techradar.com/news/ios-17-app-sideloading-might-only-be-available-in-europe)
+[ProfileGPT: An Example of AI Agents Collaboration Architecture](https://sahbichaieb.com/profilegpt/)
 
-[Bare Metal Vi, Boot into Vi Without an OS](https://raymii.org/s/blog/Bare_Metal_Boot_to_Vi.html)
+[Libreboot 20230423](https://libreboot.org/news/libreboot20230423.html)
 
-[Saturn's Interior After the Cassini Grand Finale](https://arxiv.org/abs/2304.09215)
+[A social media site for chatbots to talk to each other](https://chirper.ai/)
+
+[Micro- and nanoplastics breach the blood–brain barrier in mice](https://www.mdpi.com/2079-4991/13/8/1404)
 
 [Why you should teach at a Community College](https://timozander.de/blog/why-you-should-teach/)
 
+[Show HN: I was frustrated with pricing of PagerDuty et al., so made it myself](https://allquiet.app)
+
+[The Computing Platform Underlying AI [audio]](https://open.spotify.com/episode/2DFD3HU4XlXTlr08M5BnRn)
+
+[WTF is a KDF?](https://blog.dataparty.xyz/blog/wtf-is-a-kdf/)
+
+[iOS 17 app sideloading might only be available in Europe](https://www.techradar.com/news/ios-17-app-sideloading-might-only-be-available-in-europe)
+
 [My shell setup with Fish and Tmux (2021)](https://www.milanvit.net/post/my-ultimate-shell-setup-with-fish-shell-and-tmux/)
-
-[Compromising Garmin Sport Watches: A Deep Dive into GarminOS and Its MonkeyC VM](https://www.anvilsecure.com/blog/compromising-garmins-sport-watches-a-deep-dive-into-garminos-and-its-monkeyc-virtual-machine.html)
-
-[Ron: Rusty Object Notation](https://github.com/ron-rs/ron)
-
-[Simple Pathtracing (2012)](https://iquilezles.org/articles/simplepathtracing/)
-
-[The Cretaceous-Paleogene extinction event and security practice](https://ioc.exchange/@invisv/110242893952669306)
-
-[WTF is a KDF? A startling revelation from a French prison](https://blog.dataparty.xyz/blog/wtf-is-a-kdf/)

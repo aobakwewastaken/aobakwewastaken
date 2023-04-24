@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[QEMU 8.0](https://www.qemu.org/2023/04/20/qemu-8-0-0/)
+[The Palo Alto Research Center (PARC) Will Join SRI International](https://www.sri.com/press/press-release/the-palo-alto-research-center-parc-will-join-sri-international/)
 
-[Seeing Triple (Annotated)](https://esawebb.org/images/potm2302b/)
+[The Effects of Noise on Health (2022)](https://hms.harvard.edu/magazine/viral-world/effects-noise-health)
 
-[Bullet Train – Rails-based SaaS framework](https://bullettrain.co/)
+[Show HN: Homemade rocketship treehouse – hardware to custom OS](http://rocket.jonh.net)
 
-[I use Nix and make(1) to develop](https://glorifiedgluer.com/blog/2023/developing-with-nix-and-make/)
+[Google Authenticator now supports Google Account synchronization](https://security.googleblog.com/2023/04/google-authenticator-now-supports.html)
 
-[MouthPad – In-Mouth Bluetooth Mouse Uses Tongue Sensitive Trackpad](https://www.augmental.tech/)
+[Technology of water in ancient Iran from prehistory to the Islamic Golden Age](https://www.nature.com/articles/s41599-023-01617-x)
 
-[Statement on EU-US Cooperation on Turning Public Opinion Against Encryption](https://www.globalencryption.org/2023/04/statement-on-eu-us-cooperation-against-encryption/)
+[Fedora 38 LLVM vs. Team Fortress 2](https://airlied.blogspot.com/2023/04/fedora-38-llvm-vs-team-fortress-2-tf2.html)
 
-[Improbably Right](https://mlajtos.mu/posts/improbably-right)
+[A WiFi color eInk picture frame](https://spritesmods.com/?art=wifipicframe&f=rss)
 
-[Red Hat cutting hundreds of jobs, CEO says in letter to employees](https://wraltechwire.com/2023/04/24/red-hat-cutting-hundreds-of-jobs-ceo-says-in-letter-to-employees/)
+[Lancey (YC S22) is hiring a senior full-stack engineer](https://www.ycombinator.com/companies/lancey/jobs/yxiFhkc-senior-software-engineer-full-stack)
 
-[Topological Deep Learning: A Survey on Topological Neural Networks](https://arxiv.org/abs/2304.10031)
+[Egypt builds worlds largest man-made river](https://www.constructionweekonline.com/business/egypt-builds-worlds-largest-114km-man-made-river)
 
-[The Geomagnetic Storm Continues](https://www.swpc.noaa.gov/news/geomagnetic-storm-continues)
+[Nostr (“Notes and Other Stuff Transmitted by Relays”) – An Introduction](https://wiki.wellorder.net/post/nostr-intro/)

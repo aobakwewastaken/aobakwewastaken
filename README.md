@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Seeing Triple (Annotated)](https://esawebb.org/images/potm2302b/)
+
+[Bullet Train – Rails-based SaaS framework](https://bullettrain.co/)
+
 [MouthPad – In-Mouth Bluetooth Mouse Uses Tongue Sensitive Trackpad](https://www.augmental.tech/)
+
+[QEMU 8.0.0 – A generic and open source machine emulator and virtualizer](https://www.qemu.org/2023/04/20/qemu-8-0-0/)
+
+[Topological Deep Learning: A Survey on Topological Neural Networks](https://arxiv.org/abs/2304.10031)
 
 [The Geomagnetic Storm Continues](https://www.swpc.noaa.gov/news/geomagnetic-storm-continues)
 
-[What’s the Point of Tech Conferences?](https://chelseatroy.com/2023/04/21/whats-the-point-of-tech-conferences/)
+[Improbably Right](https://mlajtos.mu/posts/improbably-right)
 
-[Keep the Monolith, but Split the Workloads](https://incident.io/blog/monolith)
+[Red Hat cutting hundreds of jobs, CEO says in letter to employees](https://wraltechwire.com/2023/04/24/red-hat-cutting-hundreds-of-jobs-ceo-says-in-letter-to-employees/)
 
-[No, I don’t want to sign up for your newsletter](https://www.katsnyderux.com/post/no-i-don-t-want-to-sign-up-for-your-newsletter-horrible-uses-of-exit-overlays)
+[UK Threatens End-to-End Encryption](https://www.schneier.com/blog/archives/2023/04/uk-threatens-end-to-end-encryption.html)
 
-[An introduction to lockless algorithms (2021)](https://lwn.net/Articles/844224/)
-
-[Scaling Transformer to 1M tokens and beyond with RMT](https://arxiv.org/abs/2304.11062)
-
-[Darke Files is a version control and file synchronization system](https://darke.handmade.network)
-
-[The Origin of “Baum’s Loop”](https://link.springer.com/article/10.1007/s00276-020-02587-4)
-
-[Moths are more efficient pollinators than bees: new research](https://phys.org/news/2023-03-moths-efficient-pollinators-bees.html)
+[Discuss HN: Nearly all apps of generative AI are a net negative for society]()

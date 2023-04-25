@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Eww: Programmable Widgets for Linux](https://github.com/elkowar/eww)
+[LTESniffer: An Open-Source LTE Downlink/Uplink Eavesdropper [pdf]](https://syssec.kaist.ac.kr/pub/2023/wisec2023_tuan.pdf)
 
-[The EU Suppressed a 300-Page Study That Found Piracy Doesn’t Harm Sales (2017)](https://gizmodo.com/the-eu-suppressed-a-300-page-study-that-found-piracy-do-1818629537)
-
-[Serverless voice chat with Vicuna-13B](https://github.com/modal-labs/quillman)
+[What Rosalind Franklin contributed to the discovery of DNA’s structure](https://www.nature.com/articles/d41586-023-01313-5)
 
 [Smartphones with Qualcomm chip secretly send personal data to Qualcomm](https://www.nitrokey.com/news/2023/smartphones-popular-qualcomm-chip-secretly-share-private-information-us-chip-maker)
 
-[My Thoughts on OCaml](https://osa1.net/posts/2023-04-24-ocaml-thoughts.html)
+[Debugging a Mixed Python and C Language Stack](https://developer.nvidia.com/blog/debugging-mixed-python-and-c-language-stack/)
 
-[A Completely Non-Technical Explanation of Deep Learning](https://www.parand.com/a-completely-non-technical-explanation-of-ai.html)
+[A non-technical explanation of deep learning](https://www.parand.com/a-completely-non-technical-explanation-of-ai.html)
 
-[Ways to shoot yourself in the foot with PostgreSQL](https://philbooth.me/blog/nine-ways-to-shoot-yourself-in-the-foot-with-postgresql)
+[NitroKey Disappoints Me](https://blog.brixit.nl/nitrokey-dissapoints-me/)
 
-[People who use Notion to plan their whole lives](https://www.technologyreview.com/2023/04/25/1072148/meet-the-people-using-notion-to-plan-their-whole-lives/)
+[A thief who stole 106 rare clocks](https://www.smithsonianmag.com/history/the-time-thief-who-stole-106-rare-clocks-in-a-daring-heist-180981979/)
 
-[Use of antibiotics in farming ‘endangering human immune system’](https://www.theguardian.com/society/2023/apr/25/use-of-antibiotics-in-farming-endangering-human-immune-system)
+[Aptible (YC S14) is hiring a security engineer and a head of product]()
 
-[Web LLM](https://mlc.ai/web-llm/)
+[Fun with Kermit and ZMODEM over SSH](https://www.cambus.net/fun-with-kermit-and-zmodem-over-ssh/)
+
+[Use Gröbner bases to solve polynomial equations](https://jingnanshi.com/blog/groebner_basis.html)

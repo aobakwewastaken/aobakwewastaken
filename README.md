@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[The Palo Alto Research Center (PARC) Will Join SRI International](https://www.sri.com/press/press-release/the-palo-alto-research-center-parc-will-join-sri-international/)
+[Ways to shoot yourself in the foot with PostgreSQL](https://philbooth.me/blog/nine-ways-to-shoot-yourself-in-the-foot-with-postgresql)
 
-[The Effects of Noise on Health (2022)](https://hms.harvard.edu/magazine/viral-world/effects-noise-health)
+[LAION, a high school teacher’s free image database, powers AI unicorns](https://www.bloomberg.com/news/features/2023-04-24/a-high-school-teacher-s-free-image-database-powers-ai-unicorns)
+
+[Palo Alto Research Center (PARC) to join SRI International](https://www.sri.com/press/press-release/the-palo-alto-research-center-parc-will-join-sri-international/)
+
+[Apple wins antitrust court battle with Epic Games, appeals court rules](https://techcrunch.com/2023/04/24/apple-wins-antitrust-court-battle-with-epic-games-appeals-court-rules/)
+
+[Deming Paradox: Operationally rigorous companies aren't nice places to work](https://commoncog.com/deming-paradox-operational-rigour/)
 
 [Show HN: Homemade rocketship treehouse – hardware to custom OS](http://rocket.jonh.net)
 
-[Google Authenticator now supports Google Account synchronization](https://security.googleblog.com/2023/04/google-authenticator-now-supports.html)
+[Capturing the Flag with GPT4](https://micahflee.com/2023/04/capturing-the-flag-with-gpt-4/)
 
-[Technology of water in ancient Iran from prehistory to the Islamic Golden Age](https://www.nature.com/articles/s41599-023-01617-x)
+[GCC 13 and the State of Gccrs](https://rust-gcc.github.io/2023/04/24/gccrs-and-gcc13-release.html)
 
-[Fedora 38 LLVM vs. Team Fortress 2](https://airlied.blogspot.com/2023/04/fedora-38-llvm-vs-team-fortress-2-tf2.html)
+[A mutual aid auto shop in Alabama](https://lux-magazine.com/article/mutual-aid-cars-alabama/)
 
-[A WiFi color eInk picture frame](https://spritesmods.com/?art=wifipicframe&f=rss)
-
-[Lancey (YC S22) is hiring a senior full-stack engineer](https://www.ycombinator.com/companies/lancey/jobs/yxiFhkc-senior-software-engineer-full-stack)
-
-[Egypt builds worlds largest man-made river](https://www.constructionweekonline.com/business/egypt-builds-worlds-largest-114km-man-made-river)
-
-[Nostr (“Notes and Other Stuff Transmitted by Relays”) – An Introduction](https://wiki.wellorder.net/post/nostr-intro/)
+[Ox](https://sesquiotic.com/2023/04/20/ox/)

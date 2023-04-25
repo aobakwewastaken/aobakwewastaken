@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Street Photography of Japan's Aging Population](https://neocha.com/magazine/the-old/)
+[GUI development with Rust and GTK 4](https://gtk-rs.org/gtk4-rs/stable/latest/book/hello_world.html)
+
+[The dark forest and the cozy web (2020)](https://maggieappleton.com/cozy-web)
+
+[Bed Bath and Beyond Files for Bankruptcy](https://www.nytimes.com/2023/04/23/business/bed-bath-beyond-bankruptcy.html)
+
+[Eww: Programmable Widgets for Linux](https://github.com/elkowar/eww)
+
+[Smartphones with Qualcomm chip secretly send personal data to Qualcomm](https://www.nitrokey.com/news/2023/smartphones-popular-qualcomm-chip-secretly-share-private-information-us-chip-maker)
 
 [Ways to shoot yourself in the foot with PostgreSQL](https://philbooth.me/blog/nine-ways-to-shoot-yourself-in-the-foot-with-postgresql)
 
+[People who use Notion to plan their whole lives](https://www.technologyreview.com/2023/04/25/1072148/meet-the-people-using-notion-to-plan-their-whole-lives/)
+
+[Heavy particles don’t explain gravitational lensing oddities](https://arstechnica.com/science/2023/04/gravitational-lensing-may-point-to-lighter-dark-matter-candidate/)
+
 [Deep Neural Networks from Scratch in Zig](https://monadmonkey.com/dnns-from-scratch-in-zig)
 
-[No WIMPS Heavy particles don’t explain gravitational lensing oddities](https://arstechnica.com/science/2023/04/gravitational-lensing-may-point-to-lighter-dark-matter-candidate/)
-
-[The Nature of Code (Book)](https://natureofcode.com/)
-
-[Paperspace (YC W15) is hiring to scale a GPU cloud powering gen AI and LLMs](https://www.paperspace.com/careers)
-
-[LAION, a high school teacher’s free image database, powers AI unicorns](https://www.bloomberg.com/news/features/2023-04-24/a-high-school-teacher-s-free-image-database-powers-ai-unicorns)
-
-[Electricity from Space: The 1970s DOE/NASA Solar Power Satellite Studies](http://spaceflighthistory.blogspot.com/2016/12/energy-from-space-department-of.html)
-
-[Capturing the Flag with GPT4](https://micahflee.com/2023/04/capturing-the-flag-with-gpt-4/)
-
-[Palo Alto Research Center (PARC) to join SRI International](https://www.sri.com/press/press-release/the-palo-alto-research-center-parc-will-join-sri-international/)
+[The Nature of Code](https://natureofcode.com/)

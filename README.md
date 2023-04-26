@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Lessons by 3blue1brown](https://www.3blue1brown.com/)
+[Linen.dev: A 500 kb Slack alternative](https://www.linen.dev/s/linen/t/10511167/linen-dev-the-500kb-slack-alternative)
 
-[UK Blocks Microsoft’s $69B Activision Deal](https://www.bloomberg.com/news/articles/2023-04-26/microsoft-s-69-billion-activision-deal-blocked-by-uk-watchdog)
+[Long before trees overtook the land, Earth was covered by prototaxites (2013)](https://www.smithsonianmag.com/smart-news/long-before-trees-overtook-the-land-earth-was-covered-by-giant-mushrooms-13709647/)
 
-[Long before trees overtook the land, Earth was covered by giant mushrooms (2013)](https://www.smithsonianmag.com/smart-news/long-before-trees-overtook-the-land-earth-was-covered-by-giant-mushrooms-13709647/)
+[Why did Google Brain exist?](https://www.moderndescartes.com/essays/why_brain/)
 
-[Show HN: Learn German with Short Stories](https://webbu.app/german)
+[DeepDoctection](https://github.com/deepdoctection/deepdoctection)
 
-[Transformers from Scratch](https://e2eml.school/transformers.html)
+[Microsoft TableTransformer](https://github.com/microsoft/table-transformer)
 
-[Show HN: An interactive map showing live wind farm generation in Great Britain](https://renewables-map.robinhawkes.com)
+[Redump Milestone – 100k Discs](http://redump.org/)
 
-[Ruby's Switch Statement Is More Flexible Than You Thought](https://www.akshaykhot.com/ruby-switch-statement/)
+[HDR-NeRF: High Dynamic Range Neural Radiance Fields](https://xhuangcv.github.io/hdr-nerf/)
 
-[Last Highway Landing in USA](https://admiralcloudberg.medium.com/highway-to-ruin-the-crash-of-southern-airways-flight-242-7eb1433281fe)
+[Compound (YC S19) is hiring to build a modern wealth manager](https://withcompound.com/company/about)
 
-[Netflix Loses 1M Users in Spain over Password Policing](https://www.bloomberg.com/news/articles/2023-04-25/netflix-loses-1-million-users-in-spain-over-password-policing)
+[Transformers from Scratch (2021)](https://e2eml.school/transformers.html)
 
-[Tuql: Automatically create a GraphQL server from a SQLite database](https://github.com/bradleyboy/tuql)
+[Why is OAuth still hard in 2023?](https://www.nango.dev/blog/why-is-oauth-still-hard)

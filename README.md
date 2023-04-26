@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [Transformers from Scratch](https://e2eml.school/transformers.html)
 
-[Why do prime numbers make these spirals? (2019)](https://www.3blue1brown.com/lessons/prime-spirals)
+[UK Blocks Microsoft’s $69B Activision Deal](https://www.bloomberg.com/news/articles/2023-04-26/microsoft-s-69-billion-activision-deal-blocked-by-uk-watchdog)
 
-[The transition from logins to cryptographic passkeys is getting messy](https://www.wired.com/story/passwords-passkey-transition-time/)
+[We need female mice in neuroscience research](https://news.harvard.edu/gazette/story/2023/03/study-confirms-why-we-need-female-mice-in-neuroscience-research/)
+
+[Show HN: An interactive map showing live wind farm generation in Great Britain](https://renewables-map.robinhawkes.com)
+
+[Kalshi (YC W19) Is Hiring]()
+
+[Google cloud Europe is out](https://status.cloud.google.com/regional/europe)
 
 [Neutralinojs – Build lightweight cross-platform desktop apps with JavaScript](https://neutralino.js.org/docs/)
 
+[Why do prime numbers make these spirals? (2019)](https://www.3blue1brown.com/lessons/prime-spirals)
+
+[AI used photographer’s photos for training, then slapped him with an invoice](https://www.diyphotography.net/ai-used-photographers-photos-for-training-then-slapped-him-with-an-invoice/)
+
 [Your First LTE](https://open5gs.org/open5gs/docs/tutorial/01-your-first-lte/)
-
-[Double Descent in Human Learning](https://chris-said.io/2023/04/21/double-descent-in-human-learning/)
-
-[How to use Podman inside of a container (2021)](https://www.redhat.com/sysadmin/podman-inside-container)
-
-[The Early Days of Linux](https://lwn.net/Articles/928581/)
-
-[LTESniffer: An open-source LTE downlink/uplink eavesdropper [pdf]](https://syssec.kaist.ac.kr/pub/2023/wisec2023_tuan.pdf)
-
-[Show HN: Neat – Minimalist CSS Framework](https://neat.joeldare.com)

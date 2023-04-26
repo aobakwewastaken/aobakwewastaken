@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Transformers from Scratch](https://e2eml.school/transformers.html)
-
 [UK Blocks Microsoft’s $69B Activision Deal](https://www.bloomberg.com/news/articles/2023-04-26/microsoft-s-69-billion-activision-deal-blocked-by-uk-watchdog)
 
-[We need female mice in neuroscience research](https://news.harvard.edu/gazette/story/2023/03/study-confirms-why-we-need-female-mice-in-neuroscience-research/)
+[Long before trees overtook the land, Earth was covered by giant mushrooms (2013)](https://www.smithsonianmag.com/smart-news/long-before-trees-overtook-the-land-earth-was-covered-by-giant-mushrooms-13709647/)
+
+[Lessons by 3blue1brown](https://www.3blue1brown.com/)
 
 [Show HN: An interactive map showing live wind farm generation in Great Britain](https://renewables-map.robinhawkes.com)
 
-[Kalshi (YC W19) Is Hiring]()
+[Transformers from Scratch](https://e2eml.school/transformers.html)
 
-[Google cloud Europe is out](https://status.cloud.google.com/regional/europe)
+[Show HN: Learn German with Short Stories](https://webbu.app/german)
 
-[Neutralinojs – Build lightweight cross-platform desktop apps with JavaScript](https://neutralino.js.org/docs/)
+[Ruby's Switch Statement Is More Flexible Than You Thought](https://www.akshaykhot.com/ruby-switch-statement/)
 
-[Why do prime numbers make these spirals? (2019)](https://www.3blue1brown.com/lessons/prime-spirals)
+[A guide to prompting AI (for what it is worth)](https://www.oneusefulthing.org/p/a-guide-to-prompting-ai-for-what)
 
-[AI used photographer’s photos for training, then slapped him with an invoice](https://www.diyphotography.net/ai-used-photographers-photos-for-training-then-slapped-him-with-an-invoice/)
+[The Role of Diet on the Gut Microbiome, Mood and Happiness](https://pubmed.ncbi.nlm.nih.gov/36993403/)
 
-[Your First LTE](https://open5gs.org/open5gs/docs/tutorial/01-your-first-lte/)
+[Last Highway Landing in USA](https://admiralcloudberg.medium.com/highway-to-ruin-the-crash-of-southern-airways-flight-242-7eb1433281fe)

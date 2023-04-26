@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[LTESniffer: An Open-Source LTE Downlink/Uplink Eavesdropper [pdf]](https://syssec.kaist.ac.kr/pub/2023/wisec2023_tuan.pdf)
+[Brooklyn Public Library Offers Free ECards to Teens Nationwide Facing Book Bans](https://www.bklynlibrary.org/media/press/brooklyn-public-library-94)
 
-[What Rosalind Franklin contributed to the discovery of DNA’s structure](https://www.nature.com/articles/d41586-023-01313-5)
+[Why do prime numbers make these spirals? (2019)](https://www.3blue1brown.com/lessons/prime-spirals)
 
-[Smartphones with Qualcomm chip secretly send personal data to Qualcomm](https://www.nitrokey.com/news/2023/smartphones-popular-qualcomm-chip-secretly-share-private-information-us-chip-maker)
+[AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head](https://arxiv.org/abs/2304.12995)
 
-[Debugging a Mixed Python and C Language Stack](https://developer.nvidia.com/blog/debugging-mixed-python-and-c-language-stack/)
+[Welcome to a new, humbler private-equity industry](https://www.economist.com/finance-and-economics/2023/04/25/welcome-to-a-new-humbler-private-equity-industry)
 
-[A non-technical explanation of deep learning](https://www.parand.com/a-completely-non-technical-explanation-of-ai.html)
+[How to use Podman inside of a container (2021)](https://www.redhat.com/sysadmin/podman-inside-container)
 
-[NitroKey Disappoints Me](https://blog.brixit.nl/nitrokey-dissapoints-me/)
+[Your First LTE](https://open5gs.org/open5gs/docs/tutorial/01-your-first-lte/)
 
-[A thief who stole 106 rare clocks](https://www.smithsonianmag.com/history/the-time-thief-who-stole-106-rare-clocks-in-a-daring-heist-180981979/)
+[Double Descent in Human Learning](https://chris-said.io/2023/04/21/double-descent-in-human-learning/)
 
-[Aptible (YC S14) is hiring a security engineer and a head of product]()
+[Show HN: Neat – Minimalist CSS Framework](https://neat.joeldare.com)
 
-[Fun with Kermit and ZMODEM over SSH](https://www.cambus.net/fun-with-kermit-and-zmodem-over-ssh/)
+[LTESniffer: An open-source LTE downlink/uplink eavesdropper [pdf]](https://syssec.kaist.ac.kr/pub/2023/wisec2023_tuan.pdf)
 
-[Use Gröbner bases to solve polynomial equations](https://jingnanshi.com/blog/groebner_basis.html)
+[It doesn’t take much to make machine-learning algorithms go awry](https://www.economist.com/science-and-technology/2023/04/05/it-doesnt-take-much-to-make-machine-learning-algorithms-go-awry)

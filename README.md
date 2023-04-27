@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [Datomic is Free](https://blog.datomic.com/2023/04/datomic-is-free.html)
 
-[Pinecone raises $100M Series B](https://www.pinecone.io/learn/series-b/)
+[Brave Search removes last remnant of Bing from search results page](https://brave.com/search-independence/)
 
-[A visual book recommender](https://nathanrooy.github.io/posts/2023-04-12/visual-book-recommender/)
+[XTDB 2.x Early Access](https://www.xtdb.com/v2)
 
-[Dropbox to reduce global workforce by about 16%, or 500 staff](https://blog.dropbox.com/topics/company/a-message-from-drew)
+[The future of programming: Research at CHI 2023](https://austinhenley.com/blog/futureofprogramming2023.html)
 
-[Freud as Talmudist](https://jewishreviewofbooks.com/jewish-history/13912/freud-as-talmudist/)
+[New nanoparticles can perform gene editing in the lungs](https://news.mit.edu/2023/new-nanoparticles-can-perform-gene-editing-lungs-0330)
 
-[First up-close images of Mars’s little-known moon Deimos](https://www.nature.com/articles/d41586-023-01422-1)
+[Apple Releases App Store Monthly Active User Counts for EU to Comply with DSA](https://www.apple.com/legal/more-resources/dsa/mt/)
+
+[Hotspot performance engineering fails](https://lemire.me/blog/2023/04/27/hotspot-performance-engineering-fails/)
+
+[Firezone (YC W22) is hiring Rust systems engineers (SF / US remote)](https://www.ycombinator.com/companies/firezone/jobs/entppUR-senior-backend-systems-engineer)
 
 [Quicssh: SSH over QUIC](https://github.com/moul/quicssh)
 
-[Learn WebGPU](https://eliemichel.github.io/LearnWebGPU/)
-
-[New Intel Linux Graphics Driver Patches, Up to 10~15% Better Performance](https://www.phoronix.com/news/Intel-RPS-Threshold-Linux-Tune)
-
-[Google will add E2E encryption to Authenticator backups](https://www.bleepingcomputer.com/news/google/google-will-add-end-to-end-encryption-to-google-authenticator/)
+[ChatGPT for Hardware Design](https://docs.flux.ai/tutorials/ai-for-hardware-design)

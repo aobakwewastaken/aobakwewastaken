@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Automakers are starting to admit that drivers hate touchscreens](https://slate.com/business/2023/04/cars-buttons-touchscreens-vw-porsche-nissan-hyundai.html)
+[Datomic is Free](https://blog.datomic.com/2023/04/datomic-is-free.html)
+
+[A visual book recommender](https://nathanrooy.github.io/posts/2023-04-12/visual-book-recommender/)
+
+[Dropbox to reduce global workforce by about 16%, or 500 staff](https://blog.dropbox.com/topics/company/a-message-from-drew)
+
+[First up-close images of Mars’s little-known moon Deimos](https://www.nature.com/articles/d41586-023-01422-1)
+
+[Jerry Springer, legendary talk show host, dead at 79](https://www.wlwt.com/article/jerry-springer-dead/43721918)
+
+[Learn WebGPU](https://eliemichel.github.io/LearnWebGPU/)
 
 [Emerging Rust GUI libraries in a WASM world](https://monadical.com/posts/shades-of-rust-gui-library-list.html)
 
-[Dropbox telemetry can't be disabled](https://www.dropboxforum.com/t5/Integrations/Why-So-Much-Telemetry/td-p/455961/page/3)
+[The 2-Maxsat Problem Can Be Solved in Polynomial Time](https://arxiv.org/abs/2304.12517)
 
-[GNU Pascal (2005)](https://www.gnu-pascal.de/gpc/h-index.html)
+[Ask HN: How do you synthesize books that you read?]()
 
-[The unintentional dystopian beauty of oil rigs](https://twitter.com/FedeItaliano76/status/1650871570137600000)
-
-[OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/4045518006)
-
-[The Next Generation in Graphics, Part 1: Three Dimensions in Software](https://www.filfre.net/2023/04/the-next-generation-in-graphics-part-1-three-dimensions-in-software-or-quake-and-its-discontents/)
-
-[The Goddess Complex](https://theamericanscholar.org/the-goddess-complex/)
-
-[German researchers figure out how lager first developed in Bavaria](https://phys.org/news/2023-04-german-figure-lager-bavaria.html)
-
-[Linen.dev: A 500 kb Slack alternative](https://www.linen.dev/s/linen/t/10511167/linen-dev-the-500kb-slack-alternative)
+[Google will add E2E encryption to Authenticator backups](https://www.bleepingcomputer.com/news/google/google-will-add-end-to-end-encryption-to-google-authenticator/)

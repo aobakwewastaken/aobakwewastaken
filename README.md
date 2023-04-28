@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Datomic is Free](https://blog.datomic.com/2023/04/datomic-is-free.html)
+[Beautiful branchless binary search](https://probablydance.com/2023/04/27/beautiful-branchless-binary-search/)
 
-[Brave Search removes last remnant of Bing from search results page](https://brave.com/search-independence/)
+[Hidet: A Deep Learning Compiler for Efficient Model Serving](https://pytorch.org/blog/introducing-hidet/)
 
-[XTDB 2.x Early Access](https://www.xtdb.com/v2)
+[Grokking](https://www.domluna.com/grokking/)
 
-[The future of programming: Research at CHI 2023](https://austinhenley.com/blog/futureofprogramming2023.html)
+[Ask HN: Most interesting tech you built for just yourself?]()
 
-[New nanoparticles can perform gene editing in the lungs](https://news.mit.edu/2023/new-nanoparticles-can-perform-gene-editing-lungs-0330)
+[We're afraid language models aren't modeling ambiguity](https://arxiv.org/abs/2304.14399)
 
-[Apple Releases App Store Monthly Active User Counts for EU to Comply with DSA](https://www.apple.com/legal/more-resources/dsa/mt/)
+[Show HN: ScrapScript – A tiny functional language for sharable software](https://scrapscript.org)
 
-[Hotspot performance engineering fails](https://lemire.me/blog/2023/04/27/hotspot-performance-engineering-fails/)
+[Every web search result in Brave Search is now served by our own index](https://brave.com/search-independence/)
 
-[Firezone (YC W22) is hiring Rust systems engineers (SF / US remote)](https://www.ycombinator.com/companies/firezone/jobs/entppUR-senior-backend-systems-engineer)
+[Science is a strong-link problem](https://www.experimental-history.com/p/science-is-a-strong-link-problem)
 
-[Quicssh: SSH over QUIC](https://github.com/moul/quicssh)
+[The classic “homunculus” has gone through a radical revision](https://www.scientificamerican.com/article/how-our-team-overturned-the-90-year-old-metaphor-of-a-little-man-in-the-brain-who-controls-movement1/)
 
-[ChatGPT for Hardware Design](https://docs.flux.ai/tutorials/ai-for-hardware-design)
+[Even Apple employees hate Siri and are skeptical of its future, new report says](https://9to5mac.com/2023/04/27/apple-employees-siri-struggles/)

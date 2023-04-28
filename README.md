@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Driver Adventures for a 1999 Webcam](https://blog.benjojo.co.uk/post/quickcam-usb-userspace-driver)
+[Driver adventures for a 1999 webcam](https://blog.benjojo.co.uk/post/quickcam-usb-userspace-driver)
 
-[Beautiful branchless binary search](https://probablydance.com/2023/04/27/beautiful-branchless-binary-search/)
+[Tuple Space](http://wiki.c2.com/?TupleSpace)
+
+[I can't recommend serious use of an all-in-one local Grafana Loki setup](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/GrafanaLokiSimpleNotRecommended)
+
+[Tech companies are colluding to cheat H1B visa lottery, US says](https://www.wsj.com/articles/u-s-says-some-companies-cheat-h-1b-lottery-driving-record-applications-1a3e4fd)
+
+[Morse, an open-source interactive tool for inspecting Clojure](https://clojure.org/news/2023/04/28/introducing-morse)
+
+[GameBox is a programmable, turn-based, WebAssembly game platform](https://extism.org/blog/extending-fly-io-distributed-game-system-part-3/)
 
 [Ask HN: Most interesting tech you built for just yourself?]()
 
-[Europe’s Longest Bicycling Tunnel Opens in Norway](https://reasonstobecheerful.world/europes-longest-bicycling-tunnel-opens-in-norway/)
+[The Italian farmers saving an ancient fruit with solar power](https://www.bbc.com/future/article/20230424-how-agrivoltaics-helped-save-italys-citron-and-lemon-trees)
 
-[Show HN: ScrapScript – A tiny functional language for sharable software](https://scrapscript.org)
+[Beautiful branchless binary search](https://probablydance.com/2023/04/27/beautiful-branchless-binary-search/)
 
-[SiPhox (YC S20) Is Hiring a Lead Microfluidics Engineer](https://www.ycombinator.com/companies/siphox/jobs/HvfcZF9-lead-microfluidics-engineer)
-
-[We're afraid language models aren't modeling ambiguity](https://arxiv.org/abs/2304.14399)
-
-[The Struggle to Make Lab-Grown Meat](https://www.wsj.com/articles/inside-the-struggle-to-make-lab-grown-meat-12cf46ab)
-
-[Microsoft is to enable Rust use for Windows 11 kernel](https://www.neowin.net/news/senior-microsoft-exec-says-windows-11-kernel-will-soon-be-booting-with-rust-inside/)
-
-[Hidet: A Deep Learning Compiler for Efficient Model Serving](https://pytorch.org/blog/introducing-hidet/)
+[Gpt4free repo given takedown notice by OpenAI](https://github.com/xtekky/gpt4free)

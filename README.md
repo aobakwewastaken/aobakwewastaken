@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Moon mission failure: why is it so hard to pull off a lunar landing?](https://www.nature.com/articles/d41586-023-01454-7)
+[Termux is an Android terminal emulator and Linux environment app](https://termux.dev/en/)
 
 [Scrcpy: Display and control your Android devices connected over USB or TCP/IP](https://github.com/Genymobile/scrcpy)
 
-[Live Starlink Satellite and Coverage Map](https://satellitemap.space/)
+[Dethrace: Reverse engineering the 1997 game Carmageddon](https://github.com/dethrace-labs/dethrace)
+
+[Learn C and build your own Lisp (2014)](https://buildyourownlisp.com/contents)
+
+[We aren't close to creating a rapidly self-improving AI](https://jacobbuckman.substack.com/p/we-arent-close-to-creating-a-rapidly)
 
 [Internet in a Box](https://internet-in-a-box.org/)
 
-[Contents • Build Your Own Lisp](https://buildyourownlisp.com/contents)
+[Live Starlink Satellite and Coverage Map](https://satellitemap.space/)
 
-[Academic Ranks Explained or What on Earth Is an Adjunct?](https://acoup.blog/2023/04/28/collections-academic-ranks-explained-or-what-on-earth-is-an-adjunct/)
+[Study: ChatGPT Outperforms Physicians in Quality, Empathetic Answers to Patients](https://today.ucsd.edu/story/study-finds-chatgpt-outperforms-physicians-in-high-quality-empathetic-answers-to-patient-questions)
 
-[A detailed comparison of REST and gRPC](https://kreya.app/blog/rest-vs-grpc/)
+[An Ominous Heating Event Is Unfolding in the Oceans](https://www.wired.com/story/an-ominous-heating-event-is-unfolding-in-the-oceans/)
 
-[Dell Latitude 5411: the Linux compatibility sweet spot](https://ounapuu.ee/posts/2023/04/28/dell-latitude-5411/)
-
-[JanOS: Turn your phone into an IoT board (2015)](http://janos.io/)
-
-[The future of generative AI is niche, not generalized](https://www.technologyreview.com/2023/04/27/1072102/the-future-of-generative-ai-is-niche-not-generalized/)
+[Infinitely Nested Window Management](https://amadeuspagel.com/p/infinitely-nested-window-management)

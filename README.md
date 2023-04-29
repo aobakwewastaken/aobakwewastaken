@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[What's up in the Python community? – April 2023](https://bitecode.substack.com/p/whats-up-in-the-python-community)
+[Scrcpy: Display and control your Android devices connected over USB or TCP/IP](https://github.com/Genymobile/scrcpy)
 
-[How to Subvert a Democracy, Stage 2: Condition the Masses](https://narratively.com/how-to-subvert-a-democracy-stage-2-condition-the-masses/)
+[Deno 1.33: Deno 2 is coming](https://deno.com/blog/v1.33)
 
-[There’s more than one way to write an IP address (2019)](https://ma.ttias.be/theres-more-than-one-way-to-write-an-ip-address/)
+[Live Starlink Satellite and Coverage Map](https://satellitemap.space/)
 
-[The Canoe Commuters of the CIA](https://www.mensjournal.com/adventure/declassified-cias-canoe-pool)
+[How to set your domain as your handle](https://blueskyweb.xyz/blog/4-28-2023-domain-handle-tutorial)
 
-[Driver adventures for a 1999 webcam](https://blog.benjojo.co.uk/post/quickcam-usb-userspace-driver)
+[Internet in a Box](https://internet-in-a-box.org/)
 
-[Show HN: I made a retro game archive for Polish games](https://polishpixels.com)
+[Academic Ranks Explained or What on Earth Is an Adjunct?](https://acoup.blog/2023/04/28/collections-academic-ranks-explained-or-what-on-earth-is-an-adjunct/)
 
-[Plan 9 from User Space](https://9fans.github.io/plan9port/)
+[JanOS: Turn your phone into an IoT board (2015)](http://janos.io/)
 
-[Svix (YC W21) Is Hiring Rust Back End Engineers (US Remote)](https://www.svix.com/careers/)
+[Why Oatmeal Is Cheap: Kolmogorov Complexity and Procedural Generation [pdf]](https://knivesandpaintbrushes.org/projects/why-oatmeal-is-cheap/why_oatmeal_is_cheap_fdg2023.pdf)
 
-[Many public Salesforce sites are leaking private data](https://krebsonsecurity.com/2023/04/many-public-salesforce-sites-are-leaking-private-data/)
+[Junk drawer phone as a music streaming server](https://davidhampgonsalves.com/junk-drawer-phone-as-a-music-streaming-server/)
 
-[Ask HN: Most interesting tech you built for just yourself?]()
+[Half of vinyl buyers in the U.S. don’t have a record player: study](https://consequence.net/2023/04/half-vinyl-buyers-record-player-study/)

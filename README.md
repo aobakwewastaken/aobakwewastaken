@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Whistleblowers are the conscience of society, yet suffer gravely](https://covertactionmagazine.com/2023/04/25/whistleblowers-are-the-conscience-of-society-yet-suffer-gravely-for-trying-to-hold-the-rich-and-powerful-accountable-for-their-sins/)
+
+[Fide World Chess Championship Decided in Rapid Tiebreaks](https://chess24.com/en/watch/live-tournaments/nepo-ding-world-chess-championship-2023/2/1/4)
+
+[Show HN: Frogmouth – A Markdown browser for your terminal](https://github.com/Textualize/frogmouth)
+
+[Orbital Mechanics](http://www.braeunig.us/space/orbmech.htm)
+
+[Do Papercuts Matter?](https://registerspill.thorstenball.com/p/do-papercuts-matter)
+
 [Microsoft quietly supported legislation to make it easier to fix devices](https://grist.org/technology/microsoft-right-to-repair-quietly-supported-legislation-to-make-it-easier-to-fix-devices-heres-why-thats-a-big-deal/)
 
-[Rate The Landlord: Anonymously share information with tenants like you](https://ratethelandlord.org)
-
-[ESA – Space Debris by the Numbers](https://www.esa.int/Space_Safety/Space_Debris/Space_debris_by_the_numbers)
+[Epstein's Private Calendar Reveals Prominent Names, Including CIA Chief](https://www.wsj.com/articles/jeffrey-epstein-calendar-cia-director-goldman-sachs-noam-chomsky-c9f6a3ff)
 
 [Just Simply – Stop saying how simple things are in our docs](https://justsimply.dev/)
 
-[My favorite C compiler flags during development](https://nullprogram.com/blog/2023/04/29/)
+[Why Are Lithium Prices Collapsing?](https://internationalbanker.com/brokerage/why-are-lithium-prices-collapsing/)
 
-[Nix-on-droid: Nix-enabled environment for your Android device (termux-based)](https://github.com/t184256/nix-on-droid)
-
-[X Window System Administrator's Guide: For X Version 11](https://archive.org/details/xwindowsystemadm08muimiss)
-
-[Fibonacci Hashing: An optimization that the world forgot (2018)](https://probablydance.com/2018/06/16/fibonacci-hashing-the-optimization-that-the-world-forgot-or-a-better-alternative-to-integer-modulo/)
-
-[Heroes of Hardware Revolution: Bob Widlar (2014)](https://hackaday.com/2014/04/08/heroes-of-hardware-revolution-bob-widlar/)
-
-[Everything Is Interpolated: Music’s Nostalgia-Industrial Complex](https://pitchfork.com/features/overtones/everything-is-interpolated-inside-musics-nostalgia-industrial-complex/)
+[Rate The Landlord: Anonymously share information with tenants like you](https://ratethelandlord.org)

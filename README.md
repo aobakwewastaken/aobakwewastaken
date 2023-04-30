@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Sensenmann: Code Deletion at Scale](https://testing.googleblog.com/2023/04/sensenmann-code-deletion-at-scale.html)
+[Microsoft quietly supported legislation to make it easier to fix devices](https://grist.org/technology/microsoft-right-to-repair-quietly-supported-legislation-to-make-it-easier-to-fix-devices-heres-why-thats-a-big-deal/)
 
-[Children aged 2-6 successfully trained to acquire absolute pitch (2012)](https://journals.sagepub.com/doi/abs/10.1177/0305735612463948)
+[Rate The Landlord: Anonymously share information with tenants like you](https://ratethelandlord.org)
+
+[My favorite C compiler flags during development](https://nullprogram.com/blog/2023/04/29/)
+
+[Why Are Lithium Prices Collapsing?](https://internationalbanker.com/brokerage/why-are-lithium-prices-collapsing/)
 
 [Get The TLDR Of Any YouTube Video](https://www.you-tldr.com/)
 
-[The lifesaving sled dog Balto had genes unlike those of dog breeds today](https://www.scientificamerican.com/article/the-life-saving-sled-dog-balto-had-genes-unlike-dog-breeds-today/)
+[Nix-on-droid: Nix-enabled environment for your Android device (termux-based)](https://github.com/t184256/nix-on-droid)
 
-[Remove “This incident will be reported.” from user warnings](https://github.com/sudo-project/sudo/commit/6aa320c96a37613663e8de4c275bd6c490466b01)
+[Sensenmann: Code Deletion at Scale](https://testing.googleblog.com/2023/04/sensenmann-code-deletion-at-scale.html)
+
+[X Window System Administrator's Guide: For X Version 11](https://archive.org/details/xwindowsystemadm08muimiss)
+
+[Waterloo Style](https://theprogrammersparadox.blogspot.com/2023/04/waterloo-style.html)
 
 [A brief history of LLaMA models](https://agi-sphere.com/llama-models/)
-
-[Listening to Satellites: A Journey with My RTL-SDR V3](https://moh53n.medium.com/listening-to-satellites-a-journey-with-my-rtl-sdr-v3-5ba719bc68a5)
-
-[Termux is an Android terminal emulator and Linux environment app](https://termux.dev/en/)
-
-[My product is my garden (2020)](https://herman.bearblog.dev/my-product-is-my-garden/)
-
-[WebAssembly+WebUSB port of the SANE scanner library](https://github.com/goncalomb/sane-wasm)

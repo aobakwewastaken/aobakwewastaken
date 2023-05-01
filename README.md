@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Krita: A professional free and open source painting program](https://krita.org/en/)
+[A bacterial culprit for rheumatoid arthritis?](https://www.the-scientist.com/news-opinion/a-bacterial-culprit-for-rheumatoid-arthritis-71088)
+
+[Yurt Calculator](https://simplydifferently.org/Yurt_Notes?page=1#Yurt%20Calculator)
 
 [Ask HN: Who is hiring? (May 2023)]()
 
-[First clean water, now clean air](https://finmoorhouse.com/writing/clean-air/)
+[You and Your Research (1986)](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
+
+[State agrees the only witness cannot be believed, court to force execution](https://www.lawdork.com/p/oklahoma-glossip-florida-nonunanimous-juries#%C2%A7oklahomas-top-criminal-court-ignores-republican-ag-in-glossip-case)
+
+[Geoffrey Hinton leaves Google and warns of danger ahead](https://www.nytimes.com/2023/05/01/technology/ai-google-chatbot-engineer-quits-hinton.html)
 
 [Satellite data reveal nearly 20k previously unknown deep-sea mountains](https://www.sciencenews.org/article/satellite-data-unknown-oceans-sea-mountains)
 
-[Help make mass surveillance of entire populations uneconomical](https://prism-break.org/en/)
+[BuildZoom (better way to build custom homes) is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 
-[Heathkit](https://shop.heathkit.com/shop)
+[Chatbots are not the future](https://wattenberger.com/thoughts/boo-chatbots)
 
-[The Ins and Outs of Image Use and Copyright on Midjourney](https://www.attorneyhelp.org/guide/midjourney-image-use-copyright-guide-2220.shtml)
-
-[Significant Breakthrough in Search for Parkinson's Biomarker](https://www.michaeljfox.org/publication/michael-j-fox-foundation-announces-significant-breakthrough-search-parkinsons-biomarker)
-
-[Enabling IPv6 support for IPv4 only apps on Linux](https://pavel.network/enabling-ipv6-support-for-ipv4-only-apps-on-linux/)
-
-[“The Dead Silence of Goods”: Annie Ernaux and the Superstore](https://www.theparisreview.org/blog/2023/05/01/the-dead-silence-of-goods-annie-ernaux-and-the-superstore/)
+[The kremvax hoax (1984)](https://godfatherof.nl/kremvax.html)

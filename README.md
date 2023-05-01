@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Indian government bans 14 messenger apps including Element, Briar and Threema](https://news.abplive.com/technology/india-ban-messaging-messenger-apps-mobile-pakistan-terrorism-connection-crypviser-enigma-safeswiss-bchat-1599074)
+
 [Minetest: An open source voxel game engine](https://www.minetest.net/)
+
+[The Little Book of Deep Learning [pdf]](https://fleuret.org/public/lbdl.pdf)
+
+[Engineers develop water filtration that removes “forever chemicals”](https://news.ubc.ca/2023/03/22/new-ubc-water-treatment-zaps-forever-chemicals-for-good/)
+
+[Design a keyboard with Ergogen v4](https://flatfootfox.com/ergogen-introduction/)
 
 [Pure Sh Bible](https://github.com/dylanaraps/pure-sh-bible)
 
+[A broken man's homemade, seaworthy ship rests in the Canadian prairie (2015)](https://www.atlasobscura.com/places/tom-sukanens-prairie-ship)
+
+[The web’s most important decision](https://thehistoryoftheweb.com/postscript/the-webs-most-important-decision/)
+
 [40 Years of Koyaanisqatsi](https://www.thecurb.com.au/40-years-of-koyaanisqatsi/)
 
-[Advanced Amiga Architecture (June 18, 1992)](https://archive.org/details/advanced-amiga-architecture)
-
-[Show HN: EVA – AI-Relational Database System](https://github.com/georgia-tech-db/eva)
-
-[Whistleblowers are the conscience of society, yet suffer gravely](https://covertactionmagazine.com/2023/04/25/whistleblowers-are-the-conscience-of-society-yet-suffer-gravely-for-trying-to-hold-the-rich-and-powerful-accountable-for-their-sins/)
-
-[Rebuilding a featured news section with modern CSS: Vox news](https://ishadeed.com/article/rebuild-featured-news-modern-css/)
-
-[Show HN: Frogmouth – A Markdown browser for the terminal](https://github.com/Textualize/frogmouth)
-
-[AI / ML / LLM / Transformer Models Timeline](https://ai.v-gar.de/ml/transformer/timeline/)
-
-[Orbital Mechanics](http://www.braeunig.us/space/orbmech.htm)
+[Xerox Star 8010 Interfaces, high quality polaroids (1981)](https://www.digibarn.com/collections/screenshots/xerox-star-8010/index.html)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
+
+[SIMD with Zig](https://www.openmymind.net/SIMD-With-Zig/)
+
+[Show HN: I've built a spectrogram analyzer web app](https://webfft.net/dft/)
+
 [A bacterial culprit for rheumatoid arthritis?](https://www.the-scientist.com/news-opinion/a-bacterial-culprit-for-rheumatoid-arthritis-71088)
 
+[“A Great Ox Stands on My Tongue”: The Pitfalls of Latin Translation](https://antigonejournal.com/2021/06/pitfalls-latin-translation/)
+
+[Laser scanning microscope from DVD pickup heads (2020)](https://www.gaudi.ch/GaudiLabs/?page_id=652)
+
+[The Mayan calendar might represent a longer timescale than previously considered](https://phys.org/news/2023-04-anthropologist-pair-mystery-mayan-day.html)
+
+[Grasshopper – An open-source Python library for load testing](https://innovation.alteryx.com/introducing-grasshopper-an-open-source-python-library-for-load-testing/)
+
+[Writing an RPC from Scratch (2021)](https://alexanderell.is/posts/rpc-from-scratch/)
+
 [Yurt Calculator](https://simplydifferently.org/Yurt_Notes?page=1#Yurt%20Calculator)
-
-[Ask HN: Who is hiring? (May 2023)]()
-
-[You and Your Research (1986)](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
-
-[State agrees the only witness cannot be believed, court to force execution](https://www.lawdork.com/p/oklahoma-glossip-florida-nonunanimous-juries#%C2%A7oklahomas-top-criminal-court-ignores-republican-ag-in-glossip-case)
-
-[Geoffrey Hinton leaves Google and warns of danger ahead](https://www.nytimes.com/2023/05/01/technology/ai-google-chatbot-engineer-quits-hinton.html)
-
-[Satellite data reveal nearly 20k previously unknown deep-sea mountains](https://www.sciencenews.org/article/satellite-data-unknown-oceans-sea-mountains)
-
-[BuildZoom (better way to build custom homes) is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-
-[Chatbots are not the future](https://wattenberger.com/thoughts/boo-chatbots)
-
-[The kremvax hoax (1984)](https://godfatherof.nl/kremvax.html)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[faulTPM: Exposing AMD fTPMs' Deepest Secrets](https://arxiv.org/abs/2304.14717)
+[Investigating Linux phantom disk reads](https://questdb.io/blog/investigating-linux-phantom-disk-reads/)
 
-[Anonymous Tor Phone](https://0ut3r.space/2023/05/02/anonymous-tor-phone/)
+[Eye Candy](https://eycndy.com)
 
-[Adult-use cannabis delivers $15B in tax revenues](https://www.greenmarketreport.com/adult-use-cannabis-has-delivered-15-billion-in-tax-revenues/)
+[Jsonformer: Generate structured output from LLMs](https://github.com/1rgs/jsonformer)
+
+[Building a Compiler with Multi-Level Intermediate Representation (MLIR) (2020) [pdf]](https://llvm.org/devmtg/2020-09/slides/MLIR_Tutorial.pdf)
+
+[Fakespot Is Acquired by Mozilla](https://www.fakespot.com/post/fakespot-acquired-by-mozilla)
+
+[IBM AS/400: Databases all the way down [video] (2019)](https://www.youtube.com/watch?v=CDSgJE5mPJM)
 
 [Is infinity an odd or even number? (2011)](https://math.stackexchange.com/questions/49034/is-infinity-an-odd-or-even-number)
 
-[Film studios lose bid to unmask Reddit users who wrote comments on piracy](https://arstechnica.com/tech-policy/2023/05/judge-wont-force-reddit-to-identify-anonymous-users-who-discussed-piracy/)
+[Gears (2020)](https://ciechanow.ski/gears/)
 
-[Red Canary Mac Monitor](https://redcanary.com/blog/mac-monitor/)
+[Unlocking North Korean songs on a karaoke machine](https://www.northkoreatech.org/2020/06/02/unlocking-north-korean-songs-on-a-karaoke-machine/)
 
-[Microsoft Broke a Chrome Feature to Promote Its Edge Browser](https://gizmodo.com/microsoft-windows-google-chrome-feature-broken-edge-1850392901)
-
-[Google Cloud Storage FUSE](https://cloud.google.com/storage/docs/gcs-fuse)
-
-[Samsung bans use of A.I. like ChatGPT for employees after misuse of the chatbot](https://www.cnbc.com/2023/05/02/samsung-bans-use-of-ai-like-chatgpt-for-staff-after-misuse-of-chatbot.html)
-
-[Show HN: Currl – A free text-based social bookmarking website](https://currl.io/)
+[NYPD urges citizens to buy AirTags to fight surge in car thefts](https://arstechnica.com/gadgets/2023/05/nypd-urges-citizens-to-buy-airtags-to-fight-surge-in-car-thefts/)

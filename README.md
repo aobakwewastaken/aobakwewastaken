@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Investigating Linux phantom disk reads](https://questdb.io/blog/investigating-linux-phantom-disk-reads/)
+[Bank Failures Visualized](https://observablehq.com/@mbostock/bank-failures)
+
+[Framework Laptop Cupholder Expansion Card](https://www.printables.com/model/467332-framework-laptop-cupholder-expansion-card)
 
 [Eye Candy](https://eycndy.com)
 
-[Jsonformer: Generate structured output from LLMs](https://github.com/1rgs/jsonformer)
+[Investigating Linux phantom disk reads](https://questdb.io/blog/investigating-linux-phantom-disk-reads/)
 
-[Building a Compiler with Multi-Level Intermediate Representation (MLIR) (2020) [pdf]](https://llvm.org/devmtg/2020-09/slides/MLIR_Tutorial.pdf)
+[Feynman’s Maze-Running Story](https://gwern.net/maze)
 
-[Fakespot Is Acquired by Mozilla](https://www.fakespot.com/post/fakespot-acquired-by-mozilla)
+[News Minimalist – Only significant news](https://www.newsminimalist.com/)
 
-[IBM AS/400: Databases all the way down [video] (2019)](https://www.youtube.com/watch?v=CDSgJE5mPJM)
+[OKTO35 3D-Printed Analog Film Movie Camera](https://blazsemprimoznik.com/okto35/)
 
-[Is infinity an odd or even number? (2011)](https://math.stackexchange.com/questions/49034/is-infinity-an-odd-or-even-number)
+[Learning Some Logarithms](https://two-wrongs.com/learning-some-logarithms.html)
 
-[Gears (2020)](https://ciechanow.ski/gears/)
+[What Is Type-Level Programming?](https://blog.sulami.xyz/posts/type-level-programming/)
 
 [Unlocking North Korean songs on a karaoke machine](https://www.northkoreatech.org/2020/06/02/unlocking-north-korean-songs-on-a-karaoke-machine/)
-
-[NYPD urges citizens to buy AirTags to fight surge in car thefts](https://arstechnica.com/gadgets/2023/05/nypd-urges-citizens-to-buy-airtags-to-fight-surge-in-car-thefts/)

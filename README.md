@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[The “baseline” scene in bladerunner 2049 was written by Ryan Gosling](https://cohost.org/mcc/post/178201-the-baseline-scene)
+[Companies use dark patterns to keep you subscribed](https://pudding.cool/2023/05/dark-patterns/)
 
-[New C features in GCC 13](https://developers.redhat.com/articles/2023/05/04/new-c-features-gcc-13)
+[Prediction and Entropy of Printed English – Claude Shannon (1950) [pdf]](https://www.princeton.edu/~wbialek/rome/refs/shannon_51.pdf)
 
-[Agile soccer skills for a bipedal robot with deep reinforcement learning](https://twitter.com/haarnoja/status/1651577815836270596)
+[Hue Light Hack](https://www.atomic14.com/2023/05/04/hue-light-hacking.html)
+
+[The seven programming ur-languages (2021)](https://madhadron.com/programming/seven_ur_languages.html)
+
+[The Untold Story of the Boldest Supply-Chain Hack Ever](https://www.wired.com/story/the-untold-story-of-solarwinds-the-boldest-supply-chain-hack-ever/)
+
+[OpenAI Personal Data Removal Request Form](https://share.hsforms.com/1UPy6xqxZSEqTrGDh4ywo_g4sk30)
+
+[Europeans drain billions from banks, fed up with shrinking savings](https://www.reuters.com/business/finance/fed-up-with-shrinking-savings-europeans-drain-billions-banks-2023-05-04/)
+
+[New Yorkers Want to Stop Landlords from Using Facial Recognition](https://gizmodo.com/nyc-msg-facial-recognition-landlords-ban-law-hearing-1850401997)
+
+[Why Split Lexing and Parsing into Two Separate Phases?](https://tratt.net/laurie/blog/2023/why_split_lexing_and_parsing_into_two_separate_phases.html)
 
 [The money spent on lotteries doesn’t go to the park](https://outdoorstatus.com/articles/recreation-gov-lottery-fees/)
-
-[What do historians lose with the decline of local news?](https://www.historytoday.com/archive/head-head/what-do-historians-lose-decline-local-news)
-
-[Ryujinx: Experimental Nintendo Switch Emulator written in C#](https://github.com/Ryujinx/Ryujinx)
-
-[Lotus 1-2-3 for Linux](https://github.com/taviso/123elf)
-
-[How Quickwit Rust Actor Framework tackles the challenges of efficient indexing](https://quickwit.io/blog/quickwit-actor-framework/)
-
-[Gitlab and Google Cloud Partner to Expand AI-Assisted Capabilities](https://www.googlecloudpresscorner.com/2023-05-02-GitLab-and-Google-Cloud-Partner-to-Expand-AI-Assisted-Capabilities-with-Customizable-Gen-AI-Foundation-Models)
-
-[Renting Horsepower](https://www.cnn.com/2023/04/27/business/mercedes-horsepower-upgrade/index.html)

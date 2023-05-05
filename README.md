@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Unlimiformer: Long-Range Transformers with Unlimited Length Input](https://arxiv.org/abs/2305.01625)
+
+[There's a mansion hidden directly under the Bay Bridge](https://www.sfgate.com/obscuresf/article/nimitz-mansion-hidden-under-bay-bridge-17999245.php)
+
+[A Linux kernel without struct buffer_head](https://lwn.net/SubscriberLink/930173/c1a1f68dc4e20191/)
+
 [Build your own private WireGuard VPN with PiVPN](https://www.jeffgeerling.com/blog/2023/build-your-own-private-wireguard-vpn-pivpn)
+
+[Who regulates the regulators? We need to go beyond review-and-approval](https://rootsofprogress.org/against-review-and-approval)
+
+[A few words on Ruby's type annotations state](https://zverok.space/blog/2023-05-05-ruby-types.html)
+
+[Death of the Twin Gynaecologists: A patient's notes](https://www.vulture.com/article/twin-gynecologists-stewart-marcus-cyril-marcus-dead-ringers-inspiration.html)
 
 [Htmx Is the Future](https://quii.dev/HTMX_is_the_Future)
 
-[What is a Vector Database?](https://www.pinecone.io/learn/vector-database/)
+[Bun (YC S19) Is Hiring C/C++/Zig engineers to build a JavaScript cloud](https://oven.rippling-ats.com/job/535740/runtime-engineer-zig-or-c-c)
 
-[Ask not what the compiler can do for you](https://github.com/juspay/hyperswitch/wiki/Ask-not-what-the-compiler-can-do-for-you)
-
-[Show HN: A search engine for your personal network of high-quality websites](https://usegrasp.com)
-
-[Journalist writes about discovering she’d been surveilled by TikTok](https://arstechnica.com/tech-policy/2023/05/tiktok-spied-on-me-why/)
-
-[Paradigms of A.I. Programming: Case Studies in Common Lisp (1991)](https://norvig.github.io/paip-lisp/#/)
-
-[U.S. Hits Z-Library with New Domain Name Seizures](https://torrentfreak.com/u-s-hits-z-library-with-new-domain-name-seizures-230505/)
-
-[Google engineer jumps to death in NYC, second worker suicide in months](https://nypost.com/2023/05/05/google-senior-software-engineer-31-jumps-to-death-from-nyc-headquarters/)
-
-[Squad Solar City Car](https://www.squadmobility.com/)
+[Farewell to the Era of Cheap EC2 Spot Instances](https://pauley.me/post/2023/spot-price-trends/)

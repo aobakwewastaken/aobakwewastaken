@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Heisting $20M of Magic: The Gathering Cards in a Single Request](https://www.mayer.cool/writings/Heisting-20-Million-in-Magic-Cards/)
+
+[Finland Virtually Ended Homelessness–and We Can Too](https://www.thestar.com/opinion/contributors/2023/04/20/how-finland-managed-to-virtually-end-homelessness.html)
+
+[Show HN: GPT-JSON – Structured and typehinted GPT responses in Python](https://github.com/piercefreeman/gpt-json)
+
+[Writing a SQLite Clone from Scratch in C](https://cstack.github.io/db_tutorial/)
+
+[Westinghouse AP300 Small Module Reactor](https://www.westinghousenuclear.com/energy-systems/ap300-smr)
+
+[Memfault (YC W19) Is Hiring Their First Product Designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
+
 [America’s first high-volume ‘PFAS Annihilator’ is up and running in W. Michigan](https://www.woodtv.com/news/kent-county/americas-first-high-volume-pfas-annihilator-is-up-and-running-in-west-michigan/)
 
-[So this guy is now S3. All of S3](https://chaos.social/@jonty/110307532009155432)
+[I found the best anagram in English (2017)](https://blog.plover.com/lang/anagram-scoring.html)
 
-[Google “We have no moat, and neither does OpenAI”](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
+[Taking Back the Cannonball Run Record (2022)](https://www.arnesantics.com/taking-back-the-cannonball-run-record/)
 
-[Pynecone – Performant, customizable web apps in pure Python](https://pynecone.io/)
-
-[Roll your own JavaScript runtime, pt. 3](https://deno.com/blog/roll-your-own-javascript-runtime-pt3)
-
-[A Little Calculus](https://papl.cs.brown.edu/2018/func-as-data.html#%28part._.A_.Little_.Calculus%29)
-
-[JEP 450: Compact Object Headers](https://openjdk.org/jeps/450)
-
-[Vim Keybindings Everywhere – The Ultimate List](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list)
-
-[Googlers angry about CEO’s $226M pay after cuts in perks and 12,000 layoffs](https://arstechnica.com/tech-policy/2023/05/googlers-angry-about-ceos-226m-pay-after-cuts-in-perks-and-12000-layoffs/)
-
-[The First Image from EUMETSAT’s Newest Satellite](https://www.eumetsat.int/features/discover-first-images-mtg-i1)
+[How to Survive Your Project's First 100k Lines](https://verdagon.dev/blog/first-100k-lines)

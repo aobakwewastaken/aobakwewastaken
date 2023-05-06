@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Ocean-surface temperatures are breaking records](https://www.economist.com/graphic-detail/2023/05/05/ocean-surface-temperatures-are-breaking-records)
+[I downloaded all 1,680,399 posts on Bluesky](https://worthdoingbadly.com/bsky/)
 
-[Click Click Click](https://clickclickclick.click/)
+[Intel OEM Private Key Leak: A Blow to UEFI Secure Boot Security](https://securityonline.info/intel-oem-private-key-leak-a-blow-to-uefi-secure-boot-security/)
+
+[Progress on running Haiku OS on VisionFive 2 RISC-V dev board](https://discuss.haiku-os.org/t/progress-on-running-haiku-on-visionfive-2/13369?page=2)
+
+[ACM Software System Award Given to seL4 Microkernel](https://awards.acm.org/software-system)
+
+[Language Learning with Netflix](https://languagelearningwithnetflix.com/)
+
+[Give It the Craigslist Test](https://ericaheinz.com/notes/give-it-the-craigslist-test/)
+
+[Motorola’s 1990s Corvette EV Project](https://www.thedrive.com/features/the-untold-story-of-motorolas-secret-1990s-corvette-ev-project-who-killed-the-electric-corvette)
+
+[Sony Playstation 2 Development Kit](https://www.retroreversing.com/playstation-2-development-hardware)
+
+[Whatever you do, don't autoload Rails `lib/`](https://island94.org/2023/05/whatever-you-do-don-t-autoload-rails-lib)
 
 [Atuin replaces your existing shell history with a SQLite database](https://github.com/ellie/atuin)
-
-[Sailing boat rescued by the Götheborg](https://www.gotheborg.se/news/rescue-of-sailing-boat/)
-
-[Billion-Scale Approximate Nearest Neighbor Search [pdf]](https://wangzwhu.github.io/home/file/acmmm-t-part3-ann.pdf)
-
-[Open source Background Remover: Remove Background from images and video using AI](https://github.com/nadermx/backgroundremover)
-
-[Using ChatGPT to generate a GPT project end-to-end](https://github.com/ixaxaar/VardaGPT/blob/master/STORY.md)
-
-[Unity builds lurked into the Firefox Build System](https://serge-sans-paille.github.io/pythran-stories/how-unity-builds-lurked-into-the-firefox-build-system.html)
-
-[Linearly interpolating pixels that are in a gamma encoded color space](https://twitter.com/ID_AA_Carmack/status/1654528504724062217)
-
-[AI’s biggest risk is the corporations that control them](https://www.fastcompany.com/90892235/researcher-meredith-whittaker-says-ais-biggest-risk-isnt-consciousness-its-the-corporations-that-control-them)

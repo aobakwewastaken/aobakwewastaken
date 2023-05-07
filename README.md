@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[OpenAI Sued for Fraud Allegations](https://webapps.sftc.org/captcha/captcha.dll?referrer=https://webapps.sftc.org/ci/CaseInfo.dll?CaseNum=CGC23606176)
+[Turbo Rascal Syntax Error](https://lemonspawn.com/turbo-rascal-syntax-error-expected-but-begin/)
+
+[Prolog for Data Science](https://emiruz.com/post/2023-04-30-prolog-for-data-science/)
+
+[The Prime Video microservices to monolith story](https://adrianco.medium.com/so-many-bad-takes-what-is-there-to-learn-from-the-prime-video-microservices-to-monolith-story-4bd0970423d4)
+
+[Pixel phones are sold with bootloader unlocking disabled](https://www.fitzsim.org/blog/?p=545)
+
+[Amazon Tried Not to Pay a Woman After Driver Totaled Her Car](https://jalopnik.com/amazon-wrecked-womans-car-and-tried-not-to-pay-her-1850409798)
 
 [The Rocky Horror Coffin Clock](https://burialsandbeyond.com/2023/05/07/the-rocky-horror-coffin-clock/)
 
-[Why Lisp?](https://nyxt.atlas.engineer/article/why-lisp.org)
+[Contrast Rebellion](https://contrastrebellion.com/)
 
-[The Messy Page Or: why I don't like greenfield projects](https://registerspill.thorstenball.com/p/the-messy-page)
+[Five Books: The best books on everything](https://fivebooks.com/)
 
-[macOS Internals](https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f)
+[Using predictions from arbitrary models to get tighter confidence intervals](https://statmodeling.stat.columbia.edu/2023/05/04/using-predictions-from-arbitrary-models-to-get-tighter-confidence-intervals/)
 
-[Contrast Rebellion – To hell with unreadable, low-contrast texts](https://contrastrebellion.com/)
-
-[AI voice scams: 77% of victims lose money](https://9to5mac.com/2023/05/05/ai-voice-scams-how-to-prevent/)
-
-[Google Analytics alternative that protects your data and your customers' privacy](https://matomo.org/)
-
-[Before Dylan, There Was Connie Converse. Then She Vanished](https://www.nytimes.com/2023/05/06/nyregion/connie-converse-nyc.html)
-
-[Show HN: Devil Mode: A twisted Emacs key translator for modifier-free editing](https://github.com/susam/devil)
+[The first planetarium projector was unveiled 100 years ago](https://planetarium100.org/)

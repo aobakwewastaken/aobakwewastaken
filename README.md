@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[I downloaded all 1,680,399 posts on Bluesky](https://worthdoingbadly.com/bsky/)
+[macOS Internals](https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f)
 
-[Intel OEM Private Key Leak: A Blow to UEFI Secure Boot Security](https://securityonline.info/intel-oem-private-key-leak-a-blow-to-uefi-secure-boot-security/)
+[Tunnel of Eupalinos](https://en.wikipedia.org/wiki/Tunnel_of_Eupalinos)
 
-[Progress on running Haiku OS on VisionFive 2 RISC-V dev board](https://discuss.haiku-os.org/t/progress-on-running-haiku-on-visionfive-2/13369?page=2)
+[RedisRaft](https://github.com/RedisLabs/redisraft/blob/master/docs/Introduction.md)
 
-[ACM Software System Award Given to seL4 Microkernel](https://awards.acm.org/software-system)
+[Show HN: Git Hooting](https://git.ht)
+
+[FaaS in Go with WASM, WASI and Rust](https://eli.thegreenplace.net/2023/faas-in-go-with-wasm-wasi-and-rust/)
+
+[qsort.h – Quicksort as a C macro (2019)](https://github.com/svpv/qsort)
+
+[Prime Video service dumps microservices, cuts AWS bill 90%](https://thestack.technology/amazon-prime-video-microservices-monolith/)
+
+[I downloaded all 1.6M posts on Bluesky](https://worthdoingbadly.com/bsky/)
+
+[Large-scale study reveals autoimmune disorders now affect around one in ten](https://www.gla.ac.uk/news/headline_952084_en.html)
 
 [Language Learning with Netflix](https://languagelearningwithnetflix.com/)
-
-[Give It the Craigslist Test](https://ericaheinz.com/notes/give-it-the-craigslist-test/)
-
-[Motorola’s 1990s Corvette EV Project](https://www.thedrive.com/features/the-untold-story-of-motorolas-secret-1990s-corvette-ev-project-who-killed-the-electric-corvette)
-
-[Sony Playstation 2 Development Kit](https://www.retroreversing.com/playstation-2-development-hardware)
-
-[Whatever you do, don't autoload Rails `lib/`](https://island94.org/2023/05/whatever-you-do-don-t-autoload-rails-lib)
-
-[Atuin replaces your existing shell history with a SQLite database](https://github.com/ellie/atuin)

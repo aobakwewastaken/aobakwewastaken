@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[FBI agents accuse CIA of 9/11 coverup](https://www.spytalk.co/p/exclusive-fbi-agents-accuse-cia-of)
+[Ink: React for interactive command-line apps](https://github.com/vadimdemedes/ink)
+
+[NeXT Computers](https://www.nextcomputers.org/)
+
+[Giving GPT “Infinite” Knowledge](https://sudoapps.substack.com/p/giving-gpt-infinite-knowledge)
+
+[Reflected Diffusion Models](https://aaronlou.com/blog/2023/reflected-diffusion/)
+
+[Dutch town installs bat-friendly red LED street lights (2018)](https://electronics360.globalspec.com/article/11940/dutch-town-becomes-first-to-install-bat-friendly-red-led-street-lights)
+
+[OpenBSD cron(8) now supports random ranges with steps](http://undeadly.org/cgi?action=article;sid=20230507122935)
 
 [GPU vendor-agnostic fluid dynamics solver in Julia](https://b-fg.github.io/2023/05/07/waterlily-on-gpu.html)
 
-[KeePassXC pull request to add basic support for WebAuthn](https://github.com/keepassxreboot/keepassxc/pull/8825)
+[Show HN: Cptn.io – open-source integration platform](https://cptn.io)
 
-[How to Design Software Architecture for Startups](https://appventuretime.blog/how-to-design-software-architecture-for-startups)
+[Concrete goes carbon-negative](https://spectrum.ieee.org/concrete)
 
-[Street Fighter II, paper trails (2021)](https://fabiensanglard.net/sf2_sheets/index.html)
-
-[Intel Announces Layoffs After Paying $1.5B in Q1 Dividends](https://wccftech.com/intel-announces-layoffs-after-paying-1-5-billion-in-q1-dividends/)
-
-[People are trying to claim real videos are deepfakes. The courts are not amused](https://text.npr.org/1174132413)
-
-[Restricting network access using Linux Network Namespaces](https://blog.sigma-star.at/post/2023/05/sandbox-netns/)
-
-[The Vietnamese military has an actual troll army and Facebook is its weapon](https://restofworld.org/2023/force-47-vietnam-military-group-facebook/)
-
-[Casio Adds Fitness Features to Original G-Shock Digital Watch](https://gizmodo.com/casio-g-shock-digital-watch-fitness-tracking-heart-rate-1850357822)
+[A mutation turned ants into parasites in one generation](https://www.quantamagazine.org/a-mutation-turned-ants-into-parasites-in-one-generation-20230508/)

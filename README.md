@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Ancient Earth Globe](https://dinosaurpictures.org/ancient-earth/#470)
+
+[Ninth-Century Coins Change Our Understanding of Alfred the Great](https://www.smithsonianmag.com/smart-news/coins-alfred-the-great-ninth-century-180982103/)
+
+[Rapamycin: The unlucky history of the most powerful anti-aging drug](https://bigthink.com/health/unlucky-history-rapamycin-anti-aging/)
+
 [Turbo Rascal Syntax Error](https://lemonspawn.com/turbo-rascal-syntax-error-expected-but-begin/)
 
-[Prolog for Data Science](https://emiruz.com/post/2023-04-30-prolog-for-data-science/)
+[Prolog for data science](https://emiruz.com/post/2023-04-30-prolog-for-data-science/)
 
-[The Prime Video microservices to monolith story](https://adrianco.medium.com/so-many-bad-takes-what-is-there-to-learn-from-the-prime-video-microservices-to-monolith-story-4bd0970423d4)
+[Vulkan Video Decoding](https://wickedengine.net/2023/05/07/vulkan-video-decoding/)
 
-[Pixel phones are sold with bootloader unlocking disabled](https://www.fitzsim.org/blog/?p=545)
+[A Beginner's Guide to eBPF](https://github.com/lizrice/ebpf-beginners)
 
-[Amazon Tried Not to Pay a Woman After Driver Totaled Her Car](https://jalopnik.com/amazon-wrecked-womans-car-and-tried-not-to-pay-her-1850409798)
+[The Scoop on Solar Geoengineering](https://www.technologyreview.com/2023/05/04/1072603/the-inside-scoop-on-solar-geoengineering/)
 
-[The Rocky Horror Coffin Clock](https://burialsandbeyond.com/2023/05/07/the-rocky-horror-coffin-clock/)
+[SpaceTraders: A multiplayer game built on a free web API](https://spacetraders.io/)
 
-[Contrast Rebellion](https://contrastrebellion.com/)
-
-[Five Books: The best books on everything](https://fivebooks.com/)
-
-[Using predictions from arbitrary models to get tighter confidence intervals](https://statmodeling.stat.columbia.edu/2023/05/04/using-predictions-from-arbitrary-models-to-get-tighter-confidence-intervals/)
-
-[The first planetarium projector was unveiled 100 years ago](https://planetarium100.org/)
+[210k works in the Public Domain, searchable](https://digital.staatsbibliothek-berlin.de/)

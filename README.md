@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Ancient Greek terms worth reviving](https://classicalwisdom.substack.com/p/12-ancient-greek-terms-that-should)
+
+[Learning DNS in 10 Years](https://jvns.ca/blog/2023/05/08/new-talk-learning-dns-in-10-years/)
+
+[Kchat: Persistent group chat in <50 lines using kdb+/k/q web sockets, JavaScript](https://github.com/srpeck/kchat)
+
 [Ink: React for interactive command-line apps](https://github.com/vadimdemedes/ink)
 
-[NeXT Computers](https://www.nextcomputers.org/)
+[Cantonese Font with Pronunciation](https://visual-fonts.com/)
 
-[Giving GPT “Infinite” Knowledge](https://sudoapps.substack.com/p/giving-gpt-infinite-knowledge)
+[Unix: An Oral History](https://www.princeton.edu/~hos/frs122/unixhist/finalhis.htm#attic)
 
-[Reflected Diffusion Models](https://aaronlou.com/blog/2023/reflected-diffusion/)
+[1-Bit Hokusai’s ”The Great Wave”](https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/)
 
-[Dutch town installs bat-friendly red LED street lights (2018)](https://electronics360.globalspec.com/article/11940/dutch-town-becomes-first-to-install-bat-friendly-red-led-street-lights)
+[Are sockets the wave of the future? (1990)](https://groups.google.com/g/comp.protocols.tcp-ip/c/mVnR2OSXHBY/m/tjdkK1OBtCEJ)
 
-[OpenBSD cron(8) now supports random ranges with steps](http://undeadly.org/cgi?action=article;sid=20230507122935)
+[Unlighthouse: Like Lighthouse, but it scans every single page](https://unlighthouse.dev)
 
-[GPU vendor-agnostic fluid dynamics solver in Julia](https://b-fg.github.io/2023/05/07/waterlily-on-gpu.html)
-
-[Show HN: Cptn.io – open-source integration platform](https://cptn.io)
-
-[Concrete goes carbon-negative](https://spectrum.ieee.org/concrete)
-
-[A mutation turned ants into parasites in one generation](https://www.quantamagazine.org/a-mutation-turned-ants-into-parasites-in-one-generation-20230508/)
+[Show HN: SineRider, a math puzzle game](https://github.com/hackclub/sinerider)

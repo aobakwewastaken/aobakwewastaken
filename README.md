@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[See this page fetch itself, byte by byte, over TLS](https://subtls.pages.dev/)
-
 [The Leverage of LLMs for Individuals](https://mazzzystar.github.io/2023/05/10/LLM-for-individual/)
 
-[50 years in filesystems: 1984 BSD FFS](https://blog.koehntopp.info/2023/05/06/50-years-in-filesystems-1984.html)
+[See this page fetch itself, byte by byte, over TLS](https://subtls.pages.dev/)
 
-[IPyflow: Reactive Python Notebooks in Jupyter(Lab)](https://github.com/ipyflow/ipyflow)
+[Helion’s fusion power purchase agreement with Microsoft](https://www.helionenergy.com/articles/announcing-helion-fusion-ppa-with-microsoft-constellation/)
+
+[We should start to add “ai.txt” as we do for “robots.txt”]()
+
+[Google I/O 2023](https://io.google/2023/)
 
 [Try Galaxy: A web app to demo Samsung’s OS on an iPhone](https://trygalaxy.com/)
 
-[An experimental editor for WebGPU compute shaders](https://compute.toys/)
+[A Codebase That Makes Codebases](https://www.saaspegasus.com/about/how-pegasus-works/)
 
-[A TLS 1.3 stack written in Visual Basic 6](https://github.com/wqweto/VbAsyncSocket/blob/master/src/mdTlsThunks.bas)
+[A collection of lock-free data structures written in standard C++11](https://github.com/DNedic/lockfree)
 
-[The AT protocol is the most obtuse crock of shit](https://urbanists.social/@sam/110339902538138997)
+[IPyflow: Reactive Python Notebooks in Jupyter(Lab)](https://github.com/ipyflow/ipyflow)
 
-[Darvaza Gas Crater](https://en.wikipedia.org/wiki/Darvaza_gas_crater)
-
-[Detailed Image of the Human Retina](https://ethz.ch/en/news-and-events/eth-news/news/2023/05/detailed-image-of-the-human-retina.html)
+[50 years in filesystems: 1984 BSD FFS](https://blog.koehntopp.info/2023/05/06/50-years-in-filesystems-1984.html)

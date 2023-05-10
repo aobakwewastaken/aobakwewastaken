@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[The Leverage of LLMs for Individuals](https://mazzzystar.github.io/2023/05/10/LLM-for-individual/)
+[PaLM 2 Technical Report [pdf]](https://ai.google/static/documents/palm2techreport.pdf)
+
+[Reverse engineering Dell iDRAC to get rid of GPU throttling](https://github.com/l4rz/reverse-engineering-dell-idrac-to-get-rid-of-gpu-throttling)
+
+[What if we covered every warehouse in the mountain West with solar panels?](https://www.kunr.org/energy-and-environment/2023-05-03/what-if-we-covered-every-warehouse-mountain-west-solar-panels)
+
+[Story: Redis and its creator antirez](https://blog.brachiosoft.com/redis-en)
+
+[Why I'm done with Mouser Electronics](https://lcamtuf.substack.com/p/why-im-done-with-mouser-electronics)
+
+[Launch HN: Clearspace (YC W23) – Cut back on screen time]()
 
 [See this page fetch itself, byte by byte, over TLS](https://subtls.pages.dev/)
 
-[Helion’s fusion power purchase agreement with Microsoft](https://www.helionenergy.com/articles/announcing-helion-fusion-ppa-with-microsoft-constellation/)
+[QuestDB (YC S20) Is Hiring a Technical Content Lead](https://questdb.io/careers/technical-content-lead/)
 
-[We should start to add “ai.txt” as we do for “robots.txt”]()
+[Apple planted fake Logic Pro and Final Cut Pro iPad rumours to bust leaker](https://www.cultofmac.com/815853/apple-busts-major-ios-17-leaker-tipster/)
 
-[Google I/O 2023](https://io.google/2023/)
-
-[Try Galaxy: A web app to demo Samsung’s OS on an iPhone](https://trygalaxy.com/)
-
-[A Codebase That Makes Codebases](https://www.saaspegasus.com/about/how-pegasus-works/)
-
-[A collection of lock-free data structures written in standard C++11](https://github.com/DNedic/lockfree)
-
-[IPyflow: Reactive Python Notebooks in Jupyter(Lab)](https://github.com/ipyflow/ipyflow)
-
-[50 years in filesystems: 1984 BSD FFS](https://blog.koehntopp.info/2023/05/06/50-years-in-filesystems-1984.html)
+[Google's Latest Experiments in Labs](https://labs.withgoogle.com/)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[An experimental editor for WebGPU compute shaders](https://compute.toys/)
+
+[A TLS 1.3 stack written in Visual Basic 6](https://github.com/wqweto/VbAsyncSocket/blob/master/src/mdTlsThunks.bas)
+
+[HN Badges](https://hnbadges.netlify.app/?user=pg)
+
+[Random bit-flip invalidates certificate transparency log – again?](https://groups.google.com/a/chromium.org/g/ct-policy/c/S17_j-WJ6dI)
+
+[Julia 1.9 Highlights](https://julialang.org/blog/2023/04/julia-1.9-highlights/)
+
 [Language models can explain neurons in language models](https://openai.com/research/language-models-can-explain-neurons-in-language-models)
 
-[Is sequential IO dead in the era of the NVMe drive?](https://jack-vanlightly.com/blog/2023/5/9/is-sequential-io-dead-in-the-era-of-the-nvme-drive)
+[Freakwan: A MicroPython driver for the SX1276 LoRa chip](https://github.com/antirez/freakwan)
 
-[In Erlang/OTP 27, +0.0 will no longer be exactly equal to -0.0](https://erlangforums.com/t/in-erlang-otp-27-0-0-will-no-longer-be-exactly-equal-to-0-0/2586)
+[Darvaza Gas Crater](https://en.wikipedia.org/wiki/Darvaza_gas_crater)
 
-[James Webb Space Telescope reveals Fomalhaut's disk in detail](https://skyandtelescope.org/astronomy-news/the-james-webb-space-telescope-reveals-fomalhauts-disk-in-unprecedented-detail/)
+[The last days of a 350-year-old family farm](https://www.smithsonianmag.com/arts-culture/these-intimate-photos-capture-a-family-farms-bittersweet-final-years-180982139/)
 
-[Linux kernel use-after-free in Netfilter, local privilege escalation](https://seclists.org/oss-sec/2023/q2/133)
-
-[The Bronze Age has never looked stronger](https://www.thechatner.com/p/its-1178-bce-and-the-bronze-age-has)
-
-[The world’s oldest ultramarathon runner is racing against death](https://thewalrus.ca/worlds-oldest-ultramarathon-runner/)
-
-[Aptible (YC S14) Is Hiring: Security Engineer and Head of Product]()
-
-[Show HN: Card game where players write their own cards that get parsed into code](https://app.wordbots.io/)
-
-[CheerpJ 3.0: a JVM replacement in HTML5 and WASM to run Java on modern browsers](https://leaningtech.com/announcing-cheerpj-3-0-a-jvm-replacement-in-html5-and-webassembly-to-run-java-applications-and-applets-on-modern-browsers/)
+[Tempus Nectit Knitting Clock](http://kylerank.in/tempus_nectit/)

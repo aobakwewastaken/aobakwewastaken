@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Windows 11 in Svelte](https://github.com/yashash-pugalia/win11-svelte)
+[When you lose the ability to write, you also lose some of your ability to think](https://twitter.com/paulg/status/1655925905527537666)
 
 [Google Earth 3D Models Now Available as Open Standard (GlTF)](https://cloud.google.com/blog/products/maps-platform/create-immersive-3d-map-experiences-photorealistic-3d-tiles)
 
-[When you lose the ability to write, you also lose some of your ability to think](https://twitter.com/paulg/status/1655925905527537666)
-
-[The Xerox PARC Archive](https://info.computerhistory.org/xerox-parc-archive)
+[Protocol Wars](https://en.wikipedia.org/wiki/Protocol_Wars)
 
 [Scientists regenerate hair cells that enable hearing](https://hms.harvard.edu/news/scientists-regenerate-hair-cells-enable-hearing)
 
-[PaLM 2 Technical Report [pdf]](https://ai.google/static/documents/palm2techreport.pdf)
+[The Xerox PARC Archive](https://info.computerhistory.org/xerox-parc-archive)
 
-[Story: Redis and its creator antirez](https://blog.brachiosoft.com/redis-en)
+[Remembering the Golden Age of Airline Food](https://www.atlasobscura.com/articles/airline-food-history)
 
-[Foundations for the Study of Software Architecture (1992) [pdf]](http://users.ece.utexas.edu/~perry/work/papers/swa-sen.pdf)
+[Bcachefs – A New COW Filesystem](https://lore.kernel.org/lkml/20230509165657.1735798-1-kent.overstreet@linux.dev/T/#mf171fd06ffa420fe1bcf0f49a2b44a361ca6ac44)
 
-[Startups Are Scooping Up Big Tech’s Cast-Off Workers](https://www.wsj.com/articles/startups-are-scooping-up-big-techs-cast-off-workers-981f7d35)
+[Google Pixel Fold](https://store.google.com/us/product/pixel_fold)
 
-[The Backbone: A History of the Internet](https://technicshistory.com/the-backbone/)
+[Geektools whois gateway has shut down after a 25-year run](http://www.geektools.com/)
+
+[Supertokens: Open-Source Alternative to Auth0 / Firebase Auth / AWS Cognito](https://github.com/supertokens/supertokens-core)

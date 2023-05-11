@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Windows 11 in Svelte](https://github.com/yashash-pugalia/win11-svelte)
+
+[Google Earth 3D Models Now Available as Open Standard (GlTF)](https://cloud.google.com/blog/products/maps-platform/create-immersive-3d-map-experiences-photorealistic-3d-tiles)
+
+[When you lose the ability to write, you also lose some of your ability to think](https://twitter.com/paulg/status/1655925905527537666)
+
+[The Xerox PARC Archive](https://info.computerhistory.org/xerox-parc-archive)
+
+[Scientists regenerate hair cells that enable hearing](https://hms.harvard.edu/news/scientists-regenerate-hair-cells-enable-hearing)
+
 [PaLM 2 Technical Report [pdf]](https://ai.google/static/documents/palm2techreport.pdf)
-
-[Reverse engineering Dell iDRAC to get rid of GPU throttling](https://github.com/l4rz/reverse-engineering-dell-idrac-to-get-rid-of-gpu-throttling)
-
-[What if we covered every warehouse in the mountain West with solar panels?](https://www.kunr.org/energy-and-environment/2023-05-03/what-if-we-covered-every-warehouse-mountain-west-solar-panels)
 
 [Story: Redis and its creator antirez](https://blog.brachiosoft.com/redis-en)
 
-[Why I'm done with Mouser Electronics](https://lcamtuf.substack.com/p/why-im-done-with-mouser-electronics)
+[Foundations for the Study of Software Architecture (1992) [pdf]](http://users.ece.utexas.edu/~perry/work/papers/swa-sen.pdf)
 
-[Launch HN: Clearspace (YC W23) – Cut back on screen time]()
+[Startups Are Scooping Up Big Tech’s Cast-Off Workers](https://www.wsj.com/articles/startups-are-scooping-up-big-techs-cast-off-workers-981f7d35)
 
-[See this page fetch itself, byte by byte, over TLS](https://subtls.pages.dev/)
-
-[QuestDB (YC S20) Is Hiring a Technical Content Lead](https://questdb.io/careers/technical-content-lead/)
-
-[Apple planted fake Logic Pro and Final Cut Pro iPad rumours to bust leaker](https://www.cultofmac.com/815853/apple-busts-major-ios-17-leaker-tipster/)
-
-[Google's Latest Experiments in Labs](https://labs.withgoogle.com/)
+[The Backbone: A History of the Internet](https://technicshistory.com/the-backbone/)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[The EU AI act is coming, this time for real probably](https://wolfhf.medium.com/the-eu-ai-act-is-coming-this-time-for-real-probably-df31ad8c451f)
+[Introducing "Implement DNS in a Weekend"](https://jvns.ca/blog/2023/05/12/introducing-implement-dns-in-a-weekend/)
 
 [Pigz: Parallel gzip for modern multi-processor, multi-core machines](https://zlib.net/pigz/)
 
-[Google Bard blocks all European Union countries](https://9to5google.com/2023/05/11/google-bard-european-union/)
+[IBM PC 8088 replaced with a Motorola 68000](https://microcorelabs.wordpress.com/2023/04/28/ibm-pc-8088-replaced-with-a-motorola-68000/)
 
 [Pytz: The Fastest Footgun in the West](https://blog.ganssle.io/articles/2018/03/pytz-fastest-footgun.html)
 
+[BQNPAD](https://bqnpad.mechanize.systems/)
+
+[An IBM computer learned to sing in 1961](https://tedgioia.substack.com/p/how-an-ibm-computer-learned-to-sing)
+
 [FUTO – An independent software lab and grant fund](https://futo.org/)
 
+[Eva AI-Relational Database System](https://evadb.readthedocs.io/en/stable/index.html)
+
+[Welcome to Life: the singularity, ruined by lawyers by Tom Scott](https://www.youtube.com/watch?v=IFe9wiDfb0E)
+
 [Kalshi (YC W19) Is Hiring]()
-
-[Extreme Multi-Threading: C++ and Julia 1.9 Integration](https://scientificcoder.com/extreme-multi-threading-c-and-julia-19-integration)
-
-[How much is a smidgen?](https://www.laphamsquarterly.org/roundtable/how-much-smidgen)
-
-[Pixel Tablet](https://store.google.com/product/pixel_tablet?hl=en-US)
-
-[The Legend of Zelda: Tears of the Kingdom Release](https://www.zelda.com/tears-of-the-kingdom/)

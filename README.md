@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Implement DNS in a Weekend](https://jvns.ca/blog/2023/05/12/introducing-implement-dns-in-a-weekend/)
+[CI/CD with KiCad and Gitlab](https://sschueller.github.io/posts/ci-cd-with-kicad-and-gitlab/)
+
+[Windmill: Open-source developer platform to turn scripts into workflows and UIs](https://github.com/windmill-labs/windmill)
+
+[Morris Tanenbaum, inventor of the silicon transistor, has died](https://spectrum.ieee.org/in-memoriam-may-2023)
+
+[Implement DNS in a Weekend](https://implement-dns.wizardzines.com/)
+
+[Hammerhead sharks are first fish found to ‘hold their breath’](https://www.nature.com/articles/d41586-023-01569-x)
+
+[Turn ideas into music with MusicLM](https://blog.google/technology/ai/musiclm-google-ai-test-kitchen/)
+
+[Open-source disposable email service](https://sorry.idont.date/)
 
 [Pigz: Parallel gzip for modern multi-processor, multi-core machines](https://zlib.net/pigz/)
 
-[IBM PC 8088 replaced with a Motorola 68000](https://microcorelabs.wordpress.com/2023/04/28/ibm-pc-8088-replaced-with-a-motorola-68000/)
+[Toyota: Car location data and videos of 2M customers exposed for ten years](https://www.bleepingcomputer.com/news/security/toyota-car-location-data-of-2-million-customers-exposed-for-ten-years/)
 
-[Pytz: The Fastest Footgun in the West (2018)](https://blog.ganssle.io/articles/2018/03/pytz-fastest-footgun.html)
-
-[BQNPAD](https://bqnpad.mechanize.systems/)
-
-[An IBM computer learned to sing in 1961](https://tedgioia.substack.com/p/how-an-ibm-computer-learned-to-sing)
-
-[FUTO – An independent software lab and grant fund](https://futo.org/)
-
-[U.S. Focuses on Invigorating Chiplets' to Stay Cuting- Edge in Tech](https://www.nytimes.com/2023/05/11/technology/us-chiplets-tech.html)
-
-[Eva AI-Relational Database System](https://evadb.readthedocs.io/en/stable/index.html)
-
-[.zip is now available as a TLD](https://twitter.com/Google/status/1653866291692728320)
+[Polyphony: Fine-Grained Concurrency for Ruby](https://github.com/digital-fabric/polyphony)

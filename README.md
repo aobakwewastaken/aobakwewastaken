@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Agrivoltaics: A Sustainable Synergy Between Agriculture and Solar Energy](https://mercurialtrends.com/agrivoltaics-a-sustainable-synergy-between-agriculture-and-solar-energy/)
+
+[Fake scientific papers are alarmingly common](https://www.science.org/content/article/fake-scientific-papers-are-alarmingly-common)
+
 [GitHub Copilot Chat Leaked Prompt](https://twitter.com/marvinvonhagen/status/1657060506371346432)
 
-[The Wrong Abstraction](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
+[Google Launches AI Supercomputer Powered by Nvidia H100 GPUs](https://www.tomshardware.com/news/google-a3-supercomputer-h100-googleio)
 
-[Attention Viz](http://attentionviz.com/)
+[How to sell Elixir again](https://gist.github.com/evadne/c9aeca424d30f024ba048158bcad385f)
 
-[Why Conscious AI Is a Bad, Bad Idea](https://nautil.us/why-conscious-ai-is-a-bad-bad-idea-302937/)
+[The Wrong Abstraction (2016)](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
 
-[How to lose your work using Undo Copy in Windows](https://mihai.fm/how-to-lose-your-work-using-undo-copy-in-windows/)
+[Rails Cheat Sheet](https://fly.io/ruby-dispatch/welcome-to-rails-cheat-sheet/)
 
-[Laudspeaker hiring engineer to build open source customer journey software](https://github.com/laudspeaker/laudspeaker/tree/Hiring)
-
-[This time, it feels different](https://nadh.in/blog/this-time-it-feels-different/)
+[The Rails Doctrine](https://rubyonrails.org/doctrine)
 
 [Ocean Temperature](https://en.wikipedia.org/wiki/Ocean_temperature)
 
-[50 Chat GPT Prompts Every Software Developer Should Know (Tested)](https://blog.hackertab.dev/50-chat-gpt-prompts-every-software-developer-should-know-tested)
-
-[I've mostly stopped reading technical mailing lists](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MailingListsNoMoreReading)
+[IBM sued for age discrimination by former global software director](https://www.theregister.com/2023/05/13/kyndryl_ibm_sued_discrimination/)

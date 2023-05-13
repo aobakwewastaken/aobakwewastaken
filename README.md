@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[GitHub Copilot Chat Leaked Prompt](https://twitter.com/marvinvonhagen/status/1657060506371346432)
+
+[Helping a kid who made a math mistake](https://kidswholovemath.substack.com/p/helping-a-kid-who-made-a-math-mistake)
+
 [CI/CD with KiCad and Gitlab](https://sschueller.github.io/posts/ci-cd-with-kicad-and-gitlab/)
+
+[Delimiters won’t save you from prompt injection](https://simonwillison.net/2023/May/11/delimiters-wont-save-you/)
+
+[I've mostly stopped reading technical mailing lists](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MailingListsNoMoreReading)
 
 [Windmill: Open-source developer platform to turn scripts into workflows and UIs](https://github.com/windmill-labs/windmill)
 
-[Morris Tanenbaum, inventor of the silicon transistor, has died](https://spectrum.ieee.org/in-memoriam-may-2023)
+[Intel One Mono Typeface](https://github.com/intel/intel-one-mono)
 
-[Implement DNS in a Weekend](https://implement-dns.wizardzines.com/)
+[Seinfeld Transcripts](https://www.seinfeldscripts.com/seinfeld-scripts.html)
 
-[Hammerhead sharks are first fish found to ‘hold their breath’](https://www.nature.com/articles/d41586-023-01569-x)
+[A whirlwind tour of the LLVM optimizer](https://www.slideshare.net/nikita_ppv/a-whirlwind-tour-of-the-llvm-optimizerpdf)
 
-[Turn ideas into music with MusicLM](https://blog.google/technology/ai/musiclm-google-ai-test-kitchen/)
-
-[Open-source disposable email service](https://sorry.idont.date/)
-
-[Pigz: Parallel gzip for modern multi-processor, multi-core machines](https://zlib.net/pigz/)
-
-[Toyota: Car location data and videos of 2M customers exposed for ten years](https://www.bleepingcomputer.com/news/security/toyota-car-location-data-of-2-million-customers-exposed-for-ten-years/)
-
-[Polyphony: Fine-Grained Concurrency for Ruby](https://github.com/digital-fabric/polyphony)
+[I stopped worrying and learned to love denormalized tables](https://glean.io/blog-posts/why-i-stopped-worrying-and-learned-to-love-denormalized-tables)

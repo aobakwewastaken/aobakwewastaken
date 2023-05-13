@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Fake scientific papers are alarmingly common](https://www.science.org/content/article/fake-scientific-papers-are-alarmingly-common)
+[RNA repair mechanism discovered in humans](https://phys.org/news/2023-04-hidden-rna-mechanism-humans.html)
 
 [Prompt injection explained, with video, slides, and a transcript](https://simonwillison.net/2023/May/2/prompt-injection-explained/)
 
-[Google Launches AI Supercomputer Powered by Nvidia H100 GPUs](https://www.tomshardware.com/news/google-a3-supercomputer-h100-googleio)
+[DIY Git in Python](https://www.leshenko.net/p/ugit/)
 
-[GitHub Copilot Chat Leaked Prompt](https://twitter.com/marvinvonhagen/status/1657060506371346432)
+[Idle DR-DOS](http://www.os2museum.com/wp/idle-dr-dos/)
 
-[Agrivoltaics: A Sustainable Synergy Between Agriculture and Solar Energy](https://mercurialtrends.com/agrivoltaics-a-sustainable-synergy-between-agriculture-and-solar-energy/)
+[Gamedev from Scratch 1: Scaffolding](https://eev.ee/blog/2021/01/26/gamedev-from-scratch-1-scaffolding/)
 
-[Asus UK PR believes it is ‘legal to buy positive reviews’](https://www.kitguru.net/channel/generaltech/matthew-wilson/asus-uk-pr-believes-it-is-legal-to-buy-positive-reviews/)
+[Large language models generate functional protein sequences across families](https://www.nature.com/articles/s41587-022-01618-2)
 
-[How to sell Elixir again](https://gist.github.com/evadne/c9aeca424d30f024ba048158bcad385f)
+[Hundreds of millions of stars turned into a map of GitHub projects](https://anvaka.github.io/map-of-github/)
 
-[TikTok Owner Had 'Backdoor' for CCP Access to US Data, Lawsuit Alleges](https://www.businessinsider.com/new-lawsuit-alleges-tiktok-owner-let-ccp-access-user-data-2023-5)
+[Dec's OS-like RSX-11M for the Z280 CPU](https://github.com/hperaza/RSX280)
 
-[Thoughts on Swift and Objective-C](https://lapcatsoftware.com/articles/swift.html)
+[Matter Raspberry Pi GPIO Commander – Turn Your Pi into a Matter Lighting Device](https://github.com/canonical/matter-pi-gpio-commander)
 
-[The Wrong Abstraction (2016)](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
+[Micro.blog Reclaiming Usernames Policy](https://www.manton.org/2023/05/13/reclaiming-usernames-policy.html)

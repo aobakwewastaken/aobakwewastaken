@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Distrobox: Use any Linux distribution inside your terminal](https://github.com/89luca89/distrobox)
+
+[This Blog is hosted on my Android phone](https://androidblog.a.pinggy.io/)
+
+[F-Droid interview featuring Sylvia von OS and Hans-Christoph Steiner [audio]](https://fossandcrafts.org/episodes/057-f-droid.html)
+
+[Off-grid solar brings light, time and income to remotest villages](https://apnews.com/article/offgrid-solar-electrification-indonesia-0991d77d68f879c4daa12e7d3dfd97ee)
+
+[Brex’s Prompt Engineering Guide](https://github.com/brexhq/prompt-engineering)
+
+[Dell goes back on WFH pledge, forces employees to come back to the office](https://www.techradar.com/news/dell-goes-back-on-wfh-pledge-forces-employees-to-come-back-to-the-office)
+
+[Attempto Controlled English](https://en.wikipedia.org/wiki/Attempto_Controlled_English)
+
+[The Great Ptolemaic Smackdown: From Plausible to Proven (2013)](http://tofspot.blogspot.com/2013/10/9-great-ptolemaic-smackdown-from.html)
+
 [ARM or x86? ISA Doesn’t Matter (2021)](https://chipsandcheese.com/2021/07/13/arm-or-x86-isa-doesnt-matter/)
 
-[Run Llama 13B with a 6GB graphics card](https://gist.github.com/rain-1/8cc12b4b334052a21af8029aa9c4fafc)
-
-[The unreasonable effectiveness of character-level language models (2015)](https://colab.research.google.com/github/norvig/pytudes/blob/main/ipynb/Goldberg.ipynb)
-
-[The Cathedral and the Bazaar (1999)](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/)
-
-[Pfeilstorch](https://en.wikipedia.org/wiki/Pfeilstorch)
-
-[Juice’s RIME antenna successfully unjammed](https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_s_RIME_antenna_breaks_free)
-
-[Monte Carlo methods](https://easylang.dev/apps/tutorial_mcarlo.html)
-
-[Cybernetic Culture Research Unit](https://en.wikipedia.org/wiki/Cybernetic_Culture_Research_Unit)
-
-[The Dual LLM pattern for building AI assistants that can resist prompt injection](https://simonwillison.net/2023/Apr/25/dual-llm-pattern/)
-
-[The Web I Want (2018)](https://quii.dev/The_Web_I_Want)
+[JavaScript state machines and statecharts](https://xstate.js.org/docs/)

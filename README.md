@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Two students built an A-bomb (2003)](https://www.theguardian.com/world/2003/jun/24/usa.science)
+
+[Dogs Can Have Human-Like Anxiety. They Need Human-Like Treatment [Opinion Piece]](https://undark.org/2023/05/11/opinion-dogs-can-have-human-like-anxiety-they-need-human-like-treatment/)
+
+[Ask HN: What's your favorite GPT powered tool?]()
+
 [Distrobox: Use any Linux distribution inside your terminal](https://github.com/89luca89/distrobox)
+
+[Google I/O and the Coming AI Battles](https://stratechery.com/2023/google-i-o-and-the-coming-ai-battles/)
+
+[Infracost (YC W21) Is Hiring a Customer Success Engineer and Software Engineer](https://infracost.io/join-the-team)
+
+[Hippo Meat Nearly Became an American Food Staple](https://www.ripleys.com/weird-news/hippo-meat/)
 
 [We Don't Know How to Compute (2011) [video]](https://www.youtube.com/watch?v=HB5TrK7A4pI)
 
-[F-Droid interview featuring Sylvia von OS and Hans-Christoph Steiner [audio]](https://fossandcrafts.org/episodes/057-f-droid.html)
+[A Biography of the Pixel by Alvy Ray Smith](https://mitpress.mit.edu/9780262542456/a-biography-of-the-pixel/)
 
-[Vanilla-FP: the no-framework framework for building component-based FP UIs](https://github.com/abuseofnotation/vanilla-fp)
-
-[Off-grid solar brings light, time and income to remotest villages](https://apnews.com/article/offgrid-solar-electrification-indonesia-0991d77d68f879c4daa12e7d3dfd97ee)
-
-[Vice, Decayed Digital Colossus, Files for Bankruptcy](https://www.nytimes.com/2023/05/15/business/media/vice-bankruptcy.html)
-
-[Attempto Controlled English](https://en.wikipedia.org/wiki/Attempto_Controlled_English)
-
-[Brex’s Prompt Engineering Guide](https://github.com/brexhq/prompt-engineering)
-
-[Vice files for Bankruptcy](https://www.bloomberg.com/news/articles/2023-05-15/vice-files-for-chapter-11-in-shift-of-fortune-for-media-upstart)
-
-[JavaScript state machines and statecharts](https://xstate.js.org/docs/)
+[VSCode config to disable annoyances – telemetry, notifications, welcome pages](https://gist.github.com/hyperupcall/99e355405611be6c4e0a38b6e3e8aad0)

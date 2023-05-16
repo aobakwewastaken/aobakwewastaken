@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Digital Audio Workstation Front End Development Struggles](https://billydm.github.io/blog/daw-frontend-development-struggles/)
+
 [Get started making music](https://learningmusic.ableton.com/)
 
-[Kaspersky: Case study: fake hardware cryptowallet (Trezor)](https://www.kaspersky.com/blog/fake-trezor-hardware-crypto-wallet/48155/)
+[CS 61B Data Structures, Spring 2023 UC Berkeley](https://sp23.datastructur.es/)
+
+[Colossus: The Forbin Project (1970) [video]](https://archive.org/details/colossus-the-forbin-project-1970)
+
+[Ultimate Electronics (2021)](https://ultimateelectronicsbook.com/)
+
+[MixRank (YC S11) Is Hiring Global Remote Software Engineers]()
 
 [StarCoder and StarCoderBase: 15.5B parameter models with 8K context length](https://arxiv.org/abs/2305.06161)
 
-[Translating Akkadian clay tablets with ChatGPT?](http://www.janromme.com/2023/05/ChaptGPT-transaltion-of-Akkadian-texts.html)
-
-[LTESniffer – An Open-Source LTE Downlink/Uplink Eavesdropper](https://github.com/SysSec-KAIST/LTESniffer)
-
-[Show HN: Willow – Open-source privacy-focused voice assistant hardware](https://github.com/toverainc/willow)
+[The Miracle of Pakistani Tekken (2022) [video]](https://www.youtube.com/watch?v=l2SQgjYmVYY)
 
 [Pixpaint](https://warms.maxbittker.repl.co/)
 
-[Ivy (YC W23) Is Hiring](https://deep-ivy-ltd.breezy.hr/p/055a500d0e8701-ml-research-engineer)
-
-[Taxonomy of Procrastination](https://dynomight.net/procrastination/)
-
-[Learn Makefiles with the Tastiest Examples](https://makefiletutorial.com/#top)
+[My 20 year career is technical debt or deprecated](https://blog.visionarycto.com/p/my-20-year-career-is-technical-debt)

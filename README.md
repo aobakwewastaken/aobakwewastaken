@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[SQLite Release 3.42.0](https://sqlite.org/releaselog/3_42_0.html)
+[A guidance language for controlling LLMs](https://github.com/microsoft/guidance)
 
-[Widely used chemical strongly linked to Parkinson’s disease](https://www.science.org/content/article/widely-used-chemical-strongly-linked-parkinson-s-disease)
+[EU Artificial Intelligence Act](https://artificialintelligenceact.eu/)
 
-[Apple previews Live Speech, Personal Voice, and more new accessibility features](https://www.apple.com/newsroom/2023/05/apple-previews-live-speech-personal-voice-and-more-new-accessibility-features/)
+[One man's rare Alzheimer’s mutation delayed its onset](https://www.nature.com/articles/d41586-023-01610-z)
 
-[Erlang/OTP 26 Highlights](https://www.erlang.org/blog/otp-26-highlights/)
+[John Conway's FRACTRAN, a ridiculous, yet surprisingly deep language (2020)](http://raganwald.com/2020/05/03/fractran.html)
 
 [The Sourdough Framework](https://github.com/hendricius/the-sourdough-framework)
 
-[Experiments in Making Cocktail Ice](https://www.alcademics.com/index-of-ice-experiments-on-alcademics.html)
+[Sam Altman goes before US Congress to propose licenses for building AI](https://www.reuters.com/technology/openai-chief-goes-before-us-congress-propose-licenses-building-ai-2023-05-16/)
 
-[Texas professor fails entire class from graduating- claiming they used ChatGTP](https://old.reddit.com/r/ChatGPT/comments/13isibz/texas_am_commerce_professor_fails_entire_class_of/)
+[Bun 0.6](https://bun.sh/blog/bun-v0.6.0)
 
-[Optimization Without Derivatives: Prima Fortran Version and Inclusion in SciPy](https://fortran-lang.discourse.group/t/optimization-without-using-derivatives-the-prima-package-its-fortran-implementation-and-its-inclusion-in-scipy/5798)
+[Middleware (YC W23) Is Hiring AI Founding Engineer](https://www.ycombinator.com/companies/middleware/jobs/8l5TKYq-ai-founding-engineer)
 
-[JPMorgan Chase & Co tracks employees to dystopian extents](https://old.reddit.com/r/antiwork/comments/13ijhae/came_back_to_a_post_here_but_it_was_removed_from/)
+[GitHub Incident](https://www.githubstatus.com/incidents/v2xjymn61dv8)
 
-[So, How Do You Refill an Aquifer?](https://heatmap.news/technology/so-how-do-you-actually-refill-an-aquifer)
+[Show HN: A little web server in C](https://github.com/robdelacruz/lkwebserver)

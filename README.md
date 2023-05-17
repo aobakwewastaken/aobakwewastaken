@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Rekt.network](https://rekt.network)
+[Retro Computer Museum](https://retrocomputermuseum.co.uk/)
 
-[BratGPT: The evil older sibling of ChatGPT](https://bratgpt.com)
+[The Staff Engineer's Path – Book Review](https://smyachenkov.com/posts/book-review-the-staff-engineers-path/)
+
+[The IRS is building its own online tax filing system](https://text.npr.org/1176417594)
+
+[Engineering professor awarded defense grant for cognitive security research](https://today.tamu.edu/2023/05/05/texas-am-engineering-professor-awarded-6-million-defense-grant-for-cognitive-security-research/)
+
+[The Regenerating Power of Big Basin’s Redwoods](https://worldsensorium.com/the-regenerating-power-of-big-basins-redwoods/)
+
+[Summarize Any Article as a Dialog Between Two People with Bing Chat](https://www.aidemos.info/summarize-any-article-as-a-dialog-between-two-people-with-bing-chat/)
+
+[U.S. Depression Rates Reach New Highs](https://news.gallup.com/poll/505745/depression-rates-reach-new-highs.aspx)
+
+[Rekt.network](https://rekt.network)
 
 [Give your brain time to think and remember](https://github.com/madprops/blog/blob/main/docs/timers.md)
 
-[Smol Developer](https://github.com/smol-ai/developer)
-
-[Deadlines as Technology](https://blog.jim-nielsen.com/2023/deadlines-as-technology/)
-
-[Skio (YC S20) is hiring – subscriptions for Shopify, easy ReCharge migrations](https://skio.com/careers/)
-
-[Introduction to the Fourier transform for image processing](https://www.cs.unm.edu/~brayer/vision/fourier.html)
-
-[Beautiful Documents with Groff (Part I)](https://stephenramsay.net/posts/groff-mom.html)
-
-[Large-scale genetic modification reveals role of duplicated genes in plants](https://phys.org/news/2023-05-large-scale-genetic-modification-method-reveals.html)
-
-[The Maddest My Code Made Anyone](http://jackkelly.name/blog/archives/2023/05/14/the_maddest_my_code_made_anyone/)
+[I Still Use Windows 95 (2008)](https://web.archive.org/web/20080220175358/http://www.andrew-turnbull.net/tech/windows95.html)

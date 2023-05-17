@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Controlled burns help prevent wildfires. Regulations make them nearly impossible](https://boulderbeat.news/2023/05/12/controlled-burn-rules/)
+[Petrucci Music Library](https://imslp.org/)
 
-[The Regenerating Power of Big Basin’s Redwoods](https://worldsensorium.com/the-regenerating-power-of-big-basins-redwoods/)
+[Show HN: Beepberry – a portable e-paper computer for hackers](https://beepberry.sqfmi.com/)
 
-[Retro Computer Museum](https://retrocomputermuseum.co.uk/)
-
-[Researchers treat depression by reversing brain signals traveling the wrong way](https://med.stanford.edu/news/all-news/2023/05/depression-reverse-brain-signals.html)
+[The myth of the $600 hammer (1998)](https://www.govexec.com/federal-news/1998/12/the-myth-of-the-600-hammer/5271/)
 
 [The Staff Engineer's Path – Book Review](https://smyachenkov.com/posts/book-review-the-staff-engineers-path/)
 
-[Summarize Any Article as a Dialog Between Two People with Bing Chat](https://www.aidemos.info/summarize-any-article-as-a-dialog-between-two-people-with-bing-chat/)
+[What were the worst jobs for poor Romans in Ancient Rome?](https://www.quora.com/What-were-the-worst-jobs-for-poor-Romans-in-Ancient-Rome)
 
-[I Still Use Windows 95 (2008)](https://web.archive.org/web/20080220175358/http://www.andrew-turnbull.net/tech/windows95.html)
+[Retro Computer Museum](https://retrocomputermuseum.co.uk/)
 
-[Give your brain time to think and remember](https://github.com/madprops/blog/blob/main/docs/timers.md)
+[Understanding database indexes in PostgreSQL](https://blog.mastermind.dev/indexes-in-postgresql)
 
-[Wizards of the Coast Raids YouTuber’s House to Take Back Magic Cards](https://kotaku.com/mtg-aftermath-leaks-pinkertons-wotc-magic-the-gathering-1850368923)
+[The regenerating power of Big Basin’s redwoods](https://worldsensorium.com/the-regenerating-power-of-big-basins-redwoods/)
 
-[Rekt.network](https://rekt.network)
+[Numbers every LLM developer should know](https://github.com/ray-project/llm-numbers)
+
+[Conditional CSS with:has and:nth-last-child](https://ishadeed.com/article/conditional-css-has-nth-last-child/)

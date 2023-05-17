@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [Rekt.network](https://rekt.network)
 
-[Smol Developer](https://github.com/smol-ai/developer)
-
-[Pandas vs. Julia – cheat sheet and comparison](https://datascientyst.com/pandas-vs-julia-comparison-cheat-sheet/)
-
 [BratGPT: The evil older sibling of ChatGPT](https://bratgpt.com)
 
-[Slack Is Down](https://slack.com)
+[Give your brain time to think and remember](https://github.com/madprops/blog/blob/main/docs/timers.md)
 
-[The Maddest My Code Made Anyone](http://jackkelly.name/blog/archives/2023/05/14/the_maddest_my_code_made_anyone/)
+[Smol Developer](https://github.com/smol-ai/developer)
 
-[Comparison site for digital analytics tools](https://newmetrics.io/)
+[Deadlines as Technology](https://blog.jim-nielsen.com/2023/deadlines-as-technology/)
 
-[Quad9’s Opinion of the Recent Court Ruling in Leipzig](https://quad9.net/news/press/quad9-s-opinion-of-the-recent-court-ruling-in-leipzig/)
-
-[Rollstack (YC W23) Is hiring a Node.js software engineer](https://www.ycombinator.com/companies/rollstack-2/jobs/SMeE2q7-senior-software-engineer-in-europe)
+[Skio (YC S20) is hiring – subscriptions for Shopify, easy ReCharge migrations](https://skio.com/careers/)
 
 [Introduction to the Fourier transform for image processing](https://www.cs.unm.edu/~brayer/vision/fourier.html)
+
+[Beautiful Documents with Groff (Part I)](https://stephenramsay.net/posts/groff-mom.html)
+
+[Large-scale genetic modification reveals role of duplicated genes in plants](https://phys.org/news/2023-05-large-scale-genetic-modification-method-reveals.html)
+
+[The Maddest My Code Made Anyone](http://jackkelly.name/blog/archives/2023/05/14/the_maddest_my_code_made_anyone/)

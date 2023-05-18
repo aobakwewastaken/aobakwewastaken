@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[CRDT-richtext: Rust implementation of Peritext and Fugue](https://loro-dev.notion.site/crdt-richtext-Rust-implementation-of-Peritext-and-Fugue-c49ef2a411c0404196170ac8daf066c0)
+
+[SciPy: Interested in adopting PRIMA, but little appetite for more Fortran code](https://fortran-lang.discourse.group/t/scipy-there-is-interest-in-adopting-this-prima-implementation-but-little-appetite-for-taking-on-more-fortran-code/5821)
+
 [What happened with ASUS routers this morning?](https://www.downtowndougbrown.com/2023/05/what-happened-with-asus-routers-this-morning/)
 
-[Where can I see Hokusai's Great Wave today?](https://greatwavetoday.com)
-
-[Show HN: Beepberry – a portable e-paper computer for hackers](https://beepberry.sqfmi.com/)
-
-[European standards bodies are inaccessible to Open Source projects](https://blog.opensource.org/another-issue-with-the-cyber-resilience-act-european-standards-bodies-are-inaccessible-to-open-source-projects/)
+[Adobe Tells Users They Can Get Sued for Using Old Versions of Photoshop](https://www.vice.com/en/article/a3xk3p/adobe-tells-users-they-can-get-sued-for-using-old-versions-of-photoshop)
 
 [User In Yer Face, a worst-practise UI experiment](https://userinyerface.com/)
 
-[User Driven UI](https://garden.bradwoods.io/notes/design/user-driven-ui)
+[Montana becomes first US state to ban TikTok](https://www.reuters.com/world/us/montana-governor-signs-bill-banning-tiktok-state-2023-05-17/)
 
-[Colima: Container runtimes on macOS (and Linux) with minimal setup](https://github.com/abiosoft/colima)
+[Legend of Zelda game sells 10M copies in three days](https://finance.yahoo.com/news/legend-zelda-game-sells-10-172603983.html)
 
-[Literate Programming: Articles](http://literateprogramming.com/articles.html)
+[Passage by 1Password](https://blog.1password.com/passage-by-1password/)
 
-[Ireland’s DPC set to hit Meta with record privacy fine over US data transfers](https://www.irishtimes.com/business/2023/05/17/irelands-dpc-said-to-hit-meta-with-record-privacy-fine-over-us-data-transfers/)
+[Apple to Mass Produce Its Own MicroLED Displays for iPhones](https://www.macrumors.com/2023/05/18/apple-mass-produce-microled-iphone/)
 
-[Simulated Hospital](https://github.com/google/simhospital)
+[Where can I see Hokusai's Great Wave today?](https://greatwavetoday.com)

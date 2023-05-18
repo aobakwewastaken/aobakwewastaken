@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Petrucci Music Library](https://imslp.org/)
+[What happened with ASUS routers this morning?](https://www.downtowndougbrown.com/2023/05/what-happened-with-asus-routers-this-morning/)
 
 [Show HN: Beepberry – a portable e-paper computer for hackers](https://beepberry.sqfmi.com/)
 
-[The myth of the $600 hammer (1998)](https://www.govexec.com/federal-news/1998/12/the-myth-of-the-600-hammer/5271/)
+[Petrucci Music Library](https://imslp.org/)
 
-[The Staff Engineer's Path – Book Review](https://smyachenkov.com/posts/book-review-the-staff-engineers-path/)
+[The Work of the Audiobook](https://lareviewofbooks.org/article/the-work-of-the-audiobook/)
 
-[What were the worst jobs for poor Romans in Ancient Rome?](https://www.quora.com/What-were-the-worst-jobs-for-poor-Romans-in-Ancient-Rome)
+[Colima: Container runtimes on macOS (and Linux) with minimal setup](https://github.com/abiosoft/colima)
 
-[Retro Computer Museum](https://retrocomputermuseum.co.uk/)
+[Using Bun.js as a Bundler](https://shaneosullivan.wordpress.com/2023/05/17/using-bun-js-as-a-bundler/)
 
-[Understanding database indexes in PostgreSQL](https://blog.mastermind.dev/indexes-in-postgresql)
+[Elizabeth Holmes is going to prison – with a $500M bill](https://www.theregister.com/2023/05/17/elizabeth_holmes_prison/)
 
-[The regenerating power of Big Basin’s redwoods](https://worldsensorium.com/the-regenerating-power-of-big-basins-redwoods/)
+[DuckDB 0.8](https://duckdb.org/2023/05/17/announcing-duckdb-080.html)
 
-[Numbers every LLM developer should know](https://github.com/ray-project/llm-numbers)
+[Medieval Arabs ate sandwiches too? (2021)](https://nawalcooking.blogspot.com/2021/06/medieval-arabs-ate-sandwiches-too-keep.html)
 
-[Conditional CSS with:has and:nth-last-child](https://ishadeed.com/article/conditional-css-has-nth-last-child/)
+[The oldest known blueprints depict Stone Age ‘megastructures’](https://www.vice.com/en/article/pkagbb/the-oldest-known-blueprints-depict-stone-age-megastructures)

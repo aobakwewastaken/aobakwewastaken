@@ -3,18 +3,18 @@
 
 [SciPy: Interested in adopting PRIMA, but little appetite for more Fortran code](https://fortran-lang.discourse.group/t/scipy-there-is-interest-in-adopting-this-prima-implementation-but-little-appetite-for-taking-on-more-fortran-code/5821)
 
-[What happened with ASUS routers this morning?](https://www.downtowndougbrown.com/2023/05/what-happened-with-asus-routers-this-morning/)
+[Quid Pro Crow](https://languagelog.ldc.upenn.edu/nll/?p=58724)
 
-[Adobe Tells Users They Can Get Sued for Using Old Versions of Photoshop](https://www.vice.com/en/article/a3xk3p/adobe-tells-users-they-can-get-sued-for-using-old-versions-of-photoshop)
+[What happened with ASUS routers this morning?](https://www.downtowndougbrown.com/2023/05/what-happened-with-asus-routers-this-morning/)
 
 [User In Yer Face, a worst-practise UI experiment](https://userinyerface.com/)
 
-[Montana becomes first US state to ban TikTok](https://www.reuters.com/world/us/montana-governor-signs-bill-banning-tiktok-state-2023-05-17/)
+[The Great CPU Stagnation](http://databasearchitects.blogspot.com/2023/04/the-great-cpu-stagnation.html)
 
-[Legend of Zelda game sells 10M copies in three days](https://finance.yahoo.com/news/legend-zelda-game-sells-10-172603983.html)
+[The Alan Turing Institute has failed to develop modern AI in the UK](https://rssdsaisection.substack.com/p/the-alan-turing-institute-has-failed)
 
-[Passage by 1Password](https://blog.1password.com/passage-by-1password/)
-
-[Apple to Mass Produce Its Own MicroLED Displays for iPhones](https://www.macrumors.com/2023/05/18/apple-mass-produce-microled-iphone/)
+[Who wants to be tracked?](https://www.quantable.com/analytics/who-wants-to-be-tracked/)
 
 [Where can I see Hokusai's Great Wave today?](https://greatwavetoday.com)
+
+[User Driven UI](https://garden.bradwoods.io/notes/design/user-driven-ui)

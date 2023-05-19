@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[A $200 mini-laptop with a Intel 8088 chip and 640KB](https://liliputing.com/past-meets-present-in-this-200-mini-laptop-with-a-intel-8088-chip-and-640kb-of-memory/)
+
 [Why is my dryer radioactive?](https://physics.stackexchange.com/questions/764460/why-is-my-dryer-radioactive)
 
-[Recreating Medieval English Ales](https://www.cs.cmu.edu/~pwp/tofi/medieval_english_ale.html)
+[High-performance tidy trees visualization (2022)](https://www.zxch3n.com/tidy/tidy/)
 
-[Linux Software Map](https://xteddy.org/lsm/)
+[MegaWang 2000 Turbo Edition hardware](https://martin-piper.itch.io/bomb-jack-display-hardware)
 
-[Photomator for Mac](https://www.pixelmator.com/blog/2023/05/16/photomator-for-mac-is-out-now/)
+[Sniffnet: Open-source, cross platform application to monitor network traffic](https://github.com/GyulyVGC/sniffnet)
 
-[Supreme Court rules Andy Warhol’s Prince art is copyright infringement](https://petapixel.com/2023/05/18/supreme-court-rules-andy-warhols-prince-art-is-copyright-infringement/)
+[Memfault (YC W19) Is Hiring Their First Product Designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
 
-[My Inventions – Nikola Tesla (1919)](https://archive.org/details/MyInventionsNikolaTesla)
+[Visa and Mastercard agree to lower average credit card interchange fee below 1%](https://ca.news.yahoo.com/visa-mastercard-agree-lower-average-193615680.html)
 
-[CLI tools for working with ChatGPT and other LLMs](https://simonwillison.net/2023/May/18/cli-tools-for-llms/)
+[Ask HN: Is Moore's Law over, or not?]()
 
-[Unit Testing eBPF Programs](https://who.ldelossa.is/posts/unit-testing-ebpf/)
+[Managing State with Signals](https://tonsky.me/blog/humble-signals/)
 
-[Zig now has built-in HTTP server and client in std](https://github.com/ziglang/zig/blob/7cf2cbb33ef34c1d211135f56d30fe23b6cacd42/test/standalone/http.zig)
-
-[How to Quit Cars](https://www.newyorker.com/magazine/2023/05/22/carmageddon-daniel-knowles-book-review-paved-paradise-henry-grabar)
+[From 0 to glTF with WebGPU: Rendering the first glTF mesh](https://www.willusher.io/graphics/2023/05/16/0-to-gltf-first-mesh)

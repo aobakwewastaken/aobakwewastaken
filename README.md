@@ -3,18 +3,18 @@
 
 [Linux tool to show progress for cp, mv, dd](https://github.com/Xfennec/progress)
 
+[Venture Predation: Using venture finance to price below costs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4437360)
+
 [Orb Farm](https://orb.farm/)
+
+[NodePad: LLM-aided graph based note-taking and brainstorming tool](https://nodepad.space/)
 
 [Typescale: A Tool for Easy CSS Typography](https://typescale.com)
 
-[Update of the RDF and SPARQL (RDF star) families of specifications](https://www.w3.org/blog/news/archives/9906)
+[FreeBSD spends 7% of its boot time running a bubblesort on its SYSINITs](https://twitter.com/cperciva/status/1659558311920914432)
 
 [Satellites reveal widespread decline in global lake water storage](https://www.science.org/doi/10.1126/science.abo2812)
 
-[Dandelion Root Recipes](https://practicalselfreliance.com/dandelion-root-recipes/)
+[Synthea: Open-Source Synthetic Patient Generation](https://synthetichealth.github.io/synthea/)
 
-[FreeBSD spends 7% of its boot time running a bubblesort on its SYSINITs](https://twitter.com/cperciva/status/1659558311920914432)
-
-[Managing State with Signals](https://tonsky.me/blog/humble-signals/)
-
-[Apple Restricts Employee Use of ChatGPT, Joining Other Companies Wary of Leaks](https://www.wsj.com/articles/apple-restricts-use-of-chatgpt-joining-other-companies-wary-of-leaks-d44d7d34)
+[Update of the RDF and SPARQL (RDF star) families of specifications](https://www.w3.org/blog/news/archives/9906)

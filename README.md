@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Don Knuth Plays with ChatGPT](https://cs.stanford.edu/~knuth/chatGPT20.txt)
+[Using ChatGPT for Home Automation](https://www.atomic14.com/2023/05/14/is-this-the-future-of-home-automation.html)
 
 [Writing summaries is more important than reading more books](https://www.andreasfragner.com/writing/writing-summaries)
 
-[Thales seizes control of ESA demonstration satellite in cybersecurity exercise](https://www.thalesgroup.com/en/worldwide/security/press_release/thales-seizes-control-esa-demonstration-satellite-first)
+[“Don Knuth Plays with ChatGPT” but with ChatGPT-4](https://gist.github.com/Jessime/63f93215faed6f7109c6d62b7fef7fbc)
 
-[Show HN: YouTube Full Text Search – Search all of a channel from the commandline](https://github.com/NotJoeMartinez/yt-fts)
+[Don Knuth Plays with ChatGPT](https://cs.stanford.edu/~knuth/chatGPT20.txt)
 
-[FBI Misused Spy Database, FISA Court Says](https://www.wsj.com/articles/fbi-improperly-searched-spy-database-for-information-on-americans-court-says-2f12bcd)
+[Dwgd: Docker WireGuard Driver](https://github.com/leomos/dwgd)
 
-[Show HN: Mapname – anonymous social network for organising points of interest](https://map.name)
+[Neeva (search engine with a privacy and AI focus) is shutting down](https://neeva.com/blog/may-announcement)
 
-[Rooms.xyz](https://rooms.xyz/)
+[Popular Pirate Bay Proxy Site Disappears from GitHub](https://torrentfreak.com/popular-pirate-bay-proxy-site-disappears-from-github-230520/)
 
-[U.S. Universities Are Building a New Semiconductor Workforce](https://spectrum.ieee.org/chips-act-workforce-development)
+[PyPI new user and new project registrations temporarily suspended](https://status.python.org)
 
-[Counterintuitive Properties of High Dimensional Space (2018)](https://marckhoury.github.io/blog/counterintuitive-properties-of-high-dimensional-space/)
+[Living sound forever: The genius of Wendy Carlos](https://xtramagazine.com/culture/wendy-carlos-trans-profile-251085)
 
-[Nontoxic powder uses sunlight to quickly disinfect contaminated drinking water](https://news.stanford.edu/2023/05/18/new-technology-uses-ordinary-sunlight-disinfect-drinking-water/)
+[Russia’s Nukes Probably Don’t Work – Here’s Why](https://wesodonnell.medium.com/russias-nukes-probably-don-t-work-here-s-why-bd686dec8b6)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Lojban: Constructed language to eliminate ambiguity from communication](https://mw.lojban.org/index.php?title=Lojban&setlang=en-US)
+
+[Show HN: YouTube Full Text Search – Search all of a channel from the commandline](https://github.com/NotJoeMartinez/yt-fts)
+
+[Counterintuitive Properties of High Dimensional Space](https://marckhoury.github.io/blog/counterintuitive-properties-of-high-dimensional-space/)
+
+[Nyxt: The Hacker's Browser](https://nyxt.atlas.engineer/)
+
+[Axle OS](https://axleos.com/)
+
 [PyTorch for WebGPU](https://praeclarum.org/2023/05/19/webgpu-torch.html)
 
-[Debugging a FUSE deadlock in the Linux kernel](https://netflixtechblog.com/debugging-a-fuse-deadlock-in-the-linux-kernel-c75cd7989b6d?gi=f4c590ed3fe6)
+[Nontoxic powder uses sunlight to quickly disinfect contaminated drinking water](https://news.stanford.edu/2023/05/18/new-technology-uses-ordinary-sunlight-disinfect-drinking-water/)
 
-[Migrating from Supabase](https://blog.val.town/blog/migrating-from-supabase)
+[In a Sheep to Shawl competition, you have 5 people, 1 sheep, and 3 hours](https://www.npr.org/2023/05/15/1176174760/sheep-shawl-fiber-art)
 
-[Bandcamp Employees Vote to Unionize](https://www.bandcampunited.org/updates)
+[I wrote a GameBoy emulator for my hobby OS (2022)](https://axleos.com/writing-axles-gameboy-emulator/)
 
-[Google Photorealistic 3D Tiles and Unreal Engine](https://nilsbakker.nl/portfolio/3d-tiles/)
-
-[Linux tool to show progress for cp, mv, dd](https://github.com/Xfennec/progress)
-
-[Venture Predation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4437360)
-
-[A new proof of security for steganography in machine-generated messages](https://www.quantamagazine.org/secret-messages-can-hide-in-ai-generated-media-20230518/)
-
-[Envisioning a Simplified Intel Architecture](https://www.intel.com/content/www/us/en/developer/articles/technical/envisioning-future-simplified-architecture.html)
-
-[Having metrics for something attracts your attention to it](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MetricsAttractAttention)
+[It’s time to embrace slow productivity (2022)](https://www.newyorker.com/culture/office-space/its-time-to-embrace-slow-productivity)

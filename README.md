@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Using ChatGPT for Home Automation](https://www.atomic14.com/2023/05/14/is-this-the-future-of-home-automation.html)
+[America’s Skepticism Toward the First Automobiles (2017)](https://www.saturdayeveningpost.com/2017/01/get-horse-americas-skepticism-toward-first-automobiles/)
 
-[Writing summaries is more important than reading more books](https://www.andreasfragner.com/writing/writing-summaries)
+[KeyDB – multi-threaded Redis fork by Snapchat](https://docs.keydb.dev/)
 
-[“Don Knuth Plays with ChatGPT” but with ChatGPT-4](https://gist.github.com/Jessime/63f93215faed6f7109c6d62b7fef7fbc)
+[Feynman Lectures on Physics (1964)](https://www.feynmanlectures.caltech.edu/)
 
-[Don Knuth Plays with ChatGPT](https://cs.stanford.edu/~knuth/chatGPT20.txt)
+[Symbolics Lisp Machines Graphics Demo (1990) [video]](https://www.youtube.com/watch?v=RQKlgza_HgE)
 
-[Dwgd: Docker WireGuard Driver](https://github.com/leomos/dwgd)
+[Moonrabbit Collection](https://ldjam.com/events/ludum-dare/53/moonrabbit-collection)
 
-[Neeva (search engine with a privacy and AI focus) is shutting down](https://neeva.com/blog/may-announcement)
+[JunoDB: PayPal’s Key-Value Store Goes Open-Source](https://medium.com/paypal-tech/unlocking-the-power-of-junodb-paypals-key-value-store-goes-open-source-ee85f935bdc1)
 
-[Popular Pirate Bay Proxy Site Disappears from GitHub](https://torrentfreak.com/popular-pirate-bay-proxy-site-disappears-from-github-230520/)
+[DevEx: What Drives Productivity](https://queue.acm.org/detail.cfm?id=3595878)
 
-[PyPI new user and new project registrations temporarily suspended](https://status.python.org)
+[Apple-1 ELIZA chatbot vs. ChatGPT [video]](https://www.youtube.com/watch?v=1yZRNt25Wdo)
 
-[Living sound forever: The genius of Wendy Carlos](https://xtramagazine.com/culture/wendy-carlos-trans-profile-251085)
+[Big Patch Series Prepares the Linux Audio Drivers for MIDI 2.0](https://www.phoronix.com/news/MIDI-2.0-Linux-Kernel-Patches)
 
-[Russia’s Nukes Probably Don’t Work – Here’s Why](https://wesodonnell.medium.com/russias-nukes-probably-don-t-work-here-s-why-bd686dec8b6)
+[Apple II Vapor Lock and the Floating Bus (2018)](http://www.deater.net/weave/vmwprod/megademo/vapor_lock.html)

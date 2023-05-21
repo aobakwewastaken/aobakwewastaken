@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[GPT detectors are biased against non-native English writers](https://arxiv.org/abs/2304.02819)
+[Paris’s Centre Pompidou to Close for Five Years Starting in 2025](https://www.artnews.com/art-news/news/centre-pompidou-closing-five-years-2025-1234667508/)
 
-[Dolphin Emulator: Progress Report February, March, and April 2023](https://dolphin-emu.org/blog/2023/05/21/dolphin-progress-report-february-march-april-2023/)
+[KLOR – A 36-42 keys column-staggered split keyboard](https://github.com/GEIGEIGEIST/KLOR)
 
-[Klor – A 36-42 keys column-staggered split keyboard](https://github.com/GEIGEIGEIST/KLOR)
+[Potentially millions of Android TVs and phones come with malware preinstalled](https://arstechnica.com/information-technology/2023/05/potentially-millions-of-android-tvs-and-phones-come-with-malware-preinstalled/)
 
-[r9: Plan 9 in Rust](https://github.com/r9os/r9)
+[Show HN: SpaceBadgers – Free and Libre SVG Badges](https://badgers.space)
+
+[Suspicious iOS KeePass Client](https://old.reddit.com/r/techsupport/comments/13nqarb/suspicious_ios_keepass_client/)
+
+[Building a Handheld PC](https://bytewelder.com/posts/2023/05/20/building-a-handheld-pc.html)
+
+[KeyDB – A Multithreaded Fork of Redis](https://docs.keydb.dev/)
 
 [Writing Python like it's Rust](https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html)
 
-[Emerge Tools is building the future of mobile tooling, come join us](https://www.ycombinator.com/companies/emerge-tools/jobs/S8b1ojf-senior-software-engineer-remote)
-
-[Show HN: A simple echo server for testing HTTP clients](https://echoserver.dev/)
-
-[The Absurdity Of Stacks](https://www.tfeb.org/fragments/2023/03/25/the-absurdity-of-stacks/)
-
-[KeyDB – A Multithreaded Fork of Redis](https://docs.keydb.dev/)
+[GPT detectors are biased against non-native English writers](https://arxiv.org/abs/2304.02819)
 
 [DarkBERT: A Language Model for the Dark Side of the Internet](https://arxiv.org/abs/2305.08596)

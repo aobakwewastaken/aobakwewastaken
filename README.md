@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[America’s Skepticism Toward the First Automobiles (2017)](https://www.saturdayeveningpost.com/2017/01/get-horse-americas-skepticism-toward-first-automobiles/)
+[Writing Python like it's Rust](https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html)
 
-[KeyDB – multi-threaded Redis fork by Snapchat](https://docs.keydb.dev/)
+[Reasons Not to Become Famous](https://tim.blog/2020/02/02/reasons-to-not-become-famous/)
+
+[KeyDB – A Multithreaded Fork of Redis](https://docs.keydb.dev/)
+
+[Little Languages for Music (1990) [pdf]](https://www.usenix.org/legacy/publications/compsystems/1990/spr_langston.pdf)
+
+[DarkBERT: A Language Model for the Dark Side of the Internet](https://arxiv.org/abs/2305.08596)
+
+[Best Linux Books for Different Target Groups and Use Cases](https://linuxstans.com/linux-books/)
+
+[Tarteel – AI-powered Quran companion](https://www.tarteel.ai/)
+
+[America’s skepticism toward the first automobiles (1930)](https://www.saturdayeveningpost.com/2017/01/get-horse-americas-skepticism-toward-first-automobiles/)
 
 [Feynman Lectures on Physics (1964)](https://www.feynmanlectures.caltech.edu/)
 
 [Symbolics Lisp Machines Graphics Demo (1990) [video]](https://www.youtube.com/watch?v=RQKlgza_HgE)
-
-[Moonrabbit Collection](https://ldjam.com/events/ludum-dare/53/moonrabbit-collection)
-
-[JunoDB: PayPal’s Key-Value Store Goes Open-Source](https://medium.com/paypal-tech/unlocking-the-power-of-junodb-paypals-key-value-store-goes-open-source-ee85f935bdc1)
-
-[DevEx: What Drives Productivity](https://queue.acm.org/detail.cfm?id=3595878)
-
-[Apple-1 ELIZA chatbot vs. ChatGPT [video]](https://www.youtube.com/watch?v=1yZRNt25Wdo)
-
-[Big Patch Series Prepares the Linux Audio Drivers for MIDI 2.0](https://www.phoronix.com/news/MIDI-2.0-Linux-Kernel-Patches)
-
-[Apple II Vapor Lock and the Floating Bus (2018)](http://www.deater.net/weave/vmwprod/megademo/vapor_lock.html)

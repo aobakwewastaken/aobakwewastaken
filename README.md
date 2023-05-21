@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[How Much Memory Do You Need to Run 1M Concurrent Tasks?](https://pkolaczk.github.io/memory-consumption-of-async/)
+
 [The end of the accounting search](https://lwn.net/Articles/925782/)
 
-[PGP signatures on PyPI: worse than useless](https://blog.yossarian.net/2023/05/21/PGP-signatures-on-PyPI-worse-than-useless)
+[High-Performance Graph Databases](https://arxiv.org/abs/2305.11162)
+
+[Recreating RP2040 PIO Interface in an FPGA](https://github.com/lawrie/fpga_pio)
 
 [The Drakon Language](https://drakonhub.com/en/drakon)
 
-[Thermal transfer compound comparison (2002)](http://www.dansdata.com/goop.htm)
+[Building a Signal Analyzer with Modern Web Tech](https://cprimozic.net/blog/building-a-signal-analyzer-with-modern-web-tech/)
+
+[OpenEPaperLink: Alternative Firmware for ZBS243-Based eInk Shelf Labels](https://github.com/jjwbruijn/OpenEPaperLink)
+
+[Show HN: Trogon – An automatic TUI for command line apps](https://github.com/Textualize/trogon)
+
+[Testing a Formally Verified Compiler](https://hal.science/hal-04096390/document)
 
 [Show HN: SpaceBadgers – Free and Libre SVG Badges](https://badgers.space)
-
-[KLOR – A 36-42 keys column-staggered split keyboard](https://github.com/GEIGEIGEIST/KLOR)
-
-[Potentially millions of Android TVs and phones come with malware preinstalled](https://arstechnica.com/information-technology/2023/05/potentially-millions-of-android-tvs-and-phones-come-with-malware-preinstalled/)
-
-[Building a Handheld PC](https://bytewelder.com/posts/2023/05/20/building-a-handheld-pc.html)
-
-[KeyDB – A Multithreaded Fork of Redis](https://docs.keydb.dev/)
-
-[DarkBERT: A Language Model for the Dark Side of the Internet](https://arxiv.org/abs/2305.08596)

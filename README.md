@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[What if you did the exact opposite, like rogue bees do (2020)](https://www.mrdbourke.com/what-if-you-did-the-exact-opposite-like-the-rogue-bees-do/)
+
 [Memory Allocation](https://samwho.dev/memory-allocation/)
 
-[Io Uring](https://nick-black.com/dankwiki/index.php/Io_uring)
+[Leaked government document shows Spain wants to ban end-to-end encryption](https://www.wired.com/story/europe-break-encryption-leaked-document-csa-law/)
+
+[Show HN: Psychic - An open-source integration platform for unstructured data](https://github.com/psychic-api/psychic)
+
+[Meta AI announces Massive Multilingual Speech code,  models for 1000+ languages](https://github.com/facebookresearch/fairseq/tree/main/examples/mms)
+
+[Io uring](https://nick-black.com/dankwiki/index.php/Io_uring)
+
+[Modern work requires attention – constant alerts steal it](https://stackoverflow.blog/2023/05/22/modern-work-requires-attention-constant-alerts-steal-it/)
+
+[Building a Better Book Club: A Strategy for Efficiently Ingesting Nonfiction](https://spin.atomicobject.com/2023/05/21/nonfiction-business-books/)
+
+[Success to the successful](https://riskmusings.substack.com/p/success-to-the-successful)
 
 [Black holes might be defects in spacetime](https://phys.org/news/2023-05-black-holes-defects-spacetime.html)
-
-[Why Salvador Dalí is the most faked artist in the world](https://thehustle.co/why-salvador-dali-is-the-most-faked-artist-in-the-world/)
-
-[Same Stop: Life after 26 years as a programmer for Apple](https://www.engineersneedart.com/blog/samestop/samestop.html)
-
-[The Demon Core and the Strange Death of Louis Slotin (2016)](https://www.newyorker.com/tech/annals-of-technology/demon-core-the-strange-death-of-louis-slotin)
-
-[Clinical Validation of Wearable Piezoelectric Blood-Pressure Sensor](https://onlinelibrary.wiley.com/doi/10.1002/adma.202301627)
-
-[The Many Faces of Distinct in PostgreSQL (2017)](https://hakibenita.com/the-many-faces-of-distinct-in-postgre-sql)
-
-[Deep Neural Networks As Computational Graphs (2018)](https://medium.com/tebs-lab/deep-neural-networks-as-computational-graphs-867fcaa56c9)
-
-[Meta Fined $1.3B Over Data Transfers to U.S.](https://www.wsj.com/articles/meta-fined-1-3-billion-over-data-transfers-to-u-s-b53dbb04)

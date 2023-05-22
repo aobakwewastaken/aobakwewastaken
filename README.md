@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[How Much Memory Do You Need to Run 1M Concurrent Tasks?](https://pkolaczk.github.io/memory-consumption-of-async/)
+[Same Stop: Life after 26 years as a programmer for Apple](https://www.engineersneedart.com/blog/samestop/samestop.html)
 
-[The end of the accounting search](https://lwn.net/Articles/925782/)
+[Investigating the impact of HTTP3 on network latency for search](https://dropbox.tech/frontend/investigating-the-impact-of-http3-on-network-latency-for-search)
 
-[High-Performance Graph Databases](https://arxiv.org/abs/2305.11162)
+[Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
 
-[Recreating RP2040 PIO Interface in an FPGA](https://github.com/lawrie/fpga_pio)
+[Modding Age of Empires II with a Sprite-Diffuser](https://www.engine.study/blog/modding-age-of-empires-ii-with-a-sprite-diffuser/)
 
-[The Drakon Language](https://drakonhub.com/en/drakon)
+[The time I accidentally spent a year combatting fraud](https://www.brightball.com/articles/the-time-i-accidentally-ended-up-combating-fraud-for-a-year)
 
-[Building a Signal Analyzer with Modern Web Tech](https://cprimozic.net/blog/building-a-signal-analyzer-with-modern-web-tech/)
+[Wrench Embedded Interpreter](https://www.northarc.com/wrench/www/)
 
-[OpenEPaperLink: Alternative Firmware for ZBS243-Based eInk Shelf Labels](https://github.com/jjwbruijn/OpenEPaperLink)
+[PrivateGPT](https://github.com/imartinez/privateGPT)
 
-[Show HN: Trogon – An automatic TUI for command line apps](https://github.com/Textualize/trogon)
+[Toaster: Pure CSS 3D Editor](https://petertyliu.github.io/toaster/)
 
-[Testing a Formally Verified Compiler](https://hal.science/hal-04096390/document)
+[Solving Intermittent Cable Modem Issues (plus “loose/bad connectors” and others)](https://www.duckware.com/tech/solving-intermittent-cable-modem-issues.html)
 
-[Show HN: SpaceBadgers – Free and Libre SVG Badges](https://badgers.space)
+[Apple is rewriting Foundation in Swift](https://github.com/apple/swift-foundation)

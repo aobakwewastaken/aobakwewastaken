@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Kanboard is a free and open source Kanban project management software](https://kanboard.org/)
+
+[Nginx 1.25.0: experimental HTTP/3 support](http://nginx.org/en/CHANGES)
+
+[Philip K. Dick's Substance Abuse and Psychosis](https://www.thecompanion.app/philip-k-dick-psychosis/)
+
+[Who Pays the Price When Cochlear Implants Go Obsolete?](https://www.sapiens.org/culture/planned-obsolescence-cochlear-implants/)
+
 [Launch HN: Common Paper (YC W23) – SAFEs for Commercial Contracts]()
 
-[Elephants may be domesticating themselves](https://www.science.org/content/article/elephants-may-be-domesticating-themselves)
+[What Number Comes Next? The On-Line Encyclopedia of Integer Sequences Knows](https://www.nytimes.com/2023/05/21/science/math-puzzles-integer-sequences.html)
 
-[Removing PGP from PyPI](https://blog.pypi.org/posts/2023-05-23-removing-pgp/)
+[Instant flood fill with HTML Canvas](https://shaneosullivan.wordpress.com/2023/05/23/instant-colour-fill-with-html-canvas/)
 
-[The AARD Code and DR DOS (2021)](https://www.geoffchappell.com/notes/windows/archive/aard/drdos/index.htm)
+[Aptible (YC S14) Is Hiring: Security Engineer and Head of Product]()
 
-[Apple Announces Multibillion Deal with Broadcom to Make Components in the USA](https://www.macrumors.com/2023/05/23/apple-announces-deal-to-make-components-in-the-usa/)
+[Google open-sources Rust crate audits](https://opensource.googleblog.com/2023/05/open-sourcing-our-rust-crate-audits.html)
 
-[Microtiming in Metallica's “Master of Puppets” (2014)](https://metalintheory.com/metallica-master-of-puppets/)
-
-[Waymo and Uber partner to bring autonomous driving technology to Uber](https://blog.waymo.com/2023/05/waymo-and-uber-partner-to-bring-waymos.html)
-
-[Show HN: Open-Source, AI Powered Notebooks for SRE Teams](https://unskript.com/developers)
-
-[How WebAssembly Is Eating the Database](https://dylibso.com/blog/wasm-udf/)
-
-[A Guide to Continuous Data Quality Monitoring for AWS Athena](https://www.lariatdata.com/blog/continuous-data-quality-athena)
+[Linux Networking Shallow Dive: WireGuard, Routing, TCP/IP and Nat](https://im.salty.fish/index.php/archives/linux-networking-shallow-dive.html)

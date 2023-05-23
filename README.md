@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Launch HN: Common Paper (YC W23) – SAFEs for Commercial Contracts]()
+
 [How Microsoft faked errors in Windows 3 on top of DR DOS](https://www.geoffchappell.com/notes/windows/archive/aard/drdos/index.htm)
 
-[RWKV: Reinventing RNNs for the Transformer Era](https://arxiv.org/abs/2305.13048)
+[Elephants may be domesticating themselves](https://www.science.org/content/article/elephants-may-be-domesticating-themselves)
 
-[Why do recipe writers lie about how long it takes to caramelize onions? (2012)](https://slate.com/human-interest/2012/05/how-to-cook-onions-why-recipe-writers-lie-and-lie-about-how-long-they-take-to-caramelize.html)
+[Waymo and Uber partner to bring autonomous driving technology to Uber](https://blog.waymo.com/2023/05/waymo-and-uber-partner-to-bring-waymos.html)
 
-[FBI misused surveillance powers more than 280k times in a year](https://www.theregister.com/2023/05/22/fbi_fisa_abuse/)
+[Removing PGP from PyPI – The Python Package Index](https://blog.pypi.org/posts/2023-05-23-removing-pgp/)
 
-[The Open Buddhist University](https://buddhistuniversity.net/)
+[Yoshua Bengio: How Rogue AIs May Arise](https://yoshuabengio.org/2023/05/22/how-rogue-ais-may-arise/)
 
-[The Industrial Hammer Complex](https://eisenbergeffect.medium.com/the-industrial-hammer-complex-d9785886ee59)
+[Following UK antitrust order, Meta sells Giphy to Shutterstock for $53M](https://techcrunch.com/2023/05/23/meta-sells-giphy-to-shutterstock-for-53m-after-uk-divestment-order/)
 
-[Demystifying Tupper's Formula](https://eli.thegreenplace.net/2023/demystifying-tuppers-formula/)
+[Ableton Push 3](https://www.ableton.com/en/push/)
 
-[A semester of Haskell-language-server: an internship report](https://www.tweag.io/blog/2023-01-31-hls-internship-report/)
+[Ithkuil, the Most Complicated Language](https://en.wikipedia.org/wiki/Ithkuil)
 
-[Ditherpunk – The article I wish I had about monochrome image dithering (2021)](https://surma.dev/things/ditherpunk/)
-
-[GirlfriendGPT – OSS AI Companion](https://github.com/EniasCailliau/GirlfriendGPT)
+[Microtiming in Metallica's “Master of Puppets” (2014)](https://metalintheory.com/metallica-master-of-puppets/)

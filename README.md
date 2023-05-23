@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[What if you did the exact opposite, like rogue bees do (2020)](https://www.mrdbourke.com/what-if-you-did-the-exact-opposite-like-the-rogue-bees-do/)
+[RWKV: Reinventing RNNs for the Transformer Era](https://arxiv.org/abs/2305.13048)
 
-[Memory Allocation](https://samwho.dev/memory-allocation/)
+[Demystifying Tupper's Formula](https://eli.thegreenplace.net/2023/demystifying-tuppers-formula/)
 
-[Leaked government document shows Spain wants to ban end-to-end encryption](https://www.wired.com/story/europe-break-encryption-leaked-document-csa-law/)
+[Why do recipe writers lie about how long it takes to caramelize onions? (2012)](https://slate.com/human-interest/2012/05/how-to-cook-onions-why-recipe-writers-lie-and-lie-about-how-long-they-take-to-caramelize.html)
 
-[Show HN: Psychic - An open-source integration platform for unstructured data](https://github.com/psychic-api/psychic)
+[X-59 supersonic aircraft](https://www.lockheedmartin.com/en-us/products/quesst.html)
 
-[Meta AI announces Massive Multilingual Speech code,  models for 1000+ languages](https://github.com/facebookresearch/fairseq/tree/main/examples/mms)
+[The Open Buddhist University](https://buddhistuniversity.net/)
 
-[Io uring](https://nick-black.com/dankwiki/index.php/Io_uring)
+[Vanilla OS 2.0 Orchid base is changing from Ubuntu to Debian](https://vanillaos.org/2023/03/07/vanilla-os-2.0-orchid-initial-work.html)
 
-[Modern work requires attention – constant alerts steal it](https://stackoverflow.blog/2023/05/22/modern-work-requires-attention-constant-alerts-steal-it/)
+[Show HN: DB-GPT, an LLM tool for database](https://github.com/csunny/DB-GPT)
 
-[Building a Better Book Club: A Strategy for Efficiently Ingesting Nonfiction](https://spin.atomicobject.com/2023/05/21/nonfiction-business-books/)
+[Reddit comments and submissions collected by Pushshift](https://academictorrents.com/details/7c0645c94321311bb05bd879ddee4d0eba08aaee)
 
-[Success to the successful](https://riskmusings.substack.com/p/success-to-the-successful)
+[Generating Music Tracks with Unified Representation and Diffusion Framework](https://ai-muzic.github.io/getmusic/)
 
-[Black holes might be defects in spacetime](https://phys.org/news/2023-05-black-holes-defects-spacetime.html)
+[Salt Lake 2002 – not enough memory/crashes to desktop after starting error](https://www.vogons.org/viewtopic.php?t=86172)

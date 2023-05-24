@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[The original transformer LLM figure is wrong](https://magazine.sebastianraschka.com/p/why-the-original-transformer-figure)
+[Man Cures Acid Reflux By Eating Upside-Down](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9106553/)
 
-[Venus is not Earth’s closest neighbor (2019) [pdf]](https://fermatslibrary.com/s/venus-is-not-earth-s-closest-neighbor)
+[The original transformer LLM figure is wrong](https://magazine.sebastianraschka.com/p/why-the-original-transformer-figure)
 
 [Terminal app built over WebGPU, WebAssembly and Rust](https://github.com/raphamorim/rio)
 
+[Ice loss from Greenland and Antarctica hits new record](https://www.esa.int/Applications/Observing_the_Earth/FutureEO/CryoSat/Ice_loss_from_Greenland_and_Antarctica_hits_new_record)
+
+[Venus is not Earth’s closest neighbor (2019) [pdf]](https://fermatslibrary.com/s/venus-is-not-earth-s-closest-neighbor)
+
 [Show HN: HelpHub – GPT chatbot for any site by CommandBar (YC S20)](https://helphub.commandbar.com)
 
-[Build a serverless Discord bot with OpenFaaS and Golang](https://www.openfaas.com/blog/build-a-serverless-discord-bot/)
+[ChainForge: An open-source visual programming environment for testing prompts](https://github.com/ianarawjo/ChainForge)
+
+[M.U.L.E. 40th Anniversary Special](https://www.carpeludum.com/m-u-l-e-40th-anniversary-special/)
+
+[SFPD Obtained Live Access to Business Camera Network in Anticipation of Protest](https://www.eff.org/deeplinks/2023/05/sfpd-obtained-live-access-business-camera-network-anticipation-tyre-nichols)
 
 [Tokyo’s trash-collecting samurai takes a fun, zany approach to cleanup](https://theworld.org/stories/2023-05-19/tokyo-s-trash-collecting-samurai-takes-fun-zany-approach-cleanup)
-
-[A novel the CIA spent a fortune to suppress](https://www.publicbooks.org/a-novel-the-cia-spent-a-fortune-to-suppress/)
-
-[Choosing a Name for Your Computer (1990)](https://www.rfc-editor.org/rfc/rfc1178)
-
-[A Chicago newspaper that bought a bar (2017)](https://www.topic.com/the-story-behind-the-chicago-newspaper-that-bought-a-bar)
-
-[Meta AI Unleashes Megabyte, a Scalable Model Architecture](https://www.artisana.ai/articles/meta-ai-unleashes-megabyte-a-revolutionary-scalable-model-architecture)

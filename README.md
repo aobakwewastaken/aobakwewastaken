@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[You don't need a modal window](https://youdontneedamodalwindow.dev/)
+[The original transformer LLM figure is wrong](https://magazine.sebastianraschka.com/p/why-the-original-transformer-figure)
 
-[Venus is not Earth’s closest neighbor](https://fermatslibrary.com/s/venus-is-not-earth-s-closest-neighbor)
+[Venus is not Earth’s closest neighbor (2019) [pdf]](https://fermatslibrary.com/s/venus-is-not-earth-s-closest-neighbor)
 
-[A Chicago newspaper that bought a bar](https://www.topic.com/the-story-behind-the-chicago-newspaper-that-bought-a-bar)
+[Terminal app built over WebGPU, WebAssembly and Rust](https://github.com/raphamorim/rio)
 
-[Regent – Electric coastal travel](https://www.regentcraft.com/)
+[Show HN: HelpHub – GPT chatbot for any site by CommandBar (YC S20)](https://helphub.commandbar.com)
 
-[What's up with this new memory_order_consume memory order?](https://devblogs.microsoft.com/oldnewthing/20230427-00/?p=108107)
+[Build a serverless Discord bot with OpenFaaS and Golang](https://www.openfaas.com/blog/build-a-serverless-discord-bot/)
 
-[GiveCampus (YC S15) Is Hiring Senior Software Engineers for Education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
-
-[Peloton CEO Quit After Laying Off 2,800. Its a Bad Lesson About How Not to Lead](https://www.inc.com/jason-aten/pelotons-ceo-john-foley-quit-q2-2022-earnings-laying-off-2800-people.html)
+[Tokyo’s trash-collecting samurai takes a fun, zany approach to cleanup](https://theworld.org/stories/2023-05-19/tokyo-s-trash-collecting-samurai-takes-fun-zany-approach-cleanup)
 
 [A novel the CIA spent a fortune to suppress](https://www.publicbooks.org/a-novel-the-cia-spent-a-fortune-to-suppress/)
 
-[Launch HN: Common Paper (YC W23) – SAFEs for Commercial Contracts]()
+[Choosing a Name for Your Computer (1990)](https://www.rfc-editor.org/rfc/rfc1178)
 
-[RF test chambers and ranges](https://www.planetanalog.com/a-brief-introduction-of-rf-test-chambers-and-ranges/)
+[A Chicago newspaper that bought a bar (2017)](https://www.topic.com/the-story-behind-the-chicago-newspaper-that-bought-a-bar)
+
+[Meta AI Unleashes Megabyte, a Scalable Model Architecture](https://www.artisana.ai/articles/meta-ai-unleashes-megabyte-a-revolutionary-scalable-model-architecture)

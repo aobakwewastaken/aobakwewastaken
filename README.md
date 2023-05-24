@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Venus is not Earth’s closest neighbor](https://fermatslibrary.com/s/venus-is-not-earth-s-closest-neighbor)
+
 [Regent – Electric coastal travel](https://www.regentcraft.com/)
 
-[Meta Open-Sources Computer Vision Foundation Model DINOv2](https://www.infoq.com/news/2023/05/meta-dinov2-vision/)
+[RF test chambers and ranges](https://www.planetanalog.com/a-brief-introduction-of-rf-test-chambers-and-ranges/)
 
-[Kanboard: free and open source Kanban project management software](https://kanboard.org/)
-
-[Instant flood fill with HTML Canvas](https://shaneosullivan.wordpress.com/2023/05/23/instant-colour-fill-with-html-canvas/)
+[A novel the CIA spent a fortune to suppress](https://www.publicbooks.org/a-novel-the-cia-spent-a-fortune-to-suppress/)
 
 [Launch HN: Common Paper (YC W23) – SAFEs for Commercial Contracts]()
 
-[Nginx 1.25.0: experimental HTTP/3 support](http://nginx.org/en/CHANGES)
+[A Chicago newspaper that bought a bar](https://www.topic.com/the-story-behind-the-chicago-newspaper-that-bought-a-bar)
 
-[SQLite builds for WASI since 3.41.0](https://wasmlabs.dev/articles/sqlite-wasi-support/)
+[Instant flood fill with HTML Canvas](https://shaneosullivan.wordpress.com/2023/05/23/instant-colour-fill-with-html-canvas/)
 
 [50 years in filesystems: towards 2004 – LFS](https://blog.koehntopp.info/2023/05/17/50-years-in-filesystems-towards-2004-lfs.html)
 
-[Linux Networking Shallow Dive: WireGuard, Routing, TCP/IP and NAT](https://im.salty.fish/index.php/archives/linux-networking-shallow-dive.html)
+[A guide to closures in Rust](https://hashrust.com/blog/a-guide-to-closures-in-rust/)
 
-[Ellison's Cave](https://en.wikipedia.org/wiki/Ellison%27s_Cave)
+[Programming with natural language is going to work (2010)](https://writings.stephenwolfram.com/2010/11/programming-with-natural-language-is-actually-going-to-work/)

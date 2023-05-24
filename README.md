@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Man Cures Acid Reflux By Eating Upside-Down](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9106553/)
+[PyPI Was Subpoenaed](https://blog.pypi.org/posts/2023-05-24-pypi-was-subpoenaed/)
 
-[The original transformer LLM figure is wrong](https://magazine.sebastianraschka.com/p/why-the-original-transformer-figure)
+[The long road to recover Frogger 2 source from tape drives](https://github.com/Kneesnap/onstream-data-recovery/blob/main/info/INTRO.MD)
 
-[Terminal app built over WebGPU, WebAssembly and Rust](https://github.com/raphamorim/rio)
+[SR-71 Blackbird Speed Check Story](https://www.thesr71blackbird.com/Aircraft/Stories/sr-71-blackbird-speed-check-story)
 
-[Ice loss from Greenland and Antarctica hits new record](https://www.esa.int/Applications/Observing_the_Earth/FutureEO/CryoSat/Ice_loss_from_Greenland_and_Antarctica_hits_new_record)
+[Walking naturally after spinal cord injury using a brain–spine interface](https://www.nature.com/articles/s41586-023-06094-5)
 
-[Venus is not Earth’s closest neighbor (2019) [pdf]](https://fermatslibrary.com/s/venus-is-not-earth-s-closest-neighbor)
+[The teens behind the Mirai botnet](https://spectrum.ieee.org/mirai-botnet)
 
-[Show HN: HelpHub – GPT chatbot for any site by CommandBar (YC S20)](https://helphub.commandbar.com)
+[Neeva Acquired by Snowflake](https://www.snowflake.com/blog/snowflake-acquires-neeva-to-accelerate-search-in-the-data-cloud-through-generative-ai/)
 
-[ChainForge: An open-source visual programming environment for testing prompts](https://github.com/ianarawjo/ChainForge)
+[Launch HN: Dittofeed (YC S22) – open-source customer engagement platform]()
 
-[M.U.L.E. 40th Anniversary Special](https://www.carpeludum.com/m-u-l-e-40th-anniversary-special/)
+[World of Goo Remastered](https://play.google.com/store/apps/details?id=com.netflix.NGP.WorldofGooHD&hl=en_US)
 
-[SFPD Obtained Live Access to Business Camera Network in Anticipation of Protest](https://www.eff.org/deeplinks/2023/05/sfpd-obtained-live-access-business-camera-network-anticipation-tyre-nichols)
+[PicoGUS: Emulate ISA Sound Cards (GUS, Adlib, MPU-401, Tandy, CMS) with a Pico](https://github.com/polpo/picogus)
 
-[Tokyo’s trash-collecting samurai takes a fun, zany approach to cleanup](https://theworld.org/stories/2023-05-19/tokyo-s-trash-collecting-samurai-takes-fun-zany-approach-cleanup)
+[DeviceScript: TypeScript for Tiny IoT Devices](https://microsoft.github.io/devicescript/)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [PyPI Was Subpoenaed](https://blog.pypi.org/posts/2023-05-24-pypi-was-subpoenaed/)
 
+[SectorC: A C Compiler in 512 bytes](https://xorvoid.com/sectorc.html)
+
+[The brand new Thunderbird logo](https://blog.thunderbird.net/2023/05/introducing-the-brand-new-thunderbird-logo/)
+
+[Show HN: Image background removal without annoying subscriptions](https://pixian.ai/remove-image-backgrounds)
+
+[QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314)
+
+[Keyval (YC W23) Is Hiring Founding Back End Engineer](https://www.ycombinator.com/companies/keyval/jobs/gc3sdVX-founding-backend-engineer)
+
 [The long road to recover Frogger 2 source from tape drives](https://github.com/Kneesnap/onstream-data-recovery/blob/main/info/INTRO.MD)
 
-[SR-71 Blackbird Speed Check Story](https://www.thesr71blackbird.com/Aircraft/Stories/sr-71-blackbird-speed-check-story)
+[UCLA computer grad constructs “crown jewel of cryptography”](https://www.acm.org/media-center/2023/may/dissertation-award-2022)
 
-[Walking naturally after spinal cord injury using a brain–spine interface](https://www.nature.com/articles/s41586-023-06094-5)
+[Ask HN: How do you not take criticism of your work personally?]()
 
-[The teens behind the Mirai botnet](https://spectrum.ieee.org/mirai-botnet)
-
-[Neeva Acquired by Snowflake](https://www.snowflake.com/blog/snowflake-acquires-neeva-to-accelerate-search-in-the-data-cloud-through-generative-ai/)
-
-[Launch HN: Dittofeed (YC S22) – open-source customer engagement platform]()
-
-[World of Goo Remastered](https://play.google.com/store/apps/details?id=com.netflix.NGP.WorldofGooHD&hl=en_US)
-
-[PicoGUS: Emulate ISA Sound Cards (GUS, Adlib, MPU-401, Tandy, CMS) with a Pico](https://github.com/polpo/picogus)
-
-[DeviceScript: TypeScript for Tiny IoT Devices](https://microsoft.github.io/devicescript/)
+[Make your own VPN with Fly.io, tailscale and GitHub](https://github.com/patte/fly-tailscale-exit)

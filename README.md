@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Neanderthal flute: The oldest musical instrument in the world](https://www.nms.si:443/en/collections/highlights/343-Neanderthal-flute)
+
+[AI Canon](https://a16z.com/2023/05/25/ai-canon/)
+
+[Whistleblower Drops 100 GB of Tesla Secrets to German News Site](https://jalopnik.com/whistleblower-drops-100-gigabytes-of-tesla-secrets-to-g-1850476542)
+
 [Everything you always wanted to know about mathematics (2013) [pdf]](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf)
 
-[Implementing a distributed key-value store on top of implementing Raft in Go](https://notes.eatonphil.com/2023-05-25-raft.html)
+[Gorilla: LLM Connected with APIs](https://gorilla.cs.berkeley.edu/)
 
-[How to Finetune GPT Like Large Language Models on a Custom Dataset](https://lightning.ai/pages/blog/how-to-finetune-gpt-like-large-language-models-on-a-custom-dataset/)
+[Chatbot Arena Leaderboard Updates (Week 4)](https://lmsys.org/blog/2023-05-25-leaderboard/)
 
-[Show HN: Visual intuitive explanations of LLM concepts (LLM University)]()
+[War Is a Racket (1935)](https://archive.org/details/WarIsARacket)
 
-[Cases where full scans are better than indexes](https://www.jefftk.com/p/you-dont-always-need-indexes)
+[Nirvana Fallacy](https://en.wikipedia.org/wiki/Nirvana_fallacy)
 
-[Archive of medieval books and manuscripts discovered in Romanian church](https://www.medievalists.net/2022/09/medieval-books-manuscripts-discovered-romania/)
+[It will take years to get Deutsche Bahn back on track](https://www.economist.com/business/2023/05/25/it-will-take-years-to-get-deutsche-bahn-back-on-track)
 
-[Ask HN: How do you not take criticism of your work personally?]()
-
-[Show HN: Image background removal without annoying subscriptions](https://pixian.ai/remove-image-backgrounds)
-
-[Tape Storage Trundles On, Increases Yearly Volume to 128 Exabytes](https://www.tomshardware.com/news/tape-storage-trundles-on-increases-yearly-volume-to-128-exabytes)
-
-[New superbug-killing antibiotic discovered using AI](https://www.bbc.com/news/health-65709834)
+[JobRunr: A library for background processing in Java](https://www.jobrunr.io/en/)

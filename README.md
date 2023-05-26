@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Neanderthal flute: The oldest musical instrument in the world](https://www.nms.si:443/en/collections/highlights/343-Neanderthal-flute)
+[MIT Course: Generative AI for Constructive Communication](https://ai4comm.media.mit.edu/)
 
-[AI Canon](https://a16z.com/2023/05/25/ai-canon/)
+[The Silent (R)evolution of SAT](https://cacm.acm.org/magazines/2023/6/273222-the-silent-revolution-of-sat/fulltext)
 
-[Whistleblower Drops 100 GB of Tesla Secrets to German News Site](https://jalopnik.com/whistleblower-drops-100-gigabytes-of-tesla-secrets-to-g-1850476542)
+[Get Ready for Team America: AI Police](https://cacm.acm.org/news/273289-get-ready-for-team-america-ai-police/fulltext)
 
-[Everything you always wanted to know about mathematics (2013) [pdf]](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf)
+[Neanderthal Flute](https://www.nms.si:443/en/collections/highlights/343-Neanderthal-flute)
 
-[Gorilla: LLM Connected with APIs](https://gorilla.cs.berkeley.edu/)
+[Weird, Rare, and Everywhere](https://hakaimagazine.com/features/weird-rare-and-everywhere/)
 
-[Chatbot Arena Leaderboard Updates (Week 4)](https://lmsys.org/blog/2023-05-25-leaderboard/)
+[Chronic stress can inflame the gut – now scientists know why](https://www.nature.com/articles/d41586-023-01700-y)
 
-[War Is a Racket (1935)](https://archive.org/details/WarIsARacket)
+[Agent GPT – Assemble, configure, and deploy autonomous AI Agents in the browser](https://agentgpt.reworkd.ai/)
 
-[Nirvana Fallacy](https://en.wikipedia.org/wiki/Nirvana_fallacy)
+[Amazon Backs Out of Climate Pledge, Deletes Shipment Zero Initiative Blogpost](https://www.businessinsider.com/amazon-shipment-zero-gives-up-most-important-part-climate-pledge-2023-5)
 
-[It will take years to get Deutsche Bahn back on track](https://www.economist.com/business/2023/05/25/it-will-take-years-to-get-deutsche-bahn-back-on-track)
+[Jj: JSON Stream Editor](https://github.com/tidwall/jj)
 
-[JobRunr: A library for background processing in Java](https://www.jobrunr.io/en/)
+[Tesla Model Y overtakes Corolla to be world’s best-selling car in 2023](https://thedriven.io/2023/05/26/tesla-model-y-overtakes-corolla-to-be-worlds-best-selling-car-in-2023/)

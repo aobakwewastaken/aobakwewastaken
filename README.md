@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Stripe Launches PayPal Integration In Europe](https://stripe.com/docs/payments/paypal)
+[0AD, an open source historical RTS in development for 22 years](https://play0ad.com/)
 
-[Node.js built-ins on Deno Deploy](https://deno.com/blog/node-builtins-on-deploy)
+[Times New Bastard](https://github.com/weiweihuanghuang/Times-New-Bastard)
 
-[Tree of Thoughts](https://github.com/kyegomez/tree-of-thoughts)
+[Paper Airplane Designs](https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2)
 
-[Jails on FreeBSD](https://ogris.de/howtos/freebsd-jails.html)
+[There oughta be a bullet time video booth](https://there.oughta.be/a/bullet-time-video-booth)
 
-[How the lemon was invented](https://www.trueorbetter.com/2018/05/how-lemon-was-invented.html)
+[Modern SAT solvers: fast, neat and underused (2018)](https://codingnest.com/modern-sat-solvers-fast-neat-underused-part-1-of-n/)
 
-[Show HN: I created a game to memorize the fretboard](https://www.fretboardfly.com)
+[Micromouse: The Fastest Maze-Solving Competition on Earth [video]](https://www.youtube.com/watch?v=ZMQbHMgK2rw)
 
-[Causal evidence that Alzheimer's may be caused by an infection](https://twitter.com/PGeldsetzer1/status/1661776663074738176)
+[GCP CloudSQL Vulnerability Leads to Internal Container Access and Data Exposure](https://www.dig.security/post/gcp-cloudsql-vulnerability-leads-to-internal-container-access-and-data-exposure)
 
-[Mozilla stops Firefox fullscreen VPN ads after user outrage](https://www.bleepingcomputer.com/news/security/mozilla-stops-firefox-fullscreen-vpn-ads-after-user-outrage/)
+[What Neeva's quiet exit tells us about the future of AI startups](https://www.supervised.news/p/what-neevas-quiet-exit-tells-us-about)
 
-[How much of AI's recent success is due to the Forer Effect?](https://shkspr.mobi/blog/2023/02/how-much-of-ais-recent-success-is-due-to-the-forer-effect/)
+[Gravitational-wave detector LIGO is back](https://www.nature.com/articles/d41586-023-01732-4)
 
-[Ask HN: How do you approach a problem you are not sure has a solution?]()
+[Phishing domains tanked after Meta sued Freenom](https://krebsonsecurity.com/2023/05/phishing-domains-tanked-after-meta-sued-freenom/)

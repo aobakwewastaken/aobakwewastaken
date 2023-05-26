@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[The Silent (R)evolution of SAT](https://cacm.acm.org/magazines/2023/6/273222-the-silent-revolution-of-sat/fulltext)
+[Show HN: Hacker News user experience enhancement browser extension](https://carina.app/hnux)
 
-[Emissions are no longer following the worst case scenario](https://theclimatebrink.substack.com/p/emissions-are-no-longer-following)
+[George Takei recalls his childhood in an internment camp](https://www.bbc.com/reel/video/p0fqggwq/george-takei-recalls-his-childhood-in-an-internment-camp)
 
-[Neanderthal Flute](https://www.nms.si:443/en/collections/highlights/343-Neanderthal-flute)
+[That people produce HTML with string templates is telling us something](https://utcc.utoronto.ca/~cks/space/blog/programming/OnHTMLViaStringTemplates)
+
+[Am I the Unethical One?](https://dailynous.com/2023/05/25/am-i-the-unethical-one-a-philosophy-professor-his-cheating-students/)
 
 [Ask HN: How do you approach a problem you are not sure has a solution?]()
 
-[Weird, Rare, and Everywhere](https://hakaimagazine.com/features/weird-rare-and-everywhere/)
+[The Silent (R)evolution of SAT](https://cacm.acm.org/magazines/2023/6/273222-the-silent-revolution-of-sat/fulltext)
+
+[12 years since Saab’s bankruptcy: Secret NEVS electric cars revealed](https://www.vibilagare.se/english/12-years-saabs-bankruptcy-secret-nevs-electric-cars-revealed)
+
+[Neanderthal Flute](https://www.nms.si:443/en/collections/highlights/343-Neanderthal-flute)
 
 [Jj: JSON Stream Editor](https://github.com/tidwall/jj)
 
 [Sweden's 250-year-old Freedom of the Press Act gets UNESCO status](https://sverigesradio.se/artikel/swedens-250-year-old-freedom-of-the-press-act-awarded-unesco-status)
-
-[Layoffs push down scores on Glassdoor: this is how companies respond](https://newsletter.pragmaticengineer.com/p/layoffs-push-down-scores-on-glassdoor)
-
-[The XY Problem (2014)](https://xyproblem.info/)
-
-[A PhD student's perspective on research in NLP in the era of LLMs](https://arxiv.org/abs/2305.12544)

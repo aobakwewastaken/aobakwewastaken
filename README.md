@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[MIT Course: Generative AI for Constructive Communication](https://ai4comm.media.mit.edu/)
-
 [The Silent (R)evolution of SAT](https://cacm.acm.org/magazines/2023/6/273222-the-silent-revolution-of-sat/fulltext)
 
-[Get Ready for Team America: AI Police](https://cacm.acm.org/news/273289-get-ready-for-team-america-ai-police/fulltext)
+[Emissions are no longer following the worst case scenario](https://theclimatebrink.substack.com/p/emissions-are-no-longer-following)
 
 [Neanderthal Flute](https://www.nms.si:443/en/collections/highlights/343-Neanderthal-flute)
 
+[Ask HN: How do you approach a problem you are not sure has a solution?]()
+
 [Weird, Rare, and Everywhere](https://hakaimagazine.com/features/weird-rare-and-everywhere/)
-
-[Chronic stress can inflame the gut – now scientists know why](https://www.nature.com/articles/d41586-023-01700-y)
-
-[Agent GPT – Assemble, configure, and deploy autonomous AI Agents in the browser](https://agentgpt.reworkd.ai/)
-
-[Amazon Backs Out of Climate Pledge, Deletes Shipment Zero Initiative Blogpost](https://www.businessinsider.com/amazon-shipment-zero-gives-up-most-important-part-climate-pledge-2023-5)
 
 [Jj: JSON Stream Editor](https://github.com/tidwall/jj)
 
-[Tesla Model Y overtakes Corolla to be world’s best-selling car in 2023](https://thedriven.io/2023/05/26/tesla-model-y-overtakes-corolla-to-be-worlds-best-selling-car-in-2023/)
+[Sweden's 250-year-old Freedom of the Press Act gets UNESCO status](https://sverigesradio.se/artikel/swedens-250-year-old-freedom-of-the-press-act-awarded-unesco-status)
+
+[Layoffs push down scores on Glassdoor: this is how companies respond](https://newsletter.pragmaticengineer.com/p/layoffs-push-down-scores-on-glassdoor)
+
+[The XY Problem (2014)](https://xyproblem.info/)
+
+[A PhD student's perspective on research in NLP in the era of LLMs](https://arxiv.org/abs/2305.12544)

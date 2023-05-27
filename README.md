@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Can SGI’s enthusiast community bring IRIX back to life?](https://tedium.co/2023/05/27/sgi-irix-revival-efforts/)
+[Building a Personal VoIP System](https://www.sacredheartsc.com/blog/building-a-personal-voip-system/)
 
 [0AD, an open source historical RTS in development for 22 years](https://play0ad.com/)
 
-[Dolphin on Steam Indefinitely Postponed Due to Nintendo DMCA](https://dolphin-emu.org/blog/2023/05/27/dolphin-steam-indefinitely-postponed/)
+[Can SGI’s enthusiast community bring IRIX back to life?](https://tedium.co/2023/05/27/sgi-irix-revival-efforts/)
 
 [Times New Bastard](https://github.com/weiweihuanghuang/Times-New-Bastard)
 
-[Paper Airplane Designs](https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2)
+[Dolphin on Steam Indefinitely Postponed](https://dolphin-emu.org/blog/2023/05/27/dolphin-steam-indefinitely-postponed/)
 
-[ChatGPT conversations can be shared publicly](https://chat.openai.com/share/66169853-d00a-4b05-abce-8f82c6d8c868)
+[New Xen updates on RISC-V](https://xcp-ng.org/blog/2023/05/23/new-xen-updates-on-risc-v/)
 
-[There oughta be a bullet time video booth](https://there.oughta.be/a/bullet-time-video-booth)
+[Servo, the parallel browser engine written in Rust](https://servo.org/)
 
 [‘The Last of Us,’ fruit fly edition](https://news.harvard.edu/gazette/story/2023/04/how-a-mind-controlling-fungal-parasite-turns-insects-into-zombies/)
 
-[418 I'm a teapot](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418)
+[The Birth of the Self](https://hudsonreview.com/?p=21100#.ZG551nbMKUk)
 
-[Micromouse: The Fastest Maze-Solving Competition on Earth [video]](https://www.youtube.com/watch?v=ZMQbHMgK2rw)
+[Din 1450, recommended for barrier-free reading](https://www.linotype.com/6990/din-1450.html)

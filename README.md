@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Defining a new HTTP method: HTTP Search (2021)](https://httptoolkit.com/blog/http-search-method/)
+[Lawyer cites fake cases invented by ChatGPT, judge is not amused](https://simonwillison.net/2023/May/27/lawyer-chatgpt/)
 
-[Scar Tissues Make Relationships Wear Out (2013)](https://gist.github.com/gtallen1187/27a585fcf36d6e657db2)
+[Reflections on Ten Years Past the Snowden Revelations](https://www.ietf.org/archive/id/draft-farrell-tenyearsafter-00.html)
 
-[Flowers for Turing](https://equalitytime.github.io/FlowersForTuring/)
+[Tarkovsky's films online for free](https://kottke.org/23/05/watch-tarkovskys-best-films-online-for-free)
 
-[Building a Personal VoIP System](https://www.sacredheartsc.com/blog/building-a-personal-voip-system/)
+[WebXR](https://immersiveweb.dev/)
 
-[TimL: Clojure-like Lisp dialect that runs on and compiles down to Vimscript](https://github.com/tpope/timl)
+[Two-thirds of North America at risk of energy shortages during extreme demand [pdf]](https://www.nerc.com/pa/RAPA/ra/Reliability%20Assessments%20DL/NERC_SRA%20Infographic_2023.pdf)
 
-[Servo, the parallel browser engine written in Rust](https://servo.org/)
+[Introduction to Algorithms: A Creative Approach by Udi Manber [pdf]](https://doc.lagout.org/science/0_Computer%20Science/2_Algorithms/Introduction%20to%20Algorithms_%20A%20Creative%20Approach%20%5BManber%201989-01-11%5D.pdf)
 
-[Curing brain tumors: blocking functions in cells with a docked molecule](https://medicalxpress.com/news/2023-05-major-brain-tumors-blocking-functions.html)
+[Scar tissues make relationships wear out (2013)](https://gist.github.com/gtallen1187/27a585fcf36d6e657db2)
 
-[The obvious final step](https://akrzemi1.wordpress.com/2023/04/23/the-obvious-final-step/)
+[Oxidizing OCaml: Locality](https://blog.janestreet.com/oxidizing-ocaml-locality/)
 
-[Impagliazzo's Five Worlds [pdf]](https://gwern.net/doc/cs/cryptography/1995-impagliazzo.pdf)
+[The HTTP QUERY Method specification](https://httpwg.org/http-extensions/draft-ietf-httpbis-safe-method-w-body.html)
 
-[Children's Games (Bruegel)](https://en.wikipedia.org/wiki/Children%27s_Games_(Bruegel))
+[Notes on Stanford Linear Accelerator Center](https://charlieharrington.com/notes-on-slac/)

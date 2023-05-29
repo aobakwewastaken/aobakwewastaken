@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[AI will slightly drain the swamp of higher ed](https://betonit.substack.com/p/how-ai-will-change-higher-education)
+
+[Donut: OCR-Free Document Understanding Transformer](https://github.com/clovaai/donut)
+
+[Production AI systems are hard](https://methexis.substack.com/p/production-ai-systems-are-really)
+
 [Let us serve you, but don't bring us down](https://blog.archive.org/2023/05/29/let-us-serve-you-but-dont-bring-us-down/)
 
-[Container Runtimes and WasmEdge benchmarking on Arm](https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/container-runtimes-wasmedge-arm)
+[Clever Code Considered Harmful](https://www.joshwcomeau.com/career/clever-code-considered-harmful/)
 
-[Media Queries and Responsive Design](https://engineering.kablamo.com.au/posts/2023/media-queries-and-responsive-design/)
+[In every country people think others are less happy than they themselves say](https://ourworldindata.org/uploads/2017/04/Happiness-of-others.png)
 
-[Easy Effects: Audio effects for PipeWire applications](https://github.com/wwmm/easyeffects)
+[Cloudflare Workers Introduces Connect() API to Create TCP Sockets](https://www.infoq.com/news/2023/05/cloudflare-workers-connect-api/)
+
+[Fitting 44% More Data on a C64/1541 Floppy Disk](https://www.pagetable.com/?p=1107)
 
 [Health officials delayed report linking fluoride to brain harm](https://www.salon.com/2023/03/16/health-officials-delayed-report-linking-fluoride-to-brain-harm_partner/)
 
-[When feedback is not a gift](https://softwaredoug.com/blog/2023/05/28/feedback-is-rarely-a-gift.html)
-
-[Commodore 64 Web server [video]](https://www.youtube.com/watch?v=O2cMnxShCVQ)
-
-[The Mysterious 50 Ohm Impedance: Where It Came from and Why We Use It (2021)](https://resources.altium.com/p/mysterious-50-ohm-impedance-where-it-came-and-why-we-use-it)
-
-[Group accused in $225K 'dice sliding' cheating scheme at Las Vegas casino](https://www.8newsnow.com/investigators/group-accused-in-225k-dice-sliding-cheating-scheme-at-las-vegas-casino/)
-
-[Fitting 44% More Data on a C64/1541 Floppy Disk](https://www.pagetable.com/?p=1107)
+[Let's make a Teeny Tiny compiler](https://austinhenley.com/blog/teenytinycompiler1.html)

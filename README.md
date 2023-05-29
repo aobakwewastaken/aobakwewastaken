@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Let us serve you, but don't bring us down](https://blog.archive.org/2023/05/29/let-us-serve-you-but-dont-bring-us-down/)
+
+[Container Runtimes and WasmEdge benchmarking on Arm](https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/container-runtimes-wasmedge-arm)
+
+[Media Queries and Responsive Design](https://engineering.kablamo.com.au/posts/2023/media-queries-and-responsive-design/)
+
+[Easy Effects: Audio effects for PipeWire applications](https://github.com/wwmm/easyeffects)
+
+[Health officials delayed report linking fluoride to brain harm](https://www.salon.com/2023/03/16/health-officials-delayed-report-linking-fluoride-to-brain-harm_partner/)
+
+[When feedback is not a gift](https://softwaredoug.com/blog/2023/05/28/feedback-is-rarely-a-gift.html)
+
+[Commodore 64 Web server [video]](https://www.youtube.com/watch?v=O2cMnxShCVQ)
+
 [The Mysterious 50 Ohm Impedance: Where It Came from and Why We Use It (2021)](https://resources.altium.com/p/mysterious-50-ohm-impedance-where-it-came-and-why-we-use-it)
 
-[How to Get Started with Tree-Sitter](https://www.masteringemacs.org/article/how-to-get-started-tree-sitter)
+[Group accused in $225K 'dice sliding' cheating scheme at Las Vegas casino](https://www.8newsnow.com/investigators/group-accused-in-225k-dice-sliding-cheating-scheme-at-las-vegas-casino/)
 
-[io_uring support for libuv – 8x increase in throughput](https://github.com/libuv/libuv/pull/3952)
-
-[The halting problem is decidable on a set of asymptotic probability one (2006)](https://projecteuclid.org/journals/notre-dame-journal-of-formal-logic/volume-47/issue-4/The-Halting-Problem-Is-Decidable-on-a-Set-of-Asymptotic/10.1305/ndjfl/1168352664.full)
-
-[Apache Baremaps: online maps toolkit](https://baremaps.apache.org/)
-
-[Lua: The Little Language That Could](https://matt.blwt.io/post/lua-the-little-language-that-could/)
-
-[Ian Hacking has died](https://www.nytimes.com/2023/05/28/science/ian-hacking-dead.html)
-
-[Landauer's Principle](https://en.wikipedia.org/wiki/Landauer%27s_principle)
-
-[Octopuses are building small “cities” off the coast of Australia (2017)](https://arstechnica.com/science/2017/09/why-octopuses-are-building-small-cities-off-the-coast-of-australia/)
-
-[YouTube removed dislike counts, so this guy made Rotten Tomatoes for YouTube](https://bgr.com/tech/youtube-removed-dislike-counts-so-this-guy-made-rotten-tomatoes-for-youtube-videos/)
+[Fitting 44% More Data on a C64/1541 Floppy Disk](https://www.pagetable.com/?p=1107)

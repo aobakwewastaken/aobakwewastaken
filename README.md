@@ -1,7 +1,7 @@
 # Top Stories on hackernews <br />
-[Purely Functional Data Structures (1996) [pdf]](https://www.cs.cmu.edu/~rwh/students/okasaki.pdf)
+[WASIX, the Superset of WASI Supporting Threads, Processes and Sockets](https://wasmer.io/posts/announcing-wasix)
 
-[Factories in Space](https://www.factoriesinspace.com/)
+[Purely Functional Data Structures (1996) [pdf]](https://www.cs.cmu.edu/~rwh/students/okasaki.pdf)
 
 [Setris – Tetris with Sand Physics](https://mslivo.itch.io/setris)
 
@@ -11,10 +11,10 @@
 
 [I gave commit rights to someone I didn't know (2016)](https://tech.davis-hansson.com/p/clickbait/)
 
-[Why is Swift so slow (timeout) in compiling this code? (2022)](https://forums.swift.org/t/why-is-swift-so-slow-timeout-in-compiling-this-code/61382)
+[React is 10 years old](https://twitter.com/dan_abramov/status/1663263814333153286)
 
 [NASA's Laser Link Boasts Record-Breaking 200 Gbps Speed](https://spectrum.ieee.org/laser-communications)
 
-[A peek inside Japan's largest “Dagashi” store](https://one-from-nippon.ghost.io/dagashiya/)
+[Statement on AI Risk](https://www.safe.ai/statement-on-ai-risk)
 
-[The FBI as advanced persistent threat](https://www.theregister.com/2023/05/30/column/)
+[Why is Swift so slow (timeout) in compiling this code? (2022)](https://forums.swift.org/t/why-is-swift-so-slow-timeout-in-compiling-this-code/61382)

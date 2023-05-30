@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[My first superoptimizer](https://austinhenley.com/blog/superoptimizer.html)
+[Setris – Tetris with Sand Physics](https://mslivo.itch.io/setris)
+
+[I gave commit rights to someone I didn't know (2016)](https://tech.davis-hansson.com/p/clickbait/)
+
+[An open-source alternative to QuickBooks](https://bigcapital.ly)
+
+[NASA's Laser Link Boasts Record-Breaking 200 Gbps Speed](https://spectrum.ieee.org/laser-communications)
+
+[Macro-ts: TypeScript compiler with typesafe syntactic macros (2022)](https://blainehansen.me/post/macro-ts/)
+
+[A chiral aperiodic monotile](https://arxiv.org/abs/2305.17743)
+
+[DNSSEC KSK rollover breaks DNS resolution for .nz domains](https://status.internetnz.nz/incidents/gq1c6slz3198)
+
+[A peek inside Japan's largest “Dagashi” store](https://one-from-nippon.ghost.io/dagashiya/)
 
 [LHC experiments see first evidence of a rare Higgs boson decay](https://www.interactions.org///press-release/lhc-experiments-see-first-evidence-rare-higgs-boson-decay)
 
-[Death by design patterns, or On the cognitive load of abstractions in the code](https://alentred.medium.com/cognitive-load-of-abstractions-in-the-source-code-20a889a106d4)
-
-[300ms Faster: Reducing Wikipedia's total blocking time](https://www.nray.dev/blog/300ms-faster-reducing-wikipedias-total-blocking-time/)
-
-[Wikipedia had wrong Vatican flag for years – now incorrect flags are everywhere](https://www.catholicnewsagency.com/news/254032/wikipedia-had-the-wrong-vatican-city-flag-for-years-now-incorrect-flags-are-everywhere)
-
-[C++17’s useful features for embedded systems](https://interrupt.memfault.com/blog/cpp-17-for-embedded)
-
-[How much would it have cost if GPT-4 had written your code](https://pypi.org/project/cost-of-code/)
-
-[Ivy (YC W23) Is Hiring](https://deep-ivy-ltd.breezy.hr/p/055a500d0e8701-ml-research-engineer?ref=upstract.com)
-
-[A terminal case of Linux](https://fasterthanli.me/articles/a-terminal-case-of-linux)
-
-[Show HN: Tiny – A 2D Game Engine in Kotlin Working with Lua](https://minigdx.github.io/tiny/)
+[HDF5eis: Storage IO solution for big multidimensional time series sensor data](https://pubs.geoscienceworld.org/geophysics/article-abstract/88/3/F29/622154/HDF5eis-A-storage-and-input-output-solution-for?redirectedFrom=fulltext)

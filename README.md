@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[WASIX, the Superset of WASI Supporting Threads, Processes and Sockets](https://wasmer.io/posts/announcing-wasix)
+[JMAP – a much needed modern email open standard](https://jmap.io/)
 
-[Purely Functional Data Structures (1996) [pdf]](https://www.cs.cmu.edu/~rwh/students/okasaki.pdf)
+[Federal Judge Makes History: Border Searches of Cell Phones Require Warrants](https://www.eff.org/deeplinks/2023/05/federal-judge-makes-history-holding-border-searches-cell-phones-require-warrant)
 
-[Setris – Tetris with Sand Physics](https://mslivo.itch.io/setris)
+[New horror revealed in sargassum blob](https://caymannewsservice.com/2023/05/new-horror-revealed-in-sargassum-blob/)
 
-[VR optics and why IPD means too many things (2019)](https://tomforsyth1000.github.io/blog.wiki.html#%5B%5BVR%20optics%20and%20why%20IPD%20means%20too%20many%20things%5D%5D)
+[UseHooks – A Collection of Server Component Safe React Hooks](https://usehooks.com/)
 
-[Tone: Cross platform audio tagger and metadata editor](https://github.com/sandreas/tone)
+[Plane: Open-Source Alternative to Atlassian's Jira](https://github.com/makeplane/plane)
 
-[I gave commit rights to someone I didn't know (2016)](https://tech.davis-hansson.com/p/clickbait/)
+[Albert Camus](https://plato.stanford.edu/entries/camus/)
 
-[React is 10 years old](https://twitter.com/dan_abramov/status/1663263814333153286)
+[Databricks acquires serverless Postgres vendor bit.io](https://www.databricks.com/blog/welcoming-bit-io-databricks-investing-developer-experience)
 
-[NASA's Laser Link Boasts Record-Breaking 200 Gbps Speed](https://spectrum.ieee.org/laser-communications)
+[Show HN: I open sourced the QR designer from my failed startup](https://github.com/kochrt/qr-designer)
 
-[Statement on AI Risk](https://www.safe.ai/statement-on-ai-risk)
+[A Sun-like star orbiting a boson star](https://arxiv.org/abs/2304.09140)
 
-[Why is Swift so slow (timeout) in compiling this code? (2022)](https://forums.swift.org/t/why-is-swift-so-slow-timeout-in-compiling-this-code/61382)
+[Lawyer cited 6 fake cases made up by ChatGPT; judge calls it “unprecedented”](https://arstechnica.com/tech-policy/2023/05/lawyer-cited-6-fake-cases-made-up-by-chatgpt-judge-calls-it-unprecedented/)

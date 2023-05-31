@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[AI intensifies fight against ‘paper mills’ that churn out fake research](https://www.nature.com/articles/d41586-023-01780-w)
+[Slide to Unlock](https://cs.uwaterloo.ca/~csk/slide/)
 
-[20um self-propelled robots that can zip through liquid (also blood) at 3mm/s](https://www.colorado.edu/today/2023/05/24/these-tiny-medical-robots-could-one-day-travel-through-your-body)
+[OpenAPI v4 (aka Moonwalk) Proposal](https://github.com/OAI/moonwalk)
 
-[The Swivel-Eyed Loons Have a Point](https://locusmag.com/2023/05/commentary-cory-doctorow-the-swivel-eyed-loons-have-a-point/)
+[Rarbg Is No More](https://web.archive.org/web/20230531105653/https://rarbg.to/index80.php)
 
-[When LIMIT 9 works but LIMIT 10 hangs: A short debugging story](https://neon.tech/blog/when-limit-9-works-but-limit-10-hangs)
+[Launch HN: Onu (YC W23) – Turn scripts into internal tools in minutes]()
 
-[AI21 Labs concludes largest Turing Test experiment to date](https://www.ai21.com/blog/human-or-not-results)
+[You can link an OpenPGP key to a German eID](https://pgp.governikus.de/?lang=EN)
 
-[Zeal is an offline documentation browser for software developers](https://zealdocs.org/)
+[1000W 12V –> 220V Inverter](https://www.instructables.com/DIY-Pure-Sine-Wave-Inverter/)
 
-[Some models of Gigabyte motherboards download firmware updates insecurely](https://www.wired.com/story/gigabyte-motherboard-firmware-backdoor/)
+[Had a call with Reddit to discuss pricing](https://old.reddit.com/r/apolloapp/comments/13ws4w3/had_a_call_with_reddit_to_discuss_pricing_bad/)
 
-[AI Camera with No Lens](https://www.theprompt.io/p/ai-camera-no-lens)
+[A new class of tiny, self-propelled robots that can zip through liquid at speed](https://www.colorado.edu/today/2023/05/24/these-tiny-medical-robots-could-one-day-travel-through-your-body)
 
-[ES modules: A cartoon deep-dive](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
+[OpenAI's plans according to sama](https://humanloop.com/blog/open_ai_talk)
 
-[Nvidia DGX GH200: 100 Terabyte GPU Memory System](https://developer.nvidia.com/blog/announcing-nvidia-dgx-gh200-first-100-terabyte-gpu-memory-system/)
+[RISE: Accelerate the development of open source software for RISC-V](https://linuxfoundation.eu/newsroom/rise-project-launches-to-accelerate-development-of-risc-v)

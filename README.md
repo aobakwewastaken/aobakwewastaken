@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[JMAP – a much needed modern email open standard](https://jmap.io/)
+[Nvidia DGX GH200: 100 Terabyte GPU Memory System](https://developer.nvidia.com/blog/announcing-nvidia-dgx-gh200-first-100-terabyte-gpu-memory-system/)
 
-[Federal Judge Makes History: Border Searches of Cell Phones Require Warrants](https://www.eff.org/deeplinks/2023/05/federal-judge-makes-history-holding-border-searches-cell-phones-require-warrant)
+[JMAP – a modern email open standard](https://jmap.io/)
 
-[New horror revealed in sargassum blob](https://caymannewsservice.com/2023/05/new-horror-revealed-in-sargassum-blob/)
+[Hacking my “smart” toothbrush](https://kuenzi.dev/toothbrush/)
 
-[UseHooks – A Collection of Server Component Safe React Hooks](https://usehooks.com/)
+[Plane: Open-Source Alternative to Jira](https://github.com/makeplane/plane)
 
-[Plane: Open-Source Alternative to Atlassian's Jira](https://github.com/makeplane/plane)
-
-[Albert Camus](https://plato.stanford.edu/entries/camus/)
-
-[Databricks acquires serverless Postgres vendor bit.io](https://www.databricks.com/blog/welcoming-bit-io-databricks-investing-developer-experience)
+[A Mechanistic Interpretability Analysis of Grokking](https://www.alignmentforum.org/posts/N6WM6hs7RQMKDhYjB/a-mechanistic-interpretability-analysis-of-grokking)
 
 [Show HN: I open sourced the QR designer from my failed startup](https://github.com/kochrt/qr-designer)
 
-[A Sun-like star orbiting a boson star](https://arxiv.org/abs/2304.09140)
+[The role of cat eye narrowing movements in cat–human communication (2020)](https://www.nature.com/articles/s41598-020-73426-0)
 
-[Lawyer cited 6 fake cases made up by ChatGPT; judge calls it “unprecedented”](https://arstechnica.com/tech-policy/2023/05/lawyer-cited-6-fake-cases-made-up-by-chatgpt-judge-calls-it-unprecedented/)
+[I try to answer “how to become a systems engineer”](https://rachelbythebay.com/w/2023/05/30/eng/)
+
+[What to Do About Aggressive Moose](https://www.adfg.alaska.gov/index.cfm%3Fadfg%3Dlivewith.aggressivemoose)
+
+[Federal judge: Border searches of cell phones require a warrant](https://www.eff.org/deeplinks/2023/05/federal-judge-makes-history-holding-border-searches-cell-phones-require-warrant)

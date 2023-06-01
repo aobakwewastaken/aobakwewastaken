@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Lost John Coltrane recording, from experimental phase with Eric Dolphy, emerges](https://www.npr.org/2023/05/31/1179098682/john-coltrane-eric-dolphy-village-gate-1961-lost-album)
+
+[Notes apps are where ideas go to die (2022)](https://www.reproof.app/blog/notes-apps-help-us-forget)
+
 [Slide to Unlock](https://cs.uwaterloo.ca/~csk/slide/)
+
+[More malicious extensions in Chrome Web Store](https://palant.info/2023/05/31/more-malicious-extensions-in-chrome-web-store/)
+
+[AI Horde’s AGPL3 hordelib receives DMCA take-down from hlky](https://dbzer0.com/blog/ai-hordes-agpl3-hordelib-receives-dmca-take-down-from-hlky/)
+
+[DARPA hacked a science writer’s brain and turned her into a sharpshooter](https://thebulletin.org/2023/05/qa-how-darpa-hacked-a-science-writers-brain-and-turned-her-into-a-sharpshooter/)
 
 [OpenAPI v4 (aka Moonwalk) Proposal](https://github.com/OAI/moonwalk)
 
-[Rarbg Is No More](https://web.archive.org/web/20230531105653/https://rarbg.to/index80.php)
+[FAA seeks public input on drone operations](https://www.faa.gov/newsroom/faa-seeks-public-input-drone-operations)
 
-[Launch HN: Onu (YC W23) – Turn scripts into internal tools in minutes]()
+[A mystery person who spies on theme parks from the sky](https://boingboing.net/2023/05/30/the-mystery-person-who-spies-on-theme-parks-from-the-sky.html)
 
-[You can link an OpenPGP key to a German eID](https://pgp.governikus.de/?lang=EN)
-
-[1000W 12V –> 220V Inverter](https://www.instructables.com/DIY-Pure-Sine-Wave-Inverter/)
-
-[Had a call with Reddit to discuss pricing](https://old.reddit.com/r/apolloapp/comments/13ws4w3/had_a_call_with_reddit_to_discuss_pricing_bad/)
-
-[A new class of tiny, self-propelled robots that can zip through liquid at speed](https://www.colorado.edu/today/2023/05/24/these-tiny-medical-robots-could-one-day-travel-through-your-body)
-
-[OpenAI's plans according to sama](https://humanloop.com/blog/open_ai_talk)
-
-[RISE: Accelerate the development of open source software for RISC-V](https://linuxfoundation.eu/newsroom/rise-project-launches-to-accelerate-development-of-risc-v)
+[Iguana: fast SIMD-optimized decompression](https://sneller.io/blog/decompressing-at-over-10-gigabytes-per-second/)

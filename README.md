@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[I went down the rabbit hole of buying GitHub Stars, so you won't have to](https://the-guild.dev/blog/judging-open-source-by-github-stars)
+[Vectorization: Introduction](https://cvw.cac.cornell.edu/vector/default)
 
-[Measuring the productivity impact of generative AI](https://www.nber.org/digest/measuring-productivity-impact-generative-ai)
+[Learn x86-64 assembly by writing a GUI from scratch](https://gaultier.github.io/blog/x11_x64.html)
 
-[Show HN: StonksGPT – A Natural Language search tool for Stocks and Finance data](https://stonks.news/gpt)
-
-[I think Zig is hard but worth it](http://ratfactor.com/zig/hard)
-
-[The unsung hero of the Apple Watch is its hidden buttons](https://www.theverge.com/23743095/apple-watch-band-release-x206-assembly-button-of-the-month)
-
-[Show HN: I made CSS Pro, a re-imagined Devtools for web design](https://csspro.com)
+[SQL:2023 has been released](https://www.iso.org/standard/76584.html)
 
 [Ask HN: Who is hiring? (June 2023)]()
 
-[Show HN: Discipline.io – Make binding commitments to your better self](https://discipline.io/)
+[New Device Generates Electricity from Thin Air](https://www.smithsonianmag.com/smart-news/this-new-device-generates-electricity-from-thin-air-180982263/)
 
-[Operation Triangulation: iOS Security Issue](https://securelist.com/trng-2023/)
+[Most Important Papers for Quantitative Traders](https://www.qmr.ai/most-important-papers-for-quantitative-traders/)
 
-[Two Men Got Jobs at Amazon Just to Steal Copies of Zelda](https://kotaku.com/legend-of-zelda-tears-kingdom-tlok-steal-japan-amazon-1850493783)
+[Own-goal football (2022)](https://generalist.academy/2022/06/07/own-goal-football/)
+
+[What are the enduring innovations of Lisp? (2022)](https://elliottslaughter.com/2022/12/lisp)
+
+[A medieval comedy act has been discovered in first-ever find, researcher says](https://www.vice.com/en/article/pkag99/a-medieval-comedy-act-has-been-discovered-in-first-ever-find-researcher-says)
+
+[OpenAI Cybersecurity Grant Program](https://openai.com/blog/openai-cybersecurity-grant-program)

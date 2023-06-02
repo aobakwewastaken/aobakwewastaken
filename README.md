@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Show HN: HN Resume to Jobs – AI Powered Job Matching Tailored to Your Resume](https://hnresumetojobs.com)
+
+[How to make fancy road trip maps with R and OpenStreetMap](https://www.andrewheiss.com/blog/2023/06/01/geocoding-routing-openstreetmap-r/)
+
 [Vectorization: Introduction](https://cvw.cac.cornell.edu/vector/default)
 
 [Learn x86-64 assembly by writing a GUI from scratch](https://gaultier.github.io/blog/x11_x64.html)
 
-[SQL:2023 has been released](https://www.iso.org/standard/76584.html)
+[What is the nature of consciousness?](https://www.quantamagazine.org/what-is-the-nature-of-consciousness-20230531/)
 
-[Ask HN: Who is hiring? (June 2023)]()
+[Memfault (YC W19) Is Hiring a Product Manager in Berlin – DevOps for Hardware](https://jobs.lever.co/memfault/4a93e014-cf06-4a7a-a1a4-46152324c3d2)
 
-[New Device Generates Electricity from Thin Air](https://www.smithsonianmag.com/smart-news/this-new-device-generates-electricity-from-thin-air-180982263/)
+[Ask HN: Who got hired from HN?]()
 
-[Most Important Papers for Quantitative Traders](https://www.qmr.ai/most-important-papers-for-quantitative-traders/)
+[Show HN: Local implementation of text-to-3D using Shap-E](https://github.com/kedzkiest/shap-e-local)
 
-[Own-goal football (2022)](https://generalist.academy/2022/06/07/own-goal-football/)
+[Show HN: Verify LLM Generated Code with a Spreadsheet]()
 
-[What are the enduring innovations of Lisp? (2022)](https://elliottslaughter.com/2022/12/lisp)
-
-[A medieval comedy act has been discovered in first-ever find, researcher says](https://www.vice.com/en/article/pkag99/a-medieval-comedy-act-has-been-discovered-in-first-ever-find-researcher-says)
-
-[OpenAI Cybersecurity Grant Program](https://openai.com/blog/openai-cybersecurity-grant-program)
+[Undetectable Watermarks for Language Models](https://eprint.iacr.org/2023/763)

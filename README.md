@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[An open source, educational, low-cost modern analog computer](https://the-analog-thing.org/)
+[Brute.Fail: Watch brute force attacks fail in real time](https://brute.fail/)
 
-[Show HN: Mercury – convert Jupyter Notebooks to Web Apps without code rewriting](https://RunMercury.com)
+[Speed running Monkey Island](https://www.grumpygamer.com/speed_running_mi)
 
-[Radiation-hardened Quine (2014)](https://github.com/mame/radiation-hardened-quine)
+[Render a neural network into CUDA/HIP code](https://github.com/facebookincubator/AITemplate)
 
-[Using Google’s code history to write more code](https://ai.googleblog.com/2023/05/large-sequence-models-for-software.html)
+[In vitro biological system of cultured brain cells has learned to play Pong](https://www.nature.com/articles/s42256-023-00666-w)
 
-[The Explosive Legacy of the Pandemic Hand Sanitizer Boom](https://www.wired.com/story/the-explosive-legacy-of-the-pandemic-hand-sanitizer-boom/)
+[A new attack can unmask anonymous users on any major browser (2022)](https://www.wired.com/story/web-deanonymization-side-channel-attack-njit/)
 
-[Scan iPhone backups for traces of compromise by “Operation Triangulation”](https://github.com/KasperskyLab/triangle_check)
+[He made linear algebra fun](https://news.mit.edu/2023/gilbert-strang-made-linear-algebra-fun-0531)
 
-[System76's Coreboot Open Firmware Manages to Disable Intel Me for Raptor Lake](https://www.phoronix.com/news/System76-Disable-ME-RPL)
+[Refurb weekend: Commodore 128DCR](http://oldvcr.blogspot.com/2023/05/refurb-weekend-commodore-128dcr.html)
 
-[North America is now the growth leader for new battery factories](https://electrek.co/2023/05/31/north-america-battery-factories/)
+[OneSignal (YC S11) is hiring a data and analytics specialist](https://onesignal.com/careers/4007708006)
 
-[27 years later and the Psion 3a is still wonderful (2020)](https://mcgst.com/2020/12/01/27-years-later-and-the-psion-3a-is-still-wonderful/)
+[Systems explained by Humberto Maturana](https://www.open.edu/openlearn/money-management/management/leadership-and-management/managing/systems-explained-humberto-maturana)
 
-[Skybox AI: Use AI to generate 3D worlds](https://skybox.blockadelabs.com/)
+[The Analog Thing: an open source, educational, low-cost modern analog computer](https://the-analog-thing.org/)

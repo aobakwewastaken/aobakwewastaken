@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Configure a Raspberry Pi as a USB Device](https://howchoo.com/pi/raspberry-pi-gadget-mode)
+[100% Open Source CS:Go](https://lwss.github.io/Kisak-Strike/)
+
+[Framework Laptop 16 Deep Dive: Display](https://frame.work/blog/framework-laptop-16-deep-dive---display)
 
 [Fq: Jq for Binary Formats](https://github.com/wader/fq)
 
+[Configure a Raspberry Pi as a USB Device](https://howchoo.com/pi/raspberry-pi-gadget-mode)
+
 [Red Hat dropping support for LibreOffice](https://lwn.net/Articles/933525/)
 
-[CodeCompose: Meta’s AI Coding Assistant](https://arxiv.org/abs/2305.12050)
+[CodeCompose: A large-scale industrial deployment of AI-assisted code authoring](https://arxiv.org/abs/2305.12050)
+
+[Bytes Are All You Need: Transformers Operating Directly on File Bytes](https://arxiv.org/abs/2306.00238)
 
 [A DIY business card that runs Linux (2019)](https://www.thirtythreeforty.net/posts/2019/12/my-business-card-runs-linux/)
 
 [Sleight-of-hand magic trick only fools monkeys with opposable thumbs](https://www.cam.ac.uk/research/news/sleight-of-hand-magic-trick-only-fools-monkeys-with-opposable-thumbs)
 
-[Keyd: Linux Key Remapper](https://github.com/rvaiya/keyd)
-
-[How to Decode QR Code on Your Own (Without Camera Scan)](https://blog.qartis.com/decoding-small-qr-codes-by-hand/)
-
-[USB armory – The open source flash-drive-sized computer by WithSecure Foundry](https://github.com/usbarmory)
-
-[Intelligent Brains Take Longer to Solve Difficult Problems](https://www.bihealth.org/en/notices/intelligent-brains-take-longer-to-solve-difficult-problems)
+[New Security Warning Issued for Google's 1.8B Gmail Users](https://www.forbes.com/sites/gordonkelly/2023/06/03/google-gmail-problem-new-security-warning-sender-verification/)

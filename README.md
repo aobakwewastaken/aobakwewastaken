@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[A new line drawing method for the cycle savvy](http://www.quiss.org/boo/)
+
+[.ga domain names soon to return to Gabonese management (from Freenom) [pdf]](https://www.afnic.fr/wp-media/uploads/2023/05/ga-domain-names-soon-to-return-to-Gabonese-management-1.pdf)
+
+[Why do railway tracks have crushed stones alongside them?](https://www.alpharail.co.nz/why-do-railway-tracks-have-crushed-stones-alongside-them/)
+
+[In Praise of the Park Bench](https://lithub.com/a-place-of-both-solitude-and-belonging-in-praise-of-the-park-bench/)
+
 [Still Love Telnet](https://bash-prompt.net/guides/telnet/)
 
 [GPS (2022)](https://ciechanow.ski/gps/)
 
+[How to use repetition (2017)](https://blog.oup.com/2017/06/repetition-linguistics/)
+
 [The death of self-driving cars is greatly exaggerated](https://www.understandingai.org/p/the-death-of-self-driving-cars-is)
 
-[This site is no longer solar powered for now](https://www.andrewjvpowell.com/articles/this-site-is-no-longer-solar-powered-for-now/)
+[OpenAI's plans according to Sam Altman](https://web.archive.org/web/20230601000258/https://website-nm4keew22-humanloopml.vercel.app/blog/openai-plans)
 
-[How we learned that bees can tell time (2021)](https://www.popsci.com/science/how-bees-tell-time-weirdest-thing-podcast/)
-
-[Bytes are all you need: Transformers operating directly on file bytes](https://arxiv.org/abs/2306.00238)
-
-[Classic components could be replaced by rubber in next-gen loudspeakers](https://www.polytechnique-insights.com/en/columns/science/loudspeakers-new-materials-in-acoustics/)
-
-[Running Apple 1 software on a breadboard computer (Wozmon) [video]](https://www.youtube.com/watch?v=HlLCtjJzHVI)
-
-[CodeCompose: A large-scale industrial deployment of AI-assisted code authoring](https://arxiv.org/abs/2305.12050)
-
-[Chronicler of the Flower Moon](https://www.theringer.com/movies/2023/5/18/23727763/david-grann-killers-of-the-flower-moon-cannes-film-festival)
+[The end of the Silicon Valley dream](https://www.spectator.co.uk/article/the-end-of-the-silicon-valley-dream/)

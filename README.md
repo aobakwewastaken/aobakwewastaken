@@ -1,5 +1,11 @@
 # Top Stories on hackernews <br />
+[Why Lisp Syntax Works](https://borretti.me/article/why-lisp-syntax-works)
+
+[Implementing Cosine in C from Scratch](https://web.archive.org/web/20210513043002/http://web.eecs.utk.edu/~azh/blog/cosine.html)
+
 [Sandstorm: Open-source platform for self-hosting web apps](https://sandstorm.io/)
+
+[Thousands of early-career NIH researchers forming union for first time](https://www.nature.com/articles/d41586-023-01845-w)
 
 [The Rust I wanted had no future](https://graydon2.dreamwidth.org/307291.html)
 
@@ -9,12 +15,6 @@
 
 [Generative AI learning path](https://www.cloudskillsboost.google/paths/118)
 
-[It’s infuriatingly hard to understand how closed models train on their input](https://simonwillison.net/2023/Jun/4/closed-model-training/)
-
-[ROFL: An open-source license that promotes fun in coding](https://lmy.medium.com/rofl-an-open-source-license-that-promotes-fun-in-coding-620388502891)
+[Raspberry Pi production rate rising to a million a month](https://www.theregister.com/2023/06/05/raspberry_pi_shipments_rise/)
 
 [D-Day Psyop (2014)](https://psywarrior.com/DDAYPSYOP.html)
-
-[Journal of Mechanism and Institution Design](http://www.mechanism-design.org/)
-
-[Huh, Our Fake Beach Is Good for Sharks](https://hakaimagazine.com/features/huh-our-fake-beach-is-good-for-sharks/)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Google no longer automatically indexes websites?](https://natehoffelder.com/blog/google-no-longer-automatically-indexes-websites-wtf/)
+[Apple Vision Pro: Apple’s first spatial computer](https://www.apple.com/newsroom/2023/06/introducing-apple-vision-pro/)
 
-[Thousands of early-career NIH researchers forming union for first time](https://www.nature.com/articles/d41586-023-01845-w)
+[Our right to challenge junk patents is under threat](https://www.eff.org/deeplinks/2023/06/our-right-challenge-junk-patents-under-threat)
 
-[GPT Best Practices](https://platform.openai.com/docs/guides/gpt-best-practices)
+[SEC Sues Binance and CEO Zhao for Breaking US Securities Rules](https://www.bloomberg.com/news/articles/2023-06-05/sec-sues-binance-and-ceo-zhao-for-breaking-us-securities-rules)
 
-[Launch HN: Nucleus (YC W23) – Kubernetes platform for both devs and ops]()
+[Forests around Chernobyl aren’t decaying properly (2014)](https://www.smithsonianmag.com/science-nature/forests-around-chernobyl-arent-decaying-properly-180950075/)
 
-[Why Lisp Syntax Works](https://borretti.me/article/why-lisp-syntax-works)
+[Apple unveils new Mac Studio and brings Apple Silicon to Mac Pro](https://www.apple.com/newsroom/2023/06/apple-unveils-new-mac-studio-and-brings-apple-silicon-to-mac-pro/)
 
-[Linux on the Xbox 360](https://www.lilysthings.org/blog/linux-on-xbox360/)
+[Is there a wider internet outage today?](https://www.thousandeyes.com/outages/)
 
-[Pixar lays off animator who saved Toy Story 2 with car full of hard drives](https://www.sfgate.com/bayarea/article/pixar-layoffs-include-lightyear-director-18134457.php)
+[Demo: Fully P2P and open source Reddit alternative we been workin on for 2 years](https://plebbit-test.netlify.app)
 
-[Implementing Cosine in C from Scratch](https://web.archive.org/web/20210513043002/http://web.eecs.utk.edu/~azh/blog/cosine.html)
+[How Photoshop solved working with files larger than can fit into memory](https://developer.chrome.com/blog/how-photoshop-solved-working-with-files-larger-than-can-fit-into-memory/)
 
-[The big idea: Are cats domesticated?](https://www.theguardian.com/books/2023/jun/05/the-big-idea-are-cats-really-domesticated)
+[An Excel error led Austria's SPÖ to announce the wrong candidate as the winner](https://twitter.com/joncstone/status/1665728784366960641)
 
-[Sandstorm: Open-source platform for self-hosting web apps](https://sandstorm.io/)
+[Open-Source Data Collection Platform for LLM Fine-Tuning and RLHF](https://argilla.io/blog/argilla-for-llms/)

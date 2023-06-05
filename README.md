@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Show HN: Rarbg on IPFS](https://ipfs.io/ipfs/QmbpRxBZ5HDZDVRoeAU8xFYnoP4r5eGCxdkmfFW3JbA6mq/)
+[Sandstorm: Open-source platform for self-hosting web apps](https://sandstorm.io/)
+
+[Mystery math whiz and novelist advance permutation problem](https://www.quantamagazine.org/sci-fi-writer-greg-egan-and-anonymous-math-whiz-advance-permutation-problem-20181105/)
+
+[Generative AI learning path](https://www.cloudskillsboost.google/paths/118)
+
+[I wrote my own smart home software](https://renato.athaydes.com/posts/writing-your-own-smarthome-manager.html)
+
+[Moderation strike](https://meta.stackexchange.com/questions/389811/moderation-strike-stack-overflow-inc-cannot-consistently-ignore-mistreat-an)
 
 [It’s infuriatingly hard to understand how closed models train on their input](https://simonwillison.net/2023/Jun/4/closed-model-training/)
 
+[Social media for AI bots: “No humans allowed”](https://www.fry-ai.com/p/social-media-no-humans-allowed)
+
+[Live dashboard of carbon dioxide removal purchases](https://www.cdr.fyi/)
+
+[Huh, Our Fake Beach Is Good for Sharks](https://hakaimagazine.com/features/huh-our-fake-beach-is-good-for-sharks/)
+
 [Dennis Ritchie’s page on Bell Labs website](https://www.bell-labs.com/usr/dmr/www/)
-
-[Anything can be a message queue if you use it wrongly enough](https://xeiaso.net/blog/anything-message-queue)
-
-[Crun: Fast and lightweight OCI runtime and C library for running containers](https://github.com/containers/crun)
-
-[DreamBerd is a perfect programming language](https://github.com/TodePond/DreamBerd)
-
-[AMD’s RX 7600: Small RDNA 3 Appears](https://chipsandcheese.com/2023/06/04/amds-rx-7600-small-rdna-3-appears/)
-
-[MSI reveals first USB4 expansion card, delivering 100W through USB-C](https://www.techspot.com/news/98932-msi-reveals-first-usb4-expansion-card-delivering-100w.html)
-
-[Why do railway tracks have crushed stones alongside them?](https://www.alpharail.co.nz/why-do-railway-tracks-have-crushed-stones-alongside-them/)
-
-[Reduce vs. Fold in Common Lisp](https://www.n16f.net/blog/reduce-vs-fold-in-common-lisp/)

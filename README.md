@@ -3,18 +3,18 @@
 
 [Thousands of early-career NIH researchers forming union for first time](https://www.nature.com/articles/d41586-023-01845-w)
 
-[A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/abs/2302.11382)
+[GPT Best Practices](https://platform.openai.com/docs/guides/gpt-best-practices)
 
-[Implementing Cosine in C from Scratch](https://web.archive.org/web/20210513043002/http://web.eecs.utk.edu/~azh/blog/cosine.html)
-
-[Major Reddit communities will go dark to protest threat to third-party apps](https://www.theverge.com/2023/6/5/23749188/reddit-subreddit-private-protest-api-changes-apollo-charges)
-
-[Sandstorm: Open-source platform for self-hosting web apps](https://sandstorm.io/)
-
-[The Rust I wanted had no future](https://graydon2.dreamwidth.org/307291.html)
-
-[Is it time to stop using sentinel values for null / “NA” values?](https://wesmckinney.com/blog/bitmaps-vs-sentinel-values/)
+[Launch HN: Nucleus (YC W23) – Kubernetes platform for both devs and ops]()
 
 [Why Lisp Syntax Works](https://borretti.me/article/why-lisp-syntax-works)
 
-[I wrote my own smart home software](https://renato.athaydes.com/posts/writing-your-own-smarthome-manager.html)
+[Linux on the Xbox 360](https://www.lilysthings.org/blog/linux-on-xbox360/)
+
+[Pixar lays off animator who saved Toy Story 2 with car full of hard drives](https://www.sfgate.com/bayarea/article/pixar-layoffs-include-lightyear-director-18134457.php)
+
+[Implementing Cosine in C from Scratch](https://web.archive.org/web/20210513043002/http://web.eecs.utk.edu/~azh/blog/cosine.html)
+
+[The big idea: Are cats domesticated?](https://www.theguardian.com/books/2023/jun/05/the-big-idea-are-cats-really-domesticated)
+
+[Sandstorm: Open-source platform for self-hosting web apps](https://sandstorm.io/)

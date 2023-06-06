@@ -3,18 +3,18 @@
 
 [Our right to challenge junk patents is under threat](https://www.eff.org/deeplinks/2023/06/our-right-challenge-junk-patents-under-threat)
 
-[SEC Sues Binance and CEO Zhao for Breaking US Securities Rules](https://www.bloomberg.com/news/articles/2023-06-05/sec-sues-binance-and-ceo-zhao-for-breaking-us-securities-rules)
+[Preparing for the Incoming Computer Shopper Tsunami](http://ascii.textfiles.com/archives/5543)
 
-[Forests around Chernobyl aren’t decaying properly (2014)](https://www.smithsonianmag.com/science-nature/forests-around-chernobyl-arent-decaying-properly-180950075/)
+[Messages that can only be understood under the influence of psychedelics](https://qri.org/blog/psycrypto-contest)
 
-[Apple unveils new Mac Studio and brings Apple Silicon to Mac Pro](https://www.apple.com/newsroom/2023/06/apple-unveils-new-mac-studio-and-brings-apple-silicon-to-mac-pro/)
+[HeadSculpt: Crafting 3D Head Avatars with Text](https://brandonhan.uk/HeadSculpt/)
 
-[Is there a wider internet outage today?](https://www.thousandeyes.com/outages/)
+[Demo: Fully P2P and open source Reddit alternative](https://plebbit-test.netlify.app)
 
-[Demo: Fully P2P and open source Reddit alternative we been workin on for 2 years](https://plebbit-test.netlify.app)
+[Grail wrongly told hundreds of people they might have cancer](https://www.cbsnews.com/news/grail-cancer-test-mistake-letter/)
 
-[How Photoshop solved working with files larger than can fit into memory](https://developer.chrome.com/blog/how-photoshop-solved-working-with-files-larger-than-can-fit-into-memory/)
+[How Wittgenstein Watched Movies](https://onthearts.com/p/how-wittgenstein-watched-movies)
+
+[Why SQLite is so great for the edge](https://blog.turso.tech/why-sqlite-is-so-great-for-the-edge-ee00a3a9a55f)
 
 [An Excel error led Austria's SPÖ to announce the wrong candidate as the winner](https://twitter.com/joncstone/status/1665728784366960641)
-
-[Open-Source Data Collection Platform for LLM Fine-Tuning and RLHF](https://argilla.io/blog/argilla-for-llms/)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [Launch HN: Fastgen (YC W23) – Visual Low-Code Backend Builder]()
 
-[cuneicode, and the Future of Text in C](https://thephd.dev/cuneicode-and-the-future-of-text-in-c)
+[How Many Sensors for Autonomous Driving?](https://semiengineering.com/how-many-sensors-for-autonomous-driving/)
+
+[An LSFMM development-process discussion](https://lwn.net/Articles/932215/)
 
 [FF4J – Feature Flags for Java](https://ff4j.github.io/)
 
-[Open Source Business Challenges and Reality, Rui Ueyama (Creator of Mold Linker)](https://gist.github.com/lleyton/9c0b75d065f37333ea9851b6cad1d1e6)
+[Cuneicode, and the Future of Text in C](https://thephd.dev/cuneicode-and-the-future-of-text-in-c)
+
+[Daft: A High-Performance Distributed Dataframe Library for Multimodal Data](https://blog.getdaft.io/p/introducing-daft-a-high-performance)
+
+[Open Source Business Challenges and Reality](https://gist.github.com/lleyton/9c0b75d065f37333ea9851b6cad1d1e6)
+
+[Show HN: Homelab Monitoring Setup with Grafana](https://blog.randombits.host/monitoring-self-hosted-services/)
 
 [Royal Navy says quantum navigation test a success](https://thequantuminsider.com/2023/06/06/royal-navy-says-quantum-navigation-test-a-success/)
 
-[“csinc”, the AArch64 instruction you didn’t know you wanted](https://danlark.org/2023/06/06/csinc-the-arm-instruction-you-didnt-know-you-wanted/)
-
-[Run and create custom ChatGPT-like bots with OpenChat](https://github.com/openchatai/OpenChat)
-
-[Beware the Man of Many Studies](https://cremieux.substack.com/p/beware-the-man-of-many-studies)
-
-[Notes on Vision Pro](https://notes.andymatuschak.org/Vision%20Pro)
-
-[The growing pains of database architecture](https://www.figma.com/blog/how-figma-scaled-to-multiple-databases/)
+[Why the Dvorak keyboard didn't take over the world (2014) [video]](https://www.youtube.com/watch?v=ZnUBl90tayI)

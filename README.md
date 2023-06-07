@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [Deepmind Alphadev: Faster sorting algorithms discovered using deep RL](https://www.nature.com/articles/s41586-023-06004-9)
 
-[uBlock Origin 1.50.0](https://github.com/gorhill/uBlock/releases/tag/1.50.0)
+[The Cuboid: A DIY air purifier that's better than a box-fan](https://dynomight.net/better-DIY-air-purifier.html)
 
-[Apple Safari 17 beta release notes: JPEG XL support added](https://developer.apple.com/documentation/safari-release-notes/safari-17-release-notes)
+[Apple's new library format combines the best of dynamic and static](https://developer.apple.com/videos/play/wwdc2023/10268)
 
-[Launch HN: Fastgen (YC W23) – Visual Low-Code Backend Builder]()
+[Wildfire Smoke in Northeastern US Visible on Goes East Images](https://www.star.nesdis.noaa.gov/GOES/sector.php?sat=G16&sector=ne)
 
-[Addressing the distribution of illicit sexual content by minors online](https://cyber.fsi.stanford.edu/news/addressing-distribution-illicit-sexual-content-minors-online)
+[Astrud Gilberto has died](https://www.bbc.com/news/entertainment-arts-65818566)
 
-[FF4J – Feature Flags for Java](https://ff4j.github.io/)
+[A monolithic operating system in 512 bytes of x86 machine code](https://github.com/nanochess/bootOS)
 
-[Open Source Business Challenges and Reality](https://gist.github.com/lleyton/9c0b75d065f37333ea9851b6cad1d1e6)
+[Quick VPN Setup with AWS Lightsail and WireGuard](https://mcoliver.substack.com/p/quick-vpn-setup-with-aws-lightsail)
 
-[Cuneicode, and the Future of Text in C](https://thephd.dev/cuneicode-and-the-future-of-text-in-c)
+[Windows 11 calls a zip file a 'postcode file' in UK English](https://twitter.com/JymFox/status/1665799627377975300)
 
-[Show HN: I built an AI language teacher to get you SPEAKING](https://gliglish.com/)
+[Scientists Guide Lightning Bolts with Lasers for the First Time](https://www.smithsonianmag.com/smart-news/scientists-guide-lightning-bolts-with-lasers-for-the-first-time-180981462/)
 
-[An LSFMM development-process discussion](https://lwn.net/Articles/932215/)
+[Tell HN: "I don't care about cookies” extension bought by Avast, users jump ship](https://addons.mozilla.org/en-US/firefox/addon/i-dont-care-about-cookies/reviews/?score=1&utm_content=addons-manager-reviews-link&utm_medium=firefox-browser&utm_source=firefox-browser)

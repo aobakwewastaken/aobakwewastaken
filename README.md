@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[“csinc”, the AArch64 instruction you didn’t know you wanted](https://danlark.org/2023/06/06/csinc-the-arm-instruction-you-didnt-know-you-wanted/)
+[Launch HN: Fastgen (YC W23) – Visual Low-Code Backend Builder]()
 
-[Ancient Carthaginians did sacrifice their children (2014)](https://www.ox.ac.uk/news/2014-01-23-ancient-carthaginians-really-did-sacrifice-their-children)
+[cuneicode, and the Future of Text in C](https://thephd.dev/cuneicode-and-the-future-of-text-in-c)
+
+[FF4J – Feature Flags for Java](https://ff4j.github.io/)
+
+[Open Source Business Challenges and Reality, Rui Ueyama (Creator of Mold Linker)](https://gist.github.com/lleyton/9c0b75d065f37333ea9851b6cad1d1e6)
 
 [Royal Navy says quantum navigation test a success](https://thequantuminsider.com/2023/06/06/royal-navy-says-quantum-navigation-test-a-success/)
 
-[Notes on Vision Pro](https://notes.andymatuschak.org/Vision%20Pro)
+[“csinc”, the AArch64 instruction you didn’t know you wanted](https://danlark.org/2023/06/06/csinc-the-arm-instruction-you-didnt-know-you-wanted/)
+
+[Run and create custom ChatGPT-like bots with OpenChat](https://github.com/openchatai/OpenChat)
 
 [Beware the Man of Many Studies](https://cremieux.substack.com/p/beware-the-man-of-many-studies)
 
-[DeepFilterNet: Noise supression using deep filtering](https://github.com/Rikorose/DeepFilterNet)
+[Notes on Vision Pro](https://notes.andymatuschak.org/Vision%20Pro)
 
-[Apple's game porting toolkit is fantastic. Cyberpunk 2077 at Ultra on an M1 MBP](https://twitter.com/isaacmarovitz/status/1666209780031971341)
-
-[Show HN: Arroyo – Write SQL on streaming data](https://github.com/ArroyoSystems/arroyo)
-
-[Bees can learn, remember, think and make decisions](https://worldsensorium.com/bees-can-learn-remember-think-and-make-decisions/)
-
-[Run and create custom ChatGPT-like bots with OpenChat](https://github.com/openchatai/OpenChat)
+[The growing pains of database architecture](https://www.figma.com/blog/how-figma-scaled-to-multiple-databases/)

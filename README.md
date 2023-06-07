@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[“csinc”, the AArch64 instruction you didn’t know you wanted](https://danlark.org/2023/06/06/csinc-the-arm-instruction-you-didnt-know-you-wanted/)
+
 [GGML – AI at the Edge](http://ggml.ai)
 
-[OpenGL 3.1 on Asahi Linux](https://asahilinux.org/2023/06/opengl-3-1-on-asahi-linux/)
+[Royal Navy says quantum navigation test a success](https://thequantuminsider.com/2023/06/06/royal-navy-says-quantum-navigation-test-a-success/)
 
-[Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields](https://jonbarron.info/zipnerf/)
+[Notes on Vision Pro](https://notes.andymatuschak.org/Vision%20Pro)
 
-[Swift Ownership Manifesto](https://github.com/apple/swift/blob/main/docs/OwnershipManifesto.md)
+[DeepFilterNet: Noise supression using deep filtering](https://github.com/Rikorose/DeepFilterNet)
 
-[React, but in Python](https://github.com/reactive-python/reactpy)
+[Is AI killing the stock photo industry? A data perspective](https://www.stockperformer.com/blog/is-ai-killing-the-stock-industry-a-data-perspective/)
 
-[Counterexamples in Type Systems: programs that crash, segfault or explode (2021)](https://counterexamples.org/intro.html)
+[Aptible (YC S14) Is Hiring: Security Engineer]()
 
-[MeZO: Fine-Tuning Language Models with Just Forward Passes](https://github.com/princeton-nlp/MeZO)
+[Bees can learn, remember, think and make decisions](https://worldsensorium.com/bees-can-learn-remember-think-and-make-decisions/)
 
-[Tesorio (YC S15) Is Hiring Back End Engineers, DevOps and Head of Marketing](https://www.tesorio.com/careers#job-openings)
+[How to Grow a Three Sisters Garden (2016)](https://www.nativeseeds.org/blogs/blog-news/how-to-grow-a-three-sisters-garden)
 
-[Deadly heart attacks are more common on a Monday](https://www.bhf.org.uk/what-we-do/news-from-the-bhf/news-archive/2023/june/heart-attack-more-common-monday)
-
-[SwiftData](https://developer.apple.com/documentation/SwiftData)
+[Launch HN: Seam (YC S20) – API for IoT Devices]()

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Intravenous Caffeine](https://www.sexdrugsandsuicide.com/p/intravenous-caffeine)
+[Apollo will close down on June 30th](https://old.reddit.com/r/apolloapp/comments/144f6xm/apollo_will_close_down_on_june_30th_reddits/)
 
-[Weird GPT-4 behavior for the specific string “ davidjl”](https://twitter.com/goodside/status/1666598580319035392)
-
-[Nanoplastic Ingestion Causes Neurological Deficits](https://www.the-scientist.com/news-opinion/nanoplastic-ingestion-causes-neurological-deficits-71152)
+[Understanding GPT Tokenizers](https://simonwillison.net/2023/Jun/8/gpt-tokenizers/)
 
 [The Last Egg](https://brr.fyi/posts/the-last-egg)
 
+[Millions of dollars in time wasted making papers fit journal guidelines](https://www.nature.com/articles/d41586-023-01846-9)
+
 [Show HN: Databasediagram.com – Private, Text to Entity-Relationship Diagram Tool](https://databasediagram.com)
 
-[The culprit behind the 1871 vandalism of the Paleozoic Museum](https://arstechnica.com/science/2023/06/the-real-culprit-behind-the-1871-vandalism-of-the-paleozoic-museum-in-central-park/)
+[AI browser extensions are a security nightmare](https://www.kolide.com/blog/ai-browser-extensions-are-a-security-nightmare)
 
-[fe: A tiny, embeddable language implemented in ANSI C](https://github.com/rxi/fe)
+[Desmos uses Pratt Parsers (2018)](https://engineering.desmos.com/articles/pratt-parser/)
 
-[The guide to software development with Guix](https://guix.gnu.org/blog/2023/from-development-environments-to-continuous-integrationthe-ultimate-guide-to-software-development-with-guix/)
+[Atoms Is Hiring Marketng Lead]()
 
-[Why I recommended ECS instead of Kubernetes to my latest customer](https://leanercloud.beehiiv.com/p/recommended-ecs-instead-kubernetes-latest-customer)
+[Synthesis Tutor – Your child’s own superhuman math tutor](https://www.synthesis.com/tutor)
 
-[The paper that came up with Apple Vision Pro's outward-facing display [pdf]](https://www.medien.ifi.lmu.de/pubdb/publications/pub/mai2017mum/mai2017mum.pdf)
+[Reddit’s CEO edited comments that criticized him (2016)](https://www.theverge.com/2016/11/23/13739026/reddit-ceo-steve-huffman-edit-comments)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [Deepmind Alphadev: Faster sorting algorithms discovered using deep RL](https://www.nature.com/articles/s41586-023-06004-9)
 
-[The Cuboid: A DIY air purifier that's better than a box-fan](https://dynomight.net/better-DIY-air-purifier.html)
+[Air quality monitors: paying more does not get you more accuracy](https://www.airgradient.com/open-airgradient/blog/expensive-air-quality-monitors-not-more-accurate/)
 
-[Apple's new library format combines the best of dynamic and static](https://developer.apple.com/videos/play/wwdc2023/10268)
+[C++ Implementation of StableDiffusion](https://github.com/axodox/axodox-machinelearning)
 
-[Wildfire Smoke in Northeastern US Visible on Goes East Images](https://www.star.nesdis.noaa.gov/GOES/sector.php?sat=G16&sector=ne)
+[Xilem Vector Graphics](https://www.youtube.com/watch?v=XjbVnwBtVEk)
 
-[Astrud Gilberto has died](https://www.bbc.com/news/entertainment-arts-65818566)
+[Wildfire Smoke in Northeastern US Visible on GOES East Images](https://www.star.nesdis.noaa.gov/GOES/sector.php?sat=G16&sector=ne)
 
-[A monolithic operating system in 512 bytes of x86 machine code](https://github.com/nanochess/bootOS)
+[SigNoz (YC W21): Open-Source Observability Platform – Is Hiring Product Designers](https://www.ycombinator.com/companies/signoz/jobs/hnlEENe-product-designer)
 
-[Quick VPN Setup with AWS Lightsail and WireGuard](https://mcoliver.substack.com/p/quick-vpn-setup-with-aws-lightsail)
+[“Fractureiser” malware in popular Minecraft mods and modpacks](https://prismlauncher.org/news/cf-compromised-alert/)
 
-[Windows 11 calls a zip file a 'postcode file' in UK English](https://twitter.com/JymFox/status/1665799627377975300)
+[Tailscale doesn't want your password](https://tailscale.com/blog/passkeys/)
 
-[Scientists Guide Lightning Bolts with Lasers for the First Time](https://www.smithsonianmag.com/smart-news/scientists-guide-lightning-bolts-with-lasers-for-the-first-time-180981462/)
+[Air Purifier vs. Positive Pressure Fresh Air System – An Unfair Battle?](https://www.airgradient.com/open-airgradient/blog/air-purifier-vs-positive-pressure-fresh-air-system-an-unfair-battle/)
 
-[Tell HN: "I don't care about cookies” extension bought by Avast, users jump ship](https://addons.mozilla.org/en-US/firefox/addon/i-dont-care-about-cookies/reviews/?score=1&utm_content=addons-manager-reviews-link&utm_medium=firefox-browser&utm_source=firefox-browser)
+[Autocomplete – a JavaScript library for building autocomplete experiences](https://github.com/algolia/autocomplete)

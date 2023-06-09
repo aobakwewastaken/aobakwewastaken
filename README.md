@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Flipper Zero Self Destructs an Electricity Smart Meter](https://www.rtl-sdr.com/flipper-zero-self-destructs-an-electricity-smart-meter/)
-
-[Free-types: Higher kinded types in TypeScript](https://github.com/geoffreytools/free-types)
+[Reddark: Website to watch subreddits going dark](https://reddark.netlify.app/)
 
 [Mechanical Apple Watch from real e-waste Apple Watch](https://www.instructables.com/Mechanical-Apple-Watch-From-Real-E-Waste-Apple-Wat/)
 
+[ArchiveTeam has saved over 11.2B Reddit links so far. We need your help](https://old.reddit.com/r/DataHoarder/comments/142l1i0/archiveteam_has_saved_over_108_billion_reddit/)
+
+[Microsoft DeviceScript – TypeScript for Tiny IoT Devices](https://github.com/microsoft/devicescript)
+
 [Understanding GPT tokenizers](https://simonwillison.net/2023/Jun/8/gpt-tokenizers/)
+
+[Free-types: Higher kinded types in TypeScript](https://github.com/geoffreytools/free-types)
 
 [Infinite Mac: Classic Macintosh system releases and software on a web browser](https://infinitemac.org/)
 
-[Startups drive commercialization of high-impact innovations](https://www.nber.org/be/20231/startups-drive-commercialization-high-impact-innovations)
+[Show HN: Spaik Lisp Version 0.3](https://github.com/snyball/spaik)
 
-[Taurine deficiency as a driver of aging](https://www.science.org/doi/10.1126/science.abn9257)
+[The Icelandic Saga Database](https://www.sagadb.org/)
 
-[Mark Zuckerberg on Apple’s Vision Pro headset](https://www.theverge.com/2023/6/8/23754239/mark-zuckerberg-meta-apple-vision-pro-headset)
-
-[The Making of the First Ever Fully Painted Feature Film “Loving Vincent”](https://www.artpublikamag.com/post/the-making-of-the-worlds-first-ever-fully-painted-feature-film-loving-vincent)
-
-[Weird GPT-4 behavior for the specific string “ davidjl”](https://twitter.com/goodside/status/1666598580319035392)
+[Google un-bans Downloader app, but developer still mad about “broken” DMCA](https://arstechnica.com/tech-policy/2023/06/google-un-bans-downloader-app-but-developer-still-mad-about-broken-dmca/)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Turkish citizens' personal data offered online after government site hacked](https://balkaninsight.com/2023/06/09/turkish-citizens-personal-data-offered-online-after-govt-site-hacked/)
+
+[Chat Notebooks](https://writings.stephenwolfram.com/2023/06/introducing-chat-notebooks-integrating-llms-into-the-notebook-paradigm/)
+
+[An unknown Swedish startup’s €3B bid to build a green rival to AWS](https://sifted.eu/articles/evroc-plan-hyperscale-cloud-news)
+
+[Artificial brains help understand real brains](https://www.economist.com/science-and-technology/2023/05/24/artificial-brains-are-helping-scientists-study-the-real-thing)
+
+[Bad waitress: Dying on your feet](https://dirt.fyi/article/2023/06/bad-waitress)
+
+[Kera Desktop: open-source, cross-platform, web-based desktop environment](https://desktop.kerahq.com/)
+
 [OpenMW: Open-source TES3: Morrowind reimplementation](https://gitlab.com/OpenMW/openmw)
 
-[Gravitational Machines](https://arxiv.org/abs/2305.10470)
+[The Opt Out Project](https://www.optoutproject.net/)
 
-[Self-hosting the Tor Project users forum](https://blog.torproject.org/tor-project-forum-migration/)
+[Jared Diamond: A Reply to His Critics](https://blog.daviskedrosky.com/p/jared-diamond-a-reply-to-his-critics)
 
-[Average color of the NYC sky every 5 minutes](https://nskyc.com/)
-
-[Who is working on forward and backward compatibility for LLMs?](https://huyenchip.com/2023/04/11/llm-engineering.html#backward_and_forward_compatibility)
-
-[Thoughts about the impact of long peace](https://acoup.blog/2023/06/09/fireside-friday-june-9-2023/)
-
-[Why do cats knead?](https://www.livescience.com/animals/cats/why-do-cats-knead)
-
-[The Stack Overflow Creative Commons Data Dump has been turned off](https://meta.stackexchange.com/a/390023/6212)
-
-[NYC Subwaysheds](https://subwaysheds.com/)
-
-[Microsoft DeviceScript – TypeScript for Tiny IoT Devices](https://github.com/microsoft/devicescript)
+[Nix/NixOS S3 Update and Recap of Community Call](https://discourse.nixos.org/t/s3-update-and-recap-of-community-call/28942)

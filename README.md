@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Apollo will close down on June 30th](https://old.reddit.com/r/apolloapp/comments/144f6xm/apollo_will_close_down_on_june_30th_reddits/)
+[Flipper Zero Self Destructs an Electricity Smart Meter](https://www.rtl-sdr.com/flipper-zero-self-destructs-an-electricity-smart-meter/)
 
-[Understanding GPT Tokenizers](https://simonwillison.net/2023/Jun/8/gpt-tokenizers/)
+[Free-types: Higher kinded types in TypeScript](https://github.com/geoffreytools/free-types)
 
-[The Last Egg](https://brr.fyi/posts/the-last-egg)
+[Mechanical Apple Watch from real e-waste Apple Watch](https://www.instructables.com/Mechanical-Apple-Watch-From-Real-E-Waste-Apple-Wat/)
 
-[Millions of dollars in time wasted making papers fit journal guidelines](https://www.nature.com/articles/d41586-023-01846-9)
+[Understanding GPT tokenizers](https://simonwillison.net/2023/Jun/8/gpt-tokenizers/)
 
-[Show HN: Databasediagram.com – Private, Text to Entity-Relationship Diagram Tool](https://databasediagram.com)
+[Infinite Mac: Classic Macintosh system releases and software on a web browser](https://infinitemac.org/)
 
-[AI browser extensions are a security nightmare](https://www.kolide.com/blog/ai-browser-extensions-are-a-security-nightmare)
+[Startups drive commercialization of high-impact innovations](https://www.nber.org/be/20231/startups-drive-commercialization-high-impact-innovations)
 
-[Desmos uses Pratt Parsers (2018)](https://engineering.desmos.com/articles/pratt-parser/)
+[Taurine deficiency as a driver of aging](https://www.science.org/doi/10.1126/science.abn9257)
 
-[Atoms Is Hiring Marketng Lead]()
+[Mark Zuckerberg on Apple’s Vision Pro headset](https://www.theverge.com/2023/6/8/23754239/mark-zuckerberg-meta-apple-vision-pro-headset)
 
-[Synthesis Tutor – Your child’s own superhuman math tutor](https://www.synthesis.com/tutor)
+[The Making of the First Ever Fully Painted Feature Film “Loving Vincent”](https://www.artpublikamag.com/post/the-making-of-the-worlds-first-ever-fully-painted-feature-film-loving-vincent)
 
-[Reddit’s CEO edited comments that criticized him (2016)](https://www.theverge.com/2016/11/23/13739026/reddit-ceo-steve-huffman-edit-comments)
+[Weird GPT-4 behavior for the specific string “ davidjl”](https://twitter.com/goodside/status/1666598580319035392)

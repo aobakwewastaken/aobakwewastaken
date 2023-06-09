@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Apollo Back end just made public](https://old.reddit.com/r/apolloapp/comments/144l6se/apollo_backend_just_made_public_the_goal_of/)
+[Gravitational Machines](https://arxiv.org/abs/2305.10470)
 
-[Mechanical Apple Watch from real e-waste Apple Watch](https://www.instructables.com/Mechanical-Apple-Watch-From-Real-E-Waste-Apple-Wat/)
+[Average color of the NYC sky every 5 minutes](https://nskyc.com/)
+
+[OpenMW: Open-source TES3: Morrowind reimplementation](https://gitlab.com/OpenMW/openmw)
+
+[Thoughts about the impact of long peace](https://acoup.blog/2023/06/09/fireside-friday-june-9-2023/)
+
+[The Stack Overflow Creative Commons Data Dump has been turned off](https://meta.stackexchange.com/a/390023/6212)
+
+[Do no harm petition: Don't give big tech access to our medical records](https://act.wemove.eu/campaigns/medical-records)
+
+[Shreddit is a Python program to remove all your Reddit comments](https://github.com/x89/Shreddit)
 
 [Microsoft DeviceScript – TypeScript for Tiny IoT Devices](https://github.com/microsoft/devicescript)
 
+[Mechanical Apple Watch from real e-waste Apple Watch](https://www.instructables.com/Mechanical-Apple-Watch-From-Real-E-Waste-Apple-Wat/)
+
 [The Icelandic Saga Database](https://www.sagadb.org/)
-
-[Writing a C Compiler (2017)](https://norasandler.com/2017/11/29/Write-a-Compiler.html)
-
-[ArchiveTeam has saved over 11.2B Reddit links so far. We need your help](https://old.reddit.com/r/DataHoarder/comments/142l1i0/archiveteam_has_saved_over_108_billion_reddit/)
-
-[Infinite Mac: Classic Macintosh system releases and software on a web browser](https://infinitemac.org/)
-
-[The Making of the First Ever Fully Painted Feature Film “Loving Vincent”](https://www.artpublikamag.com/post/the-making-of-the-worlds-first-ever-fully-painted-feature-film-loving-vincent)
-
-[Google un-bans Downloader app, but developer still mad about “broken” DMCA](https://arstechnica.com/tech-policy/2023/06/google-un-bans-downloader-app-but-developer-still-mad-about-broken-dmca/)
-
-[Show HN: Spaik Lisp Version 0.3](https://github.com/snyball/spaik)

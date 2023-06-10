@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[LLM.int8(): 8-Bit Matrix Multiplication for Transformers at Scale (2022)](https://arxiv.org/abs/2208.07339)
+[Barracuda Urges Replacing – Not Patching – Its Email Security Gateways](https://krebsonsecurity.com/2023/06/barracuda-urges-replacing-not-patching-its-email-security-gateways/)
 
-[Palantir CEO Rejects Calls to Pause AI Development](https://newsnotfound.com/palantir-ceo-rejects-calls-to-pause-ai-development-amid-global-debate/)
+[An Elm Fork](https://gren-lang.org/)
 
-[Show HN: RISC-V core written in 600 lines of C89](https://github.com/mnurzia/rv)
+[Generative AI support on Vertex AI is now generally available](https://cloud.google.com/blog/products/ai-machine-learning/generative-ai-support-on-vertexai)
+
+[A performance analysis of Intel x86-SIMD-sort (AVX-512)](https://github.com/Voultapher/sort-research-rs/blob/main/writeup/intel_avx512/text.md)
+
+[MusicGen: Simple and controllable music generation](https://ai.honu.io/papers/musicgen/)
+
+[List one task, do it, cross it out](https://www.oliverburkeman.com/onething)
+
+[Mercedes beats Tesla to autonomous driving in California](https://www.theregister.com/2023/06/09/mercedes_california_tesla/)
+
+[OBS merges WebRTC support](https://github.com/obsproject/obs-studio/commit/851a8c216e14617fb523951839f3bdb240e85141)
+
+[New York City will charge drivers going downtown](https://www.cnn.com/2023/06/10/business/congestion-pricing-new-york-city-transportation/index.html)
 
 [Licensing is neither feasible nor effective for addressing AI risks](https://aisnakeoil.substack.com/p/licensing-is-neither-feasible-nor)
-
-[Wind-to-Hydrogen Production Reaches Deep Water](https://spectrum.ieee.org/green-hydrogen-offshore-wind)
-
-[Golang’s best-kept secret: ‘executable examples’](https://bitfieldconsulting.com/golang/examples)
-
-[All About Skimmers](https://krebsonsecurity.com/all-about-skimmers/)
-
-[FBI: FISA Section 702 'absolutely critical' to spy on, err, protect Americans](https://www.theregister.com/2023/06/09/fbi_fisa_section_702_absolutely/)
-
-[Zig language server and cancellation](https://matklad.github.io/2023/05/06/zig-language-server-and-cancellation.html)
-
-[The Accidental HFT Firm (2018)](https://web.archive.org/web/20210205014443/https://meanderful.blogspot.com/2018/01/the-accidental-hft-firm.html)

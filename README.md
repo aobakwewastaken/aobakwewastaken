@@ -1,4 +1,6 @@
 # Top Stories on hackernews <br />
+[Douglas Crockford: “We should stop using JavaScript”](https://digest.browsertech.com/archive/browsertech-digest-9801/)
+
 [Before Reddit and Digg, there was Fark. Then a user-hostile redesign killed it](https://www.fark.com/comments/2762299/Fark-site-redesign-is-now-live-Hope-nothing-breaks-were-all-out-drinking)
 
 [Video to Video with Stable Diffusion (Step-by-Step) – Stable Diffusion Art](https://stable-diffusion-art.com/video-to-video/)
@@ -7,11 +9,9 @@
 
 [The Surprising Power of Documentation](https://vadimkravcenko.com/shorts/proper-documentation/)
 
-[Temperature-dependent RNA editing in octopus recodes the neural proteome](https://www.cell.com/cell/fulltext/S0092-8674(23)00523-8)
-
 [MIDI 2.0 driver support coming with Linux 6.5](https://www.phoronix.com/news/MIDI-2.0-Support-Linux-6.5)
 
-[Upgrading my Chumby 8 kernel part 5: graphics](https://www.downtowndougbrown.com/2023/06/upgrading-my-chumby-8-kernel-part-5-graphics/)
+[Temperature-dependent RNA editing in octopus recodes the neural proteome](https://www.cell.com/cell/fulltext/S0092-8674(23)00523-8)
 
 [El Paquete Semanal](https://en.wikipedia.org/wiki/El_Paquete_Semanal)
 

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Llama.cpp: Full CUDA GPU Acceleration](https://github.com/ggerganov/llama.cpp/pull/1827)
+
 [Show HN: Non.io, a Reddit-like platform Ive been working on for the last 4 years](https://non.io)
 
-[Understanding DeepMind's sorting algorithm](https://justine.lol/sorting/)
+[BBEdit: Where Respect Is Due](https://apps.apple.com/us/story/id1435835881)
 
-[A profit-price spiral in Germany](https://think.ing.com/articles/never-waste-a-good-crisis-a-profit-price-spiral-germany/)
+[Oyster: Towards Unsupervised Object Detection from Lidar Point Clouds](https://waabi.ai/oyster/)
 
-[US Patent Office proposes rule to make it much harder to kill bad patents](https://www.techdirt.com/2023/06/08/us-patent-office-proposes-rule-to-make-it-much-harder-to-kill-bad-patents/)
+[SnapFusion: Text-to-Image Diffusion Model on Mobile Devices Within Two Seconds](https://snap-research.github.io/SnapFusion/)
 
-[Scripting with Elixir](https://underjord.io/scripting-with-elixir.html)
+[Hacking root EPP servers to take control of zones](https://hackcompute.com/hacking-epp-servers/)
 
-[Pixelfed Introduces Import from Instagram](https://pixelfed.blog/p/2023/feature/introducing-import-from-instagram)
+[MDMA Moves from Club Drug to Real Therapy](https://www.scientificamerican.com/podcast/episode/mdma-moves-from-club-drug-to-real-therapy/)
 
-[The US Is Openly Stockpiling Dirt on All Its Citizens](https://www.wired.com/story/odni-commercially-available-information-report/)
+[Why sqlite3 temp files were renamed 'etilqs_*' (2006)](https://github.com/mackyle/sqlite/blob/18cf47156abe94255ae1495ba2da84517dce6081/src/os.h)
 
-[Show HN: Stable Diffusion powered level editor for a 2D game](https://generalrobots.substack.com/p/dimension-hopper-part-1)
+[Don't use custom CSS scrollbars](https://ericwbailey.website/published/dont-use-custom-css-scrollbars/)
 
-[Every Signature Is Broken: Insecurity of Microsoft Office’s Ooxml Signatures](https://www.usenix.org/conference/usenixsecurity23/presentation/rohlmann)
-
-[Escape from Silicon Valley (alternative visions of computation)](https://monroelab.net/escape-from-silicon-valley-alternative-visions-of-computation)
+[Lisp Game Jam – “Wireworld” in WebAssembly Using Spritely's Hoot Project](https://spritely.institute/news/hoot-wireworld-live-in-browser.html)

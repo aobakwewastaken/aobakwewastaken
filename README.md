@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Rewriting the Ruby Parser](https://railsatscale.com//2023-06-12-rewriting-the-ruby-parser/)
+[Cormac McCarthy, Novelist of a Darker America, Is Dead at 89](https://www.nytimes.com/2023/06/13/books/cormac-mccarthy-dead.html)
 
-[Launch HN: Resend (YC W23) – Email API for Developers Using React](https://resend.com)
+[McDonald's Just Dropped a Brand New Game Boy Game in 2023](https://retrododo.com/mcdonalds-grimaces-birthday/)
 
-[Jim Keller on AI, RISC-V, Tenstorrent’s Move to Edge IP](https://www.eetimes.com/jim-keller-on-ai-risc-v-tenstorrents-move-to-edge-ip/)
+[Open source hospital price database](https://www.dolthub.com/repositories/dolthub/transparency-in-pricing/data/main/rate)
 
-[Johnny Decimal](https://johnnydecimal.com/10-19-concepts/11-core/11.01-introduction/)
+[JupyterLab 4.0](https://blog.jupyter.org/jupyterlab-4-0-is-here-388d05e03442?gi=692635ec8178)
 
-[Stochastic Parrot](https://en.wikipedia.org/wiki/Stochastic_parrot)
+[ZX81 Mechanical Keyboard](https://github.com/swetland/zx81-keyboard)
 
-[Obsidian-Copilot: A Prototype Assistant for Writing and Thinking](https://eugeneyan.com/writing/obsidian-copilot/)
+[Working quickly is more important than it seems (2015)](http://jsomers.net/blog/speed-matters)
 
-[Microsoft is bringing GPT-4 to US Government agencies](https://www.bloomberg.com/news/articles/2023-06-07/microsoft-offers-powerful-openai-technology-to-us-government-cloud-customers)
+[Finish your projects](https://github.com/readme/guides/finish-your-projects)
 
-[Show HN: A smarter Unix shell and scripting environment](https://github.com/lmorg/murex)
+[Track HN: Survival Rate of Show HN Stories](https://nami.land/2023/06/11/track-hn-analyze-survival-rate-of-120-396-show-hn-posts-june-2023.html)
 
-[Llama.cpp: Full CUDA GPU Acceleration](https://github.com/ggerganov/llama.cpp/pull/1827)
+[Rewriting the Ruby parser](https://railsatscale.com//2023-06-12-rewriting-the-ruby-parser/)
 
-[U.S. Spy Agencies Buy Vast Quantities of Americans’ Personal Data](https://www.wsj.com/articles/u-s-spy-agencies-buy-vast-quantities-of-americans-personal-data-report-says-f47ec3ad)
+[Launch HN: Resend (YC W23) – Email API for developers using React](https://resend.com)

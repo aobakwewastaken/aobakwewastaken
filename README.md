@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Llama.cpp: Full CUDA GPU Acceleration](https://github.com/ggerganov/llama.cpp/pull/1827)
+[Launch HN: Resend (YC W23) – Email API for Developers Using React](https://resend.com)
 
-[How some common material imbalances affect your win-rate](https://lichess.org/@/marcusbuffett/blog/how-some-common-material-imbalances-affect-your-win-rate/kxVKLBTj)
+[Rewriting the Ruby Parser](https://railsatscale.com//2023-06-12-rewriting-the-ruby-parser/)
+
+[Microsoft is bringing GPT-4 to US Government agencies](https://www.bloomberg.com/news/articles/2023-06-07/microsoft-offers-powerful-openai-technology-to-us-government-cloud-customers)
+
+[Jim Keller on AI, RISC-V, Tenstorrent’s Move to Edge IP](https://www.eetimes.com/jim-keller-on-ai-risc-v-tenstorrents-move-to-edge-ip/)
+
+[Money, the Unit of Caring (2009)](https://www.lesswrong.com/posts/ZpDnRCeef2CLEFeKM/money-the-unit-of-caring)
+
+[Stochastic Parrot](https://en.wikipedia.org/wiki/Stochastic_parrot)
 
 [Johnny Decimal](https://johnnydecimal.com/10-19-concepts/11-core/11.01-introduction/)
 
-[BBEdit: Where Respect Is Due](https://apps.apple.com/us/story/id1435835881)
+[Show HN: A smarter Unix shell and scripting environment](https://github.com/lmorg/murex)
 
-[New exoplanet found orbiting twin suns](https://www.space.com/tatooine-exoplanet-binary-systeim-twin-suns)
+[Llama.cpp: Full CUDA GPU Acceleration](https://github.com/ggerganov/llama.cpp/pull/1827)
 
-[Oyster: Towards Unsupervised Object Detection from Lidar Point Clouds](https://waabi.ai/oyster/)
-
-[SnapFusion: Text-to-Image Diffusion Model on Mobile Devices Within Two Seconds](https://snap-research.github.io/SnapFusion/)
-
-[Don't use custom CSS scrollbars](https://ericwbailey.website/published/dont-use-custom-css-scrollbars/)
-
-[Show HN: Non.io, a Reddit-like platform Ive been working on for the last 4 years](https://non.io)
-
-[Why sqlite3 temp files were renamed 'etilqs_*' (2006)](https://github.com/mackyle/sqlite/blob/18cf47156abe94255ae1495ba2da84517dce6081/src/os.h#L56-L75)
+[Obsidian-Copilot: A Prototype Assistant for Writing and Thinking](https://eugeneyan.com/writing/obsidian-copilot/)

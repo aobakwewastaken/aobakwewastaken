@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[I booted Linux 292,612 times](https://rwmj.wordpress.com/2023/06/14/i-booted-linux-292612-times/)
+[Native JSON Output from GPT-4](https://yonom.substack.com/p/native-json-output-from-gpt-4)
 
-[Dumb and Gets Things Done](https://www.johndcook.com/blog/2010/12/27/dumb-and-gets-things-done/)
+[Trapped Under Trucks](https://www.propublica.org/article/underride-crashes-nhtsa-dot-iihs-safety-cars-trucks)
 
-[The Deliberate Practice Guide](https://fs.blog/deliberate-practice-guide/)
+[AMD openSIL open source firmware proof of concept](https://github.com/openSIL/openSIL)
 
-[Always the Same Warning Signs](https://www.science.org/content/blog-post/always-same-warning-signs)
+[I booted Linux 293k times in 21 hours](https://rwmj.wordpress.com/2023/06/14/i-booted-linux-292612-times/)
 
-[NPM won't publish packages containing the word keygen](https://mamot.fr/@Franky47/110542776481020618)
+[I may be the only evil (bit) user on the internet (2015)](https://blog.benjojo.co.uk/post/evil-bit-RFC3514-real-world-usage)
 
-[Launch HN: Credal.ai (YC W23) – Data Safety for Enterprise AI]()
+[New York State Senate passes prohibitions on non-competes](https://ogletree.com/insights/new-york-state-senate-passes-prohibitions-on-non-competes/)
 
-[Reddit Is OpenAI’s Moat?](https://www.cyberdemon.org/2023/06/14/reddit-moat.html)
+[Recovering secret keys from devices using video footage of their power LED](https://www.nassiben.com/video-based-crypta)
 
-[Show HN: Scribbler – Podcast Summaries Using GPT](https://app.scribbler.so)
+[Repairing Electronics: A circular economy solution](https://nextbillion.net/repairing-electronics-circular-economy-solution-ewaste-rural-africa/)
 
-[SimulaVR's Reaction to Apple](https://simulavr.com/blog/seeking-investment/)
+[Always the same warning signs](https://www.science.org/content/blog-post/always-same-warning-signs)
 
-[The Reddit blackout has left Google barren and full of holes – TechRadar](https://www.techradar.com/opinion/the-reddit-blackout-has-left-google-barren-and-full-of-holes)
+[Where did the long tail go? (2022)](https://www.honest-broker.com/p/where-did-the-long-tail-go)

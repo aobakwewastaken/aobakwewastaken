@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Effective Rust](https://www.lurklurk.org/effective-rust/)
+
 [Quake's lightning gun bug explained](https://www.youtube.com/watch?v=4gNYTqn3qRc)
 
-[Hardware Hacking to Bypass Bios Passwords](https://blog.cybercx.co.nz/bypassing-bios-password)
-
-[ESP32-C3 Wireless Adventure: A Comprehensive Guide to IoT [pdf]](https://www.espressif.com/sites/default/files/documentation/ESP32-C3%20Wireless%20Adventure.pdf)
+[How to crawl a quarter billion webpages in 40 hours (2012)](https://michaelnielsen.org/ddi/how-to-crawl-a-quarter-billion-webpages-in-40-hours/)
 
 [This Week in Rust 499](https://this-week-in-rust.org/blog/2023/06/14/this-week-in-rust-499/)
 
-[Native JSON Output from GPT-4](https://yonom.substack.com/p/native-json-output-from-gpt-4)
+[ESP32-C3 Wireless Adventure: A Comprehensive Guide to IoT [pdf]](https://www.espressif.com/sites/default/files/documentation/ESP32-C3%20Wireless%20Adventure.pdf)
 
-[Lessons Learned from 11 Years of Hosting a SaaS](https://ghiculescu.substack.com/p/11-years-of-hosting-a-saas)
+[JetPack Aviation (YC W19) Is Hiring](https://www.ycombinator.com/companies/jetpack-aviation/jobs/vZY8DUc-chief-engineer-turbine-powered-vtol-aircraft)
 
-[Moving fast with the core Vim motions](https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/moving-blazingly-fast-with-the-core-vim-motions/)
+[Thinking Like Transformers (2021) [pdf]](https://arxiv.org/abs/2106.06981)
 
-[SETI scientists to devise plan for lunar listening station](https://www.supercluster.com/editorial/seti-scientists-to-devise-plan-for-lunar-listening-station/)
+[Bioacoustics: Finding the Voices of Other Species](https://worldsensorium.com/bioacoustics-finding-the-voices-of-other-species/)
 
-[Why does nuclear power plant construction cost so much?](https://progress.institute/nuclear-power-plant-construction-costs/)
+[To Understand the Past, Pick Up an Old Magazine](https://www.nytimes.com/2023/06/13/magazine/old-magazines.html)
 
-[June (YC W21) Is Hiring Engineer #3 – Remote CET](https://www.ycombinator.com/companies/june/jobs/SHd7fFLYG-product-engineer-3)
+[FANN: Vector Search in 200 Lines of Rust](https://fennel.ai/blog/vector-search-in-200-lines-of-rust/)

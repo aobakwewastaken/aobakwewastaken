@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Zluda: Run CUDA code on Intel GPUs, unmodified](https://github.com/vosen/ZLUDA)
+[Sequence diagrams, the only good thing UML brought to software development](https://www.mermaidchart.com/blog/posts/sequence-diagrams-the-good-thing-uml-brought-to-software-development)
 
-[Our Plan for Python 3.13](https://github.com/faster-cpython/ideas/blob/main/3.13/README.md)
+[Rock engravings made by Homo Naledi ~300k years ago](https://www.biorxiv.org/content/10.1101/2023.06.01.543133v1)
 
 [Unihiker, an $80 single-board PC with 2.8“ touchscreen, quad-core ARM Cortex-A35](https://www.unihiker.com/)
 
+[Tilt Five – Bring holograms home – Play your favorite games in 3D](https://www.tiltfive.com/)
+
+[Our Plan for Python 3.13](https://github.com/faster-cpython/ideas/blob/main/3.13/README.md)
+
 [Archaeologists find 3000-year-old sword, exceptionally well preserved](https://newsingermany.com/archaeologists-find-3000-year-old-sword/)
 
-[Reddit’s blackout protest is set to continue indefinitely](https://old.reddit.com/r/technology/comments/149zmar/reddits_blackout_protest_is_set_to_continue/)
+[Getting to know the right people (2022)](https://notebook.drmaciver.com/posts/2022-06-05-14:53.html)
 
-[Effective Rust](https://www.lurklurk.org/effective-rust/)
+[The Complete ZX Spectrum ROM disassembly (1983) [pdf]](http://www.primrosebank.net/computers/zxspectrum/docs/CompleteSpectrumROMDisassemblyThe.pdf)
 
-[The Matrix Cookbook [pdf]](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
+[UnsuckJS: Progressively enhance HTML with lightweight JavaScript libraries](https://unsuckjs.com/)
 
-[W3C announces new Web standard for online payments](https://www.applemust.com/w3c-announces-new-web-standard-for-online-payments/)
-
-[Show HN: Agency – Unifying human, AI, and other computing systems, in Python](https://github.com/operand/agency)
-
-[Quake's lightning gun bug explained](https://www.youtube.com/watch?v=4gNYTqn3qRc)
+[Ethiopian quest to re-create ancient manuscripts](https://www.aljazeera.com/gallery/2023/6/1/ethiopian-quest-to-re-create-ancient-manuscripts)

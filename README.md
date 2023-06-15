@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Our Plan for Python 3.13](https://github.com/faster-cpython/ideas/blob/main/3.13/README.md)
+
+[Zluda: Run CUDA code on Intel GPUs, unmodified](https://github.com/vosen/ZLUDA)
+
 [Effective Rust](https://www.lurklurk.org/effective-rust/)
 
-[Quake's lightning gun bug explained](https://www.youtube.com/watch?v=4gNYTqn3qRc)
+[What Motorcycles Teach About Maintenance](https://books.worksinprogress.co/book/maintenance-of-everything/vehicles/what-motorcycles-teach-about-maintenance/4)
 
-[How to crawl a quarter billion webpages in 40 hours (2012)](https://michaelnielsen.org/ddi/how-to-crawl-a-quarter-billion-webpages-in-40-hours/)
+[Cement's future could be a combination of Carbon Capture and Electrification](https://industrydecarbonization.com/news/cements-future-could-be-a-combination-of-carbon-capture-and-electrification.html)
 
-[This Week in Rust 499](https://this-week-in-rust.org/blog/2023/06/14/this-week-in-rust-499/)
+[Archaeologists find 3000-year-old sword, exceptionally well preserved](https://newsingermany.com/archaeologists-find-3000-year-old-sword/)
 
-[ESP32-C3 Wireless Adventure: A Comprehensive Guide to IoT [pdf]](https://www.espressif.com/sites/default/files/documentation/ESP32-C3%20Wireless%20Adventure.pdf)
-
-[JetPack Aviation (YC W19) Is Hiring](https://www.ycombinator.com/companies/jetpack-aviation/jobs/vZY8DUc-chief-engineer-turbine-powered-vtol-aircraft)
-
-[Thinking Like Transformers (2021) [pdf]](https://arxiv.org/abs/2106.06981)
-
-[Bioacoustics: Finding the Voices of Other Species](https://worldsensorium.com/bioacoustics-finding-the-voices-of-other-species/)
-
-[To Understand the Past, Pick Up an Old Magazine](https://www.nytimes.com/2023/06/13/magazine/old-magazines.html)
+[The Matrix Cookbook [pdf]](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 
 [FANN: Vector Search in 200 Lines of Rust](https://fennel.ai/blog/vector-search-in-200-lines-of-rust/)
+
+[Crawling a quarter billion webpages in 40 hours (2012)](https://michaelnielsen.org/ddi/how-to-crawl-a-quarter-billion-webpages-in-40-hours/)
+
+[Quake's lightning gun bug explained](https://www.youtube.com/watch?v=4gNYTqn3qRc)

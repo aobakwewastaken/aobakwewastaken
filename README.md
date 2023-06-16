@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Daniel Ellsberg has died](https://www.nytimes.com/2023/06/16/us/daniel-ellsberg-dead.html)
+
 [Full Time](https://www.marginalia.nu/log/83_full_time/)
 
-[Reddit App – Suspicious high number of recent 5 star, one word reviews](https://old.reddit.com/r/Save3rdPartyApps/comments/14at885/the_reddit_app_has_a_suspiciously_high_number_of/)
+[Pricing Money: A beginner's guide to money, bonds, futures and swaps](http://www.jdawiseman.com/books/pricing-money/Pricing_Money_JDAWiseman.html)
 
 [Surges of cosmic radiation from space directly linked to earthquakes](https://www.earth.com/news/breakthrough-surges-of-cosmic-radiation-from-space-directly-linked-to-earthquakes/)
 
-[Probability and Markets by Jane Street [pdf]](https://www.janestreet.com/static/pdfs/trading-interview.pdf)
+[Gyroflow: An open source advanced gyro-based video stabilization tool](http://gyroflow.xyz/)
 
-[Annoying A/B testing mistakes every engineer should know](https://posthog.com/blog/ab-testing-mistakes)
+[Control, escape, and meta tricks](https://susam.net/blog/control-escape-meta-tricks.html)
 
-[A LiveView Is a Process](https://fly.io/phoenix-files/a-liveview-is-a-process/)
+[Generative AI is also a revolution for computer interfaces](https://www.axios.com/2023/05/26/generative-ai-revolution-computer-interfaces-chatgpt)
 
-[Put an io_uring on it – Exploiting the Linux Kernel](https://chompie.rip/Blog+Posts/Put+an+io_uring+on+it+-+Exploiting+the+Linux+Kernel)
+[Miraheze to shut down](https://meta.miraheze.org/wiki/Board/Policies/20230615-Statement)
 
-[Rash – The Reckless Racket Shell](https://rash-lang.org)
+[Why did Nix adopt Flakes?](https://www.jetpack.io/blog/why-did-nix-adopt-flakes/)
 
-[Building a New Database Management System in Academia](http://www.cs.cmu.edu/~pavlo/blog/2017/03/building-a-new-database-management-system-in-academia.html)
-
-[OpenSSL 1.1.1 End of Life Approaching](https://www.openssl.org/blog/blog/2023/06/15/1.1.1-EOL-Reminder/)
+[Hexyl: A command-line hex viewer with colorized output](https://github.com/sharkdp/hexyl)

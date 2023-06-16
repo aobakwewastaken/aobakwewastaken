@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Learnings from kCTF VRP's 42 Linux kernel exploits submissions](https://security.googleblog.com/2023/06/learnings-from-kctf-vrps-42-linux.html)
+
+[My 24 year old HP Jornada can do things an iPhone still can't do](https://raymii.org/s/blog/My_24_year_old_HP_Jornada_can_do_things_your_modern_iPhone_still_cant_do.html)
+
+[The next generation of serverless](https://www.fermyon.com/blog/next-generation-of-serverless-is-happening)
+
+[Do Foundation Model Providers Comply with the EU AI Act?](https://crfm.stanford.edu/2023/06/15/eu-ai-act.html)
+
 [Sequence diagrams, the only good thing UML brought to software development](https://www.mermaidchart.com/blog/posts/sequence-diagrams-the-good-thing-uml-brought-to-software-development)
 
-[Rock engravings made by Homo Naledi ~300k years ago](https://www.biorxiv.org/content/10.1101/2023.06.01.543133v1)
+[MixRank (YC S11) Is Hiring Global Remote Software Engineers]()
 
-[Unihiker, an $80 single-board PC with 2.8“ touchscreen, quad-core ARM Cortex-A35](https://www.unihiker.com/)
+[Localrf – Nerf from casual shaky videos](https://localrf.github.io/)
 
-[Tilt Five – Bring holograms home – Play your favorite games in 3D](https://www.tiltfive.com/)
+[Trsvid, a video player for TRS-80 Model 1, 3 and 4](http://48k.ca/trsvid.html)
 
-[Our Plan for Python 3.13](https://github.com/faster-cpython/ideas/blob/main/3.13/README.md)
+[CL0P Ransomware Gang Exploits CVE-2023-34362 MOVEit Vulnerability](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-158a)
 
-[Archaeologists find 3000-year-old sword, exceptionally well preserved](https://newsingermany.com/archaeologists-find-3000-year-old-sword/)
-
-[Getting to know the right people (2022)](https://notebook.drmaciver.com/posts/2022-06-05-14:53.html)
-
-[The Complete ZX Spectrum ROM disassembly (1983) [pdf]](http://www.primrosebank.net/computers/zxspectrum/docs/CompleteSpectrumROMDisassemblyThe.pdf)
-
-[UnsuckJS: Progressively enhance HTML with lightweight JavaScript libraries](https://unsuckjs.com/)
-
-[Ethiopian quest to re-create ancient manuscripts](https://www.aljazeera.com/gallery/2023/6/1/ethiopian-quest-to-re-create-ancient-manuscripts)
+[Reddit is removing moderators that protest by taking their communities private](https://old.reddit.com/r/ModCoord/comments/14aeq5j/new_admin_post_if_a_moderator_team_unanimously/)

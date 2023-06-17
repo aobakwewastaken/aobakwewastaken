@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [Update: U+237C ⍼ &Angzarr;](https://ionathan.ch/2023/06/06/angarr.html)
 
+[Japanese biomass venture using microorganisms to tackle waste disposal](https://mainichi.jp/english/articles/20230428/p2g/00m/0bu/057000c)
+
+[What character was removed from the alphabet? (2020)](https://www.dictionary.com/e/ampersand/)
+
 [Review of Hetzner ARM64 Servers and Experience of WebP Cloud Services on Them](https://blog.webp.se/hetzner-arm64-en/)
 
-[HouseWatch: Open-source tool for monitoring and managing ClickHouse clusters](https://github.com/PostHog/HouseWatch)
-
-[Gitless a simple VCS built on top of Git](https://gitless.com/)
-
-[Planescape: Torment pitch document (1997) [pdf]](https://rpgwatch.com/files/Files/00-0208/Torment_Vision_Statement_1997.pdf)
+[Ask HN: Has Google search switched to infinite scrolling for you too now?]()
 
 [London Underground Dot Matrix Typeface](https://github.com/petykowski/London-Underground-Dot-Matrix-Typeface)
 
-[Show HN: State Trooper – Tiny, no frills state machine for Go](https://github.com/hishamk/statetrooper)
+[HouseWatch: Open-source tool for monitoring and managing ClickHouse clusters](https://github.com/PostHog/HouseWatch)
 
-[What Character Was Removed from the Alphabet?](https://www.dictionary.com/e/ampersand/)
+[Planescape: Torment pitch document (1997) [pdf]](https://rpgwatch.com/files/Files/00-0208/Torment_Vision_Statement_1997.pdf)
 
-[They just pirated my open source 8088 BIOS](https://arstechnica.com/civis/threads/brand-new-laptop-recreates-1981%E2%80%99s-ibm-pc-complete-with-8088-cpu-and-640kb-of-ram.1492119/page-3#post-41883267)
+[Book of Proof by Richard Hammack](https://www.people.vcu.edu/~rhammack/BookOfProof/)
 
-[Basics of Proofs [pdf]](https://theory.stanford.edu/~jvondrak/MATH108-2017/Proofs.pdf)
+[Show HN: Explore large language models on any computer with 512MB of RAM](https://github.com/jncraton/languagemodels)

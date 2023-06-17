@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Update: U+237C ⍼ &Angzarr;](https://ionathan.ch/2023/06/06/angarr.html)
+[Data-Driven Science and Engineering 2nd Edition [pdf]](https://faculty.washington.edu/sbrunton/DataBookV2.pdf)
 
-[Japanese biomass venture using microorganisms to tackle waste disposal](https://mainichi.jp/english/articles/20230428/p2g/00m/0bu/057000c)
+[GB Studio: Drag and drop retro game creator for GameBoy](https://www.gbstudio.dev/)
+
+[Bullshit Jobs (2018)](https://theanarchistlibrary.org/library/david-graeber-bullshit-jobs)
+
+[Update: U+237C ⍼ &Angzarr;](https://ionathan.ch/2023/06/06/angarr.html)
 
 [What character was removed from the alphabet? (2020)](https://www.dictionary.com/e/ampersand/)
 
-[Review of Hetzner ARM64 Servers and Experience of WebP Cloud Services on Them](https://blog.webp.se/hetzner-arm64-en/)
+[How to raise a Roman army: The dilectus](https://acoup.blog/2023/06/16/collections-how-to-raise-a-roman-army-the-dilectus/)
 
-[Ask HN: Has Google search switched to infinite scrolling for you too now?]()
+[Open source Diablo 1 engine – DevilutionX 1.5.0 released](https://github.com/diasurgical/devilutionX/releases/tag/1.5.0)
 
-[London Underground Dot Matrix Typeface](https://github.com/petykowski/London-Underground-Dot-Matrix-Typeface)
+[The Secret Sauce behind 100K context window in LLMs: all tricks in one place](https://blog.gopenai.com/how-to-speed-up-llms-and-use-100k-context-window-all-tricks-in-one-place-ffd40577b4c)
 
-[HouseWatch: Open-source tool for monitoring and managing ClickHouse clusters](https://github.com/PostHog/HouseWatch)
+[How A Supernova Explodes (1985) [pdf]](https://astro.uconn.edu/wp-content/uploads/sites/2830/2020/10/Bethe_Brown_How-a-Supernova-Explodes.pdf)
 
-[Planescape: Torment pitch document (1997) [pdf]](https://rpgwatch.com/files/Files/00-0208/Torment_Vision_Statement_1997.pdf)
-
-[Book of Proof by Richard Hammack](https://www.people.vcu.edu/~rhammack/BookOfProof/)
-
-[Show HN: Explore large language models on any computer with 512MB of RAM](https://github.com/jncraton/languagemodels)
+[James Gosling talks about virtual machines, security, and Java (2004)](https://queue.acm.org/detail.cfm?id=1017013)

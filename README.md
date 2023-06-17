@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Update: U+237C ⍼ &Angzarr;](https://ionathan.ch/2023/06/06/angarr.html)
+
 [Review of Hetzner ARM64 Servers and Experience of WebP Cloud Services on Them](https://blog.webp.se/hetzner-arm64-en/)
 
-[I don't need your query language](https://antonz.org/fancy-ql/)
+[HouseWatch: Open-source tool for monitoring and managing ClickHouse clusters](https://github.com/PostHog/HouseWatch)
 
-[Iterating on Testing in Rust](https://epage.github.io/blog/2023/06/iterating-on-test/)
+[Gitless a simple VCS built on top of Git](https://gitless.com/)
 
 [Planescape: Torment pitch document (1997) [pdf]](https://rpgwatch.com/files/Files/00-0208/Torment_Vision_Statement_1997.pdf)
 
 [London Underground Dot Matrix Typeface](https://github.com/petykowski/London-Underground-Dot-Matrix-Typeface)
 
-[MindsDB (YC W20) Is Hiring a Content Marketing Specialist](https://www.ycombinator.com/companies/mindsdb/jobs/xiHw6uY-content-marketing-specialist-developers-ai-field)
+[Show HN: State Trooper – Tiny, no frills state machine for Go](https://github.com/hishamk/statetrooper)
 
-[Show HN: 77 Year old launches SaaS platform today. Seeks feedback](https://propbox.co)
+[What Character Was Removed from the Alphabet?](https://www.dictionary.com/e/ampersand/)
 
-[Merging bcachefs](https://lwn.net/SubscriberLink/934692/5046d466490d9220/)
+[They just pirated my open source 8088 BIOS](https://arstechnica.com/civis/threads/brand-new-laptop-recreates-1981%E2%80%99s-ibm-pc-complete-with-8088-cpu-and-640kb-of-ram.1492119/page-3#post-41883267)
 
-[Hello, Perceptron: An introduction to artificial neural networks](https://matt.might.net/articles/hello-perceptron/)
-
-[Daniel Ellsberg has died](https://www.nytimes.com/2023/06/16/us/daniel-ellsberg-dead.html)
+[Basics of Proofs [pdf]](https://theory.stanford.edu/~jvondrak/MATH108-2017/Proofs.pdf)

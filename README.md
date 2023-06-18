@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Sennheiser HD 555 to HD 595 Mod](http://mikebeauchamp.com/misc/sennheiser-hd-555-to-hd-595-mod/)
-
-[Fruit-Bat/Pico-Zxspectrum: ZX Spectrum for Raspberry Pico Pi RP2040](https://github.com/fruit-bat/pico-zxspectrum)
+[Poor Man's Computer Science Bootcamp – Basics](https://github.com/Lesabotsy/bootcamp)
 
 [Jellyfin: The Free Software Media System](https://github.com/jellyfin/jellyfin)
 
-[How a Single Line of Code Made a 24-Core Server Slower Than a Laptop (2021)](https://pkolaczk.github.io/server-slower-than-a-laptop/)
+[The GMP library's repository is under attack by a single GitHub user](https://gmplib.org/)
 
-[Stopping MDNSResponder from Sneakily Using DoH for DNS Lookups on macOS Ventura](https://fincham.dreamwidth.org/669.html)
+[Shannon’s Source Coding Theorem (Foundations of Information Theory: Part 3)](https://mbernste.github.io/posts/sourcecoding/)
 
-[BlackCat claims they hacked Reddit and will leak the data](https://www.databreaches.net/blackcat-claims-they-hacked-reddit-and-will-leak-the-data/)
+[Sennheiser HD 555 to HD 595 Mod](http://mikebeauchamp.com/misc/sennheiser-hd-555-to-hd-595-mod/)
 
-[Milk-V Duo: A $9 RISC-V Computer](https://milkv.io/duo)
+[Follow up to “I booted Linux 293k times”](https://rwmj.wordpress.com/2023/06/18/follow-up-to-i-booted-linux-292612-times/)
 
-[Keygen Library Player (4504 tracks)](https://cable.ayra.ch/webxmp/)
+[A complete guide to getting what you want (2018)](https://www.raptitude.com/2018/06/getting-what-you-want/)
 
-[Go: Execution Tracer Overhaul](https://go.googlesource.com/proposal/+/ac09a140c3d26f8bb62cbad8969c8b154f93ead6/design/60773-execution-tracer-overhaul.md)
+[Implementing a Personal Transportation Hierarchy](https://collindonnell.com/implementing-a-personal-transportation-hierarchy)
 
-[The Secret Sauce behind 100K context window in LLMs: all tricks in one place](https://blog.gopenai.com/how-to-speed-up-llms-and-use-100k-context-window-all-tricks-in-one-place-ffd40577b4c)
+[DIY-Audio-Heaven](https://diyaudioheaven.wordpress.com/)
+
+[A single line of code made a 24-core server slower than a laptop (2021)](https://pkolaczk.github.io/server-slower-than-a-laptop/)

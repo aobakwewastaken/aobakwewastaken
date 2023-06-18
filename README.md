@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Jellyfin: The Free Software Media System](https://github.com/jellyfin/jellyfin)
+[Swing VPN app is a DDoS botnet](https://lecromee.github.io/posts/swing_vpn_ddosing_sites/)
 
-[Imaginary Problems Are the Root of Bad Software](https://cerebralab.com/Imaginary_Problems_Are_the_Root_of_Bad_Software)
+[Goodbye, Twilio](https://blog.miguelgrinberg.com/post/goodbye-twilio)
 
-[DIY-Audio-Heaven](https://diyaudioheaven.wordpress.com/)
+[Redbean Systems](https://redbean.systems/)
 
-[The legend of “x86 CPUs decode instructions into RISC form internally”](https://fanael.github.io/is-x86-risc-internally.html)
+[Imaginary problems are the root of bad software](https://cerebralab.com/Imaginary_Problems_Are_the_Root_of_Bad_Software)
 
-[Shannon’s Source Coding Theorem (Foundations of Information Theory: Part 3)](https://mbernste.github.io/posts/sourcecoding/)
+[Keycloak – Open-Source Identity and Access Management Interview](https://console.substack.com/i/128451029/interview-with-michal-of-keycloak-open-source-identity-and-access-management-for-modern-applications)
 
-[Sennheiser HD 555 to HD 595 Mod](http://mikebeauchamp.com/misc/sennheiser-hd-555-to-hd-595-mod/)
+[Get It Done](https://boz.com/articles/get-it-done)
 
-[A guide for people who want to self-study the basics of computer science](https://github.com/Lesabotsy/bootcamp)
+[Show HN: Answer Overflow  – Indexing Discord content into the web](https://www.answeroverflow.com/)
 
-[Follow up to “I booted Linux 293k times”](https://rwmj.wordpress.com/2023/06/18/follow-up-to-i-booted-linux-292612-times/)
+[How I feel quitting my own startup](https://www.aquiles.me/how-it-feels-quitting-your-own-startup/)
 
-[A complete guide to getting what you want (2018)](https://www.raptitude.com/2018/06/getting-what-you-want/)
+[Graphic design items from Internet Archive](https://archives.design)
 
-[Archives.design: curated graphic design from Internet Archive](https://archives.design)
+[Migrating Netflix to GraphQL safely](https://netflixtechblog.com/migrating-netflix-to-graphql-safely-8e1e4d4f1e72?gi=4217a3fd9c5c)

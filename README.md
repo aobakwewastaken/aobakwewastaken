@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[OpenLLM](https://github.com/bentoml/OpenLLM)
+
+[TypeScript 5.2's New Keyword: 'using'](https://www.totaltypescript.com/typescript-5-2-new-keyword-using)
+
 [My First Impressions of Nix](https://mtlynch.io/notes/nix-first-impressions/)
+
+[Show HN: Slint - A Declarative UI Toolkit Written in Rust for Embedded & Desktop](https://slint.dev)
 
 [Releasing an indie game on 3 consoles at once and failing financially (2016)](https://juicybeast.com/2016/01/11/releasing-an-indie-game-on-3-consoles-at-once-and-failing-financially/#2-years)
 
-[Swing VPN app is a DDoS botnet](https://lecromee.github.io/posts/swing_vpn_ddosing_sites/)
+[Sketch.systems](https://sketch.systems)
 
 [Building a Networked Key-Value-Store on an FPGA](https://adamwalker.github.io/Building-FPGA-KVS/)
 
-[Openjob: best distributed task scheduling framework](https://habr.com/en/articles/742470/)
+[MusicGen-Looper: Generate fixed-bpm loops from text prompts](https://replicate.com/andreasjansson/musicgen-looper)
 
-[How to compute a 256 bit elliptic curve key with 50M Toffoli gates](https://arxiv.org/abs/2306.08585)
+[MoonRay – DreamWorks’ open-source MCRT renderer](https://openmoonray.org/download)
 
 [Keycloak – Open-source identity and access management interview](https://console.substack.com/i/128451029/interview-with-michal-of-keycloak-open-source-identity-and-access-management-for-modern-applications)
-
-[Trip report: Summer ISO C++ standards meeting in Varna, Bulgaria](https://herbsutter.com/2023/06/16/trip-report-summer-iso-c-standards-meeting-varna-bulgaria/)
-
-[HDR QR Code](https://notes.dt.in.th/HDRQRCode)
-
-[How many shipwrecks are there in the world's oceans?](https://www.bbc.com/future/article/20230609-how-many-shipwrecks-are-there-in-the-worlds-oceans)

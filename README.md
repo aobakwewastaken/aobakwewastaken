@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[OpenLLM](https://github.com/bentoml/OpenLLM)
+[Ego and Math – 3B1B 2023 Stanford Math Department Commencement Speech [video]](https://www.youtube.com/watch?v=z7GVHB2wiyg)
 
-[Show HN: Slint - A Declarative UI Toolkit Written in Rust for Embedded & Desktop](https://slint.dev)
+[A regular expression to check for prime numbers (2007)](https://www.noulakaz.net/2007/03/18/a-regular-expression-to-check-for-prime-numbers/)
 
-[We tried to book a train ticket and ended up with a 245,000 records data breach](https://zerforschung.org/posts/freundschaftspass-en/)
+[Show HN: GitHub Stats Dashboard Powered by GraphQL API and GitHub Action](https://github.com/pingcap/ossinsight-lite)
 
-[My First Impressions of Nix](https://mtlynch.io/notes/nix-first-impressions/)
+[Linux Namespaces Are a Poor Man's Plan 9 Namespaces](https://yotam.net/posts/linux-namespaces-are-a-poor-mans-plan9-namespaces/)
 
-[We need more of Richard Stallman, not less](https://ploum.net/2023-06-19-more-rms.html)
+[The man who tried to redeem the world with logic](https://nautil.us/the-man-who-tried-to-redeem-the-world-with-logic-235253/)
 
-[Compromise Creates Values](https://blog.briankitano.com/compromise-values/)
+[Tesorio (YC S15) Is a Head of Marketing – join our 100% distributed team](https://www.tesorio.com/careers#job-openings)
 
-[Sketch.systems](https://sketch.systems)
+[Apple could force a 111-year-old fruit company to change its Apple logo](https://www.androidauthority.com/apple-swiss-fruit-company-change-logo-3336622/)
 
-[We’ve pumped so much groundwater that we’ve nudged the Earth's spin](https://news.agu.org/press-release/weve-pumped-so-much-groundwater-that-weve-nudged-the-earths-spin/)
+[Humans Aren’t Mentally Ready for an AI-Saturated ‘Post-Truth World’](https://www.wired.com/story/generative-ai-deepfakes-disinformation-psychology/)
 
-[Building a Networked Key-Value-Store on an FPGA](https://adamwalker.github.io/Building-FPGA-KVS/)
+[How scientists are hacking the genetic code to give proteins new powers](https://www.nature.com/articles/d41586-023-01980-4)
 
-[Display brighter-than-white color on Apple devices](https://github.com/dtinth/superwhite)
+[Fallen Flag Railroad Photos](https://www.rr-fallenflags.org/)

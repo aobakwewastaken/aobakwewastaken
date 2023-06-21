@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Facebook almost acquired Waze, but we ended up with Google](https://post.news/@/noam/2RTRvTNNxSCQb3yNjqa0DPfr1Yk)
+[AI Workbooks – A notebook interface for LLMs, image and audio models](https://lastmileai.dev/workbooks/clj2y933l000mr0avd2ck42s9)
 
 [How RLHF Works](https://www.interconnects.ai/p/how-rlhf-works)
 
-[Show HN: Image Upscaler AI](https://imageupscalerai.com/)
+[Handles Are the Better Pointers](https://floooh.github.io/2018/06/17/handles-vs-pointers.html)
+
+[System Initiative: Second Wave DevOps](https://www.systeminit.com/blog-second-wave-devops/)
+
+[Platinum Photography](https://whyisthisinteresting.substack.com/p/the-platinum-photography-edition)
 
 [Ego and Math [video]](https://www.youtube.com/watch?v=z7GVHB2wiyg)
 
-[FTC sues Amazon over ‘deceptive’ Prime sign-up and cancellation process](https://www.cnbc.com/2023/06/21/ftc-sues-amazon-over-deceptive-prime-sign-up-and-cancellation-process.html)
-
-[Why Platinum Photography Was Lost](https://whyisthisinteresting.substack.com/p/the-platinum-photography-edition)
-
-[Apple's union-busting practices violated employee rights at NYC store](https://www.engadget.com/apples-union-busting-practices-violated-employee-rights-at-nyc-store-judge-rules-115036323.html)
-
 [NASA secures contract with Rocky Enterprise Linux](https://sam.gov/opp/2e0365ce1e3c4c179b50fb15573d68e4/view)
 
-[Top Mental Health and Prayer Apps Fail at Privacy, Security (2022)](https://foundation.mozilla.org/en/blog/top-mental-health-and-prayer-apps-fail-spectacularly-at-privacy-security/)
+[Over 100k ChatGPT Account Credentials Made Available on the Dark Web](https://www.tomshardware.com/news/over-100000-chatgpt-account-credentials-made-available-on-the-dark-web)
 
-[The man who tried to redeem the world with logic (2015)](https://nautil.us/the-man-who-tried-to-redeem-the-world-with-logic-235253/)
+[Jamsocket: Back Ends for Realtime Apps](https://jamsocket.com/)
+
+[Email proves Microsoft's Activision bid is designed to eliminate Playstation](https://www.axios.com/2023/06/20/exhibit-k-microsoft-activision)

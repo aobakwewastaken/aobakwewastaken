@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Ego and Math – 3B1B 2023 Stanford Math Department Commencement Speech [video]](https://www.youtube.com/watch?v=z7GVHB2wiyg)
+[Facebook almost acquired Waze, but we ended up with Google](https://post.news/@/noam/2RTRvTNNxSCQb3yNjqa0DPfr1Yk)
 
-[A regular expression to check for prime numbers (2007)](https://www.noulakaz.net/2007/03/18/a-regular-expression-to-check-for-prime-numbers/)
+[How RLHF Works](https://www.interconnects.ai/p/how-rlhf-works)
 
-[Show HN: GitHub Stats Dashboard Powered by GraphQL API and GitHub Action](https://github.com/pingcap/ossinsight-lite)
+[Show HN: Image Upscaler AI](https://imageupscalerai.com/)
 
-[Linux Namespaces Are a Poor Man's Plan 9 Namespaces](https://yotam.net/posts/linux-namespaces-are-a-poor-mans-plan9-namespaces/)
+[Ego and Math [video]](https://www.youtube.com/watch?v=z7GVHB2wiyg)
 
-[The man who tried to redeem the world with logic](https://nautil.us/the-man-who-tried-to-redeem-the-world-with-logic-235253/)
+[FTC sues Amazon over ‘deceptive’ Prime sign-up and cancellation process](https://www.cnbc.com/2023/06/21/ftc-sues-amazon-over-deceptive-prime-sign-up-and-cancellation-process.html)
 
-[Tesorio (YC S15) Is a Head of Marketing – join our 100% distributed team](https://www.tesorio.com/careers#job-openings)
+[Why Platinum Photography Was Lost](https://whyisthisinteresting.substack.com/p/the-platinum-photography-edition)
 
-[Apple could force a 111-year-old fruit company to change its Apple logo](https://www.androidauthority.com/apple-swiss-fruit-company-change-logo-3336622/)
+[Apple's union-busting practices violated employee rights at NYC store](https://www.engadget.com/apples-union-busting-practices-violated-employee-rights-at-nyc-store-judge-rules-115036323.html)
 
-[Humans Aren’t Mentally Ready for an AI-Saturated ‘Post-Truth World’](https://www.wired.com/story/generative-ai-deepfakes-disinformation-psychology/)
+[NASA secures contract with Rocky Enterprise Linux](https://sam.gov/opp/2e0365ce1e3c4c179b50fb15573d68e4/view)
 
-[How scientists are hacking the genetic code to give proteins new powers](https://www.nature.com/articles/d41586-023-01980-4)
+[Top Mental Health and Prayer Apps Fail at Privacy, Security (2022)](https://foundation.mozilla.org/en/blog/top-mental-health-and-prayer-apps-fail-spectacularly-at-privacy-security/)
 
-[Fallen Flag Railroad Photos](https://www.rr-fallenflags.org/)
+[The man who tried to redeem the world with logic (2015)](https://nautil.us/the-man-who-tried-to-redeem-the-world-with-logic-235253/)

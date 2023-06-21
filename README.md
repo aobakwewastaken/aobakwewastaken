@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[AI Workbooks – A notebook interface for LLMs, image and audio models](https://lastmileai.dev/workbooks/clj2y933l000mr0avd2ck42s9)
+[Go 1.21](https://go.dev/blog/go1.21rc)
 
-[How RLHF Works](https://www.interconnects.ai/p/how-rlhf-works)
+[Harvard dishonesty expert accused of dishonesty](https://www.ft.com/content/a8c07365-f85d-47a0-98a4-b6f71da697ef)
 
-[Handles Are the Better Pointers](https://floooh.github.io/2018/06/17/handles-vs-pointers.html)
+[Making Figma better for developers with Dev Mode](https://www.figma.com/blog/introducing-dev-mode/)
 
-[System Initiative: Second Wave DevOps](https://www.systeminit.com/blog-second-wave-devops/)
+[Why Kakoune – The Quest For a Better Code Editor](https://kakoune.org/why-kakoune/why-kakoune.html)
 
-[Platinum Photography](https://whyisthisinteresting.substack.com/p/the-platinum-photography-edition)
+[Free Organ](https://www.organclearinghouse.com/organs-for-sale#/3141-austin-san-francisco)
 
-[Ego and Math [video]](https://www.youtube.com/watch?v=z7GVHB2wiyg)
+[Maps distort how we see the world](https://unchartedterritories.tomaspueyo.com/p/maps-distort-how-we-see-the-world)
 
-[NASA secures contract with Rocky Enterprise Linux](https://sam.gov/opp/2e0365ce1e3c4c179b50fb15573d68e4/view)
+[Developer tools to create spatial experiences for Apple Vision Pro now availabl](https://www.apple.com/newsroom/2023/06/developer-tools-to-create-spatial-experiences-for-apple-vision-pro-now-available/)
 
-[Over 100k ChatGPT Account Credentials Made Available on the Dark Web](https://www.tomshardware.com/news/over-100000-chatgpt-account-credentials-made-available-on-the-dark-web)
+[Some were meant for C [pdf]](https://www.humprog.org/~stephen/research/papers/kell17some-preprint.pdf)
 
-[Jamsocket: Back Ends for Realtime Apps](https://jamsocket.com/)
+[Handles are the better pointers (2018)](https://floooh.github.io/2018/06/17/handles-vs-pointers.html)
 
-[Email proves Microsoft's Activision bid is designed to eliminate Playstation](https://www.axios.com/2023/06/20/exhibit-k-microsoft-activision)
+[Google IS selling all my personal information in Google Domains to Squarespace?](https://twitter.com/GergelyOrosz/status/1671603045640151041)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[How VSCode made bracket pair colorization 10,000x faster](https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization)
+[Cookie Clicker saved my PhD](https://advaitsarkar.wordpress.com/2021/12/17/how-my-online-gaming-addiction-saved-my-phd/)
 
-[Video Chess disassembled and commented](https://nanochess.org/video_chess.html)
+[Clojure is a product design tool (2015)](https://precursorapp.com/blog/clojure-is-a-product-design-tool)
 
-[RSS Autodiscovery (2006)](https://www.rssboard.org/rss-autodiscovery)
+[My ranking of every Shakespeare play](https://nullprogram.com/blog/2023/06/22/)
 
-[Svelte 4](https://svelte.dev/blog/svelte-4)
+[DeArrow – Solving clickbait on YouTube](https://dearrow.ajay.app/)
 
-[Aeon: A unified framework for machine learning with time series](https://github.com/aeon-toolkit/aeon)
+[The Mellotron, an electronic keyboard of recorded samples, changed pop music](https://daily.jstor.org/tape-heads/)
 
-[Mistakes to avoid to build a better 1-person business](https://tinyempires.substack.com/p/4-mistakes-to-avoid-to-build-a-better)
+[Future ultra-precise timing links to geosynchronous satellites](https://www.nist.gov/news-events/news/2023/06/nist-lays-groundwork-future-ultra-precise-timing-links-geosynchronous)
 
-[Loops Across Space](https://www.gregegan.net/DIDICOSM/Loops/Loops.html)
+[Framework Laptop 16 Deep Dive – Enclosure](https://frame.work/ca/en/blog/framework-laptop-16-deep-dive---enclosure)
+
+[Typography 2024: For America’s Best](https://practicaltypography.com/typography-2024.html)
+
+[Do you know how much your computer can do in a second? (2015)](https://computers-are-fast.github.io)
 
 [Launch HN: OpenMeter (YC W23) – Real-Time, Open Source Usage Metering]()
-
-[People paid to train AI are outsourcing their work to AI](https://www.technologyreview.com/2023/06/22/1075405/the-people-paid-to-train-ai-are-outsourcing-their-work-to-ai/)
-
-[Discord is opening the monetization floodgates with microtransaction stores](https://www.pcgamer.com/discord-is-opening-the-monetization-floodgates-get-ready-for-microtransaction-stores-and-paid-exclusive-memes/)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Show HN: I've built open-source, collaborative, WYSIWYG Markdown editor](https://editor.vrite.io/)
+[Why Isn't Titan Classed?](http://web.archive.org/web/20200807162348/https://oceangate.com/news-and-media/blog/2019-0221-why-titan-is-not-classed.html)
 
-[Iron Fuel Shows Its Mettle](https://spectrum.ieee.org/iron-fuel)
+[What Is a Transformer Model?](https://blogs.nvidia.com/blog/2022/03/25/what-is-a-transformer-model/)
+
+[Making C++ safe without borrow checking, reference counting, or tracing GC](https://verdagon.dev/blog/vale-memory-safe-cpp)
+
+[Full ignition for ESA’s reusable rocket engine](https://www.esa.int/Enabling_Support/Space_Transportation/Full_ignition_for_ESA_s_reusable_rocket_engine)
+
+[Real-Time Messaging](https://slack.engineering/real-time-messaging/)
+
+[Show HN: An open-source, collaborative, WYSIWYG Markdown editor](https://editor.vrite.io/)
 
 [Arwes: Futuristic Sci-Fi UI Web Framework](https://github.com/arwes/arwes)
 
-[Framework Laptop 16 Deep Dive – 180W Power Adapter](https://frame.work/gb/en/blog/framework-laptop-16-deep-dive---180w-power-adapter)
+[Any Deep ReLU Network Is Shallow](https://arxiv.org/abs/2306.11827)
 
-[Show HN: I made a gallery of graphs built with React and D3.js](https://www.react-graph-gallery.com)
-
-[An Open Source Mouse and Trackpad Utility for Mac](https://linearmouse.app/)
+[Wagner coup in Russia? Wagner declared war on the Russian army](https://www.worldbulletin.net/asia-pacific/wagner-coup-in-russia-wagner-declared-war-on-the-russian-army-h215840.html)
 
 [Putting out the hardware dumpster fire](https://dl.acm.org/doi/pdf/10.1145/3593856.3595903)
-
-[Show HN: I built a package manager for AI plugins](https://openpm.ai/)
-
-[How to create a game using hyperbolic geometry?](http://roguetemple.com/z/hyper/dev.php)
-
-[Computer Scientists Inch Closer to Major Algorithmic Goal](https://www.quantamagazine.org/computer-scientists-inch-closer-to-major-algorithmic-goal-20230623/)

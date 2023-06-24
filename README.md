@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Why Isn't Titan Classed?](http://web.archive.org/web/20200807162348/https://oceangate.com/news-and-media/blog/2019-0221-why-titan-is-not-classed.html)
+[The rule says, “No vehicles in the park”](https://novehiclesinthepark.com/)
 
-[What Is a Transformer Model?](https://blogs.nvidia.com/blog/2022/03/25/what-is-a-transformer-model/)
+[Open source licenses need to leave the 1980s and evolve to deal with AI](https://www.theregister.com/2023/06/23/open_source_licenses_ai/)
 
-[Making C++ safe without borrow checking, reference counting, or tracing GC](https://verdagon.dev/blog/vale-memory-safe-cpp)
+[An open source web-based flashcard studying system](https://github.com/hwgilbert16/scholarsome)
 
-[Full ignition for ESA’s reusable rocket engine](https://www.esa.int/Enabling_Support/Space_Transportation/Full_ignition_for_ESA_s_reusable_rocket_engine)
+[Make your programs run faster by better using the data cache (2020)](https://johnnysswlab.com/make-your-programs-run-faster-by-better-using-the-data-cache/)
 
-[Real-Time Messaging](https://slack.engineering/real-time-messaging/)
+[Go 1.21 will (probably) download newer toolchains on demand by default](https://utcc.utoronto.ca/~cks/space/blog/programming/Go121ToolchainDownloads)
 
-[Show HN: An open-source, collaborative, WYSIWYG Markdown editor](https://editor.vrite.io/)
+[Why thousands of board games are buried beneath Mankato](https://www.startribune.com/anti-monopoly-mankato-landfill-board-game-history/600279625/)
+
+[The Diary of Virginia Woolf review – a book for the ages](https://www.theguardian.com/books/2023/jun/22/the-diary-of-virginia-woolf-review-a-book-for-the-ages)
+
+[A large crash spike affecting Firefox users on Linux](https://fosstodon.org/@gabrielesvelto/110592904713090347)
+
+[64-Bit RISC-V with Apache NuttX Real-Time Operating System](https://lupyuen.codeberg.page/articles/riscv.html)
 
 [Arwes: Futuristic Sci-Fi UI Web Framework](https://github.com/arwes/arwes)
-
-[Any Deep ReLU Network Is Shallow](https://arxiv.org/abs/2306.11827)
-
-[Wagner coup in Russia? Wagner declared war on the Russian army](https://www.worldbulletin.net/asia-pacific/wagner-coup-in-russia-wagner-declared-war-on-the-russian-army-h215840.html)
-
-[Putting out the hardware dumpster fire](https://dl.acm.org/doi/pdf/10.1145/3593856.3595903)

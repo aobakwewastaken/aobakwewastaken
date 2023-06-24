@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [Building a new ZX Spectrum from all new parts](https://www.lostretrotapes.com/building-a-new-zx-spectrum-from-all-new-parts-mostly-part-1/)
 
-[The rule says, “No vehicles in the park”](https://novehiclesinthepark.com/)
+[New rule would give electric utilities incentives for investing in cybersecurity](https://www.federalregister.gov/documents/2023/05/03/2023-08929/incentives-for-advanced-cybersecurity-investment)
+
+[North Korean Market Prices Suggest Serious Food Shortages](https://www.38north.org/2023/06/north-korean-market-prices-suggest-serious-food-shortages/)
 
 [Why doesn't TypeScript properly type Object.keys?](https://alexharri.com/blog/typescript-structural-typing)
 
-[Common Bugs in Writing](https://www.cs.columbia.edu/~hgs/etc/writing-bugs.html)
+[Inflation is as corrosive to investing as it is to the real economy](https://www.economist.com/briefing/2023/06/21/inflation-is-as-corrosive-to-investing-as-it-is-to-the-real-economy)
 
-[NASA’s Mars Sample Return has a new price tag–and it’s colossal](https://arstechnica.com/space/2023/06/the-mars-sample-return-mission-is-starting-to-give-nasa-sticker-shock/)
+[Pi.ai LLM Outperforms Palm/GPT3.5](https://inflection.ai/inflection-1)
 
-[Australian Government Style Manual](https://www.stylemanual.gov.au/)
+[Common Bugs in Writing (2021)](https://www.cs.columbia.edu/~hgs/etc/writing-bugs.html)
 
-[AMD EPYC 97x4 “Bergamo” CPUs: 128 Zen 4c CPU Cores for Servers, Shipping Now](https://www.anandtech.com/show/18913/amd-intros-epyc-97x4-bergamo-cpus-128-zen-4c-cpu-cores-shipping-now)
+[Simple Statistics: Statistical methods in JavaScript for browsers and servers](https://simple-statistics.github.io/)
 
-[Remember to submit your blog to ooh.directory](https://ooh.directory/suggest/)
+[Take action, Protect end-to-end encryption](https://www.fsf.org/blogs/community/take-action-protect-end-to-end-encryption)
 
-[Finally getting two's complement](https://neugierig.org/software/blog/2023/06/twos-complement.html)
-
-[The E-graph extraction problem is NP-complete](https://effect.systems/blog/egraph-extraction.html)
+[The Magic of Embeddings](https://stack.convex.dev/the-magic-of-embeddings)

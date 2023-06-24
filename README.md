@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Why doesn't TypeScript properly type Object.keys?](https://alexharri.com/blog/typescript-structural-typing)
+
 [The rule says, “No vehicles in the park”](https://novehiclesinthepark.com/)
 
 [Common Bugs in Writing](https://www.cs.columbia.edu/~hgs/etc/writing-bugs.html)
 
+[Australian Government Style Manual](https://www.stylemanual.gov.au/)
+
+[Ferengi Rules of Acquisition](https://memory-alpha.fandom.com/wiki/Rules_of_Acquisition)
+
 [Finally getting two's complement](https://neugierig.org/software/blog/2023/06/twos-complement.html)
 
-[CSS Only dark mode without JS](https://simondalvai.com/blog/css-only-darkmode/)
+[Sturddlefish](https://en.wikipedia.org/wiki/Sturddlefish)
 
 [An open source web-based flashcard studying system](https://github.com/hwgilbert16/scholarsome)
 
+[Decades-long bet on consciousness ends – it’s philosopher 1, neuroscientist 0](https://www.nature.com/articles/d41586-023-02120-8)
+
 [Maker's schedule, Manager's schedule (2009)](http://www.paulgraham.com/makersschedule.html)
-
-[Make your programs run faster by better using the data cache (2020)](https://johnnysswlab.com/make-your-programs-run-faster-by-better-using-the-data-cache/)
-
-[There’s an exact replica of San Francisco in Japan](https://thebolditalic.com/theres-an-exact-replica-of-san-francisco-in-japan-and-it-s-weird-b8566a747150)
-
-[Why thousands of board games are buried beneath Mankato](https://www.startribune.com/anti-monopoly-mankato-landfill-board-game-history/600279625/)
-
-[Sturddlefish](https://en.wikipedia.org/wiki/Sturddlefish)

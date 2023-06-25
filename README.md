@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Show HN: Open-source resume builder and parser](https://www.open-resume.com/)
+
+[FP2: Fully In-Place Functional Programming [pdf]](https://www.microsoft.com/en-us/research/uploads/prod/2023/05/fbip.pdf)
+
 [Everything that uses configuration files should report where they're located](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ReportConfigFileLocations)
 
-[The Little Book of Deep Learning](https://fleuret.org/francois/#lbdl)
+[Show HN: Fossfox – paid opportunities for open-source devs](https://fossfox.com)
 
-[Ask HN: What topics are good for a UI/UX Primer?]()
+[Eight-mile frieze of Ice Age beasts found in Amazon rainforest (2020)](https://www.cnn.com/style/article/amazon-rainforest-ice-age-paintings-scli-intl/index.html)
 
-[Repairing a $25K HP Workstation from 1981 to Run Pac-Man](https://hackaday.com/2023/06/20/repairing-a-25000-hp-workstation-to-run-pac-man/)
+[Why Google Zanzibar shines at building authorization](https://blog.warrant.dev/why-zanzibar-shines-at-building-authorization/)
 
-[London’s ancient Cart Marking ceremony takes place next month](https://www.ianvisits.co.uk/articles/londons-ancient-cart-marking-ceremony-takes-place-next-month-60602/)
+[A new study looks at how exercise can help alleviate anxiety and depression](https://greatergood.berkeley.edu/article/item/what_type_of_exercise_is_best_for_mental_health)
 
-[Air Quality Reporting on iOS](https://intergalactic.systems/posts/post-1965946732.html)
+[Towards a “PCB Drone” – Making a PCB Motor which reaches 30k RPM [video]](https://www.youtube.com/watch?v=NX7GHqq28uU)
 
-[Don't expect to see competitive RISC-V servers any time soon](https://utcc.utoronto.ca/~cks/space/blog/tech/RISCVServersNotSoon)
+[What are embeddings?](https://vickiboykis.com/what_are_embeddings/)
 
-[Principles of Imperative Programming](https://www.cs.cmu.edu/~15122/about.shtml)
-
-[The iPad was meant to revolutionize accessibility. What happened?](https://www.technologyreview.com/2023/06/21/1074249/ipad-accessibility-fail/)
-
-[Zotero Better Notes – Knowledge management inside Zotero](https://github.com/windingwind/zotero-better-notes)
+[Breadbee: Build your own (tiny) single board computer (2020)](http://wtarreau.blogspot.com/2020/09/breadbee-build-your-own-single-board.html)

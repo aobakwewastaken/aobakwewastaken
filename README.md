@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Do, or do not. There is no try](https://github.com/binpash/try)
+[Zotero Better Notes – Knowledge management inside Zotero](https://github.com/windingwind/zotero-better-notes)
 
-[The bigger-is-better approach to AI is running out of road](https://www.economist.com/science-and-technology/2023/06/21/the-bigger-is-better-approach-to-ai-is-running-out-of-road)
+[Try: run a command and inspect its effects before changing your live system](https://github.com/binpash/try)
 
-[Semantic MediaWiki](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+[Tilia – fully licensed, regulation compliant money transmitter for gaming](https://www.tilia.io/about)
 
-[The Free Soloist Who Fell to Earth](https://www.outsideonline.com/outdoor-adventure/climbing/austin-howell-fallen-soloist/)
+[How Platform Engineering Works](https://chadxz.dev/platform/)
 
-[Mineverse](https://evanw.github.io/mineverse/)
+[Time is not a synchronization primitive](https://xeiaso.net/blog/nosleep)
 
-[Show HN: HN comments sidebar bookmarklet](https://gist.github.com/postmalloc/e2602752d46c5b9dee24462356f96cca)
+[Sweden adopts new fossil-free target, making way for nuclear](https://www.power-technology.com/news/sweden-adopts-new-fossil-free-target-making-way-for-nuclear/)
 
-[Culture eats policy](https://www.niskanencenter.org/culture-eats-policy/)
+[AMD's 128-core Epycs could spell trouble for Ampere Computing](https://www.theregister.com/2023/06/21/amd_ampere_cloud_core_competition/)
 
-[Show HN: Writedown - Open Source Markdown Diary](https://writedown.app/)
+[Intercal: Practically Impossible](https://www.muppetlabs.com/~breadbox/intercal/pgpi.html)
 
-[Building a new ZX Spectrum from all new parts](https://www.lostretrotapes.com/building-a-new-zx-spectrum-from-all-new-parts-mostly-part-1/)
+[BrowserBox Pro goes open-source](https://github.com/dosyago/BrowserBoxPro)
 
-[Intel Releases x86-SIMD-sort 2.0 With Faster AVX-512 Sorting, New Algorithms](https://www.phoronix.com/news/Intel-x86-simd-sort-2.0)
+[Harvard’s new computer science teacher is a chatbot](https://www.independent.co.uk/tech/harvard-chatbot-teacher-computer-science-b2363114.html)

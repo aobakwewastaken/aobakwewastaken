@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [Google has a secret browser hidden inside the settings](https://matan-h.com/google-has-a-secret-browser-hidden-inside-the-settings/)
 
+[Text Rendering Hates You (2019)](https://faultlore.com/blah/text-hates-you/)
+
+[Every factorial is a power](https://www.johndcook.com/blog/2023/06/23/every-factorial-is-a-power/)
+
+[Authlib: Python Authentication](https://docs.authlib.org/en/latest/index.html)
+
+[Devtools for Mobile Browsers](https://eruda.liriliri.io/)
+
+[Launch HN: Argonaut (YC S21) – Easily Deploy Apps and Infra to AWS and GCP]()
+
+[I'm Done with Red Hat (Enterprise Linux)](https://www.jeffgeerling.com/blog/2023/im-done-red-hat-enterprise-linux)
+
+[Lasers enable satellite internet backbone, might remove need for deep-sea cables](https://techxplore.com/news/2023-06-lasers-enable-internet-backbone-satellite.html)
+
+[U.S. pedestrian deaths reach a 40-year high](https://text.npr.org/1184034017)
+
 [Bitsavers Software Archive (2022)](https://bitsavers.org/)
-
-[JP Morgan accidentally deletes evidence in record retention screwup](https://www.theregister.com/2023/06/26/jp_morgan_fined_for_deleting/)
-
-[Mycelite: SQLite extension to synchronize changes across SQLite instances](https://github.com/mycelial/mycelite)
-
-[XML is the future](https://www.bitecode.dev/p/hype-cycles)
-
-[How Integers and Floats Work](https://jvns.ca/blog/2023/06/23/new-zine--how-integers-and-floats-work/)
-
-[Show HN: WinGPT – AI assistant for Windows 3.1](https://www.dialup.net/wingpt/)
-
-[John Goodenough has died](https://www.thehindubusinessline.com/news/goodenough-nobel-laureate-who-gave-the-world-li-ion-batteries-passes-away/article67010369.ece)
-
-[Show HN: Open-source shooter which made it to AC: Valhalla and Skydio drones](https://github.com/TeamHypersomnia/Hypersomnia)
-
-[Born in Babylon: The spread of Rastafari](https://www.historytoday.com/archive/feature/born-babylon)

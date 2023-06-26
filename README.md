@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Mycelite: SQLite extension to synchronize changes across SQLite instances](https://github.com/mycelial/mycelite)
+
+[XML is the future](https://www.bitecode.dev/p/hype-cycles)
+
 [Show HN: Open-source resume builder and parser](https://www.open-resume.com/)
 
-[FP2: Fully In-Place Functional Programming [pdf]](https://www.microsoft.com/en-us/research/uploads/prod/2023/05/fbip.pdf)
+[John Goodenough has died](https://www.thehindubusinessline.com/news/goodenough-nobel-laureate-who-gave-the-world-li-ion-batteries-passes-away/article67010369.ece)
 
-[Everything that uses configuration files should report where they're located](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ReportConfigFileLocations)
+[Show HN: WinGPT – AI assistant for Windows 3.1](https://www.dialup.net/wingpt/)
 
-[Show HN: Fossfox – paid opportunities for open-source devs](https://fossfox.com)
+[Born in Babylon: The spread of Rastafari](https://www.historytoday.com/archive/feature/born-babylon)
 
 [Eight-mile frieze of Ice Age beasts found in Amazon rainforest (2020)](https://www.cnn.com/style/article/amazon-rainforest-ice-age-paintings-scli-intl/index.html)
 
-[Why Google Zanzibar shines at building authorization](https://blog.warrant.dev/why-zanzibar-shines-at-building-authorization/)
+[ThinMachine – A $25 thin client macOS Time Machine appliance](https://tomverbeure.github.io/2023/06/25/ThinMachine-a-Thin-Client-MacOS-Time-Machine-Appliance.html)
 
-[A new study looks at how exercise can help alleviate anxiety and depression](https://greatergood.berkeley.edu/article/item/what_type_of_exercise_is_best_for_mental_health)
+[Show HN: Fossfox – paid opportunities for open-source devs](https://fossfox.com)
 
-[Towards a “PCB Drone” – Making a PCB Motor which reaches 30k RPM [video]](https://www.youtube.com/watch?v=NX7GHqq28uU)
-
-[What are embeddings?](https://vickiboykis.com/what_are_embeddings/)
-
-[Breadbee: Build your own (tiny) single board computer (2020)](http://wtarreau.blogspot.com/2020/09/breadbee-build-your-own-single-board.html)
+[PED81C: A video system for AGA Amigas that provides pseudo-native chunky screens](https://retream.itch.io/ped81c)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[A popular Bluetooth car battery monitor that siphons up all your location data](https://doubleagent.net/2023/05/21/a-car-battery-monitor-tracking-your-location)
+
+[P1030680: Unbroken Enigma message (U534, 01 May 1945)](https://enigma.hoerenberg.com/index.php?cat=Unbroken&page=P1030680)
+
+[Show HN: Mofi – Content-aware fill for audio to change a song to any duration](https://mofi.loud.red/)
+
 [Google has a secret browser hidden inside the settings](https://matan-h.com/google-has-a-secret-browser-hidden-inside-the-settings/)
 
-[Text Rendering Hates You (2019)](https://faultlore.com/blah/text-hates-you/)
+[Turmeric’s unexpected link to lead poisoning in Bangladesh](https://stanmed.stanford.edu/turmeric-lead-risk-detect/)
 
-[Authlib: Python Authentication](https://docs.authlib.org/en/latest/index.html)
+[Weaker bonds can make polymers stronger](https://news.mit.edu/2023/weaker-bonds-can-make-polymers-stronger-0622)
 
-[Launch HN: Argonaut (YC S21) – Easily Deploy Apps and Infra to AWS and GCP]()
+[Exposing Floating Point (2019)](https://ciechanow.ski/exposing-floating-point/)
 
-[ChatHN: Chat with Hacker News Using OpenAI Function Calling](https://github.com/steven-tey/chathn)
+[Like diffusion but faster: The Paella model for fast image generation](https://www.deeplearning.ai/the-batch/the-paella-model-for-fast-image-generation-explained/)
 
-[Show HN: Content-aware fill for audio to change a song to any duration](https://mofi.loud.red/)
+[Kor: a half-baked prototype that "helps" you extract structured data using LLMs](https://github.com/eyurtsev/kor)
 
-[Every factorial is a power](https://www.johndcook.com/blog/2023/06/23/every-factorial-is-a-power/)
-
-[Devtools for Mobile Browsers](https://eruda.liriliri.io/)
-
-[I'm Done with Red Hat (Enterprise Linux)](https://www.jeffgeerling.com/blog/2023/im-done-red-hat-enterprise-linux)
-
-[Arduino Uno R4 WiFi](https://store.arduino.cc/products/uno-r4-wifi)
+[Bolwoningen: Living in spherical homes](https://parametric-architecture.com/bolwoningen-living-in-spherical-homes/)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[The Deep Sea](https://neal.fun/deep-sea/)
+[macOS command-line tools you might not know about](https://saurabhs.org/advanced-macos-commands)
 
-[Wolfi: A community Linux OS designed for the container and cloud-native era](https://github.com/wolfi-dev)
+[The Deep Sea (2019)](https://neal.fun/deep-sea/)
 
-[Bloomsday the Library’s One-of-a-Kind Copy of “Ulysses”](https://blogs.loc.gov/loc/2023/06/bloomsday-the-librarys-one-of-a-kind-copy-of-ulysses/)
+[Distributed Systems for Fun and Profit](http://book.mixu.net/distsys/single-page.html)
 
-[Optimizing a ring buffer for throughput (2021)](https://rigtorp.se/ringbuffer/)
+[When the Facts Change, I Change My Mind. What Do You Do, Sir?](https://quoteinvestigator.com/2011/07/22/keynes-change-mind/)
 
-[A simple guide to pessimistic locking in Rails](https://www.visuality.pl/posts/a-simple-guide-to-pessimistic-locking-in-rails)
+[Outlook now ignores Windows' Default Browser and opens links in Edge by default](https://support.microsoft.com/en-us/topic/outlook-emails-open-next-to-web-links-in-microsoft-edge-b0e1a1c1-bd62-462c-9ed5-5938b9c649f0)
 
-[Text Blaze (YC W21) Is Hiring a Growth Engineer to Pioneer LLM Driven Strategies]()
+[FedEx Accused of Largest Odometer Rollback Fraud in History with Used Vans](https://www.thedrive.com/news/fedex-accused-of-largest-odometer-rollback-fraud-in-history-with-used-vans)
 
-[Why a browser and mail combination is worth it](https://vivaldi.com/blog/how-to/5-reasons-why-a-browser-and-mail-combination-is-worth-it/)
+[Tinc, a GPLv2 mesh routing VPN](https://www.tinc-vpn.org/)
 
-[Unexpected Interaction of Features](http://www.solipsys.co.uk/new/UnexpectedInteractionOfFeatures.html?wf26hn)
+[Monitoring Is a Pain](https://matduggan.com/were-all-doing-metrics-wrong/)
 
-[The best place to drink is the emptiest bar in the city](https://www.nytimes.com/2023/06/20/magazine/hotel-bars.html)
+[A Syntax for Self-Tracking (2020)](https://www.gibney.org/a_syntax_for_self-tracking)
 
-[Build your own Docker with Linux namespaces, cgroups, and chroot](https://akashrajpurohit.com/blog/build-your-own-docker-with-linux-namespaces-cgroups-and-chroot-handson-guide/)
+[Show HN: BillaBear – Self-Hosted SaaS Subscription Management and Billing](https://github.com/billabear/billabear)

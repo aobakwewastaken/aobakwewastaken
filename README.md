@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[We raised a bunch of money](https://fly.io/blog/we-raised-a-bunch-of-money/)
+
+[Testing the memory safe Rust implementation of Sudo/Su](https://ferrous-systems.com/blog/testing-sudo-rs/)
+
+[BlockSuite: An open-source Notion-like editor with multiplayer support](https://blocksuite.affine.pro/blocksuite-overview.html)
+
+[Launch HN: June (YC W21) – Product Analytics for B2B SaaS Companies]()
+
 [Vincent van Gogh's paintings and drawings](https://www.vangoghmuseum.nl/en/collection?q=&artist=Vincent+van+Gogh)
-
-[A proto-pizza emerges from a fresco on a Pompeii wall](http://pompeiisites.org/en/comunicati/pompeii-a-still-life-discovered-by-the-new-excavations-of-regio-ix/)
-
-[The hidden cost of air quality monitoring](https://www.airgradient.com/blog/hidden-costs-of-air-quality-monitoring/)
-
-[The Password Game](https://neal.fun/password-game/)
-
-[Abusing Ahrefs backlink checker](https://www.trickster.dev/post/abusing-ahrefs-backlink-checker/)
-
-[Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 
 [Fast machines, slow machines](https://jmmv.dev/2023/06/fast-machines-slow-machines.html)
 
-[FreeBSD Jails Containers](https://vermaden.wordpress.com/2023/06/28/freebsd-jails-containers/)
+[Show HN: Open-source background removal in the browser](https://github.com/imgly/background-removal-js)
 
-[In deep space, astronomers spot precursor of carbon based life](https://www.theregister.com/2023/06/27/jwst_carbon_molecule_discovery/)
+[Meta developer tools: Working at scale](https://engineering.fb.com/2023/06/27/developer-tools/meta-developer-tools-open-source/)
 
-[Computerraria: A fully compliant RISC-V computer inside Terraria](https://github.com/misprit7/computerraria)
+[Ironies of Automation (1983) [pdf]](https://web.archive.org/web/20200717054958if_/https://www.ise.ncsu.edu/wp-content/uploads/2017/02/Bainbridge_1983_Automatica.pdf)
+
+[Fintech engineering mistakes](https://startupwin.kelsus.com/p/9-fintech-engineering-mistakes)

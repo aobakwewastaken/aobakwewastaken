@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[We raised a bunch of money](https://fly.io/blog/we-raised-a-bunch-of-money/)
+[Future CSS: State Container Queries](https://ishadeed.com/article/css-state-queries/)
 
-[BlockSuite: An open-source Notion-like editor with multiplayer support](https://blocksuite.affine.pro/blocksuite-overview.html)
+[The bathyscaph Trieste: technological and operational aspects, 1958-1961](https://archive.org/details/bathyscaphtriest00wals)
+
+[Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs](https://github.com/jetpack-io/typeid)
+
+[I made a command-line tool to assist me with writing polyrhythmic drum parts](https://github.com/dredozubov/polyrhythmix)
 
 [Show HN: Open-source background removal in the browser](https://github.com/imgly/background-removal-js)
 
-[Launch HN: June (YC W21) – Product Analytics for B2B SaaS Companies]()
-
-[The idea maze for AI startups (2015)](https://cdixon.org/2015/02/01/the-ai-startup-idea-maze/)
+[The Comprehensive Guide to Elixir's List Comprehension (2022)](https://www.mitchellhanberg.com/the-comprehensive-guide-to-elixirs-for-comprehension/)
 
 [Fast machines, slow machines](https://jmmv.dev/2023/06/fast-machines-slow-machines.html)
 
-[Meta developer tools: Working at scale](https://engineering.fb.com/2023/06/27/developer-tools/meta-developer-tools-open-source/)
+[BlockSuite: An open-source Notion-like editor with multiplayer support](https://blocksuite.affine.pro/blocksuite-overview.html)
 
-[Vincent van Gogh's paintings and drawings](https://www.vangoghmuseum.nl/en/collection?q=&artist=Vincent+van+Gogh)
+[Making Games](https://etodd.io/2023/06/27/making-games/)
 
-[Testing the memory safe Rust implementation of Sudo/Su](https://ferrous-systems.com/blog/testing-sudo-rs/)
-
-[Ironies of Automation (1983) [pdf]](https://web.archive.org/web/20200717054958if_/https://www.ise.ncsu.edu/wp-content/uploads/2017/02/Bainbridge_1983_Automatica.pdf)
+[100 years of Le Corbusier: what does he mean to today’s architects?](https://www.theguardian.com/artanddesign/2023/jun/25/100-years-of-le-corbusier-what-does-he-mean-to-todays-architects)

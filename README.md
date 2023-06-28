@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Half of US wetlands lost federal protection. Their fate is up to the states](https://www.pilotonline.com/2023/06/19/half-the-nations-wetlands-just-lost-federal-protection-their-fate-is-up-to-the-states/)
+[The hidden cost of air quality monitoring](https://www.airgradient.com/blog/hidden-costs-of-air-quality-monitoring/)
 
-[macOS command-line tools you might not know about](https://saurabhs.org/advanced-macos-commands)
+[A proto-pizza emerges from a fresco on a Pompeii wall](http://pompeiisites.org/en/comunicati/pompeii-a-still-life-discovered-by-the-new-excavations-of-regio-ix/)
 
 [The Password Game](https://neal.fun/password-game/)
 
-[Emacs4CL: A DIY kit to set up vanilla Emacs for Common Lisp programming](https://github.com/susam/emacs4cl)
+[FreeBSD Jails Containers](https://vermaden.wordpress.com/2023/06/28/freebsd-jails-containers/)
 
-[Tinyx – resurrected Xvesa from the depths of Git history](https://github.com/tinycorelinux/tinyx)
+[In deep space, astronomers spot precursor of carbon based life](https://www.theregister.com/2023/06/27/jwst_carbon_molecule_discovery/)
 
-[Plane Crash Rates by Model](http://www.airsafe.com/events/models/rate_mod.htm)
+[Supabase (YC S20) Is Hiring a Rust Developer](https://boards.greenhouse.io/supabase/jobs/4917893004)
 
-[OpenRC is a dependency-based init system for Unix-like systems](https://wiki.gentoo.org/wiki/OpenRC)
+[Using command line to process CSV files](https://muhammadraza.me/2022/data-oneliners/)
 
-[BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+[Sears offered complete houses in large DIY kits](https://twitter.com/historyinmemes/status/1673569802022010880)
 
-[Caltech M4 Robot Flies, Rolls, Walks, and More](https://www.caltech.edu/about/news/new-bioinspired-robot-flies-rolls-walks-and-more)
+[Is ORM still an anti-pattern?](https://github.com/getlago/lago/wiki/Is-ORM-still-an-%27anti-pattern%27%3F)
 
-[Arduino Uno R4](https://store.arduino.cc/pages/uno-r4)
+[Plastics are poisoning us](https://www.newyorker.com/magazine/2023/07/03/book-reviews-plastic-waste)

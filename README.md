@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Programming Languages Going Above and Beyond](https://whileydave.com/2023/06/27/programming-languages-going-above-and-beyond/)
+[Monster gravitational waves spotted for first time](https://www.nature.com/articles/d41586-023-02167-7)
+
+[Programming languages going above and beyond](https://whileydave.com/2023/06/27/programming-languages-going-above-and-beyond/)
 
 [The Awk Programming Language, Second Edition](https://awk.dev/)
 
-[Water heavily polluted with PFAS in 15 km radius around Dordrecht chemical plant](https://nltimes.nl/2023/06/29/water-heavily-polluted-pfas-15-km-radius-around-dordrecht-chemical-plant-report)
+[Why write?](https://bastian.rieck.me/blog/posts/2023/writing_why/)
 
-[OpenAI sued for $3B after allegedly trampling privacy with ChatGPT](https://www.theregister.com/2023/06/28/microsoft_openai_sued_privacy/)
-
-[Why Write?](https://bastian.rieck.me/blog/posts/2023/writing_why/)
-
-[Racket: Lisp for the modern day](https://www.deusinmachina.net/p/racket-the-scheme-you-should-try)
+[A 32-Bit Computer Inside Terraria [video]](https://www.youtube.com/watch?v=zXPiqk0-zDY)
 
 [CLI tools hidden in the Python standard library](https://til.simonwillison.net/python/stdlib-cli-tools)
 
-[No code payments automation is a lie](https://hyperswitch.io/blog/no-code-payments-automation-is-a-lie)
+[Racket: Lisp for the modern day](https://www.deusinmachina.net/p/racket-the-scheme-you-should-try)
 
 [Tkinter Designer: Quickly Turn Figma Design to Python Tkinter GUI](https://github.com/ParthJadhav/Tkinter-Designer)
 
 [Solving “Two Sum” in C with a tiny hash table](https://nullprogram.com/blog/2023/06/26/)
+
+[Supreme Court strikes down affirmative action in college admissions](https://www.latimes.com/politics/story/2023-06-29/supreme-court-strikes-down-affirmative-action-in-college-admissions)

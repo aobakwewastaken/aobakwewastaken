@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [The Awk Programming Language, Second Edition](https://awk.dev/)
 
+[Delta flight lands in Charlotte without front landing gear](https://www.wbtv.com/2023/06/28/plane-lands-charlotte-douglas-international-airport-after-dealing-with-mechanical-issues/)
+
+[Happy 50th Birthday, Ethernet](https://blog.apnic.net/2023/06/29/happy-50th-birthday-ethernet/)
+
 [CLI tools hidden in the Python standard library](https://til.simonwillison.net/python/stdlib-cli-tools)
+
+[Solving “Two Sum” in C with a tiny hash table](https://nullprogram.com/blog/2023/06/26/)
+
+[Every new DMD version breaks some of my code](https://forum.dlang.org/thread/ijbtgciijtxmlfzganpd@forum.dlang.org)
 
 [Code the shortest path first](https://evanlh.com/posts/shortest_path_first_sdlc/)
 
 [Giant 'Gravity Hole' in the Ocean May Be the Ghost of an Ancient Sea](https://www.scientificamerican.com/article/giant-gravity-hole-in-the-ocean-may-be-the-ghost-of-an-ancient-sea1/)
 
-[Noticing when an app is only hosted in us-east-1](https://blog.jonlu.ca/posts/us-east-1-latency)
-
 [OpenOrca: open source dataset and instruct-tuned LLMs](https://erichartford.com/openorca)
 
-[Ed Fredkin has died](https://twitter.com/dag_spicer/status/1673799376437927936)
-
-[Google is about to make life more difficult for custom ROM fans](https://www.androidauthority.com/google-kill-android-aosp-dialer-messages-app-3334980/)
-
-[The quest for a simple smartwatch](https://www.binarymoon.co.uk/writing/the-quest-for-a-simple-smartwatch/)
-
-[Vaporwave and Unicode Analysis](https://yaytext.com/blog/vaporwave-unicode-analysis/)
+[Tkinter Designer: Quickly Turn Figma Design to Python Tkinter GUI](https://github.com/ParthJadhav/Tkinter-Designer)

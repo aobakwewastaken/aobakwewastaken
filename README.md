@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Programming Languages Going Above and Beyond](https://whileydave.com/2023/06/27/programming-languages-going-above-and-beyond/)
+
 [The Awk Programming Language, Second Edition](https://awk.dev/)
 
-[Delta flight lands in Charlotte without front landing gear](https://www.wbtv.com/2023/06/28/plane-lands-charlotte-douglas-international-airport-after-dealing-with-mechanical-issues/)
+[Water heavily polluted with PFAS in 15 km radius around Dordrecht chemical plant](https://nltimes.nl/2023/06/29/water-heavily-polluted-pfas-15-km-radius-around-dordrecht-chemical-plant-report)
 
-[Happy 50th Birthday, Ethernet](https://blog.apnic.net/2023/06/29/happy-50th-birthday-ethernet/)
+[OpenAI sued for $3B after allegedly trampling privacy with ChatGPT](https://www.theregister.com/2023/06/28/microsoft_openai_sued_privacy/)
+
+[Why Write?](https://bastian.rieck.me/blog/posts/2023/writing_why/)
+
+[Racket: Lisp for the modern day](https://www.deusinmachina.net/p/racket-the-scheme-you-should-try)
 
 [CLI tools hidden in the Python standard library](https://til.simonwillison.net/python/stdlib-cli-tools)
 
-[Solving “Two Sum” in C with a tiny hash table](https://nullprogram.com/blog/2023/06/26/)
-
-[Every new DMD version breaks some of my code](https://forum.dlang.org/thread/ijbtgciijtxmlfzganpd@forum.dlang.org)
-
-[Code the shortest path first](https://evanlh.com/posts/shortest_path_first_sdlc/)
-
-[Giant 'Gravity Hole' in the Ocean May Be the Ghost of an Ancient Sea](https://www.scientificamerican.com/article/giant-gravity-hole-in-the-ocean-may-be-the-ghost-of-an-ancient-sea1/)
-
-[OpenOrca: open source dataset and instruct-tuned LLMs](https://erichartford.com/openorca)
+[No code payments automation is a lie](https://hyperswitch.io/blog/no-code-payments-automation-is-a-lie)
 
 [Tkinter Designer: Quickly Turn Figma Design to Python Tkinter GUI](https://github.com/ParthJadhav/Tkinter-Designer)
+
+[Solving “Two Sum” in C with a tiny hash table](https://nullprogram.com/blog/2023/06/26/)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Show HN: Halloy – A GUI Application in Rust for IRC](https://github.com/squidowl/halloy)
+[Hurl 4.0.0](https://hurl.dev/blog/2023/06/30/announcing-hurl-4.0.0.html)
 
-[How does Linux handle writes?](https://www.cyberdemon.org/2023/06/27/file-writes.html)
+[Racket Frustrates Me](https://blog.winny.tech/posts/racket-frustrates-me/)
 
-[Terrible real estate agent photographs](https://terriblerealestateagentphotos.com)
+[SEC notifies SolarWinds CISO and CFO of possible action in cyber investigation](https://www.cybersecuritydive.com/news/sec-solarwinds-ciso-cfo-orion/653864/)
 
-[Atom feed format was born 20 years ago](https://www.rssboard.org/news/213/atom-feed-format-born-20-years-ago)
+[Algorithmic Trading with Go](https://polygon.io/blog/case-study-algorithmict-trading-with-go/)
 
-[Dynamic bit shuffle using AVX-512](https://lemire.me/blog/2023/06/29/dynamic-bit-shuffle-using-avx-512/)
+[A look inside the SNES, PS5, and Xbox controllers with CT scans](https://www.scanofthemonth.com/scans/gamepads)
 
-[Anna’s Archive: Open-source data library](https://annas-archive.org/)
+[RIP Nitter](https://github.com/zedeus/nitter/issues/919)
 
-[AlmaLinux – Our Value Is Our Values](https://almalinux.org/blog/our-value-is-our-values/)
+[FTC Announces Proposed Rule Banning Fake Reviews and Testimonials](https://www.ftc.gov/news-events/news/press-releases/2023/06/federal-trade-commission-announces-proposed-rule-banning-fake-reviews-testimonials)
 
-[Show HN: Gamebody, a full-body game controller](https://github.com/everythingishacked/Gamebody)
+[Briar Mailbox released to improve connectivity](https://briarproject.org/news/2023-briar-mailbox-released/)
 
-[BGP.Tools: Browse the Internet Ecosystem](https://bgp.tools/)
+[Dolphins use “baby talk” too](https://www.pnas.org/doi/abs/10.1073/pnas.2300262120)
 
-[How the great firewall of China detects and blocks fully encrypted traffic [pdf]](https://gfw.report/publications/usenixsecurity23/data/paper/paper.pdf)
+[Crypto for the Homeless (501(C)(3))](https://cryptoforthehomeless.com/)

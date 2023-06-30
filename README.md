@@ -7,14 +7,14 @@
 
 [Anna’s Archive: Open-source data library](https://annas-archive.org/)
 
-[Microwaved plastic containers release microplastics into food](https://pubs.acs.org/doi/10.1021/acs.est.3c01942)
+[Show HN: Gamebody, a full-body game controller](https://github.com/everythingishacked/Gamebody)
 
-[Roboflow (YC S20) Is Hiring Engineers to Democratize Computer Vision](https://roboflow.com/careers?ref=hn723)
-
-[BGP.Tools: Browse the Internet Ecosystem](https://bgp.tools/)
-
-[MdBook – A command line tool to create books with Markdown](https://rust-lang.github.io/mdBook/)
+[How does Linux handle writes?](https://www.cyberdemon.org/2023/06/27/file-writes.html)
 
 [How the great firewall of China detects and blocks fully encrypted traffic [pdf]](https://gfw.report/publications/usenixsecurity23/data/paper/paper.pdf)
 
-[The downfall of National Geographic](https://jjpryor.substack.com/p/the-tragic-downfall-of-national-geographic)
+[MdBook – A command line tool to create books with Markdown](https://rust-lang.github.io/mdBook/)
+
+[Show HN: Halloy – A GUI Application in Rust for IRC](https://github.com/squidowl/halloy)
+
+[BGP.Tools: Browse the Internet Ecosystem](https://bgp.tools/)

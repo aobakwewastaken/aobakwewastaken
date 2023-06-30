@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Bill C-18: Google to remove news links in Canada over online news law](https://www.ctvnews.ca/politics/google-set-to-remove-news-links-in-canada-meta-ends-contract-for-journalism-fellowship-as-bill-c-18-fallout-continues-1.6461557)
+[Anna’s Archive: Open-source data library](https://annas-archive.org/)
 
-[Tesla Fleet Telemetry](https://github.com/teslamotors/fleet-telemetry)
+[MdBook – A command line tool to create books with Markdown](https://rust-lang.github.io/mdBook/)
 
-[Why do men stupefy themselves? Leo Tolstoy on why we drink (2014)](https://www.themarginalian.org/2014/12/30/why-do-men-stupefy-themselves-leo-tolstoy/)
+[The Man Who Broke Bowling](https://www.gq.com/story/jason-belmonte-bowling-profile)
+
+[Publishing free software video games](https://writefreesoftware.org/blog/free-software-games/)
+
+[NJ Supreme Court says cops need a wiretap to eavesdrop on your Facebook posts](https://newjerseymonitor.com/2023/06/29/n-j-supreme-court-says-cops-need-a-wiretap-to-eavesdrop-on-your-facebook-posts/)
 
 [Structures in C: From Basics to Memory Alignment](https://abstractexpr.com/2023/06/29/structures-in-c-from-basics-to-memory-alignment/)
 
-[Wayland Is Pretty Good](https://serebit.com/posts/wayland-is-pretty-good/)
+[Flea market find is medieval hand cannon](http://www.thehistoryblog.com/archives/67580)
 
-[Physicists Produce Neutrino Images of Milky Way Galaxy](https://drexel.edu/news/archive/2023/June/Drexel-Physicists-Produce-New-Images-of-Milky-Way-Galaxy)
+[How long can open-source LLMs truly promise on context length?](https://lmsys.org/blog/2023-06-29-longchat/)
 
-[Gorilla-CLI: LLMs for CLI including K8s/AWS/GCP/Azure/sed and 1500 APIs](https://github.com/gorilla-llm/gorilla-cli)
+[Keeping Open Source Open](https://rockylinux.org/news/keeping-open-source-open/)
 
-[Monster gravitational waves spotted for first time](https://www.nature.com/articles/d41586-023-02167-7)
-
-[Now you can search on Google for free: Solution with API](https://github.com/karust/openserp)
-
-[HyenaDNA: Long-Range Genomic Sequence Modeling (context length of 1M tokens)](https://arxiv.org/abs/2306.15794)
+[RF Spectrum Mapping](https://www.he360.com/products/rfgeo-radio-frequency-signal-mapping/)

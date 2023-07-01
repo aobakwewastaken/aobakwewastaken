@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[The most famous NYT crossword: 1996 presidential election day (2009)](https://www.crosswordunclued.com/2009/01/nyt-election-day-crossword.html)
+[Someone dropped the source code for Far Cry 1 on archive.org](https://archive.org/details/far-cry-1.34-complete)
 
-[The Rise and Fall of CORBA (2006)](https://queue.acm.org/detail.cfm?id=1142044)
+[TabDB: Using browser tabs as a database like only a maniac would](https://github.com/kkuchta/tabdb)
+
+[New York Times Election Day Crossword (2009)](https://www.crosswordunclued.com/2009/01/nyt-election-day-crossword.html)
 
 [Steel Bank Common Lisp](https://www.sbcl.org)
 
-[In practice, cool URLs can become inaccessible even if they don't change](https://utcc.utoronto.ca/~cks/space/blog/web/CoolUrlsGoInaccessible)
-
 [Twitter now requires an account to view tweets](https://techcrunch.com/2023/06/30/twitter-now-requires-an-account-to-view-tweets/)
 
-[Terra (YC W21) Is Hiring AI Engineers in London](https://www.ycombinator.com/companies/terra/jobs/0f5CP0r-ai-engineer)
+[Is it possible to write games like Pac-Man in a functional language?](https://prog21.dadgum.com/23.html)
 
-[GitHub – kkuchta/CSS-only-chat: A monstrous async web chat using no JavaScript](https://github.com/kkuchta/css-only-chat)
+[In practice, cool URLs can become inaccessible even if they don't change](https://utcc.utoronto.ca/~cks/space/blog/web/CoolUrlsGoInaccessible)
 
-[Radioactive spill near Richland WA worse than expected](https://www.tri-cityherald.com/news/local/hanford/article276863128.html)
+[CSS-Only Chat](https://github.com/kkuchta/css-only-chat)
 
 [Necessary Illusions: Thought Control in Democratic Societies [pdf]](https://www.cia.gov/library/abbottabad-compound/52/526D2E781AC9EBBB13346BDF7693E1BB_CHOMSKY_Noam_-_Necessary_Illusions.pdf)
 
-[You Might Not Own the Data of Your Air Quality Monitor](https://www.airgradient.com/blog/when-you-own-a-monitor-but-not-its-data/)
+[The Condiment Packet Gallery](https://www.condimentpacket.com/index.html?mc_cid=316bfc2409&mc_eid=03a6564312)

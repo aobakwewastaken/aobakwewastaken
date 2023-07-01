@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Hurl 4.0.0](https://hurl.dev/blog/2023/06/30/announcing-hurl-4.0.0.html)
+[The most famous NYT crossword: 1996 presidential election day (2009)](https://www.crosswordunclued.com/2009/01/nyt-election-day-crossword.html)
 
-[Racket Frustrates Me](https://blog.winny.tech/posts/racket-frustrates-me/)
+[The Rise and Fall of CORBA (2006)](https://queue.acm.org/detail.cfm?id=1142044)
 
-[SEC notifies SolarWinds CISO and CFO of possible action in cyber investigation](https://www.cybersecuritydive.com/news/sec-solarwinds-ciso-cfo-orion/653864/)
+[Steel Bank Common Lisp](https://www.sbcl.org)
 
-[Algorithmic Trading with Go](https://polygon.io/blog/case-study-algorithmict-trading-with-go/)
+[In practice, cool URLs can become inaccessible even if they don't change](https://utcc.utoronto.ca/~cks/space/blog/web/CoolUrlsGoInaccessible)
 
-[A look inside the SNES, PS5, and Xbox controllers with CT scans](https://www.scanofthemonth.com/scans/gamepads)
+[Twitter now requires an account to view tweets](https://techcrunch.com/2023/06/30/twitter-now-requires-an-account-to-view-tweets/)
 
-[RIP Nitter](https://github.com/zedeus/nitter/issues/919)
+[Terra (YC W21) Is Hiring AI Engineers in London](https://www.ycombinator.com/companies/terra/jobs/0f5CP0r-ai-engineer)
 
-[FTC Announces Proposed Rule Banning Fake Reviews and Testimonials](https://www.ftc.gov/news-events/news/press-releases/2023/06/federal-trade-commission-announces-proposed-rule-banning-fake-reviews-testimonials)
+[GitHub – kkuchta/CSS-only-chat: A monstrous async web chat using no JavaScript](https://github.com/kkuchta/css-only-chat)
 
-[Briar Mailbox released to improve connectivity](https://briarproject.org/news/2023-briar-mailbox-released/)
+[Radioactive spill near Richland WA worse than expected](https://www.tri-cityherald.com/news/local/hanford/article276863128.html)
 
-[Dolphins use “baby talk” too](https://www.pnas.org/doi/abs/10.1073/pnas.2300262120)
+[Necessary Illusions: Thought Control in Democratic Societies [pdf]](https://www.cia.gov/library/abbottabad-compound/52/526D2E781AC9EBBB13346BDF7693E1BB_CHOMSKY_Noam_-_Necessary_Illusions.pdf)
 
-[Crypto for the Homeless (501(C)(3))](https://cryptoforthehomeless.com/)
+[You Might Not Own the Data of Your Air Quality Monitor](https://www.airgradient.com/blog/when-you-own-a-monitor-but-not-its-data/)

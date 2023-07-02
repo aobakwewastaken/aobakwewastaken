@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Twitter Is DDOSing Itself](https://sfba.social/@sysop408/110639435788921057)
+[Flattening ASTs (and Other Compiler Data Structures)](https://www.cs.cornell.edu/~asampson/blog/flattening.html)
 
-[Safe Enough?](https://astralcodexten.substack.com/p/your-book-review-safe-enough)
+[Why is the volume of a cone one third of the volume of a cylinder? (2010)](https://math.stackexchange.com/questions/623/why-is-the-volume-of-a-cone-one-third-of-the-volume-of-a-cylinder)
 
-[Oregon County Sues BP, Chevron, Shell, Exxon for $51B Climate Damages](https://carboncredits.com/oregon-county-sues-oil-companies-shell-bp-exxon-chevron-for-51b-climate-damages/)
+[How I changed my D-Link camera to a locally managed IP camera](https://github.com/bmork/defogger)
 
-[GPT-Migrate converts repos from one lang/framework to another](https://github.com/0xpayne/gpt-migrate)
-
-[Course Notes: A Functional Introduction to Computer Science (UWaterloo)](https://cs.uwaterloo.ca/~plragde/flaneries/FICS/)
-
-[It’s hard to give a good intuitive explanation for the volume of a cone](https://math.stackexchange.com/questions/623/why-is-the-volume-of-a-cone-one-third-of-the-volume-of-a-cylinder)
-
-[Why do Ivy League students self-sabotage?](https://movingthelimit.com/why-do-ivy-league-students-self-sabotage/)
-
-[How I changed my D-Link camera from cloud camera to a locally managed IP camera](https://github.com/bmork/defogger)
+[A Functional Introduction To Computer Science](https://cs.uwaterloo.ca/~plragde/flaneries/FICS/)
 
 [Intro to Cryptography [pdf] (2011)](https://www.cs.umd.edu/~waa/414-F11/IntroToCrypto.pdf)
 
+[GPU accelerated SMT constraint solving (2021)](https://blog.osiris.cyber.nyu.edu/2021/01/11/gpu-accelerated-smt-constraint-solving/)
+
 [Beyond Markdown (2018)](https://johnmacfarlane.net/beyond-markdown.html)
+
+[GPT-Migrate converts repos from one lang/framework to another](https://github.com/0xpayne/gpt-migrate)
+
+[Fake reviews are illegal and subject to big fines under new FTC rules](https://www.washingtonpost.com/technology/2023/06/30/fake-reviews-online-ftc/)
+
+[The moral behavior of ethics professors: A replication-extension (2018)](https://www.tandfonline.com/doi/full/10.1080/09515089.2019.1587912)

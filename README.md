@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[First 'tooth regrowth' medicine moves toward clinical trials in Japan](https://mainichi.jp/english/articles/20230609/p2a/00m/0sc/026000c)
+
+[Automated CPU Design with AI](https://arxiv.org/abs/2306.12456)
+
+[JavaScript Gom Jabbar](https://frantic.im/javascript-gom-jabbar/)
+
+[2,200 forgotten vintage computers from a barn in Massachusetts](https://www.vice.com/en/article/ak3k34/2200-forgotten-vintage-computers-are-being-liberated-from-a-barn-in-massachusetts)
+
+[GitHub repository disabled at 22M commits](https://programming.dev/post/355447)
+
+[Forgotten tragedy of Italian war detainees](https://www3.nhk.or.jp/nhkworld/en/news/backstories/816/)
+
+[Alt-F4 #65 – Factorio visualizer in Unreal Engine 5](https://alt-f4.blog/ALTF4-65/)
+
+[Kokuhaku: Japan’s Love Confessing Culture (2013)](https://www.tofugu.com/japan/kokuhaku-love-confessing-japan/)
+
 [Parsing time stamps faster with SIMD instructions](https://lemire.me/blog/2023/07/01/parsing-time-stamps-faster-with-simd-instructions/)
 
-[Embattled physicist files patent for unprecedented ambient superconductor](https://www.science.org/content/article/embattled-physicist-files-patent-unprecedented-ambient-superconductor)
-
-[Stanford A.I. Courses](https://ai.stanford.edu/courses/)
-
-[My Meeting with David Bohm, Tormented Quantum Visionary](https://johnhorgan.org/cross-check/my-meeting-with-david-bohm-tormented-quantum-visionary)
-
-[64bit computing on a budget](https://virtuallyfun.com/2023/07/01/64bit-computing-on-a-budget/)
-
-[Flattening ASTs and other compiler data structures](https://www.cs.cornell.edu/~asampson/blog/flattening.html)
-
-[Entropy: A little understood concept in physics [video]](https://www.youtube.com/watch?v=DxL2HoqLbyA)
-
-[Why is the volume of a cone one third of the volume of a cylinder? (2010)](https://math.stackexchange.com/questions/623/why-is-the-volume-of-a-cone-one-third-of-the-volume-of-a-cylinder)
-
-[A curated list of Emacs Lisp development resources](https://github.com/p3r7/awesome-elisp)
-
-[Google Sidewiki](https://en.wikipedia.org/wiki/Google_Sidewiki)
+[Mir: A lightweight JIT compiler project (2020)](https://developers.redhat.com/blog/2020/01/20/mir-a-lightweight-jit-compiler-project)

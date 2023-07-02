@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Workers with less experience gain the most from generative AI](https://mitsloan.mit.edu/ideas-made-to-matter/workers-less-experience-gain-most-generative-ai)
+[Twitter Is DDOSing Itself](https://sfba.social/@sysop408/110639435788921057)
 
-[How to Do Great Work](http://paulgraham.com/greatwork.html)
+[Safe Enough?](https://astralcodexten.substack.com/p/your-book-review-safe-enough)
 
-[“It appears that Twitter is DDoSing itself”](https://sfba.social/@sysop408/110639474671754723)
+[Oregon County Sues BP, Chevron, Shell, Exxon for $51B Climate Damages](https://carboncredits.com/oregon-county-sues-oil-companies-shell-bp-exxon-chevron-for-51b-climate-damages/)
 
-[Wazero: Zero dependency WebAssembly runtime written in Go](https://wazero.io/)
+[GPT-Migrate converts repos from one lang/framework to another](https://github.com/0xpayne/gpt-migrate)
 
-[VUDA: A Vulkan Implementation of CUDA](https://github.com/jgbit/vuda)
+[Course Notes: A Functional Introduction to Computer Science (UWaterloo)](https://cs.uwaterloo.ca/~plragde/flaneries/FICS/)
 
-[SpaceX rocket launches Euclid space telescope to map the 'dark universe'](https://www.space.com/space-rocket-launches-euclid-dark-universe-telescope)
+[It’s hard to give a good intuitive explanation for the volume of a cone](https://math.stackexchange.com/questions/623/why-is-the-volume-of-a-cone-one-third-of-the-volume-of-a-cylinder)
 
-[Twitter bug causes self-DDoS, related to Musk’s emergency blocks, rate limits](https://waxy.org/2023/07/twitter-bug-causes-self-ddos-possibly-causing-elon-musks-emergency-blocks-and-rate-limits-its-amateur-hour/)
+[Why do Ivy League students self-sabotage?](https://movingthelimit.com/why-do-ivy-league-students-self-sabotage/)
 
-[The complex history of the Intel i960 RISC processor](http://www.righto.com/2023/07/the-complex-history-of-intel-i960-risc.html)
+[How I changed my D-Link camera from cloud camera to a locally managed IP camera](https://github.com/bmork/defogger)
 
-[Far Cry 1.34 source code (2006)](https://archive.org/details/far-cry-1.34-complete)
+[Intro to Cryptography [pdf] (2011)](https://www.cs.umd.edu/~waa/414-F11/IntroToCrypto.pdf)
 
-[Bluesky facing degraded performance due to record high traffic](https://bsky.app/profile/bsky.app/post/3jzi4yw3nqu2h)
+[Beyond Markdown (2018)](https://johnmacfarlane.net/beyond-markdown.html)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[55 GiB/s FizzBuzz (2021)](https://codegolf.stackexchange.com/questions/215216/high-throughput-fizz-buzz/236630#236630)
+
 [First 'tooth regrowth' medicine moves toward clinical trials in Japan](https://mainichi.jp/english/articles/20230609/p2a/00m/0sc/026000c)
 
-[Automated CPU Design with AI](https://arxiv.org/abs/2306.12456)
+[Tesla gives UK owners grabbing stick after forcing them to get left-hand-drive](https://electrek.co/2023/06/30/tesla-gives-new-owners-uk-grabbing-stick-after-forcing-left-hand-drive/)
+
+[Fluent: Static Extension Methods for Java](https://github.com/rogerkeays/fluent)
+
+[Nvidia’s H100: Funny L2, and Tons of Bandwidth](https://chipsandcheese.com/2023/07/02/nvidias-h100-funny-l2-and-tons-of-bandwidth/)
+
+[Simula – The forgotten programming language](https://www.deusinmachina.net/p/simula-the-forgotten-programming)
 
 [JavaScript Gom Jabbar](https://frantic.im/javascript-gom-jabbar/)
 
+[Lumia WOA Project – Windows 10 or Windows 11 Desktop OS for Lumia 950/XL](https://woa-project.github.io/LumiaWOA/)
+
 [2,200 forgotten vintage computers from a barn in Massachusetts](https://www.vice.com/en/article/ak3k34/2200-forgotten-vintage-computers-are-being-liberated-from-a-barn-in-massachusetts)
 
-[GitHub repository disabled at 22M commits](https://programming.dev/post/355447)
-
-[Forgotten tragedy of Italian war detainees](https://www3.nhk.or.jp/nhkworld/en/news/backstories/816/)
-
-[Alt-F4 #65 – Factorio visualizer in Unreal Engine 5](https://alt-f4.blog/ALTF4-65/)
-
-[Kokuhaku: Japan’s Love Confessing Culture (2013)](https://www.tofugu.com/japan/kokuhaku-love-confessing-japan/)
-
-[Parsing time stamps faster with SIMD instructions](https://lemire.me/blog/2023/07/01/parsing-time-stamps-faster-with-simd-instructions/)
-
-[Mir: A lightweight JIT compiler project (2020)](https://developers.redhat.com/blog/2020/01/20/mir-a-lightweight-jit-compiler-project)
+[AI and the Automation of Work](https://www.ben-evans.com/benedictevans/2023/7/2/working-with-ai)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Sourcegraph is no longer Open Source](https://github.com/sourcegraph/sourcegraph/blob/main/CHANGELOG.md)
+
 [Companies must stop using Google Analytics](https://www.imy.se/en/news/companies-must-stop-using-google-analytics/)
+
+[Passwords Are Fine](https://herman.bearblog.dev/passwords-are-fine/)
+
+[An Architectural Overview of QNX – inside the industry's only true microkernel [pdf]](https://cseweb.ucsd.edu/~voelker/cse221/papers/qnx-paper92.pdf)
 
 [Threads, an Instagram app](https://apps.apple.com/us/app/threads-an-instagram-app/id6446901002)
 
+[The disappointingly ongoing success of WvDial (2009)](https://apenwarr.ca/log/20091224)
+
 [Leaking Bitwarden's Vault with a Nginx vulnerability](https://labs.hakaioffsec.com/nginx-alias-traversal/)
+
+[Whole-brain connectome of the fruit fly](https://codex.flywire.ai)
 
 [Learning needs to be effortful to be effective](https://giansegato.com/essays/edutainment-is-not-learning)
 
-[A header-only C implementation of C++ <algorithm>](https://github.com/clibraries/array-algorithms)
-
-[The Lone Banana Problem in AI](https://www.digital-science.com/tldr/article/the-lone-banana-problem-or-the-new-programming-speaking-ai/)
-
 [SQLite-based databases on the Postgres protocol? Yes we can](https://blog.turso.tech/sqlite-based-databases-on-the-postgres-protocol-yes-we-can-358e61171d65?gi=b00cf93b1837)
-
-[Why there may never be a libjpeg-turbo 3.1](https://groups.google.com/g/libjpeg-turbo-announce/c/YZ2wRgB0zIE)
-
-[Ask HN: How to do market research for product?]()
-
-[The Dead Internet Theory [video]](https://www.youtube.com/watch?v=9WB5grLMXkU)

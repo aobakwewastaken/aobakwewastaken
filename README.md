@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[AI weights are not open “source”](https://opencoreventures.com/blog/2023-06-27-ai-weights-are-not-open-source/)
+[Show HN: Hacker News user blogroll](https://dm.hn)
 
-[Regex Engine Internals as a Library](https://blog.burntsushi.net/regex-internals/)
+[Why is desalination so difficult?](https://practical.engineering/blog/2023/6/28/why-is-desalination-so-difficult)
 
-[Growing a Language (1998) [video]](https://www.youtube.com/watch?v=lw6TaiXzHAE)
+[The Overflowing Brain: Information overload and the limits of working memory](https://tertulia-moderna.blogspot.com/2010/12/overflowing-brain-by-torkel-klingberg.html)
 
-[How to foster shoshin](https://psyche.co/guides/how-to-cultivate-shoshin-or-a-beginners-mind)
+[Fast](https://patrickcollison.com/fast)
 
-[PhD Simulator](https://research.wmz.ninja/projects/phd/index.html)
+[Ask HN: Any hardware startups here?]()
 
-[Learn how to design systems at scale and prepare for system design interviews](https://github.com/karanpratapsingh/system-design)
+[FunctionTrace: Graphical Python Profiler](https://functiontrace.com)
 
-[A Regex Barometer](https://github.com/BurntSushi/rebar)
+[Tell HN: People forget that you can stick any data at the end of a bash script]()
 
-[The Evolution of the Unix Time-Sharing System by Dennis M. Ritchie (1984) [pdf]](https://www.bell-labs.com/usr/dmr/www/hist.pdf)
+[With plugins, GPT-4 posts GitHub issue without being instructed to](https://chat.openai.com/share/ed8044da-22c5-4c5e-ba82-4353f67d553f)
 
-[Open Letter from Security Researchers in Relation to the Online Safety Bill [pdf]](https://haddadi.github.io/UKOSBOpenletter.pdf)
+[Starting design work in a spreadsheet](https://clearleft.com/thinking/starting-design-work-in-a-spreadsheet)
 
-[Ariane 5 User’s Manual (2011) [pdf]](https://www.arianespace.com/wp-content/uploads/2015/09/Ariane5_users_manual_Issue5_July2011.pdf)
+[Regex engine internals as a library](https://blog.burntsushi.net/regex-internals/)

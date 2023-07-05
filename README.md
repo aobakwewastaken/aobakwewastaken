@@ -1,15 +1,13 @@
 # Top Stories on hackernews <br />
-[That Time I Posted Myself Out Of a Job](https://cohost.org/stillinbeta/post/1847579-that-time-i-posted-m)
+[Demoscene accepted as UNESCO cultural heritage in The Netherlands](http://demoscene-the-art-of-coding.net/2023/07/03/unescodemoscene-accepted-as-unesco-cultural-heritage-in-the-netherlands/)
+
+[Open Letter from Security Researchers in Relation to the Online Safety Bill [pdf]](https://haddadi.github.io/UKOSBOpenletter.pdf)
+
+[A dispute over IPv4 addresses blew the lid off an effort reshape allocation](https://www.theregister.com/2023/07/03/what_is_number_resource_society/)
 
 [Functions and algorithms implemented purely with TypeScript's type system](https://github.com/ronami/meta-typing)
 
-[Bret Victor: Update July 2023](http://worrydream.com/July2023/)
-
-[How to think about `async`/`await` in Rust](http://cliffle.com/blog/async-inversion/)
-
-[Is the aircraft in this image real?](https://aviation.stackexchange.com/questions/99788/is-the-aircraft-in-this-image-real)
-
-[Bitmovin (YC S15) Is Hiring a Technical Support Engineer in India](https://bitmovin.com/careers/technical-support-engineer-tier-1-chennai-6829109002/)
+[Bret Victor update](http://worrydream.com/July2023/)
 
 [Our Journey with Apache Arrow (Part 2): Adaptive Schemas and Sorting](https://arrow.apache.org/blog/2023/06/26/our-journey-at-f5-with-apache-arrow-part-2/)
 
@@ -17,4 +15,6 @@
 
 [Type system updates: moving from research into development](https://elixir-lang.org/blog/2023/06/22/type-system-updates-research-dev/)
 
-[Update on Twitter's Rate Limits](https://business.twitter.com/en/blog/update-on-twitters-limited-usage.html)
+[Boom, Bubble, Bust: The Fiber Optic Mania [pdf]](https://internethistory.org/wp-content/uploads/2020/01/OSA_Boom.Bubble.Bust_Fiber.Optic_.Mania_.pdf)
+
+[Tips for programmers to stay ahead of generative AI](https://spectrum.ieee.org/ai-programming)

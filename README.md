@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[InternLM – new open source 7B LLM](https://github.com/InternLM/InternLM)
+
+[Declarative Enhancement for HTML](https://twinspark.js.org/)
+
 [Cloud Backed SQLite](https://sqlite.org/cloudsqlite/doc/trunk/www/index.wiki)
-
-[My Problem with the Four-Document Model](https://www.hillelwayne.com/post/problems-with-the-4doc-model/)
-
-[Cory Doctorow: Platform Capitalism and the Curse of “Enshittification” [audio]](https://podtail.com/podcast/future-tense-full-program-podcast/cory-doctorow-platform-capitalism-and-the-curse-of/)
 
 [Show HN: Hacker News user blogroll](https://dm.hn)
 
+[Mid-1990s Sega document leak shows how it lost the second console war to Sony](https://arstechnica.com/gaming/2023/07/mid-1990s-sega-document-leak-shows-how-it-lost-the-second-console-war-to-sony/)
+
 [Raylib – A simple and easy-to-use library to enjoy video games programming](https://github.com/raysan5/raylib)
 
-[SigNoz (YC W21): Open-Source Observability Platform – Is Hiring Sr Back End Dev](https://www.ycombinator.com/companies/signoz/jobs/uCt5BQw-sr-backend-engineer-go-remote)
-
-[Why is desalination so difficult?](https://practical.engineering/blog/2023/6/28/why-is-desalination-so-difficult)
+[My Problem with the Four-Document Model](https://www.hillelwayne.com/post/problems-with-the-4doc-model/)
 
 [Joplin – An open-source note taking and to-do application with synchronisation](https://github.com/laurent22/joplin)
 
-[Tell HN: Nearly all of Evernote’s remaining staff has been laid off]()
+[Cory Doctorow: Platform Capitalism and the Curse of “Enshittification” [audio]](https://podtail.com/podcast/future-tense-full-program-podcast/cory-doctorow-platform-capitalism-and-the-curse-of/)
 
-[Encyclopaedia Metallum](https://www.metal-archives.com/)
+[Watch Baby Octopuses Hatch from a Surprising Deep-Sea Nursery](https://www.scientificamerican.com/article/watch-baby-octopuses-hatch-from-a-surprising-deep-sea-nursery/)

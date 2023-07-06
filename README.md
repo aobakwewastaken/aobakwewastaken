@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Lego building instructions](https://archive.org/details/lego-set-instructions)
+[GPT-4 API General Availability](https://openai.com/blog/gpt-4-api-general-availability)
 
-[Tor’s history of D/DoS attacks and future strategies for mitigation](https://forum.torproject.org/t/tor-project-tors-history-of-d-dos-attacks-strategy-for-mitigation/8145)
+[“Self-reflecting” AI agents explore like animals](https://hai.stanford.edu/news/ai-agents-self-reflect-perform-better-changing-environments)
 
-[A gigantic landslide shows the limit to how high mountains can grow](https://www.economist.com/science-and-technology/2023/07/06/a-gigantic-landslide-shows-the-limit-to-how-high-mountains-can-grow)
+[Chat with Andreas Kling about Ladybird and developing a browser engine](https://www.igalia.com/chats/ladybird)
 
-[Scaling Transformers to 1B Tokens](https://arxiv.org/abs/2307.02486)
+[Zink brings conformant OpenGL on Imagination GPUs](https://www.collabora.com/news-and-blog/news-and-events/zink-on-imagination-gpus.html)
 
-[Demystifying Text Data with the Unstructured Python Library](https://saeedesmaili.com/demystifying-text-data-with-the-unstructured-python-library/)
+[LEGO Building Instructions](https://archive.org/details/lego-set-instructions)
 
-[PlanetScale Scaler Pro](https://planetscale.com/blog/announcing-scaler-pro)
+[I want XAES-256-GCM/11](https://words.filippo.io/dispatches/xaes-256-gcm-11/)
 
-[Mid-1990s Sega document leak shows how it lost the second console war to Sony](https://arstechnica.com/gaming/2023/07/mid-1990s-sega-document-leak-shows-how-it-lost-the-second-console-war-to-sony/)
+[Imagination GPUs now support OpenGL 4.6](https://blog.imaginationtech.com/imagination-gpus-now-support-opengl-4.6)
 
-[InternLM – new open source 7B LLM](https://github.com/InternLM/InternLM)
+[Show HN: Banger.show – create colorful visuals for your songs in seconds](https://banger.show)
 
-[/Uses: A list of /uses pages detailing developer setups, gear, software, configs](https://uses.tech)
+[Tea as Hepatoprotective Agent: A Revisit](https://sci-hub.se/10.1016/b978-0-12-814466-4.00015-x)
 
-[Tuesday set an unofficial record for the hottest day on Earth](https://apnews.com/article/global-record-breaking-heat-july-27069b5380117534d78f1f40a6edc7a0)
+[Why there are so many cybersecurity vendors and where do we go from here](https://ventureinsecurity.net/p/why-there-are-so-many-cybersecurity)

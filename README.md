@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Cloud Backed SQLite](https://sqlite.org/cloudsqlite/doc/trunk/www/index.wiki)
+
+[My Problem with the Four-Document Model](https://www.hillelwayne.com/post/problems-with-the-4doc-model/)
+
+[Cory Doctorow: Platform Capitalism and the Curse of “Enshittification” [audio]](https://podtail.com/podcast/future-tense-full-program-podcast/cory-doctorow-platform-capitalism-and-the-curse-of/)
+
 [Show HN: Hacker News user blogroll](https://dm.hn)
+
+[Raylib – A simple and easy-to-use library to enjoy video games programming](https://github.com/raysan5/raylib)
+
+[SigNoz (YC W21): Open-Source Observability Platform – Is Hiring Sr Back End Dev](https://www.ycombinator.com/companies/signoz/jobs/uCt5BQw-sr-backend-engineer-go-remote)
 
 [Why is desalination so difficult?](https://practical.engineering/blog/2023/6/28/why-is-desalination-so-difficult)
 
-[The Overflowing Brain: Information overload and the limits of working memory](https://tertulia-moderna.blogspot.com/2010/12/overflowing-brain-by-torkel-klingberg.html)
+[Joplin – An open-source note taking and to-do application with synchronisation](https://github.com/laurent22/joplin)
 
-[Fast](https://patrickcollison.com/fast)
+[Tell HN: Nearly all of Evernote’s remaining staff has been laid off]()
 
-[Ask HN: Any hardware startups here?]()
-
-[FunctionTrace: Graphical Python Profiler](https://functiontrace.com)
-
-[Tell HN: People forget that you can stick any data at the end of a bash script]()
-
-[With plugins, GPT-4 posts GitHub issue without being instructed to](https://chat.openai.com/share/ed8044da-22c5-4c5e-ba82-4353f67d553f)
-
-[Starting design work in a spreadsheet](https://clearleft.com/thinking/starting-design-work-in-a-spreadsheet)
-
-[Regex engine internals as a library](https://blog.burntsushi.net/regex-internals/)
+[Encyclopaedia Metallum](https://www.metal-archives.com/)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Excellence is a habit, but so is failure](https://awesomekling.github.io/Excellence-is-a-habit-but-so-is-failure/)
+[Why I Hate Frameworks (2005)](https://factoryfactoryfactory.net/)
 
-[Closure, from why the lucky stiff (2013)](https://github.com/steveklabnik/CLOSURE)
+[Meta releases Intermediate Graphics Library](https://www.khronos.org/blog/meta-uses-khronos-open-standards-in-new-intermediate-graphics-library)
 
-[Windows Update Restored: Fix Windows Update on Windows 95. 98, Me, 2000, and XP](http://windowsupdaterestored.com/)
+[ServiceNow Insecure Access Control to Full Admin Takeover](https://x64.sh/posts/ServiceNow-Insecure-access-control-to-admin/)
 
-[OpenWorm – A computational model of C. elegans worm](https://github.com/openworm/OpenWorm)
+[How the new Threads app is made](https://www.emergetools.com/deep-dives/threads)
 
-[LOLBAS: Living Off the Land Binaries, Scripts and Libraries](https://lolbas-project.github.io/)
+[Once hailed for decriminalizing drugs, Portugal is now having doubts](https://www.washingtonpost.com/world/2023/07/07/portugal-drugs-decriminalization-heroin-crack/)
 
-[Show HN: List (OPML) of Hacker News Users Personal Blogs](https://github.com/outcoldman/hackernews-personal-blogs)
+[TypeScript please give us reflection/runtime types](https://github.com/akutruff/typescript-needs-types)
 
-[Git and Jupyter Notebooks Guide](https://www.reviewnb.com/git-jupyter-notebook-ultimate-guide)
+[Top suspect in 2015 Ashley Madison hack committed suicide in 2014](https://krebsonsecurity.com/2023/07/top-suspect-in-2015-ashley-madison-hack-committed-suicide-in-2014/)
 
-[32“ E Ink screen that displays daily newspapers on your wall](https://projecteink.com/pages/about)
+[Aviator (YC S21) is hiring engineers to build the future of monorepos](https://www.ycombinator.com/companies/aviator/jobs)
 
-[Civic honesty around the globe](https://www.science.org/doi/10.1126/science.aau8712)
+[Sleeping through the technical interview (2022)](https://xeiaso.net/blog/sleeping-the-technical-interview)
 
-[Mechanical Turk workers are using AI to automate being human](https://techcrunch.com/2023/06/14/mechanical-turk-workers-are-using-ai-to-automate-being-human/)
+[DARPA Seeks to Shield Blood from Fungal and Bacterial Pathogens](https://www.darpa.mil/news-events/2023-06-29)

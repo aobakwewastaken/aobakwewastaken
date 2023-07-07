@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Show HN: List (OPML) of Hacker News Users Personal Blogs](https://github.com/outcoldman/hackernews-personal-blogs)
+
+[Understand by Ted Chiang](https://ktxr.rs/d1/y/1688789982/0/e/lgrsfic/884000/2d0a5d26d98343f6fdc86575293b99c0.html~/2XA040zlRrHTm3dj_X0pEQ/understand-chiang-ted-2010-ted-chiang-understand--annas-archive.html)
+
+[Sierra Creative Interpreter – Scripts](https://www.benshoof.org/blog/sci-scripts)
+
+[AI agents that “self-reflect” perform better in changing environments](https://hai.stanford.edu/news/ai-agents-self-reflect-perform-better-changing-environments)
+
 [GPT-4 API General Availability](https://openai.com/blog/gpt-4-api-general-availability)
 
-[“Self-reflecting” AI agents explore like animals](https://hai.stanford.edu/news/ai-agents-self-reflect-perform-better-changing-environments)
+[{n} times faster than C](https://owen.cafe/posts/six-times-faster-than-c/)
 
 [Chat with Andreas Kling about Ladybird and developing a browser engine](https://www.igalia.com/chats/ladybird)
 
-[Zink brings conformant OpenGL on Imagination GPUs](https://www.collabora.com/news-and-blog/news-and-events/zink-on-imagination-gpus.html)
+[Design and synthesis of a minimal bacterial genome](https://www.science.org/doi/10.1126/science.aad6253)
 
-[LEGO Building Instructions](https://archive.org/details/lego-set-instructions)
+[Albuquerque Techzonics](http://techzonics.com/)
 
-[I want XAES-256-GCM/11](https://words.filippo.io/dispatches/xaes-256-gcm-11/)
-
-[Imagination GPUs now support OpenGL 4.6](https://blog.imaginationtech.com/imagination-gpus-now-support-opengl-4.6)
-
-[Show HN: Banger.show – create colorful visuals for your songs in seconds](https://banger.show)
-
-[Tea as Hepatoprotective Agent: A Revisit](https://sci-hub.se/10.1016/b978-0-12-814466-4.00015-x)
-
-[Why there are so many cybersecurity vendors and where do we go from here](https://ventureinsecurity.net/p/why-there-are-so-many-cybersecurity)
+[AI for AWS Documentation](https://www.awsdocsgpt.com/)

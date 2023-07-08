@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[When did Alan Partridge first appear on television?](https://www.dirtyfeed.org/2023/07/better-on-television/)
+
 [Why I Hate Frameworks (2005)](https://factoryfactoryfactory.net/)
+
+[Owner of Symbolics Lisp machines IP is interested in a non-commercial release](https://hachyderm.io/@gmpalter/110673993659492472)
+
+[ZeroVer: 0-Based Versioning](https://0ver.org/)
 
 [Meta releases Intermediate Graphics Library](https://www.khronos.org/blog/meta-uses-khronos-open-standards-in-new-intermediate-graphics-library)
 
-[ServiceNow Insecure Access Control to Full Admin Takeover](https://x64.sh/posts/ServiceNow-Insecure-access-control-to-admin/)
+[Matrix Multiplication Using Only Addition](https://arxiv.org/abs/2307.01415)
 
-[How the new Threads app is made](https://www.emergetools.com/deep-dives/threads)
-
-[Once hailed for decriminalizing drugs, Portugal is now having doubts](https://www.washingtonpost.com/world/2023/07/07/portugal-drugs-decriminalization-heroin-crack/)
-
-[TypeScript please give us reflection/runtime types](https://github.com/akutruff/typescript-needs-types)
-
-[Top suspect in 2015 Ashley Madison hack committed suicide in 2014](https://krebsonsecurity.com/2023/07/top-suspect-in-2015-ashley-madison-hack-committed-suicide-in-2014/)
-
-[Aviator (YC S21) is hiring engineers to build the future of monorepos](https://www.ycombinator.com/companies/aviator/jobs)
+[RISC-V Assembly Programming](https://riscv-programming.org/)
 
 [Sleeping through the technical interview (2022)](https://xeiaso.net/blog/sleeping-the-technical-interview)
 
 [DARPA Seeks to Shield Blood from Fungal and Bacterial Pathogens](https://www.darpa.mil/news-events/2023-06-29)
+
+[Webb Telescope detects most distant active supermassive black hole](https://phys.org/news/2023-07-webb-telescope-distant-supermassive-black.html)

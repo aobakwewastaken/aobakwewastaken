@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Train Your AI Model Once and Deploy on Any Cloud](https://developer.nvidia.com/blog/train-your-ai-model-once-and-deploy-on-any-cloud-with-nvidia-and-runai/)
+[Spying on a smartphone remotely by the authorities: feasibility and operation](https://security.stackexchange.com/questions/271146/spying-on-a-smartphone-remotely-by-the-authorities-feasibility-and-operation)
 
-[Owner of Symbolics Lisp machines IP is interested in a non-commercial release](https://hachyderm.io/@gmpalter/110673993659492472)
+[Scams upon scams: The data-driven advertising grift](https://anotherangrywoman.com/2023/07/05/scams-upon-scams-the-data-driven-advertising-grift/)
 
-[LlamaIndex: Unleash the power of LLMs over your data](https://www.llamaindex.ai/)
+[Nifflas: “When an app asks for permission feed fake data” – Fosstodon](https://mastodon.gamedev.place/@Nifflas/110668040598715116)
 
-[Matrix Multiplication Using Only Addition](https://arxiv.org/abs/2307.01415)
+[The ants go marching methodically](https://news.arizona.edu/story/ants-go-marching-%E2%80%A6-methodically)
 
-[Once hailed for decriminalizing drugs, Portugal is now having doubts](https://www.washingtonpost.com/world/2023/07/07/portugal-drugs-decriminalization-heroin-crack/)
+[If PEP 703 is accepted, Meta can commit three engineer-years to nogil CPython](https://discuss.python.org/t/a-fast-free-threading-python/27903/99)
 
-[200 Frozen Heads and Bodies Await Revival at This Arizona Cryonics Facility](https://www.smithsonianmag.com/smart-news/200-frozen-heads-and-bodies-await-revival-at-this-arizona-cryonics-facility-180980981/)
+[Train an AI model once and deploy on any cloud](https://developer.nvidia.com/blog/train-your-ai-model-once-and-deploy-on-any-cloud-with-nvidia-and-runai/)
+
+[Software Engineers Hate Code](https://www.dancowell.com/software-engineers-hate-code/)
+
+[Bevy XPBD: A physics engine for the Bevy game engine](https://joonaa.dev/blog/02/bevy-xpbd-0-1-0)
 
 [When did Alan Partridge first appear on television?](https://www.dirtyfeed.org/2023/07/better-on-television/)
 
-[Why I Hate Frameworks (2005)](https://factoryfactoryfactory.net/)
-
-[The other fruit company, Apricot](https://www.abortretry.fail/p/the-other-fruit-company-apricot)
-
-[Show HN: My platforming game written in C 89](https://zamfofex.neocities.org/mimimi/)
+[The ARM powered ThinkPad x13s, as a developer](https://www.dev-eloper.com/thinkpad-x13s-as-a-developer/)

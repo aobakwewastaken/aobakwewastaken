@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Don't Take VC Funding – It Will Destroy Your Company](https://www.eidel.io/2023/07/09/vc-funding/)
+[Using Lidar to map tree shadows](https://tedpiotrowski.svbtle.com/using-lidar-for-tree-shadows-in-shademap)
 
-[The internet's “town square” is dead](https://www.theintrinsicperspective.com/p/the-internets-town-square-is-dead)
+[Clojure Plays Mario](https://blog.phronemophobic.com/mairio.html)
 
-[Color Appearance and the End of Hering’s Opponent-Colors Theory](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(23)00147-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS136466132300147X%3Fshowall%3Dtrue)
+[An Alerting Vista of macOS Sonoma](https://furbo.org/2023/07/09/an-alerting-vista-of-sonoma/)
 
-[The National Park That Was Stolen to Death](https://www.atlasobscura.com/articles/fossil-cycad-national-monument-stolen-george-wieland)
+[PoisonGPT: We hid a lobotomized LLM on Hugging Face to spread fake news](https://blog.mithrilsecurity.io/poisongpt-how-we-hid-a-lobotomized-llm-on-hugging-face-to-spread-fake-news/)
 
-[Open Weights](https://github.com/Open-Weights/Definition)
+[Apple plans a slow, appointment-only rollout of Vision Pro](https://www.bloomberg.com/news/articles/2023-07-07/apple-vision-pro-headset-to-launch-in-us-stores-by-appointment)
+
+[The 90s Developer Starter Pack](https://retrocoding.net/the-90s-developer-starter-pack)
+
+[Fractal Vise](https://airgraver.com/fractal-vise.htm)
 
 [How small is the smallest .NET Hello World binary?](https://blog.washi.dev/posts/tinysharp/)
 
-[Defecting from North Korea Is Now Far Harder](https://www.nytimes.com/2023/07/09/world/asia/north-korea-china-defectors.html)
+[Building cross-platform Rust for Web, Android and iOS – a minimal example](https://www.artificialworlds.net/blog/2022/07/06/building-cross-platform-rust-for-web-android-and-ios-a-minimal-example/)
 
-[The Development of the C Language (1993)](https://www.bell-labs.com/usr/dmr/www/chist.html)
-
-[Dublin Airport Airbrige Collapsed, Damaging American Airlines Boeing 787](https://aviationa2z.com/index.php/2023/07/09/dublin-airport-airbrige-collapsed-damaging-american-airlines-boeing-787/)
-
-[A Compressive Light Field Projection System (2014)](https://web.media.mit.edu/~gordonw/CompressiveLightFieldProjector/)
+[InfluxDB Cloud shuts down in Belgium; some weren't notified before data deletion](https://community.influxdata.com/t/getting-weird-results-from-gcp-europe-west1/30615)

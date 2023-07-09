@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Build Personal ChatGPT Using Your Data](https://github.com/raghavan/PdfGptIndexer)
+[The HTTP status code for a web server's default “hello” front page](https://utcc.utoronto.ca/~cks/space/blog/web/WebServerDefaultNotThere)
 
-[Panel with photovoltaic material layered on silicon hits 33% efficiencies](https://arstechnica.com/science/2023/07/perovskite-silicon-solar-panels-hit-efficiencies-of-over-30/)
+[Specular Holography: How (2010)](http://zintaglio.com/how.html)
 
-[Why Use Pascal?](https://castle-engine.io/why_pascal)
+[Can a Rubik's Cube be brute-forced?](https://www.stylewarning.com/posts/brute-force-rubiks-cube/)
 
-[Container Training](https://container.training/)
+[The Concise TypeScript Book](https://github.com/gibbok/typescript-book)
 
-[An ARM Assembler Written in Lisp](http://forum.ulisp.com/t/an-arm-assembler-written-in-lisp/1237)
+[Learn electronics by practice](https://beletronics.wordpress.com/)
 
-[Learn Electronics by Practice](https://beletronics.wordpress.com/)
+[The Code Review Pyramid (2022)](https://www.morling.dev/blog/the-code-review-pyramid/)
 
-[Packing a string of digits into an integer quickly](https://lemire.me/blog/2023/07/07/packing-a-string-of-digits-into-an-integer-quickly/)
+[Why use Pascal?](https://castle-engine.io/why_pascal)
 
-[iVentoy](https://www.iventoy.com/en/index.html)
+[Quetzal-1 Satellite Goes Open Source](https://hackaday.com/2023/07/04/quetzal-1-satellite-goes-open-source/)
 
-[Reverse-engineering the 8086 processor's address and data pin circuits](https://www.righto.com/2023/07/8086-pins.html)
+[Superrational](https://skunkledger.substack.com/p/superrational)
 
-[Thermochromic Breadboard](https://www.improwis.com/projects/hw_ThermochromicBreadboard/)
+[Open sourcing the Nginx playground](https://jvns.ca/blog/2023/07/08/open-sourcing-the-nginx-playground/)

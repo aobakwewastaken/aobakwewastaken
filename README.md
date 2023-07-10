@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Firefox address bar](https://wiki.tilde.institute/w/firefox-address-bar-tips)
+[Gandi.net updates pricing, increases rates by up to 1000%](https://chatting.neocities.org/posts/2023-gandi-pricing)
 
-[Shelf – open-source asset management software](https://github.com/Shelf-nu/shelf.nu)
+[2048 Bit RSA and the Year 2030](https://articles.59.ca/doku.php?id=em:20482030)
+
+[Self-hosted photo and video backup solution directly from your mobile phone](https://github.com/immich-app/immich)
+
+[Lima: A nice way to run Linux VMs on Mac](https://jvns.ca/blog/2023/07/10/lima--a-nice-way-to-run-linux-vms-on-mac/)
+
+[Apple VisionOS Simulator streaming wirelessly to Meta Quest headset](https://github.com/zhuowei/VisionOSStereoScreenshots/tree/alvr)
+
+[Show HN: Throw – The new space for asking and answering questions anonymously](https://www.trythrow.com)
 
 [We replaced Firecracker with QEMU](https://hocus.dev/blog/qemu-vs-firecracker/)
 
-[The Physicist Who’s Challenging the Quantum Orthodoxy](https://www.quantamagazine.org/the-physicist-who-bets-that-gravity-cant-be-quantized-20230710/)
+[Fathom AI Notetaker (YC W21) is hiring a staff engineer (remote)](https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-staff-engineer-full-stack-remote)
 
-[Show HN: Danswer – Open-source question answering across all your docs](https://github.com/danswer-ai/danswer)
+[Linoleic acid–good or bad for the brain?](https://www.nature.com/articles/s41538-019-0061-9)
 
-[Hilbert Transform](https://electroagenda.com/en/hilbert-transform/)
-
-[Easy SVG sparklines](https://alexplescan.com/posts/2023/07/08/easy-svg-sparklines/)
-
-[How to Pick a Mate (1946)](https://www.gutenberg.org/files/67472/67472-h/67472-h.htm)
-
-[Show HN: Workout.lol – a web app to easily create a workout routine](https://workout.lol)
-
-[Petalisp: Elegant High Performance Computing](https://github.com/marcoheisig/Petalisp)
+[Postmortem: Co-founding a Web3 startup as a crypto skeptic young dev](https://anicetnougaret.fr/blog/farswap-xp)

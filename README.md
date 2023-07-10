@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Using Lidar to map tree shadows](https://tedpiotrowski.svbtle.com/using-lidar-for-tree-shadows-in-shademap)
+[Japanese textile factory still uses tape cassette and punch cards [video]](https://www.youtube.com/watch?v=zWJZFQHklBg)
 
-[Clojure Plays Mario](https://blog.phronemophobic.com/mairio.html)
+[Mistakes with Rust smart pointers: when Deref goes wrong](https://www.fuzzypixelz.com/blog/deref-confusion/)
 
-[An Alerting Vista of macOS Sonoma](https://furbo.org/2023/07/09/an-alerting-vista-of-sonoma/)
+[An Introduction to Statistical Learning with Applications in Python](https://www.statlearning.com)
 
-[PoisonGPT: We hid a lobotomized LLM on Hugging Face to spread fake news](https://blog.mithrilsecurity.io/poisongpt-how-we-hid-a-lobotomized-llm-on-hugging-face-to-spread-fake-news/)
+[What Unix Cost Us [video]](https://www.youtube.com/watch?v=9-IWMbJXoLM)
 
-[Apple plans a slow, appointment-only rollout of Vision Pro](https://www.bloomberg.com/news/articles/2023-07-07/apple-vision-pro-headset-to-launch-in-us-stores-by-appointment)
+[PinePhone Modem SDK](https://github.com/the-modem-distro/pinephone_modem_sdk)
 
-[The 90s Developer Starter Pack](https://retrocoding.net/the-90s-developer-starter-pack)
+[Wayland on OpenBSD](https://xenocara.org/Wayland_on_OpenBSD.html)
 
-[Fractal Vise](https://airgraver.com/fractal-vise.htm)
-
-[How small is the smallest .NET Hello World binary?](https://blog.washi.dev/posts/tinysharp/)
-
-[Building cross-platform Rust for Web, Android and iOS – a minimal example](https://www.artificialworlds.net/blog/2022/07/06/building-cross-platform-rust-for-web-android-and-ios-a-minimal-example/)
+[Tiny ELF Files: Revisited in 2021](https://nathanotterness.com/2021/10/tiny_elf_modernized.html)
 
 [InfluxDB Cloud shuts down in Belgium; some weren't notified before data deletion](https://community.influxdata.com/t/getting-weird-results-from-gcp-europe-west1/30615)
+
+[Hierarchical Navigable Small Worlds](https://zilliz.com/blog/hierarchical-navigable-small-worlds-HNSW)
+
+[Using Lidar to map tree shadows](https://tedpiotrowski.svbtle.com/using-lidar-for-tree-shadows-in-shademap)

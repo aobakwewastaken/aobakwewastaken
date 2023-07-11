@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Gandi.net updates pricing, increases rates by up to 1000%](https://chatting.neocities.org/posts/2023-gandi-pricing)
+[Self-hosted photo and video backups directly from your mobile phone](https://github.com/immich-app/immich)
 
-[2048 Bit RSA and the Year 2030](https://articles.59.ca/doku.php?id=em:20482030)
+[After 30 Years, Linux Finally Hits 3% Market Share](https://linuxiac.com/linux-hits-3-percent-market-share/)
 
-[Self-hosted photo and video backup solution directly from your mobile phone](https://github.com/immich-app/immich)
+[Shortening the Let's Encrypt chain of trust](https://letsencrypt.org/2023/07/10/cross-sign-expiration.html)
+
+[Show HN: Laser, a new game played on a chess board](https://playlaser.xyz)
 
 [Lima: A nice way to run Linux VMs on Mac](https://jvns.ca/blog/2023/07/10/lima--a-nice-way-to-run-linux-vms-on-mac/)
 
-[Apple VisionOS Simulator streaming wirelessly to Meta Quest headset](https://github.com/zhuowei/VisionOSStereoScreenshots/tree/alvr)
+[GPT-4 details leaked?](https://threadreaderapp.com/thread/1678545170508267522.html)
 
-[Show HN: Throw – The new space for asking and answering questions anonymously](https://www.trythrow.com)
+[2048 Bit RSA and the Year 2030](https://articles.59.ca/doku.php?id=em:20482030)
 
-[We replaced Firecracker with QEMU](https://hocus.dev/blog/qemu-vs-firecracker/)
+[Frame generation essentials: Interpolation, extrapolation, and reprojection](https://blurbusters.com/frame-generation-essentials-interpolation-extrapolation-and-reprojection/)
 
-[Fathom AI Notetaker (YC W21) is hiring a staff engineer (remote)](https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-staff-engineer-full-stack-remote)
+[Easy HTTPS for your private networks](https://www.getlocalcert.net/)
 
-[Linoleic acid–good or bad for the brain?](https://www.nature.com/articles/s41538-019-0061-9)
-
-[Postmortem: Co-founding a Web3 startup as a crypto skeptic young dev](https://anicetnougaret.fr/blog/farswap-xp)
+[HyperPhysics (1998)](http://hyperphysics.phy-astr.gsu.edu/hbase/index.html)

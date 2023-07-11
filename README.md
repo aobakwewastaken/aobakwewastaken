@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Self-hosted photo and video backups directly from your mobile phone](https://github.com/immich-app/immich)
+[Why privatisation has been a costly failure in Britain](https://www.economist.com/by-invitation/2023/07/10/mathew-lawrence-on-why-privatisation-has-been-a-costly-failure-in-britain)
 
-[After 30 Years, Linux Finally Hits 3% Market Share](https://linuxiac.com/linux-hits-3-percent-market-share/)
+[GPT-Prompt-Engineer](https://github.com/mshumer/gpt-prompt-engineer)
+
+[Self-hosted photo and video backups directly from your mobile phone](https://github.com/immich-app/immich)
 
 [Shortening the Let's Encrypt chain of trust](https://letsencrypt.org/2023/07/10/cross-sign-expiration.html)
 
 [Show HN: Laser, a new game played on a chess board](https://playlaser.xyz)
 
-[Lima: A nice way to run Linux VMs on Mac](https://jvns.ca/blog/2023/07/10/lima--a-nice-way-to-run-linux-vms-on-mac/)
+[SUSE is forking RHEL](https://www.suse.com/news/SUSE-Preserves-Choice-in-Enterprise-Linux/)
 
-[GPT-4 details leaked?](https://threadreaderapp.com/thread/1678545170508267522.html)
-
-[2048 Bit RSA and the Year 2030](https://articles.59.ca/doku.php?id=em:20482030)
-
-[Frame generation essentials: Interpolation, extrapolation, and reprojection](https://blurbusters.com/frame-generation-essentials-interpolation-extrapolation-and-reprojection/)
+[HyperPhysics (1998)](http://hyperphysics.phy-astr.gsu.edu/hbase/index.html)
 
 [Easy HTTPS for your private networks](https://www.getlocalcert.net/)
 
-[HyperPhysics (1998)](http://hyperphysics.phy-astr.gsu.edu/hbase/index.html)
+[The Perfect Business [pdf]](https://www.beterinbeleggen.nl/pdf/tsm/The-Perfect-Business-Richard-Russell.pdf)
+
+[Meta’s Microservice Architecture [pdf]](https://www.usenix.org/system/files/atc23-huye.pdf)

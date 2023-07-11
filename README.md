@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Why privatisation has been a costly failure in Britain](https://www.economist.com/by-invitation/2023/07/10/mathew-lawrence-on-why-privatisation-has-been-a-costly-failure-in-britain)
+[PhotoPrism: Browse Your Life in Pictures](https://github.com/photoprism/photoprism)
 
 [GPT-Prompt-Engineer](https://github.com/mshumer/gpt-prompt-engineer)
+
+[People are paying to break printers with sledgehammers in smash rooms](https://www.washingtonpost.com/technology/2023/07/10/rage-room-printers-recycle-environment-health/)
+
+[Working memory: metric for state a programmer needs to keep in their head (2022)](https://sourcery.ai/blog/measuring_working_memory/)
 
 [Self-hosted photo and video backups directly from your mobile phone](https://github.com/immich-app/immich)
 
 [Shortening the Let's Encrypt chain of trust](https://letsencrypt.org/2023/07/10/cross-sign-expiration.html)
 
+[Privatisation has been a costly failure in Britain](https://www.economist.com/by-invitation/2023/07/10/mathew-lawrence-on-why-privatisation-has-been-a-costly-failure-in-britain)
+
+[At Japan’s first winery, the country’s oldest grape lives on](https://www.japantimes.co.jp/life/2023/07/09/food/iwanohara-vineyard-niigata-joestu/)
+
 [Show HN: Laser, a new game played on a chess board](https://playlaser.xyz)
 
-[SUSE is forking RHEL](https://www.suse.com/news/SUSE-Preserves-Choice-in-Enterprise-Linux/)
-
-[HyperPhysics (1998)](http://hyperphysics.phy-astr.gsu.edu/hbase/index.html)
-
-[Easy HTTPS for your private networks](https://www.getlocalcert.net/)
-
-[The Perfect Business [pdf]](https://www.beterinbeleggen.nl/pdf/tsm/The-Perfect-Business-Richard-Russell.pdf)
-
-[Meta’s Microservice Architecture [pdf]](https://www.usenix.org/system/files/atc23-huye.pdf)
+[Back-end parallelism in the Rust compiler](https://nnethercote.github.io/2023/07/11/back-end-parallelism-in-the-rust-compiler.html)

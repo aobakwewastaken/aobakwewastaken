@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Vale's First Prototype for Immutable Region Borrowing](https://verdagon.dev/blog/first-regions-prototype)
+
 [Kelly Rowland couldn't have used the =HYPERLINK() function to message Nelly](https://blog.jgc.org/2023/07/unfortunately-kelly-rowland-couldnt.html)
 
-[Show HN: Van, truck or car camp for $0 a night](https://www.landcamp.org/)
+[RPCS3 – The Open Source Playstation 3 Emulator](https://rpcs3.net/)
 
-[Displayport: A Better Video Interface](https://hackaday.com/2023/07/11/displayport-a-better-video-interface/)
+[Hardening Emulated Devices in OpenBSD's Vmd(8) Hypervisor [pdf]](https://www.openbsd.org/papers/asiabsdcon2023-hardening_vmd_devices.pdf)
 
-[Laniakea Supercluster](https://en.wikipedia.org/wiki/Laniakea_Supercluster)
+[Chiplet ASIC supercomputers for LLMs like GPT-4](https://arxiv.org/abs/2307.02666)
 
-[Newpipe.net removed from Google search results due to DMCA take down request](https://newpipe.net/blog/pinned/announcement/newpipe-net-dmca-google-search/)
+[The Free Movie](https://thefreemovie.buzz/)
 
-[Storing Data in Control Flow](https://research.swtch.com/pcdata)
+[Introduction to vector similarity search (2022)](https://zilliz.com/blog/vector-similarity-search)
 
-[Retro: A modern, pragmatic Forth](http://www.retroforth.org/)
+[Proof you can do hard things](https://blog.nateliason.com/p/proof-you-can-do-hard-things)
 
-[BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+[How the design of Disney parks affects our perspective (2020)](https://disneycicerone.com/how-the-design-of-disney-parks-affects-our-perspective/)
 
-[Resilience requires helping each other out](https://surfingcomplexity.blog/2023/06/17/resilience-requires-helping-each-other-out/)
-
-[Classifying customer messages with LLMs vs traditional ML](https://www.trygloo.com/blog/classify-text-llms-learnings)
+[Windows 9x and Word 9x at 800x600 resolution. Spacious. Comfy](https://oldbytes.space/@48kRAM/110695813509755748)

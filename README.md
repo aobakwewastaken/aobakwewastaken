@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[How to solve your big problems, by solving your real problem](https://jasonfeifer.beehiiv.com/p/how-to-solve-big-problems)
+
+[Gene linked to long Covid found in analysis of thousands of patients](https://www.nature.com/articles/d41586-023-02269-2)
+
+[AGI Simulator](https://agi.aitida.com/)
+
+[Calls to investigate tax sites for sharing financial information with Meta](https://www.theverge.com/2023/7/12/23791496/meta-google-tax-filing-warren-sanders-pixel)
+
 [Vale's First Prototype for Immutable Region Borrowing](https://verdagon.dev/blog/first-regions-prototype)
-
-[Serverless Semantic Search, Free tier only](https://qdrant.tech/articles/serverless/)
-
-[RPCS3 – The Open Source Playstation 3 Emulator](https://rpcs3.net/)
 
 [TimeMaps](https://vincentmeertens.com/project/timemaps/)
 
-[I Am Leaving](https://briefs.video/videos/i-am-leaving/)
+[RPCS3 – The Open Source Playstation 3 Emulator](https://rpcs3.net/)
 
-[GiveCampus (YC S15) Hiring Rails engineers who care about education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
+[Nour: Play with Your Food (from Panic)](https://food.game/)
 
-[Chiplet ASIC supercomputers for LLMs like GPT-4](https://arxiv.org/abs/2307.02666)
+[Milan Kundera, ‘The Unbearable Lightness of Being’ Novelist, Dies at 94](https://variety.com/2023/film/global/milan-kundera-the-unbearable-lightness-of-being-dies-dead-1235667595/)
 
-[The Free Movie](https://thefreemovie.buzz/)
-
-[Bcachefs File-System Plans to Try Again to Land in Linux 6.6](https://www.phoronix.com/news/Bcachefs-Plans-For-Linux-6.6)
-
-[Introduction to vector similarity search (2022)](https://zilliz.com/blog/vector-similarity-search)
+[SF's Anchor Brewing Company shutting down after 127 years](https://abc7news.com/anchor-brewing-company-san-francisco-brewery-closing-business/13493162/)

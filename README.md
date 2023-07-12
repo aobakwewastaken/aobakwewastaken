@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Beagleboard BeagleV-Ahead RISC-V brd released](https://beagleboard.org/beaglev-ahead)
+[Telling the Bees](https://en.wikipedia.org/wiki/Telling_the_bees)
 
-[Windows is the malware compatibility layer for everything](https://twitter.com/matthew_d_green/status/1679135426806784004)
+[Creating a search engine with PostgreSQL](https://xata.io/blog/postgres-full-text-search-engine)
 
-[Computers and Automata (1953)](https://fermatslibrary.com/s/computers-and-automata)
+[Istio moved to CNCF Graduation stage](https://github.com/cncf/toc/commit/25b2ead46d56e3c39d48a6a87e3c558c2120d179)
 
-[Grammarly will discontinue the Text Editor SDK](https://developer.grammarly.com/sdk-deprecation)
+[Simone Weil’s Great Awakening](https://www.newstatesman.com/ideas/2023/07/simone-weil-great-awakening-wolfram-eilenberger)
 
-[Computation and State Machines (2008) [pdf]](https://lamport.azurewebsites.net/pubs/state-machine.pdf)
+[NotebookLM: An AI Notebook](https://blog.google/technology/ai/notebooklm-google-ai/)
 
-[Vale's first prototype for immutable region borrowing](https://verdagon.dev/blog/first-regions-prototype)
+[Pines – Alpine and Tailwind UI Library](https://devdojo.com/pines)
 
-[Lifers, Dayjobbers, and the Independently Wealthy: A Letter to a Former Student](https://klangmag.co/lifers-dayjobbers-and-the-independently-wealthy-a-letter-to-a-former-student/)
+[Blocking Threads won't be enough to protect privacy once they join the Fediverse](https://privacy.thenexus.today/just-blocking-threads-isnt-enough/)
 
-[Official Mastodon server of the Dutch government](https://social.overheid.nl/@avhuffelen/110700825255524685)
+[BeagleV-Ahead RISC-V board](https://beagleboard.org/beaglev-ahead)
 
-[Solve your big problems by solving your real problem](https://jasonfeifer.beehiiv.com/p/how-to-solve-big-problems)
+[Istanbul's blue tile paradise](https://onthearts.com/p/istanbuls-blue-tile-paradise)
 
-[Gene linked to long Covid found in analysis of thousands of patients](https://www.nature.com/articles/d41586-023-02269-2)
+[Tokenized Tokens](https://fly.io/blog/tokenized-tokens/)

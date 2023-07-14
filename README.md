@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [On Becoming a VP of Engineering](https://www.honeycomb.io/blog/becoming-vp-of-engineering-pt1)
 
-[Windows: A software engineering odyssey (2000)](https://www.usenix.org/legacy/events/usenix-win2000/invitedtalks/lucovsky_html/)
+[Why software projects take longer than you think: a statistical model (2019)](https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html)
 
-[Patching GCC to build Actually Portable Executables](https://ahgamut.github.io/2023/07/13/patching-gcc-cosmo/)
+[The Webb telescope just offered a revelatory view of humanity’s distant past](https://arstechnica.com/space/2023/07/the-webb-telescope-just-offered-a-revelatory-view-of-humanitys-distant-past/)
 
 [Europe’s agenda for undersea internet cables](https://www.euractiv.com/section/digital/news/behind-europes-agenda-for-undersea-internet-cables/)
 
-[Remembering lithium-ion battery pioneer John Goodenough](https://spectrum.ieee.org/john-goodenough-tribute)
+[Windows: A software engineering odyssey (2000)](https://www.usenix.org/legacy/events/usenix-win2000/invitedtalks/lucovsky_html/)
 
 [Guam: The America that Americans forget](https://www.nytimes.com/2023/07/07/magazine/guam-american-military.html)
 
+[India's Chandrayaan-3 launches to explore moons water rich South Pole](https://www.newscientist.com/article/2382565-indias-chandrayaan-3-launches-to-explore-moons-water-rich-south-pole/)
+
+[Can you beat Pokemon FireRed while blind and deaf? (2022) [video]](https://www.youtube.com/watch?v=6gjsAA_5Agk)
+
 [Founders and Customers: Love and Service](https://multitudes.weisser.io/p/founders-and-customers-love-and-service)
 
-[VanMoof encryption key exporter](https://github.com/grossartig/vanmoof-encryption-key-exporter)
-
-[Boston mayor announces residential conversion program for office buildings](https://www.bostonplans.org/news-calendar/news-updates/2023/07/10/mayor-wu-announces-residential-conversion-program)
-
-[Effect of Perceptual Load on Performance Within IDE in People with ADHD Symptoms](https://link.springer.com/chapter/10.1007/978-3-031-35017-7_9)
+[Passkeys will come at a cost](https://fy.blackhats.net.au/blog/2023-02-02-how-hype-will-turn-your-security-key-into-junk/)

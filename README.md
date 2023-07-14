@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[OpenBSD: Mandatory enforcement of indirect branch targets](https://undeadly.org/cgi?action=article;sid=20230714121907)
+[Internet Archive expands Flash support](https://mastodon.archive.org/@textfiles/110697893762381822)
 
-[Supermassive Dark Star candidates seen by JWST](https://www.pnas.org/doi/10.1073/pnas.2305762120)
+[WordPress Playground: A WordPress that runs entirely in the browser](https://developer.wordpress.org/playground/)
 
-[OpenBSD Innovations](https://www.openbsd.org/innovations.html)
+[Claude 2 Internal API Client and CLI](https://github.com/Explosion-Scratch/claude-unofficial-api)
 
-[OpenSSH might surprise you – in all the wrong ways](https://blog.devops.dev/ssh-might-surprise-you-in-all-the-wrong-ways-a5926d11ff11?gi=0437cfc73438)
+[Generate RSS feed for any website using CSS selectors](https://rss-bridge.org/bridge01/#bridge-CssSelectorBridge)
 
-[Podman Desktop 1.2 Released: Compose and Kubernetes Support](https://podman-desktop.io/blog/podman-desktop-release-1.2)
+[Blender: Low-degree semi-structured splines for interactive modeling](https://projects.blender.org/blender/blender-addons/issues/91180)
 
-[Cosmic Skies of a Colorado July](https://blog.system76.com/post/cosmic-skies-of-a-colorado-july-2023/)
+[S.F. says incidents by Cruise, Waymo driverless taxis are ‘skyrocketing.’](https://www.sfchronicle.com/sf/article/driverless-taxi-cruise-waymo-18157172.php)
 
-[On Becoming a VP of Engineering](https://www.honeycomb.io/blog/becoming-vp-of-engineering-pt1)
+[Keep work fresh by teaching your successors and investing a bit in long-shots](https://tidyfirst.substack.com/p/fresh-work-80155)
 
-[Meta to release open-source commercial AI model](https://www.zdnet.com/article/meta-to-release-open-source-commercial-ai-model-to-compete-with-openai-and-google/)
+[Sniffnet – Comfortably monitor your internet traffic (like Wireshark)](https://www.sniffnet.net/)
 
-[Dropped iPad implicated in fatal Rotak Chinook helicopter crash](https://verticalmag.com/news/dropped-ipad-implicated-in-fatal-chinook-helicopter-crash/)
+[Libxo: Easy way to generate text, XML, JSON, and HTML](https://juniper.github.io/libxo/libxo-manual.html)
 
-[Effect of perceptual load on performance within IDE in people with ADHD symptoms](https://link.springer.com/chapter/10.1007/978-3-031-35017-7_9)
+[Astronomers witness energetic switch on of black hole](https://phys.org/news/2023-07-astronomers-witness-energetic-black-hole.html)

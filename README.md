@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Boston Mayor Wu Announces Residential Conversion Program for Office Buildings](https://www.bostonplans.org/news-calendar/news-updates/2023/07/10/mayor-wu-announces-residential-conversion-program)
+[VanMoof encryption key exporter](https://github.com/grossartig/vanmoof-encryption-key-exporter)
 
 [Passkeys will come at a cost](https://fy.blackhats.net.au/blog/2023-02-02-how-hype-will-turn-your-security-key-into-junk/)
 
-[The FCC responds to my ATSC 3 encryption complaint – they want to hear from you](https://blog.lon.tv/2023/07/10/the-fcc-responds-to-my-atsc-3-encryption-complaint-they-want-to-hear-from-you/)
-
-[Patching GCC to Build Portable Executables](https://ahgamut.github.io/2023/07/13/patching-gcc-cosmo/)
+[Windows: A software engineering odyssey (2000)](https://www.usenix.org/legacy/events/usenix-win2000/invitedtalks/lucovsky_html/)
 
 [Brute-forcing a macOS user’s real name from a browser using mDNS](https://fingerprint.com/blog/apple-macos-mdns-brute-force/)
 
-[Remembering Lithium-Ion Battery Pioneer John Goodenough](https://spectrum.ieee.org/john-goodenough-tribute)
+[Patching GCC to build Actually Portable Executables](https://ahgamut.github.io/2023/07/13/patching-gcc-cosmo/)
 
-[Instant Messenger History: Lessons for the Threads Era of Social Media](https://tedium.co/2023/07/12/instant-messenger-competition-history/)
+[Remembering lithium-ion battery pioneer John Goodenough](https://spectrum.ieee.org/john-goodenough-tribute)
 
-[Freshpaint (YC S19) Is Hiring Engineers to Safeguard Health Data](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
+[Europe’s agenda for undersea internet cables](https://www.euractiv.com/section/digital/news/behind-europes-agenda-for-undersea-internet-cables/)
 
-[Faster neural networks straight from JPEG (2018)](https://www.uber.com/blog/neural-networks-jpeg/)
+[Guam: The America that Americans forget](https://www.nytimes.com/2023/07/07/magazine/guam-american-military.html)
 
-[Minotaur: A SIMD-Oriented Synthesizing Superoptimizer](https://arxiv.org/abs/2306.00229)
+[Boston mayor announces residential conversion program for office buildings](https://www.bostonplans.org/news-calendar/news-updates/2023/07/10/mayor-wu-announces-residential-conversion-program)
+
+[Minotaur: A SIMD-oriented synthesizing superoptimizer](https://arxiv.org/abs/2306.00229)

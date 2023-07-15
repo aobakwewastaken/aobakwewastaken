@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [Snakemake – A framework for reproducible data analysis](https://snakemake.github.io/)
 
-[The Uxn Ecosystem](https://100r.co/site/uxn.html)
+[Why do cloud providers keep building datacenters in the America's hottest city?](https://www.theregister.com/2023/07/15/cloud_datacenters_desert/)
 
 [Chiptune.app](https://chiptune.app/)
 
-[Matrices and Graph](https://thepalindrome.org/p/matrices-and-graphs)
-
-[New Emojis in 2023-2024](https://blog.emojipedia.org/new-emojis-in-2023/)
+[The Uxn Ecosystem](https://100r.co/site/uxn.html)
 
 [The theory versus the practice of “static websites”](https://utcc.utoronto.ca/~cks/space/blog/web/StaticWebsiteTheoryPractice)
 
+[Matrices and Graph](https://thepalindrome.org/p/matrices-and-graphs)
+
+[Tinygrad and rusticl and aco: why not?](https://airlied.blogspot.com/2023/07/tinygrad-rusticl-aco-why-not.html)
+
 [Ziplm: Gzip-Backed Language Model](https://github.com/Futrell/ziplm)
 
-[Evidence for a gravitational wave background from a galaxy-sized detector](https://astrobites.org/2023/06/28/drop-the-bass-evidence-for-a-gravitational-wave-background-from-a-galaxy-sized-detector/)
+[The shady world of Brave selling copyrighted data for AI training](https://stackdiary.com/brave-selling-copyrighted-data-for-ai-training/)
 
-[The Blob Toy](https://oimo.io/works/blob/)
-
-[Tor is not just for anonymity](https://blog.pastly.net/posts/2022-11-09-tor-is-not-just-for-anonymity/)
+[Aya: An open science project to build open multilingual models and datasets](https://txt.cohere.com/aya-multilingual/)

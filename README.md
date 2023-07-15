@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[“Our paying customers need X, when will you fix it?”](https://twitter.com/maximilianhils/status/1680193548212228097)
+[Every time you click this link, it will send you to a random Web 1.0 website](https://wiby.me/surprise/)
 
-[Snakemake – A framework for reproducible data analysis](https://snakemake.github.io/)
+[Another World ported to FPGA](https://github.com/sylefeb/a5k)
 
-[Dairyland (blogging platform from '99) is still going?](https://members.diaryland.com/edit/)
+[Mega-dose vit. C in treatment of the common cold: a randomised controlled trial](https://pubmed.ncbi.nlm.nih.gov/11700812/)
 
-[Chiptune.app](https://chiptune.app/)
+[Receiving unintentional voice transmissions from GPS satellites](https://www.rtl-sdr.com/receiving-unintentional-voice-transmissions-from-gps-satellites/)
 
-[Why do cloud providers keep building datacenters in the America's hottest city?](https://www.theregister.com/2023/07/15/cloud_datacenters_desert/)
+[Metaculus](https://www.metaculus.com/home/)
 
-[Signal's president vows to reject UK law on message scanning before encryption](https://fortune.com/2023/07/13/signal-president-mass-surveillance-uk-law/)
+[PostgreSQL: No More Vacuum, No More Bloat](https://www.orioledata.com/blog/no-more-vacuum-in-postgresql/)
 
-[The Uxn Ecosystem](https://100r.co/site/uxn.html)
+[Unloop: A generative music looper that doesn’t repeat itself](https://github.com/hugofloresgarcia/unloop)
 
-[Matrices and Graph](https://thepalindrome.org/p/matrices-and-graphs)
+[Chuck E. Cheese's 1982 Annual Report For Kids [pdf]](https://www.showbizpizza.com/info/documents/ptt/ptt_annualreport1982kids.pdf)
 
-[A bell that rings two notes at once [video]](https://www.youtube.com/watch?v=eMgmJEaYs70)
+[“The Famous F40” Vector Illustration](https://blog.gingerbeardman.com/2023/07/15/the-famous-f40-vector-illustration/)
 
-[The theory versus the practice of “static websites”](https://utcc.utoronto.ca/~cks/space/blog/web/StaticWebsiteTheoryPractice)
+[Underground heat is shifting Chicago’s foundations](https://www.nytimes.com/2023/07/11/climate/chicago-underground-heat.html)

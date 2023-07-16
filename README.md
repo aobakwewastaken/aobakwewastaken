@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[CSS Findings from the Threads App](https://ishadeed.com/article/threads-app-css/)
+[300K+ Free SVG Icons, Collections, and Logos](https://svgmix.com/)
 
-[No CSS Club – because no JavaScript was not hardcore enough](https://nocss.club/)
+[Do not expose your RIGOL oscilloscopes to the internet](https://tortel.li/post/insecure-scope/)
 
-[Todo apps are meant for robots](https://frantic.im/todo-for-robots/)
+[KPIs for Software Engineers](https://www.sledgeworx.io/kpis-for-software-engineers/)
 
-[Mk: A Successor to Make [pdf]](http://doc.cat-v.org/bell_labs/mk/mk.pdf)
+[Self hosted YouTube media server](https://www.tubearchivist.com/)
 
 [How I run my servers (2022)](https://blog.wesleyac.com/posts/how-i-run-my-servers)
 
-[Nuclear Fission Fuel Is Inexhaustible (2022)](https://scanalyst.fourmilab.ch/t/nuclear-fission-fuel-is-inexhaustible/1257)
+[Negative Mass](https://students.tools/negative-mass/)
 
-[AmazonBasics Microwave: Accessible for People with Visual Impairments (2019)](https://www.afb.org/aw/20/12/16848)
+[A PostgreSQL Docker container that automatically upgrades PostgreSQL](https://github.com/justinclift/docker-pgautoupgrade)
 
-[PostgreSQL: No More Vacuum, No More Bloat](https://www.orioledata.com/blog/no-more-vacuum-in-postgresql/)
+[It Takes 6 Days to Change 1 Line of Code (2015)](https://edw519.posthaven.com/it-takes-6-days-to-change-1-line-of-code)
 
-[Lets-Plot: An open-source plotting library for statistical data](https://lets-plot.org/)
+[No CSS Club](https://nocss.club/)
 
-[How does Sonic and Knuckles' “Lock-On Technology” work? (2016)](https://retrocomputing.stackexchange.com/questions/1514/how-exactly-does-sonic-knuckles-lock-on-technology-work)
+[What Makes Developers Productive?](https://jeremymikkola.com/posts/developer_productivity.html)

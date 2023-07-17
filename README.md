@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Minify and Gzip (2022)](https://blog.wesleyac.com/posts/minify-and-gzip)
+[A Firefox-only minimap (2021)](https://www.stefanjudis.com/a-firefox-only-minimap/)
 
-[Byte Fanless Mini PC – Built for Linux](https://us.starlabs.systems/pages/byte)
+[Bad numbers in the “gzip beats BERT” paper?](https://kenschutte.com/gzip-knn-paper/)
 
-[LazyVim](https://www.lazyvim.org/)
+[The C Programming Language: Myths and Reality](https://www.lelanthran.com/chap9/content.html)
 
-[Birds Build Nests from Anti-Bird Spikes](https://www.nytimes.com/2023/07/13/science/magpies-birds-nests.html)
+[Copy is all you need](https://arxiv.org/abs/2307.06962)
 
-[She Turns Fluids into 'Black Holes' and 'Inflating Universes'](https://www.quantamagazine.org/she-turns-fluids-into-black-holes-and-inflating-universes-20221212/)
+[The Odyssey by Homer, Translated by Samuel Butler](https://www.gutenberg.org/files/1727/1727-h/1727-h.htm)
 
-[Medicine containers used in the golden age of piracy](http://www.piratesurgeon.com/pages/surgeon_pages/medicine_containers1.html)
+[Notes on Problem-Solving](https://nabeelqu.substack.com/p/notes-on-puzzles)
 
-[Underwater ears everywhere](https://computer.rip/2023-07-15-underwater-ears-everywhere.html)
+[Launch HN: Grai (YC S22) – Open-Source Data Observability Platform]()
 
-[Undocumented 8086 instructions, explained by the microcode](https://www.righto.com/2023/07/undocumented-8086-instructions.html)
+[Temporary ban on behavioural advertising on Facebook and Instagram](https://www.datatilsynet.no/en/news/aktuelle-nyheter-2023/temporary-ban-of-behavioural-advertising-on-facebook-and-instagram/)
 
-[British F-35Bs to Bring Vertical Landing Abilities to Highways](https://www.thedrive.com/the-war-zone/british-f-35bs-to-bring-vertical-landing-abilities-to-highways)
+[Higher interest rates mean for the size and distribution of UK household wealth](https://www.resolutionfoundation.org/publications/peaked-interest/)
 
-[Booking.com halts payments to hosts over IT technical maintenance](https://nltimes.nl/2023/07/17/bookingcom-halts-payments-hosts-technical-maintenance)
+[What AT&T and Verizon Knew About Toxic Lead Cables for Decades](https://www.wsj.com/podcasts/the-journal/what-att-and-verizon-knew-about-toxic-lead-cables/a288b7d4-28f3-470e-b6c4-72341c97b3a0)

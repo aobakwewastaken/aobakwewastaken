@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Dusk OS: 32-bit Forth OS. Useful during first stage of civilizational collapse](https://duskos.org/)
+[LazyVim](https://www.lazyvim.org/)
+
+[Underwater ears everywhere](https://computer.rip/2023-07-15-underwater-ears-everywhere.html)
 
 [Undocumented 8086 instructions, explained by the microcode](https://www.righto.com/2023/07/undocumented-8086-instructions.html)
 
-[Underwater Ears Everywhere](https://computer.rip/2023-07-15-underwater-ears-everywhere.html)
+[British F-35Bs to Bring Vertical Landing Abilities to Highways](https://www.thedrive.com/the-war-zone/british-f-35bs-to-bring-vertical-landing-abilities-to-highways)
 
-[Google SoundStorm: Efficient Parallel Audio Generation](https://google-research.github.io/seanet/soundstorm/examples/)
+[How to register a Kei truck in Pennsylvania](https://danwilkerson.com/posts/2023-05-30-how-to-register-a-kei-truck-in-pa)
 
-[A tutorial quantum interpreter in 150 lines of Lisp](https://www.stylewarning.com/posts/quantum-interpreter/)
+[SoundStorm: Efficient Parallel Audio Generation](https://google-research.github.io/seanet/soundstorm/examples/)
 
-[Grav is a modern open-source flat-file CMS](https://getgrav.org/)
+[Commodore 64 VIC-II 6567/6569 Replacement Project](https://github.com/randyrossi/vicii-kawari)
 
-[The Pacific Northwest Tree Octopus](https://zapatopi.net/treeoctopus/)
+[Red Programming Language](https://www.red-lang.org/p/about.html)
 
-[Exploring Linear A](https://lineara.xyz/)
+[Johnson and Johnson sues researchers who linked talc to cancer](https://www.reuters.com/legal/litigation/johnson-johnson-sues-researchers-who-linked-talc-cancer-2023-07-13/)
 
-[Forth: The programming language that writes itself: The Web Page](http://ratfactor.com/forth/the_programming_language_that_writes_itself.html)
-
-[Shell Script RSS Publishing](https://shinobi.bt.ht/)
+[LOGO Manual (1974) [pdf]](https://dspace.mit.edu/bitstream/handle/1721.1/6226/AIM-313.pdf)

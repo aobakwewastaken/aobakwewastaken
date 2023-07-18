@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Minecraft Grub Theme](https://github.com/Lxtharia/minegrub-theme)
+[The office is a theatre for work (2019)](https://tomcritchlow.com/2019/11/18/yes-and/)
 
 [Voder Speech Synthesizer](https://griffin.moe/voder/)
 
-[A Theory on Adam Instability in Large-Scale Machine Learning](https://arxiv.org/abs/2304.09871)
-
-[Styling Flowcharts Using CSS](https://flowchart.fun/blog/post/styling-flowcharts-using-css)
+[Launch HN: Highlight.io (YC W23) – Open-source, full stack web app monitoring]()
 
 [How to Write a Great Readme](https://www.appsmith.com/blog/write-a-great-readme)
 
-[I'm moving my projects off GitHub](https://ntietz.com/blog/moving-off-github/)
+[Styling Flowcharts Using CSS](https://flowchart.fun/blog/post/styling-flowcharts-using-css)
 
-[Medicine is plagued by untrustworthy clinical trials](https://www.nature.com/articles/d41586-023-02299-w)
+[A Theory on Adam Instability in Large-Scale Machine Learning](https://arxiv.org/abs/2304.09871)
 
-[Data-Oriented Design Principles](https://data-oriented.design/)
+[Does MIT consider legacy?](https://mitadmissions.org/help/faq/legacy/)
 
-[Firefox has surpassed Chrome on Speedometer](https://treeherder.mozilla.org/perfherder/graphs?timerange=31536000&series=mozilla-central,3735773,1,13&series=mozilla-central,3412459,1,13)
+[A Grub Theme in the style of Minecraft](https://github.com/Lxtharia/minegrub-theme)
 
-[Stable Diffusion WebGPU demo](https://islamov.ai/stable-diffusion-webgpu/)
+[Llama 2 – Meta AI](https://ai.meta.com/llama/)
+
+[Ten Years of “Go: The Good, the Bad, and the Meh”](https://blog.carlmjohnson.net/post/2023/ten-years-of-go-good-bad-meh/)

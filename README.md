@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Swig – Connect C/C++ programs with high-level programming languages](https://www.swig.org/)
+[Minecraft Grub Theme](https://github.com/Lxtharia/minegrub-theme)
+
+[Voder Speech Synthesizer](https://griffin.moe/voder/)
+
+[A Theory on Adam Instability in Large-Scale Machine Learning](https://arxiv.org/abs/2304.09871)
+
+[Styling Flowcharts Using CSS](https://flowchart.fun/blog/post/styling-flowcharts-using-css)
+
+[How to Write a Great Readme](https://www.appsmith.com/blog/write-a-great-readme)
+
+[I'm moving my projects off GitHub](https://ntietz.com/blog/moving-off-github/)
+
+[Medicine is plagued by untrustworthy clinical trials](https://www.nature.com/articles/d41586-023-02299-w)
+
+[Data-Oriented Design Principles](https://data-oriented.design/)
+
+[Firefox has surpassed Chrome on Speedometer](https://treeherder.mozilla.org/perfherder/graphs?timerange=31536000&series=mozilla-central,3735773,1,13&series=mozilla-central,3412459,1,13)
 
 [Stable Diffusion WebGPU demo](https://islamov.ai/stable-diffusion-webgpu/)
-
-[Generative AI space and the mental imagery of alien minds](https://writings.stephenwolfram.com/2023/07/generative-ai-space-and-the-mental-imagery-of-alien-minds/)
-
-[It's not mathematics that you need to contribute to (2010)](https://mathoverflow.net/a/44213)
-
-[A few things to know before stealing my 914 (2022)](https://www.hagerty.com/media/advice/a-few-things-to-know-before-you-steal-my-914/)
-
-[How to be a consultant, a freelancer, or an independent contractor (2009)](https://jacquesmattheij.com/be-consultant/)
-
-[The Homepage of the Oldternet](https://www.geocities.ws/oldternet/)
-
-[Opening the Codebase Up to Everyone](https://ghiculescu.substack.com/p/opening-the-codebase-up-to-everyone)
-
-[Stalwart All-in-One Mail Server (IMAP, JMAP, SMTP)](https://github.com/stalwartlabs/mail-server)
-
-[“Kolmogorov music” by Christopher Ford (2015) [video]](https://www.youtube.com/watch?v=Qg3XOfioapI)

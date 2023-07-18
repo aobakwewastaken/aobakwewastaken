@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[The office is a theatre for work (2019)](https://tomcritchlow.com/2019/11/18/yes-and/)
+[Val, a high-level systems programming language](https://www.val-lang.dev/)
 
-[Voder Speech Synthesizer](https://griffin.moe/voder/)
+[Llama 2](https://ai.meta.com/llama/)
 
 [Launch HN: Highlight.io (YC W23) – Open-source, full stack web app monitoring]()
 
-[How to Write a Great Readme](https://www.appsmith.com/blog/write-a-great-readme)
+[Sweden Sans](https://identity.sweden.se/en/design-elements/typography)
 
-[Styling Flowcharts Using CSS](https://flowchart.fun/blog/post/styling-flowcharts-using-css)
+[Nintendo 64 Test Cart ROM](https://www.gamingalexandria.com/wp/2023/07/nintendo-64-test-cart-rom/)
 
-[A Theory on Adam Instability in Large-Scale Machine Learning](https://arxiv.org/abs/2304.09871)
+[AutoChain, lightweight and testable alternative to LangChain](https://github.com/Forethought-Technologies/AutoChain)
 
-[Does MIT consider legacy?](https://mitadmissions.org/help/faq/legacy/)
+[Gym Class VR (YC W22) Is Hiring Back End Engineering](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-backend-engineer)
 
-[A Grub Theme in the style of Minecraft](https://github.com/Lxtharia/minegrub-theme)
+[Citus 12: Schema-based sharding for PostgreSQL](https://www.citusdata.com/blog/2023/07/18/citus-12-schema-based-sharding-for-postgres/)
 
-[Llama 2 – Meta AI](https://ai.meta.com/llama/)
+[Bell Labs Holmdel Computer Center (1973)](https://www.youtube.com/watch?v=HMYiktO0D64)
 
-[Ten Years of “Go: The Good, the Bad, and the Meh”](https://blog.carlmjohnson.net/post/2023/ten-years-of-go-good-bad-meh/)
+[Cython 3.0 Released](https://cython.readthedocs.io/en/latest/src/changes.html)

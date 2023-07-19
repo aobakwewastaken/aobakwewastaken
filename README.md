@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[ASUS agrees to manufacture and sell Intel’s NUC products](https://www.intel.com/content/www/us/en/newsroom/news/intel-nuc-systems-agreement.html)
+[Iosevka typeface for code, from code. Has styles like Fira Mono, Consolas, Menlo](https://github.com/be5invis/Iosevka/blob/main/doc/stylistic-sets.md)
 
-[Lazydocker: a lazier way to manage everything Docker](https://github.com/jesseduffield/lazydocker)
+[Advanced Python Mastery](https://github.com/dabeaz-course/python-mastery)
 
-[SHOW-1 and Showrunner Agents in Multi-Agent Simulations](https://fablestudio.github.io/showrunner-agents/)
+[Zig: Upcoming Release Postponed Two More Weeks and Lacks Async Functions](https://ziglang.org/news/0.11.0-postponed-again/)
 
-[Netscape and Sun announce JavaScript (1995)](https://web.archive.org/web/20070916144913/https://wp.netscape.com/newsref/pr/newsrelease67.html)
+[A Decade of Rust, and Announcing Ferrocene](https://ferrous-systems.com/blog/a-decade-of-rust/)
 
-[FiraCode: Free monospaced font with programming ligatures](https://github.com/tonsky/FiraCode)
+[Installing Debian bookworm without systemd](https://diziet.dreamwidth.org/15336.html)
 
-[Proton Pass: Open-Source and Encrypted Password Manager App](https://proton.me/pass)
+[ASUS to manufacture and sell Intel’s NUC products](https://www.intel.com/content/www/us/en/newsroom/news/intel-nuc-systems-agreement.html)
 
-[Lazygit: Simple terminal UI for Git commands](https://github.com/jesseduffield/lazygit)
+[OneSignal (YC S11) Is Hiring Software Engineers](https://onesignal.com/careers/4247164006)
 
-[Launch HN: Highlight.io (YC W23) – Open-source, full stack web app monitoring]()
+[Tachyons – A CSS Toolkit](https://tachyons.io/)
 
-[Local Async Executors and Why They Should be the Default (Rust)](https://maciej.codes/2022-06-09-local-async.html)
+[Bookwyrm – A federated social network for reading books](https://joinbookwyrm.com/)
 
-[Enigma Crypto Transmission from KPH at 426 KHz and Shortwave](https://www.radiomarine.org/mrhs-events)
+[Comic Code: Monospaced interpretation of the most over-hated typeface](https://tosche.net/fonts/comic-code)

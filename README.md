@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[No-more-secrets: recreate the decryption effect seen in the 1992 movie Sneakers](https://github.com/bartobri/no-more-secrets)
+
+[Project Aria 'Digital Twin' Dataset by Meta](https://www.projectaria.com/datasets/adt/)
+
 [Kevin Mitnick has died](https://www.dignitymemorial.com/obituaries/las-vegas-nv/kevin-mitnick-11371668)
 
-[MDN Playground](https://developer.mozilla.org/en-US/play)
+[Accidentally Load Bearing](https://www.jefftk.com/p/accidentally-load-bearing)
 
-[Cool Retro Terminal](https://github.com/Swordfish90/cool-retro-term)
+[Apple says it'll remove iMessage and FaceTime in UK rather than break encryption](https://9to5mac.com/2023/07/20/apple-imessage-facetime-remove-security-law/)
 
 [Docuseal: Open-source DocuSign alternative. Create, fill, sign digital documents](https://github.com/docusealco/docuseal)
 
-[Unshackle: A tool to bypass windows password logins](https://github.com/Fadi002/unshackle)
+[Anytype – open-source, local-first, P2P Notion alternative](https://anytype.io/?hn)
 
-[UpCodes (YC S17) is hiring a Growth Marketer to make construction efficient](https://up.codes/careers)
+[Cool Retro Terminal](https://github.com/Swordfish90/cool-retro-term)
 
-[Launch HN: Twenty.com (YC S23) – Open-source CRM]()
+[The past is not true](https://sive.rs/pnt)
 
-[Japanese words of Portuguese origin](https://en.wikipedia.org/wiki/Glossary_of_Japanese_words_of_Portuguese_origin)
-
-[ChromiumOS Developer Guide, Programming languages and style](https://chromium.googlesource.com/chromiumos/docs/+/HEAD/development_basics.md#programming-languages-and-style)
-
-[Stanford president resigns over manipulated research, will retract 3 papers](https://stanforddaily.com/2023/07/19/stanford-president-resigns-over-manipulated-research-will-retract-at-least-3-papers/)
+[MDN Playground](https://developer.mozilla.org/en-US/play)

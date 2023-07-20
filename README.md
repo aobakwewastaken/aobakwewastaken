@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Kevin Mitnick has died](https://www.dignitymemorial.com/obituaries/las-vegas-nv/kevin-mitnick-11371668)
+
 [Stanford president resigns over manipulated research, will retract 3 papers](https://stanforddaily.com/2023/07/19/stanford-president-resigns-over-manipulated-research-will-retract-at-least-3-papers/)
+
+[Minigpt4 Inference on CPU](https://github.com/Maknee/minigpt4.cpp)
 
 [Launch HN: Twenty.com (YC S23) – Open-source CRM]()
 
-[When open becomes opaque: The changing face of open-source hardware companies](https://blog.adafruit.com/2023/07/12/when-open-becomes-opaque-the-changing-face-of-open-source-hardware-companies/)
+[On the Origin of LLMs](https://arxiv.org/abs/2307.09793)
 
-[Asynchronous Rust on Cortex-M Microcontrollers](https://interrupt.memfault.com/blog/embedded-async-rust)
+[Teaching Programming in the Age of ChatGPT](https://www.oreilly.com/radar/teaching-programming-in-the-age-of-chatgpt/)
 
-[The single most impor­tant factor that dif­fer­enti­ates front-end frame­works](https://themer.dev/blog/the-single-most-important-factor-that-differentiates-front-end-frameworks)
+[In Memoriam: Hans Petter William Sirevåg Selasky](https://lists.freebsd.org/archives/freebsd-announce/2023-July/000076.html)
+
+[The Danger of Popcorn Polymer: Incident at the TPC Group Chemical Plant [video]](https://www.youtube.com/watch?v=6-3BFXpBcjc)
+
+[Glossary of Japanese words of Portuguese origin](https://en.wikipedia.org/wiki/Glossary_of_Japanese_words_of_Portuguese_origin)
 
 [The open source learning curve for AI researchers](https://www.supervised.news/p/the-open-source-learning-curve-for)
-
-[Stable Doodle: Transform your doodles into real images in seconds](https://clipdrop.co/stable-doodle)
-
-[Children of alumni no longer have admissions edge at Carnegie Mellon, Pitt](https://triblive.com/news/children-relatives-of-alumni-no-longer-have-admissions-edge-at-carnegie-mellon-pitt/)
-
-[‘No way out’: how video games use tricks from gambling to attract big spenders](https://www.theguardian.com/society/2023/jul/14/video-games-gambling-big-spenders)
-
-[A Checklist for Choosing Type](https://fonts.google.com/knowledge/choosing_type/a_checklist_for_choosing_type)

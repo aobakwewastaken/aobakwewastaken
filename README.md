@@ -1,9 +1,15 @@
 # Top Stories on hackernews <br />
-[Why even let users set their own passwords?](https://www.devever.net/~hl/passwords)
-
 [A Brief History of Computers](https://www.lesswrong.com/posts/vfRpzyGsikujm9ujj/a-brief-history-of-computers)
 
+[Consumer Software Is Expected to Be Next Fast-Growing Segment (1994)](https://www.csmonitor.com/1994/0513/13082.html)
+
+[Botulinum toxin: Bioweapon and magic drug](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3028942/)
+
 [MSX-DOS](https://en.wikipedia.org/wiki/MSX-DOS)
+
+[New Yorkers Got Broken Promises. Developers Got 20M Sq. Ft](https://www.nytimes.com/interactive/2023/07/21/nyregion/nyc-developers-private-owned-public-spaces.html)
+
+[Embrace Complexity; Tighten Your Feedback Loops](https://ferd.ca/embrace-complexity-tighten-your-feedback-loops.html)
 
 [Apple's interactive television box: Hacking the set top box System 7.1 in ROM](http://oldvcr.blogspot.com/2023/07/apples-interactive-television-box.html)
 
@@ -11,10 +17,4 @@
 
 [Octos – HTML live wallpaper engine](https://github.com/underpig1/octos)
 
-[Neurotechnology: Current Developments and Ethical Issues](https://www.frontiersin.org/articles/10.3389/fnsys.2017.00093/full)
-
-[Plane – Open-source Jira alternative](https://plane.so)
-
 [AWS networking concepts in a diagram](https://miparnisariblog.wordpress.com/2023/03/29/aws-networking-concepts/)
-
-[ElKaWe – Electrocaloric heat pumps](https://www.fraunhofer.de/en/research/lighthouse-projects-fraunhofer-initiatives/fraunhofer-lighthouse-projects/elkawe.html)

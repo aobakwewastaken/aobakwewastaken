@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[A Brief History of Computers](https://www.lesswrong.com/posts/vfRpzyGsikujm9ujj/a-brief-history-of-computers)
+[A Caltech Nobel laureate celebrates his 100th birthday, then gets back to work](https://www.latimes.com/science/story/2023-07-21/caltech-nobel-laureate-rudy-marcus-turns-100-and-gets-back-to-work)
 
-[Consumer Software Is Expected to Be Next Fast-Growing Segment (1994)](https://www.csmonitor.com/1994/0513/13082.html)
+[Egregoria: 3D City Builder without a grid](https://github.com/Uriopass/Egregoria)
 
-[Botulinum toxin: Bioweapon and magic drug](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3028942/)
+[Making the most of Apple Silicon power: 2 Core capabilities [2022]](https://eclecticlight.co/2022/10/05/making-the-most-of-apple-silicon-power-2-core-capabilities/)
 
-[MSX-DOS](https://en.wikipedia.org/wiki/MSX-DOS)
+[Amsterdam bans cruise ships to limit visitors and curb pollution](https://www.bbc.com/news/world-europe-66264226)
 
-[New Yorkers Got Broken Promises. Developers Got 20M Sq. Ft](https://www.nytimes.com/interactive/2023/07/21/nyregion/nyc-developers-private-owned-public-spaces.html)
+[How we see ourselves and how we see others (2008) [pdf]](http://courses.washington.edu/pbafhall/514/514%20Readings/2008%20Self%20and%20Other%20Pronin.pdf)
 
-[Embrace Complexity; Tighten Your Feedback Loops](https://ferd.ca/embrace-complexity-tighten-your-feedback-loops.html)
+[A brief history of computers](https://www.lesswrong.com/posts/vfRpzyGsikujm9ujj/a-brief-history-of-computers)
 
-[Apple's interactive television box: Hacking the set top box System 7.1 in ROM](http://oldvcr.blogspot.com/2023/07/apples-interactive-television-box.html)
+[Databag – tiny self-hosted federated messenger for the decentralized web](https://github.com/balzack/databag)
 
-[Putting the “You” in CPU](https://cpu.land/)
+[Resilience in Complex Systems (2021)](https://irhum.github.io/blog/resilientsystems/)
 
-[Octos – HTML live wallpaper engine](https://github.com/underpig1/octos)
+[Important Coding Habits](https://puppycoding.com/2023/07/22/healthy-coding-habits/)
 
-[AWS networking concepts in a diagram](https://miparnisariblog.wordpress.com/2023/03/29/aws-networking-concepts/)
+[Consumer software is expected to be next fast-growing segment (1994)](https://www.csmonitor.com/1994/0513/13082.html)

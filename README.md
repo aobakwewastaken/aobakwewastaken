@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[A Romanian economist legally gamed the lottery and won millions of dollars](https://thehustle.co/the-man-who-won-the-lottery-14-times/)
+
+[I found an IT job thanks to this blog](https://giuliomagnifico.blog/misc/2023/07/22/I-found-a-IT-job-thanks-to-this-blog.html)
+
 [Down and Out in the Magic Kingdom (2003)](https://www.gutenberg.org/files/8086/8086-h/8086-h.htm)
 
-[I found a IT jobs thanks to this blog, what I’m doing](https://giuliomagnifico.blog/misc/2023/07/22/I-found-a-IT-job-thanks-to-this-blog.html)
+[‘Training My Replacement’: Inside a Call Center Worker’s Battle with A.I](https://www.nytimes.com/2023/07/19/business/call-center-workers-battle-with-ai.html)
 
-[Medieval Table Manners: The Messiest Myth?](https://www.medievalists.net/2023/06/medieval-table-manners/)
+[Show HN: I made a customizable iOS browser for minimalists and myself](https://apps.apple.com/us/app/quiche-browser/id1668363952)
 
-[What every IT person needs to know about OpenBSD](https://nxdomain.no/~peter/what_every_it_person_needs_to_know_about_openbsd.html)
-
-[Simple Sabotage Field Manual – How to Destroy Your Organizations](https://butwhatfor.beehiiv.com/p/simple-sabotage-field-manual-destroy-organizations)
-
-[TokenFlow: Consistent diffusion features for consistent video editing](https://diffusion-tokenflow.github.io/)
-
-[AOL pulls Nullsoft file-sharing software WASTE (2003)](https://web.archive.org/web/20030810194502/http://news.com.com/2100-1032_3-1011585.html)
-
-[Deutsche Bank's “dysfunctional” IT division (2018)](https://www.efinancialcareers.co.uk/news/2018/04/technology-at-deutsche-bank)
+[What every IT person needs to know about OpenBSD (2021)](https://nxdomain.no/~peter/what_every_it_person_needs_to_know_about_openbsd.html)
 
 [Stem Formulas](https://stemformulas.com/formulas/)
 
-[EasyGraph: A Comprehensive Tool for Graph Analysis and Social Computing](https://github.com/easy-graph/Easy-Graph)
+[Simple Sabotage Field Manual – How to Destroy Your Organizations](https://butwhatfor.beehiiv.com/p/simple-sabotage-field-manual-destroy-organizations)
+
+[Medieval Table Manners: The Messiest Myth?](https://www.medievalists.net/2023/06/medieval-table-manners/)
+
+[Toyota has been developing a solid-state battery for EVs with a range of 745mi](https://www.topspeed.com/toyota-745-mile-solid-state-battery/)

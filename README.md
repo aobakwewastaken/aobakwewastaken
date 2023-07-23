@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Down and Out in the Magic Kingdom (2003)](https://www.gutenberg.org/files/8086/8086-h/8086-h.htm)
+[Llama2.c: Inference llama 2 in one file of pure C](https://github.com/karpathy/llama2.c)
 
-[I found an IT job thanks to this blog](https://giuliomagnifico.blog/misc/2023/07/22/I-found-a-IT-job-thanks-to-this-blog.html)
+[All Foster Kids in California Can Now Attend Any State College for Free](https://themessenger.com/news/all-foster-kids-in-california-can-now-attend-any-state-college-for-free)
 
-[Stem Formulas](https://stemformulas.com/formulas/)
+[Never run ldd on unknown executables](https://catonmat.net/ldd-arbitrary-code-execution)
 
-[What every IT person needs to know about OpenBSD (2021)](https://nxdomain.no/~peter/what_every_it_person_needs_to_know_about_openbsd.html)
+[OpenBSD: AMD processor microcode support added to -current](https://undeadly.org/cgi?action=article;sid=20230723185853)
 
-[Toyota has been developing a solid-state battery for EVs with a range of 745mi](https://www.topspeed.com/toyota-745-mile-solid-state-battery/)
+[Man found guilty of child porn because he ran a Tor exit node](https://lowendbox.com/blog/man-found-guilty-of-child-porn-because-he-ran-a-tor-exit-node-the-story-of-william-weber/)
 
-[Simple Sabotage Field Manual – How to Destroy Your Organizations](https://butwhatfor.beehiiv.com/p/simple-sabotage-field-manual-destroy-organizations)
+[High-Performance server for NATS.io, the cloud and edge native messaging system](https://github.com/nats-io/nats-server)
 
-[Ask HN: Why do web sites not place the cursor for input?]()
+[Show HN: I made a MailChimp alternative that connects to your database](https://cc.dev)
 
-[What Happened the Night an Audience Member Filled in for Keith Moon (2016)](https://www.loudersound.com/features/what-happened-the-night-an-audience-member-filled-in-for-keith-moon)
+[SICP in JavaScript](https://sourceacademy.org/sicpjs/index)
 
-[Electrolytic capacitors: overview, teardown and experiments [video]](https://www.youtube.com/watch?v=MAP-VA1m-A4)
+[Showing Elizabeth I in a new light](https://blogs.bl.uk/digitisedmanuscripts/2023/07/showing-elizabeth-i-in-a-new-light.html)
 
-[MOVEit body count closes in on 400 orgs, 20M+ individuals](https://www.theregister.com/2023/07/20/moveit_victim_count/)
+[Why don't we get our drinking water by taking salt out seawater? (2008)](https://www.scientificamerican.com/article/why-dont-we-get-our-drinking-water-from-the-ocean/)

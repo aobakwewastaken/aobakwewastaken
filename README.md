@@ -3,18 +3,18 @@
 
 [Egregoria: 3D City Builder without a grid](https://github.com/Uriopass/Egregoria)
 
-[Making the most of Apple Silicon power: 2 Core capabilities [2022]](https://eclecticlight.co/2022/10/05/making-the-most-of-apple-silicon-power-2-core-capabilities/)
+[AOL pulls Nullsoft file-sharing software WASTE (2003)](https://web.archive.org/web/20030810194502/http://news.com.com/2100-1032_3-1011585.html)
 
-[Amsterdam bans cruise ships to limit visitors and curb pollution](https://www.bbc.com/news/world-europe-66264226)
+[TokenFlow: Consistent diffusion features for consistent video editing](https://diffusion-tokenflow.github.io/)
 
-[How we see ourselves and how we see others (2008) [pdf]](http://courses.washington.edu/pbafhall/514/514%20Readings/2008%20Self%20and%20Other%20Pronin.pdf)
+[TV Typewriter Remembered](https://hackaday.com/2023/07/20/tv-typewriter-remembered/)
 
-[A brief history of computers](https://www.lesswrong.com/posts/vfRpzyGsikujm9ujj/a-brief-history-of-computers)
+[How to make cheese at home](https://www.themanual.com/food-and-drink/how-to-make-cheese/)
 
-[Databag – tiny self-hosted federated messenger for the decentralized web](https://github.com/balzack/databag)
+[Vimspector – the Vim debugger rules all](https://puremourning.github.io/vimspector-web/)
 
-[Resilience in Complex Systems (2021)](https://irhum.github.io/blog/resilientsystems/)
+[What my musical instruments have taught me](https://www.newyorker.com/culture/the-weekend-essay/what-my-musical-instruments-have-taught-me)
 
-[Important Coding Habits](https://puppycoding.com/2023/07/22/healthy-coding-habits/)
+[EasyGraph: A Comprehensive Tool for Graph Analysis and Social Computing](https://github.com/easy-graph/Easy-Graph)
 
-[Consumer software is expected to be next fast-growing segment (1994)](https://www.csmonitor.com/1994/0513/13082.html)
+[The Tallest Atrium (2019)](https://www.world-architects.com/en/architecture-news/found/inside-the-worlds-tallest-atrium)

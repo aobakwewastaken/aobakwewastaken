@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Unicode Character “𝕏” (U+1D54F)](https://www.compart.com/en/unicode/U+1D54F)
+[Zenbleed](https://lock.cmpxchg8b.com/zenbleed.html)
 
-[The “three things” exercise for getting things out of talks (2011)](https://math.stanford.edu/~vakil/threethings.html)
+[Driver.js: Product tours, highlights, contextual help and more](https://driverjs.com/)
 
-[Debian riscv64](https://blog.aurel32.net/welcome-debian-riscv64.html)
+[Cash Amnesia](https://www.gsb.stanford.edu/insights/indulging-guilty-pleasure-dont-put-it-card)
 
-[C89 compiler produces printable executables from C code [pdf]](http://www.cs.cmu.edu/~tom7/abc/paper.pdf)
+[Pikchr: A PIC-like markup language for diagrams in technical documentation](https://pikchr.org/home/doc/trunk/doc/userman.md)
 
-[Show HN: My Pen Plotting Journey](https://adamfuhrer.com/pen-plotting-experiments)
+[Atari Has Launched Collectible Arcade Circuit Boards of Retro Classics](https://retrododo.com/atari-collectible-arcade-circuit-boards/)
 
-[Death Metal English (2013)](https://www.invisibleoranges.com/death-metal-english/)
+[Show HN: I built a transit travel time map](https://map.henryn.xyz)
 
-[Twitter has officially changed its logo to ‘X’](https://techcrunch.com/2023/07/24/twitter-has-officially-changed-its-logo-to-x/)
+[The Mathematical Universe Hypothesis (2007)](https://arxiv.org/abs/0704.0646)
 
-[HP 45 (and 35 and 80) Calculator Emulator](https://sarahkmarr.com/retrohp1973.html)
+[Changing the Android captive portal page (2020)](https://www.encrypted.at/android-captive-portal/)
 
-[Why Frames Tilt Forward (2015)](https://chcollins.com/100Billion/2015/02/why-frames-tilt-forward/)
+[Launch HN: Artie (YC S23) – Real time data replication to data warehouses]()
 
-[Ask HN: Looking for a Firefox compatible extension for voice controlled actions]()
+[The Unreasonable Effectiveness of Sequence Diagrams in MermaidJS](https://jessems.com/posts/2023-07-22-the-unreasonable-effectiveness-of-sequence-diagrams-in-mermaidjs)

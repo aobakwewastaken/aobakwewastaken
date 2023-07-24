@@ -3,18 +3,18 @@
 
 [Driver.js: Product tours, highlights, contextual help and more](https://driverjs.com/)
 
-[Cash Amnesia](https://www.gsb.stanford.edu/insights/indulging-guilty-pleasure-dont-put-it-card)
-
-[Pikchr: A PIC-like markup language for diagrams in technical documentation](https://pikchr.org/home/doc/trunk/doc/userman.md)
+[You Don't Know Jack about Application Performance](https://queue.acm.org/detail.cfm?id=3595862)
 
 [Atari Has Launched Collectible Arcade Circuit Boards of Retro Classics](https://retrododo.com/atari-collectible-arcade-circuit-boards/)
 
+[X, the moonshot factory](https://x.company/)
+
 [Show HN: I built a transit travel time map](https://map.henryn.xyz)
 
-[The Mathematical Universe Hypothesis (2007)](https://arxiv.org/abs/0704.0646)
+[Wasm_of_OCaml](https://github.com/ocaml-wasm/wasm_of_ocaml)
+
+[Pikchr: A PIC-like markup language for diagrams in technical documentation](https://pikchr.org/home/doc/trunk/doc/userman.md)
+
+[SVG Chromium bug is more than 10 years old](https://bugs.chromium.org/p/chromium/issues/detail?id=109212)
 
 [Changing the Android captive portal page (2020)](https://www.encrypted.at/android-captive-portal/)
-
-[Launch HN: Artie (YC S23) – Real time data replication to data warehouses]()
-
-[The Unreasonable Effectiveness of Sequence Diagrams in MermaidJS](https://jessems.com/posts/2023-07-22-the-unreasonable-effectiveness-of-sequence-diagrams-in-mermaidjs)

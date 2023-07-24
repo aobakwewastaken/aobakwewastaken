@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[The “three things” exercise for getting things out of talks (2011)](https://math.stanford.edu/~vakil/threethings.html)
+
+[Debian riscv64](https://blog.aurel32.net/welcome-debian-riscv64.html)
+
 [Llama2.c: Inference llama 2 in one file of pure C](https://github.com/karpathy/llama2.c)
 
-[All Foster Kids in California Can Now Attend Any State College for Free](https://themessenger.com/news/all-foster-kids-in-california-can-now-attend-any-state-college-for-free)
+[Kareem Abdul-Jabbar: Bruce Lee and Me](https://kareem.substack.com/p/bruce-lee-and-me)
 
-[Never run ldd on unknown executables](https://catonmat.net/ldd-arbitrary-code-execution)
+[Death Metal English (2013)](https://www.invisibleoranges.com/death-metal-english/)
 
-[OpenBSD: AMD processor microcode support added to -current](https://undeadly.org/cgi?action=article;sid=20230723185853)
+[Show HN: My Pen Plotting Journey](https://adamfuhrer.com/pen-plotting-experiments)
 
-[Man found guilty of child porn because he ran a Tor exit node](https://lowendbox.com/blog/man-found-guilty-of-child-porn-because-he-ran-a-tor-exit-node-the-story-of-william-weber/)
+[Inkscape launches version 1.3 with a focus on organizing work efficiently](https://inkscape.org/news/2023/07/23/inkscape-launches-version-13-focus-organizing-work/)
 
-[High-Performance server for NATS.io, the cloud and edge native messaging system](https://github.com/nats-io/nats-server)
+[ldd arbitrary code execution (2009)](https://catonmat.net/ldd-arbitrary-code-execution)
 
-[Show HN: I made a MailChimp alternative that connects to your database](https://cc.dev)
+[HP 45 (and 35 and 80) Calculator Emulator](https://sarahkmarr.com/retrohp1973.html)
 
-[SICP in JavaScript](https://sourceacademy.org/sicpjs/index)
-
-[Showing Elizabeth I in a new light](https://blogs.bl.uk/digitisedmanuscripts/2023/07/showing-elizabeth-i-in-a-new-light.html)
-
-[Why don't we get our drinking water by taking salt out seawater? (2008)](https://www.scientificamerican.com/article/why-dont-we-get-our-drinking-water-from-the-ocean/)
+[Icon Buddy – 100K+ Open Source SVG Icons, Fully Customizable](https://iconbuddy.app/)

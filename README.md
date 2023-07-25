@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[The remote work dominates on HN:Who is hiring? – 69% jobs in 2023 are remote](https://blog.spatial.chat/tracking-hackernews-shifting-preferences-for-remote-jobs-over-5-years/)
+[“We’ve Changed the Game”: Teamsters Win Historic UPS Contract](https://teamster.org/2023/07/weve-changed-the-game-teamsters-win-historic-ups-contract/)
 
-[Is technical analysis just stock market astrology?](https://alicegg.tech//2023/07/25/technical-analysis.html)
+[PRQL: Pipelined Relational Query Language](https://github.com/PRQL/prql)
+
+[The first room-temperature ambient-pressure superconductor?](https://arxiv.org/abs/2307.12008)
+
+[Guide to running Llama 2 locally](https://replicate.com/blog/run-llama-locally)
+
+[Way ahead of it's time: The Remote Lounge NYC](https://docpop.org/2013/10/way-ahead-of-its-time-the-remote-lounge-nyc/)
 
 [Show HN: Invoice Dragon – An open source app to create PDF invoices](https://invoicedragon.com/)
 
-['Verified human': Worldcoin users queue up for iris scans](https://neuters.de/technology/verified-human-worldcoin-users-queue-up-iris-scans-2023-07-25/)
+[Stone Knives and Bear Skins – There is no money in tools](https://queue.acm.org/detail.cfm?id=3606027)
 
-[Onnx Runtime: “Cross-Platform Accelerated Machine Learning”](https://onnxruntime.ai/)
+[Tesorio (YC S15) Is Hiring a Head of Marketing – join our 100% remote startup](https://jobs.lever.co/tesorio/10de016f-be07-4707-ac5c-7029f0398a17)
 
-[OpenAI Quietly Shuts Down Its AI Detection Tool](https://decrypt.co/149826/openai-quietly-shutters-its-ai-detection-tool)
+[Launch HN: Roundtable (YC S23) – Using AI to Simulate Surveys]()
 
-[Got called to a professor’s office after a complaint his SPARC4 was running slow](https://infosec.exchange/@paco/110772422266480371)
-
-[The burden of Long Covid “so large as to be unfathomable”](https://www.rnz.co.nz/national/programmes/saturday/audio/2018899512/prof-danny-altmann-the-burden-of-long-covid)
-
-[What We Know About LLMs](https://willthompson.name/what-we-know-about-llms-primer)
-
-[Arc 1.0 – a freeware web browser developed by The Browser Company](https://arc.net/)
+[Unix-like OS in Rust inspired by xv6-riscv](https://github.com/o8vm/octox)

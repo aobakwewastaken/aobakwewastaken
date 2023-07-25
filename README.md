@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Have attention spans been declining?](https://slimemoldtimemold.com/2023/07/24/your-mystery-have-attention-spans-been-declining/)
+[Got called to a professor’s office after a complaint his SPARC4 was running slow](https://infosec.exchange/@paco/110772422266480371)
 
 [Attention Is Off By One](https://www.evanmiller.org/attention-is-off-by-one.html)
 
-[Zenbleed](https://lock.cmpxchg8b.com/zenbleed.html)
+[The Fall of Stack Overflow](https://observablehq.com/@ayhanfuat/the-fall-of-stack-overflow)
 
-[People in 1920s Berlin Nightclubs Flirted via Pneumatic Tubes](https://www.atlasobscura.com/articles/pneumatic-tube-table-phone-flirting-berlin)
+[Have attention spans been declining?](https://slimemoldtimemold.com/2023/07/24/your-mystery-have-attention-spans-been-declining/)
 
 [40 years ago yesterday Air Canada Flight 143 ran out of fuel mid-flight](https://www.damninteresting.com/the-gimli-glider/)
 
-[Python: Overlooked core functionalities](https://erikvandeven.medium.com/python-uncovering-the-overlooked-core-functionalities-54590420c225)
+[People in 1920s Berlin nightclubs flirted via pneumatic tubes](https://www.atlasobscura.com/articles/pneumatic-tube-table-phone-flirting-berlin)
 
-[A simple guide to fine-tuning Llama 2](https://brev.dev/blog/fine-tuning-llama-2)
+[Contributor to Google's WEI repo: So, you don't like a web platform proposal](https://blog.yoav.ws/posts/web_platform_change_you_do_not_like/)
 
-[Elixir is still safe](https://paraxial.io/blog/still-safe)
+[The 1990s Amiga with Video Toaster has a VFX cool factor that endures today](https://cdm.link/2023/07/amiga-video-toaster-cool-factor/)
 
-[Show HN: I spent 2 years building a personal finance simulator](https://projectionlab.com/)
+[A Breakdown of HTTP Clients in Elixir](https://andrealeopardi.com/posts/breakdown-of-http-clients-in-elixir/)
 
-[Wind and Solar Will Be 25% of Total U.S. Generating Capacity Within Three Years](https://electricenergyonline.com/article/energy/category/climate-change/82/1033617/wind-solar-will-be-25-of-total-u-s-generating-capacity-within-three-years-as-they-grow-by-over-100-gw-.html)
+[Mozilla Standards Positions Opposes Web Integrity API](https://github.com/mozilla/standards-positions/issues/852)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Mark Watson's Lisp books](https://github.com/mark-watson/free-older-books-and-software/tree/main/opencontent)
+[Google engineers want to make ad-blocking (near) impossible](https://stackdiary.com/web-environment-integrity/)
 
-[Treemaps are awesome](https://blog.phronemophobic.com/treemaps-are-awesome.html)
+[Show HN: Django Admin Site Customization Tutorial](https://appliku.com/post/customize-django-admin-interface)
 
-[Expo – open-source platform for making universal apps for Android, iOS, and web](https://github.com/expo/expo)
+[How MOS 6502 Illegal Opcodes work](https://www.pagetable.com/?p=39)
 
 [Practical Comparison of ARM Compilers](https://m0agx.eu/practical-comparison-of-ARM-compilers.html)
 
+[Mark Watson's Lisp books](https://github.com/mark-watson/free-older-books-and-software/tree/main/opencontent)
+
+[Lago (YC S21) – Open-Source Stripe Billing and Chargebee Alternative Is Hiring](https://www.ycombinator.com/companies/lago/jobs)
+
+[20 Years of Programming](https://flooey.org/twentyyearsofprogramming.html)
+
+[Expo – open-source platform for making universal apps for Android, iOS, and web](https://github.com/expo/expo)
+
+[Larry Gagosian reshaped the art world](https://www.newyorker.com/magazine/2023/07/31/larry-gagosian-profile)
+
 [Way ahead of its time: The Remote Lounge NYC](https://docpop.org/2013/10/way-ahead-of-its-time-the-remote-lounge-nyc/)
-
-[When did people stop being drunk all the time?](https://lefineder.substack.com/p/when-did-people-stop-being-drunk)
-
-[Where Did Our Belief in Abundance Come From?](https://www.discoursemagazine.com/abundance/2023/07/19/where-did-our-belief-in-abundance-come-from/)
-
-[Got called to a professor’s office after a complaint his SPARC4 was running slow](https://infosec.exchange/@paco/110772422266480371)
-
-[The magnificence of the bluefin tuna](https://www.newyorker.com/science/elements/the-magnificence-of-the-bluefin-tuna)
-
-[HBM’s Future: Necessary but Expensive](https://semiengineering.com/hbms-future-necessary-but-expensive/)

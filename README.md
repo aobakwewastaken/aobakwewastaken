@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[“We’ve Changed the Game”: Teamsters Win Historic UPS Contract](https://teamster.org/2023/07/weve-changed-the-game-teamsters-win-historic-ups-contract/)
+[It doesn’t take much public creativity to stand out as a job candidate](https://simonwillison.net/2021/Jul/17/standing-out/)
 
-[PRQL: Pipelined Relational Query Language](https://github.com/PRQL/prql)
-
-[The first room-temperature ambient-pressure superconductor?](https://arxiv.org/abs/2307.12008)
+[Mark Watson's Lisp books](https://github.com/mark-watson/free-older-books-and-software/tree/main/opencontent)
 
 [Guide to running Llama 2 locally](https://replicate.com/blog/run-llama-locally)
 
-[Way ahead of it's time: The Remote Lounge NYC](https://docpop.org/2013/10/way-ahead-of-its-time-the-remote-lounge-nyc/)
+[PRQL: Pipelined Relational Query Language](https://github.com/PRQL/prql)
 
-[Show HN: Invoice Dragon – An open source app to create PDF invoices](https://invoicedragon.com/)
+[Expo – open-source platform for making universal apps for Android, iOS, and web](https://github.com/expo/expo)
 
-[Stone Knives and Bear Skins – There is no money in tools](https://queue.acm.org/detail.cfm?id=3606027)
+[Treemaps are awesome](https://blog.phronemophobic.com/treemaps-are-awesome.html)
 
-[Tesorio (YC S15) Is Hiring a Head of Marketing – join our 100% remote startup](https://jobs.lever.co/tesorio/10de016f-be07-4707-ac5c-7029f0398a17)
+[The first room-temperature ambient-pressure superconductor?](https://arxiv.org/abs/2307.12008)
 
-[Launch HN: Roundtable (YC S23) – Using AI to Simulate Surveys]()
+[Where Did Our Belief in Abundance Come From?](https://www.discoursemagazine.com/abundance/2023/07/19/where-did-our-belief-in-abundance-come-from/)
 
-[Unix-like OS in Rust inspired by xv6-riscv](https://github.com/o8vm/octox)
+[When did people stop being drunk all the time?](https://lefineder.substack.com/p/when-did-people-stop-being-drunk)
+
+[The magnificence of the bluefin tuna](https://www.newyorker.com/science/elements/the-magnificence-of-the-bluefin-tuna)

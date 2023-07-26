@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[How MOS 6502 Illegal Opcodes work](https://www.pagetable.com/?p=39)
+[Superconductor news: What’s claimed, and how strong the evidence seems to be](https://www.science.org/content/blog-post/breaking-superconductor-news)
 
-[Mold 2.0](https://github.com/rui314/mold/releases/tag/v2.0.0)
+[WordPress Core to start using SQLite Database](https://blogiestools.com/wordpress-sqlite-database/)
 
-[A world where people pay for software](https://1sub.dev/)
+[Overture Maps Foundation releases open map dataset](https://overturemaps.org/overture-maps-foundation-releases-first-world-wide-open-map-dataset/)
 
-[How too much daydreaming affected me](https://sunghoyahng.substack.com/p/how-too-much-daydreaming-affected)
+[Cultivating a state of mind where new ideas are born](https://www.henrikkarlsson.xyz/p/good-ideas)
 
-[Memory Copy Hunting](https://tigerbeetle.com/blog/2023-07-26-copy-hunting/)
+[Show HN: Continue – Open-source coding autopilot](https://github.com/continuedev/continue)
 
-[It doesn’t take much public creativity to stand out as a job candidate](https://simonwillison.net/2021/Jul/17/standing-out/)
+[A copywriter swindled victims out of $200M by pretending to be a psychic](https://thewalrus.ca/the-greatest-scam-ever-written/)
 
-[When the Music Industry Waged War on the Cassette Tape During the 1980s](https://www.openculture.com/2023/07/home-taping-is-killing-music-when-the-music-industry-waged-war-on-the-cassette-tape.html)
+[Unpacking Google’s Web Environment Integrity specification](https://vivaldi.com/blog/googles-new-dangerous-web-environment-integrity-spec/)
 
-[Live: UFO/UAP Congressional Hearings](https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates)
+[BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 
-[Google vs. the Open Web](https://interpeer.io/blog/2023/07/google-vs-the-open-web/)
+[Chaos gardening is the carefree approach to gardening anyone can try](https://www.bhg.com/chaos-gardening-7558210)
 
-[Where did our belief in abundance come from?](https://www.discoursemagazine.com/abundance/2023/07/19/where-did-our-belief-in-abundance-come-from/)
+[Smart Contract Security Field Guide](https://scsfg.io/)

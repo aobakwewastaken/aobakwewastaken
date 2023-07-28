@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Cophone – Mobile work phones running in the cloud](https://cophone.io/)
+[California moves to silence Stanford researchers who got data to study education](https://edsource.org/2023/california-moves-to-silence-stanford-researchers-who-got-state-data-to-study-education-issues/694920)
+
+[I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA]()
+
+[Cap'n Proto 1.0](https://capnproto.org/news/2023-07-28-capnproto-1.0.html)
+
+[Intel Accelerates AI Development with Reference Kits](https://cioinfluence.com/machine-learning/intel-accelerates-ai-development-with-reference-kits/)
+
+[Fabricated data in research about honesty](https://www.npr.org/2023/07/27/1190568472/dan-ariely-francesca-gino-harvard-dishonesty-fabricated-data)
 
 [Worldcoin isn’t as bad as it sounds: It’s worse](https://blockworks.co/news/worldcoin-privacy-concerns)
+
+[Watch TV from the 90s (and Earlier)](https://my90stv.com/)
+
+[Cophone – Mobile work phones running in the cloud](https://cophone.io/)
 
 [Finding “Discs of Tron” on the Roadside](https://arcadeblogger.com/2023/07/22/environmental-discs-of-tron-roadside-pickup/)
 
 [How to Check 2 SQL Tables Are the Same](https://github.com/remysucre/blog/blob/main/posts/sql-eq.md)
-
-[Tor’s shadowy reputation will only end if we all use it](https://www.engadget.com/tor-dark-web-privacy-secure-browser-anonymous-130048839.html)
-
-[Watch TV from the 90s (and Earlier)](https://my90stv.com/)
-
-[Walmart Didn’t Kill the Small Town, It Is the Small Town](https://www.discoursemagazine.com/culture-and-society/2023/07/24/walmart-didnt-kill-the-small-town-the-small-town-did/)
-
-[Systemd 254 released, deprecating sysvinit scripts](https://lwn.net/Articles/939511/)
-
-[RT-2 AI model translates vision and language into robotic actions](https://blog.google/technology/ai/google-deepmind-rt2-robotics-vla-model/)
-
-[Monetal – Free Expense Tracker](https://monetal.app/index_en.php)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[VyOS From Scratch – Edition 1 (set up your own router)](https://blog.kroy.io/2020/05/04/vyos-from-scratch-edition-1/)
+[Cophone – Mobile work phones running in the cloud](https://cophone.io/)
 
-[How to Check 2 SQL Tables Are the Same](https://github.com/remysucre/blog/blob/main/posts/sql-eq.md)
+[Worldcoin isn’t as bad as it sounds: It’s worse](https://blockworks.co/news/worldcoin-privacy-concerns)
 
 [Finding “Discs of Tron” on the Roadside](https://arcadeblogger.com/2023/07/22/environmental-discs-of-tron-roadside-pickup/)
 
-[What is RT-2? Google DeepMind’s vision-language-action model for robotics](https://blog.google/technology/ai/google-deepmind-rt2-robotics-vla-model/)
+[How to Check 2 SQL Tables Are the Same](https://github.com/remysucre/blog/blob/main/posts/sql-eq.md)
 
-[Ask HN: Is the market bad, or am I having the worst luck job hunting?]()
+[Tor’s shadowy reputation will only end if we all use it](https://www.engadget.com/tor-dark-web-privacy-secure-browser-anonymous-130048839.html)
 
-[Finley (YC W21) Is Hiring to Rethink Capital Markets Infrastructure (US Remote)](https://www.finleycms.com/careers/)
+[Watch TV from the 90s (and Earlier)](https://my90stv.com/)
 
-[TeamTopologies](https://martinfowler.com/bliki/TeamTopologies.html)
+[Walmart Didn’t Kill the Small Town, It Is the Small Town](https://www.discoursemagazine.com/culture-and-society/2023/07/24/walmart-didnt-kill-the-small-town-the-small-town-did/)
 
-[How to use a Python multiprocessing module](https://developers.redhat.com/articles/2023/07/27/how-use-python-multiprocessing-module)
+[Systemd 254 released, deprecating sysvinit scripts](https://lwn.net/Articles/939511/)
 
-[How to Dynamically Create Instance Variables in Ruby](https://www.akshaykhot.com/dynamically-create-instance-variables-ruby/)
+[RT-2 AI model translates vision and language into robotic actions](https://blog.google/technology/ai/google-deepmind-rt2-robotics-vla-model/)
 
-[Faster filesystem access with Directfs](https://gvisor.dev/blog/2023/06/27/directfs/)
+[Monetal – Free Expense Tracker](https://monetal.app/index_en.php)

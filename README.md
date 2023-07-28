@@ -3,18 +3,18 @@
 
 [How to Check 2 SQL Tables Are the Same](https://github.com/remysucre/blog/blob/main/posts/sql-eq.md)
 
-[After Raising $235K, Abode Remains Committed to Taking on Adobe](https://petapixel.com/2023/07/26/after-raising-235k-abode-remains-committed-to-taking-on-adobe/)
+[Finding “Discs of Tron” on the Roadside](https://arcadeblogger.com/2023/07/22/environmental-discs-of-tron-roadside-pickup/)
 
-[TeamTopologies](https://martinfowler.com/bliki/TeamTopologies.html)
-
-[Commander Keen's adaptive tile refresh](https://fabiensanglard.net/ega/)
+[What is RT-2? Google DeepMind’s vision-language-action model for robotics](https://blog.google/technology/ai/google-deepmind-rt2-robotics-vla-model/)
 
 [Ask HN: Is the market bad, or am I having the worst luck job hunting?]()
 
-[Faster filesystem access with Directfs](https://gvisor.dev/blog/2023/06/27/directfs/)
+[Finley (YC W21) Is Hiring to Rethink Capital Markets Infrastructure (US Remote)](https://www.finleycms.com/careers/)
+
+[TeamTopologies](https://martinfowler.com/bliki/TeamTopologies.html)
+
+[How to use a Python multiprocessing module](https://developers.redhat.com/articles/2023/07/27/how-use-python-multiprocessing-module)
 
 [How to Dynamically Create Instance Variables in Ruby](https://www.akshaykhot.com/dynamically-create-instance-variables-ruby/)
 
-[Launch HN: PeerDB (YC S23) – Fast, Native ETL/ELT for Postgres]()
-
-[Implementing Fast Barriers for a Shared-Memory Cluster of 1024 RISC-V Cores](https://semiengineering.com/implementing-fast-barriers-for-a-shared-memory-cluster-of-1024-risc-v-cores/)
+[Faster filesystem access with Directfs](https://gvisor.dev/blog/2023/06/27/directfs/)

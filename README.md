@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[New insights into the origin of the Indo-European languages](https://www.mpg.de/20666229/0725-evan-origin-of-the-indo-european-languages-150495-x)
+[The Right to Lie and Google’s “Web Environment Integrity”](https://rants.org/2023/07/the-right-to-lie-and-google-wei/)
 
-[Ffmprovisr – Making FFmpeg Easier](https://amiaopensource.github.io/ffmprovisr/)
+[Show HN: San Francisco Compute – 512 H100s at <$2/hr for research and startups](https://sfcompute.org/)
+
+[Linux Air Combat: free, lightweight and open-source combat flight simulator](https://askmisterwizard.com/2019/LinuxAirCombat/LinuxAirCombat.htm)
+
+[What's up, Python? The GIL removed, a new compiler, optparse deprecated](https://www.bitecode.dev/p/whats-up-python-the-gil-removed-a)
+
+[Show HN: Khoj – Chat offline with your second brain using Llama 2](https://github.com/khoj-ai/khoj)
+
+[Musl 1.2.4 adds TCP DNS fallback](https://www.openwall.com/lists/musl/2023/05/02/1)
+
+[Feynman's Messenger Lectures (1964)](https://www.feynmanlectures.caltech.edu/messenger.html)
+
+[The Reluctant Sysadmin's Guide to Securing a Linux Server](https://pboyd.io/posts/securing-a-linux-vm/)
 
 [An Introduction to APIs](https://zapier.com/resources/guides/apis)
 
-[A dive into the AMD driver workflow](https://geohot.github.io//blog/jekyll/update/2023/06/07/a-dive-into-amds-drivers.html)
-
-[How to find a street in 2 minutes [video]](https://www.youtube.com/watch?v=rl2Q9xH8e7M)
-
-[Welcome to Wikifunctions](https://www.wikifunctions.org/wiki/Wikifunctions:Main_Page)
-
-[Emacs 29.1](https://emacsredux.com/blog/2023/07/30/emacs-29-1-released/)
-
-[The Long History of Nobody Wants to Work Anymore](https://mstdn.ca/@paulisci/110798058470040619)
-
-[Why has Britain become so poor?](https://www.thetimes.co.uk/article/why-has-britain-become-so-poor-lw22lhvkh)
-
-[Cross-Validation FAQ (2022)](https://avehtari.github.io/modelselection/CV-FAQ.html)
+[You Are Atlas, You Hold Up the Sky](https://youareatlas.com/)

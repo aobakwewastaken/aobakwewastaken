@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Big Tobacco knew radioactive Po210 in cigarettes posed cancer risk, kept quiet](https://www.uclahealth.org/news/big-tobacco-knew-radioactive-particles-in-cigarettes)
+[Welcome to Wikifunctions](https://www.wikifunctions.org/wiki/Wikifunctions:Main_Page)
+
+[Forced rhubarb, a vegetable deprived of sunlight, is having a renaissance (2019)](https://www.bbc.com/travel/article/20190424-the-english-vegetable-picked-by-candlelight)
+
+[Snowflake](https://snowflake.torproject.org/)
+
+[ASML EUV lithography machine could keep Moore’s Law on track](https://spectrum.ieee.org/high-na-euv)
+
+[Microbially produced protein that is much sweeter than sugar](https://www.nature.com/articles/s41587-023-01865-x)
+
+[PlayHT (YC W23) Is Hiring ML Engineers (LLMs, Generative AI)](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
+
+[Computer scientists discover limits of gradient descent](https://www.quantamagazine.org/computer-scientists-discover-limits-of-major-research-algorithm-20210817/)
+
+[Blue iceberg](https://en.wikipedia.org/wiki/Blue_iceberg)
 
 [Show HN: Gogit – Just enough Git (in Go) to push itself to GitHub](https://benhoyt.com/writings/gogit/)
 
-[Gzip beats BERT? Part 2: dataset issues, improved speed, and results](https://kenschutte.com/gzip-knn-paper2/)
-
-[Universal and transferable adversarial attacks on aligned language models](https://llm-attacks.org/zou2023universal.pdf)
-
-[Red algae proteins grafted into tobacco double plant growth](https://news.cornell.edu/stories/2023/07/red-algae-proteins-grafted-tobacco-double-plant-growth)
-
-[Open Source Outdoor Air Quality Monitor](https://www.airgradient.com/open-air/)
-
-[US Army Field Manual on Leadership (1990) [pdf]](https://armyoe.files.wordpress.com/2018/03/1990-fm-22-100.pdf)
-
-[Meticulous (YC S21) is hiring #3 engineer to build future of testing]()
-
-[1953 'Phantom' A-bomb film 'Hiroshima,' with 88,000 extras, screening in Tokyo](https://mainichi.jp/english/articles/20230729/p2a/00m/0et/006000c)
-
-[In the 17th century, Leibniz dreamed of a machine that could calculate ideas](https://spectrum.ieee.org/in-the-17th-century-leibniz-dreamed-of-a-machine-that-could-calculate-ideas)
+[Functions are vectors](https://thenumb.at/Functions-are-Vectors/)

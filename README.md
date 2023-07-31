@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[So, you want to deploy on the edge?](https://zknill.io/posts/edge-database/)
+[Ice core scientists in East Greenland reach bedrock](https://news.ku.dk/all_news/2023/07/pay-dirt-for-ice-core-scientists-in-east-greenland-as-they-reach-bedrock/)
 
-[Show HN: Linkwarden – An open source collaborative bookmark manager](https://linkwarden.app)
+[Icanhazip: A simple IP address tool survived a deluge of users (2021)](https://blog.apnic.net/2021/06/17/how-a-small-free-ip-tool-survived/)
 
-[Comparison of vector databases](https://navidre.medium.com/which-vector-database-should-i-use-a-comparison-cheatsheet-cb330e55fca)
+[Marijuana addiction: those struggling often face skepticism](https://www.washingtonpost.com/health/2023/07/31/marijuana-addiction-legal-recreational-sales/)
 
-[The Most Prolific Packager for Alpine Linux Is Stepping Away](https://www.phoronix.com/news/Alpine-Linux-Prolific-Packager)
+[Fantasy meets reality](https://cabel.com/2023/07/30/fantasy-meets-reality/)
 
-[The Matrix Calculus You Need for Deep Learning](https://explained.ai/matrix-calculus/)
+[USearch: Smaller and faster single-file vector search engine](https://unum-cloud.github.io/usearch/)
 
-[LaTeX3: Programming in LaTeX with Ease (2020)](https://www.alanshawn.com/latex3-tutorial/)
+[Secret Identities in Dwarf Fortress (2017)](https://ojs.aaai.org/index.php/AIIDE/article/view/12963)
 
-[SEC Charges Hex Founder Richard Heart with Misappropriating Millions of Dollars](https://www.sec.gov/news/press-release/2023-143)
+[Space junk: India says object found in Australia is theirs](https://www.bbc.com/news/world-australia-66359381)
 
-[Free and open source software projects are in transition](https://www.baldurbjarnason.com/2023/the-floss-transition/)
+[Glass Health (YC W23) is hiring a full-stack engineer in SF to build for doctors]()
 
-[The way airlines are central banks](https://abroaden.substack.com/p/the-strange-way-airlines-are-actually)
+[Chunking 2M files a day for code search using syntax trees](https://docs.sweep.dev/blogs/chunking-2m-files)
 
-[BBC starts trial with the Fediverse, running its own Mastodon instance](https://social.bbc/about)
+[First new US nuclear reactor in decades enters commercial operation in Georgia](https://apnews.com/article/georgia-power-nuclear-reactor-vogtle-9555e3f9169f2d58161056feaa81a425)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [So, you want to deploy on the edge?](https://zknill.io/posts/edge-database/)
 
-[Comparison of Vector Databases](https://navidre.medium.com/which-vector-database-should-i-use-a-comparison-cheatsheet-cb330e55fca)
-
 [Show HN: Linkwarden – An open source collaborative bookmark manager](https://linkwarden.app)
+
+[Comparison of vector databases](https://navidre.medium.com/which-vector-database-should-i-use-a-comparison-cheatsheet-cb330e55fca)
 
 [The Most Prolific Packager for Alpine Linux Is Stepping Away](https://www.phoronix.com/news/Alpine-Linux-Prolific-Packager)
 
-[BHP says battery electric cheaper than hydrogen as it dumps diesel](https://thedriven.io/2023/06/23/bhp-says-battery-electric-cheaper-than-hydrogen-as-it-dumps-diesel-for-haul-trucks/)
+[The Matrix Calculus You Need for Deep Learning](https://explained.ai/matrix-calculus/)
 
-[Happy 30th FreeBSD: Why FreeBSD open source project has endured](https://aster.cloud/2023/06/16/happy-30th-freebsd-why-the-freebsd-open-source-project-has-endured/)
+[LaTeX3: Programming in LaTeX with Ease (2020)](https://www.alanshawn.com/latex3-tutorial/)
 
-[AWS: IPv4 addresses cost too much, so you’re going to pay](https://www.theregister.com/2023/07/31/aws_says_ipv4_addresses_cost/)
+[SEC Charges Hex Founder Richard Heart with Misappropriating Millions of Dollars](https://www.sec.gov/news/press-release/2023-143)
 
-[x86 is dead, long live x86](https://engineering.mercari.com/en/blog/entry/20230731-x86-is-dead-long-live-x86/)
+[Free and open source software projects are in transition](https://www.baldurbjarnason.com/2023/the-floss-transition/)
 
-[Conduit: Simple, fast and reliable chat server powered by Matrix](https://conduit.rs/)
+[The way airlines are central banks](https://abroaden.substack.com/p/the-strange-way-airlines-are-actually)
 
-[Add PayPal to your Stripe integration](https://hyperswitch.io/blog/add-paypal-to-your-stripe-integration)
+[BBC starts trial with the Fediverse, running its own Mastodon instance](https://social.bbc/about)

@@ -5,16 +5,16 @@
 
 [Electronic Structure of LK-99](https://arxiv.org/abs/2308.00676)
 
-[Patterns for building LLM-based systems and products](https://eugeneyan.com/writing/llm-patterns/)
-
-[Pixar, Adobe, Apple, Autodesk, and Nvidia form alliance for OpenUSD](https://www.apple.com/newsroom/2023/08/pixar-adobe-apple-autodesk-and-nvidia-form-alliance-for-openusd/)
+[Why Edge Detection Doesn’t Explain Line Drawing](https://aaronhertzmann.com/2020/04/19/lines-as-edges.html)
 
 [The Beetle That Heads for the ‘Back Door’ When Eaten by a Frog](https://www.smithsonianmag.com/smart-news/when-beetle-gets-eaten-frog-it-forces-its-way-out-back-door-180975484/)
 
-[Hacker mods an M1 Mac mini to receive power over Ethernet instead of AC](https://www.inferse.com/660551/hardware-hacker-mods-an-m1-mac-mini-to-receive-power-over-ethernet-instead-of-the-ac-input/)
+[Patterns for building LLM-based systems and products](https://eugeneyan.com/writing/llm-patterns/)
 
-[Reading SEC filings using LLMs](https://www.beatandraise.com/)
+[South America is living one of the climate extreme events](https://twitter.com/extremetemps/status/1686485331539820545)
 
-[Stopping at 90%](https://austinhenley.com/blog/90percent.html)
+[Fitch downgrades U.S. after debt limit stalemate](https://www.politico.com/news/2023/08/01/fitch-downgrades-u-s-debt-00109288)
+
+[Why We Choose Liars as Leaders](https://journals.aom.org/doi/10.5465/amp.2021.0063.summary)
 
 [Shamir Secret Sharing](https://max.levch.in/post/724289457144070144/shamir-secret-sharing)

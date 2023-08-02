@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[I'm betting on HTML](https://catskull.net/html.html)
-
-[VkFFT: Vulkan/CUDA/Hip/OpenCL/Level Zero/Metal Fast Fourier Transform Library](https://github.com/DTolm/VkFFT)
-
-[Electronic Structure of LK-99](https://arxiv.org/abs/2308.00676)
+[Does Cloudflare’s 1.1.1.1 DNS Block Archive.is? (2019)](https://jarv.is/notes/cloudflare-dns-archive-is-blocked/)
 
 [Why Edge Detection Doesn’t Explain Line Drawing](https://aaronhertzmann.com/2020/04/19/lines-as-edges.html)
 
-[The Beetle That Heads for the ‘Back Door’ When Eaten by a Frog](https://www.smithsonianmag.com/smart-news/when-beetle-gets-eaten-frog-it-forces-its-way-out-back-door-180975484/)
+[I'm betting on HTML](https://catskull.net/html.html)
+
+[Launch HN: Certainly Health (YC S23) – Book doctors without surprise bills]()
+
+[Why Rust helps even if you have to use a lot of `unsafe`](https://v5.chriskrycho.com/journal/unsafe/)
+
+[Electronic Structure of LK-99](https://arxiv.org/abs/2308.00676)
+
+[VkFFT: Vulkan/CUDA/Hip/OpenCL/Level Zero/Metal Fast Fourier Transform Library](https://github.com/DTolm/VkFFT)
+
+[A beetle that heads for the ‘back door’ when eaten by a frog (2020)](https://www.smithsonianmag.com/smart-news/when-beetle-gets-eaten-frog-it-forces-its-way-out-back-door-180975484/)
+
+[Excuse me, is there a problem?](https://longform.asmartbear.com/problem/)
 
 [Patterns for building LLM-based systems and products](https://eugeneyan.com/writing/llm-patterns/)
-
-[South America is living one of the climate extreme events](https://twitter.com/extremetemps/status/1686485331539820545)
-
-[Fitch downgrades U.S. after debt limit stalemate](https://www.politico.com/news/2023/08/01/fitch-downgrades-u-s-debt-00109288)
-
-[Why We Choose Liars as Leaders](https://journals.aom.org/doi/10.5465/amp.2021.0063.summary)
-
-[Shamir Secret Sharing](https://max.levch.in/post/724289457144070144/shamir-secret-sharing)

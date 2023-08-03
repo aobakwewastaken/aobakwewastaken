@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Open-sourcing AudioCraft: Generative AI for audio](https://ai.meta.com/blog/audiocraft-musicgen-audiogen-encodec-generative-ai-audio/)
+[Observation of zero resistance above 100 K in Pb₁₀₋ₓCuₓ(PO₄)₆O](https://arxiv.org/abs/2308.01192)
 
-[A non-mathematical introduction to Kalman filters for programmers](https://praveshkoirala.com/2023/06/13/a-non-mathematical-introduction-to-kalman-filters-for-programmers/)
+[SMS traffic pumping fraud](https://support.twilio.com/hc/en-us/articles/8360406023067-SMS-Traffic-Pumping-Fraud)
 
-[LK-99: Team of Southeast University observed zero resistance below 110 K](https://twitter.com/lipez400/status/1686793608626663441)
+[System settings that aren’t in System Settings](https://eclecticlight.co/2023/07/29/system-settings-that-arent-in-system-settings/)
 
-[Transcript of taped conversations among German nuclear physicists (1945)](https://ghdi.ghi-dc.org/sub_document.cfm?document_id=2320)
+[Google’s Plan to DRM the Web Goes Against Everything Google Once Stood For](https://www.techdirt.com/2023/08/02/googles-plan-to-drm-the-web-goes-against-everything-google-once-stood-for/)
 
-[FCC allows blocking traffic from robocall-friendly provider One Owl](https://docs.fcc.gov/public/attachments/DA-23-652A1.txt)
+[Pixel Pump: Open-source vacuum pickup tool](https://hackaday.com/2023/08/01/pixel-pump-the-open-source-vacuum-pickup-tool-is-now-shipping/)
 
-[Launch HN: Certainly Health (YC S23) – Book doctors without surprise bills]()
+[I don't use Bayes factors in my research (2019)](http://datacolada.org/78a)
 
-[DotDict: A simple Python library to make chained attributes possible](https://github.com/nick-at-dave/DotDict)
+[The Canopener Bridge](https://11foot8.com/)
 
-[Meta’s Reality Lab Prototype Hardware](https://www.meta.com/en-gb/blog/quest/reality-labs-research-display-systems-siggraph-2023-butterscotch-varifocal-flamera/)
+[Show HN: Learn a language quickly by practising speaking with AI](https://www.prettypolly.app)
 
-[How I discovered the underground world of credit card network exploitation](https://chargebackstop.com/blog/card-networks-exploitation/)
+[Why Kundera never went home](https://compactmag.com/article/why-kundera-never-went-home)
 
-[Reflex – Web apps in pure Python](https://github.com/reflex-dev/reflex)
+[Pico Serial Bootloader (2021)](https://blog.usedbytes.com/2021/12/pico-serial-bootloader/)

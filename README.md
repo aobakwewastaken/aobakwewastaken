@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Elixir for Cynical Curmudgeons](https://wiki.alopex.li/ElixirForCynicalCurmudgeons)
+[Color-Diffusion: using diffusion models to colorize black and white images](https://github.com/ErwannMillon/Color-diffusion)
 
-[Netscape Meteors](https://erynwells.me/blog/2023/08/netscape-meteors/)
+[Hackers manage to unlock Tesla software-locked features](https://electrek.co/2023/08/03/hackers-manage-unlock-tesla-software-locked-features/)
 
-[Briefcase: Convert a Python project into a standalone native application](https://briefcase.readthedocs.io/en/stable/)
+[Nuked-MD-FPGA – accurate Sega Genesis re-implementation based on decapped chips](https://github.com/nukeykt/Nuked-MD-FPGA)
 
-[Malicious Android Apps Slip into Disguise](https://krebsonsecurity.com/2023/08/how-malicious-android-apps-slip-into-disguise/)
+[Commercial quantum computer identifies molecular candidate for better solar cell](https://www.ornl.gov/news/researchers-use-commercial-quantum-computer-identify-molecular-candidate-development-more)
 
-[A New Mode of Cancer Treatment](https://www.science.org/content/blog-post/new-mode-cancer-treatment)
+[Pegasus Mail](https://www.pmail.com/)
 
-[An Algorithm for Structuring Flowgraphs (1977) [pdf]](https://www.cs.tufts.edu/comp/150FP/archive/brenda-baker/structuring.pdf)
+[Chrultrabook – Modify a Chromebook to Run Windows/Linux/macOS](https://chrultrabook.github.io/docs/)
 
-[Goto in Bash (2012)](https://bobcopeland.com/blog/2012/10/goto-in-bash/)
+[Elixir for cynical curmudgeons](https://wiki.alopex.li/ElixirForCynicalCurmudgeons)
 
-[Network protocols for anyone who knows a programming language](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147)
+[Cognitive AI for ADHD](https://www.comigo.ai)
 
-[Quantum oscillations of the quasiparticle lifetime in a metal](https://www.nature.com/articles/s41586-023-06330-y)
+[How NAT traversal works (2020)](https://tailscale.com/blog/how-nat-traversal-works/)
 
-[IBM and NASA Open Source Largest Geospatial AI Foundation Model on Hugging Face](https://newsroom.ibm.com/2023-08-03-IBM-and-NASA-Open-Source-Largest-Geospatial-AI-Foundation-Model-on-Hugging-Face)
+[AWS to begin charging for public IPv4 addresses](https://www.infoq.com/news/2023/08/aws-ec2-public-ipv4/)

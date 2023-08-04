@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[(Next Rich)](https://clojure.org/news/2023/08/04/next-rich)
+[(next Rich)](https://clojure.org/news/2023/08/04/next-rich)
 
-[Remote work requires communicating more, but less frequently](https://ben.balter.com/2023/08/04/remote-work-communicate-more-with-less/)
+[IBM, Red Hat and Free Software: An old maddog’s view](https://www.lpi.org/blog/2023/07/30/ibm-red-hat-and-free-software-an-old-maddogs-view/)
 
-[Rich Hickey is retiring from Nubank](https://building.nubank.com.br/clojures-journey-at-nubank-a-look-into-the-future/)
+[Ryugu samples reveal traces of rock from before the Sun existed](https://arstechnica.com/science/2023/08/ryugu-samples-reveal-traces-of-rock-from-before-the-sun-existed/)
 
-[Successful room temperature ambient-pressure magnetic levitation of LK-99](https://arxiv.org/abs/2308.01516)
+[Melatonin as a treatment for food waste](https://www.anthropocenemagazine.org/2023/08/melatonin-a-sleep-aid-is-a-surprising-treatment-for-food-waste/)
 
-[How to add an AI Code Copilot to your product using GPT4](https://www.windmill.dev/blog/windmill-ai)
+[Do something, so we can change it](https://allenpike.com/2023/do-something-so-we-can-change-it)
 
-[85-Byte Snake Game](https://github.com/donno2048/snake)
+[Pause Random Superconductor Experiments: An Open Letter](https://futureofliff.org/)
 
-[ImPlot: Interactive plotting library, ImGui style](https://github.com/epezent/implot)
+[Terraform best practices for reliability at any scale](https://substrate.tools/blog/terraform-best-practices-for-reliability-at-any-scale)
 
-[Bark beetles are eating through Germany’s Harz forest](https://apnews.com/article/climate-germany-bark-beetles-harz-spruce-2211332b8e841ad18fc16267bcbec6dc)
+[Throw away your first draft of your code](https://ntietz.com/blog/throw-away-your-first-draft/)
 
-[Comcast, Centurylink Fail to Derail Utah Community-Owned Gigabit Fiber Network](https://www.techdirt.com/2023/08/04/comcast-centurylink-fail-to-derail-community-owned-gigabit-fiber-network-in-bountiful-utah/)
+[“Absurd”: Google, Amazon rebuked over unsupported Chromebooks still for sale](https://arstechnica.com/gadgets/2023/08/no-discounts-or-warnings-for-people-shopping-eol-chromebooks-on-amazon-walmart/)
 
-[A Single-Cycle 64-Bit RISC-V Register File](https://danielmangum.com/posts/single-cycle-rv64-register-file/)
+[Comcast, CenturyLink fail to derail Utah community-owned gigabit fiber network](https://www.techdirt.com/2023/08/04/comcast-centurylink-fail-to-derail-community-owned-gigabit-fiber-network-in-bountiful-utah/)

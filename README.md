@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[The Dome: A simple violation of determinism in Newtonian mechanics (2005)](https://sites.pitt.edu/~jdnorton/Goodies/Dome/)
+[nic.funet.fi: Serving freely distributable files with FTP since 1990](https://www.funet.fi/)
 
-[Disney discontinues DVD and Bluray production in Australia](https://www.whathifi.com/news/disney-discontinues-dvd-and-blu-ray-production-in-australia-effective-immediately)
+[IBM and NASA open-source largest geospatial AI foundation model on Hugging Face](https://newsroom.ibm.com/2023-08-03-IBM-and-NASA-Open-Source-Largest-Geospatial-AI-Foundation-Model-on-Hugging-Face?sf180690117=1)
 
 [Bram Moolenaar has died](https://groups.google.com/g/vim_announce/c/tWahca9zkt4)
 
-[The Myth of AI Omniscience: AI's Epistemological Limits](https://cpwalker.substack.com/p/the-myth-of-ai-omniscience-ais-epistemological)
+[MK-1](https://mkone.ai/blog/introducing-mk1)
 
-[Supercapacitor Is Made from Concrete and Carbon](https://spectrum.ieee.org/supercapacitor)
+[We’re closer to ‘engineering’ blood vessels](https://pursuit.unimelb.edu.au/articles/we-re-closer-to-engineering-blood-vessels)
 
-[Green vs. Brown Programming Languages (2021)](https://earthly.dev/blog/brown-green-language/)
+[Speed Up C++ Compilation](https://devtalk.blender.org/t/speed-up-c-compilation/30508)
 
-[Intel x86 documentation has more pages than the 6502 has transistors (2013)](http://www.righto.com/2013/09/intel-x86-documentation-has-more-pages.html)
+[DisplayPort: Taming the Altmode](https://hackaday.com/2023/08/03/displayport-taming-the-altmode/)
 
-[Lazygit Turns 5: Musings on Git, TUIs, and Open Source](https://jesseduffield.com/Lazygit-5-Years-On/)
+[New acoustic attack steals data from keystrokes with 95% accuracy](https://www.bleepingcomputer.com/news/security/new-acoustic-attack-steals-data-from-keystrokes-with-95-percent-accuracy/)
 
-[Reduction of sulfur emissions from ships may be causing rising sea temperatures](https://twitter.com/hankgreen/status/1687535525169930241)
+[Replacing the bad flyback transformer in Apple's Studio Display 17"](https://www.riveducha.com/fix-apple-studio-display-flyback)
 
-[GitHub Actions and Vanity Metrics](https://jamesconroyfinn.com/github-actions-and-vanity-metrics)
+[From Cyberdog to dataless files: a brief history of iCloud](https://eclecticlight.co/2023/08/05/from-cyberdog-to-dataless-files-a-brief-history-of-icloud/)

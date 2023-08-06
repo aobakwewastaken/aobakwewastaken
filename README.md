@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[The Sad Bastard Cookbook: Food you can make so you don't die](https://traumbooks.itch.io/the-sad-bastard-cookbook)
+[Show HN: Postgres Language Server](https://github.com/supabase/postgres_lsp)
 
 [Memex is already here, it’s just not evenly distributed](https://filiph.net/text/memex-is-already-here,-it%27s-just-not-evenly-distributed.html)
 
-[nic.funet.fi: Serving freely distributable files with FTP since 1990](https://www.funet.fi/)
+[Reasons to Drop Docker for Podman](https://developers.redhat.com/articles/2023/08/03/3-reasons-drop-docker-podman)
+
+[Show HN: Archsense – Accurately generated architecture from the source code](https://www.archsense.dev)
+
+[Project: Police Flasher and 7-Segment LED Clock Through-Hole Soldering Kits](https://goughlui.com/2023/08/06/project-police-flasher-7-segment-led-clock-through-hole-soldering-kits/)
+
+[The Sad Bastard Cookbook](https://traumbooks.itch.io/the-sad-bastard-cookbook)
+
+[Venture-backed startups are failing at record rates](https://www.fastcompany.com/90933648/venture-backed-startups-are-failing-at-record-rates)
 
 [Internet Standard #80: ASCII Format for Network Interchange (1969)](https://www.ietf.org/rfc/std/std80.txt)
 
-[IBM and NASA open-source largest geospatial AI foundation model on Hugging Face](https://newsroom.ibm.com/2023-08-03-IBM-and-NASA-Open-Source-Largest-Geospatial-AI-Foundation-Model-on-Hugging-Face?sf180690117=1)
-
-[Scientists create novel approach to control energy waves in 4D](https://showme.missouri.edu/2023/scientists-create-novel-approach-to-control-energy-waves-in-4d/)
-
 [My favorite Vim oneliners for text manipulation](https://muhammadraza.me/2023/vim-onliners/)
 
-[People who've received a black bar on Hacker News](https://bear.willmeyers.net/whos-received-a-black-bar/)
-
-[Write Elixir NIFs in Rust](https://docs.rs/crate/rustler/latest)
-
-[Types of Garden Hoe](https://www.easydigging.com/garden-hoes/articles/types-of-hoes.html)
+[Scientists create novel approach to control energy waves in 4D](https://showme.missouri.edu/2023/scientists-create-novel-approach-to-control-energy-waves-in-4d/)

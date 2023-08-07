@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Ongoing compilation table of LK-99 reproduction claims](https://forums.spacebattles.com/threads/claims-of-room-temperature-and-ambient-pressure-superconductor.1106083/page-13)
+[The $1M shot that changed sports contests forever](https://www.espn.com/nba/story/_/id/36146138/million-dollar-shot-michael-jordan-chicago-bulls-1993)
+
+[Some Tactics for Writing in Public](https://jvns.ca/blog/2023/08/07/tactics-for-writing-in-public/)
+
+[Show HN: Axilla – Open-source TypeScript framework for LLM apps](https://github.com/axilla-io/ax)
+
+[Launch HN: GitStart (YC S19) – Remote junior devs working on production PRs]()
+
+[Request: Re-open JPEG XL issue](https://bugs.chromium.org/p/chromium/issues/detail?id=1451807)
+
+[Sandy Bridge: Setting Intel’s Modern Foundation](https://chipsandcheese.com/2023/08/04/sandy-bridge-setting-intels-modern-foundation/)
+
+[The Santa Fe Time Series Prediction and Analysis Competition](https://www.santafe.edu/research/results/working-papers/the-future-of-time-series)
 
 [Orb is a free and open source web desktop](https://gitlab.com/hsleisink/orb)
 
-[Sedmario: NES Super Mario Bros level 1 written in pure sed](https://github.com/chebykinn/sedmario)
+[Self-modifying code using GCC (2011)](https://nikmav.blogspot.com/2011/12/self-modifying-code-using-gcc.html)
 
-[NASA helps spot wine grape disease from skies above California](https://www.jpl.nasa.gov/news/nasa-helps-spot-wine-grape-disease-from-skies-above-california)
-
-[Isn’t London Hell?](https://www.lrb.co.uk/the-paper/v45/n16/seamus-perry/isn-t-london-hell)
-
-[Electron band structure in germanium, my ass (2000)](https://pages.cs.wisc.edu/~kovar/hall.html)
-
-[Google Maps has become an eyesore](https://www.fastcompany.com/90930810/google-maps-eyesore-5-examples-apple-maps)
-
-[Elixir Livebook is a secret weapon for documentation](https://fly.io/blog/livebook-for-app-documentation/)
-
-[The process of making fake food [video]](https://www.youtube.com/watch?v=O9E77WZGCpQ)
-
-[Edsger Dijkstra’s One-Day Workweek](https://calnewport.com/edsger-dijkstras-one-day-workweek/)
+[PSA: Intel Graphics Drivers Now Collect Telemetry by Default](https://www.techpowerup.com/312122/psa-intel-graphics-drivers-now-collect-telemetry-by-default)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Sandy Bridge: Setting Intel’s modern foundation](https://chipsandcheese.com/2023/08/04/sandy-bridge-setting-intels-modern-foundation/)
+[Raku: A Language for Gremlins](https://buttondown.email/hillelwayne/archive/raku-a-language-for-gremlins/)
 
-[Some tactics for writing in public](https://jvns.ca/blog/2023/08/07/tactics-for-writing-in-public/)
+[True shape of lithium revealed for the first time](https://phys.org/news/2023-08-true-lithium-revealed.html)
 
-[Fantastic Learning Resources](https://matklad.github.io/2023/08/06/fantastic-learning-resources.html)
+[Zoom's TOS Permit Training AI on User Content Without Opt-Out](https://stackdiary.com/zoom-terms-now-allow-training-ai-on-user-content-with-no-opt-out/)
 
-[Launch HN: GitStart (YC S19) – Remote junior devs working on production PRs]()
+[Gnu/Hurd strikes back: How to use the legendary OS in a (somewhat) practical way](https://mhatta.medium.com/gnu-hurd-strikes-back-4021433d506d)
 
-[An arrowhead made of meteoritic iron from the late Bronze Age](https://www.sciencedirect.com/science/article/pii/S0305440323001073)
+[Open-source canvas drawing web app, built using React](https://github.com/diogocapela/flatdraw)
 
-[Show HN: Axilla – Open-source TypeScript framework for LLM apps](https://github.com/axilla-io/ax)
+[How Zoom’s terms of service and practices apply to AI features](https://blog.zoom.us/zooms-term-service-ai/)
 
-[Request: Re-open JPEG XL issue](https://bugs.chromium.org/p/chromium/issues/detail?id=1451807)
+[A beginner's guide to Git version control](https://developers.redhat.com/articles/2023/08/02/beginners-guide-git-version-control)
 
-[Self-modifying code using GCC (2011)](https://nikmav.blogspot.com/2011/12/self-modifying-code-using-gcc.html)
+[Emerge Tools (YC W21) is hiring an engineer to lead front end development](https://www.ycombinator.com/companies/emerge-tools/jobs/zDcS7ia-senior-software-engineer-frontend-lead)
 
-[Snappy UIs with WebAssembly and Web Workers](https://mofi.loud.red/blog/wasm-and-workers)
+[The combined power of F# and C#](https://steven-giesel.com/blogPost/2f70d926-ec92-4dfe-b278-18f78078253d)
 
-[MIT Press: Open Access Materials](https://archive.org/details/mit_press_open_access?tab=collection)
+[Show HN: ChainForge, a visual tool for prompt engineering and LLM evaluation](https://chainforge.ai/docs/)

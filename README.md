@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[GPTBot – OpenAI’s Web Crawler](https://platform.openai.com/docs/gptbot)
+
 [Water](https://oimo.io/works/water/)
 
-[Barco: Linux Containers from Scratch in C](https://github.com/lucavallin/barco)
+[British gas starts to turn off Hive smart home devices forever](https://www.t3.com/news/british-gas-starts-to-turn-off-hive-smart-home-devices-forever)
 
-[Electron Band Structure in Germanium, My Ass (2007)](https://pages.cs.wisc.edu/~kovar/hall.html)
+[Electron band structure in germanium, my ass (2000)](https://pages.cs.wisc.edu/~kovar/hall.html)
 
-[We Are All Animals at Night](https://hazlitt.net/feature/we-are-all-animals-night)
+[Elixir Livebook is a secret weapon for documentation](https://fly.io/blog/livebook-for-app-documentation/)
+
+[Edsger Dijkstra’s One-Day Workweek](https://calnewport.com/edsger-dijkstras-one-day-workweek/)
+
+[Ravenchord – A Radical Redesign of the Piano](https://whipsaw.com/2023/06/05/unveiling-ravenchord-a-radical-piano-redesign-from-dan-harden/)
 
 [Meta blocking news links in Canada](https://www.michaelgeist.ca/2023/08/metablockslinks/)
 
-[Why libvirt supports only 14 PCIe hotplugged devices on x86-64](https://dottedmag.net/blog/libvirt-14-pcie-devices/)
+[Efficient keyboard layout for English and Spanish](https://github.com/christoofar/canaria)
 
-[Replace peer review with “peer replication” (2021)](https://blog.everydayscientist.com/replace-peer-review-with-peer-replication/)
-
-[My history with Forth and stack machines (2010)](https://yosefk.com/blog/my-history-with-forth-stack-machines.html)
-
-[Postgres Language Server](https://github.com/supabase/postgres_lsp)
-
-[Jupyter AI](https://jupyter-ai.readthedocs.io/en/latest/)
+[Barco: Linux Containers from Scratch in C](https://github.com/lucavallin/barco)

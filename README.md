@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Raku: A Language for Gremlins](https://buttondown.email/hillelwayne/archive/raku-a-language-for-gremlins/)
+[Ferromagnetic half levitation of LK-99-like synthetic samples](https://arxiv.org/abs/2308.03110)
 
-[True shape of lithium revealed for the first time](https://phys.org/news/2023-08-true-lithium-revealed.html)
+[Run Firefox on ChromeOS](https://support.mozilla.org/en-US/kb/run-firefox-chromeos)
 
-[Zoom's TOS Permit Training AI on User Content Without Opt-Out](https://stackdiary.com/zoom-terms-now-allow-training-ai-on-user-content-with-no-opt-out/)
+[Malignant melanoma deploys elegant molecular mechanism to evade immune responses](https://www.cancer.columbia.edu/news/cancers-cloaking-device-revealed)
 
-[Gnu/Hurd strikes back: How to use the legendary OS in a (somewhat) practical way](https://mhatta.medium.com/gnu-hurd-strikes-back-4021433d506d)
+[The Alexander Piano](https://www.alexanderpiano.nz/page/the-alexander-piano)
 
-[Open-source canvas drawing web app, built using React](https://github.com/diogocapela/flatdraw)
+[Sheldon Brown's Bicycle Technical Info](https://www.sheldonbrown.com/)
 
-[How Zoom’s terms of service and practices apply to AI features](https://blog.zoom.us/zooms-term-service-ai/)
+[Raku: A language for gremlins](https://buttondown.email/hillelwayne/archive/raku-a-language-for-gremlins/)
 
-[A beginner's guide to Git version control](https://developers.redhat.com/articles/2023/08/02/beginners-guide-git-version-control)
+[Jim Keller and his pioneering work on chip design and architecture](https://www.edn.com/the-story-of-jim-keller-and-his-pioneering-work-on-chip-design-and-architecture/)
 
-[Emerge Tools (YC W21) is hiring an engineer to lead front end development](https://www.ycombinator.com/companies/emerge-tools/jobs/zDcS7ia-senior-software-engineer-frontend-lead)
+[Lacros on Chromebooks transition plan won’t be quick](https://www.aboutchromebooks.com/news/lacros-on-chromebooks-transition-plan-wont-be-quick/)
 
-[The combined power of F# and C#](https://steven-giesel.com/blogPost/2f70d926-ec92-4dfe-b278-18f78078253d)
+[Theft of the Mona Lisa  (2000)](https://www.pbs.org/treasuresoftheworld/a_nav/mona_nav/main_monafrm.html)
 
-[Show HN: ChainForge, a visual tool for prompt engineering and LLM evaluation](https://chainforge.ai/docs/)
+[Lithium morphology discovery could lead to safer lithium-metal batteries](https://phys.org/news/2023-08-true-lithium-revealed.html)

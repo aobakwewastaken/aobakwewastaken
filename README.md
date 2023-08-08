@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[TSMC, Bosch, Infineon, and NXP to build fab in Germany](https://pr.tsmc.com/english/news/3049)
+
+[Magic Earth: OSM based map and routing with crowd sourced traffic data](https://www.magicearth.com/crowd-sourced-traffic/)
+
 [The Alexander Piano](https://www.alexanderpiano.nz/page/the-alexander-piano)
 
-[Longest-lasting incandescent light bulbs](https://en.wikipedia.org/wiki/Longest-lasting_light_bulbs)
+[Building Alex Taradov’s open-source USB sniffer](https://www.downtowndougbrown.com/2023/08/building-alex-taradovs-open-source-usb-sniffer/)
 
 [Noclip.website: A digital museum of video game levels](https://noclip.website)
 
-[Malignant melanoma deploys elegant molecular mechanism to evade immune responses](https://www.cancer.columbia.edu/news/cancers-cloaking-device-revealed)
+[All that glitters is not gold – emulating luxury in the ancient Greek world](https://www.britishmuseum.org/blog/all-glitters-not-gold-emulating-luxury-ancient-greek-world)
 
-[Raku: A language for gremlins](https://buttondown.email/hillelwayne/archive/raku-a-language-for-gremlins/)
+[Malignant melanoma deploys elegant molecular mechanism to evade immune responses](https://www.cancer.columbia.edu/news/cancers-cloaking-device-revealed)
 
 [Sheldon Brown's Bicycle Technical Info](https://www.sheldonbrown.com/)
 
-[Run Firefox on ChromeOS](https://support.mozilla.org/en-US/kb/run-firefox-chromeos)
+[Terminal Support for Emoji](https://darrenburns.net/posts/emoji-in-the-terminal/)
 
-[Jim Keller and his pioneering work on chip design and architecture](https://www.edn.com/the-story-of-jim-keller-and-his-pioneering-work-on-chip-design-and-architecture/)
-
-[The Importance of Being a Code Reviewer](https://medium.com/expedia-group-tech/the-importance-of-being-a-code-reviewer-fdbd910fbce7)
-
-[Ferromagnetic half levitation of LK-99-like synthetic samples](https://arxiv.org/abs/2308.03110)
+[Richard Scarry Collection: Archive.org](https://archive.org/search?query=Richard+Scarry&and%5B%5D=subject%3A%22Richard+Scarry%22)

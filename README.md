@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Temptations of an open-source Chrome extension developer](https://github.com/extesy/hoverzoom/discussions/670)
+
+[Launch HN: Refine (YC S23) – Open-Source Retool alternative for enterprise]()
+
 [SQLedge: Replicate Postgres to SQLite on the Edge](https://github.com/zknill/sqledge)
+
+[Akin’s Laws of Spacecraft Design](https://spacecraft.ssl.umd.edu/akins_laws.html)
+
+[Arpchat – Text your friends on the same network using just ARP](https://github.com/kognise/arpchat)
 
 [Infrastructure audit completed by Radically Open Security](https://mullvad.net/en/blog/2023/8/9/infrastructure-audit-completed-by-radically-open-security/)
 
-[Archive of novelty answering machine recordings](http://www.noveltyansweringmachine.com/audio/index.html)
+[Show HN: Get notified when sites update their terms of service](https://tosnotify.com/)
 
-[Qalculate – A multi-purpose cross-platform desktop calculator](https://qalculate.github.io/)
+[BuildZoom (YC W13) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 
-[I'm 17 and wrote this guide on how CPUs run programs](https://github.com/hackclub/putting-the-you-in-cpu)
+[Optimization Techniques for GPU Programming [pdf]](https://dl.acm.org/doi/pdf/10.1145/3570638)
 
-[J-CIA64 – Modern spare part for Commodore 64, Commodore 128, SX-64](https://1nt3r.net/j-cia/)
-
-[Llama from scratch, or how to implement a paper without crying](https://blog.briankitano.com/llama-from-scratch/)
-
-[Nintendo filed numerous patents for Zelda: Tears of the Kingdom mechanics](https://automaton-media.com/en/news/20230808-20590/)
-
-[I don't want to host services (but I do)](https://ergaster.org/posts/2023/08/09-i-dont-want-to-host-services-but-i-do/)
-
-[How RLHF Preference Model Tuning Works (and How Things May Go Wrong)](https://www.assemblyai.com/blog/how-rlhf-preference-model-tuning-works-and-how-things-may-go-wrong/)
+[The Quite OK Audio Format for Fast, Lossy Compression](https://qoaformat.org/)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[G9.js: Automatically Interactive Graphics](http://omrelli.ug/g9/gallery/)
+
 [Downfall Attacks](https://downfall.page/)
 
-[Android 14 introduces first-of-its-kind cellular connectivity security features](https://security.googleblog.com/2023/08/android-14-introduces-first-of-its-kind.html)
+[Android 14 introduces cellular connectivity security features](https://security.googleblog.com/2023/08/android-14-introduces-first-of-its-kind.html)
 
-[What happened in this GPT-3 conversation?](https://chat.openai.com/share/f5341665-7f08-4fca-9639-04201363506e)
+[Swap_8_and_9: A simple import can modify the Python interpreter](https://kenschutte.com/python-swap-ints/)
+
+[Testing Intel’s Arc A770 GPU for Deep Learning](https://christianjmills.com/posts/arc-a770-testing/part-2/)
 
 [LCD, Please](https://dukope.itch.io/lcd-please)
 
+[PackagingCon – A conference only for software package management](https://packaging-con.org)
+
 [Low-cost Smartwatch powered by ESP32 module](https://linuxgizmos.com/low-cost-smartwatch-powered-by-esp32-s3-module/)
 
-[TSMC, Bosch, Infineon, and NXP to build fab in Germany](https://pr.tsmc.com/english/news/3049)
+[Rising ill-health and economic inactivity from long-term sickness: 2019 to 2023](https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/economicinactivity/articles/risingillhealthandeconomicinactivitybecauseoflongtermsicknessuk/2019to2023)
 
-[Milk Sad: Weak Entropy in libbitcoin (bc) seed generation](https://milksad.info/)
-
-[Aviator (YC S21) is hiring engineers to build dev productivity platform](https://www.ycombinator.com/companies/aviator/jobs)
-
-[The Last 1%](https://jaredramsey.com/blog/20230808.html)
-
-[Kubernetes Exposed: One YAML Away from Disaster](https://blog.aquasec.com/kubernetes-exposed-one-yaml-away-from-disaster)
+[LK-99: Phonon bands, Localized Flat Band Magnetism, Models and Chemical Analysis](https://drive.google.com/file/d/1ekD2KVV_SUid2wH__o1ODS3hTl1GUFb5/view)

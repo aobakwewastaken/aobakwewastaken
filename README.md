@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Scripps Institution of Oceanography’s FLIP vessel decommissioned after 60 years](https://maritime-executive.com/article/world-s-strangest-research-vessel-heads-for-scrapyard-after-51-years)
-
-[CNET is deleting old articles to try to improve its Google Search ranking](https://www.theverge.com/2023/8/9/23826342/cnet-content-pruning-deleting-articles-google-seo)
+[The Future of the Vim Project](https://groups.google.com/g/vim_dev/c/dq9Wu5jqVTw)
 
 [After 118 days, GPT Unicorn has produced a unicorn](https://gpt-unicorn.adamkdean.co.uk/)
 
-[Main is usually a function. So then when is it not? (2015)](http://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html)
+[Generative Agents: Interactive Simulacra of Human Behavior, Now Open Source](https://github.com/joonspk-research/generative_agents)
 
-[The Tetris Effect](https://nonzerosum.games/thetetriseffect.html)
+[MilkyTracker 1.04](https://milkytracker.org/news/2023/07/05/version-1.04/)
 
-[Fancy Parking](http://www.fancyparking.com)
+[Scripps Institution of Oceanography’s FLIP vessel decommissioned after 60 years](https://maritime-executive.com/article/world-s-strangest-research-vessel-heads-for-scrapyard-after-51-years)
 
-[Manias and Mimesis: Applying René Girard’s Mimetic Theory to Financial Bubbles](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3469465)
+[Gym Class VR (YC W22) Is Hiring Unity Tooling Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/futIIml-unity-engineer-tools)
 
-['Unbelievable': Astronomer Claims 'Direct Evidence' of Gravity Breaking Down](https://www.vice.com/en/article/ak3jwb/unbelievable-astronomer-claims-direct-evidence-of-gravity-breaking-down)
+[CNET is deleting old articles to try to improve its Google Search ranking](https://www.theverge.com/2023/8/9/23826342/cnet-content-pruning-deleting-articles-google-seo)
 
-[Temptations of an open-source Chrome extension developer (2021)](https://github.com/extesy/hoverzoom/discussions/670)
+[The Yandex Leak: How a Russian Search Giant Uses Consumer Data](https://www.confiant.com/news/the-yandex-leak-how-a-russian-search-giant-uses-consumer-data)
 
-[Supermarket AI meal planner app suggests recipe that would create chlorine gas](https://www.theguardian.com/world/2023/aug/10/pak-n-save-savey-meal-bot-ai-app-malfunction-recipes)
+[Get your staff's consent before you monitor them, tech inquiry warns](https://www.theregister.com/2023/08/10/workplace_monitoring_select_committee/)
+
+[Russia Starts Blocking VPN Protocols](https://vpncentral.com/russia-starts-blocking-vpn-protocols/)

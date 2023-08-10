@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Strangest Research Vessel Heads for Scrapyard After 60 Years](https://maritime-executive.com/article/world-s-strangest-research-vessel-heads-for-scrapyard-after-51-years)
+
+[CNET is deleting old articles to try to improve its Google Search ranking](https://www.theverge.com/2023/8/9/23826342/cnet-content-pruning-deleting-articles-google-seo)
+
 [Temptations of an open-source Chrome extension developer](https://github.com/extesy/hoverzoom/discussions/670)
 
-[Launch HN: Refine (YC S23) – Open-Source Retool alternative for enterprise]()
+[Doctors on TikTok](https://thewalrus.ca/medical-tiktok/)
 
-[SQLedge: Replicate Postgres to SQLite on the Edge](https://github.com/zknill/sqledge)
+[Manias and Mimesis: Applying René Girard’s Mimetic Theory to Financial Bubbles](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3469465)
+
+[A History of Clojure (2020) [pdf]](https://download.clojure.org/papers/clojure-hopl-iv-final.pdf)
 
 [Akin’s Laws of Spacecraft Design](https://spacecraft.ssl.umd.edu/akins_laws.html)
 
-[Arpchat – Text your friends on the same network using just ARP](https://github.com/kognise/arpchat)
+[Making AMD GPUs competitive for LLM inference](https://blog.mlc.ai/2023/08/09/Making-AMD-GPUs-competitive-for-LLM-inference)
 
-[Infrastructure audit completed by Radically Open Security](https://mullvad.net/en/blog/2023/8/9/infrastructure-audit-completed-by-radically-open-security/)
+[Supermarket AI meal planner app suggests recipe that would create chlorine gas](https://www.theguardian.com/world/2023/aug/10/pak-n-save-savey-meal-bot-ai-app-malfunction-recipes)
 
-[Show HN: Get notified when sites update their terms of service](https://tosnotify.com/)
-
-[BuildZoom (YC W13) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-
-[Optimization Techniques for GPU Programming [pdf]](https://dl.acm.org/doi/pdf/10.1145/3570638)
-
-[The Quite OK Audio Format for Fast, Lossy Compression](https://qoaformat.org/)
+[Autogenerating Rust-JS Bindings with UniFFI](https://hacks.mozilla.org/2023/08/autogenerating-rust-js-bindings-with-uniffi/)

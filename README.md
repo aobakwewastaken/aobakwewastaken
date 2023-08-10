@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Vim Boss](https://neovim.io/news/2023/08)
+
+[eSignature for Google Docs and Google Drive (Beta)](https://workspaceupdates.googleblog.com/2023/08/esignature-google-docs-google-drive.html)
+
+[Llama 2 on ONNX runs locally](https://github.com/microsoft/Llama-2-Onnx)
+
+[Was Y Combinator worth it?](https://tableflow.com/blog/was-y-combinator-worth-it)
+
+[Amiga runs Michigan schools' heating and air conditioning systems (2015)](https://www.woodtv.com/news/grand-rapids/1980s-computer-controls-grps-heat-and-ac/)
+
+[Turns out lowly thymus may be saving your life](https://news.harvard.edu/gazette/story/2023/08/turns-out-lowly-thymus-may-be-saving-your-life/)
+
+[My Overkill Home Network – Complete Details 2023](https://blog.networkprofile.org/my-home-network-complete-details-2023/)
+
 [Do Machine Learning Models Memorize or Generalize?](https://pair.withgoogle.com/explorables/grokking/)
 
-[Two Students Shoot Down a Widely Believed Math Conjecture](https://www.quantamagazine.org/two-students-shoot-down-a-widely-believed-math-conjecture-20230810/)
+[CIQ, Oracle, SUSE Create Open Enterprise Linux Association](https://www.suse.com/news/OpenELA-for-a-Collaborative-and-Open-Future/)
 
-[MetaGPT: Meta Programming for Multi-Agent Collaborative Framework](https://arxiv.org/abs/2308.00352)
-
-[Exoplanets Could Help Us Learn How Planets Make Magnetism](https://www.quantamagazine.org/exoplanets-could-help-us-learn-how-planets-make-magnetism-20230807/)
-
-[Launch HN: Rubbrband (YC W23) – Deformity detection for AI-generated images]()
-
-[MS Teams channels cannot contain MS-DOS device names](https://learn.microsoft.com/en-us/microsoftteams/limits-specifications-teams)
-
-[The Future of the Vim Project](https://groups.google.com/g/vim_dev/c/dq9Wu5jqVTw)
-
-[Generative Agents: Interactive Simulacra of Human Behavior, Now Open Source](https://github.com/joonspk-research/generative_agents)
-
-[SynJax: Jax library for efficient probabilistic modeling of structured objects](https://twitter.com/milosstanojevic/status/1688896558790520832)
-
-[Scripps Institution of Oceanography’s FLIP vessel decommissioned after 60 years](https://maritime-executive.com/article/world-s-strangest-research-vessel-heads-for-scrapyard-after-51-years)
+[Muon g-2 doubles down with latest measurement, explores uncharted territory](https://news.fnal.gov/2023/08/muon-g-2-doubles-down-with-latest-measurement/)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [Vim Boss](https://neovim.io/news/2023/08)
 
-[eSignature for Google Docs and Google Drive (Beta)](https://workspaceupdates.googleblog.com/2023/08/esignature-google-docs-google-drive.html)
+[Git-appraise – Distributed Code Review for Git](https://github.com/google/git-appraise)
 
-[Llama 2 on ONNX runs locally](https://github.com/microsoft/Llama-2-Onnx)
+[Firefox desktop extensions coming soon for the upcoming Android release](https://blog.mozilla.org/addons/2023/08/10/prepare-your-firefox-desktop-extension-for-the-upcoming-android-release/)
 
-[Was Y Combinator worth it?](https://tableflow.com/blog/was-y-combinator-worth-it)
+[Reverse Engineering the Apple Multipeer Connectivity Framework (2022)](https://www.evilsocket.net/2022/10/20/Reverse-Engineering-the-Apple-MultiPeer-Connectivity-Framework/)
 
-[Amiga runs Michigan schools' heating and air conditioning systems (2015)](https://www.woodtv.com/news/grand-rapids/1980s-computer-controls-grps-heat-and-ac/)
+[Show HN: Tetris, but the blocks are ARM instructions that execute in the browser](https://ofrak.com/tetris/)
 
-[Turns out lowly thymus may be saving your life](https://news.harvard.edu/gazette/story/2023/08/turns-out-lowly-thymus-may-be-saving-your-life/)
+[My Overkill Home Network](https://blog.networkprofile.org/my-home-network-complete-details-2023/)
 
-[My Overkill Home Network – Complete Details 2023](https://blog.networkprofile.org/my-home-network-complete-details-2023/)
+[eSignature Beta for Google Docs and Google Drive](https://workspaceupdates.googleblog.com/2023/08/esignature-google-docs-google-drive.html)
 
-[Do Machine Learning Models Memorize or Generalize?](https://pair.withgoogle.com/explorables/grokking/)
+[Pentium floating-point division bug (1994)](https://en.wikipedia.org/wiki/Pentium_FDIV_bug)
 
-[CIQ, Oracle, SUSE Create Open Enterprise Linux Association](https://www.suse.com/news/OpenELA-for-a-Collaborative-and-Open-Future/)
+[Source code for Quake 2 rerelease](https://github.com/id-Software/quake2-rerelease-dll)
 
-[Muon g-2 doubles down with latest measurement, explores uncharted territory](https://news.fnal.gov/2023/08/muon-g-2-doubles-down-with-latest-measurement/)
+[Websites and APIs on Render are unavailable due to Cloudflare network errors](https://status.render.com/incidents/cshql6qwnldj)

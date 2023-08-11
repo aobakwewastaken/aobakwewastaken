@@ -3,18 +3,18 @@
 
 [Artificial General Intelligence – A gentle introduction](https://cis.temple.edu/~pwang/AGI-Intro.html)
 
-[Git-appraise – Distributed Code Review for Git](https://github.com/google/git-appraise)
+[Shamir Secret Sharing – how PayPal nearly died](https://max.levch.in/post/724289457144070144/shamir-secret-sharing-its-3am-paul-the-head-of)
 
-[The Life of a Lawyer in the Late Roman Republic](https://www.thecollector.com/life-lawyer-late-roman-republic/)
+[The Bipolar Lisp Programmer (2007)](https://www.marktarver.com/bipolar.html)
 
 [Internationalization (i18n) best practices for front-end developers](https://shopify.engineering/internationalization-i18n-best-practices-front-end-developers)
 
+[George Hotz: There is no hard takeoff](https://geohot.github.io//blog/jekyll/update/2023/08/10/there-is-no-hard-takeoff.html)
+
 [My Overkill Home Network](https://blog.networkprofile.org/my-home-network-complete-details-2023/)
 
-[Browsers barely care what HTTP status code your web pages are served with](https://utcc.utoronto.ca/~cks/space/blog/web/BrowsersAndHTTPStatusCodes)
-
-[Why SMTP still matters today](https://resend.com/blog/why-smtp-still-matters-today)
+[The Life of a Lawyer in the Late Roman Republic](https://www.thecollector.com/life-lawyer-late-roman-republic/)
 
 [Show HN: Tetris, but the blocks are ARM instructions that execute in the browser](https://ofrak.com/tetris/)
 
-[Firefox desktop extensions coming soon for the upcoming Android release](https://blog.mozilla.org/addons/2023/08/10/prepare-your-firefox-desktop-extension-for-the-upcoming-android-release/)
+[Pentium floating-point division bug (1994)](https://en.wikipedia.org/wiki/Pentium_FDIV_bug)

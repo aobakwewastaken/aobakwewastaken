@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Vim Boss](https://neovim.io/news/2023/08)
+[Fastest Branchless Binary Search](https://mhdm.dev/posts/sb_lower_bound/)
+
+[Artificial General Intelligence – A gentle introduction](https://cis.temple.edu/~pwang/AGI-Intro.html)
 
 [Git-appraise – Distributed Code Review for Git](https://github.com/google/git-appraise)
 
-[Firefox desktop extensions coming soon for the upcoming Android release](https://blog.mozilla.org/addons/2023/08/10/prepare-your-firefox-desktop-extension-for-the-upcoming-android-release/)
+[The Life of a Lawyer in the Late Roman Republic](https://www.thecollector.com/life-lawyer-late-roman-republic/)
 
-[Reverse Engineering the Apple Multipeer Connectivity Framework (2022)](https://www.evilsocket.net/2022/10/20/Reverse-Engineering-the-Apple-MultiPeer-Connectivity-Framework/)
-
-[Show HN: Tetris, but the blocks are ARM instructions that execute in the browser](https://ofrak.com/tetris/)
+[Internationalization (i18n) best practices for front-end developers](https://shopify.engineering/internationalization-i18n-best-practices-front-end-developers)
 
 [My Overkill Home Network](https://blog.networkprofile.org/my-home-network-complete-details-2023/)
 
-[eSignature Beta for Google Docs and Google Drive](https://workspaceupdates.googleblog.com/2023/08/esignature-google-docs-google-drive.html)
+[Browsers barely care what HTTP status code your web pages are served with](https://utcc.utoronto.ca/~cks/space/blog/web/BrowsersAndHTTPStatusCodes)
 
-[Pentium floating-point division bug (1994)](https://en.wikipedia.org/wiki/Pentium_FDIV_bug)
+[Why SMTP still matters today](https://resend.com/blog/why-smtp-still-matters-today)
 
-[Source code for Quake 2 rerelease](https://github.com/id-Software/quake2-rerelease-dll)
+[Show HN: Tetris, but the blocks are ARM instructions that execute in the browser](https://ofrak.com/tetris/)
 
-[Websites and APIs on Render are unavailable due to Cloudflare network errors](https://status.render.com/incidents/cshql6qwnldj)
+[Firefox desktop extensions coming soon for the upcoming Android release](https://blog.mozilla.org/addons/2023/08/10/prepare-your-firefox-desktop-extension-for-the-upcoming-android-release/)

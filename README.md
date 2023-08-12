@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[20 Years of Vim](https://www.contextualize.ai/mpereira/20-years-of-vim-ef9acae9)
+[Auditory illusions with examples from Daft Punk](https://www.ugu.rs/blog/auditory-illusions-with-samples-from-daft-punk/)
 
-[tRPC – Build and consume typesafe APIs without schemas or code generation](https://trpc.io/)
+[Exploring the Internals of Linux v0.01](https://seiya.me/blog/reading-linux-v0.01)
 
-[How a startup loses its spark](https://blog.johnqian.com/startup-spark)
+[Tijuana's illegal sewer hookups linked to cross-border pollution](https://www.kpbs.org/news/border-immigration/2023/08/10/tijuanas-illegal-sewer-hookups-linked-to-cross-border-pollution)
 
 [The Carrot Problem](https://www.atvbt.com/the-carrot-problem/)
 
-[I'm OK, the bull is dead (2004)](https://www.computerworld.com/article/2565077/i-m-ok--the-bull-is-dead.html)
+[Deep Learning Systems (CMU Course)](https://dlsyscourse.org/lectures/)
 
-[Sorting in Emacs](https://susam.net/blog/sorting-in-emacs.html)
+[How a startup loses its spark](https://blog.johnqian.com/startup-spark)
 
-[Show HN: Pip Imports in Deno](https://github.com/denosaurs/deno_python)
+[Tracing the roots of the 8086 instruction set to the Datapoint 2200 minicomputer](https://www.righto.com/2023/08/datapoint-to-8086.html)
 
-[Objective-C Internals](https://alwaysprocessing.blog/series/objc-internals)
+[Freshpaint (YC S19) Is Hiring Engineers to Build a HIPAA Compliant Data Platform](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 
-[Record Labels Hit Internet Archive with New $400M+ Copyright Lawsuit](https://torrentfreak.com/record-labels-hit-internet-archive-with-new-400m-copyright-lawsuit-230812/)
+[CLOS: Integrating Object-Oriented and Functional Programming (2004) [pdf]](https://dreamsongs.com/Files/clos-cacm.pdf)
 
-[We need scientific dissidents](https://www.chronicle.com/article/we-need-scientific-dissidents-now-more-than-ever)
+[OP drew these corals with mathematical equations](https://twitter.com/naderi_yeganeh/status/1690296100496838656)

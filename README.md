@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Thermodynamic Linear Algebra](https://arxiv.org/abs/2308.05660)
+[Symmetry in Chaos](http://paulbourke.net/fractals/symmetryinchaos/)
 
-[Cargo Cult Science by Richard P. Feynman (1974) [pdf]](https://calteches.library.caltech.edu/51/2/CargoCult.pdf)
+[Learning produces a hippocampal cognitive map in the form of a state machine](https://www.biorxiv.org/content/10.1101/2023.08.03.551900v2)
+
+[Introduction to the Conjugate Gradient Method Without Agonizing Pain (1994) [pdf]](https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf)
+
+[The Nanohertz Gravitational-Wave Detection Explained](https://physics.aps.org/articles/v16/116)
+
+[Thermodynamic Linear Algebra](https://arxiv.org/abs/2308.05660)
 
 [VirGL – A virtual 3D GPU for use inside QEMU virtual machines](https://docs.mesa3d.org/drivers/virgl)
 
+[Cargo Cult Science by Richard P. Feynman (1974) [pdf]](https://calteches.library.caltech.edu/51/2/CargoCult.pdf)
+
 [NixOS RFC 136 approved: A plan to stabilize the new CLI and Flakes incrementally](https://github.com/NixOS/rfcs/pull/136)
 
-[How to parent more predictably (2018)](https://www.jefftk.com/p/how-to-parent-more-predictably)
+[The CNET Lesson: Content Pruning Is Dumb for News Content, Don’t Do It](https://tedium.co/2023/08/11/content-pruning-news-websites-is-stupid/)
 
-[What Should You Do with an Oil Fortune?](https://www.newyorker.com/magazine/2023/08/14/what-should-you-do-with-an-oil-fortune)
-
-[Can you use a class in C?](https://d4ckard.github.io/2023/08/11/can-you-use-a-class-in-c/)
-
-[Reading Ancient Scrolls](https://caseyhandmer.wordpress.com/2023/08/05/reading-ancient-scrolls/)
-
-[A Blog Post with Every HTML Element](https://www.patrickweaver.net/blog/a-blog-post-with-every-html-element/)
-
-[When the Government Tried to Flood the Grand Canyon](https://daily.jstor.org/when-the-government-tried-to-flood-the-grand-canyon/)
+[Paying consumer debts is basically optional in the United States](https://pluralistic.net/2023/08/12/do-not-pay/)

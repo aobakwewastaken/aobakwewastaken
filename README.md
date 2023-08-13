@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Symmetry in Chaos](http://paulbourke.net/fractals/symmetryinchaos/)
+[Azure ChatGPT: Private and secure ChatGPT for internal enterprise use](https://github.com/microsoft/azurechatgpt)
 
-[Pdftool.org: modify pdfs offline in the browser](https://www.pdftool.org)
+[Show HN: I wrote a RDBMS (SQLite clone) from scratch in pure Python](https://github.com/spandanb/learndb-py)
 
-[You Won’t Believe This One Weird CPU Instruction (2019)](https://vaibhavsagar.com/blog/2019/09/08/popcount/)
+[Toki Pona: an attempted universal language with only ~120 words](https://cohost.org/mcc/post/59045-mi-kama-sona-e-toki)
 
-[Learning produces a hippocampal cognitive map in the form of a state machine](https://www.biorxiv.org/content/10.1101/2023.08.03.551900v2)
+[Dolphin Emulator Progress Report: May, June, and July 2023](https://dolphin-emu.org/blog/2023/08/13/dolphin-progress-report-may-june-and-july-2023/)
 
-[Introduction to the Conjugate Gradient Method Without Agonizing Pain (1994) [pdf]](https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf)
+[ZFSBootMenu](https://docs.zfsbootmenu.org/en/v2.2.x/#)
 
-[I’ll Never Be an Astronaut](https://shaunoconnell.com/2023/08/10/ill-never-be-an-astronaut/)
+[Nothing works, everyone's mad, society is a pile of kindling waiting for a match](https://tarahenley.substack.com/p/weekend-reads-the-rage-against-the)
 
-[The Nanohertz Gravitational-Wave Detection Explained](https://physics.aps.org/articles/v16/116)
+[Downloading a video should be “fair use” as recording a song from the radio](https://mastodon.social/@HalvarFlake/110883667162838296)
 
-[Faculty Are Godzillas](https://medium.com/bits-and-behavior/faculty-are-godzillas-c74e8b7ce9fb)
+[Legions of DEF CON hackers will attack generative AI models](https://venturebeat.com/ai/legions-of-defcon-hackers-will-attack-generative-ai-models/)
 
-[Thermodynamic Linear Algebra](https://arxiv.org/abs/2308.05660)
+[Why the world’s best vanilla is so easy to steal](https://thehustle.co/why-the-worlds-best-vanilla-is-so-easy-to-steal/)
 
-[Paul Brodeur, journalist who exposed asbestos hazards, dies at 92](https://www.washingtonpost.com/obituaries/2023/08/10/paul-brodeur-dead/)
+[Popcount CPU instruction (2019)](https://vaibhavsagar.com/blog/2019/09/08/popcount/)

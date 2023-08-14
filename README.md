@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[I built a garbage collector for a language that doesn’t need one](https://claytonwramsey.github.io/2023/08/14/dumpster.html)
+[Show HN: LLMs can generate valid JSON 100% of the time](https://github.com/normal-computing/outlines)
 
-[Analysis of the data job market using HN job posts](https://emiruz.com/post/2023-08-12-data-jobs/)
+[Java 21: First Release Candidate](https://mail.openjdk.org/pipermail/jdk-dev/2023-August/008059.html)
+
+[JWST spots giant black holes all over the early universe](https://www.quantamagazine.org/jwst-spots-giant-black-holes-all-over-the-early-universe-20230814/)
+
+[Emulating x86 on X64 on Aarch64](https://neugierig.org/software/blog/2023/08/x86-x64-aarch64.html)
 
 [Show HN: Little Rat – Chrome extension monitors network calls of all extensions](https://github.com/dnakov/little-rat)
 
-[Caught by MuseScore's Dark Patterns (2021)](https://gadanidis.ca/posts/2021-11-09-musescore.html)
+[Elixir – Why the dot when calling anonymous functions?](https://dashbit.co/blog/why-the-dot)
 
-[How to run a miserable code review](https://badsoftwareadvice.substack.com/p/how-to-run-a-miserable-code-review)
+[Navigating the timezone nightmare in product development](https://www.getlago.com/blog/time-zone-nightmares)
 
-[The 2002 Überlingen midair collision](https://admiralcloudberg.medium.com/tears-in-the-rain-the-2002-%C3%BCberlingen-midair-collision-591232d0c51e)
+[Does there exist a complete implementation of the Risch algorithm?](https://mathoverflow.net/questions/374089/does-there-exist-a-complete-implementation-of-the-risch-algorithm)
 
-[Nobody ever paid me for code](https://www.bitecode.dev/p/nobody-ever-paid-me-for-code)
+[Show HN: Epsilla – Open-source vector database with low query latency](https://github.com/epsilla-cloud/vectordb)
 
-[Non-Thoughts on the Open Source Initiative](https://yakshav.es/non-thoughts-on-the-osi/)
-
-[Writing about what you learn pushes you to understand topics better](https://addyosmani.com/blog/write-learn/)
-
-[Inside The Decline of Stack Exchange](https://www.thediff.co/archive/inside-the-decline-of-stack-exchange/)
+[I built a garbage collector for a language that doesn’t need one](https://claytonwramsey.github.io/2023/08/14/dumpster.html)

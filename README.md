@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Write about what you learn. It pushes you to understand topics better](https://addyosmani.com/blog/write-learn/)
+[Inside The Decline of Stack Exchange](https://www.thediff.co/archive/inside-the-decline-of-stack-exchange/)
 
-[Launch HN: Serra (YC S23) – Open-source, Python-based dbt alternative]()
+[Analysis of the data job market using HN job posts](https://emiruz.com/post/2023-08-12-data-jobs/)
+
+[How to run a miserable code review](https://badsoftwareadvice.substack.com/p/how-to-run-a-miserable-code-review)
+
+[I built a garbage collector for a language that doesn’t need one](https://claytonwramsey.github.io/2023/08/14/dumpster.html)
+
+[Show HN: Little Rat – Chrome extension monitors network calls of all extensions](https://github.com/dnakov/little-rat)
+
+[The 2002 Überlingen midair collision](https://admiralcloudberg.medium.com/tears-in-the-rain-the-2002-%C3%BCberlingen-midair-collision-591232d0c51e)
+
+[Caught by MuseScore's Dark Patterns](https://gadanidis.ca/posts/2021-11-09-musescore.html)
+
+[Writing about what you learn pushes you to understand topics better](https://addyosmani.com/blog/write-learn/)
+
+[Svix (YC W21) Is Hiring a Founding Account Executive (US Remote)](https://www.svix.com/careers/)
 
 [Nobody ever paid me for code](https://www.bitecode.dev/p/nobody-ever-paid-me-for-code)
-
-[A video game where you are an operating system](https://plbrault.com/blog-posts/i-created-the-nerdierst-game-ever-en/)
-
-[Bypassing YouTube video download throttling](https://blog.0x7d0.dev/history/how-they-bypass-youtube-video-download-throttling/)
-
-[Things Unix can do atomically (2010)](https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html)
-
-[Is Venus in some way tidally locked to Earth? (2020)](https://astronomy.stackexchange.com/questions/36488/is-venus-in-some-way-tidally-locked-to-earth)
-
-[Show HN: Generate a free User Persona in 10 seconds](https://founderpal.ai/user-persona-generator)
-
-[Fediverse and Naive Bayes: The Grandfather of Spam Filters Still Making Waves](https://pixelfed.blog/p/2023/feature/autospam-and-naive-bayes-the-grandfather-of-spam-filters-still-making-waves)
-
-[Testing on production](https://marcochiappetta.medium.com/yes-you-should-test-on-production-61f6dc61908b)

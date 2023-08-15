@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Continuous batching to increase LLM inference throughput and reduce p50 latency](https://www.anyscale.com/blog/continuous-batching-llm-inference)
+
+[Features of Project Loom incorporated in JDK 21](https://jdk.java.net/loom/)
+
 [Show HN: AI-town, run your own custom AI world SIM with JavaScript](https://github.com/a16z-infra/ai-town)
 
 [Show HN: LLMs can generate valid JSON 100% of the time](https://github.com/normal-computing/outlines)
 
-[Lynn Conway's Story (2000)](https://ai.eecs.umich.edu/people/conway/LynnsStory.html)
-
 [OpenFarm – a free and open database and web application for gardening knowledge](https://openfarm.cc)
-
-[Features of Project Loom incorporated in JDK 21](https://jdk.java.net/loom/)
-
-[JWST spots giant black holes all over the early universe](https://www.quantamagazine.org/jwst-spots-giant-black-holes-all-over-the-early-universe-20230814/)
 
 [The unpublished preface to Orwell’s Animal Farm](https://mindmatters.ai/2023/08/a-warning-from-the-unpublished-preface-to-orwells-animal-farm/)
 
-[AST vs. Bytecode: Interpreters in the Age of Meta-Compilation [pdf]](https://stefan-marr.de/downloads/oopsla23-larose-et-al-ast-vs-bytecode-interpreters-in-the-age-of-meta-compilation.pdf)
+[How Fanatics Is Building a Weird Monopoly over Sports Trading Cards](https://www.thebignewsletter.com/p/how-fanatics-is-building-a-weird)
 
-[Ask HN: I learned useless skill of prompt engineering, how relevant will it be?]()
+[Lynn Conway's Story (2000)](https://ai.eecs.umich.edu/people/conway/LynnsStory.html)
 
-[Internet Archive responds to recording industry lawsuit targeting obsolete media](https://blog.archive.org/2023/08/14/internet-archive-responds-to-recording-industry-lawsuit-targeting-obsolete-media/)
+[Clarence Avant Has Died](https://abcnews.go.com/Entertainment/wireStory/clarence-avant-godfather-black-music-benefactor-athletes-politicians-102251912)
+
+[Why Americans Are So Awful to One Another](https://www.theatlantic.com/magazine/archive/2023/09/us-culture-moral-education-formation/674765/)

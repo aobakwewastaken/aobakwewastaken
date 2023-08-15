@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Show HN: AI-town, run your own custom AI world SIM with JavaScript](https://github.com/a16z-infra/ai-town)
+
 [Show HN: LLMs can generate valid JSON 100% of the time](https://github.com/normal-computing/outlines)
 
-[Java 21: First Release Candidate](https://mail.openjdk.org/pipermail/jdk-dev/2023-August/008059.html)
+[Lynn Conway's Story (2000)](https://ai.eecs.umich.edu/people/conway/LynnsStory.html)
+
+[OpenFarm – a free and open database and web application for gardening knowledge](https://openfarm.cc)
+
+[Features of Project Loom incorporated in JDK 21](https://jdk.java.net/loom/)
 
 [JWST spots giant black holes all over the early universe](https://www.quantamagazine.org/jwst-spots-giant-black-holes-all-over-the-early-universe-20230814/)
 
-[Emulating x86 on X64 on Aarch64](https://neugierig.org/software/blog/2023/08/x86-x64-aarch64.html)
+[The unpublished preface to Orwell’s Animal Farm](https://mindmatters.ai/2023/08/a-warning-from-the-unpublished-preface-to-orwells-animal-farm/)
 
-[Show HN: Little Rat – Chrome extension monitors network calls of all extensions](https://github.com/dnakov/little-rat)
+[AST vs. Bytecode: Interpreters in the Age of Meta-Compilation [pdf]](https://stefan-marr.de/downloads/oopsla23-larose-et-al-ast-vs-bytecode-interpreters-in-the-age-of-meta-compilation.pdf)
 
-[Elixir – Why the dot when calling anonymous functions?](https://dashbit.co/blog/why-the-dot)
+[Ask HN: I learned useless skill of prompt engineering, how relevant will it be?]()
 
-[Navigating the timezone nightmare in product development](https://www.getlago.com/blog/time-zone-nightmares)
-
-[Does there exist a complete implementation of the Risch algorithm?](https://mathoverflow.net/questions/374089/does-there-exist-a-complete-implementation-of-the-risch-algorithm)
-
-[Show HN: Epsilla – Open-source vector database with low query latency](https://github.com/epsilla-cloud/vectordb)
-
-[I built a garbage collector for a language that doesn’t need one](https://claytonwramsey.github.io/2023/08/14/dumpster.html)
+[Internet Archive responds to recording industry lawsuit targeting obsolete media](https://blog.archive.org/2023/08/14/internet-archive-responds-to-recording-industry-lawsuit-targeting-obsolete-media/)

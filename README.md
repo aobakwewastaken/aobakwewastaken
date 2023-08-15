@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Things you forgot because of React](https://joshcollinsworth.com/blog/antiquated-react)
+[Firefox finally outperforming Google Chrome in SunSpider](https://www.phoronix.com/news/Firefox-Faster-SunSpider)
 
-[Introducing the Safer: A Better Alternative to Safes for Startup Financing](https://nextwave.partners/insights/introducing-safer-better-alternative-safes-startup-financing)
+[Show HN: Llama2 Embeddings FastAPI Server](https://github.com/Dicklesworthstone/llama_embeddings_fastapi_service)
 
-[GPU-Accelerated LLM on a $100 Orange Pi](https://blog.mlc.ai/2023/08/09/GPU-Accelerated-LLM-on-Orange-Pi)
+[The OpenTF Manifesto](https://opentf.org/)
 
-[Show HN: Visual Reference to CSS Selectors](https://fffuel.co/css-selectors/)
+[Privacy friendly ESP32 smart doorbell with Home Assistant local integration](https://tristam.ie/2023/758/)
 
-[Continuous batching to increase LLM inference throughput and reduce p50 latency](https://www.anyscale.com/blog/continuous-batching-llm-inference)
+[Show HN: Servicer, pm2 alternative built on Rust and systemd](https://servicer.dev)
 
-[Metriport (YC S22) Is Hiring](https://www.ycombinator.com/companies/metriport/jobs/jsOCunE-software-engineer)
+[Why host your own LLM?](http://marble.onl/posts/why_host_your_own_llm.html)
 
-[Show HN: AI-town, run your own custom AI world SIM with JavaScript](https://github.com/a16z-infra/ai-town)
+[Hip hop historians who are racing to preserve its story](https://www.wired.com/story/archiving-hip-hop-history/)
 
-[How Fanatics Is Building a Weird Monopoly over Sports Trading Cards](https://www.thebignewsletter.com/p/how-fanatics-is-building-a-weird)
+[Decimal to fraction](https://leancrew.com/all-this/2023/08/decimal-to-fraction/)
+
+[GPU-Accelerated LLM on an Orange Pi](https://blog.mlc.ai/2023/08/09/GPU-Accelerated-LLM-on-Orange-Pi)
 
 [Features of Project Loom incorporated in JDK 21](https://jdk.java.net/loom/)
-
-[The unpublished preface to Orwell’s Animal Farm](https://mindmatters.ai/2023/08/a-warning-from-the-unpublished-preface-to-orwells-animal-farm/)

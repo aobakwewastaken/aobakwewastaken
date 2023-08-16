@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[LK-99 isn’t a superconductor](https://www.nature.com/articles/d41586-023-02585-7)
+
+[Ts_zip: Text Compression Using Large Language Models](https://bellard.org/ts_server/ts_zip.html)
+
 [Htmx is part of the GitHub Accelerator](https://htmx.org/posts/2023-06-06-htmx-github-accelerator/)
 
-[Spring 6.1 now compatible with virtual threads and JDK 21 overall](https://github.com/spring-projects/spring-framework/wiki/What%27s-New-in-Spring-Framework-6.x)
+[Ubicloud – open, free and portable cloud](https://github.com/ubicloud/ubicloud)
 
-[Math Proof Draws New Boundaries Around Black Hole Formation](https://www.quantamagazine.org/math-proof-draws-new-boundaries-around-black-hole-formation-20230816/)
+[The Mathematics of Training LLMs](https://www.latent.space/p/transformers-math#details)
 
-[The uses and abuses of Cloud Data Warehouses](https://materialize.com/blog/warehouse-abuse/)
+[Theory of interstellar trade (1978) [pdf]](https://www.princeton.edu/~pkrugman/interstellar.pdf)
 
-[Brand-new Linux release, which I'm calling the Debian Linux Release (1993)](https://wiki.debian.org/DebianHistory?action=AttachFile&do=get&target=Debian-announcement-1993.txt)
+[What Learning APL Taught Me About Python](https://mathspp.com/blog/what-learning-apl-taught-me-about-python)
 
-[Energy Jobs Have Increased in Nearly Every County in America](https://www.energy.gov/articles/us-department-energy-finds-energy-jobs-have-increased-nearly-every-county-america)
+[Show HN: LlamaGPT – Self-hosted, offline, private AI chatbot, powered by Llama 2](https://github.com/getumbrel/llama-gpt)
 
-[A protein that disrupts cells’ energy centers may be a culprit in CFS/ME](https://www.science.org/content/article/protein-disrupts-cells-energy-centers-may-be-culprit-chronic-fatigue-syndrome)
+[New calcium material functions as an ammonia synthesis catalyst](https://phys.org/news/2023-08-calcium-material-functions-ammonia-synthesis.html)
 
-[Disney invented two colors (2022)](https://insidethemagic.net/2022/02/disney-go-away-green-lp1/)
-
-[Is this a good book for me, now?](https://maryrosecook.com/blog/post/is-this-a-good-book-for-me-now)
-
-[Today I learned you can pause the Windows Task Manager moving apps around](https://www.theverge.com/2023/8/16/23834125/microsoft-windows-task-manager-pause-shortcut)
+[Exploring the design space of binary search trees](https://rtheunissen.github.io/bst/?)

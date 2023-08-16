@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[How Is LLaMa.cpp Possible?](https://finbarr.ca/how-is-llama-cpp-possible/)
+
+[NetMaker: Connect Everything with a WireGuard VPN](https://www.netmaker.io/)
+
+[How the iMac Saved Apple](https://www.theverge.com/23830432/imac-twenty-five-years-ago-saved-apple)
+
 [Opendream: A layer-based UI for Stable Diffusion](https://github.com/varunshenoy/opendream)
+
+[Modern CSV version 2](https://www.moderncsv.com/modern-csv-2-is-now-available/)
+
+[Putting Down the Pen: Reflecting on Oryx’s Journey](https://www.oryxspioenkop.com/2023/08/putting-down-pen-reflecting-on-oryxs.html)
 
 [How should I read type system notation?](https://langdev.stackexchange.com/questions/2692/how-should-i-read-type-system-notation)
 
-[We reduced the cost of building Mastodon at Twitter-scale by 100x](https://blog.redplanetlabs.com/2023/08/15/how-we-reduced-the-cost-of-building-twitter-at-twitter-scale-by-100x/)
+[Diligere, Equity-Invest Are New Firms of U.K. Con Man](https://krebsonsecurity.com/2023/08/diligere-equity-invest-are-new-firms-of-u-k-con-man/)
 
-[The OpenTF Manifesto](https://opentf.org/)
+[The Bitter Lesson [pdf]](https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf)
 
-[Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html)
-
-[Why Darwin admired the humble earthworm](https://nautil.us/why-darwin-admired-the-humble-earthworm-361515/)
-
-[Requiring ink to scan a document–yet another insult from the printer industry](https://arstechnica.com/gadgets/2023/08/the-printers-that-require-ink-to-scan-and-fax/)
-
-[Selling open-source software](https://thenewstack.io/entrepreneurship-for-engineers-selling-open-source-software/)
-
-[Peter Pan Copyright](https://www.gosh.org/about-us/peter-pan/copyright/)
-
-[ISPs complain that listing every fee is too hard, urge FCC to scrap new rule](https://arstechnica.com/tech-policy/2023/08/isps-complain-that-listing-every-fee-is-too-hard-urge-fcc-to-scrap-new-rule/)
+[Debugging a Futex Crash](https://rustylife.github.io/2023/08/15/futex-crash.html)

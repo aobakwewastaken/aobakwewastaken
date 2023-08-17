@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Asteroid crater 520km in diameter buried in southeast Australia, scientists say](https://www.australiangeographic.com.au/topics/science-environment/2023/08/asteroid-crater-520km-in-diameter-buried-deep-in-southeast-australia-scientists-say/)
+[Ancient fires drove large mammals extinct, study suggests](https://www.nytimes.com/2023/08/17/science/climate-paleontology-mammals.html)
 
-[Retrieving 1TB of data from a bad Seagate Firecuda drive with woodworking tools](https://blog.jgc.org/2023/08/retrieving-1tb-of-data-from-faulty.html)
+[JobCorps.Gov: free job training, food, housing and living allowance](https://www.jobcorps.gov/)
 
-[Show HN: Strich – Barcode scanning for web apps](https://strich.io)
-
-[Older mouse brains rejuvenated by protein found in young blood](https://www.nature.com/articles/d41586-023-02563-z)
+[Bali rice experiment cuts greenhouse gas emissions and increases yields](https://news.mongabay.com/2023/08/bali-rice-experiment-cuts-greenhouse-gas-emissions-and-increases-yields/)
 
 [Turmoil, a framework for developing and testing distributed systems](https://tokio.rs/blog/2023-01-03-announcing-turmoil)
 
-[DIY Espresso (2020)](https://www.fourbardesign.com/2020/10/diy-espresso.html)
+[How to communicate when trust is low without digging yourself into a deeper hole](https://charity.wtf/2023/08/17/how-to-communicate-when-trust-is-low-without-digging-yourself-into-a-deeper-hole/)
 
-[Straightforward Thai Railway Safety Posters](https://www.thaitrainguide.com/2022/06/10/railway-safety-posters/)
+[Retrieving 1TB of data from a faulty drive with the help of woodworking tools](https://blog.jgc.org/2023/08/retrieving-1tb-of-data-from-faulty.html)
 
-[Mullvad Browser](https://blog.torproject.org/releasing-mullvad-browser/)
+[Consensus: Use AI to find insights in research papers](https://consensus.app/)
 
-[Software Engineering Lessons from RCAs of greatest disasters](https://anoopdixith.com/disasters/)
+[Most React components offered by products aren’t usable](https://blog.dopt.com/why-our-components-are-different)
 
-[Dart 3.1 and a retrospective on functional style programming in Dart](https://medium.com/dartlang/dart-3-1-a-retrospective-on-functional-style-programming-in-dart-3-a1f4b3a7cdda)
+[Fuzz testing: the best thing to happen to our application tests](https://questdb.io/blog/fuzz-testing-questdb/)
+
+[RoboAgent: A universal agent with 12 Skills](https://robopen.github.io/)

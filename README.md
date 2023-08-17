@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[LK-99 isn’t a superconductor](https://www.nature.com/articles/d41586-023-02585-7)
+[DIY Espresso (2020)](https://www.fourbardesign.com/2020/10/diy-espresso.html)
 
-[DeepEval – Unit Testing for LLMs](https://github.com/mr-gpt/deepeval)
+[Poland’s ‘anti-vampire’ graves](https://www.atlasobscura.com/articles/anti-vampire-graves-poland)
 
 [A charged battery won't bounce but partially discharged one will (2015) [video]](https://www.youtube.com/watch?v=nwfFBUVxpac)
 
-[NP-hard does not mean hard (2017)](https://jeremykun.com/2017/12/29/np-hard-does-not-mean-hard/)
+[LK-99 isn’t a superconductor](https://www.nature.com/articles/d41586-023-02585-7)
 
-[A search for technosignatures around nearby stars](https://arxiv.org/abs/2308.02712)
-
-[Spinoza: Life and Legacy](https://thecritic.co.uk/issues/august-september-2023/a-brilliant-biography-of-an-elusive-genius/)
+[A world to win: WebAssembly for the rest of us](https://wingolog.org/archives/2023/03/20/a-world-to-win-webassembly-for-the-rest-of-us)
 
 [QR codes appearing in Google street view?](https://nso.group/@haifisch/110901720830132689#.)
 
+[A search for technosignatures around nearby stars](https://arxiv.org/abs/2308.02712)
+
+[Shazam for Singing](https://blog.toasterthoughts.eu/posts/song-solver/)
+
 [New York Times considers legal action against OpenAI as copyright tensions swirl](https://text.npr.org/1194202562)
 
-[Intel QuickAssist Technology Zstandard Plugin for Zstandard](https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Intel-QuickAssist-Technology-Zstandard-Plugin-an-External/post/1509818)
-
-[Ts_zip: Text Compression Using Large Language Models](https://bellard.org/ts_server/ts_zip.html)
+[Spinoza: Life and Legacy](https://thecritic.co.uk/issues/august-september-2023/a-brilliant-biography-of-an-elusive-genius/)

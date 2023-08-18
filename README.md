@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Short session expiration does not help security](https://www.sjoerdlangkemper.nl/2023/08/16/session-timeout/)
-
-[Sargablock: Bricks from Seaweed](https://fortomorrow.org/explore-solutions/sargablock)
-
-[Textual: Rapid Application Development Framework for Python](https://github.com/Textualize/textual)
-
-[Revealed: WHO aspartame safety panel linked to alleged Coca-Cola front group](https://www.theguardian.com/business/2023/aug/17/who-panel-aspartame-diet-coke-guidelines)
-
-[Show HN: A website for remote workers to find Airbnb's with good Internet](https://thewirednomad.com)
+[YC Library](https://www.ycombinator.com/library)
 
 [Ask vs. Guess Culture](https://jeanhsu.substack.com/p/ask-vs-guess-culture)
 
-[Building Muscle in the Lab](https://ethz.ch/en/news-and-events/eth-news/news/2023/08/building-muscle-in-the-lab.html)
+[Short session expiration does not help security](https://www.sjoerdlangkemper.nl/2023/08/16/session-timeout/)
 
-[Deja Vu: The FBI Proves Again It Can’t Be Trusted with Section 702](https://www.eff.org/deeplinks/2023/07/deja-vu-fbi-proves-again-it-cant-be-trusted-section-702)
+[Complexity theory’s 50-year journey to the limits of knowledge](https://www.quantamagazine.org/complexity-theorys-50-year-journey-to-the-limits-of-knowledge-20230817/)
 
-[A 100GW phased laser array for interstellar lightsail propulsion](https://opg.optica.org/josab/viewmedia.cfm?uri=josab-38-5-1477&html=true)
+[Sargablock: Bricks from Seaweed](https://fortomorrow.org/explore-solutions/sargablock)
 
-[Railway Oriented Programming](https://fsharpforfunandprofit.com/rop/)
+[Zaum](https://en.wikipedia.org/wiki/Zaum)
+
+[Textual: Rapid Application Development framework for Python](https://github.com/Textualize/textual)
+
+[Meaningful exits for founders (2016)](https://medium.com/strong-words/meaningful-exits-for-founders-4c3b2baba6b4)
+
+[Emulating the 6502 CPU in C++ (2021) [video]](https://www.youtube.com/watch?v=qJgsuQoy9bc)
+
+[Discourse on Winning and Losing (1989) [pdf]](https://static1.squarespace.com/static/5497331ae4b0148a6141bd47/t/5af842f8758d4615555d3f6d/1526219514965/Patterns+of+Conflict+Transcript.pdf)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[WTF is going on with R7RS Large?](http://dpk.io/r7rswtf)
+[Short session expiration does not help security](https://www.sjoerdlangkemper.nl/2023/08/16/session-timeout/)
+
+[Sargablock: Bricks from Seaweed](https://fortomorrow.org/explore-solutions/sargablock)
+
+[Textual: Rapid Application Development Framework for Python](https://github.com/Textualize/textual)
+
+[Tell HN: Gmail rate limiting emails from AWS SES]()
 
 [Railway Oriented Programming](https://fsharpforfunandprofit.com/rop/)
 
-[StarLite 12.5-inch Linux tablet](https://us.starlabs.systems/pages/starlite)
+[Mister Rogers Had a Point: Routinely Greeting Six Neighbors Maximizes Wellbeing](https://www.goodnewsnetwork.org/mister-rogers-had-a-point-routinely-greeting-six-neighbors-maximizes-wellbeing-outcomes/)
 
-[TypeScript Is Surprisingly OK for Compilers](https://matklad.github.io/2023/08/17/typescript-is-surprisingly-ok-for-compilers.html)
+[Pg_later: Asynchronous Queries for Postgres](https://tembo.io/blog/introducing-pg-later/)
 
-[Career advice for young system programmers](https://glaubercosta-11125.medium.com/career-advice-for-young-system-programmers-c7443f2d3edf)
+[A 100GW phased laser array for interstellar lightsail propulsion](https://opg.optica.org/josab/viewmedia.cfm?uri=josab-38-5-1477&html=true)
 
-[MixRank (YC S11) Is Hiring Global Remote Software Engineers]()
-
-[micro – A Modern Alternative to nano](https://micro-editor.github.io/)
-
-[Fp-go: Functional Programming Library for Golang](https://github.com/IBM/fp-go)
+[Abbrev: A hidden Ruby gem](https://www.akshaykhot.com/ruby-abbrev-module/)
 
 [GIL removal and the Faster CPython project](https://lwn.net/Articles/939981/)
-
-[London Then and Now: Aerial Shots Show City Grow over Past Two Decades](https://londonist.com/london/art-and-photography/aerial-london-then-and-now)

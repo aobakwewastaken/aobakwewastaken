@@ -5,16 +5,16 @@
 
 [Textual: Rapid Application Development Framework for Python](https://github.com/Textualize/textual)
 
-[Tell HN: Gmail rate limiting emails from AWS SES]()
+[Revealed: WHO aspartame safety panel linked to alleged Coca-Cola front group](https://www.theguardian.com/business/2023/aug/17/who-panel-aspartame-diet-coke-guidelines)
 
-[Railway Oriented Programming](https://fsharpforfunandprofit.com/rop/)
+[Show HN: A website for remote workers to find Airbnb's with good Internet](https://thewirednomad.com)
 
-[Mister Rogers Had a Point: Routinely Greeting Six Neighbors Maximizes Wellbeing](https://www.goodnewsnetwork.org/mister-rogers-had-a-point-routinely-greeting-six-neighbors-maximizes-wellbeing-outcomes/)
+[Ask vs. Guess Culture](https://jeanhsu.substack.com/p/ask-vs-guess-culture)
 
-[Pg_later: Asynchronous Queries for Postgres](https://tembo.io/blog/introducing-pg-later/)
+[Building Muscle in the Lab](https://ethz.ch/en/news-and-events/eth-news/news/2023/08/building-muscle-in-the-lab.html)
+
+[Deja Vu: The FBI Proves Again It Can’t Be Trusted with Section 702](https://www.eff.org/deeplinks/2023/07/deja-vu-fbi-proves-again-it-cant-be-trusted-section-702)
 
 [A 100GW phased laser array for interstellar lightsail propulsion](https://opg.optica.org/josab/viewmedia.cfm?uri=josab-38-5-1477&html=true)
 
-[Abbrev: A hidden Ruby gem](https://www.akshaykhot.com/ruby-abbrev-module/)
-
-[GIL removal and the Faster CPython project](https://lwn.net/Articles/939981/)
+[Railway Oriented Programming](https://fsharpforfunandprofit.com/rop/)

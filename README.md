@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Ancient fires drove large mammals extinct, study suggests](https://www.nytimes.com/2023/08/17/science/climate-paleontology-mammals.html)
+[Fp-go: Functional Programming Library for Golang](https://github.com/IBM/fp-go)
 
-[JobCorps.Gov: free job training, food, housing and living allowance](https://www.jobcorps.gov/)
+[TypeScript Is Surprisingly OK for Compilers](https://matklad.github.io/2023/08/17/typescript-is-surprisingly-ok-for-compilers.html)
 
-[Bali rice experiment cuts greenhouse gas emissions and increases yields](https://news.mongabay.com/2023/08/bali-rice-experiment-cuts-greenhouse-gas-emissions-and-increases-yields/)
+[StarLite 12.5-inch Linux tablet](https://us.starlabs.systems/pages/starlite)
 
-[Turmoil, a framework for developing and testing distributed systems](https://tokio.rs/blog/2023-01-03-announcing-turmoil)
+[micro – A Modern Alternative to nano](https://micro-editor.github.io/)
 
-[How to communicate when trust is low without digging yourself into a deeper hole](https://charity.wtf/2023/08/17/how-to-communicate-when-trust-is-low-without-digging-yourself-into-a-deeper-hole/)
+[GIL removal and the Faster CPython project](https://lwn.net/Articles/939981/)
 
-[Retrieving 1TB of data from a faulty drive with the help of woodworking tools](https://blog.jgc.org/2023/08/retrieving-1tb-of-data-from-faulty.html)
+[Railway Oriented Programming](https://fsharpforfunandprofit.com/rop/)
 
-[Consensus: Use AI to find insights in research papers](https://consensus.app/)
+[A new instrument found unusual success](https://www.theguardian.com/music/2023/aug/16/if-stevie-wonder-wants-to-play-it-pay-attention-how-a-bizarre-new-instrument-found-unusual-success)
 
-[Most React components offered by products aren’t usable](https://blog.dopt.com/why-our-components-are-different)
+[China’s property giant Evergrande files for bankruptcy protection in Manhattan](https://www.cnbc.com/2023/08/18/china-property-developer-evergrande-files-for-bankruptcy-protection-in-us.html)
 
-[Fuzz testing: the best thing to happen to our application tests](https://questdb.io/blog/fuzz-testing-questdb/)
+[ProtonMail Complied with 5,957 Data Requests in 2022 – Still Secure and Private?](https://restoreprivacy.com/protonmail-data-requests-user-logs/)
 
-[RoboAgent: A universal agent with 12 Skills](https://robopen.github.io/)
+[FreeBSD Bhyve Virtualization](https://vermaden.wordpress.com/2023/08/18/freebsd-bhyve-virtualization/)

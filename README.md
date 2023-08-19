@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Why old books smell so good](https://scienceswitch.com/2023/08/19/why-do-old-books-smell-so-good/)
+[Clone-a-Lisa](https://vole.wtf/clone-a-lisa/)
+
+[Show HN: Aviation navigation log on $20 receipt printer](https://carloslagoa.com/blog/flipreps/flipreps.html)
+
+[OpenZFS – add disks to existing RAIDZ](https://github.com/openzfs/zfs/pull/15022)
+
+[Show HN: Rivet – Open-source game server management with Nomad and Rust](https://github.com/rivet-gg/rivet)
+
+[Spotify looked to ban white noise podcasts to become more profitable](https://www.bloomberg.com/news/newsletters/2023-08-17/white-noise-podcasters-are-costing-spotify-38-million-a-year)
 
 [Speakers of different languages remember visual scenes differently](https://www.science.org/doi/10.1126/sciadv.adh0064)
 
-[Stable Diffusion in pure C/C++](https://github.com/leejet/stable-diffusion.cpp)
+[Windy.com: global weather website with live filters](https://www.windy.com)
 
-[Show HN: Rivet (YC W23) – Open-Source Game Server Management with Nomad and Rust](https://github.com/rivet-gg/rivet)
+[“How do we pay for parking?”](https://cohost.org/cathoderaydude/post/2521077-hahaha-we-live-in-he)
 
-[The Lost Script of Rapa Nui](https://www.historytoday.com/archive/missing-pieces/lost-script-rapa-nui)
+[Stable Diffusion in C/C++](https://github.com/leejet/stable-diffusion.cpp)
 
-[WD refused to answer our questions about its self-wiping SanDisk SSDs](https://www.theverge.com/23837513/western-digital-sandisk-ssd-corrupted-deleted-questions)
-
-[Show HN: A simple, open-source Notion-like avatar generator](https://www.avatartion.com)
-
-[C# Application Markup Language (Csaml): A Preview (2006)](http://www.charlespetzold.com/etc/CSAML.html)
-
-[Moonbit: Fast, compact and user friendly language for WebAssembly](https://moonbitlang.com/blog/first-announce/)
-
-[Kernighan and Pike were right: Do one thing, and do it well](https://medium.com/source-and-buggy/do-one-thing-and-do-it-well-886b11a5d21)
+[High-Dosage NMN Promotes Ferroptosis to Suppress Lung Adenocarcinoma in Mice](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10177531/)

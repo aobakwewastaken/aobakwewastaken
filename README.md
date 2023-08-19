@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Why old books smell so good](https://scienceswitch.com/2023/08/19/why-do-old-books-smell-so-good/)
+
+[Stable Diffusion in pure C/C++](https://github.com/leejet/stable-diffusion.cpp)
+
+[Show HN: Rivet (YC W23) – Open-Source Game Server Management with Nomad and Rust](https://github.com/rivet-gg/rivet)
+
+[Show HN: A simple, open-source Notion-like avatar generator](https://www.avatartion.com)
+
 [Moonbit: Fast, compact and user friendly language for WebAssembly](https://moonbitlang.com/blog/first-announce/)
 
-[Part-DB: open-source inventory management system for your electronic components](https://github.com/Part-DB/Part-DB-server)
+[The Lost Script of Rapa Nui](https://www.historytoday.com/archive/missing-pieces/lost-script-rapa-nui)
 
-[New motherboard improves old CRT television](https://hackaday.com/2023/08/16/new-motherboard-improves-old-crt-television/)
+[AI-Generated Art Lacks Copyright Protection, D.C. Court Says](https://news.bloomberglaw.com/ip-law/ai-generated-art-lacks-copyright-protection-d-c-court-rules)
 
-[Joys and pains of insects](https://www.scientificamerican.com/article/do-insects-feel-joy-and-pain/)
-
-[How to Roman Republic 101, Part IIIb: Imperium](https://acoup.blog/2023/08/18/collections-how-to-roman-republic-101-part-iiib-imperium/)
-
-[2009scape](https://2009scape.org/)
-
-[Important CIA Contributions to Modern Technology](https://www.cia.gov/stories/story/cia-contributions-to-modern-technology-75-years/)
+[WD refused to answer our questions about its self-wiping SanDisk SSDs](https://www.theverge.com/23837513/western-digital-sandisk-ssd-corrupted-deleted-questions)
 
 [Kernighan and Pike were right: Do one thing, and do it well](https://medium.com/source-and-buggy/do-one-thing-and-do-it-well-886b11a5d21)
 
-[My Kushy New Job (2010)](https://www.gq.com/story/wells-tower-on-marijuana)
-
-[The Floppy Disk (2011)](https://www.ibm.com/ibm/history/ibm100/us/en/icons/floppy/)
+[Tesla repossessed my car due to an extreme oversight on their end](https://old.reddit.com/r/RealTesla/comments/15u8wuv/tesla_repossessed_my_car_due_to_an_extreme/)

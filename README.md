@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[YC Library](https://www.ycombinator.com/library)
+[Moonbit: Fast, compact and user friendly language for WebAssembly](https://moonbitlang.com/blog/first-announce/)
 
-[Ask vs. Guess Culture](https://jeanhsu.substack.com/p/ask-vs-guess-culture)
+[New motherboard improves old CRT television](https://hackaday.com/2023/08/16/new-motherboard-improves-old-crt-television/)
 
-[Short session expiration does not help security](https://www.sjoerdlangkemper.nl/2023/08/16/session-timeout/)
+[How to Roman Republic 101, Part IIIb: Imperium](https://acoup.blog/2023/08/18/collections-how-to-roman-republic-101-part-iiib-imperium/)
+
+[2009scape](https://2009scape.org/)
+
+[Ask HN: Why did Microsoft, Meta, and PayPal update their ToS today?]()
+
+[PlayHT (YC W23) Is Hiring Senior ML Engineer (Large Language Models)](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
+
+[Kernighan and Pike were right: Do one thing, and do it well](https://medium.com/source-and-buggy/do-one-thing-and-do-it-well-886b11a5d21)
 
 [Complexity theory’s 50-year journey to the limits of knowledge](https://www.quantamagazine.org/complexity-theorys-50-year-journey-to-the-limits-of-knowledge-20230817/)
 
-[Sargablock: Bricks from Seaweed](https://fortomorrow.org/explore-solutions/sargablock)
+[Metazooa](https://metazooa.com/game)
 
-[Zaum](https://en.wikipedia.org/wiki/Zaum)
-
-[Textual: Rapid Application Development framework for Python](https://github.com/Textualize/textual)
-
-[Meaningful exits for founders (2016)](https://medium.com/strong-words/meaningful-exits-for-founders-4c3b2baba6b4)
-
-[Emulating the 6502 CPU in C++ (2021) [video]](https://www.youtube.com/watch?v=qJgsuQoy9bc)
-
-[Discourse on Winning and Losing (1989) [pdf]](https://static1.squarespace.com/static/5497331ae4b0148a6141bd47/t/5af842f8758d4615555d3f6d/1526219514965/Patterns+of+Conflict+Transcript.pdf)
+[Cyberattack shutters major NSF-funded telescopes for more than 2 weeks](https://www.science.org/content/article/cyberattack-shutters-major-nsf-funded-telescopes-more-2-weeks)

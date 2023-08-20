@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Kris Nova passed away](https://nivenly.org/blog/2023/08/19/an-announcement-regarding-kris-n%C3%B3va/)
+[Jazz² Resurrection: Open-source Jazz Jackrabbit 2 reimplementation](http://deat.tk/jazz2/)
 
-[Shouldn't distant objects appear magnified](https://astronomy.stackexchange.com/questions/54499/shouldnt-very-very-distant-objects-appear-magnified)
+[The Mystery of an Abandoned Cabinet Full of Kodachrome Slides in San Francisco](https://petapixel.com/2023/08/16/the-mystery-of-an-abandoned-cabinet-full-of-kodachrome-slides-in-san-francisco/)
 
-[The ReMarkable Streaming Tool v2: Elevating Remote Work Efficiency](https://blog.owulveryck.info/2023/07/25/evolving-the-game-a-clientless-streaming-tool-for-remarkable-2.html)
+[So you want to learn physics (2021)](https://www.susanrigetti.com/physics)
 
-[GCC always assumes aligned pointer accesses](https://trust-in-soft.com/blog/2020/04/06/gcc-always-assumes-aligned-pointer-accesses/)
+[Shouldn't distant objects appear magnified?](https://astronomy.stackexchange.com/questions/54499/shouldnt-very-very-distant-objects-appear-magnified)
 
-[Electrical detection of RNA cancer biomarkers at the single-molecule level](https://medicalxpress.com/news/2023-08-electrical-rna-cancer-biomarkers-single-molecule.html)
+[Heat your house with a mechanical windmill](https://solar.lowtechmagazine.com/2019/02/heat-your-house-with-a-mechanical-windmill/)
 
-[Infrequently Asked Questions in Comp.lang.c (1999)](https://www.seebs.net/faqs/c-iaq.html)
+[Run a macOS VM on Apple Silicon from a double-click with Vimy](https://eclecticlight.co/2023/08/17/run-a-macos-vm-on-apple-silicon-from-a-double-click-with-vimy/)
 
-[Using lei, b4, and mutt to do kernel development](https://josefbacik.github.io/kernel/2021/10/18/lei-and-b4.html)
+[This Can't Go On (2021)](https://www.cold-takes.com/this-cant-go-on/)
 
-[The Stick of Jan Sloot](https://www.spronck.net/sloot.html)
+[Judge who signed Kansas newspaper search warrant had 2 DUI arrests, reports say](https://www.npr.org/2023/08/17/1194392001/judge-who-signed-kansas-newspaper-search-warrant-had-2-dui-arrests-reports-say)
 
-[The Pattern Language of Project Xanadu](https://maggieappleton.com/xanadu-patterns)
+[Vector databases: analyzing the trade-offs](https://thedataquarry.com/posts/vector-db-4/)
 
-[All of Physics in 9 Lines](https://www.motionmountain.net/9lines.html)
+[Two men die in Ironman Cork competition in Ireland](https://www.espn.com/olympics/story/_/id/38228423/two-men-die-ironman-cork-competition-ireland)

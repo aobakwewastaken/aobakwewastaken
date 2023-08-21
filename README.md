@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[GNU Parallel, where have you been all my life?](https://alexplescan.com/posts/2023/08/20/gnu-parallel/)
+[Don't Fire Your Illustrator](https://sambleckley.com/writing/dont-fire-your-illustrator.html)
 
-[Study: Inflammation drives social media use](https://www.buffalo.edu/news/releases/2023/08/lee-inflammation-drives-social-media-use.html)
+[The ideal viewport doesn't exist](https://viewports.fyi/)
 
-[Duo Outage](https://status.duo.com)
-
-[All of the vehicle license plates available in America](https://www.beautifulpublicdata.com/all-of-the-license-plates-in-the-united-states/)
+[Why bumblebees love cats and other beautiful relationships (2021)](https://longreads.com/2021/03/23/nation-of-plants-excerpt-stefano-mancuso/)
 
 [Taos Operating System (1995)](http://www.uruk.org/emu/Taos.html)
 
-[Why Bumblebees Love Cats and Other Beautiful Relationships (2021)](https://longreads.com/2021/03/23/nation-of-plants-excerpt-stefano-mancuso/)
+[Study: Inflammation drives social media use](https://www.buffalo.edu/news/releases/2023/08/lee-inflammation-drives-social-media-use.html)
 
-[The Ideal Viewport Doesn't Exist](https://viewports.fyi/)
+[What Are FD&C Dyes and Lakes (and How Do They Differ)?](https://www.madmicas.com/pages/what-are-fd-c-dyes-and-lakes-and-how-do-they-differ)
 
-[Flatpak Is Not the Future](https://ludocode.com/blog/flatpak-is-not-the-future)
+[Flatpak is not the future (2021)](https://ludocode.com/blog/flatpak-is-not-the-future)
 
 [Anxious brains redirect emotion regulation](https://www.nature.com/articles/s41467-023-40666-3)
 
-[12,000-year-old sequins hint at a shared culture in Indonesian islands](https://cosmosmagazine.com/history/archaeology/12000-year-old-sequins-hint-at-a-shared-culture-in-indonesian-islands/)
+[FreeBSD replaces bubblesort with mergesort on SYSINTs](https://twitter.com/cperciva/status/1693127769901969772)
+
+[Kansas Bureau of Investigation takes lead following police raid of newspaper](https://www.kansascity.com/news/politics-government/article278253028.html)

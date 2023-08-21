@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Don't Fire Your Illustrator](https://sambleckley.com/writing/dont-fire-your-illustrator.html)
+[uBlock Origin Lite now available on Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin-lite/)
 
-[The ideal viewport doesn't exist](https://viewports.fyi/)
+[Google Pixel Binary Transparency: verifiable security for Pixel devices](https://security.googleblog.com/2023/08/pixel-binary-transparency-verifiable.html)
 
-[Why bumblebees love cats and other beautiful relationships (2021)](https://longreads.com/2021/03/23/nation-of-plants-excerpt-stefano-mancuso/)
+[Saving Lives](https://www.folklore.org/StoryView.py?story=Saving_Lives.txt)
 
-[Taos Operating System (1995)](http://www.uruk.org/emu/Taos.html)
+[Show HN: Just intonation keyboard – play music without knowing music](https://ad8e.pages.dev/keyboard)
 
-[Study: Inflammation drives social media use](https://www.buffalo.edu/news/releases/2023/08/lee-inflammation-drives-social-media-use.html)
+[P2panda: P2P protocol for secure, energy-efficient local-first web applications](https://p2panda.org/)
 
-[What Are FD&C Dyes and Lakes (and How Do They Differ)?](https://www.madmicas.com/pages/what-are-fd-c-dyes-and-lakes-and-how-do-they-differ)
+[A retiring consultant’s advice on consultants](https://www.economist.com/business/2023/08/17/a-retiring-consultants-advice-on-consultants)
 
-[Flatpak is not the future (2021)](https://ludocode.com/blog/flatpak-is-not-the-future)
+[Show HN: VisionScript, abstract programming language for computer vision](https://github.com/capjamesg/visionscript)
 
-[Anxious brains redirect emotion regulation](https://www.nature.com/articles/s41467-023-40666-3)
+[SolarPi experiment 2: Finally something that works](http://blog.rfox.eu/en/Hardware/SolarPi_experiment_2_Finally_something_that_works.html)
 
-[FreeBSD replaces bubblesort with mergesort on SYSINTs](https://twitter.com/cperciva/status/1693127769901969772)
+[Early Days of AI](https://blog.eladgil.com/p/early-days-of-ai)
 
-[Kansas Bureau of Investigation takes lead following police raid of newspaper](https://www.kansascity.com/news/politics-government/article278253028.html)
+[Educational Codebases](https://buttondown.email/hillelwayne/archive/educational-codebases/)

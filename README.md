@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Inkscape possible domain compromise (2022)](https://discourse.nixos.org/t/inkscape-possible-domain-compromise/32008)
-
-[Close to the Machine: Technophilia and its discontents](https://manu.zone/books/close-to-the-machine/)
+[The first conformant M1 GPU driver](https://rosenzweig.io/blog/first-conformant-m1-gpu-driver.html)
 
 [Switching from Chrome to Firefox? Here Are Some Tips](https://frunc.de/how-to/chrome-to-firefox-tips/)
 
-[Northvolt raises $1.2B convertible note from BlackRock](https://sifted.eu/articles/northvolt-1-2bn-convertible-blackrock-news)
+[How scientists are bringing advanced meditation out of the monastery](https://www.vox.com/future-perfect/23836358/meditation-mindfulness-enlightenment-science-contemplative-buddhism-spirituality)
+
+[Prettymapp – Create beautiful maps from OpenStreetMap data in a streamlit webapp](https://github.com/chrieke/prettymapp)
+
+[Close to the Machine: Technophilia and its discontents](https://manu.zone/books/close-to-the-machine/)
+
+[Show HN: FlakeHub – Discover and publish Nix flakes](https://flakehub.com/)
 
 [Architecture diagrams enable better conversations](https://www.unravelled.dev/how-architecture-diagrams-enable-better-conversations/)
 
-[Why KPIs are destroying businesses](https://blog.promaton.com/how-to-avoid-kpi-psychosis-in-your-organization-5ffc83967f2b?gi=aaf774f21dbb)
+[The Secret Weapon Hackers Can Use to Dox Nearly Anyone in America for $15](https://www.404media.co/the-secret-weapon-hackers-can-use-to-dox-nearly-anyone-in-america-for-15-tlo-usinfosearch-transunion/)
+
+[Northvolt raises $1.2B convertible note from BlackRock](https://sifted.eu/articles/northvolt-1-2bn-convertible-blackrock-news)
 
 [Kullback–Leibler Divergence](https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence)
-
-[Microsoft is bringing Python to Excel](https://www.theverge.com/2023/8/22/23841167/microsoft-excel-python-integration-support)
-
-[Simple PowerShell things allowing you to dig a bit deeper than usual](https://github.com/gtworek/PSBits)
-
-[Hand Coded SLisp](https://github.com/0x3444ac53/HCSL)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Arm Announces Public Filing for Proposed Initial Public Offering](https://www.arm.com/company/news/2023/08/arm-announces-public-filing-of-registration-statement-for-proposed-initial-public-offering)
+
+[I walked across Luxembourg](https://blog.ioces.com/matt/posts/i-walked-across-luxembourg/)
+
+[Darling Progress Report Q2 2023](https://blog.darlinghq.org/2023/08/21/progress-report-q2-2023/)
+
 [Learn AutoHotKey by stealing my scripts](https://www.hillelwayne.com/post/ahk-scripts-project/)
 
-[I Walked Across Luxembourg – A Hike from the West to the East of the Grand Duchy](https://blog.ioces.com/matt/posts/i-walked-across-luxembourg/)
+[Stolen from Apple](https://www.folklore.org/StoryView.py?project=Macintosh&story=Stolen_From_Apple.txt&sortOrder=Sort+by+Comments)
+
+[Electrolyzer efficiently converts CO2 into renewable propane fuel](https://scienceswitch.com/2023/08/22/revolutionary-electrolyzer-efficiently-converts-co2-into-renewable-propane-fuel/)
 
 [STM32 family grows to microprocessor/Linux level with STM32MP1](https://www.st.com/en/microcontrollers-microprocessors/stm32mp1-series.html)
 
-[Revolutionary Electrolyzer Efficiently Converts CO2 into Renewable Propane Fuel](https://scienceswitch.com/2023/08/22/revolutionary-electrolyzer-efficiently-converts-co2-into-renewable-propane-fuel/)
+[Unlocking Discord Nitro features for free](https://blog.0x7d0.dev/history/unlocking-discord-nitro-features-for-free/)
 
-[Unlocking Discord Nitro Features for Free](https://blog.0x7d0.dev/history/unlocking-discord-nitro-features-for-free/)
-
-[Impermanence](https://nixos.wiki/wiki/Impermanence)
-
-[The broad set of computer science problems faced at cloud database companies](https://davidgomes.com/the-broad-set-of-computer-science-problems-faced-at-cloud-database-companies/)
+[The Lack of Self-Deception](https://evidenceanecdotal.blogspot.com/2023/08/the-lack-of-self-deception.html)
 
 [Compuserve](https://www.compuserve.com/)
-
-[uBlock Origin Lite now available on Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin-lite/)
-
-[Pixel Binary Transparency: verifiable security for Pixel devices](https://security.googleblog.com/2023/08/pixel-binary-transparency-verifiable.html)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Live telecast of Chandrayaan-3 Soft-landing](https://www.isro.gov.in/LIVE_telecast_of_Soft_landing.html)
+[Chandrayaan-3 Soft-landing [video]](https://www.isro.gov.in/LIVE_telecast_of_Soft_landing.html)
 
-[Server-Side Rendering Is a Thiel Truth (2020)](https://www.timr.co/server-side-rendering-is-a-thiel-truth/)
+[My favorite prime number generator](https://eli.thegreenplace.net/2023/my-favorite-prime-number-generator/)
 
-[macOS 13.5 no longer allows setting system wide ulimits](https://developer.apple.com/forums/thread/735798)
+[Collection of stand-alone Python machine learning recipes (2021)](https://github.com/rougier/ML-Recipes)
 
-[Modern Computer Architecture and Organization - Second Edition (2022)](https://www.packtpub.com/product/modern-computer-architecture-and-organization-second-edition/9781803234519)
+[Choosing the Right Rust Web Framework: An Overview](https://www.shuttle.rs/blog/2023/08/23/rust-web-framework-comparison)
 
-[Ask HN: Where to find open source house plans?]()
+[Show HN: Fast vector similarity using Rust and Python](https://github.com/Dicklesworthstone/fast_vector_similarity)
+
+[PSA: Add dir=“auto” to your inputs and textareas](https://mough.xyz/312/psa-add-dir-auto-to-your-inputs-and-textareas)
+
+[Cash payments above €3000 to be outlawed in Netherlands](https://www.rijksoverheid.nl/onderwerpen/geldzaken/vraag-en-antwoord/grote-aankopen-met-contant-geld)
+
+[Visualizing the mysterious: Quantum entanglement photons captured in real-time](https://phys.org/news/2023-08-visualizing-mysterious-quantum-entanglement-photons.amp)
 
 [Zrepl – ZFS replication](https://zrepl.github.io/)
 
-[The World's Oldest Photograph (2022)](https://www.artandobject.com/news/what-you-might-not-know-about-worlds-oldest-photograph)
-
-[Enhance Rust errors with file and line details](https://crates.io/crates/wherr)
-
-[The first conformant M1 GPU driver](https://rosenzweig.io/blog/first-conformant-m1-gpu-driver.html)
-
-[Skiff – Privacy-first end-to-end encrypted email](https://skiff.com)
+[MacWhisper: Transcribe audio files on your Mac](https://goodsnooze.gumroad.com/l/macwhisper)

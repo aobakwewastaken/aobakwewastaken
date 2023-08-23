@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Permutation Iteration and Random Access](https://blog.demofox.org/2023/08/22/permutation-iteration-and-random-access/)
+[Modern Computer Architecture and Organization - Second Edition (2022)](https://www.packtpub.com/product/modern-computer-architecture-and-organization-second-edition/9781803234519)
 
-[Eye scans detect signs of Parkinson’s disease up to seven years before diagnosis](https://www.moorfields.nhs.uk/news/eye-scans-detect-signs-parkinson-s-disease-seven-years-diagnosis)
+[Zrepl – ZFS replication](https://zrepl.github.io/)
+
+[A complete guide to building a hand-wired keyboard (2020)](https://www.crackedthecode.co/a-complete-guide-to-building-a-hand-wired-keyboard/)
+
+[Enhance Rust errors with file and line details](https://crates.io/crates/wherr)
 
 [The first conformant M1 GPU driver](https://rosenzweig.io/blog/first-conformant-m1-gpu-driver.html)
 
-[Frog Galvanoscope](https://en.wikipedia.org/wiki/Frog_galvanoscope)
+[Skiff – Privacy-first end-to-end encrypted email](https://skiff.com)
+
+[Permutation iteration and random access](https://blog.demofox.org/2023/08/22/permutation-iteration-and-random-access/)
 
 [Writing a Package Manager](https://antonz.org/writing-package-manager/)
 
-[Mastering Emacs](https://www.masteringemacs.org/)
+[Eye scans detect signs of Parkinson’s disease up to seven years before diagnosis](https://www.moorfields.nhs.uk/news/eye-scans-detect-signs-parkinson-s-disease-seven-years-diagnosis)
 
-[How to Solve It (1945)](https://www.math.utah.edu/~alfeld/math/polya.html)
-
-[I only lost 10 minutes of data, thanks to ZFS](https://mastodon.social/@chromakode/110936177254839251)
-
-[Hogfish ‘See’ with Their Skin, Even When They’re Dead](https://www.nytimes.com/2023/08/22/science/hogfish-skin-camouflage-dead.html)
-
-[PostgreSQL Lock Conflicts](https://pglocks.org/)
+[Unit Tests Are Overrated: Rethinking Testing Strategies](https://thenewstack.io/unit-tests-are-overrated-rethinking-testing-strategies/)

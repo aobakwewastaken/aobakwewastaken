@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Permutation Iteration and Random Access](https://blog.demofox.org/2023/08/22/permutation-iteration-and-random-access/)
+
+[Eye scans detect signs of Parkinson’s disease up to seven years before diagnosis](https://www.moorfields.nhs.uk/news/eye-scans-detect-signs-parkinson-s-disease-seven-years-diagnosis)
+
 [The first conformant M1 GPU driver](https://rosenzweig.io/blog/first-conformant-m1-gpu-driver.html)
 
-[GPT-3.5 Turbo fine-tuning and API updates](https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates)
+[Frog Galvanoscope](https://en.wikipedia.org/wiki/Frog_galvanoscope)
 
-[Godly – Astronomically good web design inspiration](https://godly.website/)
+[Writing a Package Manager](https://antonz.org/writing-package-manager/)
 
-[Your brain on emoji](https://nautil.us/your-🧠-on-emoji-365823/)
+[Mastering Emacs](https://www.masteringemacs.org/)
 
-[Phone.wtf](https://phone.wtf/)
+[How to Solve It (1945)](https://www.math.utah.edu/~alfeld/math/polya.html)
 
-[Structured logging with slog](https://go.dev/blog/slog)
+[I only lost 10 minutes of data, thanks to ZFS](https://mastodon.social/@chromakode/110936177254839251)
 
-[G. Polya, How to Solve It](https://www.math.utah.edu/~alfeld/math/polya.html)
+[Hogfish ‘See’ with Their Skin, Even When They’re Dead](https://www.nytimes.com/2023/08/22/science/hogfish-skin-camouflage-dead.html)
 
-[Prettymapp – Create maps from OpenStreetMap data in a Streamlit webapp](https://github.com/chrieke/prettymapp)
-
-[Asyncio, twisted, tornado, gevent walk into a bar](https://www.bitecode.dev/p/asyncio-twisted-tornado-gevent-walk)
-
-[Transactions in a Microservice World](https://wso2.com/whitepapers/transactions-in-a-microservice-world/)
+[PostgreSQL Lock Conflicts](https://pglocks.org/)

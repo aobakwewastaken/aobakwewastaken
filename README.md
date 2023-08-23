@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Live telecast of Chandrayaan-3 Soft-landing](https://www.isro.gov.in/LIVE_telecast_of_Soft_landing.html)
+
+[Server-Side Rendering Is a Thiel Truth (2020)](https://www.timr.co/server-side-rendering-is-a-thiel-truth/)
+
+[macOS 13.5 no longer allows setting system wide ulimits](https://developer.apple.com/forums/thread/735798)
+
 [Modern Computer Architecture and Organization - Second Edition (2022)](https://www.packtpub.com/product/modern-computer-architecture-and-organization-second-edition/9781803234519)
+
+[Ask HN: Where to find open source house plans?]()
 
 [Zrepl – ZFS replication](https://zrepl.github.io/)
 
-[A complete guide to building a hand-wired keyboard (2020)](https://www.crackedthecode.co/a-complete-guide-to-building-a-hand-wired-keyboard/)
+[The World's Oldest Photograph (2022)](https://www.artandobject.com/news/what-you-might-not-know-about-worlds-oldest-photograph)
 
 [Enhance Rust errors with file and line details](https://crates.io/crates/wherr)
 
 [The first conformant M1 GPU driver](https://rosenzweig.io/blog/first-conformant-m1-gpu-driver.html)
 
 [Skiff – Privacy-first end-to-end encrypted email](https://skiff.com)
-
-[Permutation iteration and random access](https://blog.demofox.org/2023/08/22/permutation-iteration-and-random-access/)
-
-[Writing a Package Manager](https://antonz.org/writing-package-manager/)
-
-[Eye scans detect signs of Parkinson’s disease up to seven years before diagnosis](https://www.moorfields.nhs.uk/news/eye-scans-detect-signs-parkinson-s-disease-seven-years-diagnosis)
-
-[Unit Tests Are Overrated: Rethinking Testing Strategies](https://thenewstack.io/unit-tests-are-overrated-rethinking-testing-strategies/)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [OpenTF Announces Fork of Terraform](https://opentf.org/announcement)
 
+[Web scraping for me, but not for thee](https://blog.ericgoldman.org/archives/2023/08/web-scraping-for-me-but-not-for-thee-guest-blog-post.htm)
+
+[The EU's war on behavioral advertising](https://thisisunpacked.substack.com/p/the-eu-war-on-behavioral-advertising)
+
+[HelloSystem: A graphical OS built on FreeBSD](https://hellosystem.github.io/docs/)
+
+[Slime Molds [video]](https://www.youtube.com/watch?v=gpt9cJrEZ_Y)
+
+[I cycled to all the villages in alphabetical order](https://diziet.dreamwidth.org/16260.html)
+
+[Research group detects a quantum entanglement wave for the first time](https://www.aalto.fi/en/news/research-group-detects-a-quantum-entanglement-wave-for-the-first-time-using-real-space-measurements)
+
+[Show HN: Release AI – Talk to Your Infrastructure]()
+
+[Email Authentication: A Developer's Guide](https://resend.com/blog/email-authentication-a-developers-guide)
+
 [Factorio: Space Age](https://factorio.com/blog/post/fff-373)
-
-[Meta Throttles 404Media Investigation on Drug Ads, Continues to Advertise Drugs](https://www.404media.co/instagram-throttles-404-media-investigation-into-drug-ads-on-instagram-continues-to-let-people-advertise-drugs/)
-
-[Unpacking Elixir: Concurrency](https://underjord.io/unpacking-elixir-concurrency.html)
-
-[The complete sequence of a human Y chromosome](https://www.nature.com/articles/s41586-023-06457-y)
-
-[Finetuning of Falcon-7B LLM Using QLoRA on Mental Health Conversational Dataset](https://github.com/iamarunbrahma/finetuned-qlora-falcon7b-medical)
-
-[Making NetBSD Multiboot-Compatible (2007)](https://jmmv.dev/2007/03/making-netbsd-multiboot-compatible.html)
-
-[How do domain-specific chatbots work? A retrieval augmented generation overview](https://scriv.ai/guides/retrieval-augmented-generation-overview/)
-
-[Stable Linux mainline builds for Ubuntu](https://stgraber.org/2023/08/24/stable-linux-mainline-builds/)
-
-[Winner’s Curse: Negotiation Mistakes to Avoid](https://www.pon.harvard.edu/daily/business-negotiations/how-to-avoid-the-winners-curse/)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[The WordPress 100 Year Plan](https://wordpress.com/100-year/)
-
-[Beating GPT-4 on HumanEval with a fine-tuned CodeLlama-34B](https://www.phind.com/blog/code-llama-beats-gpt4)
-
-[Deep Neural Nets: 33 years ago and 33 years from now (2022)](http://karpathy.github.io/2022/03/14/lecun1989/)
+[E-ink is so Retropunk](https://rmkit.dev/eink-is-so-retropunk/)
 
 [Clean mount lists in Linux](https://dbohdan.com/clean-mount-lists)
 
-[Giving up the iPad-only travel dream](https://sixcolors.com/post/2023/08/why-i-gave-up-on-the-ipad-only-dream/)
+[NES Emulator in Common Lisp (2016)](https://github.com/samanthadoran/potential-disco)
 
-[Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+[Beating GPT-4 on HumanEval with a fine-tuned CodeLlama-34B](https://www.phind.com/blog/code-llama-beats-gpt4)
 
-[Austin company unveils humanoid robot](https://www.kxan.com/news/local/austin/austin-company-unveils-humanoid-robot/)
+[Fish – A friendly interactive shell](https://github.com/fish-shell/fish-shell)
 
-[NES Emulator in Common Lisp](https://github.com/samanthadoran/potential-disco)
+[STM32MP2: ST’s first Linux capable 64-bit MPU with NPU, GPU and TSN](https://blog.st.com/stm32mp2/)
 
-[OpenTF announces fork of Terraform](https://opentf.org/announcement)
+[How to Search on Encrypted Data (2013)](https://esl.cs.brown.edu/blog/how-to-search-on-encrypted-data-introduction-part-1/)
 
 [Universal Design Guide Playbook](https://universaldesignguide.com/)
+
+[This venture-backed startup has quietly bought more than 80 mom-and-pop shops](https://techcrunch.com/2023/08/24/this-venture-backed-startup-has-quietly-bought-more-than-80-mom-and-pop-shops/)
+
+[Deep Neural Nets: 33 years ago and 33 years from now (2022)](http://karpathy.github.io/2022/03/14/lecun1989/)

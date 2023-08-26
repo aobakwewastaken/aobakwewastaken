@@ -3,18 +3,18 @@
 
 [Deep Neural Nets: 33 years ago and 33 years from now (2022)](http://karpathy.github.io/2022/03/14/lecun1989/)
 
-[Web scraping for me, but not for thee](https://blog.ericgoldman.org/archives/2023/08/web-scraping-for-me-but-not-for-thee-guest-blog-post.htm)
-
 [Giving up the iPad-only travel dream](https://sixcolors.com/post/2023/08/why-i-gave-up-on-the-ipad-only-dream/)
-
-[Companies That Union-Bust Must Now Automatically Recognize Union, NLRB Rules](https://www.vice.com/en/article/dy3xej/companies-that-union-bust-must-now-automatically-recognize-union-nlrb-rules)
-
-[Gym Class VR (YC W22) Is Hiring – Unity Animator and Programmer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-animator-programmer-vr-unity)
-
-[Packaging software is something that takes work](https://utcc.utoronto.ca/~cks/space/blog/linux/PackagingTakesWork)
 
 [OpenTF announces fork of Terraform](https://opentf.org/announcement)
 
-[The EU's war on behavioral advertising](https://thisisunpacked.substack.com/p/the-eu-war-on-behavioral-advertising)
+[Programming as Theory Building (1985) [pdf]](https://algoritmos-iii.github.io/assets/bibliografia/programming-as-theory-building.pdf)
 
-[Interpretable Graph Neural Networks for Tabular Data](https://arxiv.org/abs/2308.08945)
+[A study of research on the psychology of expertise in weather forecasting](https://mitpress.mit.edu/9780262548816/minding-the-weather/)
+
+[FFmpeg Explorer](https://ffmpeg.lav.io)
+
+[Prof. Robert Boice's Rules of the Road for Writers](https://home.uchicago.edu/~rfulton/Tips.htm)
+
+[Interpretable graph neural networks for tabular data](https://arxiv.org/abs/2308.08945)
+
+[A Dive into the Legacy of BSD Unix](https://medium.com/@marvelsmarket7/title-unraveling-the-origins-of-influential-1980s-networking-software-a-dive-into-the-legacy-of-cb6a2b2f198)

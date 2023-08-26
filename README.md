@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Gojekyll – 20x faster Go port of jekyll](https://github.com/osteele/gojekyll)
+
 [E-ink is so Retropunk](https://rmkit.dev/eink-is-so-retropunk/)
 
-[Apple Pay Later: What Are the Crazy Ones Up To?](https://www.softwareplatform.net/2023/04/16/apple-pay-later-what-are-the-crazy-ones-up-to/)
+[Historic algorithms help unlock shortest-path problem breakthrough](https://cacm.acm.org/news/275684-historic-algorithms-help-unlock-shortest-path-problem-breakthrough/fulltext)
 
-[Clean mount lists in Linux](https://dbohdan.com/clean-mount-lists)
+[Slack’s migration to a cellular architecture](https://slack.engineering/slacks-migration-to-a-cellular-architecture/)
 
-[Beating GPT-4 on HumanEval with a fine-tuned CodeLlama-34B](https://www.phind.com/blog/code-llama-beats-gpt4)
+[Introducing Coalton to lispers without a background in ML-like languages](https://gist.github.com/digikar99/b76964faf17b3a86739c001dc1b14a39)
 
-[NES Emulator in Common Lisp (2016)](https://github.com/samanthadoran/potential-disco)
+[Modernizing compiler design for Carbon's toolchain [video]](https://www.youtube.com/watch?v=ZI198eFghJk)
 
-[STM32MP2: ST’s first Linux capable 64-bit MPU with NPU, GPU and TSN](https://blog.st.com/stm32mp2/)
+[Datapen.io – A Curation of Free Data Science Resources](https://www.datapen.io/)
 
-[How to Search on Encrypted Data (2013)](https://esl.cs.brown.edu/blog/how-to-search-on-encrypted-data-introduction-part-1/)
+[Freshpaint (YC S19) Is Hiring Engineers to Build a HIPAA Compliant Data Platform](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 
-[Exxon Knew about Climate Change Almost 40 Years Ago](https://www.scientificamerican.com/article/exxon-knew-about-climate-change-almost-40-years-ago/)
+[Attention didn’t collapse. It was stolen (2022)](https://www.theguardian.com/science/2022/jan/02/attention-span-focus-screens-apps-smartphones-social-media)
 
-[Let Maintainers Be Maintainers](https://graydon2.dreamwidth.org/306832.html)
-
-[This venture-backed startup has quietly bought more than 80 mom-and-pop shops](https://techcrunch.com/2023/08/24/this-venture-backed-startup-has-quietly-bought-more-than-80-mom-and-pop-shops/)
+[n8n.io - A powerful workflow automation tool](https://n8n.io)

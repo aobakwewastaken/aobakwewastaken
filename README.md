@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Scientists find way to wipe a cell's memory to reprogram it as a stem cell](https://www.uwa.edu.au/news/Article/2023/August/Scientists-find-way-to-wipe-a-cells-memory-to-reprogram-it-as-a-stem-cell)
+[Learn GNU Awk with hundreds of examples and exercises](https://learnbyexample.github.io/learn_gnuawk/awk-introduction.html)
 
-[PMET: Precise Model Editing in a Transformer](https://arxiv.org/abs/2308.08742)
+[A new method to reprogram human cells to better mimic embryonic stem cells](https://www.uwa.edu.au/news/Article/2023/August/Scientists-find-way-to-wipe-a-cells-memory-to-reprogram-it-as-a-stem-cell)
 
-[Seven Sins of Writing](https://www.hamilton.edu/academics/centers/writing/seven-sins-of-writing)
+[That Old NetBSD Server, Running Since 2010](https://it-notes.dragas.net/2023/08/27/that-old-netbsd-server-running-since-2010/)
 
-[Some of the error messages produced by Apple's MPW C compiler (2006)](https://www.cs.cmu.edu/~jasonh/personal/humor/compile.html)
+[A study on robustness and reliability of large language model code generation](https://arxiv.org/abs/2308.10335)
 
-[Python Type Hints – *args and **kwargs (2021)](https://adamj.eu/tech/2021/05/11/python-type-hints-args-and-kwargs/)
+[Writing Linux Modules in Ada (2016)](http://www.nihamkin.com/2016/10/23/writing-linux-modules-in-ada-part-1/#writing-linux-modules-in-ada-part-1)
 
-[Kraftwerk issued their own pocket calculator synthesizer (2019)](https://www.openculture.com/2019/06/when-kraftwerk-issued-their-own-pocket-calculator-synthesizer.html)
+[‘Homer and His Iliad’ by Robin Lane Fox Review](https://www.historytoday.com/archive/review/homer-and-his-iliad-robin-lane-fox-review)
 
-[Overthewire.org](https://overthewire.org/wargames/)
+[Netbirdio/netbird: Connect devices into a single private WireGuard mesh network](https://github.com/netbirdio/netbird)
 
-[Meticulous (YC S21) Is Hiring #3 Engineer to build future of software]()
+[111,111.1 meters is reliably 1 degree of latitude](https://gis.stackexchange.com/a/2964/5599)
 
-[Japan's abandoned villages](https://www.japantimes.co.jp/news/2023/08/18/japan/society/exploring-the-eerie-beauty-of-japans-abandoned-villages/)
+[Running WASI binaries from your HTML using Web Components](https://runno.dev/articles/wasi-web-component)
 
-[Earning the privilege to work on unoriginal problems](https://landmines.substack.com/p/earning-the-privilege-to-work-on)
+[Inmos and the Transputer – Parallel Ventures](https://thechipletter.substack.com/p/inmos-and-the-transputer-part-1-parallel)

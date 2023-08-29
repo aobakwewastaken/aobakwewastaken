@@ -7,14 +7,14 @@
 
 [Grave flaws in BGP Error handling](https://blog.benjojo.co.uk/post/bgp-path-attributes-grave-error-handling)
 
-[DevToys – A Swiss army knife for developers](https://bartwullems.blogspot.com/2023/08/devtoysa-swiss-army-knife-for-developers.html)
-
-[Extreme poverty: How far have we come, and how far do we still have to go?](https://ourworldindata.org/extreme-poverty-in-brief)
-
 [C.R. Rao: A Life in Statistics (2020)](https://bhavana.org.in/c-r-rao-a-life-in-statistics/)
 
-[StarCitizen Server Meshing Architecture](https://sc-server-meshing.info/wiki)
+[Observability in WebAssembly](https://dev.dylibso.com/docs/observe/overview/)
+
+[I don’t buy “duplication is cheaper than the wrong abstraction” (2021)](https://www.codewithjason.com/duplication-cheaper-wrong-abstraction/)
+
+[Duet AI for Google Workspace Now Available](https://workspace.google.com/blog/product-announcements/duet-ai-in-workspace-now-available)
 
 [Neutrons prove ‘Bond villain’ did not cause Arecibo telescope collapse](https://www.ornl.gov/news/neutrons-prove-bond-villain-did-not-cause-arecibo-telescope-collapse)
 
-[Observability in WebAssembly](https://dev.dylibso.com/docs/observe/overview/)
+[Simplifying GPU Application Development with HMM](https://developer.nvidia.com/blog/simplifying-gpu-application-development-with-heterogeneous-memory-management/)

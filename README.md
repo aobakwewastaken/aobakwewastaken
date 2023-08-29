@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Griffin - A fully-regulated, API-driven bank, with Clojure](https://www.juxt.pro/blog/clojure-in-griffin/)
+
+[How far can you jump from a swing?](https://www.alexmolas.com/2023/08/18/how-far-can-you-jump.html)
+
 [Keystroke timing obfuscation added to ssh(1)](https://undeadly.org/cgi?action=article;sid=20230829051257)
 
-[Accessible Palette: stop using HSL for color systems](https://wildbit.com/blog/accessible-palette-stop-using-hsl-for-color-systems)
+[DOS/4GW made Windows 95 game compatibility easier, but with higher stakes](https://devblogs.microsoft.com/oldnewthing/20230829-00/?p=108661)
 
-[Analysis of Obfuscation Techniques Found in Apple FairPlay](https://nicolo.dev/en/blog/fairplay-apple-obfuscation/)
+[Webstudio: Open-source WYSIWYG adds Radix UI elements](https://webstudio.is/radix)
 
-[Grave flaws in BGP Error handling](https://blog.benjojo.co.uk/post/bgp-path-attributes-grave-error-handling)
+[MapReduce, TensorFlow, Vertex: Google's bet to avoid repeating history in AI](https://www.supervised.news/p/mapreduce-tensorflow-bard-also-hello)
 
-[C.R. Rao: A Life in Statistics (2020)](https://bhavana.org.in/c-r-rao-a-life-in-statistics/)
+[Drumscript: A simple MIDI drum machine scripting language](https://github.com/tepreece/drumscript)
 
-[Observability in WebAssembly](https://dev.dylibso.com/docs/observe/overview/)
+[MagicEdit: High-fidelity temporally coherent video editing](https://magic-edit.github.io/)
 
-[I don’t buy “duplication is cheaper than the wrong abstraction” (2021)](https://www.codewithjason.com/duplication-cheaper-wrong-abstraction/)
+[A cheap radio hack disrupted Poland's railway system](https://www.wired.com/story/poland-train-radio-stop-attack/)
 
-[Duet AI for Google Workspace Now Available](https://workspace.google.com/blog/product-announcements/duet-ai-in-workspace-now-available)
-
-[Neutrons prove ‘Bond villain’ did not cause Arecibo telescope collapse](https://www.ornl.gov/news/neutrons-prove-bond-villain-did-not-cause-arecibo-telescope-collapse)
-
-[Simplifying GPU Application Development with HMM](https://developer.nvidia.com/blog/simplifying-gpu-application-development-with-heterogeneous-memory-management/)
+[The first observation of neutrinos at CERN's Large Hadron Collider](https://phys.org/news/2023-08-neutrinos-cern-large-hadron-collider.html)

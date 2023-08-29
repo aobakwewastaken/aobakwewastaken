@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[A note to young folks: download the things you love](https://birchtree.me/blog/a-note-to-young-folks-download-the-videos-you-love/)
+[Elixir Saves Pinterest $2M a Year in Server Costs](https://paraxial.io/blog/elixir-savings)
 
 [Alexandria: A minimalistic cross-platform eBook reader](https://github.com/btpf/Alexandria)
 
-[Compiling Rust for .NET, using only tea and stubbornness](https://fractalfir.github.io/generated_html/rustc_codegen_clr_v0_0_1.html)
+[Abandoned and Little-Known Airfields](http://www.airfields-freeman.com/)
 
-[ChatGPT Enterprise](https://openai.com/blog/introducing-chatgpt-enterprise)
+[Visualization of Common Algorithms](https://visualgo.net/en)
+
+[Unix sockets, Cygwin, SSH agents, and sadness](https://mjg59.dreamwidth.org/67402.html)
+
+[Announcing the Pollen API](https://cloud.google.com/blog/products/maps-platform/announcing-pollen-api-providing-actionable-info-about-airborne-pollen-levels-worldwide)
+
+[The Interim Computer Museum](https://icm.museum)
+
+[Practical parsing with Flex and Bison (2021)](https://begriffs.com/posts/2021-11-28-practical-parsing.html)
 
 [Loose lips save sunken ships](https://hakaimagazine.com/features/loose-lips-save-sunken-ships/)
 
-[Parallel garbage collection for SBCL [pdf]](https://applied-langua.ge/~hayley/swcl-gc.pdf)
-
-[Serial adapter/reboot controller for Apple M1/M2](https://www.tindie.com/products/aaafnraa/serial-adapter-reboot-controller-for-apple-m1m2/)
-
-[The Heart of W. Edwards Deming](https://hagakure.substack.com/p/the-hagakure-64-the-heart-of-w-edwards)
-
-[Explore the Genealogy of Timepieces](https://watchsage.uc.r.appspot.com/)
-
-[Reaching the Unix philosophy's logical extreme with WebAssembly](https://xeiaso.net/talks/unix-philosophy-logical-extreme-wasm)
+[Multics Simulator](https://multicians.org/simulator.html)

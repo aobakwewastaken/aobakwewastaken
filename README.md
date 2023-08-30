@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Why do shared hospital rooms not violate HIPAA?](https://law.stackexchange.com/questions/28878/how-is-it-legal-for-a-hospital-to-put-two-patients-together-in-the-same-room-in)
+
+[Show HN: I automated 1/2 of my typing](https://github.com/eschluntz/compress)
+
 [A DIY ‘bionic pancreas’ is changing diabetes care](https://www.nature.com/articles/d41586-023-02648-9)
 
-[The Surprising Impact of Medium-Size Texts on PostgreSQL Performance (2020)](https://hakibenita.com/sql-medium-text-performance)
+[Designing Deep Networks to Process Other Deep Networks](https://developer.nvidia.com/blog/designing-deep-networks-to-process-other-deep-networks/)
 
-[New Map APIs from Google](https://latlong.blog/2023/08/new-map-apis-from-google.html)
+[Keeping Figma Fast: perf-testing the WASM editor](https://www.figma.com/blog/keeping-figma-fast/)
 
-[n Guilty Men (1997)](https://www2.law.ucla.edu/volokh/guilty.htm)
-
-[OSM River Basins](https://amandasaurus.github.io/osm-river-basins/#map=2/0/0)
-
-[Decoupling isn't phoney – The global trading system is starting to rearrange](https://www.noahpinion.blog/p/decoupling-isnt-phoney)
-
-[DIY ESP32 based chicken coop door. Control based on time, light or via app](https://github.com/ESP32-COOP/ESP32-COOP-DOC)
-
-[Hundreds of thousands trafficked to work as online scammers in SE Asia, says UN](https://www.ohchr.org/en/press-releases/2023/08/hundreds-thousands-trafficked-work-online-scammers-se-asia-says-un-report)
-
-[Understanding Llama 2 and the New Code Llama LLMs](https://magazine.sebastianraschka.com/p/ahead-of-ai-11-new-foundation-models)
+[Photogrammetry on Commercial Flights (2021)](https://leifgehrmann.com/2021/09/05/photogrammetry-on-a-plane/)
 
 [Hacking the LG Monitor's EDID](https://gist.github.com/kj800x/be3001c07c49fdb36970633b0bc6defb)
+
+[Mux (YC W16) is hiring a Sr Platform Engineer to work on video infra at scale](https://www.mux.com/jobs?j=srplatform)
+
+[High-Speed AI Drone Overtakes World-Champion Drone Racers](https://www.news.uzh.ch/en/articles/media/2023/Drone-race.html)
+
+[How to get transactions between almost any data stores](https://petereliaskraft.net/blog/epoxy)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Griffin - A fully-regulated, API-driven bank, with Clojure](https://www.juxt.pro/blog/clojure-in-griffin/)
+[Intel shows 8 core 528 thread processor with silicon photonics](https://www.servethehome.com/intel-shows-8-core-528-thread-processor-with-silicon-photonics/)
 
-[How far can you jump from a swing?](https://www.alexmolas.com/2023/08/18/how-far-can-you-jump.html)
+[ISPs should not police online speech no matter how awful it is](https://www.eff.org/deeplinks/2023/08/isps-should-not-police-online-speech-no-matter-how-awful-it)
 
-[Keystroke timing obfuscation added to ssh(1)](https://undeadly.org/cgi?action=article;sid=20230829051257)
+[Fomos: Experimental OS, built with Rust](https://github.com/Ruddle/Fomos)
 
-[DOS/4GW made Windows 95 game compatibility easier, but with higher stakes](https://devblogs.microsoft.com/oldnewthing/20230829-00/?p=108661)
+[Discovery of spherules of likely extrasolar composition in the Pacific Ocean [pdf]](https://lweb.cfa.harvard.edu/~loeb/Interstellar_Expedition.pdf)
 
-[Webstudio: Open-source WYSIWYG adds Radix UI elements](https://webstudio.is/radix)
+[Bad Apple Font](https://blog.erk.dev/posts/anifont/)
 
-[MapReduce, TensorFlow, Vertex: Google's bet to avoid repeating history in AI](https://www.supervised.news/p/mapreduce-tensorflow-bard-also-hello)
+[SigNoz (YC W21, Open source Observability tool) hiring DevRel engineers (remote)](https://signoz.io/careers/devrel-engineer-in/)
 
-[Drumscript: A simple MIDI drum machine scripting language](https://github.com/tepreece/drumscript)
+[Meta AI releases CoTracker, a model for tracking any points (pixels) on a video](https://co-tracker.github.io/)
 
-[MagicEdit: High-fidelity temporally coherent video editing](https://magic-edit.github.io/)
+[Griffin – A fully-regulated, API-driven bank, with Clojure](https://www.juxt.pro/blog/clojure-in-griffin/)
 
-[A cheap radio hack disrupted Poland's railway system](https://www.wired.com/story/poland-train-radio-stop-attack/)
+[Authentication on meet.jit.si](https://jitsi.org/blog/authentication-on-meet-jit-si/)
 
-[The first observation of neutrinos at CERN's Large Hadron Collider](https://phys.org/news/2023-08-neutrinos-cern-large-hadron-collider.html)
+[Applying SRE Principles to CI/CD](https://buildkite.com/blog/applying-sre-principles-to-cicd)

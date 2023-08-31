@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[New antifungal therapy for fungal meningitis](https://med.umn.edu/news/u-m-research-team-successfully-tests-new-antifungal-therapy-fungal-meningitis)
+
+[Ghostfolio: Open-Source Wealth Management Software](https://ghostfol.io)
+
 [RyujinX – Open Source Nintendo Switch Emulator](https://ryujinx.org/)
 
 [UTM – Virtual Machines for iOS and macOS](https://github.com/utmapp/UTM)
 
 [Absurd Success](https://www.marginalia.nu/log/87_absurd_success/)
 
+[Shell abandons its plan to offset CO2 emissions](https://www.bloomberg.com/news/features/2023-08-31/shell-silently-abandoned-its-100-million-a-year-plan-to-offset-co2-emissions)
+
+[Usenet, the OG social network, rises again like a text-only phoenix](https://www.theregister.com/2023/08/30/usenet_revival/)
+
 [Youtube2Webpage: Create Websites with Text from Videos](https://github.com/obra/Youtube2Webpage)
 
-[Film Review: BlackBerry](https://anarchonomicon.substack.com/p/review-blackberry)
+[IBM promised to back off facial recognition, then signed a $70M contract for it](https://www.theverge.com/2023/8/31/23852955/ibm-uk-government-contract-biometric-facial-recognition)
 
-[Firezone (YC W22) is hiring Rust engineers to build secure networks](https://www.ycombinator.com/companies/firezone)
-
-[Ask HN: How to handle Asian-style “Family name first” when designing interfaces?]()
-
-[Show HN: 99% cheaper international business transfers – fixed fee, real rate](https://atlantic.money/gb/en/business)
-
-[Swedish cities hit by four residential explosions in an hour](https://www.theguardian.com/world/2023/aug/31/bomb-experts-called-in-after-swedish-cities-see-four-explosions-in-just-over-an-hour)
-
-[Cheetah: A Lightweight Virtual Machine Manager for macOS](https://macspot.net/)
+[Chandrayaan-3 Confirms Presence of Sulfur and Other Elements on Lunar South Pole](https://scienceswitch.com/2023/08/31/isros-chandrayaan-3-confirms-presence-of-sulfur-and-other-elements-on-lunar-south-pole/)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[New antifungal therapy for fungal meningitis](https://med.umn.edu/news/u-m-research-team-successfully-tests-new-antifungal-therapy-fungal-meningitis)
+[CT scans of coffee-making equipment](https://www.scanofthemonth.com/scans/coffee)
+
+[Human ancestors nearly went extinct 900k years ago](https://www.nature.com/articles/d41586-023-02712-4)
+
+[Teaching with AI](https://openai.com/blog/teaching-with-ai)
+
+[RFC 3339 vs. ISO 8601](https://ijmacd.github.io/rfc3339-iso8601/)
 
 [Ghostfolio: Open-source wealth management software](https://ghostfol.io)
 
-[X wants permission to start collecting your bio data and employment history](https://www.theverge.com/2023/8/31/23853618/x-privacy-policy-update-biometrics-job-history)
+[Mathematical proof is a social compact](https://www.quantamagazine.org/why-mathematical-proof-is-a-social-compact-20230831/)
 
-[RyujinX – Open Source Nintendo Switch Emulator](https://ryujinx.org/)
+[Rare oxygen isotope detected](https://www.nature.com/articles/d41586-023-02713-3)
 
-[IBM promised to back off facial recognition, then signed a $70M contract for it](https://www.theverge.com/2023/8/31/23852955/ibm-uk-government-contract-biometric-facial-recognition)
+[Etleap (YC W13) Is Hiring a Software Engineer (London – OR – San Francisco)](https://etleap.com/careers/software-engineer/)
 
-[UTM – Virtual Machines for iOS and macOS](https://github.com/utmapp/UTM)
+[Fine-tuning GPT-3.5-turbo for natural language to SQL](https://medium.com/dataherald/fine-tuning-gpt-3-5-turbo-for-natural-language-to-sql-4445c1d37f7c)
 
-[Absurd Success](https://www.marginalia.nu/log/87_absurd_success/)
-
-[South Korea extends natural population fall as fertility rate falls to 0.7](https://www.koreatimes.co.kr/www/nation/2023/08/113_358114.html)
-
-[Usenet, the OG social network, rises again like a text-only phoenix](https://www.theregister.com/2023/08/30/usenet_revival/)
-
-[Youtube2Webpage: Create Websites with Text from Videos](https://github.com/obra/Youtube2Webpage)
+[New antifungal therapy for fungal meningitis](https://med.umn.edu/news/u-m-research-team-successfully-tests-new-antifungal-therapy-fungal-meningitis)

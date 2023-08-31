@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Why do shared hospital rooms not violate HIPAA?](https://law.stackexchange.com/questions/28878/how-is-it-legal-for-a-hospital-to-put-two-patients-together-in-the-same-room-in)
+[RyujinX – Open Source Nintendo Switch Emulator](https://ryujinx.org/)
 
-[Show HN: I automated 1/2 of my typing](https://github.com/eschluntz/compress)
+[Money Is Pouring into AI. Skeptics Say It’s a ‘Grift Shift.’](https://www.institutionalinvestor.com/article/2c4fad0w6irk838pca3gg/portfolio/money-is-pouring-into-ai-skeptics-say-its-a-grift-shift)
 
-[A DIY ‘bionic pancreas’ is changing diabetes care](https://www.nature.com/articles/d41586-023-02648-9)
+[Absurd Success](https://www.marginalia.nu/log/87_absurd_success/)
 
-[Designing Deep Networks to Process Other Deep Networks](https://developer.nvidia.com/blog/designing-deep-networks-to-process-other-deep-networks/)
+[Show HN: I automated half of my typing](https://github.com/eschluntz/compress)
 
-[Keeping Figma Fast: perf-testing the WASM editor](https://www.figma.com/blog/keeping-figma-fast/)
+[Hidden 3D](https://hidden-3d.com/)
 
-[Photogrammetry on Commercial Flights (2021)](https://leifgehrmann.com/2021/09/05/photogrammetry-on-a-plane/)
+[Ask HN: How to handle Asian-style “Family name first” when designing interfaces?]()
 
-[Hacking the LG Monitor's EDID](https://gist.github.com/kj800x/be3001c07c49fdb36970633b0bc6defb)
-
-[Mux (YC W16) is hiring a Sr Platform Engineer to work on video infra at scale](https://www.mux.com/jobs?j=srplatform)
+[The Case for Nushell](https://www.jntrnr.com/case-for-nushell/)
 
 [High-Speed AI Drone Overtakes World-Champion Drone Racers](https://www.news.uzh.ch/en/articles/media/2023/Drone-race.html)
 
-[How to get transactions between almost any data stores](https://petereliaskraft.net/blog/epoxy)
+[Photogrammetry on commercial flights (2021)](https://leifgehrmann.com/2021/09/05/photogrammetry-on-a-plane/)
+
+[Keeping Figma Fast: perf-testing the WASM editor](https://www.figma.com/blog/keeping-figma-fast/)

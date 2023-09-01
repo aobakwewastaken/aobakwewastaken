@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[X updates Terms to allow it to use data for AI training](https://stackdiary.com/x-can-now-use-posts-for-ai-training-as-per-terms-of-service/)
+[Doug Lenat has died](https://garymarcus.substack.com/p/doug-lenat-1950-2023)
+
+[Wikipedia search-by-vibes through millions of pages offline](https://www.leebutterman.com/2023/06/01/offline-realtime-embedding-search.html)
+
+[Wavacity – a FOSS port of Audacity to the web](https://wavacity.com/)
+
+[Ask HN: Who is hiring? (September 2023)]()
+
+[Space travel via tether between asteroids](https://blog.cerowrt.org/post/toutatis/)
+
+[Shining a light on the digital dark age](https://longnow.org/ideas/shining-a-light-on-the-digital-dark-age/)
+
+[Ventana’s Unconventional Veyron V1](https://chipsandcheese.com/2023/09/01/hot-chips-2023-ventanas-unconventional-veyron-v1/)
+
+[Bright (YC W15) Is Hiring](https://www.careersatbright.com/jobs-2/bright-frontend-engineer)
 
 [Mashing Enter to bypass full disk encryption with TPM, Clevis dracut and systemd](https://pulsesecurity.co.nz/advisories/tpm-luks-bypass)
 
 [A deep dive into Single Pair Ethernet](https://electricui.com/blog/spe-sensor-node)
-
-[Organic Maps](https://organicmaps.app/)
-
-[Can Programming Languages Boost Each Other via Instruction Tuning? Yes](https://arxiv.org/abs/2308.16824)
-
-[Why Is .US Being Used to Phish So Many of Us?](https://krebsonsecurity.com/2023/09/why-is-us-being-used-to-phish-so-many-of-us/)
-
-[U.S. Department of Defense Launches All-Domain Anomaly Resolution Office Website](https://www.defense.gov/News/Releases/Release/Article/3513171/the-department-of-defense-launches-the-all-domain-anomaly-resolution-office-web/)
-
-[Nostr: A Decentralized Messaging Protocol](https://hivemind.vc/nostr/)
-
-[Ask HN: Freelancer? Seeking freelancer? (September 2023)]()
-
-[How the FBI took down the Qakbot botnet](https://techcrunch.com/2023/09/01/fbi-qakbot-takedown-operation-duck-hunt/)

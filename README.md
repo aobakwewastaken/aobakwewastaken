@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[FYI: The problem of creeping commercial surveillance](https://elnion.com/2022/02/07/the-problem-of-creeping-commercial-surveillance/)
+[X updates Terms to allow it to use data for AI training](https://stackdiary.com/x-can-now-use-posts-for-ai-training-as-per-terms-of-service/)
 
-[Farewell EC2-Classic, it’s been swell](https://www.allthingsdistributed.com/2023/09/farewell-ec2-classic.html)
-
-[Organic Maps](https://organicmaps.app/)
+[Mashing Enter to bypass full disk encryption with TPM, Clevis dracut and systemd](https://pulsesecurity.co.nz/advisories/tpm-luks-bypass)
 
 [A deep dive into Single Pair Ethernet](https://electricui.com/blog/spe-sensor-node)
 
-[AI Model Weight Providers Should Not Police Uses, No Matter How Awful They Are](http://marble.onl/posts/model_censorship.html)
+[Organic Maps](https://organicmaps.app/)
 
-[The Janus System: Multi-Paradigm Programming in Prolog and Python](https://arxiv.org/abs/2308.15893)
+[Can Programming Languages Boost Each Other via Instruction Tuning? Yes](https://arxiv.org/abs/2308.16824)
 
-[Animated Knots](https://www.animatedknots.com/)
+[Why Is .US Being Used to Phish So Many of Us?](https://krebsonsecurity.com/2023/09/why-is-us-being-used-to-phish-so-many-of-us/)
 
-[Lidl Product Recall [pdf]](https://www.lidl.co.uk/static/assets/Paw_Patrol_Public_Recall_poster-500790.pdf)
+[U.S. Department of Defense Launches All-Domain Anomaly Resolution Office Website](https://www.defense.gov/News/Releases/Release/Article/3513171/the-department-of-defense-launches-the-all-domain-anomaly-resolution-office-web/)
 
-[ChangeDetection, monitor any website change](https://github.com/dgtlmoon/changedetection.io)
+[Nostr: A Decentralized Messaging Protocol](https://hivemind.vc/nostr/)
 
-[Cool Science Tricks (2005)](https://daveroot.neocities.org/sciencetricks/)
+[Ask HN: Freelancer? Seeking freelancer? (September 2023)]()
+
+[How the FBI took down the Qakbot botnet](https://techcrunch.com/2023/09/01/fbi-qakbot-takedown-operation-duck-hunt/)

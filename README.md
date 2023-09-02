@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[The Worst Programmer](https://dannorth.net/2023/09/02/the-worst-programmer/)
+[The worst programmer I know](https://dannorth.net/2023/09/02/the-worst-programmer/)
 
-[Semantic Zoom](https://alexanderobenauer.com/labnotes/038/)
+[Calibre Replacement Considerations (2019)](https://anarc.at/software/desktop/calibre/)
 
-[On Craft](https://www.drcathicks.com/post/on-craft)
+[Recursively Summarizing Enables Long-Term Dialogue Memory in LLMs](https://arxiv.org/abs/2308.15022)
 
-[Can an Artificial Kidney Finally Free Patients from Dialysis?](https://www.ucsf.edu/news/2023/08/426056/can-artificial-kidney-finally-free-patients-dialysis)
+[Build Your Own Flight Sim in C++ (1996)](https://archive.org/details/build-your-own-flight-sim-in-c-dos-game-dev-michael-radtke-chris-lampton)
 
-[The Making of EP Thompson](https://www.newstatesman.com/culture/history/2023/08/making-ep-thompson)
+[Found in a Library Book](https://oaklandlibrary.org/found-in-a-library-book/)
 
-[The Mystery of the Bloomfield Bridge](https://tylervigen.com/the-mystery-of-the-bloomfield-bridge)
+[Intel shows off 8-core, 528-thread processor with 1TB/s of co-packaged optics](https://www.theregister.com/2023/09/01/intel_graph_analytics_chip/)
 
-[A GPT-4 capability forecasting challenge](https://nicholas.carlini.com/writing/llm-forecast/question/Capital-of-Paris)
+[Show HN: I mirrored all the code from PyPI to GitHub and analysed it](https://py-code.org/stats)
 
-[Tesla, Rivian Put on Fake Show of Support for ‘Right to Repair’](https://www.techdirt.com/2023/09/01/tesla-rivian-put-on-fake-show-of-support-for-right-to-repair/)
+[MindsDB (YC W20) Is Hiring a Senior Front End Engineer](https://www.ycombinator.com/companies/mindsdb/jobs/wnUfBhO-senior-frontend-engineer)
 
-[Spirituality of Science: Implications for Meaning, Well-Being, and Learning](https://journals.sagepub.com/doi/10.1177/01461672231191356)
+[Show HN: Shaq, a CLI for Shazam](https://blog.yossarian.net/2023/07/27/Introducing-shaq-a-CLI-for-shazam)
 
-[Show HN: XRss: An RSS Reader and web stack demo powered by Htmx](https://xrss.infogulch.com/)
+[Can an artificial kidney finally free patients from dialysis?](https://www.ucsf.edu/news/2023/08/426056/can-artificial-kidney-finally-free-patients-dialysis)

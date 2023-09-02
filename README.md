@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Wavacity – a FOSS port of Audacity to the web](https://wavacity.com/)
+
+[WAPO: Fatal Force DB](https://github.com/washingtonpost/data-police-shootings)
+
 [Doug Lenat has died](https://garymarcus.substack.com/p/doug-lenat-1950-2023)
 
 [Wikipedia search-by-vibes through millions of pages offline](https://www.leebutterman.com/2023/06/01/offline-realtime-embedding-search.html)
 
-[Wavacity – a FOSS port of Audacity to the web](https://wavacity.com/)
+[How to edit your own lousy writing (2017)](https://stingingfly.org/2017/10/24/edit-lousy-writing/)
 
-[Ask HN: Who is hiring? (September 2023)]()
+[PlayHT (YC W23) Is Hiring Senior ML Engineers (LLMs, Generative AI)](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
 
-[Space travel via tether between asteroids](https://blog.cerowrt.org/post/toutatis/)
+[Is the ChatGPT and Bing AI boom already over?](https://www.vox.com/technology/2023/8/19/23837705/openai-chatgpt-microsoft-bing-google-generating-less-interest)
+
+[Doing laundry on campus without a phone](https://naveenarun.wordpress.com/2023/08/31/doing-laundry-on-campus-without-a-phone/)
 
 [Shining a light on the digital dark age](https://longnow.org/ideas/shining-a-light-on-the-digital-dark-age/)
 
-[Ventana’s Unconventional Veyron V1](https://chipsandcheese.com/2023/09/01/hot-chips-2023-ventanas-unconventional-veyron-v1/)
-
-[Bright (YC W15) Is Hiring](https://www.careersatbright.com/jobs-2/bright-frontend-engineer)
-
-[Mashing Enter to bypass full disk encryption with TPM, Clevis dracut and systemd](https://pulsesecurity.co.nz/advisories/tpm-luks-bypass)
-
-[A deep dive into Single Pair Ethernet](https://electricui.com/blog/spe-sensor-node)
+[Csound](https://csound.com/get-started.html)

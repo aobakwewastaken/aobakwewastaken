@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Wavacity – a FOSS port of Audacity to the web](https://wavacity.com/)
+[Semantic Zoom](https://alexanderobenauer.com/labnotes/038/)
 
-[The Mystery of the Bloomfield Bridge](https://tylervigen.com/the-mystery-of-the-bloomfield-bridge)
+[The Worst Programmer](https://dannorth.net/2023/09/02/the-worst-programmer/)
 
-[The physics of hand clapping](https://physicsworld.com/a/the-physics-of-hand-clapping-heres-how-to-do-it-best/)
+[On Craft](https://www.drcathicks.com/post/on-craft)
 
 [A GPT-4 capability forecasting challenge](https://nicholas.carlini.com/writing/llm-forecast/question/Capital-of-Paris)
 
-[Doing laundry on campus without a phone](https://naveenarun.wordpress.com/2023/08/31/doing-laundry-on-campus-without-a-phone/)
+[The Mystery of the Bloomfield Bridge](https://tylervigen.com/the-mystery-of-the-bloomfield-bridge)
 
-[What are dreams for?](https://www.newyorker.com/science/elements/what-are-dreams-for)
+[Tesla, Rivian Put on Fake Show of Support for ‘Right to Repair’](https://www.techdirt.com/2023/09/01/tesla-rivian-put-on-fake-show-of-support-for-right-to-repair/)
 
-[The tensor product, demystified (2018)](https://www.math3ma.com/blog/the-tensor-product-demystified)
+[RIP, WordPad](https://www.thurrott.com/windows/windows-11/288088/rip-wordpad)
 
-[Indian Influences on Rastafarianism](https://kb.osu.edu/handle/1811/28443)
+[A Critical Analysis of the What3Words Geocoding Algorithm](https://arxiv.org/abs/2308.16025)
 
-[How to edit your own lousy writing (2017)](https://stingingfly.org/2017/10/24/edit-lousy-writing/)
+[Recursive Racks [video]](https://www.youtube.com/watch?v=ckrrQTkTqIo)
 
-[Becoming a Contractor](https://ochagavia.nl/blog/becoming-a-contractor/)
+[Call of the Liar](https://nautil.us/call-of-the-liar-363420/)

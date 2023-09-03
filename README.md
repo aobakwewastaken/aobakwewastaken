@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Harry Browne’s 17 Golden Rules of Financial Safety (2013)](https://thetaoofwealth.wordpress.com/2013/02/17/harry-brownes-17-golden-rules-of-financial-safety/)
-
-[The Raft Consensus Algorithm](https://raft.github.io)
-
-[HTML Design Principles (2007)](https://www.w3.org/TR/html-design-principles/)
-
-[Climate Change Tracker](https://climatechangetracker.org)
-
-[Hacking the Timex m851](https://lock.cmpxchg8b.com/timex.html)
+[Cola: A text CRDT for real-time collaborative editing](https://nomad.foo/blog/cola)
 
 [I don’t want to grow my freelance design studio into an agency](https://neladunato.com/blog/why-wont-grow-freelance-studio-into-agency/)
 
-[‘Psychonauts’ by Mike Jay Review](https://www.historytoday.com/archive/review/psychonauts-mike-jay-review)
+[Yenish people](https://en.wikipedia.org/wiki/Yenish_people)
 
-[Transformers as Support Vector Machines](https://arxiv.org/abs/2308.16898)
+[Historians have an increasingly strong incentive to tell dramatic stories](https://www.ian-leslie.com/p/stories-are-bad-for-your-intelligence)
 
-[Sag-AFTRA votes unanimously to expand its strike to include the games industry](https://www.eurogamer.net/sag-aftra-votes-unanimously-to-expand-its-strike-to-include-the-games-industry)
+[How to write correct code by construction using the Coq Proof Assistant](https://betterprogramming.pub/a-taste-of-coq-and-correct-code-by-construction-111bf74d3b98)
 
-[Interfaces for Prototyping Hardware](https://kevinlynagh.com/newsletter/2023_09_hardware_prototyping/)
+[The Raft Consensus Algorithm (2015)](https://raft.github.io)
+
+[The containment of George Kennan (2022)](https://claremontreviewofbooks.com/the-containment-of-george-kennan/)
+
+[A History of the Amen Break: From the Winstons to Futurama and Om Unit](https://splice.com/blog/amen-break/)
+
+[HTML Design Principles (2007)](https://www.w3.org/TR/html-design-principles/)
+
+[Index of Aesthetics](https://cari.institute/aesthetics)

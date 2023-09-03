@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[The worst programmer I know](https://dannorth.net/2023/09/02/the-worst-programmer/)
+[Transformers as Support Vector Machines](https://arxiv.org/abs/2308.16898)
 
-[Calibre Replacement Considerations (2019)](https://anarc.at/software/desktop/calibre/)
+[UPI Payments: 10B Transactions a Month Done, Next Stop 100B](https://www.bqprime.com/business/upi-payments-10-billion-transactions-a-month-done-next-stop-100-billion)
 
-[Recursively Summarizing Enables Long-Term Dialogue Memory in LLMs](https://arxiv.org/abs/2308.15022)
+[Baresip – An Open Source modular SIP User-Agent with audio and video support](https://github.com/baresip/baresip)
+
+[How did Stripe come up with its name? (2015)](https://www.quora.com/How-did-Stripe-come-up-with-its-name)
+
+[Making deep learning go brrrr from first principles (2022)](https://horace.io/brrr_intro.html)
+
+[Bitmovin (YC S15) Is Hiring Senior Software Engineers in Austria](https://bitmovin.com/careers/senior-software-engineer-java-6834404002/)
+
+[How to type “blimpy” in Emacs [video]](https://www.youtube.com/watch?v=2VOnKMJqIL0)
+
+[The Mystery of the Bloomfield Bridge](https://tylervigen.com/the-mystery-of-the-bloomfield-bridge)
+
+[Show HN: Online Timers](https://www.timerone.com)
 
 [Build Your Own Flight Sim in C++ (1996)](https://archive.org/details/build-your-own-flight-sim-in-c-dos-game-dev-michael-radtke-chris-lampton)
-
-[Found in a Library Book](https://oaklandlibrary.org/found-in-a-library-book/)
-
-[Intel shows off 8-core, 528-thread processor with 1TB/s of co-packaged optics](https://www.theregister.com/2023/09/01/intel_graph_analytics_chip/)
-
-[Show HN: I mirrored all the code from PyPI to GitHub and analysed it](https://py-code.org/stats)
-
-[MindsDB (YC W20) Is Hiring a Senior Front End Engineer](https://www.ycombinator.com/companies/mindsdb/jobs/wnUfBhO-senior-frontend-engineer)
-
-[Show HN: Shaq, a CLI for Shazam](https://blog.yossarian.net/2023/07/27/Introducing-shaq-a-CLI-for-shazam)
-
-[Can an artificial kidney finally free patients from dialysis?](https://www.ucsf.edu/news/2023/08/426056/can-artificial-kidney-finally-free-patients-dialysis)

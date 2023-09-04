@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Battle of Hodów: When 400 Poles repelled 40,000 Tatars in 1694](https://tvpworld.com/60706855/battle-of-hodow-when-400-poles-repelled-40000-tatars-in-1694)
+
+[Is macOS’s new XProtect behavioural security preparing to go live?](https://eclecticlight.co/2023/09/04/is-macoss-new-xprotect-behavioural-security-preparing-to-go-live/)
+
+[The Usefulness of a Memory Guides Where the Brain Saves It](https://www.quantamagazine.org/the-usefulness-of-a-memory-guides-where-the-brain-saves-it-20230830/)
+
+[The Battle over Books3 Could Change AI Forever](https://www.wired.com/story/battle-over-books3/)
+
 [Plastic Money](https://computer.rip/2023-09-03-plastic-money.html)
 
-[Amiga Samplers: Budget dance music in 1990](https://www.youtube.com/watch?v=i9MXYZh1jcs)
+[Phonies: J.D. Salinger and Wielding Copyright as Self-Protection](https://crimereads.com/j-d-salinger-copyright/)
+
+[The History of Windows 95](https://www.abortretry.fail/p/the-history-of-windows-95)
 
 [TV Museum Will Die in 48 Hours Unless Sony Retracts YouTube Copyright Strikes](https://torrentfreak.com/tv-museum-will-die-in-48-hours-unless-sony-retracts-youtube-copyright-strikes-230904/)
 
-[The curl-wget Venn diagram](https://daniel.haxx.se/blog/2023/09/04/the-curl-wget-venn-diagram/)
+[Glove80 Ergonomic Keyboard](https://danieldk.eu/Posts/2023-09-03-Glove80.html)
 
-[Hardware Random Bit Generator](https://web.jfet.org/hw-rng.html)
-
-[Cuber: Deploy your apps on Kubernetes easily](https://github.com/cuber-cloud/cuber-gem)
-
-[Scientists use quantum device to slow chemical process by factor of 100B](https://www.sydney.edu.au/news-opinion/news/2023/08/29/conical-intersection-simulation-slowed-by-quantum-computer-100-billion-times.html)
-
-[Everything I know about floppy disks](https://thejpster.org.uk/blog/blog-2023-08-28/)
-
-[Haskell mini-patterns handbook (2020)](https://kowainik.github.io/posts/haskell-mini-patterns)
-
-[Webb Mirror (2022)](https://neil.fraser.name/news/2022/11/15/)
+[SiFive’s P870 Takes RISC-V Further](https://chipsandcheese.com/2023/09/03/hot-chips-2023-sifives-p870-takes-risc-v-further/)

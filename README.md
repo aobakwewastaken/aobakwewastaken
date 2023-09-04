@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[The Usefulness of a Memory Guides Where the Brain Saves It](https://www.quantamagazine.org/the-usefulness-of-a-memory-guides-where-the-brain-saves-it-20230830/)
+[Writing a C compiler in 500 lines of Python](https://vgel.me/posts/c500/)
 
-[Plastic Money](https://computer.rip/2023-09-03-plastic-money.html)
+[Portal 64 – A demake of Portal for the Nintendo 64](https://github.com/lambertjamesd/portal64)
 
-[SiFive’s P870 Takes RISC-V Further](https://chipsandcheese.com/2023/09/03/hot-chips-2023-sifives-p870-takes-risc-v-further/)
+[When tech says ‘no’](https://www.ben-evans.com/benedictevans/2023/8/24/when-tech-says-no)
 
-[The History of Windows 95](https://www.abortretry.fail/p/the-history-of-windows-95)
+[So you want to modify the text of a PDF by hand](https://gist.github.com/senderle/8ad6aae251c4ddf9424f8a05dd0e8c18)
 
-[Phonies: J.D. Salinger and Wielding Copyright as Self-Protection](https://crimereads.com/j-d-salinger-copyright/)
+[Black Art of 3D Game Programming (1995)](https://archive.org/details/BlackArt3DEBook)
 
-[LAN-Party House (2011)](https://kentonshouse.com/)
+[Spectrolite – Mac app to make colorful risograph prints and zines more easily](https://spectrolite.app)
 
-[TV Museum will die in 48 hours unless Sony retracts YouTube copyright strikes](https://torrentfreak.com/tv-museum-will-die-in-48-hours-unless-sony-retracts-youtube-copyright-strikes-230904/)
+[Can we talk to whales?](https://www.newyorker.com/magazine/2023/09/11/can-we-talk-to-whales)
 
-[Glove80 Ergonomic Keyboard](https://danieldk.eu/Posts/2023-09-03-Glove80.html)
+[Aviator (YC S21) is hiring a senior engineer to build the future of monorepos](https://www.ycombinator.com/companies/aviator/jobs/svf18r9-senior-software-engineer-founding-team)
 
-[Amiga Samplers: Budget dance music in 1990](https://www.youtube.com/watch?v=i9MXYZh1jcs)
+[The usefulness of a memory guides where the brain saves it?](https://www.quantamagazine.org/the-usefulness-of-a-memory-guides-where-the-brain-saves-it-20230830/)
 
-[Svelte is surprisingly easy to learn](https://kaviisuri.com/you-dont-need-to-learn-svelte)
+[Kenton's House](https://kentonshouse.com/)

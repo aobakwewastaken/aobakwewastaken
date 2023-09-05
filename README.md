@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [Ask HN: I’m an FCC Commissioner proposing regulation of IoT security updates]()
 
-[Show HN: An open source visual editor for React](https://github.com/measuredco/puck)
+[deVStudio – Runs VS Code on Android](https://play.google.com/store/apps/details?id=tech.ula.devstudio&hl=en_US)
 
-[A currently maintained fork of SSHFS](https://github.com/deadbeefsociety/sshfs)
+[Learn WebAssembly by writing small programs](https://github.com/EmNudge/watlings)
 
-[ZSA Voyager: Low profile split keyboard](https://www.zsa.io/voyager/)
+[How Amazon uses chaos engineering to handle 80k requests per second](https://community.aws/posts/how-search-uses-chaos-engineering)
 
-[The Federal Helium reserve is for sale](https://disposal.gsa.gov/s/property/a0Xt000000DPeSLEA1/federal-helium-system-and-800-million-cubic-ft-of-crude-helium)
+[If you can use open source, you can build hardware](https://redeem-tomorrow.com/if-you-can-use-open-source-you-can-build-hardware)
 
-[Launch HN: Nullstone (YC W22) – An easier way to deploy and manage cloud apps]()
+[Time to preserve those floppy disks](https://www.patreon.com/posts/78074244)
 
-[Mastering curl: interactive text guide](https://antonz.org/mastering-curl/)
+[Forming an Edge](https://www.scopeofwork.net/forming-an-edge/)
 
-[Amiga Systems Programming in 2023](https://www.markround.com/blog/2023/08/30/amiga-systems-programming-in-2023/)
+[Emerge (YC W21) is hiring a lead front end engineer (remote, small team)](https://www.workatastartup.com/jobs/61922/)
 
-[Android 14 blocks all modification of system certificates, even as root](https://httptoolkit.com/blog/android-14-breaks-system-certificate-installation/)
+[Show HN: Puck – Open-source visual editor for React](https://github.com/measuredco/puck)
 
-[How to Get into Film Photography (and Why You Should)](https://www.404media.co/how-and-why-to-get-into-film-photography/)
+[A Test Suite for the Intel 8088](https://martypc.blogspot.com/2023/09/a-test-suite-for-intel-8088.html)

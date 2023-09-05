@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[ZFS for Dummies](https://ikrima.dev/dev-notes/homelab/zfs-for-dummies/)
+
+[Oscilloscope watch ships after 10 years on kickstarter](https://www.tomshardware.com/news/oscilloscope-watch-ships-after-10-years)
+
+[Learn COBOL in 1 Day](https://www.microfocus.com/en-us/cobol)
+
+[Get a cable modem, go to jail (1999)](http://telecom.csail.mit.edu/judy-sammel.html)
+
 [Writing a C compiler in 500 lines of Python](https://vgel.me/posts/c500/)
 
-[Portal 64 – A demake of Portal for the Nintendo 64](https://github.com/lambertjamesd/portal64)
+[Emacs Bedrock: A minimal Emacs starter kit](https://sr.ht/~ashton314/emacs-bedrock/)
 
-[When tech says ‘no’](https://www.ben-evans.com/benedictevans/2023/8/24/when-tech-says-no)
+[Farms that create habitat key to food security and biodiversity](https://news.stanford.edu/2023/09/04/farming-food-biodiversity/)
 
-[So you want to modify the text of a PDF by hand](https://gist.github.com/senderle/8ad6aae251c4ddf9424f8a05dd0e8c18)
+[Pad kaphrao contest seeks true taste of Thai dish](https://www.theguardian.com/world/2023/aug/27/competition-seeks-true-taste-of-thailands-national-dish)
 
-[Black Art of 3D Game Programming (1995)](https://archive.org/details/BlackArt3DEBook)
+[So you want to modify the text of a PDF by hand (2020)](https://gist.github.com/senderle/8ad6aae251c4ddf9424f8a05dd0e8c18)
 
-[Spectrolite – Mac app to make colorful risograph prints and zines more easily](https://spectrolite.app)
-
-[Can we talk to whales?](https://www.newyorker.com/magazine/2023/09/11/can-we-talk-to-whales)
-
-[Aviator (YC S21) is hiring a senior engineer to build the future of monorepos](https://www.ycombinator.com/companies/aviator/jobs/svf18r9-senior-software-engineer-founding-team)
-
-[The usefulness of a memory guides where the brain saves it?](https://www.quantamagazine.org/the-usefulness-of-a-memory-guides-where-the-brain-saves-it-20230830/)
-
-[Kenton's House](https://kentonshouse.com/)
+[Refurb weekend: PowerBook Duo 2300c](http://oldvcr.blogspot.com/2023/09/refurb-weekend-powerbook-duo-2300c.html)

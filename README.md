@@ -1,15 +1,7 @@
 # Top Stories on hackernews <br />
 [Is this Duplo train track under too much tension?](https://puzzling.stackexchange.com/questions/122232/is-this-duplo-train-track-under-too-much-tension)
 
-[Now it's PostgreSQL's turn to have a bogus CVE](https://opensourcewatch.beehiiv.com/p/now-postgresqls-turn-bogus-cve)
-
-[Linux Network Performance Parameters Explained](https://github.com/leandromoreira/linux-network-performance-parameters)
-
-[Effectiveness of physical activity for improving depression, anxiety, distress](https://bjsm.bmj.com/content/early/2023/07/11/bjsports-2022-106195)
-
-[Falcon 180B](https://falconllm.tii.ae/falcon.html)
-
-[“Waterfall” doesn't mean what you think it means](https://changelog.com/posts/waterfall-doesnt-mean-what-you-think-it-means)
+[Linux network performance parameters](https://github.com/leandromoreira/linux-network-performance-parameters)
 
 [Ask HN: I’m an FCC Commissioner proposing regulation of IoT security updates]()
 
@@ -17,4 +9,12 @@
 
 [Double Commander – Changes in version 1.1.0](https://github.com/doublecmd/doublecmd/wiki/Changes-in-version-1.1.0)
 
-[‘Modern cars are a privacy nightmare,’ the worst Mozilla’s seen](https://www.theverge.com/2023/9/6/23861047/car-user-privacy-report-mozilla-foundation-data-collection)
+[Effectiveness of physical activity for improving depression, anxiety, distress](https://bjsm.bmj.com/content/early/2023/07/11/bjsports-2022-106195)
+
+[Remembering Doug Lenat (1950–2023) and His Quest to Capture the World with Logic](https://writings.stephenwolfram.com/2023/09/remembering-doug-lenat-1950-2023-and-his-quest-to-capture-the-world-with-logic/)
+
+[History of Cartography: Volumes One, Two, Three, Four, and Six (1987)](https://press.uchicago.edu/books/HOC/index.html)
+
+[Ford 021C Concept Car (1999)](https://marc-newson.com/ford-021c-concept-car/)
+
+[Show HN: Comgra: A library for debugging and understanding neural networks](https://github.com/FlorianDietz/comgra)

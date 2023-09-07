@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Arduino raises $22M Series B round](https://blog.arduino.cc/2023/09/06/what-will-we-do-with-an-additional-22m/)
+[Tailscale Has Partnered with Mullvad](https://mullvad.net/en/blog/2023/9/7/tailscale-has-partnered-with-mullvad/)
 
-[Report: PR Firm Has Been Paying Rotten Tomatoes Critics for Positive Reviews](https://www.screengeek.net/2023/09/06/rotten-tomatoes-pr-firm-paying-critics-positive-reviews/)
+[Mullvad on Tailscale: Privately browse the web](https://tailscale.com/blog/mullvad-integration/)
 
-[Snake-fury – a challenge for Haskell beginners](https://github.com/lsmor/snake-fury)
+[California's plastic bag ban is failing](https://www.latimes.com/environment/story/2023-08-24/whats-the-deal-with-single-use-plastic-bag-bans)
+
+[Kagi Small Web](https://blog.kagi.com/small-web)
 
 [Textual Web: TUIs for the Web](https://textual.textualize.io/blog/2023/09/06/what-is-textual-web/)
 
-[All You Need to Become a Servant Leader](https://effyai.substack.com/p/all-you-need-to-become-a-servant)
+[Snake-fury – a challenge for Haskell beginners](https://github.com/lsmor/snake-fury)
+
+[Report says PR firm has been paying Rotten Tomatoes critics for positive reviews](https://www.screengeek.net/2023/09/06/rotten-tomatoes-pr-firm-paying-critics-positive-reviews/)
+
+[Running a 180B parameter LLM on a single Apple M2 Ultra](https://twitter.com/ggerganov/status/1699791226780975439)
 
 [Stanford DSPy: The framework for programming with foundation models](https://github.com/stanfordnlp/dspy)
 
-[Texas just got closer to blackouts than it has since 2021. What happened?](https://www.kut.org/energy-environment/2023-09-07/texas-just-got-closer-to-blackouts-than-it-has-since-2021-what-happened)
-
-[Gaussian Splatting is pretty cool](https://aras-p.info/blog/2023/09/05/Gaussian-Splatting-is-pretty-cool/)
-
-[My favorite Erlang program (2013)](https://joearms.github.io/#2013-11-21%20My%20favorite%20Erlang%20Program)
-
-[Astronomers discover new quiescent galaxy](https://phys.org/news/2023-09-astronomers-massive-quiescent-galaxy.html)
+[Ernie, China's ChatGPT, Cracks Under Pressure](https://www.chinatalk.media/p/how-ernie-chinas-chatgpt-cracks-under)

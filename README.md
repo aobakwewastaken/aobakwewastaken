@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Exa Is Deprecated](https://github.com/ogham/exa)
+[Arduino raises $22M Series B round](https://blog.arduino.cc/2023/09/06/what-will-we-do-with-an-additional-22m/)
 
-[My favorite Erlang program (2013)](https://joearms.github.io/#2013-11-21%20My%20favorite%20Erlang%20Program)
+[Report: PR Firm Has Been Paying Rotten Tomatoes Critics for Positive Reviews](https://www.screengeek.net/2023/09/06/rotten-tomatoes-pr-firm-paying-critics-positive-reviews/)
 
-[A look inside a Sharia Courtroom](https://www.newyorker.com/culture/the-new-yorker-documentary/swift-justice-looks-inside-a-sharia-courtroom)
+[Snake-fury – a challenge for Haskell beginners](https://github.com/lsmor/snake-fury)
 
-[New LoRa RF distance record](https://www.thethingsnetwork.org/article/new-lora-world-record-1336-km-830-mi)
+[Textual Web: TUIs for the Web](https://textual.textualize.io/blog/2023/09/06/what-is-textual-web/)
+
+[All You Need to Become a Servant Leader](https://effyai.substack.com/p/all-you-need-to-become-a-servant)
+
+[Stanford DSPy: The framework for programming with foundation models](https://github.com/stanfordnlp/dspy)
+
+[Texas just got closer to blackouts than it has since 2021. What happened?](https://www.kut.org/energy-environment/2023-09-07/texas-just-got-closer-to-blackouts-than-it-has-since-2021-what-happened)
 
 [Gaussian Splatting is pretty cool](https://aras-p.info/blog/2023/09/05/Gaussian-Splatting-is-pretty-cool/)
 
-[UK drops 'spy clause' for scanning encrypted messages, admits not 'feasible'](https://www.theregister.com/2023/09/07/uk_government_clause_online_safety_bill/)
+[My favorite Erlang program (2013)](https://joearms.github.io/#2013-11-21%20My%20favorite%20Erlang%20Program)
 
-[Beetle grows ‘termite’ on back to steal food](https://www.science.org/content/article/beetle-grows-termite-back-steal-food)
-
-[AOL pretends to be the internet](https://thehistoryoftheweb.com/postscript/aol-pretends-to-be-the-internet/)
-
-[Toyota Shut Down 14 Factories Due to 'Insufficient Disk Space'](https://www.tomshardware.com/news/toyota-shut-down-14-factories-due-to-insufficient-disk-space)
-
-[Hot Chips 2023: Characterizing Gaming Workloads on Zen 4](https://chipsandcheese.com/2023/09/06/hot-chips-2023-characterizing-gaming-workloads-on-zen-4/)
+[Astronomers discover new quiescent galaxy](https://phys.org/news/2023-09-astronomers-massive-quiescent-galaxy.html)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [NSO group iPhone zero-click, zero-day exploit captured in the wild](https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/)
 
+[My Node.js is a bit Rusty](https://gal.hagever.com/posts/my-node-js-is-a-bit-rusty)
+
+[China's ancient water pipe networks show no evidence of a centralized authority](https://phys.org/news/2023-08-china-ancient-pipe-networks-communal.html)
+
 [North Korean campaign targeting security researchers](https://blog.google/threat-analysis-group/active-north-korean-campaign-targeting-security-researchers/)
 
-[A BERT for laptops, from scratch](https://github.com/samvher/bert-for-laptops/blob/main/BERT_for_laptops.ipynb)
+[How Query Engines Work](https://howqueryengineswork.com/)
 
-[London Street Trees](https://apps.london.gov.uk/street-trees/)
+[We built an AI-powered Magic the Gathering card generator](https://txt.cohere.com/urzas-ai/)
+
+[LLMs, RAG, and the missing storage layer for AI](https://blog.lancedb.com/llms-rag-the-missing-storage-layer-for-ai-28ded35fa984)
+
+[Show HN: HackYourNews – AI summaries of the top HN stories](https://hackyournews.com/)
 
 [John McCarthy’s collection of numerical facts for use in elisp programs](http://www-formal.stanford.edu/jmc/facts.txt)
 
-[Mullvad on Tailscale: Privately browse the web](https://tailscale.com/blog/mullvad-integration/)
-
-[Cthulhu.jl – show type-inferred Julia code](https://github.com/JuliaDebug/Cthulhu.jl)
-
-[Kagi Small Web](https://blog.kagi.com/small-web)
-
-[The Decomposition of Rotten Tomatoes](https://www.vulture.com/article/rotten-tomatoes-movie-rating.html)
-
-[Microsoft will assume liability for legal copyright risks of Copilot](https://blogs.microsoft.com/on-the-issues/2023/09/07/copilot-copyright-commitment-ai-legal-concerns/)
+[I rode with an ice road trucker to the Arctic Circle](https://www.freightwaves.com/news/i-rode-with-an-ice-road-trucker-to-the-arctic-circle-heres-what-it-was-like)

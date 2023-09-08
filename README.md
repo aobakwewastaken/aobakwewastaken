@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Bees struggle to find flowers because of air pollution](https://www.birmingham.ac.uk/news/2023/bees-struggle-to-find-flowers-because-of-air-pollution)
+[Show HN: Conway's Game of Life in TypeScript's type system](https://github.com/RuyiLi/cursed-typescript/blob/master/random/game-of-life.ts)
 
-[Emoji Generator with AI](https://emoji.fly.dev)
+[Scammers can exploit email forwarding flaws to impersonate high-profile domains](https://today.ucsd.edu/story/forwarding_based_spoofing)
+
+[Decoded: GNU Coreutils](https://maizure.org/projects/decoded-gnu-coreutils/)
+
+[Aardvark'd: The Fog Creek documentary, 18 years later](https://mtlynch.io/aardvarkd/)
 
 [Touch Pianist](http://touchpianist.com/)
 
-[Apple vs. Meta: The Illusion of Privacy](https://growth.design/case-studies/apple-privacy-policy)
+[Just how constexpr is C++20’s std:string?](https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/)
 
-[Aardvark'd: The Fog Creek Documentary, 18 Years Later](https://mtlynch.io/aardvarkd/)
+[Using LD_PRELOAD to cheat, inject features and investigate programs](https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/)
 
-[Large Language Models as Optimizers. +50% on Big Bench Hard](https://arxiv.org/abs/2309.03409)
+[Bun v1.0.0](https://bun.sh/blog/bun-v1.0)
 
-[Bun v1.0.0](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.0)
+[Maybe Rust isn’t a good tool for massively concurrent, userspace software](https://bitbashing.io/async-rust.html)
 
-[Procreate Dreams](https://procreate.com/dreams)
-
-[Towards a New SymPy](https://oscarbenjamin.github.io/blog/czi/post1.html)
-
-[Critical ignoring as a core competence for digital citizens (2022)](https://journals.sagepub.com/doi/epub/10.1177/09637214221121570)
+[Why we didn’t get a malaria vaccine sooner](https://worksinprogress.co/issue/why-we-didnt-get-a-malaria-vaccine-sooner)

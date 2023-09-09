@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Every type of plastic used by Lego (2022)](https://bricknerd.com/home/every-type-of-plastic-used-by-lego-5-20-22)
+[Alert: No Google Topics in Vivaldi](https://vivaldi.com/blog/news/alert-no-google-topics-in-vivaldi/)
 
-[Comparing 60 LLMs with a set of 20 prompts](https://benchmarks.llmonitor.com)
+[I used a Game Boy camera for Facetime video calls in iPadOS 17](https://www.macstories.net/stories/i-used-a-game-boy-camera-for-facetime-video-calls-in-ipados-17-and-it-was-glorious/)
 
-[Running over 20 top-notch cybersecurity tools with API](https://developer.penteston.com)
+[Asking 60 LLMs a set of 20 questions](https://benchmarks.llmonitor.com)
 
-[DJI Virtual Flight (iOS) has been broken for five months](https://forum.dji.com/thread-293546-1-1.html)
+[Show HN: I built a Python web framework](https://github.com/ZeroIntensity/view.py)
+
+[Every type of plastic used by LEGO (2022)](https://bricknerd.com/home/every-type-of-plastic-used-by-lego-5-20-22)
+
+[English cottage where John le Carré wrote Tinker Tailor Soldier Spy is for sale](https://lithub.com/look-inside-the-gorgeous-english-cottage-where-john-le-carre-wrote-tinker-tailor-soldier-spy/)
+
+[Sequential Memory Is a Unique Human Trait](https://neurosciencenews.com/sequential-memory-human-trait-23888/)
+
+[Freshpaint (YC S19) is hiring engineers to build a HIPAA compliant data platform](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
+
+[A Teen Celebrity in 1804](https://daily.jstor.org/a-teen-celebrity-in-1804/)
 
 [PAROL6 Desktop Robot Arm](https://github.com/PCrnjak/PAROL6-Desktop-robot-arm)
-
-[Investors account for 30 per cent of home buying in Canada, data show](https://www.theglobeandmail.com/business/article-investors-account-for-30-per-cent-of-home-buying-in-canada-data-show/)
-
-[Michael Taylor on the Development of the M1 Garand and Its Implications](https://acoup.blog/2023/09/08/michael-taylor-on-the-development-of-the-m1-garand-and-its-implications/)
-
-[Privacy Nightmare on Wheels’: Every Car Brand Reviewed by Mozilla](https://foundation.mozilla.org/en/blog/privacy-nightmare-on-wheels-every-car-brand-reviewed-by-mozilla-including-ford-volkswagen-and-toyota-flunks-privacy-test/)
-
-[Bare-Metal Kubernetes, Part I: Talos on Hetzner](https://datavirke.dk/posts/bare-metal-kubernetes-part-1-talos-on-hetzner/)
-
-[The Development of the C Language (2003)](http://cm.bell-labs.co/who/dmr/chist.html)

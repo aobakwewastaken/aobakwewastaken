@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Show HN: Conway's Game of Life in TypeScript's type system](https://github.com/RuyiLi/cursed-typescript/blob/master/random/game-of-life.ts)
+[Julia and Mojo (Modular) Mandelbrot Benchmark](https://discourse.julialang.org/t/julia-mojo-mandelbrot-benchmark/103638)
+
+[Ruby Outperforms C: Breaking the Catch-22](https://railsatscale.com/2023-08-29-ruby-outperforms-c/)
+
+[Newly discovered comet Nishimura could be visible to naked eye this weekend](https://www.theguardian.com/science/2023/sep/07/nishimura-comet-could-be-visible-to-naked-eye-this-weekend)
+
+[The new Google Fonts: find what you’re looking for](https://material.io/blog/2023-google-fonts-redesign)
+
+[Decoded: GNU Coreutils (2018)](https://maizure.org/projects/decoded-gnu-coreutils/)
+
+[Snoop unto them as they snoop unto you](https://blog.dataparty.xyz/blog/snoop-unto-them/)
+
+[LogoScale – A method for vectorizing small, crappy logos](https://msprout.notion.site/LogoScale-A-Method-for-Vectorizing-Small-Crappy-Logos-dc0035b7473c44f8b94ffc4026d286c0)
 
 [Scammers can exploit email forwarding flaws to impersonate high-profile domains](https://today.ucsd.edu/story/forwarding_based_spoofing)
 
-[Decoded: GNU Coreutils](https://maizure.org/projects/decoded-gnu-coreutils/)
+[The rxv64 Operating System: MIT's xv6, in Rust, for SMP x86_64 machines](https://github.com/dancrossnyc/rxv64)
 
-[Aardvark'd: The Fog Creek documentary, 18 years later](https://mtlynch.io/aardvarkd/)
-
-[Touch Pianist](http://touchpianist.com/)
-
-[Just how constexpr is C++20’s std:string?](https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/)
-
-[Using LD_PRELOAD to cheat, inject features and investigate programs](https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/)
-
-[Bun v1.0.0](https://bun.sh/blog/bun-v1.0)
-
-[Maybe Rust isn’t a good tool for massively concurrent, userspace software](https://bitbashing.io/async-rust.html)
-
-[Why we didn’t get a malaria vaccine sooner](https://worksinprogress.co/issue/why-we-didnt-get-a-malaria-vaccine-sooner)
+[The Power of Food for People with Dementia](https://www.newyorker.com/culture/personal-history/the-power-of-food-for-people-with-dementia)

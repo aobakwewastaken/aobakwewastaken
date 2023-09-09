@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[The Development of the C Language (2003)](http://cm.bell-labs.co/who/dmr/chist.html)
+[Comparing 60 LLMs with a set of 20 prompts](https://benchmarks.llmonitor.com)
+
+[Every type of plastic used by Lego (2022)](https://bricknerd.com/home/every-type-of-plastic-used-by-lego-5-20-22)
+
+[Running over 20 top-notch cybersecurity tools with API](https://developer.penteston.com)
+
+[Ask HN: Will Google delete inactive gmail accounts that forward email?]()
 
 [Privacy Nightmare on Wheels’: Every Car Brand Reviewed by Mozilla](https://foundation.mozilla.org/en/blog/privacy-nightmare-on-wheels-every-car-brand-reviewed-by-mozilla-including-ford-volkswagen-and-toyota-flunks-privacy-test/)
 
-[Julia and Mojo Mandelbrot Benchmark](https://discourse.julialang.org/t/julia-mojo-mandelbrot-benchmark/103638)
+[Common Pitfalls in Database Performance Testing (2018) [pdf]](https://mytherin.github.io/papers/2018-dbtest.pdf)
 
-[Newly discovered comet Nishimura could be visible to naked eye this weekend](https://www.theguardian.com/science/2023/sep/07/nishimura-comet-could-be-visible-to-naked-eye-this-weekend)
+[Bare-Metal Kubernetes, Part I: Talos on Hetzner](https://datavirke.dk/posts/bare-metal-kubernetes-part-1-talos-on-hetzner/)
 
-[Ask HN: Looking for a resource on Linux kernel module development]()
+[The Development of the C Language (2003)](http://cm.bell-labs.co/who/dmr/chist.html)
 
-[Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+[CRISPR used to 'reprogram' cancer cells into healthy muscle in the lab](https://www.livescience.com/health/cancer/crispr-used-to-reprogram-cancer-cells-into-healthy-muscle-in-the-lab)
 
-[An Internet of PHP](https://timotijhof.net/posts/2023/an-internet-of-php/)
-
-[What happens when you shift a register by more than the register size?](https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704)
-
-[The Mind-Bending Math Behind Spot It (2018)](https://www.smithsonianmag.com/science-nature/math-card-game-spot-it-180970873/)
-
-[Advanced NLP with SpaCy](https://course.spacy.io/en/)
+[Dennis Austin, developer of PowerPoint, has died](https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/)

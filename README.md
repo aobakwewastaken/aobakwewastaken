@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[“Make” as a Static Site Generator (2022)](https://www.karl.berlin/static-site.html)
+
 [Nginx Unit – Universal web app server](https://github.com/nginx/unit)
-
-[Lithium discovery in US volcano could be biggest deposit ever found](https://www.chemistryworld.com/news/lithium-discovery-in-us-volcano-could-be-biggest-deposit-ever-found/4018032.article)
-
-[How to Make a Synthetic Diamond](https://www.instructables.com/How-to-Make-a-Synthetic-Diamond/)
-
-[ZF makes magnet-free electric motor uniquely compact and competitive](https://press.zf.com/press/en/releases/release_60480.html)
-
-[“Make” as a Static Site Generator](https://www.karl.berlin/static-site.html)
-
-[Memories from old LAN parties](https://thomask.sdf.org/blog/2023/09/09/memories-from-old-lan-parties.html)
 
 [I wired up my bike's GPS to order me pizza during a gravel race](https://steele.blue/geofence-pizza-ordering/)
 
-[A guy preserving the new history of PC games, one Linux port at a time](https://www.404media.co/meet-the-guy-preserving-the-new-history-of-pc-games-one-linux-port-at-a-time/)
+[Google no longer offers new domain registrations](https://domains.google/)
 
-[Magnetism May Have Given Life Its Molecular Asymmetry](https://www.quantamagazine.org/magnetism-may-have-given-life-its-molecular-asymmetry-20230906/)
+[How does Linux NAT a ping?](https://devnonsense.com/posts/how-does-linux-nat-a-ping/)
 
-[Coffee in a Can](https://one-from-nippon.ghost.io/coffee-in-a-can/)
+[Earth had hottest 3-months on record; unprecedented sea temps & extreme weather](https://public.wmo.int/en/media/press-release/earth-had-hottest-three-month-period-record-unprecedented-sea-surface)
+
+[Reviewing a Dell Linux PC 23 years ago (by me in PCW magazine, Sep 2000)](https://liam-on-linux.dreamwidth.org/89116.html)
+
+[Heat Waves and Climate Change: Understanding the Link](https://mercurialtrends.com/heat-waves-and-climate-change-understanding-the-link/)
+
+[ZF makes magnet-free electric motor uniquely compact and competitive](https://press.zf.com/press/en/releases/release_60480.html)
+
+[How to make a synthetic diamond](https://www.instructables.com/How-to-Make-a-Synthetic-Diamond/)

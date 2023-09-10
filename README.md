@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Alert: No Google Topics in Vivaldi](https://vivaldi.com/blog/news/alert-no-google-topics-in-vivaldi/)
+[Lithium discovery in US volcano could be biggest deposit ever found](https://www.chemistryworld.com/news/lithium-discovery-in-us-volcano-could-be-biggest-deposit-ever-found/4018032.article)
+
+[Memories from old LAN parties](https://thomask.sdf.org/blog/2023/09/09/memories-from-old-lan-parties.html)
+
+[A guy preserving the new history of PC games, one Linux port at a time](https://www.404media.co/meet-the-guy-preserving-the-new-history-of-pc-games-one-linux-port-at-a-time/)
+
+[Coffee in a Can](https://one-from-nippon.ghost.io/coffee-in-a-can/)
+
+[The new Polaroid I-2 instant camera](https://i2-camera.polaroid.com)
+
+[Common garden weeds in Southern California](https://gregalder.com/yardposts/common-garden-weeds-in-southern-california/)
+
+[GitHub – GSA/code-gov: An informative repo for all Code.gov repos](https://github.com/GSA/code-gov)
 
 [I used a Game Boy camera for Facetime video calls in iPadOS 17](https://www.macstories.net/stories/i-used-a-game-boy-camera-for-facetime-video-calls-in-ipados-17-and-it-was-glorious/)
 
-[Asking 60 LLMs a set of 20 questions](https://benchmarks.llmonitor.com)
+[I Wrote a String Type](https://mcyoung.xyz/2023/08/09/yarns/)
 
-[Show HN: I built a Python web framework](https://github.com/ZeroIntensity/view.py)
-
-[Every type of plastic used by LEGO (2022)](https://bricknerd.com/home/every-type-of-plastic-used-by-lego-5-20-22)
-
-[English cottage where John le Carré wrote Tinker Tailor Soldier Spy is for sale](https://lithub.com/look-inside-the-gorgeous-english-cottage-where-john-le-carre-wrote-tinker-tailor-soldier-spy/)
-
-[Sequential Memory Is a Unique Human Trait](https://neurosciencenews.com/sequential-memory-human-trait-23888/)
-
-[Freshpaint (YC S19) is hiring engineers to build a HIPAA compliant data platform](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
-
-[A Teen Celebrity in 1804](https://daily.jstor.org/a-teen-celebrity-in-1804/)
-
-[PAROL6 Desktop Robot Arm](https://github.com/PCrnjak/PAROL6-Desktop-robot-arm)
+[School of SRE: Curriculum for onboarding non-traditional hires and new grads](https://github.com/linkedin/school-of-sre)

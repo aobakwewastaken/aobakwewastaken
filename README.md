@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Removing Garbage Collection from the Rust Language (2013)](http://pcwalton.github.io/_posts/2013-06-02-removing-garbage-collection-from-the-rust-language.html)
+[The Project Gutenberg Open Audiobook Collection](https://marhamilresearch4.blob.core.windows.net/gutenberg-public/Website/index.html)
+
+[Intuitively Understanding Harris Corner Detector](https://comsci.blog/posts/intuitive-harris)
+
+[A LLM+OLAP Solution](https://doris.apache.org/zh-CN/blog/Tencent-LLM/)
+
+[X sues Calif. to avoid revealing how it makes “controversial” content decisions](https://arstechnica.com/tech-policy/2023/09/x-sues-calif-to-avoid-revealing-how-it-makes-controversial-content-decisions/)
+
+[Beyond OpenAPI](https://antonz.org/interactive-api-tutorials/)
+
+[Unix Domain Sockets vs Loopback TCP Sockets (2014)](https://nicisdigital.wordpress.com/2014/03/03/unix-domain-sockets-vs-loopback-tcp-sockets/)
 
 [HDMI ISA graphics card for vintage PCs by improving the Graphics Gremlin](https://yeokhengmeng.com/2023/09/hdmi-isa-graphics-card-for-vintage-pcs/)
 
-[Google Chrome just rolled out a new way to track you and serve ads](https://theconversation.com/google-chrome-just-rolled-out-a-new-way-to-track-you-and-serve-ads-heres-what-you-need-to-know-213150)
+[The right to data ownership is the only way to take on Big Tech](https://www.telegraph.co.uk/business/2023/09/11/right-data-ownership-big-tech-google-meta-competition/)
 
-[The Top Programming Languages 2023](https://spectrum.ieee.org/the-top-programming-languages-2023)
-
-[Japan launches rocket carrying lunar lander and X-ray telescope](https://phys.org/news/2023-09-japan-rocket-lunar-lander-x-ray.html)
+[Big Tobacco’s Legacy: Pushing Hyperpalatable Foods in America](https://neurosciencenews.com/hyperpalatable-foods-big-tobacco-23906/)
 
 [How could the early Unix OS comprise so few lines of code?](https://retrocomputing.stackexchange.com/questions/26083/how-could-early-unix-os-comprise-so-few-lines-of-code)
-
-[The Awk book’s 60-line version of Make](https://benhoyt.com/writings/awk-make/)
-
-[A group of open source Android apps without ads and unnecessary permissions](https://www.simplemobiletools.com)
-
-[The “Madame B Album” (ca. 1870s)](https://publicdomainreview.org/collection/madame-b-album/)
-
-[RISC-V SBI and the full boot process](https://popovicu.com/posts/risc-v-sbi-and-full-boot-process/)

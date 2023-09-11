@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [UK air traffic control meltdown](https://jameshaydon.github.io/nats-fail/)
 
+[Calculate the difference and intersection of any two regexes](http://phylactery.org/antimirov/)
+
+[Show HN: Real-Time 3D Gaussian Splatting in WebGL](https://antimatter15.com/splat/)
+
+[WiFi can read through walls](https://news.ucsb.edu/2023/021198/wifi-can-read-through-walls)
+
+[The meeting of the minds that launched AI](https://spectrum.ieee.org/dartmouth-ai-workshop)
+
 [The Project Gutenberg Open Audiobook Collection](https://marhamilresearch4.blob.core.windows.net/gutenberg-public/Website/index.html)
 
-[Intuitively Understanding Harris Corner Detector](https://comsci.blog/posts/intuitive-harris)
+[Mac ROM-Inator II Restock and Partnerships](https://www.bigmessowires.com/2023/09/09/mac-rom-inator-ii-restock-and-partnerships/)
 
-[A LLM+OLAP Solution](https://doris.apache.org/zh-CN/blog/Tencent-LLM/)
-
-[Unix Domain Sockets vs Loopback TCP Sockets (2014)](https://nicisdigital.wordpress.com/2014/03/03/unix-domain-sockets-vs-loopback-tcp-sockets/)
-
-[MAC Address Vendor Lookup](https://maclookup.app/home2)
-
-[Beyond OpenAPI](https://antonz.org/interactive-api-tutorials/)
-
-[Nvidia’s AI supremacy is only temporary](https://petewarden.com/2023/09/10/why-nvidias-ai-supremacy-is-only-temporary/)
-
-[HDMI ISA graphics card for vintage PCs by improving the Graphics Gremlin](https://yeokhengmeng.com/2023/09/hdmi-isa-graphics-card-for-vintage-pcs/)
+[Onboarding Floating-Point](https://www.altdevarts.com/p/onboarding-floating-point)
 
 [Show HN: Ghidra Plays Mario](https://github.com/nevesnunes/ghidra-plays-mario)
+
+[A Multi-Level View of LLM Intentionality](http://disagreeableme.blogspot.com/2023/05/a-multi-level-view-of-llm-intentionality.html)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[$400M in assets to bankrupt in 45-minutes because of a failed deployment (2014)](https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/)
+[Gen Z is giving up on college](https://www.businessinsider.nl/gen-z-is-giving-up-on-college/)
 
-[How to pass the interview for software engineering roles in Big Tech](https://www.lambrospetrou.com/articles/big-tech-software-interviews/)
+[Knightmare: A DevOps Cautionary Tale (2014)](https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/)
 
-[The Linux Information Project](https://www.linfo.org/)
+[The Awk book’s 60-line version of Make](https://benhoyt.com/writings/awk-make/)
 
-[Peredvizhnikov Engine is a fully lock-free game engine written in C++20](https://github.com/eduard-permyakov/peredvizhnikov-engine)
+[Japan launches rocket carrying lunar lander and X-ray telescope](https://phys.org/news/2023-09-japan-rocket-lunar-lander-x-ray.html)
 
-[Effectiveness of wearable activity trackers to increase physical activity](https://www.thelancet.com/journals/landig/article/PIIS2589-75002200111-X/fulltext)
+[A group of open source Android apps without ads and unnecessary permissions](https://www.simplemobiletools.com)
 
-[Why Is the Ocean Salty?](https://www.usgs.gov/faqs/why-ocean-salty)
+[Meticulous (YC S21) Is Hiring #3 engineer to build AI for testing]()
 
-[How does Linux NAT a ping?](https://devnonsense.com/posts/how-does-linux-nat-a-ping/)
+[Why is the ocean salty? (2022)](https://www.usgs.gov/faqs/why-ocean-salty)
 
-[Fathom AI Notetaker (YC W21) is hiring a principal SRE (remote)](https://www.ycombinator.com/companies/fathom/jobs/L0pyU04Gs-principal-site-reliability-engineer-remote)
+[RISC-V SBI and the full boot process](https://popovicu.com/posts/risc-v-sbi-and-full-boot-process/)
 
-[Nginx Unit – Universal web app server](https://github.com/nginx/unit)
+[Microsoft has not stopped forcing Edge on Windows 11 users](https://www.ctrl.blog/entry/windows-system-components-default-edge.html)
 
-[Battery-Electric Fishing Vessel Marks a Sea Change for Small Commercial Fishers](https://www.nrel.gov/news/program/2023/battery-electric-fishing-vessel-marks-a-sea-change-for-small-commercial-fishers.html)
+[Ham Imports](https://hamimports.com/)

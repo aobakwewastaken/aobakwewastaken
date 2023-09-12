@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Open source P2P alternative to Slack and Discord built on Tor and IPFS](https://github.com/TryQuiet/quiet)
+[Phoenix 1.7 for Elixir: Edit a Form in a Modal](https://blog.appsignal.com/2023/09/12/phoenix-1-7-for-elixir-edit-a-form-in-a-modal.html)
 
 [CVE-2023-4863: Heap buffer overflow in WebP (Chrome)](https://chromereleases.googleblog.com/2023/09/stable-channel-update-for-desktop_11.html)
 
-[Hacking the Book8088 for better accuracy](https://martypc.blogspot.com/2023/09/hacking-book8088-for-better-accuracy.html)
+[Navigational Instruments (2020)](https://exple.tive.org/blarg/2020/10/25/navigational-instruments/)
+
+[Open source P2P alternative to Slack and Discord built on Tor and IPFS](https://github.com/TryQuiet/quiet)
 
 [The Power of Prolog](https://www.metalevel.at/prolog/facets)
 
-[I2c-USB-hub: An i2C Controllable USB 2.0 Hub](https://github.com/JimHeaney/i2c-usb-hub)
+[Treble.ai (YC S19) Is Hiring Spanish Speaking Engineers in NYC](https://www.ycombinator.com/companies/treble-ai/jobs/tL8GeWc-full-stack-software-engineer)
 
-[What’s the Smallest Variety of CHERI? (2022)](https://msrc.microsoft.com/blog/2022/09/whats-the-smallest-variety-of-cheri/)
+[On Robots Killing People](https://www.schneier.com/blog/archives/2023/09/on-robots-killing-people.html)
 
-[NASA says distant exoplanet could have rare water ocean, possible hint of life](https://www.theguardian.com/science/2023/sep/11/nasa-planet-ocean-life-james-webb-telescope)
+[Hacking the Book8088 for better accuracy](https://martypc.blogspot.com/2023/09/hacking-book8088-for-better-accuracy.html)
 
-[10th Rule of Programming (2003)](https://philip.greenspun.com/bboard/q-and-a-fetch-msg?msg_id=000tgU)
+[Sweden brings more books and handwriting practice back to its tech-heavy schools](https://apnews.com/article/sweden-digital-education-backlash-reading-writing-1dd964c628f76361c43dbf3964f7dbf4)
 
-[Ask HN: How is Rust used in the Linux kernel today?]()
-
-[OpenSSL 1.1.1 End of Life](https://www.openssl.org/blog/blog/2023/09/11/eol-111/)
+[Amiga C Tutorial](http://www.pjhutchison.org/tutorial/amiga_c.html)

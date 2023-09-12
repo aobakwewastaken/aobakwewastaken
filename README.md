@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[UK air traffic control meltdown](https://jameshaydon.github.io/nats-fail/)
+[Death by a Thousand Microservices](https://renegadeotter.com/2023/09/10/death-by-a-thousand-microservices.html)
+
+[Hacking the Book8088 for better accuracy](https://martypc.blogspot.com/2023/09/hacking-book8088-for-better-accuracy.html)
+
+[I2c-USB-hub: An i2C Controllable USB 2.0 Hub](https://github.com/JimHeaney/i2c-usb-hub)
+
+[The Power of Prolog](https://www.metalevel.at/prolog/facets)
 
 [Calculate the difference and intersection of any two regexes](http://phylactery.org/antimirov/)
 
 [Show HN: Real-Time 3D Gaussian Splatting in WebGL](https://antimatter15.com/splat/)
 
-[WiFi can read through walls](https://news.ucsb.edu/2023/021198/wifi-can-read-through-walls)
+[Ask HN: How is Rust used in the Linux kernel today?]()
 
-[The meeting of the minds that launched AI](https://spectrum.ieee.org/dartmouth-ai-workshop)
+[Neopets is still around](https://www.dualshockers.com/neopets-is-still-active-2023/)
 
-[The Project Gutenberg Open Audiobook Collection](https://marhamilresearch4.blob.core.windows.net/gutenberg-public/Website/index.html)
+[OpenSSL 1.1.1 End of Life](https://www.openssl.org/blog/blog/2023/09/11/eol-111/)
 
-[Mac ROM-Inator II Restock and Partnerships](https://www.bigmessowires.com/2023/09/09/mac-rom-inator-ii-restock-and-partnerships/)
-
-[Onboarding Floating-Point](https://www.altdevarts.com/p/onboarding-floating-point)
-
-[Show HN: Ghidra Plays Mario](https://github.com/nevesnunes/ghidra-plays-mario)
-
-[A Multi-Level View of LLM Intentionality](http://disagreeableme.blogspot.com/2023/05/a-multi-level-view-of-llm-intentionality.html)
+[Arm’s Neoverse V2](https://chipsandcheese.com/2023/09/11/hot-chips-2023-arms-neoverse-v2/)

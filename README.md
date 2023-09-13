@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[iPhone 15 and iPhone 15 Plus](https://www.apple.com/newsroom/2023/09/apple-debuts-iphone-15-and-iphone-15-plus/)
+[A DIY near-IR spectrometer](https://caoyuan.scripts.mit.edu/ir_spec.html)
 
-[Fine-tune your own Llama 2 to replace GPT-3.5/4]()
+[PF bug in macOS Sonoma release candidate](https://mullvad.net/en/blog/2023/9/13/bug-in-macos-14-sonoma-prevents-our-app-from-working/)
 
-[Homemade Sriracha](https://www.seriouseats.com/sriracha-recipe-from-scratch)
+[Why the Eddie Murphy Rule Is About More Than Orange Juice (2019)](https://econlife.com/2019/12/the-eddie-murphy-rule/)
 
-[What the interns have wrought, 2023 edition](https://blog.janestreet.com/what-the-interns-have-wrought-2023/)
+[Category Theory Illustrated – Sets](https://abuseofnotation.github.io/category-theory-illustrated/01_set/)
 
-[Free Download Manager backdoored – a possible supply chain attack on Linux](https://securelist.com/backdoored-free-download-manager-linux-malware/110465/)
+[Why Fennel?](https://fennel-lang.org/rationale)
 
-[Electric cooling could shrink quantum computers](https://spectrum.ieee.org/cryogenics)
+[Bitty Engine: An itty bitty game engine](https://paladin-t.github.io/bitty/)
 
-[The way that Jensen Huang runs Nvidia: 40 direct reports, no 1:1s](https://twitter.com/danhockenmaier/status/1701608618087571787)
+[Amazon Ion Specification](https://amazon-ion.github.io/ion-docs/docs/spec.html)
 
-[Justpaid.io (YC W23) is hiring a senior full stack engineer](https://www.justpaid.io/careers)
+[The Uselessness of Phenylephrine (2022)](https://www.science.org/content/blog-post/uselessness-phenylephrine)
 
-[Sony develops energy harvesting module from electromagnetic wave noise](https://www.sony-semicon.com/en/news/2023/2023090701.html)
+[SigNoz – Open-source alternative to Datadog is hiring product designers (remote)](https://signoz.io/careers/product-designer-in/)
 
-[Sweden brings more books and handwriting practice back to its tech-heavy schools](https://apnews.com/article/sweden-digital-education-backlash-reading-writing-1dd964c628f76361c43dbf3964f7dbf4)
+[Any sufficiently advanced uninstaller is indistinguishable from malware](https://devblogs.microsoft.com/oldnewthing/20230911-00/?p=108749)

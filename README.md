@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[XFCE Wayland Development Roadmap](https://wiki.xfce.org/releng/wayland_roadmap)
+[Tails is a portable OS that protects against surveillance and censorship](https://tails.net/)
 
-[Tech Workers Deserve a Union: An Interview with Ethan Marcotte](https://workerorganizing.org/tech-workers-deserve-a-union-6904/)
+[How to build a IP geolocation database from scratch?](https://ipapi.is/geolocation.html)
 
-[I got paid to live in Antarctica](https://wandereatwrite.com/how-i-got-paid-to-live-in-antarctica/)
+[Arm IPO to kick off today with company valued at $54.5B](https://www.theregister.com/2023/09/14/arm_ipo/)
 
-[3D printing on OpenBSD? Yes, that’s a thing](https://undeadly.org/cgi?action=article;sid=20230914075444)
+[Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/abs/2309.06180)
 
-[How to Build a IP Geolocation Database from Scratch?](https://ipapi.is/geolocation.html)
+[Bacteria Generate Electricity from Wastewater](https://actu.epfl.ch/news/bacteria-generate-electricity-from-wastewater/)
 
-[Firezone (YC W22) is hiring rust engineers to build secure networks](https://www.ycombinator.com/companies/firezone/jobs)
+[HTTP Status Dogs. Hypertext Transfer Protocol Response Status Codes. and Dogs](https://httpstatusdogs.com/)
 
-[How mobile apps illegally share your personal data](https://noyb.eu/en/how-mobile-apps-illegally-share-your-personal-data)
-
-[Let's write a treesitter major mode for Emacs](https://www.masteringemacs.org/article/lets-write-a-treesitter-major-mode)
+[Hypervisor from Scratch (2022)](https://rayanfam.com/tutorials/)
 
 [A Comprehensive Guide for Building Rag-Based LLM Applications](https://github.com/ray-project/llm-applications/blob/main/notebooks/rag.ipynb)
 
-[Johnny Decimal: A System to Organize Projects](https://johnnydecimal.com)
+[Calif. passes strongest right-to-repair bill yet, requiring 7 years of parts](https://arstechnica.com/gadgets/2023/09/calif-passes-strongest-right-to-repair-bill-yet-requiring-7-years-of-parts/)
+
+[My Little MillionDollarHomepage Garden](https://matthieu.io/blog/2023/09/13/million-dollar-homepage-garden/)

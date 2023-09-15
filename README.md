@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Willingham sends Fables into the public domain](https://billwillingham.substack.com/p/willingham-sends-fables-into-the)
+
+[Delphi 11 Community Edition](https://www.embarcadero.com/products/delphi/starter)
+
+[Find my cat: open-source Cat Tracker](https://www.findmycat.io/)
+
+[Norway Fining Meta $98,500 per Day for User Privacy Breach](https://www.twipla.com/en/blog/norway-fining-meta-98500-per-day-for-user-privacy-breach)
+
+[Unity’s New Pricing: A Wake-Up Call on the Importance of Open Source in Gaming](https://ramatak.com/2023/09/15/unitys-new-pricing-a-wake-up-call-on-the-importance-of-open-source-in-gaming/)
+
 [B612 Font Family](https://b612-font.com/)
 
-[Libsodium: A modern, portable, easy to use crypto library](https://github.com/jedisct1/libsodium)
-
-[Chromebooks will get 10 years of automatic updates](https://blog.google/outreach-initiatives/education/automatic-update-extension-chromebook/)
-
-[A mathematical formalization of dimensional analysis](https://terrytao.wordpress.com/2012/12/29/a-mathematical-formalisation-of-dimensional-analysis/)
+[MaplePad – RP2040 Dreamcast controller, VMU, and Purupuru (rumble pack) emulator](https://github.com/mackieks/MaplePad)
 
 [Show HN: Nue – A React/Vue/Vite/Astro Alternative](https://nuejs.org)
 
-[Eqtble (YC W21) Is Hiring a Data Analyst](https://www.ycombinator.com/companies/eqtble/jobs/bOX2JJp-junior-data-scientist)
+[A mathematical formalization of dimensional analysis](https://terrytao.wordpress.com/2012/12/29/a-mathematical-formalisation-of-dimensional-analysis/)
 
-[Programming Language Inventor or Serial Killer? (2003)](https://vole.wtf/coder-serial-killer-quiz/)
-
-[Pyobd - a free and open source program for car diagnostics](https://github.com/barracuda-fsh/pyobd)
-
-[iNaturalist strikes out on its own](https://baynature.org/2023/09/12/inaturalist-strikes-out-on-its-own/)
-
-[In a Git repository, where do your files live?](https://jvns.ca/blog/2023/09/14/in-a-git-repository--where-do-your-files-live-/)
+[BotOrNot (2021)](https://incolumitas.com/pages/BotOrNot/)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[The Tyranny of the Marginal User](https://nothinghuman.substack.com/p/the-tyranny-of-the-marginal-user)
+[B612 Font Family](https://b612-font.com/)
 
-[Googlers told to avoid words like ‘share’ and ‘bundle,’ US says](https://www.bloomberg.com/news/newsletters/2023-09-14/googlers-told-to-avoid-words-like-share-and-bundle-us-says-lmj27bhl)
+[Libsodium: A modern, portable, easy to use crypto library](https://github.com/jedisct1/libsodium)
 
 [Chromebooks will get 10 years of automatic updates](https://blog.google/outreach-initiatives/education/automatic-update-extension-chromebook/)
 
-[Intermediate sci knowledge associated with overconfidence and negative attitudes](https://www.nature.com/articles/s41562-023-01677-8)
+[A mathematical formalization of dimensional analysis](https://terrytao.wordpress.com/2012/12/29/a-mathematical-formalisation-of-dimensional-analysis/)
+
+[Show HN: Nue – A React/Vue/Vite/Astro Alternative](https://nuejs.org)
+
+[Eqtble (YC W21) Is Hiring a Data Analyst](https://www.ycombinator.com/companies/eqtble/jobs/bOX2JJp-junior-data-scientist)
+
+[Programming Language Inventor or Serial Killer? (2003)](https://vole.wtf/coder-serial-killer-quiz/)
+
+[Pyobd - a free and open source program for car diagnostics](https://github.com/barracuda-fsh/pyobd)
+
+[iNaturalist strikes out on its own](https://baynature.org/2023/09/12/inaturalist-strikes-out-on-its-own/)
 
 [In a Git repository, where do your files live?](https://jvns.ca/blog/2023/09/14/in-a-git-repository--where-do-your-files-live-/)
-
-[Unity is offering a runtime fee waiver if you switch to LevelPlay](https://mobilegamer.biz/unity-is-offering-a-runtime-fee-waiver-if-you-switch-to-levelplay-as-it-tries-to-kill-applovin/)
-
-[Stolen van Gogh painting returned in an IKEA bag](https://www.smithsonianmag.com/smart-news/dutch-art-detective-recovers-a-van-gogh-stolen-in-2020-180982896/)
-
-[A clever “perpetual motion” device [video]](https://www.youtube.com/watch?v=r_LG8FDt51U)
-
-[Toyota’s advanced battery technology roadmap](https://newsroom.toyota.eu/toyotas-advanced-battery-technology-roadmap/)
-
-[Instead of collaborating or supporting me, Google stole my idea](https://github.com/google/project-gameface/issues/1)

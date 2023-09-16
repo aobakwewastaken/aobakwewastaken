@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Why my favourite API is a zipfile on the European Central Bank's website](https://csvbase.com/blog/5)
+[Subdomain.center – discover all subdomains for a domain](https://www.subdomain.center/)
 
-[No Sacred Masterpieces, that time I built Excel for Uber and they ditched it](https://basta.substack.com/p/no-sacred-masterpieces)
+[My favourite API is a zipfile on the European Central Bank's website](https://csvbase.com/blog/5)
 
-[Building an Economy Simulator from Scratch](https://thomassimon.dev/ps/4)
+[Relational is more than SQL](https://fauna.com/blog/relational-is-more-than-sql)
 
-[Kopia: Open-Source, Fast and Secure Open-Source Backup Software](https://kopia.io/)
+[enron :: discover the power of WHY (2001)](https://enroncorp.com/corp/index.html)
 
-[Show HN: Shrinkflation Tracker](https://www.shrinkflation.io/)
+[Everyday uses for PVC water pipe](https://tomtilley.net/projects/pvc/)
 
-[Pixel Sea: Search 88x31 badges and 32x32 icons](https://pixelsea.neocities.org/)
+[Converge (YC S23) is hiring a founding product engineer](https://www.ycombinator.com/companies/converge/jobs/vc4Nbeh-founding-product-engineer)
 
-[Akiyoshi’s Illusion Pages](https://www.ritsumei.ac.jp/~akitaoka/index-e.html)
+[Building an economy simulator from scratch](https://thomassimon.dev/ps/4)
 
-[Optimizing LLMs from a Dataset Perspective](https://sebastianraschka.com/blog/2023/optimizing-LLMs-dataset-perspective.html)
+[I built Excel for Uber and they ditched it](https://basta.substack.com/p/no-sacred-masterpieces)
 
-[95 bits per second](https://popey.com/blog/2023/09/95-bits-per-second/)
+[How Instagram scaled to 14 million users with only 3 engineers](https://engineercodex.substack.com/p/how-instagram-scaled-to-14-million)
 
-[Show HN: IncarnaMind-Chat with your multiple docs using LLMs](https://github.com/junruxiong/IncarnaMind)
+[Johnny Cash Has Been Everywhere (Man)](http://www.johnnycashhasbeeneverywhere.com/)

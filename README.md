@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[BtrBlocks: Efficient Columnar Compression for Data Lakes [pdf]](https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/papers/btrblocks.pdf)
+
+[Habits of top engineers](https://engineercodex.substack.com/p/7-simple-habits-of-the-top-1-of-engineers)
+
 [How Instagram scaled to 14 million users with only 3 engineers](https://engineercodex.substack.com/p/how-instagram-scaled-to-14-million)
 
-[GPT-4 is not getting worse (tests and a long rant)](https://coagulopath.com/gpt-4-is-not-getting-worse/)
+[Percy Ludgate](https://en.wikipedia.org/wiki/Percy_Ludgate)
+
+[The “Do Something About It” Club](https://chavanniclass.com/2023/09/16/48-the-do-something-about-it-club/)
+
+[Ploomber (YC W22) Is Hiring Software Engineers](https://www.ycombinator.com/companies/ploomber/jobs)
+
+[The Economic Cost of Populism](https://www.aeaweb.org/articles?id=10.1257/aer.20202045&from=f)
+
+[Show HN: Android Hacker News Widget and App](https://play.google.com/store/apps/details?id=com.thirdgate.hackernews&hl=en_US)
 
 [Subdomain.center – discover all subdomains for a domain](https://www.subdomain.center/)
 
-[Relational is more than SQL](https://fauna.com/blog/relational-is-more-than-sql)
-
 [Everyday uses for PVC water pipe](https://tomtilley.net/projects/pvc/)
-
-[enron :: discover the power of WHY (2001)](https://enroncorp.com/corp/index.html)
-
-[Building an economy simulator from scratch](https://thomassimon.dev/ps/4)
-
-[I built Excel for Uber and they ditched it](https://basta.substack.com/p/no-sacred-masterpieces)
-
-[Johnny Cash Has Been Everywhere (Man)](http://www.johnnycashhasbeeneverywhere.com/)
-
-[Pongs](https://pippinbarr.com/pongs/info/)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [BtrBlocks: Efficient Columnar Compression for Data Lakes [pdf]](https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/papers/btrblocks.pdf)
 
-[Habits of top engineers](https://engineercodex.substack.com/p/7-simple-habits-of-the-top-1-of-engineers)
+[Observations on Credit and Lending Practices in Ur III Mesopotamia (2004) [pdf]](https://www.sfu.ca/~poitras/jesho_UR_14.pdf)
 
-[How Instagram scaled to 14 million users with only 3 engineers](https://engineercodex.substack.com/p/how-instagram-scaled-to-14-million)
+[Show HN: exaequOS - a new OS running in a web browser](https://www.exaequos.com)
+
+[Tracking Austrian grocery prices by scraping store sites](https://mastodon.gamedev.place/@badlogic/111071396799790275)
+
+[The Triassic-Jurassic Extinction](https://johncarlosbaez.wordpress.com/2023/09/16/the-triassic-jurassic-extinction-event/)
 
 [Percy Ludgate](https://en.wikipedia.org/wiki/Percy_Ludgate)
 
-[The “Do Something About It” Club](https://chavanniclass.com/2023/09/16/48-the-do-something-about-it-club/)
+[Bitwarden login down due to Azure outage](https://status.bitwarden.com/)
 
-[Ploomber (YC W22) Is Hiring Software Engineers](https://www.ycombinator.com/companies/ploomber/jobs)
-
-[The Economic Cost of Populism](https://www.aeaweb.org/articles?id=10.1257/aer.20202045&from=f)
-
-[Show HN: Android Hacker News Widget and App](https://play.google.com/store/apps/details?id=com.thirdgate.hackernews&hl=en_US)
+[Textual Adds a Command Palette](https://textual.textualize.io/blog/2023/09/15/textual-0370-adds-a-command-palette/)
 
 [Subdomain.center – discover all subdomains for a domain](https://www.subdomain.center/)
 
-[Everyday uses for PVC water pipe](https://tomtilley.net/projects/pvc/)
+[The “Do Something About It” Club](https://chavanniclass.com/2023/09/16/48-the-do-something-about-it-club/)

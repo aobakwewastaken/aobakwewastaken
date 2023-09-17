@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Close to 2k Environmental Activists Killed over Last Decade](https://e360.yale.edu/digest/environmental-defenders-murdered-2022)
+[Linear Book Scanner – Open-source automatic book scanner](https://linearbookscanner.org/)
 
-[Comp.lang.c is now full of spam from Google Groups](https://groups.google.com/g/comp.lang.c)
+[The Sound Proof Booths of Silence](https://www.dota2.com/newsentry/3675555405719286536)
 
-[Linear Book Scanner – The open-source automatic book scanner](https://linearbookscanner.org/)
+[How HTTPS Works (2018)](https://howhttps.works)
 
-[Qualcomm: What is RISC-V, and why we're unlocking its potential](https://www.qualcomm.com/news/onq/2023/09/what-is-risc-v-and-why-were-unlocking-its-potential)
+[Nonograms - Japanese Crosswords](https://www.nonograms.org/)
+
+[Apple’s new Transformer-powered predictive text model](https://jackcook.com/2023/09/08/predictive-text.html)
+
+[A High Throughput B+tree for SIMD Architectures (2020) [pdf]](https://www.ece.lsu.edu/lpeng/papers/tpds-20-1.pdf)
 
 [Changing the Rules of Rust](https://without.boats/blog/changing-the-rules-of-rust/)
 
-[Whistleblower CISO says PennState lied about IT security to win $2B from US gov](https://www.centredaily.com/news/local/education/penn-state/article278868069.html)
+[Apocalypse Proof: 33 Thomas Street in New York City](https://placesjournal.org/article/33-thomas-street-and-conspiracy-thrillers/)
 
-[Unity's Just Not into You, Indie Developer](https://www.gamedeveloper.com/blogs/unity-s-just-not-into-you-indie-developer)
+[Comp.lang.c is now full of spam](https://groups.google.com/g/comp.lang.c)
 
-[How HTTPS Works](https://howhttps.works)
-
-[A look at Apple’s new Transformer-powered predictive text model](https://jackcook.com/2023/09/08/predictive-text.html)
-
-[The Gods of the Copybook Headings](https://en.wikipedia.org/wiki/The_Gods_of_the_Copybook_Headings)
+[Close to 2k environmental activists killed over last decade](https://e360.yale.edu/digest/environmental-defenders-murdered-2022)

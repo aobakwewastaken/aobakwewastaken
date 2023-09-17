@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Linear Book Scanner – Open-source automatic book scanner](https://linearbookscanner.org/)
+[CatalaLang/catala: Programming language for law specification](https://github.com/CatalaLang/catala)
 
-[The Sound Proof Booths of Silence](https://www.dota2.com/newsentry/3675555405719286536)
+[Large Language Models for Compiler Optimization](https://arxiv.org/abs/2309.07062)
 
-[How HTTPS Works (2018)](https://howhttps.works)
+[Pineapple ONE: open-source 32 bit RISC-V CPU that you can make at home](https://pineapple-one.github.io/)
 
-[Nonograms - Japanese Crosswords](https://www.nonograms.org/)
+[The Data Science Manifesto (2020)](http://datasciencemanifesto.org/)
 
-[Apple’s new Transformer-powered predictive text model](https://jackcook.com/2023/09/08/predictive-text.html)
+[Vintage Apple](https://vintageapple.org/)
 
-[A High Throughput B+tree for SIMD Architectures (2020) [pdf]](https://www.ece.lsu.edu/lpeng/papers/tpds-20-1.pdf)
+[Run LLMs at home, BitTorrent‑style](https://petals.dev/)
 
-[Changing the Rules of Rust](https://without.boats/blog/changing-the-rules-of-rust/)
+[Infrastructure Manager: Provision Google Cloud Resources with Terraform](https://cloud.google.com/blog/products/management-tools/introducing-infrastructure-manager-powered-by-terraform/)
 
-[Apocalypse Proof: 33 Thomas Street in New York City](https://placesjournal.org/article/33-thomas-street-and-conspiracy-thrillers/)
+[Homebrew Website Club](https://indieweb.org/Homebrew_Website_Club)
 
-[Comp.lang.c is now full of spam](https://groups.google.com/g/comp.lang.c)
+[Linear Book Scanner – Open-source automatic book scanner (2014)](https://linearbookscanner.org/)
 
-[Close to 2k environmental activists killed over last decade](https://e360.yale.edu/digest/environmental-defenders-murdered-2022)
+[Hexadecimal clock counting down to 2038 problem](https://retr0.id/stuff/2038/)

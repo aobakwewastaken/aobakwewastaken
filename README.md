@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[How Valve Built Soundproof Booths](https://www.dota2.com/newsentry/3675555405719286536)
+[Close to 2k Environmental Activists Killed over Last Decade](https://e360.yale.edu/digest/environmental-defenders-murdered-2022)
+
+[Comp.lang.c is now full of spam from Google Groups](https://groups.google.com/g/comp.lang.c)
+
+[Linear Book Scanner – The open-source automatic book scanner](https://linearbookscanner.org/)
+
+[Qualcomm: What is RISC-V, and why we're unlocking its potential](https://www.qualcomm.com/news/onq/2023/09/what-is-risc-v-and-why-were-unlocking-its-potential)
+
+[Changing the Rules of Rust](https://without.boats/blog/changing-the-rules-of-rust/)
+
+[Whistleblower CISO says PennState lied about IT security to win $2B from US gov](https://www.centredaily.com/news/local/education/penn-state/article278868069.html)
+
+[Unity's Just Not into You, Indie Developer](https://www.gamedeveloper.com/blogs/unity-s-just-not-into-you-indie-developer)
+
+[How HTTPS Works](https://howhttps.works)
 
 [A look at Apple’s new Transformer-powered predictive text model](https://jackcook.com/2023/09/08/predictive-text.html)
 
-[Cystic fibrosis treatment wins Breakthrough Prize](https://www.nature.com/articles/d41586-023-02890-1)
-
-[A High Throughput B+tree for SIMD Architectures (2020) [pdf]](https://www.ece.lsu.edu/lpeng/papers/tpds-20-1.pdf)
-
-[Bounties Damage Open Source Projects](https://ziglang.org/news/bounties-damage-open-source-projects/)
-
-[Unity's Trap](https://www.pentadact.com/2023-09-16-unitys-trap/)
-
-[Are the Longevity Benefits of Acarbose Rooted in Its Role on the Gut Microbiota?](https://gethealthspan.com/blog/articles/acarbose-longevity-benefits-gut-microbiota/n3jokanbseg1f1apq7wt3/)
-
-[Java 21 makes me like Java again](https://wscp.dev/posts/tech/java-pattern-matching/)
-
-[AMD’s Phoenix SoC](https://chipsandcheese.com/2023/09/16/hot-chips-2023-amds-phoenix-soc/)
-
-[Breakfast cereal is in long-term decline](https://www.wsj.com/finance/investing/cereal-decline-breakfast-trend-6dd591e8)
+[The Gods of the Copybook Headings](https://en.wikipedia.org/wiki/The_Gods_of_the_Copybook_Headings)

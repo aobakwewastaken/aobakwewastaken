@@ -3,18 +3,18 @@
 
 [Cystic fibrosis treatment wins Breakthrough Prize](https://www.nature.com/articles/d41586-023-02890-1)
 
+[A High Throughput B+tree for SIMD Architectures (2020) [pdf]](https://www.ece.lsu.edu/lpeng/papers/tpds-20-1.pdf)
+
+[Stay Away from Politics](https://www.lrb.co.uk/the-paper/v45/n18/william-davies/stay-away-from-politics)
+
 [Are the Longevity Benefits of Acarbose Rooted in Its Role on the Gut Microbiota?](https://gethealthspan.com/blog/articles/acarbose-longevity-benefits-gut-microbiota/n3jokanbseg1f1apq7wt3/)
 
 [AMD’s Phoenix SoC](https://chipsandcheese.com/2023/09/16/hot-chips-2023-amds-phoenix-soc/)
 
-[Pirates of the Caribbean (Metric Edition) (2017)](https://www.nist.gov/blogs/taking-measure/pirates-caribbean-metric-edition)
-
 [Show HN: Every Breath You Take – Heart Rate Variability Training](https://github.com/kbre93/every-breath-you-take)
 
-[America's advanced manufacturing problem and how to fix it](https://americanaffairsjournal.org/2023/08/americas-advanced-manufacturing-problem-and-how-to-fix-it/)
+[Bounties Damage Open Source Projects](https://ziglang.org/news/bounties-damage-open-source-projects/)
 
-[Generative Image Dynamics](https://generative-dynamics.github.io/)
+[Antarctic sea-ice at 'mind-blowing' low alarms experts](https://www.bbc.co.uk/news/science-environment-66724246)
 
-[Running one’s own root Certificate Authority in 2023](https://wejn.org/2023/09/running-ones-own-root-certificate-authority-in-2023/)
-
-[The Fossil Wrist PDA becomes a tiny Gopher client](http://oldvcr.blogspot.com/2023/09/the-fossil-wrist-pda-becomes-tiny.html)
+[Breakfast cereal is in long-term decline](https://www.wsj.com/finance/investing/cereal-decline-breakfast-trend-6dd591e8)

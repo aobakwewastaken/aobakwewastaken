@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[38TB of data accidentally exposed by Microsoft AI researchers](https://www.wiz.io/blog/38-terabytes-of-private-data-accidentally-exposed-by-microsoft-ai-researchers)
+[Citing “rapid evolution of generative AI,” Amazon limits new Kindle books](https://www.kdpcommunity.com/s/article/Update-on-KDP-Title-Creation-Limits?language=en_US&forum=KDP%20Forum)
 
-[When Zig Outshines Rust – Memory Efficient Enum Arrays](https://alic.dev/blog/dense-enums)
+[Godot is not the new Unity – The anatomy of a Godot API call](https://sampruden.github.io/posts/godot-is-not-the-new-unity/)
 
-[Replanting Logged Forests with Diverse Seedlings Accelerates Restoration](https://www.technologynetworks.com/applied-sciences/news/replanting-logged-forests-with-diverse-mixtures-of-seedlings-accelerates-restoration-378916)
+[Some new snippets from the Snowden documents](https://www.electrospaces.net/2023/09/some-new-snippets-from-snowden-documents.html)
 
-[What If OpenDocument Used SQLite?](https://www.sqlite.org/affcase1.html)
+[Show HN: HyperDX – open-source dev-friendly Datadog alternative](https://github.com/hyperdxio/hyperdx)
 
-[The brain is not an onion with a tiny reptile inside (2020)](https://journals.sagepub.com/doi/10.1177/0963721420917687)
+[Replanting logged forests with diverse seedlings accelerates restoration](https://www.technologynetworks.com/applied-sciences/news/replanting-logged-forests-with-diverse-mixtures-of-seedlings-accelerates-restoration-378916)
 
-[NSA’s Backdoor Key (2002)](http://www.cypherspace.org/adam/hacks/lotus-nsa-key.html)
+[FTC Warns Pharma: May Go After Them for Sham Patents Designed to Delay Generics](https://www.techdirt.com/2023/09/18/ftc-warns-pharma-companies-that-it-may-go-after-them-for-sham-patent-listings-designed-to-delay-generic-competitors/)
 
-[Creators of Argo CD Release New OSS Project Kargo for Next Gen Gitops](https://akuity.io/blog/introducing-kargo/)
+[Self-supervised learning: The dark matter of intelligence (2021)](https://ai.meta.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/)
 
-[OpenRA – Classic strategy games rebuilt for the modern era](https://www.openra.net/)
+[Van Gogh’s Self-Portraits](https://www.vangoghmuseum.nl/en/art-and-stories/stories/all-stories/5-things-you-need-to-know-about-van-goghs-self-portraits)
 
-[Follow up to “Changing the rules of Rust”](https://without.boats/blog/follow-up-to-changing-the-rules-of-rust/)
+[Making IIIF Official at the Internet Archive](https://blog.archive.org/2023/09/18/making-iiif-official-at-the-internet-archive/)
 
-[Unix shells are generally not viable access control mechanisms any more](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/UnixShellsNoMoreAccessControl)
+[Ask HN: YouTube keeps suggesting vids I marked “not interested”. What can I do?]()

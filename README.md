@@ -7,14 +7,14 @@
 
 [What If OpenDocument Used SQLite?](https://www.sqlite.org/affcase1.html)
 
+[The brain is not an onion with a tiny reptile inside (2020)](https://journals.sagepub.com/doi/10.1177/0963721420917687)
+
 [NSA’s Backdoor Key (2002)](http://www.cypherspace.org/adam/hacks/lotus-nsa-key.html)
 
-[The brain is not an onion with a tiny reptile inside (2020)](https://journals.sagepub.com/doi/10.1177/0963721420917687)
+[Creators of Argo CD Release New OSS Project Kargo for Next Gen Gitops](https://akuity.io/blog/introducing-kargo/)
 
 [OpenRA – Classic strategy games rebuilt for the modern era](https://www.openra.net/)
 
+[Follow up to “Changing the rules of Rust”](https://without.boats/blog/follow-up-to-changing-the-rules-of-rust/)
+
 [Unix shells are generally not viable access control mechanisms any more](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/UnixShellsNoMoreAccessControl)
-
-['Atomic Energy' Book Signed by Einstein, Oppenheimer, Bohr, Enola Gay Crew](https://www.rrauction.com/auctions/lot-detail/347934706696090-manhattan-project-atomic-bomb-signed-book-with-einstein-oppenheimer-bohr-enola-gay-crew-nobel-prize-winners-and-nuclear-researchers)
-
-[Problems with homemade billing systems](https://www.getlago.com/blog/the-4-biggest-problems-with-homemade-billing-systems)

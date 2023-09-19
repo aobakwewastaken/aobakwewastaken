@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Mythbusters: Wing Commander I Edition](https://www.wcnews.com/news/update/16279)
+[Opera's browser is now available with chess baked in](https://blogs.opera.com/news/2023/09/opera-launches-custom-chess-browser/)
 
-[Show HN: HyperDX – open-source dev-friendly Datadog alternative](https://github.com/hyperdxio/hyperdx)
+[I digitalized Berlin's registration form](https://nicolasbouliane.com/projects/anmeldung-form-filler)
+
+[U.K. finally rejoins Horizon Europe research funding scheme](https://www.science.org/content/article/uk-finally-rejoins-horizon-europe-research-funding-scheme)
+
+[Mythbusters: Wing Commander I Edition](https://www.wcnews.com/news/update/16279)
 
 [Mwmbl: Free, open-source and non-profit search engine](https://mwmbl.org/)
 
-[Fidonet Rules (2014)](https://wiki.c2.com/?FidonetRules)
+[OSS Game Engines are increasing their stars on GitHub due to Unity's missteps](https://twitter.com/OSSInsight/status/1703087927763542305)
 
-[Van Gogh’s Self-Portraits](https://www.vangoghmuseum.nl/en/art-and-stories/stories/all-stories/5-things-you-need-to-know-about-van-goghs-self-portraits)
+[Ask HN: What low code platforms are worth using?]()
 
-[Self-supervised learning: The dark matter of intelligence (2021)](https://ai.meta.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/)
+[Safety Gate: the EU rapid alert system for dangerous non-food products](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10009444)
 
-[Making IIIF Official at the Internet Archive](https://blog.archive.org/2023/09/18/making-iiif-official-at-the-internet-archive/)
+[Windows Subsystem for Linux gets new 'mirrored' network mode](https://www.bleepingcomputer.com/news/microsoft/windows-subsystem-for-linux-gets-new-mirrored-network-mode/)
 
-[Why and when the Sahara Desert was green: new research](https://phys.org/news/2023-09-reveals-sahara-green.html)
-
-[Tell HN: ChatGPT cut off date now Jan 2022]()
-
-[Tackling the curse of dimensionality with physics-informed neural networks](https://arxiv.org/abs/2307.12306)
+[A basic guide to using Asian names](https://www.asiamediacentre.org.nz/features/a-guide-to-using-asian-names/)

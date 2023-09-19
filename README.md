@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Snowden leak: Cavium networking hardware may contain NSA backdoor](https://twitter.com/matthew_d_green/status/1703959863796158678)
+
+[JDK 21 Release Notes](https://jdk.java.net/21/release-notes)
+
+[Java 21 Released](https://mail.openjdk.org/pipermail/jdk-dev/2023-September/008267.html)
+
 [VCMI: Open-Source Engine for Heroes of Might and Magic III](https://vcmi.eu)
 
-[U.K. finally rejoins Horizon Europe research funding scheme](https://www.science.org/content/article/uk-finally-rejoins-horizon-europe-research-funding-scheme)
+[The path to detecting extraterrestrial life with astrophotonics](https://arxiv.org/abs/2309.08732)
 
-[Gitlab Critical Security Release: 16.3.4 and 16.2.7](https://about.gitlab.com/releases/2023/09/18/security-release-gitlab-16-3-4-released/)
+[Historical maps probably helped cause World War I](https://resobscura.substack.com/p/historical-maps-probably-helped-cause)
 
-[Mythbusters: Wing Commander I Edition](https://www.wcnews.com/news/update/16279)
+[64-bit bank balances ‘ought to be enough for anybody’?](https://tigerbeetle.com/blog/2023-09-19-64-bit-bank-balances-ought-to-be-enough-for-anybody/)
 
-[I digitalized Berlin's registration form](https://nicolasbouliane.com/projects/anmeldung-form-filler)
+[Lies my calculator and computer told me [pdf]](https://www.stewartcalculus.com/data/default/upfiles/LiesCalcAndCompTold.pdf)
 
-[Mwmbl: Free, open-source and non-profit search engine](https://mwmbl.org/)
+[Counting Ghosts: A case for abandoning web analytics](https://pcmaffey.com/counting-ghosts)
 
-[OSS Game Engines are increasing their stars on GitHub due to Unity's missteps](https://twitter.com/OSSInsight/status/1703087927763542305)
-
-[Safety Gate: the EU rapid alert system for dangerous non-food products](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10009444)
-
-[Tell HN: ChatGPT cut off date now Jan 2022]()
-
-[Fidonet Rules (2014)](https://wiki.c2.com/?FidonetRules)
+[Improving your online privacy: An update](https://blog.ovalerio.net/archives/2615)

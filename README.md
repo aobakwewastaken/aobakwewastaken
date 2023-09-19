@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Opera's browser is now available with chess baked in](https://blogs.opera.com/news/2023/09/opera-launches-custom-chess-browser/)
-
-[I digitalized Berlin's registration form](https://nicolasbouliane.com/projects/anmeldung-form-filler)
+[VCMI: Open-Source Engine for Heroes of Might and Magic III](https://vcmi.eu)
 
 [U.K. finally rejoins Horizon Europe research funding scheme](https://www.science.org/content/article/uk-finally-rejoins-horizon-europe-research-funding-scheme)
 
+[Gitlab Critical Security Release: 16.3.4 and 16.2.7](https://about.gitlab.com/releases/2023/09/18/security-release-gitlab-16-3-4-released/)
+
 [Mythbusters: Wing Commander I Edition](https://www.wcnews.com/news/update/16279)
+
+[I digitalized Berlin's registration form](https://nicolasbouliane.com/projects/anmeldung-form-filler)
 
 [Mwmbl: Free, open-source and non-profit search engine](https://mwmbl.org/)
 
 [OSS Game Engines are increasing their stars on GitHub due to Unity's missteps](https://twitter.com/OSSInsight/status/1703087927763542305)
 
-[Ask HN: What low code platforms are worth using?]()
-
 [Safety Gate: the EU rapid alert system for dangerous non-food products](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10009444)
 
-[Windows Subsystem for Linux gets new 'mirrored' network mode](https://www.bleepingcomputer.com/news/microsoft/windows-subsystem-for-linux-gets-new-mirrored-network-mode/)
+[Tell HN: ChatGPT cut off date now Jan 2022]()
 
-[A basic guide to using Asian names](https://www.asiamediacentre.org.nz/features/a-guide-to-using-asian-names/)
+[Fidonet Rules (2014)](https://wiki.c2.com/?FidonetRules)

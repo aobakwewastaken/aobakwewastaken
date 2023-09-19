@@ -5,16 +5,16 @@
 
 [Java 21 Released](https://mail.openjdk.org/pipermail/jdk-dev/2023-September/008267.html)
 
+[Graph Neural Networks Use Graphs When They Shouldn't](https://arxiv.org/abs/2309.04332)
+
+[Always Bump Downwards (2019)](https://fitzgeraldnick.com/2019/11/01/always-bump-downwards.html)
+
+[Counting Ghosts: A case for abandoning web analytics](https://pcmaffey.com/counting-ghosts)
+
+[GraalVM for JDK 21 is here](https://medium.com/graalvm/graalvm-for-jdk-21-is-here-ee01177dd12d)
+
 [VCMI: Open-Source Engine for Heroes of Might and Magic III](https://vcmi.eu)
 
 [The path to detecting extraterrestrial life with astrophotonics](https://arxiv.org/abs/2309.08732)
 
-[Historical maps probably helped cause World War I](https://resobscura.substack.com/p/historical-maps-probably-helped-cause)
-
-[64-bit bank balances ‘ought to be enough for anybody’?](https://tigerbeetle.com/blog/2023-09-19-64-bit-bank-balances-ought-to-be-enough-for-anybody/)
-
-[Lies my calculator and computer told me [pdf]](https://www.stewartcalculus.com/data/default/upfiles/LiesCalcAndCompTold.pdf)
-
-[Counting Ghosts: A case for abandoning web analytics](https://pcmaffey.com/counting-ghosts)
-
-[Improving your online privacy: An update](https://blog.ovalerio.net/archives/2615)
+[OpenJDK JDK 21 General-Availability Release](https://jdk.java.net/21/)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Fixing for loops in Go 1.22](https://go.dev/blog/loopvar-preview)
+
 [Snowden leak: Cavium networking hardware may contain NSA backdoor](https://twitter.com/matthew_d_green/status/1703959863796158678)
 
-[JDK 21 Release Notes](https://jdk.java.net/21/release-notes)
+[Can’t send email more than 500 miles (2002)](https://web.mit.edu/jemorris/humor/500-miles)
 
-[Java 21 Released](https://mail.openjdk.org/pipermail/jdk-dev/2023-September/008267.html)
+[Circles do not exist](https://nibblestew.blogspot.com/2023/09/circles-do-not-exist.html)
 
-[Graph Neural Networks Use Graphs When They Shouldn't](https://arxiv.org/abs/2309.04332)
+[Notes on existential risk from artificial superintelligence](https://michaelnotebook.com/xrisk/index.html)
 
-[Always Bump Downwards (2019)](https://fitzgeraldnick.com/2019/11/01/always-bump-downwards.html)
+[Simple Open-Source Java Virtual Machine in C](https://github.com/phillbush/jvm)
 
-[Counting Ghosts: A case for abandoning web analytics](https://pcmaffey.com/counting-ghosts)
+[Chonky Menu Re-Creation](https://www.nathanmanousos.com/posts/chonky-menu)
 
-[GraalVM for JDK 21 is here](https://medium.com/graalvm/graalvm-for-jdk-21-is-here-ee01177dd12d)
+[Emerge (YC W21) is hiring a lead front end engineer (remote, small team)](https://www.workatastartup.com/jobs/61922/)
 
-[VCMI: Open-Source Engine for Heroes of Might and Magic III](https://vcmi.eu)
+[YouTube blocks Russell Brand from making money through its platform](https://www.nytimes.com/2023/09/19/arts/russell-brand-youtube.html)
 
-[The path to detecting extraterrestrial life with astrophotonics](https://arxiv.org/abs/2309.08732)
-
-[OpenJDK JDK 21 General-Availability Release](https://jdk.java.net/21/)
+[RabbitMQ vs. Kafka – An Architect’s Dilemma (Part 1)](https://eranstiller.com/rabbitmq-vs-kafka-an-architects-dilemma-part-1)

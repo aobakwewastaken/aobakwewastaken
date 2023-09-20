@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Fixing for loops in Go 1.22](https://go.dev/blog/loopvar-preview)
-
-[Snowden leak: Cavium networking hardware may contain NSA backdoor](https://twitter.com/matthew_d_green/status/1703959863796158678)
+[FAA authorizes Zipline to deliver commercial packages using drones](https://www.faa.gov/newsroom/faa-authorizes-zipline-deliver-commercial-packages-beyond-line-sight)
 
 [Can’t send email more than 500 miles (2002)](https://web.mit.edu/jemorris/humor/500-miles)
 
-[Circles do not exist](https://nibblestew.blogspot.com/2023/09/circles-do-not-exist.html)
+[Add extra stuff to a “standard” encoding? Sure, why not](https://rachelbythebay.com/w/2023/09/19/badlib/)
 
-[Notes on existential risk from artificial superintelligence](https://michaelnotebook.com/xrisk/index.html)
+[100 Parking Tickets (2004)](https://100parkingtickets.com/)
 
-[Simple Open-Source Java Virtual Machine in C](https://github.com/phillbush/jvm)
+[First automatic JPEG-XL cloud service](https://www.gumlet.com/blog/jpeg-xl/)
 
-[Chonky Menu Re-Creation](https://www.nathanmanousos.com/posts/chonky-menu)
+[Aldous Huxley's Deep Reflection](https://thereader.mitpress.mit.edu/aldous-huxleys-deep-reflection/)
 
-[Emerge (YC W21) is hiring a lead front end engineer (remote, small team)](https://www.workatastartup.com/jobs/61922/)
+[My trip to the Communication and Laptop Museum in Estonia](https://ounapuu.ee/posts/2023/09/19/trip-to-communication-laptop-museum/)
 
-[YouTube blocks Russell Brand from making money through its platform](https://www.nytimes.com/2023/09/19/arts/russell-brand-youtube.html)
+[A simple web server written in Awk](https://github.com/crossbowerbt/awk-webserver)
 
-[RabbitMQ vs. Kafka – An Architect’s Dilemma (Part 1)](https://eranstiller.com/rabbitmq-vs-kafka-an-architects-dilemma-part-1)
+[Q-Transformer: Scalable Reinforcement Learning via Autoregressive Q-Functions](https://q-transformer.github.io/)
+
+[Fixing for loops in Go 1.22](https://go.dev/blog/loopvar-preview)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Google Settles Account Settings Lawsuit Less Than One Week After Being Filed [pdf]](https://oag.ca.gov/system/files/attachments/press-docs/Filed%20stamped%20Google%20Complaint.pdf)
+[Svelte 5: Runes](https://svelte.dev/blog/runes)
 
-[FAA authorizes Zipline to deliver commercial packages using drones](https://www.faa.gov/newsroom/faa-authorizes-zipline-deliver-commercial-packages-beyond-line-sight)
+[Show HN: uBlock Origin filters to remove distractions](https://github.com/mig4ng/ublock-origin-filters)
 
-[Can’t send email more than 500 miles (2002)](https://web.mit.edu/jemorris/humor/500-miles)
+[Show HN: ElectricSQL, Postgres to SQLite active-active sync for local-first apps](https://electric-sql.com/)
 
-[Add extra stuff to a “standard” encoding? Sure, why not](https://rachelbythebay.com/w/2023/09/19/badlib/)
+[Show HN: SeaGOAT – local, “AI-based” grep for semantic code search](https://github.com/kantord/SeaGOAT)
 
-[My trip to the Communication and Laptop Museum in Estonia](https://ounapuu.ee/posts/2023/09/19/trip-to-communication-laptop-museum/)
+[Car allergic to vanilla ice cream](http://www.cs.cmu.edu/~wkw/humour/carproblems.txt)
 
-[Stellar Sleep (YC S23) Is Hiring a Senior/ Staff SWE in San Francisco](https://www.ycombinator.com/companies/stellar-sleep/jobs/Ubd4rCS-senior-staff-software-engineer)
+[Show HN: 78% MNIST accuracy using GZIP in under 10 lines of code](https://jakobs.dev/solving-mnist-with-gzip/)
 
-[Algorithm-assisted discovery of an intrinsic order among mathematical constants](https://fermatslibrary.com/s/algorithm-assisted-discovery-of-an-intrinsic-order-among-mathematical-constants)
+[Neurons in Large Language Models: Dead, N-Gram, Positional](https://arxiv.org/abs/2309.04827)
 
-[What will LLM-powered software look like in the medium-term future?](https://vishnumenon.com/lightrail/2023/09/17/AI-Interfaces.html)
+[British journalist held by police at Luton airport for five hours without arrest](https://www.theguardian.com/media/2023/sep/20/british-journalist-held-by-police-at-luton-airport-for-five-hours-without-arrest)
 
-[Comments on Comments](https://noncombatant.org/2023/08/27/comments/)
+[Leveraging Rust in our Java database](https://questdb.io/blog/leveraging-rust-in-our-high-performance-java-database/)
 
-[A simple web server written in Awk](https://github.com/crossbowerbt/awk-webserver)
+[We have successfully completed our migration to RAM-only VPN infrastructure](https://mullvad.net/en/blog/2023/9/20/we-have-successfully-completed-our-migration-to-ram-only-vpn-infrastructure/)

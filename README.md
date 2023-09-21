@@ -3,18 +3,18 @@
 
 [Nippon Television has just acquired Studio Ghibli](https://www.catsuka.com/breves/2023-09-21/nippon-television-rachete-le-studio-ghibli)
 
-[BrainTree has been down for more than 7 hours now](https://www.paypal-status.com/incident/production)
-
-[Show HN: Odin – the integration of LLMs with Obsidian note taking](https://github.com/memgraph/odin)
+[Article reply “Godot is not the new Unity” from Juan Linietsky (BDFL of Godot)](https://gist.github.com/reduz/cb05fe96079e46785f08a79ec3b0ef21)
 
 [Why Kakoune](https://andreyor.st/posts/2023-09-20-why-kakoune/)
 
-[OpenBSD/ARM64 on Hetzner Cloud](https://www.undeadly.org/cgi?action=article;sid=20230921073556)
+[Sunken temple and sanctuary from ancient Egypt found](https://www.livescience.com/archaeology/ancient-egyptians/sunken-temple-and-sanctuary-from-ancient-egypt-found-brimming-with-treasures-and-secrets)
 
 [Launch HN: Loops (YC W22) – Email for SaaS Companies]()
 
-[An INI Critique of TOML](https://github.com/madmurphy/libconfini/wiki/An-INI-critique-of-TOML)
+[They have genetic ALS. What should clinicians do?](https://www.statnews.com/2023/09/21/als-gene-carrier-riluzole-toferson/)
 
-[Intel Xeon Max 9480 Deep-Dive 64GB HBM2e Onboard Like a GPU or AI Accelerator](https://www.servethehome.com/intel-xeon-max-9480-deep-dive-intel-has-64gb-hbm2e-onboard-like-a-gpu-or-ai-accelerator/)
+[OpenBSD/ARM64 on Hetzner Cloud](https://www.undeadly.org/cgi?action=article;sid=20230921073556)
 
-[Call to shut down Bristol schools’ use of app to ‘monitor’ pupils and families](https://www.theguardian.com/education/2023/sep/21/calls-to-shut-down-bristol-schools-use-of-think-family-education-app-pupils-and-families)
+[An INI Critique of TOML (2021)](https://github.com/madmurphy/libconfini/wiki/An-INI-critique-of-TOML)
+
+[The NSA Invented Bitcoin?](https://twitter.com/danroberts0101/status/1702440110002729356)

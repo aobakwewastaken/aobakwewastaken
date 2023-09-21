@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Terraria developer bashes Unity, donates $200k to open source alternatives](https://lemm.ee/post/8670706)
+
+[Install Windows the Arch Linux Way](https://christitus.com/install-windows-the-arch-linux-way/)
+
+[How Equifax Was Breached in 2017](https://blog.0x7d0.dev/history/how-equifax-was-breached-in-2017/)
+
+[Terry Tao's generals (2012)](https://web.math.princeton.edu/generals/tao_terence)
+
+[Introduction to Linux interfaces for virtual networking (2018)](https://developers.redhat.com/blog/2018/10/22/introduction-to-linux-interfaces-for-virtual-networking)
+
+[Toyota Research claims breakthrough in teaching robots new behaviors](https://www.tri.global/news/toyota-research-institute-unveils-breakthrough-teaching-robots-new-behaviors)
+
+[UK Parliament undermined the privacy, security, freedom of all internet users](https://www.eff.org/deeplinks/2023/09/today-uk-parliament-undermined-privacy-security-and-freedom-all-internet-users)
+
 [Car allergic to vanilla ice cream (2000)](http://www.cs.cmu.edu/~wkw/humour/carproblems.txt)
 
+[Grouping Digits in SQL](http://peter.eisentraut.org/blog/2023/09/20/grouping-digits-in-sql)
+
 [Harlequin: DuckDB IDE for the terminal](https://harlequin.sh/)
-
-[Show HN: ElectricSQL, Postgres to SQLite active-active sync for local-first apps](https://electric-sql.com/)
-
-[Archaeologists discover oldest wooden structure](https://news.liverpool.ac.uk/2023/09/20/archaeologists-discover-worlds-oldest-wooden-structure/)
-
-[78% MNIST accuracy using GZIP in under 10 lines of code](https://jakobs.dev/solving-mnist-with-gzip/)
-
-[Show HN: Booklet – Async forums as an alternative to chat](https://www.booklet.group/)
-
-[Tracing: Structured logging, but better](https://andydote.co.uk/2023/09/19/tracing-is-better/)
-
-[Health risks of travel in early-modern Britain](https://dralun.wordpress.com/2023/02/17/the-health-risks-of-travel-in-early-modern-britain/)
-
-[Strada – Create fully native controls, driven by your web app](https://strada.hotwired.dev/)
-
-[Clang-expand: Expand function invocations into current scope](https://github.com/goldsborough/clang-expand)

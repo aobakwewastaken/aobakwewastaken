@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Unlimited Kagi searches for $10 per month](https://blog.kagi.com/unlimited-searches-for-10)
+
+[NASA’s Webb finds carbon source on surface of Jupiter’s moon Europa](https://webbtelescope.org/contents/news-releases/2023/news-2023-113)
+
 [Cisco Acquires Splunk](https://www.splunk.com/en_us/blog/leadership/splunk-and-cisco-unite-to-accelerate-digital-resilience-as-one-of-the-leading-global-software-companies.html)
 
-[Nippon Television has just acquired Studio Ghibli](https://www.catsuka.com/breves/2023-09-21/nippon-television-rachete-le-studio-ghibli)
+[Matrix 2.0: The Future of Matrix](https://matrix.org/blog/2023/09/matrix-2-0/)
 
-[Article reply “Godot is not the new Unity” from Juan Linietsky (BDFL of Godot)](https://gist.github.com/reduz/cb05fe96079e46785f08a79ec3b0ef21)
+[Speeding up the JavaScript ecosystem – Polyfills gone rogue](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-6/)
 
-[Why Kakoune](https://andreyor.st/posts/2023-09-20-why-kakoune/)
+[The WebP 0day](https://blog.isosceles.com/the-webp-0day/)
 
-[Sunken temple and sanctuary from ancient Egypt found](https://www.livescience.com/archaeology/ancient-egyptians/sunken-temple-and-sanctuary-from-ancient-egypt-found-brimming-with-treasures-and-secrets)
+[Lead poisoning causes more death, IQ loss than thought: study](https://medicalxpress.com/news/2023-09-poisoning-death-iq-loss-thought.html)
 
-[Launch HN: Loops (YC W22) – Email for SaaS Companies]()
+[Designing content for people who struggle with numbers](https://service-manual.nhs.uk/content/numbers-measurements-dates-time)
 
-[They have genetic ALS. What should clinicians do?](https://www.statnews.com/2023/09/21/als-gene-carrier-riluzole-toferson/)
+[AMPKT – Amateur radio packet explorer](https://github.com/hexagonal-sun/ampkt)
 
-[OpenBSD/ARM64 on Hetzner Cloud](https://www.undeadly.org/cgi?action=article;sid=20230921073556)
-
-[An INI Critique of TOML (2021)](https://github.com/madmurphy/libconfini/wiki/An-INI-critique-of-TOML)
-
-[The NSA Invented Bitcoin?](https://twitter.com/danroberts0101/status/1702440110002729356)
+[Lean, Coq and other proof assistants: Visualising proofs as trees](https://lakesare.brick.do/lean-coq-isabel-and-their-proof-trees-yjnd2O2RgxwV)

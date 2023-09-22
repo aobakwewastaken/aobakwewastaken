@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[The Age of the Grift Shift](https://tante.cc/2023/09/21/the-age-of-the-grift-shift/)
+[Valve is a wonderful upstream contributor to Linux and the open-source community](https://www.phoronix.com/news/Valve-Upstream-Everything-OSS)
+
+[Tailscale Kubernetes Operator](https://tailscale.com/kb/1236/kubernetes-operator/)
 
 [Signal: The Pqxdh Key Agreement Protocol](https://signal.org/docs/specifications/pqxdh/)
 
-[The Bogus CVE Problem](https://lwn.net/Articles/944209/)
-
 [I'm fed up with it, so I'm writing a browser](https://adayinthelifeof.nl/2023/09/22/browsers.html)
 
-[Interoperability: Swift’s Super Power](https://browsercompany.substack.com/cp/137231709)
-
-[Unlimited Kagi searches for $10 per month](https://blog.kagi.com/unlimited-searches-for-10)
+[Ways to capture changes in Postgres](https://blog.sequin.io/all-the-ways-to-capture-changes-in-postgres/)
 
 [Turning an old car into a powerful generator](https://blog.arduino.cc/2023/09/20/turning-an-old-car-into-a-powerful-generator/)
 
-[Outperforming larger language models with less training data and smaller models](https://blog.research.google/2023/09/distilling-step-by-step-outperforming.html)
+[Principles for building and scaling feature flag systems](https://docs.getunleash.io/topics/feature-flags/feature-flag-best-practices)
 
-[Chrome feature: Compression dictionary transport with Shared Brotli](https://chromestatus.com/feature/5124977788977152)
+[Some reasons to avoid Cython](https://pythonspeed.com/articles/cython-limitations/)
 
-[Modular forms, the ‘fifth fundamental operation’ of math](https://www.quantamagazine.org/behold-modular-forms-the-fifth-fundamental-operation-of-math-20230921/)
+[Using enums to represent state in Rust](https://corrode.dev/blog/enums/)
+
+[GraalOS: Containerless instant-on cloud functions for Java](https://www.graal.cloud/graalos/)

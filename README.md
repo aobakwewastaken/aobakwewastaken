@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Valve is a wonderful upstream contributor to Linux and the open-source community](https://www.phoronix.com/news/Valve-Upstream-Everything-OSS)
+[0-days exploited by commercial surveillance vendor in Egypt](https://blog.google/threat-analysis-group/0-days-exploited-by-commercial-surveillance-vendor-in-egypt/)
+
+[Three NorCal Tribes Announce Nation’s First Indigenous Ocean Protection Area](https://lostcoastoutpost.com/2023/sep/22/three-norcal-tribes-announce-first-us-indigenous-m/)
 
 [Show HN: Paisa – Open-Source Personal Finance Manager](https://paisa.fyi/)
 
-[GitHub Actions could be so much better](https://blog.yossarian.net/2023/09/22/GitHub-Actions-could-be-so-much-better)
+[Show HN: Rapidpages – OSS alternative to vercel's v0](https://github.com/rapidpages/rapidpages)
 
-[Java 21: The Nice, the Meh, and the Momentous](https://horstmann.com/unblog/2023-09-19/index.html)
+[Run PostgreSQL. The Kubernetes Way](https://cloudnative-pg.io/)
 
-[Tailscale Kubernetes Operator](https://tailscale.com/kb/1236/kubernetes-operator/)
+[Show HN: Summary Cat, a YouTube Video Summary Generator](https://www.summarycat.com)
 
-[I'm fed up with it, so I'm writing a browser](https://adayinthelifeof.nl/2023/09/22/browsers.html)
+[I made a transformer by hand (no training)](https://vgel.me/posts/handmade-transformer/)
 
-[Signal: The Pqxdh Key Agreement Protocol](https://signal.org/docs/specifications/pqxdh/)
+[The Tragedy of Google Search](https://www.theatlantic.com/technology/archive/2023/09/google-search-size-usefulness-decline/675409/)
 
-[Turning an old car into a powerful generator](https://blog.arduino.cc/2023/09/20/turning-an-old-car-into-a-powerful-generator/)
+[NASA JPL Open Source Rover That Runs ROS 2](https://github.com/nasa-jpl/open-source-rover)
 
-[Principles for building and scaling feature flag systems](https://docs.getunleash.io/topics/feature-flags/feature-flag-best-practices)
-
-[Ways to capture changes in Postgres](https://blog.sequin.io/all-the-ways-to-capture-changes-in-postgres/)
+[Archaeologists find 500-year-old board game carved in ruins of Polish castle](https://arstechnica.com/science/2023/09/archaeologists-find-500-year-old-board-game-carved-in-ruins-of-polish-castle/)

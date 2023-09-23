@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[My solopreneur story: zero to $45K/mo in 2 years](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo)
+[Bottlerocket – Minimal, immutable Linux OS with verified boot](https://bottlerocket.dev)
 
-[Blocking Visual Studio Code embedded reverse shell before it's too late](https://ipfyx.fr/post/visual-studio-code-tunnel/)
+[GNU/Linux Aviation HOWTO (2006)](https://tldp.org/HOWTO/Aviation-HOWTO/index.html)
 
-[Definitely Do Not Put Plastic in the Microwave](https://www.bonappetit.com/story/can-you-put-plastic-in-the-microwave)
+[The Cambridge Law Corpus: A Corpus for Legal AI Research](https://arxiv.org/abs/2309.12269)
+
+[Scientists improve anti-tumor power of CAR-T cells](https://www.insideprecisionmedicine.com/topics/oncology/scientists-improve-anti-tumor-power-of-car-t-cells/)
+
+[Box jellyfish demonstrate learning ability](https://www.nytimes.com/2023/09/22/science/jellyfish-learning-neurons.html)
+
+[Computational Discovery on Jupyter](https://computational-discovery-on-jupyter.github.io/Computational-Discovery-on-Jupyter/)
+
+[Show HN: I rewrote the 1990's LambdaMOO server](https://github.com/rdaum/moor)
+
+[Freshpaint (YC S19) is hiring engineers to enable privacy-first marketing](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
+
+[The vital art of talking to strangers (2021)](https://www.economist.com/books-and-arts/2021/07/10/the-vital-art-of-talking-to-strangers)
 
 [Foot – A fast, lightweight and minimalistic Wayland terminal emulator](https://codeberg.org/dnkl/foot)
-
-[Coding Guidelines for Prolog (2011)](https://arxiv.org/abs/0911.2899)
-
-[Jewel of the forest: New electric blue tarantula species discovered in Thailand](https://phys.org/news/2023-09-jewel-forest-electric-blue-tarantula.html)
-
-[Collecting and curating material is good and we should do it more](https://buttondown.email/hillelwayne/archive/in-defense-of/)
-
-[School Surveillance Tools Are Harming Kids](https://gizmodo.com/school-surveillance-harm-kids-homework-report-1850854919)
-
-[It's okay to make something nobody wants](https://zhangluyao.com/blog/make-something-nobody-wants/)
-
-[Spyware can infect your phone or computer via the ads you see online – report](https://theconversation.com/spyware-can-infect-your-phone-or-computer-via-the-ads-you-see-online-report-213685)

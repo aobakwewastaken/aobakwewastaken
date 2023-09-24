@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Platform that enables Windows driver development in Rust](https://github.com/microsoft/windows-drivers-rs)
-
-[Usability of Old Computers](https://blog.karthikkumar.org/usability-of-old-computers-f06a7f00f72e?gi=ce330599bc0f)
-
-[An Austrian-American actress/inventor pioneered basis for WiFi, GPS, & Bluetooth](https://www.womenshistory.org/education-resources/biographies/hedy-lamarr)
+[Full Resolution Photo Archive](http://aurelm.com/portfolio/aurel-manea-photo-archive/)
 
 [The myth of the myth of learning styles](https://nedbatchelder.com/blog/202309/the_myth_of_the_myth_of_learning_styles.html)
 
-[Fiber in C++: Understanding the Basics](https://agraphicsguynotes.com/posts/fiber_in_cpp_understanding_the_basics/)
+[Show HN: OSS PostgreSQL RDS with Supabase,PGML,Vector,HA,PITR,Monitor,&100+ Exts](https://github.com/Vonng/pigsty)
 
-[Black holes eat faster than previously expected](https://news.northwestern.edu/stories/2023/09/black-holes-eat-faster-than-previously-expected/)
+[A man who figured out how to turn Americans’ private information into a business](https://www.nytimes.com/2023/09/22/magazine/hank-asher-data.html)
 
-[SpamChannel: Spoofing emails from 2M domains and virtually becoming Satan [pdf]](https://media.defcon.org/DEF%20CON%2031/DEF%20CON%2031%20presentations/byt3bl33d3r%20-%20SpamChannel%20Spoofing%20Emails%20From%202%20Million%20Domains%20and%20Virtually%20Becoming%20Satan.pdf)
+[Low Tech Crypto: Solitaire (2020)](https://alicegg.tech//2020/01/03/solitaire.html)
 
-[Www which WASM works](https://flak.tedunangst.com/post/www-which-wasm-works)
+[How Australians made the early internet their own](https://theconversation.com/30-years-of-the-web-down-under-how-australians-made-the-early-internet-their-own-212542)
 
-[TypeScript NPM Packages Done Right](https://blog.liblab.com/typescript-npm-packages-done-right/)
+[Reverse-engineering the classic MK4116 16-kilobit DRAM chip](https://www.righto.com/2020/11/reverse-engineering-classic-mk4116-16.html)
 
-[Reflections on my journey into computer science](https://rugu.dev/en/blog/computer-science-reflections/)
+[What it takes to pass a file path to a Windows API in C++](https://mastodon.gamedev.place/@AshleyGullen/111109299141510319)
+
+[Platform that enables Windows driver development in Rust](https://github.com/microsoft/windows-drivers-rs)
+
+[Text editing on mobile isn’t ok](https://jenson.org/text/)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Full Resolution Photo Archive](http://aurelm.com/portfolio/aurel-manea-photo-archive/)
+[Choose Postgres queue technology](https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology/)
 
-[CoRF: Colorizing Radiance Fields Using Knowledge Distillation](https://arxiv.org/abs/2309.07668)
+[There's a new map style on OpenStreetMap.org](https://en.osm.town/@openstreetmap/111120663721969898)
 
-[PiWrite – Kindle Paperwhite to Write](https://github.com/rberenguel/PiWrite)
+[Show HN: Get your entire ChatGPT history, in Markdown files](https://github.com/mohamed-chs/chatgpt-history-export-to-md)
 
-[Text editing on mobile is an invisible problem no one appreciates](https://jenson.org/text/)
+[Parsing integers quickly with AVX-512](https://lemire.me/blog/2023/09/22/parsing-integers-quickly-with-avx-512/)
 
-[Reverse-engineering the classic MK4116 16-kilobit DRAM chip](https://www.righto.com/2020/11/reverse-engineering-classic-mk4116-16.html)
+[μMon: Stupid simple monitoring (2022)](https://tomscii.sig7.se/2022/07/uMon-stupid-simple-monitoring)
 
-[A man who figured out how to turn Americans’ private information into a business](https://www.nytimes.com/2023/09/22/magazine/hank-asher-data.html)
+[Unpacking Elixir: Resilience](https://underjord.io/unpacking-elixir-resilience.html)
 
-[Show HN: Pigsty – Open-source PostgreSQL alternative](https://github.com/Vonng/pigsty)
+[Text editing on mobile: the invisible problem](https://jenson.org/text/)
 
-[How Australians made the early internet their own](https://theconversation.com/30-years-of-the-web-down-under-how-australians-made-the-early-internet-their-own-212542)
+[Our Humble Attempt at “How Much Data Is Needed to Fine-Tune](https://barryzhang.substack.com/p/our-humble-attempt-at-fine-tuning)
 
-[Low Tech Crypto: Solitaire (2020)](https://alicegg.tech//2020/01/03/solitaire.html)
+[Hidden ocean the source of carbon dioxide on Jupiter moon](https://phys.org/news/2023-09-hidden-ocean-source-carbon-dioxide.html)
 
-[NASA’s Osiris-Rex capsule lands in Utah with Bennu asteroid sample](https://www.theguardian.com/science/live/2023/sep/24/bennu-asteroid-sample-nasa-osiris-rex-mission-earth-updates)
+[One robber baron’s gamble on railroads](https://www.smithsonianmag.com/history/robber-baron-gamble-railroads-brought-down-bank-plunged-us-into-first-great-depression-panic-1873-180982877/)

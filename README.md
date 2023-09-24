@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Platform that enables Windows driver development in Rust](https://github.com/microsoft/windows-drivers-rs)
+
 [Bottlerocket – Minimal, immutable Linux OS with verified boot](https://bottlerocket.dev)
 
-[GNU/Linux Aviation HOWTO (2006)](https://tldp.org/HOWTO/Aviation-HOWTO/index.html)
+[Fiber in C++: Understanding the Basics](https://agraphicsguynotes.com/posts/fiber_in_cpp_understanding_the_basics/)
 
-[The Cambridge Law Corpus: A Corpus for Legal AI Research](https://arxiv.org/abs/2309.12269)
+[SpamChannel: Spoofing emails from 2M domains and virtually becoming Satan [pdf]](https://media.defcon.org/DEF%20CON%2031/DEF%20CON%2031%20presentations/byt3bl33d3r%20-%20SpamChannel%20Spoofing%20Emails%20From%202%20Million%20Domains%20and%20Virtually%20Becoming%20Satan.pdf)
+
+[Www which WASM works](https://flak.tedunangst.com/post/www-which-wasm-works)
+
+[Show HN: Karektar – Bitmap Font Designer](https://karektar.newtrino.ink/)
+
+[The equinox is not when day and night have equal lengths](https://www.scientificamerican.com/article/the-equinox-is-not-what-you-think-it-is/)
 
 [Scientists improve anti-tumor power of CAR-T cells](https://www.insideprecisionmedicine.com/topics/oncology/scientists-improve-anti-tumor-power-of-car-t-cells/)
 
-[Box jellyfish demonstrate learning ability](https://www.nytimes.com/2023/09/22/science/jellyfish-learning-neurons.html)
-
-[Computational Discovery on Jupyter](https://computational-discovery-on-jupyter.github.io/Computational-Discovery-on-Jupyter/)
+[The Cambridge Law Corpus: A corpus for legal AI research](https://arxiv.org/abs/2309.12269)
 
 [Show HN: I rewrote the 1990's LambdaMOO server](https://github.com/rdaum/moor)
-
-[Freshpaint (YC S19) is hiring engineers to enable privacy-first marketing](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
-
-[The vital art of talking to strangers (2021)](https://www.economist.com/books-and-arts/2021/07/10/the-vital-art-of-talking-to-strangers)
-
-[Foot – A fast, lightweight and minimalistic Wayland terminal emulator](https://codeberg.org/dnkl/foot)

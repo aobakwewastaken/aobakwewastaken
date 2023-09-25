@@ -3,18 +3,18 @@
 
 [There's a new map style on OpenStreetMap.org](https://en.osm.town/@openstreetmap/111120663721969898)
 
-[Show HN: Get your entire ChatGPT history, in Markdown files](https://github.com/mohamed-chs/chatgpt-history-export-to-md)
+[Show HN: Get your entire ChatGPT history in Markdown files](https://github.com/mohamed-chs/chatgpt-history-export-to-md)
+
+[The process of making food models. Japanese 73-year-old craftsman [video]](https://www.youtube.com/watch?v=Chi8hk1Vqs8)
+
+[Netflix prepares to send its final red envelope](https://www.nytimes.com/2023/09/23/business/media/netflix-dvds.html)
+
+[Meticulous (YC S21) Is Hiring #3 Engineer to Build AI for Testing]()
 
 [Parsing integers quickly with AVX-512](https://lemire.me/blog/2023/09/22/parsing-integers-quickly-with-avx-512/)
 
-[μMon: Stupid simple monitoring (2022)](https://tomscii.sig7.se/2022/07/uMon-stupid-simple-monitoring)
+[Our humble attempt at “how much data do you need to fine-tune”](https://barryzhang.substack.com/p/our-humble-attempt-at-fine-tuning)
+
+[PID Control Challenges](http://janismac.github.io/ControlChallenges/)
 
 [Unpacking Elixir: Resilience](https://underjord.io/unpacking-elixir-resilience.html)
-
-[Text editing on mobile: the invisible problem](https://jenson.org/text/)
-
-[Our Humble Attempt at “How Much Data Is Needed to Fine-Tune](https://barryzhang.substack.com/p/our-humble-attempt-at-fine-tuning)
-
-[Hidden ocean the source of carbon dioxide on Jupiter moon](https://phys.org/news/2023-09-hidden-ocean-source-carbon-dioxide.html)
-
-[One robber baron’s gamble on railroads](https://www.smithsonianmag.com/history/robber-baron-gamble-railroads-brought-down-bank-plunged-us-into-first-great-depression-panic-1873-180982877/)

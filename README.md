@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Minecraft Wiki has forked from Fandom](https://minecraft.wiki/w/Minecraft_Wiki:Moving_from_Fandom)
+[PostScript’s sudden death in Sonoma](https://eclecticlight.co/2023/09/25/postscripts-sudden-death-in-sonoma/)
 
-[KSP2 is spamming the Windows Registry until the game stops working permanently](https://forum.kerbalspaceprogram.com/topic/219607-ksp2-is-spamming-the-windows-registry-over-weeksmonths-until-the-game-will-stop-working-permanently/)
+[Show HN: Bigcapital - A open-source alternative to QuickBooks](https://github.com/bigcapitalhq/bigcapital)
 
-[It's time to let go, Apache Software Foundation](https://rocket9labs.com/post/its-time-to-let-go-apache-software-foundation/)
+[SR-71 Blackbird Astro-Nav System (a.k.a. R2-D2) worked by tracking the stars](https://theaviationgeekclub.com/the-sr-71-blackbird-astro-nav-system-aka-r2-d2-worked-by-tracking-the-stars-and-was-so-powerful-that-it-could-see-the-stars-even-in-daylight/)
 
-[We are beginning to roll out new voice and image capabilities in ChatGPT](https://openai.com/blog/chatgpt-can-now-see-hear-and-speak)
+[Saint Helena Island Communications](http://sainthelenaisland.info/communications.htm)
 
-[Review of MDMA and the Quest for Connection in a Fractured World](https://undark.org/2023/09/22/book-review-the-long-strange-history-of-mdma/)
+[Intel’s Ponte Vecchio: Chiplets Gone Crazy](https://chipsandcheese.com/2023/09/23/intels-ponte-vecchio-chiplets-gone-crazy/)
 
-[Kotlin Multiplatform for Android and iOS Apps](https://www.rockandnull.com/kotlin-multiplatform-compose-multiplatform-cross-platform-development/)
+[Show HN: Minum – A minimal Java web framework](https://github.com/byronka/minum)
 
 [Show HN: E-Ink Day Schedule](https://github.com/davidhampgonsalves/life-dashboard)
 
-[Hoxne Hoard](https://en.wikipedia.org/wiki/Hoxne_Hoard)
+[Svix (YC W21) Is Hiring a Technical Lead (US Remote)](https://www.svix.com/careers/)
 
-[Show HN: Online Oscilloscope with Waveform Generators](https://csurgay.com/syggen/)
+[Ian's Shoelace Site](https://www.fieggen.com/shoelace/)
 
-[Show HN: KitForStartups – The Open Source SvelteKit SaaS Boilerplate](https://github.com/okupter/kitforstartups)
+[Open Air Schools of the 1900s](https://blog.britishnewspaperarchive.co.uk/2023/09/21/understanding-the-open-air-schools-of-the-1900s/)

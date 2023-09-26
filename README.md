@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[PostScript’s sudden death in Sonoma](https://eclecticlight.co/2023/09/25/postscripts-sudden-death-in-sonoma/)
+[Quadlets might make me finally stop using Docker-compose – Major Hayden](https://major.io/p/quadlets-replace-docker-compose/)
 
-[Show HN: Bigcapital - A open-source alternative to QuickBooks](https://github.com/bigcapitalhq/bigcapital)
+[I was happy, sad, lost and lonely without a smartphone at the same time](https://ruky.me/2023/09/26/i-was-happy-sad-lost-and-lonely-without-a-smartphone-at-the-same-time/)
 
-[SR-71 Blackbird Astro-Nav System (a.k.a. R2-D2) worked by tracking the stars](https://theaviationgeekclub.com/the-sr-71-blackbird-astro-nav-system-aka-r2-d2-worked-by-tracking-the-stars-and-was-so-powerful-that-it-could-see-the-stars-even-in-daylight/)
+[The Casino in Your Pocket](https://blog.curtii.com/blog/posts/wordscapes-the-casino-in-your-pocket/)
 
-[Saint Helena Island Communications](http://sainthelenaisland.info/communications.htm)
+[Amazon PillPack – Your medication, sorted and delivered](https://www.pillpack.com)
+
+[DJI Mini 4 Pro](https://www.dji.com/mini-4-pro)
+
+[Nickel Hydrogen Batteries by NASA](https://spectrum.ieee.org/grid-scale-battery-storage-nickel-hydrogen)
+
+[The SR-71 Blackbird Astro-Nav System worked by tracking the stars](https://theaviationgeekclub.com/the-sr-71-blackbird-astro-nav-system-aka-r2-d2-worked-by-tracking-the-stars-and-was-so-powerful-that-it-could-see-the-stars-even-in-daylight/)
+
+[Is Math Real?](https://maa.org/press/maa-reviews/is-math-real)
+
+[John Carmack and Rich Sutton partner to accelerate development of AGI](https://www.globenewswire.com/news-release/2023/09/25/2749057/0/en/John-Carmack-and-Rich-Sutton-partner-to-accelerate-development-of-Artificial-General-Intelligence.html)
 
 [Intel’s Ponte Vecchio: Chiplets Gone Crazy](https://chipsandcheese.com/2023/09/23/intels-ponte-vecchio-chiplets-gone-crazy/)
-
-[Show HN: Minum – A minimal Java web framework](https://github.com/byronka/minum)
-
-[Show HN: E-Ink Day Schedule](https://github.com/davidhampgonsalves/life-dashboard)
-
-[Svix (YC W21) Is Hiring a Technical Lead (US Remote)](https://www.svix.com/careers/)
-
-[Ian's Shoelace Site](https://www.fieggen.com/shoelace/)
-
-[Open Air Schools of the 1900s](https://blog.britishnewspaperarchive.co.uk/2023/09/21/understanding-the-open-air-schools-of-the-1900s/)

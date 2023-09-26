@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Spinneret: A modern Common Lisp HTML generator](https://github.com/ruricolist/spinneret)
+[Show HN: Unity like game editor running in pure WASM](https://raverie-us.github.io/raverie-engine/)
 
-[Deploy a Shirt](https://www.aptible.com/blog/deploy-a-shirt)
+[Prophet: Automatic Forecasting Procedure](https://github.com/facebook/prophet)
 
-[Common infections can spark psychiatric illnesses in children](https://www.economist.com/science-and-technology/2023/09/20/how-common-infections-can-spark-psychiatric-illnesses-in-children)
+[FTC sues Amazon for illegally maintaining monopoly power](https://www.ftc.gov/news-events/news/press-releases/2023/09/ftc-sues-amazon-illegally-maintaining-monopoly-power)
 
-[Apple exec Eddy Cue set to testify in Google trial about $19B search deal](https://www.cnbc.com/2023/09/26/apple-exec-eddy-cue-testify-google-trial-about-19-billion-search-deal.html)
+[Causality for Machine Learning (2020)](https://ff13.fastforwardlabs.com/)
 
-[Viable ROP-free roadmap for i386/armv8/riscv64/alpha/sparc64](https://marc.info/?l=openbsd-tech&m=169558749114476&w=2)
+[Show HN: Magentic – Use LLMs as simple Python functions](https://github.com/jackmpcollins/magentic)
 
-[Unity U-turns on controversial runtime fee and begs forgiveness](https://techcrunch.com/2023/09/22/unity-u-turns-on-controversial-runtime-fee-and-begs-forgiveness/)
+[The Dark Side of Tech Culture](https://blog.lettucework.io/the-dark-side-of-culture-20a59c5229b2?gi=57aec2f4d30b)
 
-[DuckDB 0.9.0](https://duckdb.org/2023/09/26/announcing-duckdb-090.html)
+[Box of donated artifacts turns out to be treasure trove of Neanderthal bones](https://phys.org/news/2023-09-donated-artifacts-treasure-trove-neanderthal.html)
 
-[Newly discovered deep-sea enzyme breaks down PET plastic](https://phys.org/news/2023-09-newly-deep-sea-enzyme-pet-plastic.amp)
+[Mathematicians cross the line to get to the point](https://www.quantamagazine.org/mathematicians-cross-the-line-to-get-to-the-point-20230925/)
 
-[Quadlets might make me finally stop using docker-compose](https://major.io/p/quadlets-replace-docker-compose/)
+[Who lusts for certainty lusts for lies](https://www.etymonline.com/columns/post/who-lusts-for-certainty-lusts-for-lies)
 
-[ArcEm – The Acorn Archimedes Emulator](https://arcem.sourceforge.net/)
+[Exploring Linux command-line space time](https://fabiensanglard.net/st/index.html)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Quadlets might make me finally stop using docker-compose](https://major.io/p/quadlets-replace-docker-compose/)
+[Spinneret: A modern Common Lisp HTML generator](https://github.com/ruricolist/spinneret)
 
-[Inside the Matrix: Visualizing Matrix Multiplication, Attention and Beyond](https://pytorch.org/blog/inside-the-matrix/)
+[Deploy a Shirt](https://www.aptible.com/blog/deploy-a-shirt)
 
-[Google Ngram Viewer n-grams are wrong](https://www.etymonline.com/columns/post/who-lusts-for-certainty-lusts-for-lies)
-
-[Google assigns a CVE for libwebp and gives it a 10.0 score](https://stackdiary.com/heap-buffer-overflow-in-libwebp-cve-2023-5129/)
-
-[Freelancers aren’t happy with Japan’s new invoice system](https://www.japantimes.co.jp/community/2023/09/25/how-tos/freelancer-tax-system/)
-
-[Viable ROP-free roadmap for i386/armv8/riscv64/alpha/sparc64](https://marc.info/?l=openbsd-tech&m=169558749114476&w=2)
-
-[Firefox 118](https://www.mozilla.org/en-US/firefox/118.0/releasenotes/)
-
-[macOS Containers v0.0.1](https://macoscontainers.org/)
+[Common infections can spark psychiatric illnesses in children](https://www.economist.com/science-and-technology/2023/09/20/how-common-infections-can-spark-psychiatric-illnesses-in-children)
 
 [Apple exec Eddy Cue set to testify in Google trial about $19B search deal](https://www.cnbc.com/2023/09/26/apple-exec-eddy-cue-testify-google-trial-about-19-billion-search-deal.html)
 
-[FCC aims to reinstate net neutrality after us Democrats gain control of panel](https://www.bloomberg.com/news/articles/2023-09-26/fcc-aims-to-reinstate-net-neutrality-rules-as-us-democrats-gain-control-of-panel)
+[Viable ROP-free roadmap for i386/armv8/riscv64/alpha/sparc64](https://marc.info/?l=openbsd-tech&m=169558749114476&w=2)
+
+[Unity U-turns on controversial runtime fee and begs forgiveness](https://techcrunch.com/2023/09/22/unity-u-turns-on-controversial-runtime-fee-and-begs-forgiveness/)
+
+[DuckDB 0.9.0](https://duckdb.org/2023/09/26/announcing-duckdb-090.html)
+
+[Newly discovered deep-sea enzyme breaks down PET plastic](https://phys.org/news/2023-09-newly-deep-sea-enzyme-pet-plastic.amp)
+
+[Quadlets might make me finally stop using docker-compose](https://major.io/p/quadlets-replace-docker-compose/)
+
+[ArcEm – The Acorn Archimedes Emulator](https://arcem.sourceforge.net/)

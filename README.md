@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Who Lusts for Certainty Lusts for Lies](https://www.etymonline.com/columns/post/who-lusts-for-certainty-lusts-for-lies)
+
+[NSA, FBI, and CISA Release Cybersecurity Information Sheet on Deepfake Threats](https://www.cisa.gov/news-events/alerts/2023/09/12/nsa-fbi-and-cisa-release-cybersecurity-information-sheet-deepfake-threats)
+
+[Spain cancels Pegasus spyware investigation because Israel is not co-operating](https://www.theguardian.com/world/2023/jul/10/spain-closes-pegasus-investigation-over-lack-of-cooperation-from-israel)
+
 [macOS Containers v0.0.1](https://macoscontainers.org/)
 
 [Quadlets might make me finally stop using Docker-compose – Major Hayden](https://major.io/p/quadlets-replace-docker-compose/)
 
+[Inside the Matrix: Visualizing Matrix Multiplication, Attention and Beyond](https://pytorch.org/blog/inside-the-matrix/)
+
 [AI is fundamentally ‘a surveillance technology’](https://techcrunch.com/2023/09/25/signals-meredith-whittaker-ai-is-fundamentally-a-surveillance-technology/)
-
-[DJI Mini 4 Pro](https://www.dji.com/mini-4-pro)
-
-[The Casino in Your Pocket](https://blog.curtii.com/blog/posts/wordscapes-the-casino-in-your-pocket/)
 
 [Nickel Hydrogen Batteries by NASA](https://spectrum.ieee.org/grid-scale-battery-storage-nickel-hydrogen)
 
-[The SR-71 Blackbird Astro-Nav System worked by tracking the stars](https://theaviationgeekclub.com/the-sr-71-blackbird-astro-nav-system-aka-r2-d2-worked-by-tracking-the-stars-and-was-so-powerful-that-it-could-see-the-stars-even-in-daylight/)
+[FCC Aims to Reinstate Net Neutrality After US Democrats Gain Control of Panel](https://www.bloomberg.com/news/articles/2023-09-26/fcc-aims-to-reinstate-net-neutrality-rules-as-us-democrats-gain-control-of-panel)
 
-[Is Math Real?](https://maa.org/press/maa-reviews/is-math-real)
-
-[Nuvem, a subsea cable to connect Portugal, Bermuda, and the U.S.](https://cloud.google.com/blog/products/infrastructure/introducing-the-nuvem-subsea-cable/)
-
-[Lego axes plan to make bricks from recycled bottles](https://www.bbc.co.uk/news/business-66910573)
+[The Casino in Your Pocket](https://blog.curtii.com/blog/posts/wordscapes-the-casino-in-your-pocket/)

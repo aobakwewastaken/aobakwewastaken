@@ -1,13 +1,13 @@
 # Top Stories on hackernews <br />
+[macOS Containers v0.0.1](https://macoscontainers.org/)
+
 [Quadlets might make me finally stop using Docker-compose – Major Hayden](https://major.io/p/quadlets-replace-docker-compose/)
 
-[I was happy, sad, lost and lonely without a smartphone at the same time](https://ruky.me/2023/09/26/i-was-happy-sad-lost-and-lonely-without-a-smartphone-at-the-same-time/)
-
-[The Casino in Your Pocket](https://blog.curtii.com/blog/posts/wordscapes-the-casino-in-your-pocket/)
-
-[Amazon PillPack – Your medication, sorted and delivered](https://www.pillpack.com)
+[AI is fundamentally ‘a surveillance technology’](https://techcrunch.com/2023/09/25/signals-meredith-whittaker-ai-is-fundamentally-a-surveillance-technology/)
 
 [DJI Mini 4 Pro](https://www.dji.com/mini-4-pro)
+
+[The Casino in Your Pocket](https://blog.curtii.com/blog/posts/wordscapes-the-casino-in-your-pocket/)
 
 [Nickel Hydrogen Batteries by NASA](https://spectrum.ieee.org/grid-scale-battery-storage-nickel-hydrogen)
 
@@ -15,6 +15,6 @@
 
 [Is Math Real?](https://maa.org/press/maa-reviews/is-math-real)
 
-[John Carmack and Rich Sutton partner to accelerate development of AGI](https://www.globenewswire.com/news-release/2023/09/25/2749057/0/en/John-Carmack-and-Rich-Sutton-partner-to-accelerate-development-of-Artificial-General-Intelligence.html)
+[Nuvem, a subsea cable to connect Portugal, Bermuda, and the U.S.](https://cloud.google.com/blog/products/infrastructure/introducing-the-nuvem-subsea-cable/)
 
-[Intel’s Ponte Vecchio: Chiplets Gone Crazy](https://chipsandcheese.com/2023/09/23/intels-ponte-vecchio-chiplets-gone-crazy/)
+[Lego axes plan to make bricks from recycled bottles](https://www.bbc.co.uk/news/business-66910573)

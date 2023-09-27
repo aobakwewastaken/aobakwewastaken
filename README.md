@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[The most copied StackOverflow snippet of all time is flawed (2019)](https://programming.guide/worlds-most-copied-so-snippet.html)
+[OpenBSD PF versus FreeBSD PF](https://mwl.io/archives/23127)
 
-[Mistral 7B: The best 7B model to date, Apache 2.0](https://mistral.ai/news/announcing-mistral-7b/)
+[Uiua: A minimal stack-based, array-based language](https://www.uiua.org/)
 
-[Nucor and Helion to Develop 500 MW Fusion Power Plant by 2030](https://nucor.com/news-release/20126)
+[The Tao of Programming (1987)](https://www.mit.edu/~xela/tao.html)
 
-[Be My Eyes’ AI assistant starts rolling out](https://www.bemyeyes.com/blog/announcing-be-my-ai)
-
-[Live Near Your Friends](https://headlineshq.substack.com/p/issue-no-029-live-near-your-friends)
+[Ray-Ban Meta Smart Glasses](https://www.meta.com/smart-glasses/)
 
 [Deno Queues](https://deno.com/blog/queues)
 
-[Incorrect casual assumptions in the history of science](https://thonyc.wordpress.com/2023/09/21/incorrect-casual-assumptions/)
+[Judge rules Google trial documents can be posted by U.S. online](https://www.bloomberg.com/news/articles/2023-09-26/google-judge-rules-trial-documents-can-be-posted-by-us-online)
 
-[Essence: A desktop OS built from scratch, for control and simplicity](https://nakst.gitlab.io/essence)
+[DAWproject: Open exchange format for DAWs](https://github.com/bitwig/dawproject)
 
-[I got robbed of my first kernel contribution](https://ariel-miculas.github.io/How-I-got-robbed-of-my-first-kernel-contribution/)
+[The Conscience of a Hacker (1986)](http://textfiles.com/100/hack7.txt)
 
-[ClickHouse Keeper: A ZooKeeper alternative written in C++](https://clickhouse.com/blog/clickhouse-keeper-a-zookeeper-alternative-written-in-cpp)
+[Mistral 7B](https://mistral.ai/news/announcing-mistral-7b/)
+
+[Show HN: The Tomb of Ramesses I in the Valley of the Kings](https://mused.org/en/tours/730/the-tomb-of-ramesses-i)

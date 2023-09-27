@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Arena Allocator Tips and Tricks](https://nullprogram.com/blog/2023/09/27/)
+
+[A journey into the shaken baby syndrome/abusive head trauma controversy](https://www.cambridgeblog.org/2023/05/a-journey-into-the-shaken-baby-syndrome-abusive-head-trauma-controversy/)
+
 [Show HN: Unity like game editor running in pure WASM](https://raverie-us.github.io/raverie-engine/)
+
+[One man’s quest to end cheating in virtual cycling](https://thehustle.co/one-mans-quest-to-end-cheating-in-virtual-cycling/)
 
 [Prophet: Automatic Forecasting Procedure](https://github.com/facebook/prophet)
 
 [FTC sues Amazon for illegally maintaining monopoly power](https://www.ftc.gov/news-events/news/press-releases/2023/09/ftc-sues-amazon-illegally-maintaining-monopoly-power)
 
-[Causality for Machine Learning (2020)](https://ff13.fastforwardlabs.com/)
+[Show HN: XRain – Explore rainfall statistics around the world](https://xrain.info/data/)
 
-[Show HN: Magentic – Use LLMs as simple Python functions](https://github.com/jackmpcollins/magentic)
+[The Possibly Never-Ending Quest for the Golden Owl](https://www.atlasobscura.com/articles/quest-for-the-golden-owl-hidden-treasure)
 
-[The Dark Side of Tech Culture](https://blog.lettucework.io/the-dark-side-of-culture-20a59c5229b2?gi=57aec2f4d30b)
+[Deconstructing Go Type Parameters](https://go.dev/blog/deconstructing-type-parameters)
 
-[Box of donated artifacts turns out to be treasure trove of Neanderthal bones](https://phys.org/news/2023-09-donated-artifacts-treasure-trove-neanderthal.html)
-
-[Mathematicians cross the line to get to the point](https://www.quantamagazine.org/mathematicians-cross-the-line-to-get-to-the-point-20230925/)
-
-[Who lusts for certainty lusts for lies](https://www.etymonline.com/columns/post/who-lusts-for-certainty-lusts-for-lies)
-
-[Exploring Linux command-line space time](https://fabiensanglard.net/st/index.html)
+[Building a string art machine](https://medium.com/@paulmorrishill/building-a-string-art-machine-eeee386a38db)

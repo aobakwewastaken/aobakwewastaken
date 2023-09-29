@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Everything authenticated by Microsoft is tainted](https://graz.social/@publicvoit/111147782761723981)
-
-[Burning money on paid ads for a dev tool – what we've learned](https://posthog.com/blog/dev-marketing-paid-ads)
+[Red Blob Games: Interactive visual explanations of math and algorithms](https://www.redblobgames.com/)
 
 [Visual Node Graph with ImGui](https://gboisse.github.io/posts/node-graph/)
 
-[Richard Stallman reveals he has cancer in the GNU 40 Hacker Meeting talk](https://audio-video.gnu.org/video/gnu40/rms-gnu40.webm)
+[Official U.S. government information about the Global Positioning System (GPS)](https://www.gps.gov/)
 
-[Generating chess puzzles with generic algorithms (2022)](https://www.propelauth.com/post/generating-chess-puzzles-with-genetic-algorithms)
+[Loadsharers: Funding the Load Bearing Internet People (2020)](https://esr.gitlab.io/loadsharers/)
 
-[UpCodes (YC S17) is hiring remote SWEs, AES to help make buildings cheaper](https://up.codes/careers)
+[John Baez' Applied Category Theory Lectures](https://mathstodon.xyz/@johncarlosbaez/111136608294290523)
 
-[WiFi without internet on a Southwest flight](https://jamesbvaughan.com/southwest-wifi/)
+[Burning money on paid ads for a dev tool – what we've learned](https://posthog.com/blog/dev-marketing-paid-ads)
 
-[JAX – NumPy on the CPU, GPU, and TPU](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html)
+[A new era for Arecibo: legendary observatory begins next phase](https://www.nature.com/articles/d41586-023-03021-6)
 
-[Things Every Hacker Once Knew](http://www.catb.org/~esr/faqs/things-every-hacker-once-knew/)
+[Show HN: RISC-V assembly tabletop board game (hack your opponent)](https://punkx.org/overflow/)
 
-[Just kidding: the evolutionary roots of playful teasing](https://royalsocietypublishing.org/doi/10.1098/rsbl.2020.0370)
+[MMO Architecture: Source of truth, Dataflows, I/O bottlenecks and how to solve](https://prdeving.wordpress.com/2023/09/29/mmo-architecture-source-of-truth-dataflows-i-o-bottlenecks-and-how-to-solve-them/)
+
+[Everything authenticated by Microsoft is tainted](https://graz.social/@publicvoit/111147782761723981)

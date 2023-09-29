@@ -5,16 +5,16 @@
 
 [JAX – NumPy on the CPU, GPU, and TPU](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html)
 
+[Burning money on paid ads for a dev tool – what we've learned](https://posthog.com/blog/dev-marketing-paid-ads)
+
 [LibrePCB](https://librepcb.org/)
 
 [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/)
 
-[Supabase (YC S20) Is Hiring a Head of Data (Fully Remote)](https://boards.greenhouse.io/supabase/jobs/4981444004)
-
 [Show HN: Generative Fill with AI and 3D](https://github.com/fill3d/fill)
 
-[Discovery Steering Committee re Google Antitrust Litigation [pdf]](https://ia804605.us.archive.org/29/items/gov.uscourts.nysd.564903/gov.uscourts.nysd.564903.631.0.pdf)
+[Amtrak Explorer](https://amtrakexplorer.com/)
+
+[Just kidding: the evolutionary roots of playful teasing](https://royalsocietypublishing.org/doi/10.1098/rsbl.2020.0370)
 
 [Show HN: SapientML – Generative AutoML for Tabular Data](https://github.com/sapientml/sapientml)
-
-[Amtrak Explorer](https://amtrakexplorer.com/)

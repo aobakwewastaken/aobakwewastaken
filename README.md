@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Drinking diet sodas daily during pregnancy linked to autism in male offspring](https://news.uthscsa.edu/drinking-diet-sodas-and-aspartame-sweetened-beverages-daily-during-pregnancy-linked-to-autism-in-male-offspring/)
+[The man who did not have a conversation in over 50 years](https://en.wikipedia.org/wiki/Andr%C3%A1s_Toma)
 
-[A Revelation About Trees Is Messing with Climate Calculations](https://web.archive.org/web/20230930090902/https://www.wired.com/story/a-revelation-about-trees-is-messing-with-climate-calculations/)
+[NIR: Nim Intermediate Representation](https://github.com/nim-lang/Nim/pull/22777)
+
+[Pharmacokinetics: Drug development's broken stair](https://trevorklee.substack.com/p/pharmacokinetics-drug-developments)
+
+[AdaCore Announces Gnat Pro for Rust](https://www.adacore.com/press/adacore-announces-gnat-pro-for-rust)
+
+[How to see bright, vivid images in your mind’s eye (2016)](https://photographyinsider.info/image-streaming-for-photographers/)
+
+[How flip-flops are implemented in the Intel 8086 processor](http://www.righto.com/2023/09/8086-flip-flops.html)
+
+[Optical Circuit Switching for ML Systems](https://dl.acm.org/doi/10.1145/3603269.3604836)
 
 [PruningRadixTrie – Faster Radix trie for prefix search and auto-complete](https://github.com/wolfgarbe/PruningRadixTrie)
 
-[They Studied Dishonesty. Was Their Work a Lie?](https://www.newyorker.com/magazine/2023/10/09/they-studied-dishonesty-was-their-work-a-lie)
+[Building Processors from the Ground Up](https://howcpuworks.com/blogs/processsorbook/building-processors-from-the-ground-up)
 
 [Flexbox Froggy](https://flexboxfroggy.com/)
-
-[ChatGPT-4 significantly increased performance of business consultants](https://d3.harvard.edu/navigating-the-jagged-technological-frontier/)
-
-[Removing Sybils from an Open Network](https://wiki.saito.io/consensus/sybil-proof)
-
-[PSA: Some Pixel owners still can't dial 911 during an emergency](https://www.androidauthority.com/psa-google-pixel-911-emergency-calling-issues-3362990/)
-
-[What Is the Future of the DAW?](https://djmag.com/features/what-future-daw)
-
-[Rapid Recovery from an Autism Spectrum Disorder After Treatment of Aspergillus](https://pubmed.ncbi.nlm.nih.gov/33132781/)

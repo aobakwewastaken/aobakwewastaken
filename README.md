@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [RealFill: Image completion using diffusion models](https://realfill.github.io/)
 
-[Soviet computer has been forgotten for 30 years [video]](https://www.youtube.com/watch?v=lVCS99Zep9w)
+[50 years later, is two-phase locking the best we can do?](http://concurrencyfreaks.blogspot.com/2023/09/50-years-later-is-two-phase-locking.html)
+
+[Making a music library without a SPA](https://begin.com/blog/posts/2023-09-28-introducing-enhance-music)
+
+[SIMH – Old Computer Emulator](https://en.wikipedia.org/wiki/SIMH)
 
 [Show HN: RISC-V assembly tabletop board game (hack your opponent)](https://punkx.org/overflow/)
 
-[Burning money on paid ads for a dev tool – what we've learned](https://posthog.com/blog/dev-marketing-paid-ads)
+[Soviet computer has been forgotten for 30 years [video]](https://www.youtube.com/watch?v=lVCS99Zep9w)
 
-[Draggable objects](https://www.redblobgames.com/making-of/draggable/)
+[Students made Oxford murder capital of late medieval England, research suggests](https://phys.org/news/2023-09-students-oxford-capital-late-medieval.html)
+
+[Cloudflare launches new AI tools to help customers deploy and run models](https://techcrunch.com/2023/09/27/cloudflare-launches-new-ai-tools-to-help-customers-deploy-and-run-models/)
+
+[A peek into Argentina’s video game scene](https://buenosairesherald.com/culture-ideas/videogames/satanism-star-trek-and-an-army-of-gauchos-a-peek-into-argentinas-video-game-scene)
 
 [Misunderstanding Greek and Latin in eighteenth-century Britain](https://www.laphamsquarterly.org/roundtable/fine-sounding-language)
-
-[SIMD Everywhere Optimization from ARM Neon to RISC-V Vector Extensions](https://arxiv.org/abs/2309.16509)
-
-[Low-Code Programming Models](https://cacm.acm.org/magazines/2023/10/276633-low-code-programming-models/fulltext)
-
-[A new era for Arecibo](https://www.nature.com/articles/d41586-023-03021-6)
-
-[Japan’s silent movie culture is still going](https://petertasker.asia/articles/culture/think-again-al-jolson-japans-silent-movie-culture-is-still-going-strong/)

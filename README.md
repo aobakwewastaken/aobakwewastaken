@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[The man who did not have a conversation in over 50 years](https://en.wikipedia.org/wiki/Andr%C3%A1s_Toma)
+[India’s pickle people: Decades-old culinary heirlooms, nostalgia](https://www.aljazeera.com/features/2023/9/29/indias-pickle-people-decades-old-culinary-heirlooms-nostalgia)
 
-[NIR: Nim Intermediate Representation](https://github.com/nim-lang/Nim/pull/22777)
+[The presumption that computers are working correctly](https://emptycity.substack.com/p/computer-says-guilty-an-introduction)
 
-[Pharmacokinetics: Drug development's broken stair](https://trevorklee.substack.com/p/pharmacokinetics-drug-developments)
+[The TRON Project: How Japan almost ruled IT (2022)](https://undervaluedjapan.blogspot.com/2022/08/the-tron-project-how-japan-almost-ruled.html)
 
-[AdaCore Announces Gnat Pro for Rust](https://www.adacore.com/press/adacore-announces-gnat-pro-for-rust)
+[Fake recruiter lured aerospace employee with trojanized coding challenge](https://www.welivesecurity.com/en/eset-research/lazarus-luring-employees-trojanized-coding-challenges-case-spanish-aerospace-company/)
 
-[How to see bright, vivid images in your mind’s eye (2016)](https://photographyinsider.info/image-streaming-for-photographers/)
+[An easy-to-implement, arena-friendly hash map](https://nullprogram.com/blog/2023/09/30/)
+
+[Most demographers now predict that human population will plateau](https://www.bloomberg.com/opinion/articles/2023-09-30/how-many-people-are-there-in-the-world-don-t-worry-about-it)
 
 [How flip-flops are implemented in the Intel 8086 processor](http://www.righto.com/2023/09/8086-flip-flops.html)
 
-[Optical Circuit Switching for ML Systems](https://dl.acm.org/doi/10.1145/3603269.3604836)
+[Pharmacokinetics: Drug development's broken stair](https://trevorklee.substack.com/p/pharmacokinetics-drug-developments)
 
-[PruningRadixTrie – Faster Radix trie for prefix search and auto-complete](https://github.com/wolfgarbe/PruningRadixTrie)
+['Couple,' 'Few,' and 'Several'](https://www.merriam-webster.com/grammar/couple-few-several-use)
 
-[Building Processors from the Ground Up](https://howcpuworks.com/blogs/processsorbook/building-processors-from-the-ground-up)
-
-[Flexbox Froggy](https://flexboxfroggy.com/)
+[The missing middle in game development](https://howtomarketagame.com/2023/09/28/the-missing-middle-in-game-development/)

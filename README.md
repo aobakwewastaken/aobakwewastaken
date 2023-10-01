@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[India’s pickle people: Decades-old culinary heirlooms, nostalgia](https://www.aljazeera.com/features/2023/9/29/indias-pickle-people-decades-old-culinary-heirlooms-nostalgia)
+[DKIM: Rotate and Publish Your Keys](https://diziet.dreamwidth.org/16025.html)
+
+[FlashAttention: Fast Transformer training with long sequences](https://www.adept.ai/blog/flashier-attention)
+
+[Mozilla's midlife crisis: from web pioneer to Google's weird neighbor](https://www.theregister.com/2023/09/29/mozilla_asleep_at_wheel/)
 
 [The presumption that computers are working correctly](https://emptycity.substack.com/p/computer-says-guilty-an-introduction)
 
-[DKIM: Rotate and Publish Your Keys](https://diziet.dreamwidth.org/16025.html)
+[Does anybody remember Google People](https://qntm.org/person)
 
-[Many of today’s unhealthy foods were brought to you by Big Tobacco](https://www.washingtonpost.com/wellness/2023/09/19/addiction-foods-hyperpalatable-tobacco/)
+[India’s pickle people: Decades-old culinary heirlooms, nostalgia](https://www.aljazeera.com/features/2023/9/29/indias-pickle-people-decades-old-culinary-heirlooms-nostalgia)
+
+[Never say “no,” but rarely say “yes.”](https://longform.asmartbear.com/say-yes/)
 
 [Watch a frog-like robot use tiny explosions to hop around](https://www.newscientist.com/article/2391584-watch-a-frog-like-robot-use-tiny-explosions-to-hop-around/)
 
-[Dating the Arrival of Modern Humans in Asia](https://www.sapiens.org/archaeology/human-migration-asia/)
-
-[An easy-to-implement, arena-friendly hash map](https://nullprogram.com/blog/2023/09/30/)
+[In Digital Ocean, S3-like space keys can access all your buckets](https://ideas.digitalocean.com/storage/p/access-key-per-space)
 
 [The missing middle in game development](https://howtomarketagame.com/2023/09/28/the-missing-middle-in-game-development/)
-
-[Fake recruiter lured aerospace employee with trojanized coding challenge](https://www.welivesecurity.com/en/eset-research/lazarus-luring-employees-trojanized-coding-challenges-case-spanish-aerospace-company/)
-
-[How to see bright, vivid images in your mind’s eye (2016)](https://photographyinsider.info/image-streaming-for-photographers/)

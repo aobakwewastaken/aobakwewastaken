@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[DOE: Pathways to Commercial Liftoff: Virtual Power Plants](https://liftoff.energy.gov/vpp/)
+[Return to Office Is Bullshit and Everyone Knows It](https://soatok.blog/2023/10/02/return-to-office-is-bullshit-and-everyone-knows-it/)
 
-[Nomnoml](https://nomnoml.com/)
+[Open-source could finally get the world’s microscopes speaking the same language](https://www.nature.com/articles/d41586-023-03064-9)
 
 [The minimum every software developer must know about Unicode in 2023](https://tonsky.me/blog/unicode/)
 
 [Break-a-Scene: Extracting Multiple Concepts from a Single Image](https://omriavrahami.com/break-a-scene/)
 
-[Open-source could finally get the world’s microscopes speaking the same language](https://www.nature.com/articles/d41586-023-03064-9)
+[Nomnoml](https://nomnoml.com/)
+
+[James Webb Space Telescope's first spectrum of a TRAPPIST-1 planet](https://phys.org/news/2023-09-james-webb-space-telescope-spectrum.html)
+
+[How to set up an anonymous user flow](https://fusionauth.io/blog/anonymous-user)
 
 [Goodbye integers, hello UUIDv7](https://buildkite.com/blog/goodbye-integers-hello-uuids)
 
-[Chromebook Plus](https://blog.google/products/chromebooks/chromebook-plus/)
+[Chess and solution pool with linear programming (2018)](http://yetanothermathprogrammingconsultant.blogspot.com/2018/11/chess-and-solution-pool.html)
 
-[Python 3.12](https://www.python.org/downloads/release/python-3120/)
-
-[Using Emacs as $Editor](https://magnus.therning.org/2023-09-30-using-emacs-as-$editor.html)
-
-[Floorp – A customisable Firefox fork from Japan](https://floorp.app/en/)
+[DOE: Pathways to Commercial Liftoff: Virtual Power Plants](https://liftoff.energy.gov/vpp/)

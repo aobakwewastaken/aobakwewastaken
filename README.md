@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Return to Office Is Bullshit and Everyone Knows It](https://soatok.blog/2023/10/02/return-to-office-is-bullshit-and-everyone-knows-it/)
+[First Blood Test for Dozens of Hereditary Cancers Approved by FDA](https://www.insideprecisionmedicine.com/topics/oncology/first-blood-test-for-dozens-of-hereditary-cancers-approved-by-fda/)
 
-[Open-source could finally get the world’s microscopes speaking the same language](https://www.nature.com/articles/d41586-023-03064-9)
+[A Call for Developers – Jellyfin](https://jellyfin.org/posts/a-call-for-developers/)
 
-[The minimum every software developer must know about Unicode in 2023](https://tonsky.me/blog/unicode/)
+[Efficient streaming language models with attention sinks](https://github.com/mit-han-lab/streaming-llm)
 
-[Break-a-Scene: Extracting Multiple Concepts from a Single Image](https://omriavrahami.com/break-a-scene/)
+[Exploiting the iPhone 4](https://axleos.com/exploiting-the-iphone-4-part-1-gaining-entry/)
 
-[Nomnoml](https://nomnoml.com/)
+[Sprite Lightning in High Definition](https://apod.nasa.gov/apod/ap231002.html)
 
-[James Webb Space Telescope's first spectrum of a TRAPPIST-1 planet](https://phys.org/news/2023-09-james-webb-space-telescope-spectrum.html)
+[Ask HN: Who is hiring? (October 2023)]()
 
-[How to set up an anonymous user flow](https://fusionauth.io/blog/anonymous-user)
+[Weird A.I. Yankovic: a cursed deep dive into the world of voice cloning](https://waxy.org/2023/10/weird-ai-yankovic-voice-cloning/)
 
-[Goodbye integers, hello UUIDv7](https://buildkite.com/blog/goodbye-integers-hello-uuids)
+[Ask HN: Who wants to be hired? (October 2023)]()
 
-[Chess and solution pool with linear programming (2018)](http://yetanothermathprogrammingconsultant.blogspot.com/2018/11/chess-and-solution-pool.html)
+[Slovenia’s beautiful beehives turn apiaries into art](https://www.atlasobscura.com/articles/what-are-slovenian-beehouses)
 
-[DOE: Pathways to Commercial Liftoff: Virtual Power Plants](https://liftoff.energy.gov/vpp/)
+[What every software developer must know about Unicode in 2023](https://tonsky.me/blog/unicode/)

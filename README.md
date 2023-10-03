@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[First Blood Test for Dozens of Hereditary Cancers Approved by FDA](https://www.insideprecisionmedicine.com/topics/oncology/first-blood-test-for-dozens-of-hereditary-cancers-approved-by-fda/)
+[PicoCalc: A fully-functional clone of VisiCalc for the PICO-8](https://www.lexaloffle.com/bbs/?tid=41739)
 
-[A Call for Developers – Jellyfin](https://jellyfin.org/posts/a-call-for-developers/)
+[Illustrated A64 SIMD Instruction List: SVE Instructions](https://dougallj.github.io/asil/)
 
 [Efficient streaming language models with attention sinks](https://github.com/mit-han-lab/streaming-llm)
 
+[Show HN: A new stdlib for Golang focusing on platform native support](https://github.com/primecitizens/pcz)
+
 [Exploiting the iPhone 4](https://axleos.com/exploiting-the-iphone-4-part-1-gaining-entry/)
 
-[Sprite Lightning in High Definition](https://apod.nasa.gov/apod/ap231002.html)
+[MotionLM: Multi-Agent Motion Forecasting as Language Modeling](https://arxiv.org/abs/2309.16534)
 
-[Ask HN: Who is hiring? (October 2023)]()
+[Satya Nadella Says Copilot Will Be as Significant as the PC](https://jdmeier.com/satya-nadella-on-copilot/)
 
-[Weird A.I. Yankovic: a cursed deep dive into the world of voice cloning](https://waxy.org/2023/10/weird-ai-yankovic-voice-cloning/)
+[What scientists must know about hardware to write fast code (2020)](https://viralinstruction.com/posts/hardware/)
+
+[Every database will become a vector database sooner or later](https://nextword.substack.com/p/vector-database-is-not-a-separate)
 
 [Ask HN: Who wants to be hired? (October 2023)]()
-
-[Slovenia’s beautiful beehives turn apiaries into art](https://www.atlasobscura.com/articles/what-are-slovenian-beehouses)
-
-[What every software developer must know about Unicode in 2023](https://tonsky.me/blog/unicode/)

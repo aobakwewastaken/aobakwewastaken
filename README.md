@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Debunking NIST's calculation of the Kyber-512 security level](https://blog.cr.yp.to/20231003-countcorrectly.html)
+
+[Michael F. Flynn has died](http://tofspot.blogspot.com/2023/10/wonder-and-anticipation-likes-of-which.html)
+
 [Running Stable Diffusion XL 1.0 in 298MB of RAM](https://github.com/vitoplantamura/OnnxStream/tree/846da873570a737b49154e8f835704264864b0fe)
 
-[Pgroll: zero-downtime, undoable, schema migrations for Postgres](https://xata.io/blog/pgroll-schema-migrations-postgres)
+[Predictive policing software terrible at predicting crimes](https://themarkup.org/prediction-bias/2023/10/02/predictive-policing-software-terrible-at-predicting-crimes)
 
-[Google open-sources their graph mining library](https://github.com/google/graph-mining)
+[U2 at Sphere is the nightmare future of music](https://mattruby.substack.com/p/u2-at-sphere-is-the-nightmare-future)
 
-[Hey, Computer, Make Me a Font](https://serce.me/posts/02-10-2023-hey-computer-make-me-a-font)
+[Graph Mining Library](https://github.com/google/graph-mining)
 
-[Daktilo: Turn Your Keyboard into a Typewriter](https://github.com/orhun/daktilo)
+[Working on Multiple Web Projects with Docker Compose and Traefik](https://georgek.github.io/blog/posts/multiple-web-projects-traefik/)
 
-[I applied to 250 jobs and timed how long each one took](https://www.careerfair.io/online-maze)
+[GCVR (YC W22, Top Rated on Quest) Hiring Lead Back End Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-lead-backend-engineering)
 
-[Picat is my favorite new toolbox language](https://buttondown.email/hillelwayne/archive/picat-is-my-favorite-new-toolbox-language/)
+[Honey, I shrunk the NPM package](https://jamiemagee.co.uk/blog/honey-i-shrunk-the-npm-package/)
 
-[Predictive Policing Software Is Pretty Terrible at Predicting Crimes](https://gizmodo.com/predictive-policing-cops-law-enforcement-predpol-1850893951)
-
-[Amino – The Public IPFS DHT Is Getting a Facelift](https://blog.ipfs.tech/2023-09-amino-refactoring/)
-
-[Fairphone 5 review: The most uncompromising repairable phone yet](https://www.androidpolice.com/fairphone-5-review/)
+[Hey, computer, make me a font](https://serce.me/posts/02-10-2023-hey-computer-make-me-a-font)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
+[Vespa.ai is spinning out of Yahoo as a separate company](https://blog.vespa.ai/vespa-is-becoming-its-own-company/)
 
-[Show HN: Classic Video Poker (Godot is awesome!)](https://lfgslots.com/classicvideopoker/)
+[An interactive intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
 
-[Think Before You Speak: Training Language Models with Pause Tokens](https://arxiv.org/abs/2310.02226)
+[Eliminating radio interference from Apple charger](https://oh8hub.substack.com/p/eliminating-radio-interference-from)
 
-[1.3B Worldcat scrape and data science mini-competition](https://annas-blog.org/worldcat-scrape.html)
+[The Diorama Engine](https://dioragame.com/devlog/?log=3)
 
-[OpenSSH 9.5 released with keystroke timing obfuscation](https://lwn.net/Articles/946497/)
+[Pixel 8 Pro](https://store.google.com/product/pixel_8_pro?hl=en-US)
 
-[Pixel 8 to have seven years of Android updates](https://www.theverge.com/2023/10/4/23899900/google-pixel-8-pro-android-updates-7-years-security-features)
+[MiniOS – a lightweight Linux distribution designed for USB drive](https://minios.dev)
 
-[Show HN: Shuttle – Build and ship backends without writing infrastructure files](https://github.com/shuttle-hq/shuttle)
+[Show HN: Sqinn-Go is a Golang library for accessing SQLite databases in pure Go](https://github.com/cvilsmeier/sqinn-go)
 
-[Choosing vector database: a side-by-side comparison](https://benchmark.vectorview.ai/vectordbs.html)
+[Tesorio (YC S15) Is Hiring a Senior Data Engineer and Senior Back End Engineer in Latam](https://www.tesorio.com/careers#job-openings)
 
-[Extism Makes WebAssembly Easy](https://dylibso.com/blog/why-extism/)
+[Building a DIY Pen Plotter](https://szymonkaliski.com/writing/2023-10-02-building-a-diy-pen-plotter/)
 
-[32 MiB Working Sets on a 64 GiB machine](https://randomascii.wordpress.com/2023/10/01/32-mib-working-sets-on-a-64-gib-machine/#more-4032)
+[Expressive text-to-image generation with rich text](https://rich-text-to-image.github.io/)

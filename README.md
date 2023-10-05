@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Pythagorean Theorem found on clay tablet 1k years older than Pythagoras](https://link.springer.com/article/10.1057/jt.2009.16)
+
+[President Speaking: Spoofing Alerts in 4G LTE Networks (2019) [pdf]](https://par.nsf.gov/servlets/purl/10150578)
+
+[Celestial Reference Frame Department](https://crf.usno.navy.mil/home)
+
+[Domestic cat larynges can produce purring frequencies without neural input](https://www.cell.com/current-biology/fulltext/S0960-9822(23)01230-7)
+
 [Vespa.ai is spinning out of Yahoo as a separate company](https://blog.vespa.ai/vespa-is-becoming-its-own-company/)
 
-[An interactive intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
+[An updated Node-WebRTC that works with Node Stable](https://github.com/WonderInventions/node-webrtc)
 
-[Eliminating radio interference from Apple charger](https://oh8hub.substack.com/p/eliminating-radio-interference-from)
+[Delta finds fake jet aircraft engine parts with forged airworthiness documents](https://fortune.com/2023/10/03/delta-fourth-major-us-airline-fake-jet-aircraft-engine-parts-forged-airworthiness-documents-uk-company-aog/)
 
-[The Diorama Engine](https://dioragame.com/devlog/?log=3)
+[Five Kinds of Friends (2022)](http://sociological-eye.blogspot.com/2022/02/five-kinds-of-friends.html)
 
-[Pixel 8 Pro](https://store.google.com/product/pixel_8_pro?hl=en-US)
+[AI beats human sleuth at finding problematic images in research papers](https://www.nature.com/articles/d41586-023-02920-y)
 
-[MiniOS – a lightweight Linux distribution designed for USB drive](https://minios.dev)
-
-[Show HN: Sqinn-Go is a Golang library for accessing SQLite databases in pure Go](https://github.com/cvilsmeier/sqinn-go)
-
-[Tesorio (YC S15) Is Hiring a Senior Data Engineer and Senior Back End Engineer in Latam](https://www.tesorio.com/careers#job-openings)
-
-[Building a DIY Pen Plotter](https://szymonkaliski.com/writing/2023-10-02-building-a-diy-pen-plotter/)
-
-[Expressive text-to-image generation with rich text](https://rich-text-to-image.github.io/)
+[Unreal Engine change its price for non-game apps](https://gamefromscratch.com/unreal-engine-pricing-changes/)

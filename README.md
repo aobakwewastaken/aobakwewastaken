@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[How fast are Linux pipes anyway? (2022)](https://mazzo.li/posts/fast-pipes.html)
+
+[NIST Elliptic Curves Seeds Bounty](https://words.filippo.io/dispatches/seeds-bounty/)
+
 [Where does my computer get the time from?](https://dotat.at/@/2023-05-26-whence-time.html)
 
-[Introducing “Database Performance at Scale”: A Free, Open Source Book](https://www.scylladb.com/2023/10/02/introducing-database-performance-at-scale-a-free-open-source-book/)
+[Test Anything Protocol](https://testanything.org/)
 
-[Why HTTP/3 is eating the world](https://blog.apnic.net/2023/09/25/why-http-3-is-eating-the-world/)
-
-[Ron Patrick's Street-Legal Jet Powered Volkswagen Beetle (2006)](https://www.ronpatrickstuff.com/)
+[Oldest footprints in North America push back human arrival](https://www.washingtonpost.com/science/2023/10/05/oldest-human-footprint-americas-white-sands/)
 
 [Bitmagnet: A self-hosted BitTorrent indexer, DHT crawler, and torrent search](https://bitmagnet.io/)
 
-[Lenovo PC boss: 4 in 5 of our devices will be repairable by 2025](https://www.theregister.com/2023/10/05/lenovo_pc_boss_4_in/)
+[Vivaldi on iOS](https://vivaldi.com/blog/vivaldi-browser-launches-on-ios/)
 
-[F3D is an open source 3D viewer, fast and minimalist](https://f3d.app//)
+[Show HN: An app store just for installable web apps](https://store.app)
 
-[Pythagorean Theorem found on clay tablet 1k years older than Pythagoras](https://link.springer.com/article/10.1057/jt.2009.16)
+[How I stay motivated as a solo creator](https://herman.bearblog.dev/how-i-stay-motivated-as-a-solo-creator/)
 
-[There's No Such Thing as “Implicitly Atomic”](https://belkadan.com/blog/2023/10/Implicity-Atomic/)
-
-[US Government issues first-ever space debris penalty to Dish Network](https://www.theguardian.com/science/2023/oct/02/fcc-space-debris-fine-dish-network-satellite)
+[Rerun 0.9 – a framework for visualizing streams of multimodal data](https://www.rerun.io/blog/release-0.9)

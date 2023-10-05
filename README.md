@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Product Strategy in the Age of AI](https://www.intercom.com/blog/videos/intercom-on-product-ep21/)
+[Why HTTP/3 is eating the world](https://blog.apnic.net/2023/09/25/why-http-3-is-eating-the-world/)
 
 [Pythagorean Theorem found on clay tablet 1k years older than Pythagoras](https://link.springer.com/article/10.1057/jt.2009.16)
 
+[Show HN: Use your familiar Markdown editor to create and publish web pages](https://amarkdown.com/)
+
+[F3D is an open source 3D viewer, fast and minimalist](https://f3d.app//)
+
 [Celestial Reference Frame Department](https://crf.usno.navy.mil/home)
 
-[Vespa.ai is spinning out of Yahoo as a separate company](https://blog.vespa.ai/vespa-is-becoming-its-own-company/)
-
-[Five Kinds of Friends (2022)](http://sociological-eye.blogspot.com/2022/02/five-kinds-of-friends.html)
-
-[President Speaking: Spoofing Alerts in 4G LTE Networks (2019) [pdf]](https://par.nsf.gov/servlets/purl/10150578)
+[Whalesync (YC S21) is hiring remote full-stack software engineers](https://jobs.polymer.co/whalesync/28574)
 
 [Severity HIGH security problem to be announced with curl 8.4.0 on Oct 11](https://github.com/curl/curl/discussions/12026)
 
-[AI beats human sleuth at finding problematic images in research papers](https://www.nature.com/articles/d41586-023-02920-y)
+[Google Docs adds tracking to links in document exports](https://fosstodon.org/@Joe_0237/111145684757912952)
 
-[Delta finds fake jet aircraft engine parts with forged airworthiness documents](https://fortune.com/2023/10/03/delta-fourth-major-us-airline-fake-jet-aircraft-engine-parts-forged-airworthiness-documents-uk-company-aog/)
+[Five Kinds of Friends (2022)](http://sociological-eye.blogspot.com/2022/02/five-kinds-of-friends.html)
 
-[How Transformers Work](https://ig.ft.com/generative-ai/)
+[Great Pyramid of Cholula](https://en.wikipedia.org/wiki/Great_Pyramid_of_Cholula)

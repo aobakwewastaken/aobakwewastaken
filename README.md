@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Opening up access to GOV.UK Forms: an online form builder](https://gds.blog.gov.uk/2023/10/03/how-were-opening-up-access-to-gov-uk-forms/)
+[Making Hard Things Easy](https://jvns.ca/blog/2023/10/06/new-talk--making-hard-things-easy/)
 
-[Productivity has grown faster in Western Europe than in America](https://www.economist.com/graphic-detail/2023/10/04/productivity-has-grown-faster-in-western-europe-than-in-america)
+[Thread-per-core](https://without.boats/blog/thread-per-core/)
 
-[Show HN: Another way to use an old tablet as an extra screen](https://github.com/alex028502/extra-screen)
+[EU Grabs ARM for First ExaFLOP Supercomputer, x86 Misses Out](https://www.hpcwire.com/2023/10/04/eu-grabs-arm-for-first-exaflop-supercomputer-x86-misses-out/)
+
+[Show HN: Use an old tablet as an extra monitor](https://github.com/alex028502/extra-screen)
+
+[We’re opening up access to Gov.uk forms](https://gds.blog.gov.uk/2023/10/03/how-were-opening-up-access-to-gov-uk-forms/)
+
+[MGM expects $100M hit from hack that led to data breach](https://www.reuters.com/business/mgm-expects-cybersecurity-issue-negatively-impact-third-quarter-earnings-2023-10-05/)
 
 [Llama 2 Everywhere (L2E): Standalone, Binary Portable, Bootable Llama 2](https://github.com/trholding/llama2.c)
 
-[Reversing 'France Identité': The New French Digital ID](https://www.reversemode.com/2023/10/reversing-france-identite-new-french.html)
+[Bus Sniffing the IBM 5150](https://martypc.blogspot.com/2023/10/bus-sniffing-ibm-5150.html)
 
-[Jailed Iranian Activist Narges Mohammadi Wins 2023 Nobel Peace Prize](https://www.cnn.com/world/live-news/nobel-peace-prize-2023-latest-news-intl/index.html)
+[Thirty Years Ago: MS-DOS 6.00](https://www.pcjs.org/blog/2023/10/04/)
 
-[NIST Elliptic Curves Seeds Bounty](https://words.filippo.io/dispatches/seeds-bounty/)
-
-[Adam? ... is there a reason your laptop is in the fridge? (2006)](https://www.kempa.com/adam-is-there-a-reason-your-laptop-is-in-the-fridge/)
-
-[Supernova in 1006](https://en.wikipedia.org/wiki/SN_1006)
-
-[Airbnb guest stays at LA rental for 500 days without paying, refuses to leave](https://www.foxla.com/news/airbnb-guest-refuses-to-leave-brentwood-rental-home-after-500-days-without-paying)
+[Narges Mohammadi wins 2023 Nobel Peace Prize](https://www.cnn.com/world/live-news/nobel-peace-prize-2023-latest-news-intl/index.html)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[How fast are Linux pipes anyway? (2022)](https://mazzo.li/posts/fast-pipes.html)
-
 [NIST Elliptic Curves Seeds Bounty](https://words.filippo.io/dispatches/seeds-bounty/)
 
-[Where does my computer get the time from?](https://dotat.at/@/2023-05-26-whence-time.html)
+[Adam? ... is there a reason your laptop is in the fridge? (2006)](https://www.kempa.com/adam-is-there-a-reason-your-laptop-is-in-the-fridge/)
 
-[Test Anything Protocol](https://testanything.org/)
+[Gboard Hat Version](https://landing.google.co.jp/caps/)
 
-[Oldest footprints in North America push back human arrival](https://www.washingtonpost.com/science/2023/10/05/oldest-human-footprint-americas-white-sands/)
+[How fast are Linux pipes anyway? (2022)](https://mazzo.li/posts/fast-pipes.html)
 
-[Bitmagnet: A self-hosted BitTorrent indexer, DHT crawler, and torrent search](https://bitmagnet.io/)
+[“Google is clearly buying its way to squelch competitors“](https://www.bigtechontrial.com/p/google-is-clearly-buying-its-way)
 
-[Vivaldi on iOS](https://vivaldi.com/blog/vivaldi-browser-launches-on-ios/)
+[OpenPubKey and Sigstore](https://blog.sigstore.dev/openpubkey-and-sigstore/)
 
 [Show HN: An app store just for installable web apps](https://store.app)
 
-[How I stay motivated as a solo creator](https://herman.bearblog.dev/how-i-stay-motivated-as-a-solo-creator/)
+[Chinese Netizen Fined over 1M Yuan for Using VPN](https://here.news/post/93c46bbd-ea0d-48e2-bba6-135e58887f81/chinese-netizen-fined-over-1-million-yua)
 
-[Rerun 0.9 – a framework for visualizing streams of multimodal data](https://www.rerun.io/blog/release-0.9)
+[Nine ways to break your systems code using volatile](https://blog.regehr.org/archives/28)
+
+[Show HN: Decorate Java stack traces with source code snippets](https://github.com/laech/java-stacksrc)

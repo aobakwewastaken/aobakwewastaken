@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Why did the Motorola 68000 processor family fall out of use in PCs?](https://retrocomputing.stackexchange.com/questions/27722/why-did-the-motorola-68000-processor-family-fall-out-of-use-in-personal-computer)
+
+[AMD may get across the CUDA moat](https://www.hpcwire.com/2023/10/05/how-amd-may-get-across-the-cuda-moat/)
+
 [Making Hard Things Easy](https://jvns.ca/blog/2023/10/06/new-talk--making-hard-things-easy/)
 
-[EU Grabs ARM for First ExaFLOP Supercomputer, x86 Misses Out](https://www.hpcwire.com/2023/10/04/eu-grabs-arm-for-first-exaflop-supercomputer-x86-misses-out/)
+[Researchers tested AI watermarks and broke all of them](https://www.wired.com/story/artificial-intelligence-watermarking-issues/)
 
-[Thread-per-core](https://without.boats/blog/thread-per-core/)
+[Lasers Deflected Using Air](https://www.desy.de/news/news_search/index_eng.html?openDirectAnchor=2951&two_columns=0)
+
+[Fail2Ban – Daemon to ban hosts that cause multiple authentication errors](https://github.com/fail2ban/fail2ban)
+
+[Java 21 VirtualThreads vs. Clojure Lazy Seqs](https://clojure.org/news/2023/10/06/deref)
+
+[How we manage 200 open-source repos](https://turbot.com/blog/2023/10/repo-management)
+
+[Exploratory data analysis for humanities data](https://awk.dev/eda.html)
 
 [Show HN: Use an old tablet as an extra monitor](https://github.com/alex028502/extra-screen)
-
-[Unreal Engine will no longer be free for all](https://www.creativebloq.com/news/epic-games-unreal-engine-charge)
-
-[Hubble’s Hitchcock Moment: An Explosion in Unexpected Place](https://scitechdaily.com/hubbles-hitchcock-moment-a-bizarre-explosion-in-unexpected-place/)
-
-[Java 21 VirtualThreads vs. Clojure Lazy Seqs (from Clojure Deref 2023-10-06)](https://clojure.org/news/2023/10/06/deref)
-
-[When allocators are hoarding your precious memory](https://www.algolia.com/blog/engineering/when-allocators-are-hoarding-your-precious-memory/)
-
-[We’re opening up access to Gov.uk forms](https://gds.blog.gov.uk/2023/10/03/how-were-opening-up-access-to-gov-uk-forms/)
-
-[Llama 2 Everywhere (L2E): Standalone, Binary Portable, Bootable Llama 2](https://github.com/trholding/llama2.c)

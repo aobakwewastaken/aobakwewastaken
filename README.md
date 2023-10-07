@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Why did the Motorola 68000 processor family fall out of use in PCs?](https://retrocomputing.stackexchange.com/questions/27722/why-did-the-motorola-68000-processor-family-fall-out-of-use-in-personal-computer)
+[Documented source code for Elite on the NES](https://github.com/markmoxon/nes-elite-beebasm)
 
 [AMD may get across the CUDA moat](https://www.hpcwire.com/2023/10/05/how-amd-may-get-across-the-cuda-moat/)
 
-[Making Hard Things Easy](https://jvns.ca/blog/2023/10/06/new-talk--making-hard-things-easy/)
+[Show HN: A job application tracker with company reviews, recruiter autoresponder](https://rolepad.com)
 
-[Researchers tested AI watermarks and broke all of them](https://www.wired.com/story/artificial-intelligence-watermarking-issues/)
+[What is in that .git directory?](https://blog.meain.io/2023/what-is-in-dot-git/)
 
-[Lasers Deflected Using Air](https://www.desy.de/news/news_search/index_eng.html?openDirectAnchor=2951&two_columns=0)
+[Lasers deflected using air](https://www.desy.de/news/news_search/index_eng.html?openDirectAnchor=2951&two_columns=0)
 
-[Fail2Ban – Daemon to ban hosts that cause multiple authentication errors](https://github.com/fail2ban/fail2ban)
+[Show HN: DotBigBang – Multiplayer game engine with 120fps and 2 second load time](https://dotbigbang.com/game/1af877e9bfdb47088611f55982b7570f/prestons-diamond-wars?mp=playdw)
 
-[Java 21 VirtualThreads vs. Clojure Lazy Seqs](https://clojure.org/news/2023/10/06/deref)
+[Ash: A Gentle Primer](https://jon.hk/elixir/ash/a-gentle-primer-to-ash/)
 
-[How we manage 200 open-source repos](https://turbot.com/blog/2023/10/repo-management)
+[Could we make C arrays memory safe? Probably not, but let's try](https://nibblestew.blogspot.com/2023/10/could-we-make-c-arrays-memory.html)
 
-[Exploratory data analysis for humanities data](https://awk.dev/eda.html)
+[Cloudflare is free of CAPTCHAs; Turnstile is free for everyone](https://blog.cloudflare.com/turnstile-ga/)
 
-[Show HN: Use an old tablet as an extra monitor](https://github.com/alex028502/extra-screen)
+[Braid is dead, long live Braid](https://amandapeyton.com/blog/2023/10/braid-is-dead-long-live-braid/)

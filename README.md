@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Subtraction Is Functionally Complete](https://orlp.net/blog/subtraction-is-functionally-complete/)
+
 [Documented source code for Elite on the NES](https://github.com/markmoxon/nes-elite-beebasm)
 
-[AMD may get across the CUDA moat](https://www.hpcwire.com/2023/10/05/how-amd-may-get-across-the-cuda-moat/)
+[The Honeypot Diaries: Thousands of Daily Attacks on My Home Network](https://simone.org/honeypot-diaries/)
 
-[Show HN: A job application tracker with company reviews, recruiter autoresponder](https://rolepad.com)
+[Auto Xylophone with Homemade Solenoids](https://rachad47.github.io/rwae/Xylophone.html)
 
 [What is in that .git directory?](https://blog.meain.io/2023/what-is-in-dot-git/)
 
-[Lasers deflected using air](https://www.desy.de/news/news_search/index_eng.html?openDirectAnchor=2951&two_columns=0)
+[Show HN: A job application tracker with company reviews, recruiter autoresponder](https://rolepad.com)
 
 [Show HN: DotBigBang – Multiplayer game engine with 120fps and 2 second load time](https://dotbigbang.com/game/1af877e9bfdb47088611f55982b7570f/prestons-diamond-wars?mp=playdw)
 
-[Ash: A Gentle Primer](https://jon.hk/elixir/ash/a-gentle-primer-to-ash/)
+[The Secretive Company That Might End Privacy as We Know It](https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html)
 
-[Could we make C arrays memory safe? Probably not, but let's try](https://nibblestew.blogspot.com/2023/10/could-we-make-c-arrays-memory.html)
+[Looking back on SaaS product strategy](https://ghiculescu.substack.com/p/11-years-of-saas-product-strategy)
 
-[Cloudflare is free of CAPTCHAs; Turnstile is free for everyone](https://blog.cloudflare.com/turnstile-ga/)
-
-[Braid is dead, long live Braid](https://amandapeyton.com/blog/2023/10/braid-is-dead-long-live-braid/)
+[Lasers deflected using air](https://www.desy.de/news/news_search/index_eng.html?openDirectAnchor=2951&two_columns=0)

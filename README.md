@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Paperless-ngx – Open source document management system](https://nerdyarticles.com/a-clutter-free-life-with-paperless-ngx/)
+[Decomposing Language Models into Understandable Components](https://www.anthropic.com/index/decomposing-language-models-into-understandable-components)
 
-[Testing if a port can be reached, using built-in tools other than ol' telnet](https://www.carehart.org/blog/2023/10/1/testing_port_reachability_with_other_than_telnet)
+[An implantable device could enable injection-free control of diabetes](https://news.mit.edu/2023/implantable-device-enable-injection-free-control-diabetes-0918)
 
-[Researchers find link between plastic additive and autism, ADHD](https://today.rowan.edu/news/2023/09/researchers-find-bpa-links-to-autism-adhd.html)
+[Sonoma's log gets briefer and more secretive](https://eclecticlight.co/2023/10/07/sonomas-log-gets-briefer-and-more-secretive/)
 
-[Dockerized local and offline backing up of PostgreSQL with rotation, compression](https://github.com/efrecon/pgbackup)
+[Railway Time](https://en.wikipedia.org/wiki/Railway_time)
 
-[The Last Express](https://www.filfre.net/2023/10/the-last-express/)
+[A Repairman's View of Portable Minidisc Recorders (2000)](https://www.minidisc.org/repair_info.html)
 
-[Berry is a ultra-lightweight dynamically typed embedded scripting language](https://berry-lang.github.io/)
+[Role of Algorithms](https://matklad.github.io/2023/08/13/role-of-algorithms.html)
 
-[An alternative front end for Haskell?](https://gilmi.me/blog/post/2023/10/05/haskell-alternative-frontend)
+[Before Skynet and The Matrix, there was Colossus: The Forbin Project](https://www.ign.com/articles/colossus-the-forbin-project-ai-sci-fi-movie)
 
-[Quake related work logs (1996)](https://www.gamers.org/dEngine/quake/info/worklogs.html)
+[Organization probably doesn't want to improve things](https://ludic.mataroa.blog/blog/your-organization-probably-doesnt-want-to-improve-things/)
 
-[Subtraction is functionally complete](https://orlp.net/blog/subtraction-is-functionally-complete/)
+[Permission Slip: Consumer Reports app to take back control of your data](https://permissionslipcr.com/)
 
-[Reverse-Engineering the Mechanical Bendix Central Air Data Computer](https://www.righto.com/2023/10/bendix-cadc-reverse-engineering.html)
+[Numbers in Various Languages](https://www.omniglot.com/language/numbers/index.htm#google_vignette)

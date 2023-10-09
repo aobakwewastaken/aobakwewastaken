@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[ZeroMQ – Relicense from LGPL3 and exceptions to MPL 2.0](https://github.com/zeromq/libzmq/pull/4555)
+
+[Announcing Chapel 1.32](https://chapel-lang.org/blog/posts/announcing-chapel-1.32/)
+
+[Are logos all starting to look the same?](https://www.creativebloq.com/news/logos-look-the-same)
+
+[Zimaboard: The closest thing to my dream home server setup](https://ounapuu.ee/posts/2023/10/09/zimaboard/)
+
 [Show HN: I made a all-in-one web app to help me with my freelance admin tasks](https://momo.coach/index.html)
 
-[Ardour 8.0](https://ardour.org/whatsnew.html#)
+[Modeling CRDTs in Alloy – the importance of idempotence](https://bytes.zone/posts/modeling-crdts-in-alloy-introduction-and-the-importance-of-idempotence/)
 
 [NixOS and Flakes Book: An unofficial book for beginners (free)](https://nixos-and-flakes.thiscute.world/)
 
-[UK Postal Address Oddities (2018)](https://paulplowman.com/stuff/uk-address-oddities/)
+[The Prosecutor's Fallacy (2018)](https://www.cebm.ox.ac.uk/news/views/the-prosecutors-fallacy)
 
-[2023 Nobel Prize in economics awarded to Claudia Goldin](https://www.nobelprize.org/prizes/economic-sciences/2023/press-release/)
+[Ardour 8.0](https://ardour.org/whatsnew.html#)
 
-[My personal C coding style as of late 2023](https://nullprogram.com/blog/2023/10/08/)
-
-[What we learned making a plastic injection mold with a Chinese mold maker](https://www.airgradient.com/blog/lessons-learned-plastic-injection-mold-making/)
-
-[Stream Compression in NATS](https://qaze.app/blog/nats-stream-compression/)
-
-[Blackmagic Camera for iPhone](https://www.blackmagicdesign.com/products/blackmagiccamera)
-
-[Why (and How) I Write Code with Pencil and Paper](https://css-tricks.com/why-and-how-i-write-code-with-pencil-and-paper/)
+[Advice for Prospective PhD Students](https://gonzales.science/resource-blog/for-prospective-phd-students)

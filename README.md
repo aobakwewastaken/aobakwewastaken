@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[John Riccitiello steps down as CEO of Unity after pricing battle](https://venturebeat.com/games/john-riccitiello-steps-down-as-ceo-of-unity-after-pricing-battle/)
+[Firefox tooltip bug fixed after 22 years](https://bugzilla.mozilla.org/show_bug.cgi?id=148624)
 
-[Linux ate my RAM (2009)](https://www.linuxatemyram.com/)
+[ECC RAM on AMD Ryzen 7000 Desktop CPUs](https://sunshowers.io/posts/am5-ryzen-7000-ecc-ram/)
+
+[DSLinux – Linux for the Nintendo DS](https://www.dslinux.org/)
+
+[John Riccitiello steps down as CEO of Unity](https://venturebeat.com/games/john-riccitiello-steps-down-as-ceo-of-unity-after-pricing-battle/)
+
+[Extreme parkour with legged robots](https://extreme-parkour.github.io/)
 
 [RAG at scale: Synchronizing and ingesting billions of text embeddings](https://medium.com/@neum_ai/retrieval-augmented-generation-at-scale-building-a-distributed-system-for-synchronizing-and-eaa29162521)
 
-[The pivot table, the spreadsheet's most powerful tool (2020)](https://qz.com/1903322/why-pivot-tables-are-the-spreadsheets-most-powerful-tool)
+[Decimal BASIC](http://hp.vector.co.jp/authors/VA008683/english/)
+
+[How to Make a Cantenna (2013)](https://jacobsalmela.com/2013/09/07/wi-fi-cantenna-2-4ghz-how-to-make-a-long-range-wi-fi-antenna/)
 
 [Video streaming at scale with Kubernetes and RabbitMQ](https://alexandreolive.medium.com/video-streaming-at-scale-with-kubernetes-and-rabbitmq-6e23fd0e75fb)
 
-[USB inventor explains why the connector was not designed to be reversible (2019)](https://www.pcgamer.com/usb-inventor-explains-why-the-connector-was-not-designed-to-be-reversible/)
-
-[Medieval staircases were not built going clockwise for the defender's advantage](https://fakehistoryhunter.net/2023/10/09/medieval-staircases-were-not-built-going-clockwise-for-the-defenders-advantage/)
-
-[Text Showdown: Gap Buffers vs. Ropes](https://coredumped.dev/2023/08/09/text-showdown-gap-buffers-vs-ropes/)
-
-[789 KB Linux Without MMU on RISC-V](https://popovicu.com/posts/789-kb-linux-without-mmu-riscv/)
-
-[Bare-metal Rust in Android](https://security.googleblog.com/2023/10/bare-metal-rust-in-android.html)
+[How to assert for fun and profit (2022)](https://www.aarsen.me/posts/2022-11-18-i-assert-thee.html)

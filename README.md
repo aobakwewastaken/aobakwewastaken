@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Google mitigated the largest DDoS attack to date, peaking above 398M rps](https://cloud.google.com/blog/products/identity-security/google-cloud-mitigated-largest-ddos-attack-peaking-above-398-million-rps/)
+[Oil sector is lobbying for inefficient hydrogen cars to delay electrification](https://www.rechargenews.com/energy-transition/liebreich-oil-sector-is-lobbying-for-inefficient-hydrogen-cars-because-it-wants-to-delay-electrification-/2-1-1033226?zephr_sso_ott=XwKh7x)
 
-[Building a Collaborative Pixel Art Editor with CRDTs](https://jakelazaroff.com/words/building-a-collaborative-pixel-art-editor-with-crdts/)
+[HAProxy is not affected by the HTTP/2 Rapid Reset Attack (CVE-2023-44487)](https://www.haproxy.com/blog/haproxy-is-not-affected-by-the-http-2-rapid-reset-attack-cve-2023-44487)
 
-[The novel HTTP/2 'Rapid Reset' DDoS attack](https://cloud.google.com/blog/products/identity-security/how-it-works-the-novel-http2-rapid-reset-ddos-attack)
+[Show HN: Building a 42-inch E-Ink frame for generative art](https://eliot.blog/e-ink-frame)
 
-[Firefox tooltip bug fixed after 22 years](https://bugzilla.mozilla.org/show_bug.cgi?id=148624)
+[Engineered material can reconnect severed nerves](https://news.rice.edu/news/2023/rice-engineered-material-can-reconnect-severed-nerves)
 
-[Postgres: The Next Generation](https://redmonk.com/jgovernor/2023/10/10/postgres-the-next-generation-investing-in-the-next-generation-of-committers/)
+[Apple Patents Suggest Future AirPods Could Monitor Biosignals and Brain Activity](https://applemagazine.com/apple-patents-suggest-future-airpods-could-monitor-biosignals-and-brain-activity/59510)
 
-[2000Ad announces retirement of John M. Burns](https://2000ad.com/news/no-more-robots-no-more-trains-2000-ad-wishes-a-very-happy-retirement-to-the-legendary-john-m-burns/)
+[The Evolution of Tunnel Boring Machines](https://www.construction-physics.com/p/the-evolution-of-tunnel-boring-machines)
 
-[Small-scale magnetism leads to large-scale solar atmosphere](https://www.esa.int/ESA_Multimedia/Images/2023/10/Small-scale_magnetism_leads_to_large-scale_solar_atmosphere)
+[California mandates VC firms to release investments' diversity information](https://techcrunch.com/2023/10/09/california-passes-law-mandating-vc-firms-to-release-investments-diversity-information/)
 
-[Show HN: Building an app to l earn languages with short stories](https://purplehoisin.com/building-an-app-to-learn-languages-with-short-stories/)
+[Disney packed big emotion into a little robot](https://spectrum.ieee.org/disney-robot)
 
-[Simulation Islands](https://box2d.org/posts/2023/10/simulation-islands/)
+[Mercedes-Benz eActros 600 e-truck](https://www.mercedes-benz-trucks.com/en_GB/emobility/world/our-offer.html)
 
-[A real-time 3D digital map of Tokyo's public transport system](https://minitokyo3d.com)
+[Thought Propagation: An Analogical Approach to Complex Reasoning with LLMs](https://paperswithcode.com/paper/thought-propagation-an-analogical-approach-to)

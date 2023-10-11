@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Twenty-five open-source network emulators and simulators you can use in 2023](https://www.brianlinkletter.com/2023/02/network-emulators-and-network-simulators-2023/)
+[Bad Emacs defaults](https://idiomdrottning.org/bad-emacs-defaults)
+
+[Modern Pascal is still in the race (2022)](https://blog.synopse.info/?post/2022/11/26/Modern-Pascal-is-Still-in-the-Race)
+
+[Farm in Kenya to produce fertilizer without using fossil fuels](https://e360.yale.edu/digest/small-green-ammonia-plant-farm-kenya)
 
 [Log is the "Pro" in iPhone 15 Pro](https://prolost.com/blog/applelog)
 
-[Spacedrive – an open source cross-platform file explorer](https://github.com/spacedriveapp/spacedrive)
+[New Vulkan Documentation Website](https://docs.vulkan.org/)
 
-[Multifault earthquake threat for Seattle region revealed by mass tree mortality](https://www.science.org/doi/10.1126/sciadv.adh4973)
+[The Deep Link Equating Math Proofs and Computer Programs](https://www.quantamagazine.org/the-deep-link-equating-math-proofs-and-computer-programs-20231011/)
 
-[The glEnd() of Zelda: Automatic 3Dification of NES Games (2016)](http://tom7.org/zelda/)
+[I'm Sorry I Bit You During My Job Interview](https://www.mcsweeneys.net/articles/im-sorry-i-bit-you-during-my-job-interview)
 
-[Toxiproxy – simulate network and system conditions for chaos testing](https://github.com/Shopify/toxiproxy)
+[We’ll call it AI to sell it, machine learning to build it](https://theaiunderwriter.substack.com/p/well-call-it-ai-to-sell-it-machine)
 
-[Pantographia: 1799 specimen book of all the known alphabets](https://publicdomainreview.org/collection/pantographia/)
+[Show HN: Speech Meter – Improve Your English Pronunciation](https://speechmeter.com/)
 
-[Replit's new AI Model now available on Hugging Face](https://blog.replit.com/replit-code-v1_5)
-
-[Buildkite has quietly removed their $9 "Team" plan](https://buildkite.com/pricing)
-
-[Going faster by duplicating code](https://voidstar.tech/code_duplication/)
+[The acute suicide crisis among veterinarians: 'You're always failing somebody'](https://www.bbc.com/worklife/article/20231010-the-acute-suicide-crisis-among-veterinarians-youre-always-going-to-be-failing-somebody)

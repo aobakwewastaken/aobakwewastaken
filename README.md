@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[The Deep Link Equating Math Proofs and Computer Programs](https://www.quantamagazine.org/the-deep-link-equating-math-proofs-and-computer-programs-20231011/)
+[Grind – A first person shooter for Amiga 500](https://www.indieretronews.com/2023/10/grind-first-person-shooter-for-amiga.html)
 
-[Modern Pascal is still in the race (2022)](https://blog.synopse.info/?post/2022/11/26/Modern-Pascal-is-Still-in-the-Race)
+[Show HN: Obligator – An OpenID Connect server for self-hosters](https://github.com/anderspitman/obligator)
 
-[K3s – Lightweight Kubernetes](https://k3s.io/)
+[Why are there so many colourful houses in Bristol?](https://secretbristol.com/colourful-houses-bristol/)
 
-[Vulkan Documentation](https://docs.vulkan.org/)
+[Unix Structured Concurrency](https://matklad.github.io/2023/10/11/unix-structured-concurrency.html)
 
-[SQL Reserved Words – The Empirical List](https://modern-sql.com/reserved-words-empirical-list)
+[Show HN: See library availabilities for your Goodreads want-to-read list](https://projecttbr.com/?goodreadsProfile=121455547-bella-vice-van-heyde&library=nypl,spl&format=ebook-kindle)
 
-[Bad Emacs defaults](https://idiomdrottning.org/bad-emacs-defaults)
+[British sandwiches and walking 300km of Wainwright's coast to coast](https://craigmod.com/ridgeline/167/)
 
-[Log is the "Pro" in iPhone 15 Pro](https://prolost.com/blog/applelog)
+[Starlink Direct to Cell](https://direct.starlink.com/)
 
-[Farm in Kenya to produce fossil-free fertilizer on site](https://e360.yale.edu/digest/small-green-ammonia-plant-farm-kenya)
+[Handle.com (YC W19) Is Hiring (ABM Manager)](https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager)
 
-[Evidence that albatrosses use infrasound to navigate long journeys](https://phys.org/news/2023-10-evidence-albatrosses-infrasound-journeys.html)
+[Inverted Transformers Are Effective for Time Series Forecasting](https://arxiv.org/abs/2310.06625)
 
-[Show HN: Speech Meter – Improve Your English Pronunciation](https://speechmeter.com/)
+[Replacing Engineering Managers with AI Agents](https://www.engineeringcalm.com/p/replacing-engineering-managers-with)

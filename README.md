@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Oil sector is lobbying for inefficient hydrogen cars to delay electrification](https://www.rechargenews.com/energy-transition/liebreich-oil-sector-is-lobbying-for-inefficient-hydrogen-cars-because-it-wants-to-delay-electrification-/2-1-1033226?zephr_sso_ott=XwKh7x)
+[Log is the "Pro" in iPhone 15 Pro](https://prolost.com/blog/applelog)
 
-[HAProxy is not affected by the HTTP/2 Rapid Reset Attack (CVE-2023-44487)](https://www.haproxy.com/blog/haproxy-is-not-affected-by-the-http-2-rapid-reset-attack-cve-2023-44487)
+[Multifault earthquake threat for Seattle region revealed by mass tree mortality](https://www.science.org/doi/10.1126/sciadv.adh4973)
+
+[Pantographia: 1799 specimen book of all the known alphabets](https://publicdomainreview.org/collection/pantographia/)
+
+[The glEnd() of Zelda: Automatic 3Dification of NES Games (2016)](http://tom7.org/zelda/)
 
 [Show HN: Building a 42-inch E-Ink frame for generative art](https://eliot.blog/e-ink-frame)
 
+[RFC 1925: The Twelve Networking Truths (1996)](https://www.rfc-editor.org/rfc/rfc1925)
+
 [Engineered material can reconnect severed nerves](https://news.rice.edu/news/2023/rice-engineered-material-can-reconnect-severed-nerves)
 
-[Apple Patents Suggest Future AirPods Could Monitor Biosignals and Brain Activity](https://applemagazine.com/apple-patents-suggest-future-airpods-could-monitor-biosignals-and-brain-activity/59510)
+[Spacedrive – an open source cross-platform file explorer](https://github.com/spacedriveapp/spacedrive)
 
-[The Evolution of Tunnel Boring Machines](https://www.construction-physics.com/p/the-evolution-of-tunnel-boring-machines)
+[curl - SOCKS5 heap buffer overflow - CVE-2023-38545](https://curl.se/docs/CVE-2023-38545.html)
 
-[California mandates VC firms to release investments' diversity information](https://techcrunch.com/2023/10/09/california-passes-law-mandating-vc-firms-to-release-investments-diversity-information/)
-
-[Disney packed big emotion into a little robot](https://spectrum.ieee.org/disney-robot)
-
-[Mercedes-Benz eActros 600 e-truck](https://www.mercedes-benz-trucks.com/en_GB/emobility/world/our-offer.html)
-
-[Thought Propagation: An Analogical Approach to Complex Reasoning with LLMs](https://paperswithcode.com/paper/thought-propagation-an-analogical-approach-to)
+[Replit's new AI Model now available on Hugging Face](https://blog.replit.com/replit-code-v1_5)

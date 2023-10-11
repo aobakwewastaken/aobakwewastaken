@@ -1,9 +1,7 @@
 # Top Stories on hackernews <br />
-[Log is the "Pro" in iPhone 15 Pro](https://prolost.com/blog/applelog)
-
 [Twenty-five open-source network emulators and simulators you can use in 2023](https://www.brianlinkletter.com/2023/02/network-emulators-and-network-simulators-2023/)
 
-[ChatGPT and other AI tools could disrupt scientific publishing](https://www.nature.com/articles/d41586-023-03144-w)
+[Log is the "Pro" in iPhone 15 Pro](https://prolost.com/blog/applelog)
 
 [Spacedrive – an open source cross-platform file explorer](https://github.com/spacedriveapp/spacedrive)
 
@@ -11,10 +9,12 @@
 
 [The glEnd() of Zelda: Automatic 3Dification of NES Games (2016)](http://tom7.org/zelda/)
 
-[Show HN: Building a 42-inch E-Ink frame for generative art](https://eliot.blog/e-ink-frame)
-
-[RFC 1925: The Twelve Networking Truths (1996)](https://www.rfc-editor.org/rfc/rfc1925)
+[Toxiproxy – simulate network and system conditions for chaos testing](https://github.com/Shopify/toxiproxy)
 
 [Pantographia: 1799 specimen book of all the known alphabets](https://publicdomainreview.org/collection/pantographia/)
 
 [Replit's new AI Model now available on Hugging Face](https://blog.replit.com/replit-code-v1_5)
+
+[Buildkite has quietly removed their $9 "Team" plan](https://buildkite.com/pricing)
+
+[Going faster by duplicating code](https://voidstar.tech/code_duplication/)

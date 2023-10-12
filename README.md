@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[The Twelve-Factor App](https://12factor.net/)
+[Desmos 3D graphing calculator](https://www.desmos.com/3d)
 
-[When XML in Word Became Illegal](https://blog.withedge.com/p/when-xml-in-word-became-illegal)
+[First word discovered in unopened Herculaneum scroll by CS student](https://scrollprize.org/firstletters)
 
-[The AI research job market shit show (and my experience)](https://www.interconnects.ai/p/ai-research-job-market)
+[ISS Rodent Habitat](https://spaceflight101.com/iss/rodent-habitat/)
 
-[Introduction to Modern Statistics](https://openintro-ims2.netlify.app/)
-
-[Want to get started with LLMs? Here's what you need to know](https://flyte.org/blog/getting-started-with-large-language-models-key-things-to-know#what-are-llms)
+[One game, by one man, on six platforms: The good, the bad and the ugly](https://ruoyusun.com/2023/10/12/one-game-six-platforms.html)
 
 [Show HN: I built a virtual tabletop for playing Dungeons and Dragons](https://www.diceright.com/)
 
-[Boox Palma review: A phone-shaped e-reader](https://sixcolors.com/post/2023/10/boox-palma-review-a-phone-shaped-e-reader/)
+[HTTP/2 rapid reset attack impacting Nginx products](https://www.nginx.com/blog/http-2-rapid-reset-attack-impacting-f5-nginx-products/)
 
-[NASA: Capillary Cup](https://www.rit.edu/vignellicenter/product-timecapsule/nasa-capillary-cup)
+[Handle.com (YC W19) Is Hiring (ABM Manager)](https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager)
 
-[Desmos 3D graphing calculator (beta)](https://www.desmos.com/3d)
+[Introduction to Modern Statistics](https://openintro-ims2.netlify.app/)
 
-[Atlassian to buy Loom for nearly $1B](https://www.reuters.com/markets/deals/atlassian-agrees-buy-video-messaging-provider-loom-nearly-1-bln-2023-10-12/)
+[OpenAI is too cheap to beat](https://generatingconversation.substack.com/p/openai-is-too-cheap-to-beat)
+
+[The midwit home](https://dynomight.substack.com/p/midwit-home)

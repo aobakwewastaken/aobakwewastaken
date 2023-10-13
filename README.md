@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Desmos 3D graphing calculator](https://www.desmos.com/3d)
-
 [First word discovered in unopened Herculaneum scroll by CS student](https://scrollprize.org/firstletters)
 
-[ISS Rodent Habitat](https://spaceflight101.com/iss/rodent-habitat/)
+[How to fit a large program into a small machine (1999)](https://mud.co.uk/richard/htflpism.htm)
 
-[One game, by one man, on six platforms: The good, the bad and the ugly](https://ruoyusun.com/2023/10/12/one-game-six-platforms.html)
+[Desmos 3D graphing calculator](https://www.desmos.com/3d)
 
-[Show HN: I built a virtual tabletop for playing Dungeons and Dragons](https://www.diceright.com/)
+[Echoes of Electromagnetism Found in Number Theory](https://www.quantamagazine.org/echoes-of-electromagnetism-found-in-number-theory-20231012/)
 
-[HTTP/2 rapid reset attack impacting Nginx products](https://www.nginx.com/blog/http-2-rapid-reset-attack-impacting-f5-nginx-products/)
+[Not setting up Find My bricked my MacBook](https://www.tokyodev.com/articles/not-setting-up-find-my-bricked-my-macbook)
 
-[Handle.com (YC W19) Is Hiring (ABM Manager)](https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager)
+[Our World in Data (YC W19) Is Hiring a Comms Manager](https://ourworldindata.org/communications-outreach-manager-q4-2023)
 
-[Introduction to Modern Statistics](https://openintro-ims2.netlify.app/)
+[Mathematician warns US spies may be weakening next-gen encryption](https://www.newscientist.com/article/2396510-mathematician-warns-us-spies-may-be-weakening-next-gen-encryption/)
 
-[OpenAI is too cheap to beat](https://generatingconversation.substack.com/p/openai-is-too-cheap-to-beat)
+[The Great Hargeisa Goat Bubble](https://web.archive.org/web/20120630140041/https://www.juliangough.com/the-great-hargeisa-goat-bubble/)
 
-[The midwit home](https://dynomight.substack.com/p/midwit-home)
+[A misunderstanding about education that cost Mark Zuckerberg $100M](https://danmeyer.substack.com/p/the-misunderstanding-about-education)
+
+[The Rise and Reign of Japanese VCRs [video]](https://www.youtube.com/watch?v=5CMv5V-wxT8)

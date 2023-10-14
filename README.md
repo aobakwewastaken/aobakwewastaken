@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[All of ChatGPT's System Prompts](https://github.com/spdustin/ChatGPT-AutoExpert/blob/main/System%20Prompts.md)
+[Tumor-destroying sound waves receive FDA approval for liver treatment in humans](https://news.umich.edu/tumor-destroying-sound-waves-receive-fda-approval-for-liver-treatment-in-humans/)
 
-[Book Review: How Our Roads Have Become an Invasive Species](https://undark.org/2023/10/13/book-review-crossings/)
+[Undermining Democracy: The EU Commission's Controversial Push for Surveillance](https://dannymekic.com/202310/undermining-democracy-the-european-commissions-controversial-push-for-digital-surveillance)
 
-[PostgresJs: The Fastest full featured PostgreSQL client for Node.js and Deno](https://github.com/porsager/postgres)
+[Tuning Linux for Performance](https://www.brendangregg.com/linuxperf.html)
+
+[Kalman Filter Tutorial: Kalman Filter from the Ground Up](https://www.kalmanfilter.net/default.aspx)
+
+[PostgresJs: Fast, full featured PostgreSQL client for Node.js and Deno](https://github.com/porsager/postgres)
 
 [Implementing a GPU's Programming Model on a CPU](http://litherum.blogspot.com/2023/10/implementing-gpus-programming-model-on.html)
 
-[How to cook ground meat perfectly without vision](https://theblindkitchen.com/how-to-cook-ground-meat-perfectly-every-time/)
+[The Razor Edge Book of Sharpening (1985) [pdf]](https://www.sharpeninghandbook.info/Images/Knife_Sharpening_text.pdf)
 
-[Zoltar (YC S22) Is Hiring Founding Full-Stack Engineers in NYC](https://www.ycombinator.com/companies/zoltar-labs/jobs)
+[F-Droid version of KDEConnect uninstalled by PlayProtect](https://discuss.kde.org/t/f-droid-version-of-kdeconnect-uninstalled-by-playprotect/5992)
 
-[Fcron Is the Best Cron](https://dbohdan.com/fcron)
+[ChatGPT’s system prompts](https://github.com/spdustin/ChatGPT-AutoExpert/blob/main/System%20Prompts.md)
 
-[Gsplat: CUDA accelerated rasterization of gaussians with Python bindings](https://docs.gsplat.studio/)
-
-[Trek, a Classic Game for DOS](https://www.michaelburns.net/Software/Trek/)
-
-[AMD Counter-Strikes Itself, Pulls Driver After Anti-Lag Feature Causes CS2 Bans](https://www.tomshardware.com/news/amd-pulls-drivers-that-cause-counter-strike-2-bans-after-valve-roasted-them)
+[The Banality of Genius: Notes on Peter Jackson's Get Back (2022)](https://www.ian-leslie.com/p/the-banality-of-genius-notes-on-peter)

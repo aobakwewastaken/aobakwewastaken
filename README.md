@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Widely accepted mathematical results that were later shown to be wrong? (2010)](https://mathoverflow.net/questions/35468/widely-accepted-mathematical-results-that-were-later-shown-to-be-wrong)
+[Sessionic: A cross-browser extension to save, manage, restore tabs and sessions](https://github.com/navorite/sessionic)
+
+[BeagleV-Ahead open-source RISC-V single board computer](https://www.beagleboard.org/boards/beaglev-ahead)
+
+[The British Mosquito once carried Niels Bohr in its bomb bay](https://www.thedrive.com/the-war-zone/the-nuclear-scientist-and-the-warplane-that-became-britains-most-unlikely-airliner)
+
+[Show HN: 3D Binpacking Algorithm Visualized](https://skusavvy.com/bin-packing-preview)
+
+[Recursive Recipes](https://recursiverecipes.schollz.com/)
+
+[Supabase (YC S20) Is Hiring a Technical Docs Lead (Fully Remote)](https://boards.greenhouse.io/supabase/jobs/4965064004)
 
 [Examining the silicon dies of the Intel 386 processor](http://www.righto.com/2023/10/intel-386-die-versions.html)
 
-[Escape analysis hates copy elision (2021)](https://quuxplusone.github.io/blog/2021/03/07/copy-elision-borks-escape-analysis/)
-
-[Kalman filter from the ground up](https://www.kalmanfilter.net/default.aspx)
-
 [Show HN: Firefox add-on to open YouTube videos in alternative front ends](https://github.com/d3vr/yt-siphon)
 
-[Implementing a GPU's programming model on a CPU](http://litherum.blogspot.com/2023/10/implementing-gpus-programming-model-on.html)
+[The Welsh Punk Scene of the 1980s](https://www.huckmag.com/article/inside-the-80s-welsh-punk-scene)
 
-[PostgresJs: PostgreSQL client for Node.js and Deno](https://github.com/porsager/postgres)
-
-[Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
-
-[Daily energy expenditure through the human life course](https://research.brighton.ac.uk/en/publications/daily-energy-expenditure-through-the-human-life-course)
-
-[The Banality of Genius: Notes on Peter Jackson's Get Back (2022)](https://www.ian-leslie.com/p/the-banality-of-genius-notes-on-peter)
+[Linux on an 8bit Microcontroller](https://dmitry.gr/?r=05.Projects&proj=07.%20Linux%20on%208bit)

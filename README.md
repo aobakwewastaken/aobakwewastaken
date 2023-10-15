@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Lotus 1-2-3 For Linux](https://lock.cmpxchg8b.com/linux123.html)
+[Mark Twain filmed by Thomas Edison in 1909](https://www.youtube.com/watch?v=leYj--P4CgQ)
 
-[Critical Ignoring as a Core Competence for Digital Citizens](https://journals.sagepub.com/doi/10.1177/09637214221121570)
+[SSH-audit: SSH server and client security auditing](https://github.com/jtesta/ssh-audit)
 
-[Trying out C++20's modules with Clang and Make](https://0x1.pt/2023/10/15/trying-out-c++20s-modules-with-clang-and-make/)
+[The Sycamore Gap tree held a particularly deep place in people's hearts](https://www.economist.com/obituary/2023/10/04/the-sycamore-gap-tree-held-a-particularly-deep-place-in-peoples-hearts)
+
+[Yes, You Can Use Lightguns on LCDs– Sometimes](https://nicole.express/2023/bang-bang-youre-dead.html)
 
 [Causal inference as a blind spot of data scientists](https://dzidas.com/ml/2023/10/15/blind-spot-ds/)
 
-[State of the Map EU 2023](https://stateofthemap.eu/)
+[The History of Cover Flow](https://512pixels.net/2023/10/the-history-of-cover-flow/)
 
-[Show HN: "Interactive" Italian Poetry for English Speakers](https://italianpoetry.it/)
+[GPL-3.0 licensed BIOS for Intel 8088 based computers](https://github.com/skiselev/8088_bios)
 
-[A Wild Idea to Protect the Great Barrier Reef](https://nautil.us/a-wild-idea-to-protect-the-great-barrier-reef-413426/)
+[Freshpaint (YC S19) Is Hiring Software Engineers to Protect Patient Privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 
-[BeagleV-Ahead open-source RISC-V single board computer](https://www.beagleboard.org/boards/beaglev-ahead)
+[Signtime.apple: One-on-one sign language interpreting by Apple](https://www.signtime.apple/applecare/us-EN/asl)
 
-[Cloudflare Sippy: Incrementally Migrate Data from AWS S3 to Reduce Egress Fees](https://www.infoq.com/news/2023/10/cloudflare-sippy-migrate-s3/)
-
-["Hacker News" for retro computing and gaming](https://blog.jgc.org/2023/10/hacker-news-for-retro-computing-and.html)
+[The largest dam removal in history stirs hopes of restoring tribes' way of life](https://www.latimes.com/environment/story/2023-10-05/klamath-dam-removal-tribes)

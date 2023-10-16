@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[C Is Not a Low-level Language – Your computer is not a fast PDP-11](https://queue.acm.org/detail.cfm?id=3212479)
+[Better HTTP server routing in Go 1.22](https://eli.thegreenplace.net/2023/better-http-server-routing-in-go-122/)
 
-[FreeTube – The Private YouTube Client](https://github.com/FreeTubeApp/FreeTube)
+[OpenBSD 7.4](https://www.openbsd.org/74.html)
 
 [GPU Embedding with GGML](https://bloop.ai/blog/gpu_with_ggml)
 
+[The U.S. Government Has $5B in Bitcoin](https://www.wsj.com/finance/currencies/federal-government-bitcoin-5-billion-78ce0938)
+
+[C Is Not a Low-level Language – Your computer is not a fast PDP-11 (2018)](https://queue.acm.org/detail.cfm?id=3212479)
+
+[OpenBSD 7.4 Released](https://www.undeadly.org/cgi?action=article;sid=20231016130614)
+
+[Snowbanks are set to get whiter – offsetting climate change's effects](https://www.nature.com/articles/d41586-023-03106-2)
+
 [Cockpit: Web-based graphical interface for servers](https://cockpit-project.org/)
 
-[How to Build a Universe That Doesn’t Fall Apart Two Days Later (1978)](https://urbigenous.net/library/how_to_build.html)
+[Dig near Paris unearths beginnings of urbanization dating back to 4,200 BC](https://www.lemonde.fr/en/science/article/2023/10/16/an-archaeological-dig-near-paris-unearthed-beginnings-of-urbanization-dating-back-to-4-200-b-c_6177642_10.html)
 
-[Verdn (YC W22) Is Hiring Full Stack Engineers in London](https://www.ycombinator.com/companies/verdn/jobs/wJFebb6-full-stack-engineer)
-
-[PaLI-3 Vision Language Models](https://arxiv.org/abs/2310.09199)
-
-[Google’s dominance under siege: Antitrust trial threatens sweeping changes](https://www.livenowfox.com/news/googles-internet-dominance-under-siege-antitrust-trial-threatens-sweeping-changes)
-
-[Ask HN: Why are there no open source NVMe-native key value stores in 2023?]()
-
-[Canada ends official time signal](https://hackaday.com/2023/10/13/canada-abruptly-ends-official-time-signal/)
+[The Techno-Optimist Manifesto](https://a16z.com/the-techno-optimist-manifesto/)

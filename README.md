@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[No morphological differences between living and non-living systems are yet known](https://www.chemistryworld.com/opinion/shape-is-not-enough-to-distinguish-life-from-abiotic-systems/4017874.article)
+[Swedish union declares strike for Tesla employees](https://www.ifmetall.se/aktuellt/tesla/background-information-on-if-metalls-conflict-at-tesla/)
+
+[Encrypting private data and private communications is now an ethical duty](https://blog.tripu.info/encrypt/)
+
+[Small business owners say they're pressured to hire off-duty cops for security](https://minnesotareformer.com/2023/10/17/small-business-owners-they-are-pressured-to-hire-off-duty-mpd-cops-for-security/)
+
+[Love After Life: Richard Feynman's Letter to His Departed Wife](https://www.themarginalian.org/2017/10/17/richard-feynman-arline-letter/)
+
+[Mypy 1.6](https://mypy-lang.blogspot.com/2023/10/mypy-16-released.html)
+
+[The Largest Greek Manuscript?](https://blogs.bl.uk/digitisedmanuscripts/2023/10/the-largest-greek-manuscript.html)
 
 [Piped – An alternative privacy-friendly YouTube front end](https://github.com/TeamPiped/Piped)
 
+[Circulant Matrices, Eigenvectors, and the FFT](https://www.johndcook.com/blog/2023/05/12/circulant-matrices/)
+
 [BB(3, 3) is Hard](https://www.sligocki.com//2023/10/16/bb-3-3-is-hard.html)
 
-[SiFive Rolls Out RISC-V Cores Aimed at Generative AI and ML](https://www.allaboutcircuits.com/news/sifive-rolls-out-risc-v-cores-aimed-at-generative-ai-and-ml/)
-
-[Leaked Microsoft pay guidelines – salary, hiring bonus, stock awards by level](https://www.businessinsider.com/microsoft-pay-guidelines-salary-hiring-bonus-stock-levels-2023-10)
-
-[Lago (Open-Source Alternative to Stripe Billing) Is Hiring a Chief of Staff](https://www.ycombinator.com/companies/lago/jobs/H5LnVlE-chief-of-staff-to-ceo)
-
-[Launch HN: Radical (YC W23) – Autonomous high-altitude solar aircraft]()
-
-[Iowa Man Files Lawsuit After Being Arrested Twice for Criticizing the Police](https://reason.com/2023/10/13/iowa-man-files-lawsuit-after-being-arrested-twice-for-criticizing-the-police-at-a-public-meeting/)
-
-[Canadian cannabis market struggles five years after legalisation](https://www.bbc.com/news/world-us-canada-67126243)
-
-[Skyvew – View and share Bluesky threads without needing a Bluesky account](https://skyview.social/)
+[Treble.ai (YC S19) Is Hiring Spanish Speaking Engineers in NYC](https://www.ycombinator.com/companies/treble-ai/jobs/tL8GeWc-full-stack-software-engineer)

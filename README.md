@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[C++ Modules: Packaging Story](https://blog.conan.io/2023/10/17/modules-the-packaging-story.html)
-
 [What is the Demoscene? An obscure but influential art form](https://onthearts.com/p/what-is-the-demoscene)
+
+[USB-C teardown with CT scans: Thunderbolt and more](https://www.lumafield.com/article/usb-c-cable-charger-head-to-head-comparison-apple-thunderbolt-amazon-basics)
+
+[How would we know whether there is life on Earth? This bold experiment found out](https://www.nature.com/articles/d41586-023-03230-z)
+
+[GPT-4 Vision Prompt Injection](https://blog.roboflow.com/gpt-4-vision-prompt-injection/)
+
+[Shift Happens Cover Stories: guess the Shift keys of retro keyboards](https://shifthappens.site/cover-stories/)
+
+[AutoGen: Enable Next-Gen Large Language Model Applications](https://github.com/microsoft/autogen)
+
+[C++ Modules: Packaging Story](https://blog.conan.io/2023/10/17/modules-the-packaging-story.html)
 
 [4K4D: Real-Time 4D View Synthesis at 4K Resolution](https://zju3dv.github.io/4k4d/)
 
-[Higher Quality Random Floats](https://www.corsix.org/content/higher-quality-random-floats)
+[Commercially Available Chairs in Star Trek](https://www.ex-astris-scientia.org/database/chairs-trek.htm)
 
-[Google opens Falcon, a reliable low-latency hardware transport, to the ecosystem](https://cloud.google.com/blog/topics/systems/introducing-falcon-a-reliable-low-latency-hardware-transport)
-
-[Ashby (YC W19) Is Hiring Engineers Who Make Product Decisions](https://www.ashbyhq.com/careers?ashby_jid=f99c1c4a-07f5-42fa-987e-de9a93f945dd)
-
-[Psytrance Guide](https://psytranceguide.com/)
-
-[Millennium Bridge workers hang straw bales after ancient bylaw triggered](https://www.theguardian.com/uk-news/2023/oct/18/millennium-bridge-workers-forced-to-hang-straw-bales-after-ancient-bylaw-triggered)
-
-[Levity and gravity](https://www.nature.com/articles/s41567-023-02264-4)
-
-[The pneumatic tube mail system in New York City](https://untappedcities.com/2023/10/17/pneumatic-tube-mail-new-york-city/)
+[I Am Happy Not to Be a Web Developer Anymore](https://thecodist.com/i-am-happy-not-to-be-a-web-developer-anymore/)

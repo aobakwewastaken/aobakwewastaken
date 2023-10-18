@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[USB-C teardown with CT scans: Thunderbolt and more](https://www.lumafield.com/article/usb-c-cable-charger-head-to-head-comparison-apple-thunderbolt-amazon-basics)
+[You're not lacking creativity, you're overwhelmed](https://newsletter.thejorgemedina.com/p/youre-not-lacking-creativity-youre)
 
-[What is the Demoscene? An obscure but influential art form](https://onthearts.com/p/what-is-the-demoscene)
+[Write More "Useless" Software](https://ntietz.com/blog/write-more-useless-software/)
 
-[Microfront ends should be your last resort](https://www.breck-mckye.com/blog/2023/05/Microfrontends-should-be-your-last-resort/)
+[Reflect – Multiplayer web app framework with game-style synchronization](https://rocicorp.dev/blog/ready-player-two)
+
+[The fake browser update scam gets a makeover](https://krebsonsecurity.com/2023/10/the-fake-browser-update-scam-gets-a-makeover/)
+
+[ArgoCon – Vendor-neutral Argo-focused Event](https://akuity.io/argocon/)
 
 [Launch HN: Pier (YC W23) – Stripe for Credit]()
 
-[PyTorch Edge](https://pytorch.org/blog/pytorch-edge/)
+[The Awk Programming Language, Second Edition](https://www.awk.dev/)
 
-[How would we know whether there is life on Earth? This bold experiment found out](https://www.nature.com/articles/d41586-023-03230-z)
+[Prequel.co (Enterprise Data Sharing) Is Hiring a Founding Marketer](https://prequelco.notion.site/Founding-Marketer-Prequel-prequel-co-1d7c0fe411fa4989a50729c014611f1c)
 
-[GPT-4 Vision Prompt Injection](https://blog.roboflow.com/gpt-4-vision-prompt-injection/)
+[How to Scale Nuclear Power](https://a16z.com/how-to-scale-nuclear-power/)
 
-[Binance US No Longer Allows USD Withdrawal for Users](https://thenewscrypto.com/binance-us-no-longer-allows-usd-withdrawal-for-users/)
-
-[Shift Happens Cover Stories: guess the Shift keys of retro keyboards](https://shifthappens.site/cover-stories/)
-
-[AutoGen: Enable Next-Gen Large Language Model Applications](https://github.com/microsoft/autogen)
+[gRPC request context which caries values across microservice boundaries](https://github.com/konigsoftware/konig-kontext)

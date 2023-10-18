@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Stable Diffusion Gets a Major Boost with RTX Acceleration](https://www.nvidia.com/en-us/geforce/news/game-ready-driver-dlss-3-naraka-vermintide-rtx-vsr/)
+[Localization Failure: Temperature Is Hard](https://randomascii.wordpress.com/2023/10/17/localization-failure-temperature-is-hard/)
 
-[Frasier Fantasy](https://edward-la-barbera.itch.io/frasier-fantasy)
+[4K4D: Real-Time 4D View Synthesis at 4K Resolution](https://zju3dv.github.io/4k4d/)
 
-[Using spaced repetition systems to see through a piece of mathematics](https://cognitivemedium.com/srs-mathematics)
+[Open source app to watch videos from any platform](https://gitlab.futo.org/videostreaming/grayjay)
 
-[Llemma: An Open Language Model for Mathematics](https://arxiv.org/abs/2310.10631)
+[Psytrance Guide](https://psytranceguide.com/)
 
-["A Young Lady's Illustrated Primer" Simulated by GPT-4](https://www.andrealyip.com/a-young-ladys-illustrated-primer)
+[Google opens Falcon, a reliable low-latency hardware transport, to the ecosystem](https://cloud.google.com/blog/topics/systems/introducing-falcon-a-reliable-low-latency-hardware-transport)
 
-[How Do We Clean Up the Scientific Record?](https://academic.oup.com/function/article/4/6/zqad055/7306462)
+[Grayjay – Follow Creators Not Platforms](https://grayjay.app/)
 
-[Ishkur's Guide to Electronic Music](https://music.ishkur.com/)
-
-[MixRank (YC S11) Is Hiring Global Remote Software Engineers]()
+[Barnes and Noble Sets Itself Free](https://www.nytimes.com/2023/10/17/style/barnes-noble-redesign.html)
 
 [Superlinear Returns](http://paulgraham.com/superlinear.html)
 
-[Lumalabs AI](https://lumalabs.ai)
+[The pneumatic tube mail system in New York City](https://untappedcities.com/2023/10/17/pneumatic-tube-mail-new-york-city/)
+
+[Llemma: An Open Language Model for Mathematics](https://arxiv.org/abs/2310.10631)

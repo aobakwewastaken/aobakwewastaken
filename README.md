@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Build Your Own BitTorrent](https://app.codecrafters.io/courses/bittorrent/overview)
+[Build your own BitTorrent](https://app.codecrafters.io/courses/bittorrent/overview)
 
-["We have a thermal printer hooked up to the internet, you can send us a doodle"](https://guestbook.goodenough.us/)
+[Linux runtime security agent powered by eBPF](https://github.com/Exein-io/pulsar)
+
+[Apache HTTP Server 2.4.58 (CVE fixes)](https://downloads.apache.org/httpd/CHANGES_2.4.58)
 
 [Localsend: Open-Source Airdrop Alternative](https://github.com/localsend/localsend)
 
+[Mojo is now available on Mac](https://www.modular.com/blog/mojo-is-now-available-on-mac)
+
 [Requiem for a Stringref](https://wingolog.org/archives/2023/10/19/requiem-for-a-stringref)
 
-[Bright (YC W15) hiring a VP of eng and product](https://www.ycombinator.com/companies/bright/jobs/4WczUz5-vp-of-engineering-and-products)
-
-[LocalPilot: Open-source GitHub Copilot on your MacBook](https://github.com/danielgross/localpilot)
-
-[Bandcamp's Entire Union Bargaining Team Was Laid Off](https://www.404media.co/bandcamps-entire-union-bargaining-team-was-laid-off/)
-
-[DRM-free e-books are a big deal (2019)](https://www.libraryjournal.com/story/drm-free-e-books-are-now-available-heres-why-thats-a-big-deal)
-
-[I'm banned from advertising on Meta](https://lerner.co.il/2023/10/19/im-banned-for-life-from-advertising-on-meta-because-i-teach-python/)
+[There's a new way to flip bits in DRAM, and it works against the latest defenses](https://arstechnica.com/security/2023/10/theres-a-new-way-to-flip-bits-in-dram-and-it-works-against-the-latest-defenses/)
 
 [Show HN: Modern Moodle learning platform open-source alternative](https://www.learnhouse.app/)
+
+[Is POSIX really outdated?](https://cuno.io/blog/is-posix-outdated-in-the-cloud-era/)
+
+[Bright (YC W15) hiring a VP of eng and product](https://www.ycombinator.com/companies/bright/jobs/4WczUz5-vp-of-engineering-and-products)

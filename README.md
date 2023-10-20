@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Progress on No-GIL CPython](https://lwn.net/Articles/947138/)
+
+[The ten year anniversary of the Healthcare.gov rescue](https://www.pauladamsmith.com/blog/2023/10/the-10-year-anniversary-of-the-healthcare.gov-rescue.html)
+
 [In search of the least viewed article on Wikipedia (2022)](http://colinmorris.github.io/blog/unpopular-wiki-articles)
-
-[Nakatomi Space](https://www.bldgblog.com/2010/01/nakatomi-space/)
-
-["<ESC>[31M"? ANSI Terminal security in 2023 and finding 10 CVEs](https://dgl.cx/2023/09/ansi-terminal-security)
-
-[Eclipse October 2023](https://www.gridstatus.io/dashboards/eclipse-oct-2023)
-
-[Versioning data in Postgres? Testing a Git like approach](https://www.specfy.io/blog/7-git-like-versioning-in-postgres)
-
-[Nonprofit hospitals skimp on charity while CEOs reap millions, report finds](https://arstechnica.com/health/2023/10/nonprofit-hospitals-skimp-on-charity-while-ceos-reap-millions-report-finds/)
-
-[Everything Looks Like a Nail](https://wheresyoured.at/p/everything-looks-like-a-nail)
-
-[Hexagonal Grids (2013)](https://www.redblobgames.com/grids/hexagons/)
 
 [Encrypted traffic interception on Hetzner and Linode targeting Jabber service](https://notes.valdikss.org.ru/jabber.ru-mitm/)
 
-[Instagram apologises for adding 'terrorist' to some Palestinian user profiles](https://www.theguardian.com/technology/2023/oct/20/instagram-palestinian-user-profile-bios-terrorist-added-translation-meta-apology)
+[DMCA Excemptions to "Copyright Protection Systems" Being Reconsidered](https://www.copyright.gov/1201/2024/)
+
+["<ESC>[31M"? ANSI Terminal security in 2023 and finding 10 CVEs](https://dgl.cx/2023/09/ansi-terminal-security)
+
+[Blaze: Fast query execution engine for Apache Spark](https://github.com/blaze-init/blaze)
+
+[Emerge (YC W21) is hiring a senior front end engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
+
+[How the creator of Alone in the Dark came back to games](https://news.play.date/news/skew/)
+
+[A Digital Pornutopia, Part 1: The Seedy-ROM Revolution](https://www.filfre.net/2023/10/a-digital-pornutopia-part-1-the-seedy-rom-revolution/)

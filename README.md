@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[What Every Developer Should Know About GPU Computing](https://codeconfessions.substack.com/p/gpu-computing)
+[FPGA N64](http://www.ultrafp64.com/)
 
-[O3DE](https://o3de.org/)
+[What every developer should know about GPU computing](https://codeconfessions.substack.com/p/gpu-computing)
 
-[Cratering motor fuel sales in Norway show the death spiral that can end oil](https://electrek.co/2023/10/20/cratering-motor-fuel-sales-in-norway-show-the-death-spiral-that-can-end-oil/)
+[Human microbiome myths and misconceptions](https://www.nature.com/articles/s41564-023-01426-7)
 
-[Microwatt: A tiny Open POWER ISA softcore written in VHDL 2008](https://github.com/antonblanchard/microwatt)
+[Locked and Loaded with New Cosmic DE Updates](https://blog.system76.com/post/locked-and-loaded-with-new-cosmic-de-updates/)
 
-[With Firefox on X11, any page can pastejack you anytime (middle button paste)](https://www.openwall.com/lists/oss-security/2023/10/17/1)
+[How plants communicate with each other when in danger](https://www.washingtonpost.com/climate-environment/2023/10/21/plants-talk-warning-danger/)
 
-[Common-knowledge effect: A harmful bias in team decision making](https://www.nngroup.com/articles/common-knowledge-effect/)
+[Show HN: CFR[]: Very minimal drawing language with 5 commands: C, F, R, [, ]](https://susam.net/cfr.html)
 
-[We have used too many levels of abstractions and now the future looks bleak](https://unixsheikh.com/articles/we-have-used-too-many-levels-of-abstractions-and-now-the-future-looks-bleak.html)
+[Stories told by Aboriginal Tasmanians could be oldest recorded](https://www.australiangeographic.com.au/topics/history-culture/2023/10/stories-told-by-aboriginal-tasmanians-could-be-oldest-recorded-in-the-world/)
 
-[Go Package for Building Progressive Web Apps](https://go-app.dev)
+[BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 
-[The 7th Guest gets VR remake using volumetric video](https://www.the7thguest-vr.com/)
+[Solvable statistical physics models for large neuronal populations](https://arxiv.org/abs/2310.10860)
 
-[In 1980s Los Angeles, a bank was robbed every hour](https://crimereads.com/the-rise-and-fall-of-the-bank-robbery-capital-of-the-world/)
+[Common-knowledge effect: A bias in team decision making](https://www.nngroup.com/articles/common-knowledge-effect/)

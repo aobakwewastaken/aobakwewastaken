@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[We have used too many levels of abstractions and now the future looks bleak](https://unixsheikh.com/articles/we-have-used-too-many-levels-of-abstractions-and-now-the-future-looks-bleak.html)
+
+[Microwatt: A tiny Open POWER ISA softcore written in VHDL 2008](https://github.com/antonblanchard/microwatt)
+
 [The next Raptor OpenPOWER systems are coming, but they won't be Power10](https://www.talospace.com/2023/10/the-next-raptor-openpower-systems-are.html)
 
-[F-Droid: Android FOSS app store](https://f-droid.org/)
+[Pushing devs for lower estimates is like asking a meteorologist for sunshine](https://smartguess.is/blog/your-estimate-is-less-than-that/)
+
+[O3DE](https://o3de.org/)
 
 [Progress on No-GIL CPython](https://lwn.net/Articles/947138/)
 
-[The Shortest Papers Ever Published](https://paperpile.com/blog/shortest-papers/)
-
 [Mitigating the Hetzner/Linode XMPP.ru MitM interception incident](https://www.devever.net/~hl/xmpp-incident)
 
-[Don't use DISTINCT as a "join-fixer"](https://www.red-gate.com/simple-talk/databases/sql-server/t-sql-programming-sql-server/dont-use-distinct-as-a-join-fixer/)
+[Pigging](https://en.wikipedia.org/wiki/Pigging)
 
-[How the creator of Alone in the Dark came back to games](https://news.play.date/news/skew/)
+[The shortest papers ever published (2016)](https://paperpile.com/blog/shortest-papers/)
 
-[Reimplementing git clone in Haskell from the bottom up](https://stefan.saasen.me/articles/git-clone-in-haskell-from-the-bottom-up/)
-
-[The Polaroid SX70's unusual shutter](https://opensx70.com/posts/2018/11/sx70-shutter)
-
-[Astronauts and Area 51: the Skylab Incident (2006)](https://www.thespacereview.com/article/531/1)
+[U.S. Deficit, Pegged at $1.7T, Effectively Doubled in 2023](https://www.nytimes.com/2023/10/20/business/treasury-report-shows-1-7-trillion-deficit.html)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[The next Raptor OpenPOWER systems are coming, but they won't be Power10](https://www.talospace.com/2023/10/the-next-raptor-openpower-systems-are.html)
+
+[F-Droid: Android FOSS app store](https://f-droid.org/)
+
 [Progress on No-GIL CPython](https://lwn.net/Articles/947138/)
 
-[The ten year anniversary of the Healthcare.gov rescue](https://www.pauladamsmith.com/blog/2023/10/the-10-year-anniversary-of-the-healthcare.gov-rescue.html)
+[The Shortest Papers Ever Published](https://paperpile.com/blog/shortest-papers/)
 
-[In search of the least viewed article on Wikipedia (2022)](http://colinmorris.github.io/blog/unpopular-wiki-articles)
+[Mitigating the Hetzner/Linode XMPP.ru MitM interception incident](https://www.devever.net/~hl/xmpp-incident)
 
-[Encrypted traffic interception on Hetzner and Linode targeting Jabber service](https://notes.valdikss.org.ru/jabber.ru-mitm/)
-
-[DMCA Excemptions to "Copyright Protection Systems" Being Reconsidered](https://www.copyright.gov/1201/2024/)
-
-["<ESC>[31M"? ANSI Terminal security in 2023 and finding 10 CVEs](https://dgl.cx/2023/09/ansi-terminal-security)
-
-[Blaze: Fast query execution engine for Apache Spark](https://github.com/blaze-init/blaze)
-
-[Emerge (YC W21) is hiring a senior front end engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
+[Don't use DISTINCT as a "join-fixer"](https://www.red-gate.com/simple-talk/databases/sql-server/t-sql-programming-sql-server/dont-use-distinct-as-a-join-fixer/)
 
 [How the creator of Alone in the Dark came back to games](https://news.play.date/news/skew/)
 
-[A Digital Pornutopia, Part 1: The Seedy-ROM Revolution](https://www.filfre.net/2023/10/a-digital-pornutopia-part-1-the-seedy-rom-revolution/)
+[Reimplementing git clone in Haskell from the bottom up](https://stefan.saasen.me/articles/git-clone-in-haskell-from-the-bottom-up/)
+
+[The Polaroid SX70's unusual shutter](https://opensx70.com/posts/2018/11/sx70-shutter)
+
+[Astronauts and Area 51: the Skylab Incident (2006)](https://www.thespacereview.com/article/531/1)

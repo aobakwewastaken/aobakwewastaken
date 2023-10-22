@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Hal Finney Was Not Satoshi Nakamoto](https://blog.lopp.net/hal-finney-was-not-satoshi-nakamoto/)
-
-[George Carlin's "Soft Language"](https://www.thoughtco.com/soft-language-euphemism-1692111)
-
-[The White Furnace Test](https://lousodrome.net/blog/light/2023/10/21/the-white-furnace-test/)
+[Bifrost: A peer-to-peer communications engine with pluggable transports](https://github.com/aperturerobotics/bifrost)
 
 [Microsoft Account's OAuth tokens leaking via open redirect in Harvest](https://eval.blog/research/microsoft-account-token-leaks-in-harvest/)
 
-[Open Source Firmware Conference](https://www.osfc.io/)
+[The C4 model for visualising software architecture](https://c4model.com/)
+
+[I live in my car: Parking lots open for those who can afford a car but not rent](https://www.nytimes.com/2023/10/17/realestate/car-homeless-rent-debt-mortgage.html)
 
 [A Dutch graphic artist reconstructed Tenochtitlan in 3D](https://tenochtitlan.thomaskole.nl/index.html)
 
-[The C4 model for visualising software architecture](https://c4model.com/)
+[Uber migrates microservices to multi-cloud platform running Kubernetes and Mesos](https://www.infoq.com/news/2023/10/uber-up-cloud-microservices/)
 
-[Inkscape Cloud Architect](https://github.com/mipmip/inkscape-cloud-architect)
+[Open Source Firmware Conference](https://www.osfc.io/)
 
-[Amiga ASCII Art](https://blog.glyphdrawing.club/amiga-ascii-art/)
+[The White Furnace Test](https://lousodrome.net/blog/light/2023/10/21/the-white-furnace-test/)
 
-[I, Voyager: Open-Source Software Planetarium](https://www.ivoyager.dev/)
+[How to rewrite classes using closures in JavaScript](https://gaurangtandon.com/blog/javascript-class-closure)
+
+[George Carlin's "Soft Language" (2019)](https://www.thoughtco.com/soft-language-euphemism-1692111)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[The Secret History of Microsoft Windows [video]](https://www.youtube.com/watch?v=xi1Lq79mLeE)
+[The Lessons of Lucasfilm's Habitat (1990)](https://web.stanford.edu/class/history34q/readings/Virtual_Worlds/LucasfilmHabitat.html)
 
-[Bifrost: A peer-to-peer communications engine with pluggable transports](https://github.com/aperturerobotics/bifrost)
+[Marvelous Arithmetics of Distance](https://mathenchant.wordpress.com/2023/10/17/marvelous-arithmetics-of-distance/)
 
-[Microsoft Account's OAuth tokens leaking via open redirect in Harvest](https://eval.blog/research/microsoft-account-token-leaks-in-harvest/)
+[Dave Cutler on Windows [video]](https://www.youtube.com/watch?v=xi1Lq79mLeE)
 
-[Europe's largest copper producer is the victim of metal swindle worth $198M](https://fortune.com/2023/09/20/europe-largest-copper-producer-aurubis-victim-metal-heist-worth-198-million-insiders-involved/)
+[Nanofiche: Small Storage, for Forever](https://www.archmission.org/nanofiche)
 
-[The C4 model for visualising software architecture](https://c4model.com/)
+[Global Encryption Day: Encryption's Critical Role in Safeguarding Human Rights](https://blog.torproject.org/global-encryption-day-2023/)
 
-[A Dutch graphic artist reconstructed Tenochtitlan in 3D](https://tenochtitlan.thomaskole.nl/index.html)
+[A Brief Introduction to Military Pillboxes](https://heritagecalling.com/2023/10/19/a-brief-introduction-to-military-pillboxes/)
 
-[Uber migrates microservices to multi-cloud platform running Kubernetes and Mesos](https://www.infoq.com/news/2023/10/uber-up-cloud-microservices/)
+[OpenTelemetry at Scale: Using Kafka to handle bursty traffic](https://signoz.io/blog/maximizing-scalability-apache-kafka-and-opentelemetry/)
 
-[Open Source Firmware Conference](https://www.osfc.io/)
+[How to Make Your Own Spooky Magic Eye Pictures (Autostereograms)](https://blog.demofox.org/2023/10/22/how-to-make-your-own-spooky-magic-eye-pictures-autostereograms/)
 
-[From the Annals of Preprocessor Hackery](http://www.os2museum.com/wp/from-the-annals-of-preprocessor-hackery/)
+[Stealing OAuth tokens of Microsoft accounts via open redirect in Harvest App](https://eval.blog/research/microsoft-account-token-leaks-in-harvest/)
 
-[The White Furnace Test](https://lousodrome.net/blog/light/2023/10/21/the-white-furnace-test/)
+[USS Recruit (1917): The Wooden Dreadnought in Manhattan's Union Square](https://www.warhistoryonline.com/ships/uss-recruit-1917.html)

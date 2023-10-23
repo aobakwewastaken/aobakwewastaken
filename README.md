@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Software Disenchantment](https://tonsky.me/blog/disenchantment/)
+[How does macOS manage virtual cores on Apple Silicon?](https://eclecticlight.co/2023/10/23/how-does-macos-manage-virtual-cores-on-apple-silicon/)
 
-[Yarn 4.0](https://yarnpkg.com/blog/release/4.0)
+[Cascade: CPU Fuzzing via Intricate Program Generation](https://comsec.ethz.ch/research/hardware-design-security/cascade-cpu-fuzzing-via-intricate-program-generation/)
 
-[Java implementation of a quantum computing resistant cryptographic algorithm](https://github.com/mthiim/dilithium-java)
+[End of an Era: Windows CE's final day](https://www.hpcfactor.com/news/871/end-of-an-era-windows-ces-final-day)
+
+[Mazda Slaps Developer with Cease-and-Desist for DIY Smart Home Integration](https://www.thedrive.com/news/mazda-slaps-developer-with-cease-and-desist-for-diy-smart-home-integration)
 
 [Protomaps – A free and open source map of the world](https://protomaps.com/)
 
-[Cooler Screens](https://computer.rip/2023-10-22-cooler-screens.html)
+[Marcel the Shell](https://www.marceltheshell.org)
 
-[Introducing MSW 2.0](https://mswjs.io/blog/introducing-msw-2.0/)
+[Java implementation of a quantum computing resistant cryptographic algorithm](https://github.com/mthiim/dilithium-java)
 
-[Building a unikernel that runs WebAssembly – part 1](https://flavio.castelli.me/2023/02/07/building-a-unikernel-that-runs-webassembly---part-1/)
+[1Password detects "suspicious activity" in its internal Okta account](https://arstechnica.com/security/2023/10/1password-detects-suspicious-activity-in-its-internal-okta-account/)
 
-[Four historians tell us a ghost story](https://www.historytoday.com/archive/head-head/four-historians-tell-us-ghost-story)
+[How to run 50% faster without external energy (2020)](https://www.science.org/doi/10.1126/sciadv.aay1950)
 
-[Matter 1.2 Arrives with Nine New Device Types and Improvements Across the Board](https://csa-iot.org/newsroom/matter-1-2-arrives-with-nine-new-device-types-improvements-across-the-board/)
-
-[Base64 Encoding, Explained](https://www.akshaykhot.com/base64-encoding-explained/)
+[COBOL on Wheelchair: Micro web-framework for COBOL](https://github.com/azac/cobol-on-wheelchair/blob/master/tutorial/index.md)

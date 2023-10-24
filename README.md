@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[How does macOS manage virtual cores on Apple Silicon?](https://eclecticlight.co/2023/10/23/how-does-macos-manage-virtual-cores-on-apple-silicon/)
+[SumatraPDF Reader](https://github.com/sumatrapdfreader/sumatrapdf)
 
-[Cascade: CPU Fuzzing via Intricate Program Generation](https://comsec.ethz.ch/research/hardware-design-security/cascade-cpu-fuzzing-via-intricate-program-generation/)
+[Unified versus Split Diff](https://matklad.github.io/2023/10/23/unified-vs-split-diff.html)
 
-[End of an Era: Windows CE's final day](https://www.hpcfactor.com/news/871/end-of-an-era-windows-ces-final-day)
-
-[Mazda Slaps Developer with Cease-and-Desist for DIY Smart Home Integration](https://www.thedrive.com/news/mazda-slaps-developer-with-cease-and-desist-for-diy-smart-home-integration)
-
-[Protomaps – A free and open source map of the world](https://protomaps.com/)
+[Psychedelic Mushrooms Hit the Market in Oregon](https://www.nytimes.com/2023/10/23/us/oregon-psychedelic-mushrooms.html)
 
 [Marcel the Shell](https://www.marceltheshell.org)
 
-[Java implementation of a quantum computing resistant cryptographic algorithm](https://github.com/mthiim/dilithium-java)
+[NASA just sent a software update to a spacecraft 12B miles away](https://bgr.com/science/nasa-just-sent-a-software-update-to-a-spacecraft-12-billion-miles-away/)
 
-[1Password detects "suspicious activity" in its internal Okta account](https://arstechnica.com/security/2023/10/1password-detects-suspicious-activity-in-its-internal-okta-account/)
+[Cascade: CPU fuzzing via intricate program generation](https://comsec.ethz.ch/research/hardware-design-security/cascade-cpu-fuzzing-via-intricate-program-generation/)
 
-[How to run 50% faster without external energy (2020)](https://www.science.org/doi/10.1126/sciadv.aay1950)
+[How to Build Your Own AI-Generated Images with ControlNet and Stable Diffusion](https://www.datature.io/blog/how-to-build-your-own-ai-generated-image-with-controlnet-and-stable-diffusion)
 
-[COBOL on Wheelchair: Micro web-framework for COBOL](https://github.com/azac/cobol-on-wheelchair/blob/master/tutorial/index.md)
+[Show HN: Roadmap – A Personal Growth Game for Social Anxiety](https://www.roadmaptogrow.com)
+
+[Writerside – a new technical writing environment from JetBrains](https://www.jetbrains.com/writerside/)
+
+[How does macOS manage virtual cores on Apple Silicon?](https://eclecticlight.co/2023/10/23/how-does-macos-manage-virtual-cores-on-apple-silicon/)

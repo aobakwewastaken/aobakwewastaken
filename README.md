@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Animated AI](https://animatedai.github.io/)
+
+[BioNTech Presents Positive Phase 1/2 Data for Car-T Cell Therapy Candidate](https://investors.biontech.de/news-releases/news-release-details/biontech-presents-positive-phase-12-data-update-car-t-cell/)
+
+[Covid's Damage Lingers in the Heart](https://magazine.hms.harvard.edu/articles/covids-damage-lingers-heart)
+
+[The Ideation Flywheel (or how to get better startup ideas)](https://www.stackfix.com/blog/the-ideation-flywheel)
+
+[Reconciliation Is a Knapsack Problem](https://www.moderntreasury.com/journal/reconciliation-is-a-knapsack-problem)
+
 [Major Changes at RISC-V Designer SiFive](https://morethanmoore.substack.com/p/the-risk-of-risc-v-whats-going-on)
 
 [Sharp Color E-Paper Display EPoster 25.3in](https://www.yodobashi.com/product/100000001008041534/)
 
-[Unified versus Split Diff](https://matklad.github.io/2023/10/23/unified-vs-split-diff.html)
-
 [Elephants Are Total Scaredy-Cats Around Bees](https://nautil.us/elephants-are-total-scaredy-cats-around-bees-423763/)
 
-[Show HN: Fire UK Calculator and Visualiser](https://fire.picheta.me/uk)
+[Large Search Spaces Mean Magic (2005)](http://sl4.org/archive/0507/11676.html)
 
-[SumatraPDF Reader](https://github.com/sumatrapdfreader/sumatrapdf)
-
-[Retro Arcade Game Ads](https://buzzbloq.com/retro-arcade-game-ads-a-nostalgic-look-at-marketing-of-the-past/)
-
-[Show HN: Revert – open-source unified API for product integrations](https://github.com/revertinc/revert)
-
-[Show HN: Paclear – A Fun Twist on the 'Clear' Command with Pac-Man Animation](https://github.com/orangekame3/paclear)
-
-[Writing games the blog dedicated to text-based gaming](https://writing-games.com/)
+[Unified versus Split Diff](https://matklad.github.io/2023/10/23/unified-vs-split-diff.html)

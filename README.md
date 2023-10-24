@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [Major Changes at RISC-V Designer SiFive](https://morethanmoore.substack.com/p/the-risk-of-risc-v-whats-going-on)
 
+[Sharp Color E-Paper Display EPoster 25.3in](https://www.yodobashi.com/product/100000001008041534/)
+
 [Unified versus Split Diff](https://matklad.github.io/2023/10/23/unified-vs-split-diff.html)
+
+[Elephants Are Total Scaredy-Cats Around Bees](https://nautil.us/elephants-are-total-scaredy-cats-around-bees-423763/)
+
+[Show HN: Fire UK Calculator and Visualiser](https://fire.picheta.me/uk)
 
 [SumatraPDF Reader](https://github.com/sumatrapdfreader/sumatrapdf)
 
+[Retro Arcade Game Ads](https://buzzbloq.com/retro-arcade-game-ads-a-nostalgic-look-at-marketing-of-the-past/)
+
 [Show HN: Revert – open-source unified API for product integrations](https://github.com/revertinc/revert)
 
+[Show HN: Paclear – A Fun Twist on the 'Clear' Command with Pac-Man Animation](https://github.com/orangekame3/paclear)
+
 [Writing games the blog dedicated to text-based gaming](https://writing-games.com/)
-
-[Email Address Regular Expression That 99.99% Works](https://emailregex.com/index.html)
-
-[NASA just sent a software update to a spacecraft 12B miles away](https://bgr.com/science/nasa-just-sent-a-software-update-to-a-spacecraft-12-billion-miles-away/)
-
-[Americans' confidence in technology firms has dropped](https://www.brookings.edu/articles/how-americans-confidence-in-technology-firms-has-dropped-evidence-from-the-second-wave-of-the-american-institutional-confidence-poll/)
-
-[World shift to clean energy is unstoppable, IEA report says](https://www.bbc.com/news/science-environment-67198206)
-
-[Marcel the Shell](https://www.marceltheshell.org)

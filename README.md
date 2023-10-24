@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[California suspends Cruise's autonomous vehicle deployment](https://www.reuters.com/business/autos-transportation/california-suspends-gm-cruises-driverless-autonomous-vehicle-permits-2023-10-24/)
+
 [Animated AI](https://animatedai.github.io/)
+
+[Why we don’t generate elliptic curves every day](https://words.filippo.io/dispatches/parameters/)
+
+[Server-side sandboxing: Containers and seccomp](https://www.figma.com/blog/server-side-sandboxing-containers-and-seccomp/#j1WRe)
+
+[Gittuf – a security layer for Git](https://gittuf.github.io/)
+
+[The risk of RISC-V: What's going on at SiFive?](https://morethanmoore.substack.com/p/the-risk-of-risc-v-whats-going-on)
+
+[Development Secrets of the Original Kirby [video]](https://www.youtube.com/watch?v=ZUY2AtBD6Sk)
 
 [Halfsies](https://brilliant.org/challenges/halfsies/)
 
-[BioNTech Presents Positive Phase 1/2 Data for Car-T Cell Therapy Candidate](https://investors.biontech.de/news-releases/news-release-details/biontech-presents-positive-phase-12-data-update-car-t-cell/)
-
-[Covid's Damage Lingers in the Heart](https://magazine.hms.harvard.edu/articles/covids-damage-lingers-heart)
-
-[The Ideation Flywheel (or how to get better startup ideas)](https://www.stackfix.com/blog/the-ideation-flywheel)
-
-[Reconciliation Is a Knapsack Problem](https://www.moderntreasury.com/journal/reconciliation-is-a-knapsack-problem)
-
 [Sharp Color E-Paper Display EPoster 25.3in](https://www.yodobashi.com/product/100000001008041534/)
 
-[Major Changes at RISC-V Designer SiFive](https://morethanmoore.substack.com/p/the-risk-of-risc-v-whats-going-on)
-
-[We Don't Generate Elliptic Curves Every Day](https://words.filippo.io/dispatches/parameters/)
-
-[Snikket – On the Jabber.ru MitM Attack – Public Jabber/XMPP Service](https://snikket.org/blog/on-the-jabber-ru-mitm/)
+[The City of Seattle accidentally gave me 32M emails for $40 (2018)](https://mchap.io/that-time-the-city-of-seattle-accidentally-gave-me-32m-emails-for-40-dollars4997.html)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Show HN: OpenAPI DevTools – Chrome ext. that generates an API spec as you browse](https://github.com/AndrewWalsh/openapi-devtools)
+[iLeakage: Browser-Based Timerless Speculative Execution Attacks on Apple Devices](https://ileakage.com/)
 
-[Web Components Will Outlive Your JavaScript Framework](https://jakelazaroff.com/words/web-components-will-outlive-your-javascript-framework/)
+[Ask HN: PG's 'Do Things That Don't Scale' manual examples?]()
 
-[SpaceX Starship Super Heavy Project at the Boca Chica Launch Site](https://www.faa.gov/space/stakeholder_engagement/spacex_starship)
+[Keyboard Maestro 11](https://www.stairways.com/press/2023-10-24)
 
-[What Transport for London can learn about us from our mobiles](https://takes.jamesomalley.co.uk/p/its-crazy-how-much-transport-for)
+[Show HN: OpenAPI DevTools – Chrome extension that generates an API spec](https://github.com/AndrewWalsh/openapi-devtools)
 
-[First malaria vaccine slashes early childhood mortality](https://www.science.org/content/article/first-malaria-vaccine-slashes-early-childhood-deaths)
+[The cost of cloud, a trillion dollar paradox (2021)](https://a16z.com/the-cost-of-cloud-a-trillion-dollar-paradox/)
 
-[Loyal workers are selectively and ironically targeted for exploitation](https://www.sciencedirect.com/science/article/abs/pii/S0022103122001615)
+[Show HN: JellyBox – Jellyfin Desktop Client](https://testflight.apple.com/join/LVj8KwAq)
 
-[Show HN: ArtistAssistApp – the web app to paint better with ease](https://artistassistapp.com/)
+[Safety benefits of roundabouts](https://theconversation.com/what-are-roundabouts-a-transportation-engineer-explains-the-safety-benefits-of-these-circular-intersections-215412)
 
-[Show HN: Orbital – Dynamically Unifying APIs and Data with No Glue Code](https://github.com/orbitalapi/orbital)
+[Drought in Brazil's Amazon reveals ancient engravings](https://phys.org/news/2023-10-drought-brazil-amazon-reveals-ancient.html)
 
-[Desert Island Tourism](https://thehustle.co/the-wild-business-of-desert-island-tourism/)
+[Adding crushed rock to farmland pulls carbon out of the air](https://www.ucdavis.edu/climate/news/adding-crushed-rock-farmland-pulls-carbon-out-air)
 
-[Embeddings: What they are and why they matter](https://simonwillison.net/2023/Oct/23/embeddings/)
+[AI 'breakthrough': neural net has human-like ability to generalize language](https://www.nature.com/articles/d41586-023-03272-3)

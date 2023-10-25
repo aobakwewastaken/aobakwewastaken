@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [California suspends Cruise's autonomous vehicle deployment](https://www.reuters.com/business/autos-transportation/california-suspends-gm-cruises-driverless-autonomous-vehicle-permits-2023-10-24/)
 
-[Animated AI](https://animatedai.github.io/)
+[Embeddings: What they are and why they matter](https://simonwillison.net/2023/Oct/23/embeddings/)
 
-[Why we don’t generate elliptic curves every day](https://words.filippo.io/dispatches/parameters/)
+[Judas goat](https://en.wikipedia.org/wiki/Judas_goat)
 
-[Server-side sandboxing: Containers and seccomp](https://www.figma.com/blog/server-side-sandboxing-containers-and-seccomp/#j1WRe)
+[A similarity between the CAP theorem and our heart](https://twitter.com/dvassallo/status/1716585205400756514)
 
-[Gittuf – a security layer for Git](https://gittuf.github.io/)
+[MAME 0.260](https://www.mamedev.org/?p=530)
 
-[The risk of RISC-V: What's going on at SiFive?](https://morethanmoore.substack.com/p/the-risk-of-risc-v-whats-going-on)
+[Waymo says insurance data shows its driverless cars are safer than humans](https://www.nbcbayarea.com/investigations/googles-waymo-safety-study-on-driverless-cars/3311188/)
 
-[Development Secrets of the Original Kirby [video]](https://www.youtube.com/watch?v=ZUY2AtBD6Sk)
+[Show HN: Restaurants in Peace – leave a remembrance for a closed restaurant](https://restaurants.rip/)
 
-[Halfsies](https://brilliant.org/challenges/halfsies/)
+[A Philosophy of Software Design](https://web.stanford.edu/~ouster/cgi-bin/book.php)
 
-[Sharp Color E-Paper Display EPoster 25.3in](https://www.yodobashi.com/product/100000001008041534/)
+[My Lost Gumby Essay](https://www.honest-broker.com/p/my-lost-gumby-essay)
 
-[The City of Seattle accidentally gave me 32M emails for $40 (2018)](https://mchap.io/that-time-the-city-of-seattle-accidentally-gave-me-32m-emails-for-40-dollars4997.html)
+[Voronoi Diagram and Delaunay Triangulation in O(nlog(n)) (2020)](https://codeforces.com/blog/entry/85638)

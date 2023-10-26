@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [Oxide: The Cloud Computer](https://oxide.computer/blog/the-cloud-computer)
 
+[Mars has a surprise layer of molten rock inside](https://www.nature.com/articles/d41586-023-03271-4)
+
+[Cold war satellite images reveal hundreds of unknown Roman forts](https://www.theguardian.com/science/2023/oct/26/cold-war-satellite-images-hundreds-unknown-roman-forts)
+
+[The Negative Impact of Mobile-First Web Design on Desktop](https://www.nngroup.com/articles/content-dispersion/)
+
+[What happens when you vectorize wide PyTorch expressions?](https://probablymarcus.com/blocks/2023/10/19/vectorizing-wide-pytorch-expressions.html)
+
 [Static Analysis Tools for C](https://github.com/analysis-tools-dev/static-analysis)
 
-[Reality Labs has lost $11.4B during 2023 (there's still one quarter left)](https://www.gamedeveloper.com/business/reality-labs-has-lost-11-4-billion-during-2023-and-there-s-still-one-quarter-left-)
+[Synth Emulation in MAME (Arcade Machine Emulator). A New Trend?](https://gearspace.com/board/electronic-music-instruments-and-electronic-music-production/1416192-synth-emulation-mame-arcade-machine-emulator-new-trend.html)
 
 [Jina AI launches open-source 8k text embedding](https://jina.ai/news/jina-ai-launches-worlds-first-open-source-8k-text-embedding-rivaling-openai/)
 
-[How to find a lost phone in a no-cell-coverage camping site?](https://manas.tech/blog/2023/10/25/approaching-unconventional-problems/)
+[Kidney stone breakthrough procedure at UW called 'game changer' for patients](https://komonews.com/news/local/uw-medicine-kidney-stone-breakthrough-procedure-treatment-nasa-mars-astronaut-research-patients-game-changer-seattle-clinical-trial-harborview-medical-center)
 
-[Running the "Reflections on Trusting Trust" Compiler](https://research.swtch.com/nih)
-
-[Oh-Auth – Abusing OAuth to take over millions of accounts](https://salt.security/blog/oh-auth-abusing-oauth-to-take-over-millions-of-accounts)
-
-[Heslington Brain](https://en.wikipedia.org/wiki/Heslington_Brain)
-
-[Dear Google Cloud: Your Deprecation Policy Is Killing You (2020)](https://steve-yegge.medium.com/dear-google-cloud-your-deprecation-policy-is-killing-you-ee7525dc05dc)
-
-[Google's Plan to Stop Apple from Getting Serious About Search](https://www.nytimes.com/2023/10/26/technology/google-apple-search-spotlight.html)
+[Verto.sh: A New Hub Connecting Beginners with Open-Source Projects](https://www.verto.sh/)

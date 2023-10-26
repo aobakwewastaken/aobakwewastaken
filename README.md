@@ -1,6 +1,4 @@
 # Top Stories on hackernews <br />
-[ChatGPT cut off date now April 2023](https://chat.openai.com/share/3b088460-86f8-4fa6-afd1-802b7f9a5e9f)
-
 [Jina AI launches open-source 8k text embedding](https://jina.ai/news/jina-ai-launches-worlds-first-open-source-8k-text-embedding-rivaling-openai/)
 
 [Running the "Reflections on Trusting Trust" Compiler](https://research.swtch.com/nih)
@@ -9,12 +7,14 @@
 
 [iLeakage: Browser-Based Timerless Speculative Execution Attacks on Apple Devices](https://ileakage.com/)
 
-[Show HN: Instant API – Build type-safe web APIs with JavaScript](https://github.com/instant-dev/api)
+[Oh-Auth – Abusing OAuth to take over millions of accounts](https://salt.security/blog/oh-auth-abusing-oauth-to-take-over-millions-of-accounts)
 
-[Making TV Useful For My 94-yr-old Aunt](https://www.techenhancedlife.com/articles/making-tv-useful-my-94-yr-old-aunt)
+[Show HN: Instant API – Build type-safe web APIs with JavaScript](https://github.com/instant-dev/api)
 
 [Ask HN: PG's 'Do Things That Don't Scale' manual examples?]()
 
-[Samsung announces 'Shinebolt' HBM3E memory](https://www.anandtech.com/show/21104/samsung-announces-shinebolt-hbm3e-memory-hbm-hits-36gb-stacks-at-98-gbps)
+[Making TV Useful For My 94-yr-old Aunt](https://www.techenhancedlife.com/articles/making-tv-useful-my-94-yr-old-aunt)
 
-[Keyboard Maestro 11](https://www.stairways.com/press/2023-10-24)
+[Mirror-Image Life](https://nautil.us/mirror-image-life-412729/)
+
+[Megatsunamis: Waves over 500M high and devastation beyond the ocean](https://english.elpais.com/science-tech/2023-10-23/the-secrets-of-megatsunamis-waves-over-500-meters-high-and-devastation-beyond-the-ocean.html)

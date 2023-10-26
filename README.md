@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Jina AI launches open-source 8k text embedding](https://jina.ai/news/jina-ai-launches-worlds-first-open-source-8k-text-embedding-rivaling-openai/)
+[Oxide: The Cloud Computer](https://oxide.computer/blog/the-cloud-computer)
 
-[Running the "Reflections on Trusting Trust" Compiler](https://research.swtch.com/nih)
+[Static Analysis Tools for C](https://github.com/analysis-tools-dev/static-analysis)
+
+[Reality Labs has lost $11.4B during 2023 (there's still one quarter left)](https://www.gamedeveloper.com/business/reality-labs-has-lost-11-4-billion-during-2023-and-there-s-still-one-quarter-left-)
+
+[Jina AI launches open-source 8k text embedding](https://jina.ai/news/jina-ai-launches-worlds-first-open-source-8k-text-embedding-rivaling-openai/)
 
 [How to find a lost phone in a no-cell-coverage camping site?](https://manas.tech/blog/2023/10/25/approaching-unconventional-problems/)
 
-[iLeakage: Browser-Based Timerless Speculative Execution Attacks on Apple Devices](https://ileakage.com/)
+[Running the "Reflections on Trusting Trust" Compiler](https://research.swtch.com/nih)
 
 [Oh-Auth – Abusing OAuth to take over millions of accounts](https://salt.security/blog/oh-auth-abusing-oauth-to-take-over-millions-of-accounts)
 
-[Show HN: Instant API – Build type-safe web APIs with JavaScript](https://github.com/instant-dev/api)
+[Heslington Brain](https://en.wikipedia.org/wiki/Heslington_Brain)
 
-[Ask HN: PG's 'Do Things That Don't Scale' manual examples?]()
+[Dear Google Cloud: Your Deprecation Policy Is Killing You (2020)](https://steve-yegge.medium.com/dear-google-cloud-your-deprecation-policy-is-killing-you-ee7525dc05dc)
 
-[Making TV Useful For My 94-yr-old Aunt](https://www.techenhancedlife.com/articles/making-tv-useful-my-94-yr-old-aunt)
-
-[Mirror-Image Life](https://nautil.us/mirror-image-life-412729/)
-
-[Megatsunamis: Waves over 500M high and devastation beyond the ocean](https://english.elpais.com/science-tech/2023-10-23/the-secrets-of-megatsunamis-waves-over-500-meters-high-and-devastation-beyond-the-ocean.html)
+[Google's Plan to Stop Apple from Getting Serious About Search](https://www.nytimes.com/2023/10/26/technology/google-apple-search-spotlight.html)

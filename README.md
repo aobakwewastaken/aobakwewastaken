@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[The Negative Impact of Mobile-First Web Design on Desktop](https://www.nngroup.com/articles/content-dispersion/)
+[The Cloud Computer](https://oxide.computer/blog/the-cloud-computer)
 
-[Oxide: The Cloud Computer](https://oxide.computer/blog/the-cloud-computer)
+[I2P: End-to-end encrypted and anonymous internet](https://github.com/PurpleI2P/i2pd)
 
-[Cold war satellite images reveal hundreds of unknown Roman forts](https://www.theguardian.com/science/2023/oct/26/cold-war-satellite-images-hundreds-unknown-roman-forts)
+[Dagor Engine and Tools source code from Gaijin Games KFT](https://github.com/GaijinEntertainment/DagorEngine)
 
-[I2P: End-to-End encrypted and anonymous Internet](https://github.com/PurpleI2P/i2pd)
+[Cold war satellite images reveal unknown Roman forts](https://www.theguardian.com/science/2023/oct/26/cold-war-satellite-images-hundreds-unknown-roman-forts)
 
-[75 percent of exclusive hardwood may be illegally harvested](https://www.chalmers.se/en/current/news/75-percent-of-exclusive-hardwood-may-be-illegally-harvested,c3863187/)
+[Bird with GPS flies into typhoon](https://newatlas.com/biology/bird-typhoon-ride/)
 
-[LA County's guaranteed income program to give some foster youth $1k per month](https://abc7.com/guaranteed-income-la-county-dcfs-foster-youth/13960280/)
+[Could a near-Earth asteroid be a piece of the moon?](https://www.spacechatter.com/2023/10/25/moon-fragment-near-earth-asteroid-kamooalewa/)
 
-[Rob 'CmdrTaco' Malda – Hacker History Podcast](https://hackerhistory.com/podcast/the-history-of-rob-cmdrtaco-malda/)
+[Mars has a layer of molten rock inside](https://www.nature.com/articles/d41586-023-03271-4)
 
-[What happens when you vectorize wide PyTorch expressions?](https://probablymarcus.com/blocks/2023/10/19/vectorizing-wide-pytorch-expressions.html)
+[Roombas at the end of the world](https://spectrum.ieee.org/south-pole-roombas)
 
-[Static Analysis Tools for C](https://github.com/analysis-tools-dev/static-analysis)
+[Temporal Databases (1986) [pdf]](https://www2.cs.arizona.edu/~rts/pubs/Computer.pdf)
 
-[Synth Emulation in MAME (Arcade Machine Emulator). A New Trend?](https://gearspace.com/board/electronic-music-instruments-and-electronic-music-production/1416192-synth-emulation-mame-arcade-machine-emulator-new-trend.html)
+[AirportSim](https://airportsim.com/)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Yugoslavia's Digital Twin – When a country's internet domain outlives the nation](https://www.thedial.world/issue-9/yugolsav-wars-yu-domain-history-icann)
+
+[Ceasing print publication of ACM journals and transactions](https://www.acm.org/publications/ceasing-print)
+
+[WebSDR – Internet-connected Software-Defined Radios](http://www.websdr.org/)
+
+[Interactive intro to shaders](https://www.mayerowitz.io/blog/a-journey-into-shaders)
+
+[Trying to make sense of why Otis exploded en route to Acapulco](https://theeyewall.com/trying-to-make-sense-of-why-otis-exploded-en-route-to-acapulco-this-week/)
+
+[Takkyu-bin: Luggage forwarding in Japan](https://craigmod.com/ridgeline/170/)
+
+[How to catch a wild triangle](https://securelist.com/operation-triangulation-catching-wild-triangle/110916/)
+
+[How bioelectricity could regrow limbs and organs](https://news.uchicago.edu/how-bioelectricity-could-regrow-limbs-and-organs)
+
+[My Left Kidney](https://www.astralcodexten.com/p/my-left-kidney)
+
 [The Cloud Computer](https://oxide.computer/blog/the-cloud-computer)
-
-[I2P: End-to-end encrypted and anonymous internet](https://github.com/PurpleI2P/i2pd)
-
-[Dagor Engine and Tools source code from Gaijin Games KFT](https://github.com/GaijinEntertainment/DagorEngine)
-
-[Cold war satellite images reveal unknown Roman forts](https://www.theguardian.com/science/2023/oct/26/cold-war-satellite-images-hundreds-unknown-roman-forts)
-
-[Bird with GPS flies into typhoon](https://newatlas.com/biology/bird-typhoon-ride/)
-
-[Could a near-Earth asteroid be a piece of the moon?](https://www.spacechatter.com/2023/10/25/moon-fragment-near-earth-asteroid-kamooalewa/)
-
-[Mars has a layer of molten rock inside](https://www.nature.com/articles/d41586-023-03271-4)
-
-[Roombas at the end of the world](https://spectrum.ieee.org/south-pole-roombas)
-
-[Temporal Databases (1986) [pdf]](https://www2.cs.arizona.edu/~rts/pubs/Computer.pdf)
-
-[AirportSim](https://airportsim.com/)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Shadow: New browser engine made almost entirely in JavaScript](https://goose.icu/introducing-shadow/)
+[The fun factor of the video game Uplink](https://vertette.github.io/post/funfactoruplink)
+
+[Cortex X2: ARM aims high](https://chipsandcheese.com/2023/10/27/cortex-x2-arm-aims-high/)
+
+[WinterJS](https://wasmer.io/posts/announcing-winterjs-service-workers)
+
+[Algebra](https://www.feynmanlectures.caltech.edu/I_22.html)
 
 [Large Balloon Reflector: a potentially game-changing antenna design](https://www.nasa.gov/directorates/stmd/nasa-tech-breathes-life-into-potentially-game-changing-antenna-design/)
 
-[15 Years of Android Memories](https://blog.google/products/android/android-15th-anniversary-googler-highlights/)
-
-[A small warning about UDP based protocols](https://boston.conman.org/2023/10/25.1)
-
-[Meticulous (YC S21) Is Hiring to Build AI for UI Testing]()
+[Shadow: New browser engine made almost entirely in JavaScript](https://goose.icu/introducing-shadow/)
 
 [Visualizing quaternions (2018)](https://eater.net/quaternions)
 
+[The Emptiness of Literature Written for the Market](https://www.noemamag.com/the-emptiness-of-literature-written-for-the-market/)
+
+[Google agrees to invest up to $2B in OpenAI rival Anthropic](https://www.reuters.com/technology/google-agrees-invest-up-2-bln-openai-rival-anthropic-wsj-2023-10-27/)
+
 [Staring at a Wall: Embracing Deliberate Boredom](https://www.ch3ngl0rd.com/staring-at-a-wall/)
-
-[When gradient descent is a kernel method](https://cgad.ski/blog/when-gradient-descent-is-a-kernel-method.html)
-
-[The convolution empire strikes back](https://gonzoml.substack.com/p/the-convolution-empire-strikes-back)
-
-[Show HN: ScratchDB – Open-Source Snowflake on ClickHouse](https://github.com/scratchdata/ScratchDB)

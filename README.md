@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [Shadow: New browser engine made almost entirely in JavaScript](https://goose.icu/introducing-shadow/)
 
-[The convolution empire strikes back](https://gonzoml.substack.com/p/the-convolution-empire-strikes-back)
+[Large Balloon Reflector: a potentially game-changing antenna design](https://www.nasa.gov/directorates/stmd/nasa-tech-breathes-life-into-potentially-game-changing-antenna-design/)
 
-[Show HN: ScratchDB – Open-Source Snowflake on ClickHouse](https://github.com/scratchdata/ScratchDB)
+[15 Years of Android Memories](https://blog.google/products/android/android-15th-anniversary-googler-highlights/)
+
+[A small warning about UDP based protocols](https://boston.conman.org/2023/10/25.1)
+
+[Meticulous (YC S21) Is Hiring to Build AI for UI Testing]()
 
 [Visualizing quaternions (2018)](https://eater.net/quaternions)
 
-[Ensō: write now, edit later](https://enso.sonnet.io/)
+[Staring at a Wall: Embracing Deliberate Boredom](https://www.ch3ngl0rd.com/staring-at-a-wall/)
 
-[Large Balloon Reflector: a potentially game-changing antenna design](https://www.nasa.gov/directorates/stmd/nasa-tech-breathes-life-into-potentially-game-changing-antenna-design/)
+[When gradient descent is a kernel method](https://cgad.ski/blog/when-gradient-descent-is-a-kernel-method.html)
 
-[Lessons Learned from Twenty Years of Site Reliability Engineering](https://sre.google/resources/practices-and-processes/twenty-years-of-sre-lessons-learned/)
+[The convolution empire strikes back](https://gonzoml.substack.com/p/the-convolution-empire-strikes-back)
 
-[After 28 years, SSLv2 is still not gone from the internet](https://isc.sans.edu/diary/After+28+years+SSLv2+is+still+not+gone+from+the+internet+but+were+getting+there/29908)
-
-[New devices could change the way we measure blood pressure](https://knowablemagazine.org/article/technology/2023/devices-could-change-how-we-measure-blood-pressure)
-
-[Lean4 helped Terence Tao discover a small bug in his recent paper](https://mathstodon.xyz/@tao/111287749336059662)
+[Show HN: ScratchDB – Open-Source Snowflake on ClickHouse](https://github.com/scratchdata/ScratchDB)

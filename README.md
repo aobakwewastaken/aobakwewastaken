@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[MagicaVoxel – A free voxel art editor and interactive path tracing renderer](https://ephtracy.github.io/)
+
+[Google to invest up to $2B in Anthropic](https://www.reuters.com/technology/google-agrees-invest-up-2-bln-openai-rival-anthropic-wsj-2023-10-27/)
+
 [The fun factor of the video game Uplink](https://vertette.github.io/post/funfactoruplink)
 
-[Cortex X2: ARM aims high](https://chipsandcheese.com/2023/10/27/cortex-x2-arm-aims-high/)
+[DM1 by Colin Skelton (2015) [pdf]](http://www.bitsandbytes.shedlandz.co.uk/CS_DM1-1.pdf)
 
-[Algebra](https://www.feynmanlectures.caltech.edu/I_22.html)
+[Cortex X2: ARM aims high](https://chipsandcheese.com/2023/10/27/cortex-x2-arm-aims-high/)
 
 [Magnetically Modelling MagSafe](https://kavi.sblmnl.co.za/magnetically-modelling-magsafe/)
 
 [Writing for Professional and Technical Audiences](https://pnewman.org/writing.html)
 
-[Large Balloon Reflector: a potentially game-changing antenna design](https://www.nasa.gov/directorates/stmd/nasa-tech-breathes-life-into-potentially-game-changing-antenna-design/)
-
-[The Emptiness of Literature Written for the Market](https://www.noemamag.com/the-emptiness-of-literature-written-for-the-market/)
-
-[WinterJS](https://wasmer.io/posts/announcing-winterjs-service-workers)
+[Algebra](https://www.feynmanlectures.caltech.edu/I_22.html)
 
 [A small warning about UDP based protocols](https://boston.conman.org/2023/10/25.1)
 
-[Staring at a Wall: Embracing Deliberate Boredom](https://www.ch3ngl0rd.com/staring-at-a-wall/)
+[Where is my file's metadata?](https://eclecticlight.co/2023/10/28/where-is-my-files-metadata/)

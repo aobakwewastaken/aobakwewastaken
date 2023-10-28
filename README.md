@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Arena Allocation in SBCL](https://github.com/sbcl/sbcl/blob/master/doc/internals-notes/arena-allocation.txt)
+
+[Anti-ChatGPT](https://github.com/devxpy/anti-chatgpt)
+
+[FCC wants to bolster amateur radio](https://www.radioworld.com/news-and-business/business-and-law/fcc-wants-to-bolster-amateur-radio)
+
 [MagicaVoxel – A free voxel art editor and interactive path tracing renderer](https://ephtracy.github.io/)
 
-[Show HN: Demystifying Advanced RAG Pipelines](https://github.com/pchunduri6/rag-demystified)
+[Show HN: WireHole combines WireGuard, Pi-hole, and Unbound with an easy UI](https://github.com/IAmStoxe/wirehole)
 
-[Google to invest up to $2B in Anthropic](https://www.reuters.com/technology/google-agrees-invest-up-2-bln-openai-rival-anthropic-wsj-2023-10-27/)
+[Charter Houses](https://slimemoldtimemold.com/2022/02/17/charter-houses/)
 
-[The fun factor of the video game Uplink](https://vertette.github.io/post/funfactoruplink)
+[Show HN: OpenSign – The open source alternative to DocuSign](https://github.com/OpenSignLabs/OpenSign)
 
-[Rydberg Field Measurement System](https://www.rydbergtechnologies.com/products)
+[Skio (YC S20) is hiring – Subscriptions for Shopify, recharge migrations](https://skio.com/careers/)
 
-[Samsung disables customer phones remotely, holds data hostage [video]](https://www.youtube.com/watch?v=Ln4rsxWq3WM)
+[Getting my library cards onto my phone the hard way](https://iliana.fyi/blog/ios-wallet-library-card/)
 
-[Cortex X2: ARM aims high](https://chipsandcheese.com/2023/10/27/cortex-x2-arm-aims-high/)
-
-[DM1 by Colin Skelton (2015) [pdf]](http://www.bitsandbytes.shedlandz.co.uk/CS_DM1-1.pdf)
-
-[Writing for Professional and Technical Audiences](https://pnewman.org/writing.html)
-
-[Magnetically Modelling MagSafe](https://kavi.sblmnl.co.za/magnetically-modelling-magsafe/)
+[Fixing the volume on my Bluetooth earbuds](https://blog.ornx.net/post/bluetooth-volume-fix/)

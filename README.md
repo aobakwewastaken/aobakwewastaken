@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Linear Algebra Done Right – 4th Edition](https://linear.axler.net)
+
 [NixOS Reproducible Builds: minimal ISO successfully independently rebuilt](https://discourse.nixos.org/t/nixos-reproducible-builds-minimal-installation-iso-successfully-independently-rebuilt/34756)
 
 [Rare 2,100-year-old gold coin bears name of obscure ruler from pre-Roman Britain](https://www.livescience.com/archaeology/romans/rare-2100-year-old-gold-coin-bears-name-of-obscure-ruler-from-pre-roman-britain)
 
-[(Learn 'Scheme)](http://jaredkrinke.github.io/learn-scheme/toc.html)
+[(learn 'scheme)](http://jaredkrinke.github.io/learn-scheme/toc.html)
 
-[Mars Lost Its Magnetic Field – and Then Its Oceans](https://daily.jstor.org/how-mars-lost-its-magnetic-field-and-then-its-oceans/)
+[Particle Accelerator on a Chip Hits Penny-Size](https://spectrum.ieee.org/particle-accelerator-chip-sized)
 
-[Giving a Shit as a Service](https://allenpike.com/2022/giving-a-shit)
+[Apple's Blue Ocean](https://hypercritical.co/2023/10/29/apples-blue-ocean)
 
 [Ham Radios Crowdsourced Ionospheric Science During Eclipse](https://eos.org/articles/ham-radios-crowdsourced-ionospheric-science-during-eclipse)
 
-[Running Speeds](https://www.allendowney.com/blog/2023/10/28/why-are-you-so-slow/)
+[The IBM 5153's True CGA Palette and Color Output (2022)](https://int10h.org/blog/2022/06/ibm-5153-color-true-cga-palette/)
 
-[Exploiting DNS response parsing on the Wii U](https://garyodernichts.blogspot.com/2023/10/exploiting-dns-response-parsing-on-wii-u.html)
+[Aftershock of the New: Woodblock Prints of Post-Disaster Tokyo (1928–32)](https://publicdomainreview.org/collection/aftershock-of-the-new/)
 
-[AI can catalogue a forest's inhabitants simply by listening](https://www.economist.com/science-and-technology/2023/10/25/ai-can-catalogue-a-forests-inhabitants-simply-by-listening)
-
-[The product manager role is a mistake](https://sollecitom.github.io/software-product-development-blog/posts/2023/2023-10-21-product-manager-role-is-a-mistake/)
+[Calculus Made Easy by Silvanus P. Thompson (1910)](https://calculusmadeeasy.org)

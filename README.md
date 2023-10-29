@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Why has America settled on colonoscopies when most of the world has not?](https://asteriskmag.com/issues/04/you-re-invited-to-a-colonoscopy?ref=thebrowser.com)
+[Why are you so slow?](https://www.allendowney.com/blog/2023/10/28/why-are-you-so-slow/)
 
-[All GB/S Without Flops – Nvidia CMP 170HX Review](https://niconiconi.neocities.org/tech-notes/nvidia-cmp-170hx-review/)
+[Exploiting DNS response parsing on the Wii U](https://garyodernichts.blogspot.com/2023/10/exploiting-dns-response-parsing-on-wii-u.html)
 
-[Electroreduction of nitrogen with almost 100% current-to-ammonia efficiency](https://www.nature.com/articles/s41586-022-05108-y)
+[Ken Burns chronicles the sad fate of the American buffalo](https://www.economist.com/culture/2023/10/25/ken-burns-chronicles-the-sad-fate-of-the-american-buffalo)
 
-[Show HN: OpenSign – Open source alternative to DocuSign](https://github.com/OpenSignLabs/OpenSign)
+[Work only 3 hours a day, but everyday (2016)](http://plumshell.com/2016/03/10/work-for-only-3-hours-a-day-but-everyday/)
 
-[The Windows installer of ImageMagick will no longer be signed](https://github.com/ImageMagick/ImageMagick/discussions/6826)
+[Research Unix Sixth Edition (WASM)](https://research.swtch.com/v6/)
 
-[Supabase (YC S20) Is Hiring a Technical Product Marketer (Fully Remote)](https://boards.greenhouse.io/supabase/jobs/5005843004)
+[All GB/s without FLOPS – Nvidia CMP 170HX Review](https://niconiconi.neocities.org/tech-notes/nvidia-cmp-170hx-review/)
 
-[PostgreSQL: Effective_io_concurrency Benchmarked](https://portavita.github.io/2019-07-19-PostgreSQL_effective_io_concurrency_benchmarked/)
+[Emptycrate.com: Nobody Understands C++: Intro](https://articles.emptycrate.com/2007/07/19/nobody_understands_c_intro.html)
 
-[Arena Allocation in SBCL](https://github.com/sbcl/sbcl/blob/master/doc/internals-notes/arena-allocation.txt)
+[Nitrogen electroreduction with almost 100% current-to-ammonia efficiency (2022)](https://www.nature.com/articles/s41586-022-05108-y)
 
-[Show HN: WireHole combines WireGuard, Pi-hole, and Unbound with an easy UI](https://github.com/IAmStoxe/wirehole)
+[Putting ads in hardware through HDMI](https://patents.google.com/patent/US11785300B2/en)
 
-[Rewrites Are Waterfall](https://shermanonsoftware.com/2023/10/28/rewrites-are-waterfall/)
+[A New Generation of Mathematicians Pushes Prime Number Barriers](https://www.quantamagazine.org/a-new-generation-of-mathematicians-pushes-prime-number-barriers-20231026/)

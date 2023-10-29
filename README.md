@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Running Speeds](https://www.allendowney.com/blog/2023/10/28/why-are-you-so-slow/)
-
 [NixOS Reproducible Builds: minimal ISO successfully independently rebuilt](https://discourse.nixos.org/t/nixos-reproducible-builds-minimal-installation-iso-successfully-independently-rebuilt/34756)
+
+[Mars Lost Its Magnetic Field – and Then Its Oceans](https://daily.jstor.org/how-mars-lost-its-magnetic-field-and-then-its-oceans/)
+
+[(Learn 'Scheme)](http://jaredkrinke.github.io/learn-scheme/toc.html)
+
+[Giving a Shit as a Service](https://allenpike.com/2022/giving-a-shit)
+
+[Running Speeds](https://www.allendowney.com/blog/2023/10/28/why-are-you-so-slow/)
 
 [Exploiting DNS response parsing on the Wii U](https://garyodernichts.blogspot.com/2023/10/exploiting-dns-response-parsing-on-wii-u.html)
 
 [AI can catalogue a forest's inhabitants simply by listening](https://www.economist.com/science-and-technology/2023/10/25/ai-can-catalogue-a-forests-inhabitants-simply-by-listening)
 
-[Ken Burns chronicles the sad fate of the American buffalo](https://www.economist.com/culture/2023/10/25/ken-burns-chronicles-the-sad-fate-of-the-american-buffalo)
+[Which Writers Will We Remember?](https://biblioracle.substack.com/p/which-writers-will-we-remember)
 
-[Great Question (YC W21) Is Hiring](https://www.ycombinator.com/companies/great-question/jobs/BxfP9Zt-account-executive)
+['It's quite soul-destroying': how we fell out of love with dating apps](https://www.theguardian.com/lifeandstyle/2023/oct/28/its-quite-soul-destroying-how-we-fell-out-of-love-with-dating-apps)
 
-[Latvia to start conscripting men for mandatory military service, starting 2024](https://www.loc.gov/item/global-legal-monitor/2023-10-04/latvia-new-law-introduces-compulsory-military-service-starting-in-january-2024/)
-
-[Nobody Understands C++: Intro (2007)](https://articles.emptycrate.com/2007/07/19/nobody_understands_c_intro.html)
-
-[Research Unix Sixth Edition (WASM)](https://research.swtch.com/v6/)
-
-[All GB/s without FLOPS – Nvidia CMP 170HX Review](https://niconiconi.neocities.org/tech-notes/nvidia-cmp-170hx-review/)
+[Linux running on RISC-V emulated in Scratch](https://blog.adafruit.com/2023/10/25/wild-linux-running-on-risc-v-emulated-in-scratch-riscv-linux-scratch/)

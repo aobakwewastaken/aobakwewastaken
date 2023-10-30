@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[The costs of microservices (2020)](https://robertovitillo.com/costs-of-microservices/)
+[Use YouTube to improve your English pronunciation](https://youglish.com/)
+
+[Gmail, Yahoo announce new 2024 authentication requirements for bulk senders](https://blog.google/products/gmail/gmail-security-authentication-spam-protection/)
+
+[Apple's Safari browser is still vulnerable to Spectre attacks](https://news.rub.de/english/press-releases/2023-10-26-security-gap-apples-safari-browser-still-vulnerable-spectre-attacks)
+
+[Kart: DVC for geospatial and tabular data. Git for GIS](https://kartproject.org/)
+
+[8BitDo Micro](https://www.8bitdo.com/micro/)
+
+[Apple CPU Architecture Through the Ages](https://jacobbartlett.substack.com/p/through-the-ages-apple-cpu-architecture)
 
 [eBPF-based auto-instrumentation outperforms manual instrumentation](https://odigos.io/blog/ebpf-instrumentation-faster-than-manual)
 
-[Raspberry Pi 5 has no hardware video encoding and only HEVC decoding](https://www.raspberrypi.com/news/introducing-raspberry-pi-5/#comment-1594055)
+[Approximate Nearest Neighbor Oh Yeah (Annoy)](https://zilliz.com/learn/approximate-nearest-neighbor-oh-yeah-ANNOY)
 
-[Bakhshali manuscript](https://en.wikipedia.org/wiki/Bakhshali_manuscript)
+[OpenBSD Webzine Special 2023](https://webzine.puffy.cafe/issue-16-special-octopenbsd-2023.html)
 
-[Lindenmayer Systems](https://rue-a.github.io/L-Systems/)
-
-[Spy satellites reveal undiscovered Roman forts](https://phys.org/news/2023-10-spy-satellites-reveal-hundreds-undiscovered.html)
-
-[Ivan Illich’s radical critique of modern certitudes (2021)](https://www.noemamag.com/a-forgotten-prophet-whose-time-has-come/)
-
-[I accidentally saved my company half a million dollars](https://ludic.mataroa.blog/blog/i-accidentally-saved-half-a-million-dollars/)
-
-[Thomas Edison's Concrete Houses](https://www.atlasobscura.com/places/thomas-edisons-concrete-houses)
-
-[Speeding up Cython with SIMD](https://pythonspeed.com/articles/faster-cython-simd/)
+[Incus 0.2 adds NVMe, NixOS images and more](https://discuss.linuxcontainers.org/t/incus-0-2-has-been-released/18185)

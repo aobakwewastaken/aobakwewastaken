@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Web FM synthesizer made with HTML5](https://www.taktech.org/takm/WebFMSynth/)
+
+[Porting OpenBSD Pledge() to Linux (2022)](https://justine.lol/pledge/)
+
+[π in Other Universes](https://azeemba.com/posts/pi-in-other-universes.html)
+
 [Linear Algebra Done Right – 4th Edition](https://linear.axler.net)
 
-[NixOS Reproducible Builds: minimal ISO successfully independently rebuilt](https://discourse.nixos.org/t/nixos-reproducible-builds-minimal-installation-iso-successfully-independently-rebuilt/34756)
+[How deep is the brain? The shallow brain hypothesis](https://www.nature.com/articles/s41583-023-00756-z)
 
-[Rare 2,100-year-old gold coin bears name of obscure ruler from pre-Roman Britain](https://www.livescience.com/archaeology/romans/rare-2100-year-old-gold-coin-bears-name-of-obscure-ruler-from-pre-roman-britain)
+[DIY IP-KVM Based on Raspberry Pi](https://github.com/pikvm/pikvm)
 
-[(learn 'scheme)](http://jaredkrinke.github.io/learn-scheme/toc.html)
+[Disappearing Polymorphs](https://en.wikipedia.org/wiki/Disappearing_polymorphs)
 
-[Particle Accelerator on a Chip Hits Penny-Size](https://spectrum.ieee.org/particle-accelerator-chip-sized)
+[Notes on making a multiplayer "doing nothing app"](https://untested.sonnet.io/Sit.%2C+(together)+devlog+002+–+Space+Kalimba)
 
-[Apple's Blue Ocean](https://hypercritical.co/2023/10/29/apples-blue-ocean)
+[Scientists discover why dozens of endangered elephants dropped dead](https://www.theguardian.com/environment/2023/oct/25/scientists-discover-why-dozens-of-endangered-elephants-dropped-dead)
 
-[Ham Radios Crowdsourced Ionospheric Science During Eclipse](https://eos.org/articles/ham-radios-crowdsourced-ionospheric-science-during-eclipse)
-
-[The IBM 5153's True CGA Palette and Color Output (2022)](https://int10h.org/blog/2022/06/ibm-5153-color-true-cga-palette/)
-
-[Aftershock of the New: Woodblock Prints of Post-Disaster Tokyo (1928–32)](https://publicdomainreview.org/collection/aftershock-of-the-new/)
-
-[Calculus Made Easy by Silvanus P. Thompson (1910)](https://calculusmadeeasy.org)
+[How many billions of transistors in an iPhone processor?](https://lemire.me/blog/2023/10/18/how-many-billions-of-transistors-in-your-iphone-processor/)

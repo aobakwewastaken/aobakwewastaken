@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[German court declares Do Not Track to be legally binding](https://www.vzbv.de/urteile/gericht-untersagt-datenschutzverstoesse-von-linkedin)
+
 [Android and RISC-V: What you need to know to be ready](https://opensource.googleblog.com/2023/10/android-and-risc-v-what-you-need-to-know.html)
 
 [Gmail, Yahoo announce new 2024 authentication requirements for bulk senders](https://blog.google/products/gmail/gmail-security-authentication-spam-protection/)
 
-[Southern California Beyond the Freeway](https://www.nytimes.com/2023/10/30/travel/southern-california-driving-tour.html)
-
-[RedPajama v2 Open Dataset with 30T Tokens for Training LLMs](https://together.ai/blog/redpajama-data-v2)
-
-[A better way to handle errors in JavaScript](https://musicq.gitbook.io/unwrapit/)
-
-[Confessions of a Tableside Flambéur](https://www.eater.com/23893292/tableside-presentation-flambee-confessions-fine-dining)
+[Apple unveils M3, M3 Pro, and M3 Max](https://www.apple.com/newsroom/2023/10/apple-unveils-m3-m3-pro-and-m3-max-the-most-advanced-chips-for-a-personal-computer/)
 
 [Use YouTube to improve your English pronunciation](https://youglish.com/)
 
-[The Grug Brained Developer (2022)](https://grugbrain.dev/)
+[RedPajama v2 Open Dataset with 30T Tokens for Training LLMs](https://together.ai/blog/redpajama-data-v2)
 
-[Can I remove my personal data from GenAI training datasets?](https://knowingmachines.org/knowing-legal-machines/legal-explainer/questions/can-i-remove-my-personal-data-from-genai-training-datasets)
+[Can you use your "free will"? Try your hand](https://people.ischool.berkeley.edu/~nick/aaronson-oracle/)
 
-[$95 AMD CPU Becomes 16GB GPU to Run AI Software](https://www.tomshardware.com/news/dollar95-amd-cpu-becomes-16gb-gpu-to-run-ai-software)
+[Xbox will block third-party controllers to "preserve the console experience"](https://www.nme.com/news/gaming-news/xbox-will-block-third-party-controllers-to-preserve-the-console-experience-3525752)
+
+[Drugmakers are set to pay 23andMe to access consumer DNA](https://www.bloomberg.com/news/articles/2023-10-30/23andme-will-give-gsk-access-to-consumer-dna-data)
+
+[Earliest Eligible Virtual Deadline First: Flexible Resource Allocation Mechanism](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=805acf7726282721504c8f00575d91ebfd750564)

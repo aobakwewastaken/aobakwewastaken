@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Use YouTube to improve your English pronunciation](https://youglish.com/)
+[Android and RISC-V: What you need to know to be ready](https://opensource.googleblog.com/2023/10/android-and-risc-v-what-you-need-to-know.html)
 
 [Gmail, Yahoo announce new 2024 authentication requirements for bulk senders](https://blog.google/products/gmail/gmail-security-authentication-spam-protection/)
 
-[Apple's Safari browser is still vulnerable to Spectre attacks](https://news.rub.de/english/press-releases/2023-10-26-security-gap-apples-safari-browser-still-vulnerable-spectre-attacks)
+[Southern California Beyond the Freeway](https://www.nytimes.com/2023/10/30/travel/southern-california-driving-tour.html)
 
-[Kart: DVC for geospatial and tabular data. Git for GIS](https://kartproject.org/)
+[RedPajama v2 Open Dataset with 30T Tokens for Training LLMs](https://together.ai/blog/redpajama-data-v2)
 
-[8BitDo Micro](https://www.8bitdo.com/micro/)
+[A better way to handle errors in JavaScript](https://musicq.gitbook.io/unwrapit/)
 
-[Apple CPU Architecture Through the Ages](https://jacobbartlett.substack.com/p/through-the-ages-apple-cpu-architecture)
+[Confessions of a Tableside Flambéur](https://www.eater.com/23893292/tableside-presentation-flambee-confessions-fine-dining)
 
-[eBPF-based auto-instrumentation outperforms manual instrumentation](https://odigos.io/blog/ebpf-instrumentation-faster-than-manual)
+[Use YouTube to improve your English pronunciation](https://youglish.com/)
 
-[Approximate Nearest Neighbor Oh Yeah (Annoy)](https://zilliz.com/learn/approximate-nearest-neighbor-oh-yeah-ANNOY)
+[The Grug Brained Developer (2022)](https://grugbrain.dev/)
 
-[OpenBSD Webzine Special 2023](https://webzine.puffy.cafe/issue-16-special-octopenbsd-2023.html)
+[Can I remove my personal data from GenAI training datasets?](https://knowingmachines.org/knowing-legal-machines/legal-explainer/questions/can-i-remove-my-personal-data-from-genai-training-datasets)
 
-[Incus 0.2 adds NVMe, NixOS images and more](https://discuss.linuxcontainers.org/t/incus-0-2-has-been-released/18185)
+[$95 AMD CPU Becomes 16GB GPU to Run AI Software](https://www.tomshardware.com/news/dollar95-amd-cpu-becomes-16gb-gpu-to-run-ai-software)

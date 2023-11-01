@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Help Wanted at LWN](https://lwn.net/Articles/949461/)
+
+[Cosmopolitan Third Edition](https://justine.lol/cosmo3/)
+
 [Ask HN: Who is hiring? (November 2023)]()
 
-[Improving deep sleep may prevent dementia, study finds](https://www.monash.edu/news/articles/improving-deep-sleep-may-prevent-dementia,-study-finds)
+[US consumer spending dashboard built on data from 50M+ cards now on Snowflake](https://app.snowflake.com/marketplace/listing/GZTSZ290BUX40/)
 
-[C++23: Removing garbage collection support](https://www.sandordargo.com/blog/2023/11/01/cpp23-garbage-collection)
+[Dot by New Computer](https://new.computer/)
 
-[Rob Pike's 5 Rules of Programming](https://users.ece.utexas.edu/~adnan/pike.html)
+[A kernel update broke my stylus](https://www.davidrevoy.com/article995/how-a-kernel-update-broke-my-stylus-need-help)
 
-[Sentry: From the Beginning](https://cra.mr/sentry-from-the-beginning/)
+[Wrangling Monotonic Systems in TLA+](https://ahelwer.ca/post/2023-11-01-tla-finite-monotonic/)
 
-[NASA Tech Breathes Life into Potentially Game-Changing Antenna Design](https://www.eenewseurope.com/en/from-chocolate-pudding-to-new-antenna-design/)
+[Boot legacy PCs from NVMe storage](https://github.com/Manawyrm/nvme-int13h-optionrom)
 
-[HubSpot Acquires Clearbit](https://www.hubspot.com/company-news/welcoming-clearbit-to-hubspot)
+[As the public begins to believe Google isn’t as useful, what happens to SEO?](https://www.theverge.com/features/23931789/seo-search-engine-optimization-experts-google-results)
 
-[A bank runs serverless with PHP and AWS Lambda](https://bref.sh/docs/case-studies/treezor)
-
-[How Bear does analytics with CSS](https://herman.bearblog.dev/how-bear-does-analytics-with-css/)
-
-[Show HN: Anchor – developer-friendly private CAs for internal TLS](https://anchor.dev/)
+[Why doctors in America earn so much](https://www.economist.com/united-states/2023/10/31/why-doctors-in-america-earn-so-much)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Tracking SQLite Database Changes in Git](https://garrit.xyz/posts/2023-11-01-tracking-sqlite-database-changes-in-git)
-
-[Last Chance to fix eIDAS: Secret EU law threatens Internet security](https://last-chance-for-eidas.org/)
+[EU data regulator bans personalised advertising on Facebook and Instagram](https://dig.watch/updates/eu-data-regulator-decided-to-ban-personalised-advetising-on-facebook-and-instagram)
 
 [Talk-Llama](https://github.com/ggerganov/whisper.cpp/tree/master/examples/talk-llama)
 
-[A modern, open-source spreadsheet that goes beyond the grid](https://github.com/gristlabs/grist-core)
+[Raspberry Pi receives strategic investment from Arm](https://newsroom.arm.com/news/raspberry-pi-investment)
+
+[Grist is a modern, relational spreadsheet](https://github.com/gristlabs/grist-core)
+
+[Scarlett Johansson hits AI app with legal action for cloning her voice in an ad](https://www.theverge.com/2023/11/1/23942557/scarlett-johansson-ai-app-developers-lawsuit)
+
+[Who invented file extensions in file names?](https://retrocomputing.stackexchange.com/questions/27926/who-invented-file-extensions-in-file-names)
+
+[Now you're thinking with relays](https://lcamtuf.substack.com/p/now-youre-thinking-with-relays)
+
+[Last Chance to fix eIDAS: Secret EU law threatens Internet security](https://last-chance-for-eidas.org/)
+
+[The 8000th Busy Beaver number eludes ZF set theory (2016)](https://scottaaronson.blog/?p=2725)
 
 [4th edition of Physically Based Rendering is now freely available online](https://pbr-book.org/4ed/contents)
-
-[Activeloop (Database for AI – YC S18) Hiring Fullstack / ML Infrastructure Folks](https://www.notion.so/activeloop/Careers-Activeloop-9dad048520b6452e8954830d61250c5a)
-
-[Home Assistant 2023.11](https://www.home-assistant.io/blog/2023/11/01/release-202311/)
-
-[App: Rak – 21st century grep / find / ack / ag / rg on steroids](https://github.com/lizmat/App-Rak)
-
-[Window-swap – open a new window somewhere in the world](https://www.window-swap.com/)
-
-[Now You're Thinking with Relays](https://lcamtuf.substack.com/p/now-youre-thinking-with-relays)

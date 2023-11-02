@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Help Wanted at LWN](https://lwn.net/Articles/949461/)
-
 [Cosmopolitan Third Edition](https://justine.lol/cosmo3/)
 
-[Ask HN: Who is hiring? (November 2023)]()
+[Window-swap – open a new window somewhere in the world](https://www.window-swap.com/)
 
-[US consumer spending dashboard built on data from 50M+ cards now on Snowflake](https://app.snowflake.com/marketplace/listing/GZTSZ290BUX40/)
+[Biohacking Lite](http://karpathy.github.io/2020/06/11/biohacking-lite/)
 
-[Dot by New Computer](https://new.computer/)
+[Lemming Suicide Myth: Disney Film Faked Bogus Behavior](https://www.adfg.alaska.gov/index.cfm?adfg=wildlifenews.view_article&articles_id=56)
 
-[A kernel update broke my stylus](https://www.davidrevoy.com/article995/how-a-kernel-update-broke-my-stylus-need-help)
+[Yann LeCun: AI one-percenters seizing power forever is real doomsday scenario](https://www.businessinsider.com/sam-altman-and-demis-hassabis-just-want-to-control-ai-2023-10)
 
-[Wrangling Monotonic Systems in TLA+](https://ahelwer.ca/post/2023-11-01-tla-finite-monotonic/)
+[The business of extracting knowledge from academic publications](https://www.theseedsofscience.pub/p/the-business-of-extracting-knowledge)
 
-[Boot legacy PCs from NVMe storage](https://github.com/Manawyrm/nvme-int13h-optionrom)
+[High-level emulator for iPhone OS apps](https://github.com/hikari-no-yume/touchHLE)
 
-[As the public begins to believe Google isn’t as useful, what happens to SEO?](https://www.theverge.com/features/23931789/seo-search-engine-optimization-experts-google-results)
+[macOS Sonoma Broke Grep](https://developer.apple.com/forums/thread/738862)
 
-[Why doctors in America earn so much](https://www.economist.com/united-states/2023/10/31/why-doctors-in-america-earn-so-much)
+[My rude-ass car](https://www.neverbeclever.org/blog/my-rude-ass-car/)
+
+[Mouse experiments reveal the brain-heart connections that cause fainting](https://www.nature.com/articles/d41586-023-03450-3)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[One sleepless night can rapidly reverse depression for several days](https://news.northwestern.edu/stories/2023/11/one-sleepless-night-can-rapidly-reverse-depression-for-several-days/)
+[In 1886, the US commissioned watercolor paintings of every known fruit (2019)](https://www.openculture.com/2019/06/the-us-government-commissioned-7500-watercolor-paintings.html)
 
-[Little Bobby Tables Has a Baby Sister. Meet Sally Ignore Previous Instructions](https://www.haihai.ai/pen15/)
+[Sam Bankman-Fried Convicted](https://www.nytimes.com/live/2023/11/02/business/sam-bankman-fried-trial)
 
-[The Morris Worm was released 35 years ago today](https://en.wikipedia.org/wiki/Morris_worm)
+[Email.radio – Free Email Domain for Licensed Ham Radio Operators](https://email.radio/)
 
-[Joint Statement on AI Safety and Openness](https://open.mozilla.org/letter/)
+[Light can make water evaporate without heat](https://news.mit.edu/2023/surprising-finding-light-makes-water-evaporate-without-heat-1031)
 
-[Write PHP Code Within Next.js Components](https://github.com/bufferhead-code/nextjs-use-php)
+[Microsoft Security Bulletin MS98-010 – Critical (1998)](https://learn.microsoft.com/en-us/security-updates/securitybulletins/1998/ms98-010)
 
-[Google Adsense is Transitioning to per-impression payments for publishers](https://blog.google/products/adsense/evolving-how-publishers-monetize-with-adsense/)
+[Course using F#: Write your own tiny programming system(s)](https://d3s.mff.cuni.cz/teaching/nprg077/)
 
-[In a surprising finding, light can make water evaporate without heat](https://news.mit.edu/2023/surprising-finding-light-makes-water-evaporate-without-heat-1031)
+[Translations of Russ Cox's Thompson NFA C Program to Rust](https://github.com/BurntSushi/rsc-regexp)
 
-[Confusing Git Terminology](https://jvns.ca/blog/2023/11/01/confusing-git-terminology/)
+[We've used showers for centuries. why can't hotels make them easier?](https://www.wsj.com/lifestyle/travel/hotel-showers-nate-bargatze-0dc51c81)
 
-[I designed my own keyboard layout. Was it worth it?](https://www.jonashietala.se/blog/2023/11/02/i_designed_my_own_keyboard_layout_was_it_worth_it/)
+[How big data carried graph theory into new dimensions](https://www.quantamagazine.org/how-big-data-carried-graph-theory-into-new-dimensions-20210819/)
 
-[Propaganda or Science: Open-Source AI and Bioterrorism Risk](https://1a3orn.com/sub/essays-propaganda-or-science.html)
+[Hyphens, minus, and dashes in Debian man pages](https://lwn.net/Articles/947941/)

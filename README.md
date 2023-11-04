@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[My "retirement" project: Release 40 years worth of my "source code"](https://dunfield.themindfactory.com/dnldsrc.htm)
+[AMD MicroBlaze V Processor: A Flexible and Efficient RISC-V Processor](https://www.xilinx.com/products/design-tools/microblaze-v.html)
 
-[Podman Desktop v1.5 with Compose onboarding and enhanced Kubernetes pod data](https://podman-desktop.io/blog/podman-desktop-release-1.5)
+[As I retire, my goal now is to release 40+ years of source code](https://dunfield.themindfactory.com/dnldsrc.htm)
 
-[Good genes are nice, but joy is better](https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/)
+[Portugal. The Man – Official Website Is a Google Sheets Document](https://www.portugaltheman.com/?frontpage=true)
 
-[The Tech Gold Rush Is Over. Where's the Next One?](https://www.bloomberg.com/opinion/articles/2023-11-03/the-tech-gold-rush-is-over-the-search-for-the-next-gold-rush-is-on)
+[Asciinema: Record and share your terminal sessions, the simple way](https://asciinema.org/)
 
-[No dogs were harmed in the making of this app](https://shmck.substack.com/p/no-dogs-were-harmed-in-the-making)
+[Wooden Game Boy](https://there.oughta.be/a/wooden-game-boy)
 
-[EU Tries to Slip in New Powers to Intercept Encrypted Web Traffic](https://www.techdirt.com/2023/11/03/eu-tries-to-slip-in-new-powers-to-intercept-encrypted-web-traffic-without-anyone-noticing/)
+[Apple Spent $1B on the M3 Tape-Out, Says Analyst](https://www.extremetech.com/computing/apple-spent-1-billion-on-the-m3-tape-out-says-analyst)
 
-[Microsoft is retiring Visual Studio for Mac in 2024](https://visualstudio.microsoft.com/vs/mac/)
+[Surround sound test files for every audio format](https://drive.google.com/drive/folders/1JxmeedtAtgmoafXv9rroiDOS2vEX7N4b)
 
-[UpCodes (YC S17) Is Hiring SWEs Across the Americas](https://up.codes/careers)
+[Bibi-Binary](https://en.wikipedia.org/wiki/Bibi-binary)
 
-[Show HN: MicroLua – Lua for the RP2040 Microcontroller](https://github.com/MicroLua/MicroLua)
+[Maersk to cut 10k jobs as shipping demand drops](https://www.reuters.com/business/shipping-giant-maersk-q3-above-expectation-sees-fy-lower-end-range-2023-11-03/)
 
-[Guide to Adopting AV1 Encoding](https://bitmovin.com/av1/av1-encoding-guide/)
+[The Sega Hitachi HiSaturn Navi Console](https://nfggames.com/games/hisaturn/)

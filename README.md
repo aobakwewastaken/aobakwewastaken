@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Othello Is Solved](https://arxiv.org/abs/2310.19387)
+[Bevy 0.12](https://bevyengine.org/news/bevy-0-12/)
 
-[The Great Inflation](https://www.federalreservehistory.org/essays/great-inflation)
+[NewPipe – The lightweight YouTube experience for Android](https://newpipe.net/)
 
-[A 6 channel GPS receiver from 1993](https://mastodon.sdf.org/@keelan/111349948124943603)
+[Othello Is Solved?](https://arxiv.org/abs/2310.19387)
 
-[Cooperative C++ Evolution – Toward a TypeScript for C++](https://herbsutter.com/2023/10/09/my-new-cppcon-talk-is-on-youtube-cooperative-c-evolution-toward-a-typescript-for-c/)
+[Lapham's Quarterly Is on Hiatus](https://www.laphamsquarterly.org/roundtable/hiatus)
 
-[In KDE, the Desktop Cube is back](https://www.phoronix.com/news/KDE-Wayland-Color-Mgmt)
+[Intel Itanium IA-64 Support Removed with the Linux 6.7 Kernel](https://www.phoronix.com/news/Intel-IA-64-Removed-Linux-6.7)
 
-[AMD MicroBlaze V Processor: A Flexible and Efficient RISC-V Processor](https://www.xilinx.com/products/design-tools/microblaze-v.html)
+[AI and Open Source in 2023](https://magazine.sebastianraschka.com/p/ai-and-open-source-in-2023)
 
-[Starfish bodies aren’t bodies at all, study finds](https://www.cnn.com/2023/11/02/world/starfish-head-body-plan-scn/index.html)
+[GM's Cruise alleged to rely on human operators to achieve "autonomous" driving](https://www.nytimes.com/2023/11/03/technology/cruise-general-motors-self-driving-cars.html)
 
-[The global fight against HIV is at risk](https://www.science.org/doi/10.1126/science.adm6975)
+[Tesorio Is Hiring a Sr Data Engineer and Sr Back End Engineer in Latam](https://www.tesorio.com/careers#job-openings)
 
-[A blog post is a very long and complex search query to find people (2022)](https://www.henrikkarlsson.xyz/p/search-query)
+[Cats Make Nearly 300 Different Facial Expressions](https://www.smithsonianmag.com/smart-news/cats-make-nearly-300-different-facial-expressions-180983185/)
 
-[Making "LCD, Please"](https://dukope.com/devlogs/papers-please/lcdplease/)
+[Software that supports your body should always respect your freedom](https://www.fsf.org/blogs/community/software-that-supports-your-body-should-always-respect-your-freedom)

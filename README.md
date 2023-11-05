@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Email Obfuscation Rendered Almost Ineffective Against ChatGPT](https://bulkninja.notion.site/Email-Obfuscation-Rendered-almost-Ineffective-Against-ChatGPT-728fba1b948d42c6b8dfa73cb64984e4)
+[Building a high performance JSON parser](https://dave.cheney.net/paste/gophercon-sg-2023.html)
 
 [Linux and TPMs with systemd measured boot [video]](https://media.ccc.de/v/all-systems-go-2023-186-linux-tpms)
 
 [Bubble sort in pure CSS](https://dev.to/grahamthedev/bubble-sortin-pure-css-no-js-3bb1)
 
-[Exclusive access for LLM companies to largest Chinese nonfiction book collection](https://annas-blog.org/duxiu-exclusive.html)
+[ReactOS Newsletter 103 – Late 2023 News](https://reactos.org/blogs/newsletter-103/)
 
-[BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+[A new F# compiler feature: graph-based type-checking](https://devblogs.microsoft.com/dotnet/a-new-fsharp-compiler-feature-graphbased-typechecking/)
 
-[NewPipe – Lightweight YouTube experience for Android](https://newpipe.net/)
+[StackStorm – IFTTT for Ops](https://stackstorm.com/)
+
+[Fdupes: Identify or Delete Duplicate Files](https://github.com/adrianlopezroche/fdupes)
+
+[Email obfuscation rendered almost ineffective against ChatGPT](https://bulkninja.notion.site/Email-Obfuscation-Rendered-almost-Ineffective-Against-ChatGPT-728fba1b948d42c6b8dfa73cb64984e4)
 
 [PCIe vs. CXL for Memory and Storage](https://www.synopsys.com/designware-ip/technical-bulletin/cxl2-3-storage-memory-applications.html)
 
-[Leaders Are Tool Builders: Why I Wrote My Own JavaScript UI Framework](https://iteration.maiwriter.com/p/leaders-are-tool-builders-why-i-wrote)
-
-[Representations and srategies for games with imperfect information (1996) [pdf]](https://www2.cs.sfu.ca/~bbart/personal/masters-thesis.pdf)
-
-[The First App Store](https://one-from-nippon.ghost.io/worlds-first-app-store/)
+[BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)

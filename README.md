@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Show HN: WireHub – easily create and share WireGuard networks](https://www.wirehub.org/)
+
 [Building a high performance JSON parser](https://dave.cheney.net/paste/gophercon-sg-2023.html)
 
-[ReactOS Newsletter 103 – Late 2023 News](https://reactos.org/blogs/newsletter-103/)
+[Automata: The Extraordinary "Robots" Designed Hundreds of Years Ago [video]](https://www.youtube.com/watch?v=6Nt7xLAfEPs)
 
-[Can solar and wind power Britain? An update of David MacKay's numbers](https://www.sustainabilitybynumbers.com/p/can-solar-and-wind-power-britain)
+[What is Glamorous Toolkit v1.0?](https://lepiter.io/feenk/what-exactly-is-glamorous-toolkit-v1-0--7sex44dze2dqlocqxwfz8ju0i/)
 
-[Bubble sort in pure CSS](https://dev.to/grahamthedev/bubble-sortin-pure-css-no-js-3bb1)
+[Website is hosted on ESP32 ($3 chip)](https://esp.khalsalabs.com)
 
-[A new F# compiler feature: graph-based type-checking](https://devblogs.microsoft.com/dotnet/a-new-fsharp-compiler-feature-graphbased-typechecking/)
+[Immanuel Kant – What can we know?](https://ralphammer.com/immanuel-kant-what-can-we-know/)
 
-[Linux and TPMs with systemd measured boot [video]](https://media.ccc.de/v/all-systems-go-2023-186-linux-tpms)
+[Lost area-measuring tool (2022) [video]](https://www.youtube.com/watch?v=xSgf_wxJIlk)
 
-[Fdupes: Identify or Delete Duplicate Files](https://github.com/adrianlopezroche/fdupes)
+[Why Cities: Skylines 2 performs poorly](https://blog.paavo.me/cities-skylines-2-performance/)
 
-[StackStorm – IFTTT for Ops](https://stackstorm.com/)
+[What Happens When Your 11-Year-Old Says No to a Smartphone? (2019)](https://www.vogue.com/article/parentings-new-frontier-no-smartphones)
 
-[PCIe vs. CXL for Memory and Storage](https://www.synopsys.com/designware-ip/technical-bulletin/cxl2-3-storage-memory-applications.html)
-
-[A Proposal Fix for C/C++ Relaxed Atomics in Practice](https://lukegeeson.com/blog/2023-10-17-A-Proposal-For-Relaxed-Atomics/)
+[Hexabyte – A modern, robust, and extensible commandline hex editor](https://github.com/thetacom/hexabyte)

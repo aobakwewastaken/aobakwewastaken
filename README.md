@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Nrsc5: Receive NRSC-5 digital radio stations using an RTL-SDR dongle](https://github.com/theori-io/nrsc5)
+
+[Intel 80386, a Revolutionary CPU](https://www.xtof.info/intel80386.html)
+
+[Drunk grizzlies keep getting hit by trains in Montana](https://cowboystatedaily.com/2023/11/04/63-grizzlies-some-drunk-on-fermented-grain-killed-by-trains-in-montana/)
+
+[Racket branch of Chez Scheme merging with mainline Chez Scheme](https://groups.google.com/g/chez-scheme/c/D7g6mIcYLNU)
+
+[milliForth](https://github.com/fuzzballcat/milliForth)
+
 [Show HN: WireHub – easily create and share WireGuard networks](https://www.wirehub.org/)
 
-[Building a high performance JSON parser](https://dave.cheney.net/paste/gophercon-sg-2023.html)
-
-[Automata: The Extraordinary "Robots" Designed Hundreds of Years Ago [video]](https://www.youtube.com/watch?v=6Nt7xLAfEPs)
-
-[What is Glamorous Toolkit v1.0?](https://lepiter.io/feenk/what-exactly-is-glamorous-toolkit-v1-0--7sex44dze2dqlocqxwfz8ju0i/)
-
-[Website is hosted on ESP32 ($3 chip)](https://esp.khalsalabs.com)
+[Kai Fu Lee's New AI Company: Yi-Open Source](https://www.01.ai/en)
 
 [Immanuel Kant – What can we know?](https://ralphammer.com/immanuel-kant-what-can-we-know/)
 
-[Lost area-measuring tool (2022) [video]](https://www.youtube.com/watch?v=xSgf_wxJIlk)
+[Beej's Quick Guide to GDB (2009)](https://beej.us/guide/bggdb/)
 
-[Why Cities: Skylines 2 performs poorly](https://blog.paavo.me/cities-skylines-2-performance/)
-
-[What Happens When Your 11-Year-Old Says No to a Smartphone? (2019)](https://www.vogue.com/article/parentings-new-frontier-no-smartphones)
-
-[Hexabyte – A modern, robust, and extensible commandline hex editor](https://github.com/thetacom/hexabyte)
+[A brain injury removed my ability to perceive time](https://www.salon.com/2023/11/05/a-brain-injury-removed-my-ability-to-perceive-time-heres-what-its-like-in-a-world-without-it/)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[The First Stable Release of a Rust-Rewrite Sudo Implementation](https://www.memorysafety.org/blog/sudo-first-stable-release/)
+[Mastering DOM manipulation with vanilla JavaScript](https://phuoc.ng/collection/html-dom/)
 
-[Passive SSH Key Compromise via Lattices [pdf]](https://eprint.iacr.org/2023/1711.pdf)
+[Why the Binding Arbitration Game Is Rigged Against Customers (2019)](https://www.gsb.stanford.edu/insights/why-binding-arbitration-game-rigged-against-customers)
 
-[01-AI/Yi: A series of large language models trained from scratch](https://github.com/01-ai/Yi)
+[Who's Behind the Swat USA Reshipping Service?](https://krebsonsecurity.com/2023/11/whos-behind-the-swat-usa-reshipping-service/)
 
-[Debian Discusses Vendoring yet Again](https://lwn.net/Articles/842319/)
+[Show HN: Ladder, open source alternative to 12ft.io and 1ft.io](https://github.com/kubero-dev/ladder)
 
-[Google Pays $21B for Search Monopoly: How "Free" Tech Markets Repress](https://tutanota.com/blog/google-search-monopoly)
+[The first stable release of a memory safe sudo implementation](https://www.memorysafety.org/blog/sudo-first-stable-release/)
 
-[Racket branch of Chez Scheme merging with mainline Chez Scheme](https://groups.google.com/g/chez-scheme/c/D7g6mIcYLNU)
+[The Future of Synapse and Dendrite](https://matrix.org/blog/2023/11/06/future-of-synapse-dendrite/)
 
-[FFmpeg is getting better with multithreaded transcoding pipelines](https://twitter.com/FFmpeg/status/1721275669336707152)
+[A Video Game That Pays: Lessons Learned from Working Remotely](https://dtransposed.github.io/blog/2023/11/02/Remote-SWE/)
 
-[milliForth](https://github.com/fuzzballcat/milliForth)
+[My 1976 KIM-1](https://blog.jgc.org/2023/11/my-1976-kim-1.html)
 
-[Volute Shaped Blower [video]](https://www.youtube.com/watch?v=Csb-AFD58ww)
+[FPGA Dev Boards for $150 or Less](https://www.fpgajobs.com/blog/fpga-boards-under-150-dollars/)
 
-[Drunk grizzlies keep getting hit by trains in Montana](https://cowboystatedaily.com/2023/11/04/63-grizzlies-some-drunk-on-fermented-grain-killed-by-trains-in-montana/)
+[Scientists create artificial protein that can degrade microplastics in bottles](https://phys.org/news/2023-10-scientists-artificial-protein-capable-degrading.html)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Mastering DOM manipulation with vanilla JavaScript](https://phuoc.ng/collection/html-dom/)
+[New models and developer products](https://openai.com/blog/new-models-and-developer-products-announced-at-devday)
 
-[Show HN: Ladder, open source alternative to 12ft.io and 1ft.io](https://github.com/kubero-dev/ladder)
+[Show HN: Inshellisense – IDE style shell autocomplete](https://github.com/microsoft/inshellisense)
 
-[Who's Behind the Swat USA Reshipping Service?](https://krebsonsecurity.com/2023/11/whos-behind-the-swat-usa-reshipping-service/)
+[Building a Streaming Platform in Go for Postgres](https://blog.peerdb.io/building-a-streaming-platform-in-go-for-postgres)
 
-[A Video Game That Pays: Lessons Learned from Working Remotely](https://dtransposed.github.io/blog/2023/11/02/Remote-SWE/)
+[UHZ1: NASA telescopes discover record-breaking black hole](https://chandra.si.edu/photo/2023/uhz1/)
 
-[The first stable release of a memory safe sudo implementation](https://www.memorysafety.org/blog/sudo-first-stable-release/)
+[Bored Ape conference attendees wake up with eye pain, vision loss](https://www.404media.co/bored-ape-yacht-club-conference-eye-pain-vision-loss-yuga-labs/)
 
-[Firefox development is moving from mercurial to Git](https://groups.google.com/a/mozilla.org/g/dev-platform/c/5MrpDdHIr-Y/m/p6ZHxy6sBQAJ)
+[Cicada – Open-source cross-platform version of GitHub Actions and Gitlab CI](https://github.com/Cicada-Software/cicada)
 
-[FPGA Dev Boards for $150 or Less](https://www.fpgajobs.com/blog/fpga-boards-under-150-dollars/)
+[English Wikipedia drove out fringe editors over two decades](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-11-06/Recent_research)
 
-[A new home and license (AGPL) for Synapse and friends](https://element.io/blog/element-to-adopt-agplv3/)
+[GPTs: Custom versions of ChatGPT](https://openai.com/blog/introducing-gpts)
 
-[DuckDB performance improvements with the latest release](https://duckdb.org/2023/11/03/db-benchmark-update.html)
+[Parkinson's patient able to walk 6km without problems after spinal implant](https://www.theguardian.com/society/2023/nov/06/parkinsons-patient-able-to-walk-6km-without-problems-after-spinal-implant)
 
-[USB-C cable with the bandwidth and USB type imprinted on the connector](https://www.theverge.com/2023/11/6/23948486/usb-c-cables-marking-speed-power-delivery-elgato)
+[A standalone zero-dependency Lisp for Linux](https://github.com/lone-lang/lone)

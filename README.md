@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[44% of US job postings have salary info in them](https://directlyapply.com/blog/an-update-on-salary-transparency-in-job-posts-november-2023)
+[Seeing like a bank](https://www.bitsaboutmoney.com/archive/seeing-like-a-bank/)
 
-[Maine's Constitution Has Unprintable Sections](https://www.mitsc.org/news/maine-2023-election-ballot-question-6-fact-sheet)
+[What Does and Doesn't Matter about Apple Shooting Their October Event on iPhone](https://prolost.com/blog/scarybts)
 
-[Videos of Godotcon 2023](https://media.ccc.de/c/godotcon2023)
+[Northlight technology in Alan Wake 2](https://www.remedygames.com/article/how-northlight-makes-alan-wake-2-shine)
 
-[A C Compiler that fits in the 512 byte boot sector of an x86 machine](https://github.com/xorvoid/sectorc)
+[Go, Containers, and the Linux Scheduler](https://www.riverphillips.dev/blog/go-cfs/)
+
+[Asahi Linux folks are doing us a solid with WPA3 fixes](https://rachelbythebay.com/w/2023/11/07/wpa3/)
 
 [Euclid's First Images](https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_s_first_images_the_dazzling_edge_of_darkness)
 
-[Whole Earth Catalog (1968) [pdf]](https://monoskop.org/images/0/09/Brand_Stewart_Whole_Earth_Catalog_Fall_1968.pdf)
+[MISRA C](https://en.wikipedia.org/wiki/MISRA_C)
 
-[LAPD considering stronger body camera policy in light of recent scandals](https://www.latimes.com/california/story/2023-10-26/lapd-considering-stronger-body-camera-policy)
+[Core to Core Latency Data on Large Systems](https://chipsandcheese.com/2023/11/07/core-to-core-latency-data-on-large-systems/)
 
-[Validating Data in Elixir: Using Ecto and NimbleOptions](https://blog.appsignal.com/2023/11/07/validating-data-in-elixir-using-ecto-and-nimbleoptions.html)
+[I Got the Fed to Release Its 2011 "Treasury Default" Playbook](https://www.crisesnotes.com/i-got-the-fed-to-release-its-2011-treasury-default-playbook-heres-what-it-says-and-why-it-matters/)
 
-[Formalising modern research mathematics in real time](https://xenaproject.wordpress.com/2023/11/04/formalising-modern-research-mathematics-in-real-time/)
-
-[The coolest robot I've ever built](https://www.youtube.com/watch?v=bO-DWWFolPw)
+[Barcelona Supercomputing Center](https://my.matterport.com/show/?m=oj5FSKsTt7o)

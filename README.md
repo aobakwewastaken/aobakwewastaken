@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Seeing like a bank](https://www.bitsaboutmoney.com/archive/seeing-like-a-bank/)
-
-[What Does and Doesn't Matter about Apple Shooting Their October Event on iPhone](https://prolost.com/blog/scarybts)
-
 [Northlight technology in Alan Wake 2](https://www.remedygames.com/article/how-northlight-makes-alan-wake-2-shine)
+
+[Oh my poor business logic](https://rednafi.com/misc/oh_my_poor_business_logic/)
 
 [Go, Containers, and the Linux Scheduler](https://www.riverphillips.dev/blog/go-cfs/)
 
-[Asahi Linux folks are doing us a solid with WPA3 fixes](https://rachelbythebay.com/w/2023/11/07/wpa3/)
+[Interactive examples for learning jq](https://ishan.page/blog/2023-11-06-jq-by-example/)
 
-[Euclid's First Images](https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_s_first_images_the_dazzling_edge_of_darkness)
+[Perfect Dark: Recompiled](https://hackaday.com/2023/11/05/perfect-dark-recompiled/)
 
-[MISRA C](https://en.wikipedia.org/wiki/MISRA_C)
+[Tumble Forth](http://tumbleforth.hardcoded.net/)
 
-[Core to Core Latency Data on Large Systems](https://chipsandcheese.com/2023/11/07/core-to-core-latency-data-on-large-systems/)
+[WasmFX: Effect Handlers for WebAssembly](https://wasmfx.dev/)
 
-[I Got the Fed to Release Its 2011 "Treasury Default" Playbook](https://www.crisesnotes.com/i-got-the-fed-to-release-its-2011-treasury-default-playbook-heres-what-it-says-and-why-it-matters/)
+[Writing a Compiler is Surprisingly Easy (part 1)](http://sebmestre.blogspot.com/2023/11/en-writing-compiler-is-surprisingly.html)
 
-[Barcelona Supercomputing Center](https://my.matterport.com/show/?m=oj5FSKsTt7o)
+[Gleam: a type safe language on the Erlang VM](https://gleam.run/)
+
+[Seeing like a bank](https://www.bitsaboutmoney.com/archive/seeing-like-a-bank/)

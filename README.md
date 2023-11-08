@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Northlight technology in Alan Wake 2](https://www.remedygames.com/article/how-northlight-makes-alan-wake-2-shine)
+[Stop making every conversation about yourself](https://thoguhts.substack.com/p/stop-making-every-conversation-about)
+
+[Library Genesis in Numbers: Mapping the Underground Flow of Knowledge (2018) [pdf]](https://direct.mit.edu/books/oa-edited-volume/3600/chapter/120592/Library-Genesis-in-Numbers-Mapping-the-Underground)
 
 [Oh my poor business logic](https://rednafi.com/misc/oh_my_poor_business_logic/)
 
-[Go, Containers, and the Linux Scheduler](https://www.riverphillips.dev/blog/go-cfs/)
-
 [Interactive examples for learning jq](https://ishan.page/blog/2023-11-06-jq-by-example/)
 
-[Perfect Dark: Recompiled](https://hackaday.com/2023/11/05/perfect-dark-recompiled/)
+[Go, Containers, and the Linux Scheduler](https://www.riverphillips.dev/blog/go-cfs/)
+
+[PhotoRoom (YC S20) Is Hiring a Cross-Platform Developer in Paris (Rust, Wgpu)](https://jobs.lever.co/photoroom/fc379626-eb33-4eb6-839c-10e5d578e2ed?lever-origin=applied&lever-source%5B%5D=yc)
+
+[Minimalist Affordances: Making the Right Tradeoffs](https://lea.verou.me/blog/2023/minimalist-affordances/)
 
 [Tumble Forth](http://tumbleforth.hardcoded.net/)
 
-[WasmFX: Effect Handlers for WebAssembly](https://wasmfx.dev/)
+[Legendary Semiconductor Physicist Simon Sze is no more](https://www.legacy.com/us/obituaries/sfgate/name/simon-sze-obituary?id=53535445)
 
 [Writing a Compiler is Surprisingly Easy (part 1)](http://sebmestre.blogspot.com/2023/11/en-writing-compiler-is-surprisingly.html)
-
-[Gleam: a type safe language on the Erlang VM](https://gleam.run/)
-
-[Seeing like a bank](https://www.bitsaboutmoney.com/archive/seeing-like-a-bank/)

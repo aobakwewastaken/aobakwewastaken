@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Why SciPy builds for Python 3.12 on Windows are a minor miracle](https://labs.quansight.org/blog/building-scipy-with-flang)
+[Omegle 2009-2023](https://www.omegle.com/)
 
-[$200M Gift Propels Scientific Research in the Search for Life Beyond Earth](https://www.seti.org/press-release/200m-gift-propels-scientific-research-search-life-beyond-earth)
+[Using GPT-4 Vision with Vimium to browse the web](https://github.com/ishan0102/vimGPT)
 
-[How Bad Rails Conventions Got Me a Weekend Stay with the CEO of Airbnb](https://blog.josephofiowa.com/airbnb-weekend/)
+[SciPy builds for Python 3.12 on Windows are a minor miracle](https://labs.quansight.org/blog/building-scipy-with-flang)
 
-[Home Assistant blocked from integrating with Garage Door opener API](https://www.home-assistant.io/blog/2023/11/06/removal-of-myq-integration/)
+[i386 Assembly Language trick for storing data in .text](https://ratfactor.com/cards/asm-data-in-text)
 
-[Quake Brutalist Jam II](https://www.slipseer.com/index.php?resources/quake-brutalist-jam-2.278/)
+[Interesting Bugs Caught by ESLint's no-constant-binary-expression](https://eslint.org/blog/2022/07/interesting-bugs-caught-by-no-constant-binary-expression/)
 
-[Major outages across ChatGPT and API](https://status.openai.com/incidents/00fpy0yxrx1q)
+[Design Guidelines for Domain Specific Languages](https://arxiv.org/abs/1409.2378)
 
-[Automerge-Repo: A "batteries-included" toolkit for local-first applications](https://automerge.org/blog/2023/11/06/automerge-repo/)
+[Sony announces a9 III: first full-frame global shutter camera](https://www.dpreview.com/news/7271416294/sony-announces-a9-iii-world-s-first-full-frame-global-shutter-camera)
 
-[Show HN: Bulletpapers – ArXiv AI paper summarizer, won Anthropic Hackathon](https://www.bulletpapers.ai)
+[A door at a Swedish library was accidentally left open](https://www.zmescience.com/science/news-science/a-door-at-a-swedish-library-was-accidentally-left-open-446-people-came-in-borrowed-245-books-every-single-one-was-returned/)
 
-[Kurdish Parentheses on OpenStreetMap, Three Ways](https://blog.georeactor.com/osm-1)
+[On-Crash Backtraces in Swift](https://www.swift.org/blog/swift-5.9-backtraces/)
 
-[Inside the weird and delightful origins of the jungle gym, which just turned 100](https://www.npr.org/2023/11/08/1209932614/jungle-gym-playground-monkey-bars-maths-hinton-fourth-dimension)
+[Curves and L-Systems](https://apieceofthepi.substack.com/p/curves-and-l-systems)

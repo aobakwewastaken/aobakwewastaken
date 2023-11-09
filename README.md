@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Servo announces grant from the NLnet Foundation](https://servo.org/blog/2023/11/06/nlgrant-announcement/)
+[What I learned getting acquired by Google](https://shreyans.org/google)
 
-[Benchmarking GPT-4 Turbo – A Cautionary Tale](https://blog.mentat.ai/benchmarking-gpt-4-turbo-a-cautionary-tale)
+[Implementing TCP in Rust](https://github.com/Ghvstcode/Rust-Tcp)
 
-[Zelda the Movie Shows Nintendo Has Learned Its Lessons](https://www.bloomberg.com/opinion/articles/2023-11-08/zelda-the-movie-shows-nintendo-has-learned-its-lesson)
+[On Medieval Cats](https://going-medieval.com/2023/05/16/on-cats/)
 
-[Las Vegas Sphere reports $98.4M loss; CFO quits](https://lasvegassun.com/news/2023/nov/08/las-vegas-sphere-reports-984-million-loss-cfo-quit/)
+[Illinois Senate approves plan to allow new nuclear reactors](https://apnews.com/article/illinois-nuclear-small-modular-reactors-moratorium-a56a90a09185e864cdd7f5d6d24b9d48)
 
-[CLion Nova Explodes onto the C and C++ Development Scene](https://blog.jetbrains.com/clion/2023/11/clion-nova/)
-
-[Sharing Screen with GPT 4 vision](https://www.loom.com/share/9458bcbf79784162aa62ffb8dd66201b)
-
-[The Netwide Assembler (NASM)](https://www.nasm.us/)
-
-[Omegle 2009-2023](https://www.omegle.com/)
-
-[Olive oil soars, and thieves go after century-old trees in the Mediterranean](https://www.latimes.com/world-nation/story/2023-11-08/olive-oil-price-soars-thieves-target-old-trees)
+[I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA]()
 
 [You Win or You Learn](https://www.threads.net/@waxpancake/post/CzbS-cVuGgn)
+
+[Steam Deck OLED](https://store.steampowered.com/sale/steamdeck_2023)
+
+[Reverse engineering the Intel 386 processor's register cell](https://www.righto.com/2023/11/reverse-engineering-intel-386.html)
+
+[Introducing Adept Experiments – use AI workflows to delegate repetitive tasks](https://www.adept.ai/blog/experiments)
+
+[Show HN: Nango – Open unified API for product integrations](https://www.nango.dev?source=hn-nov-2023)

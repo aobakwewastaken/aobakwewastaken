@@ -3,18 +3,18 @@
 
 [Benchmarking GPT-4 Turbo – A Cautionary Tale](https://blog.mentat.ai/benchmarking-gpt-4-turbo-a-cautionary-tale)
 
-[Omegle 2009-2023](https://www.omegle.com/)
+[Zelda the Movie Shows Nintendo Has Learned Its Lessons](https://www.bloomberg.com/opinion/articles/2023-11-08/zelda-the-movie-shows-nintendo-has-learned-its-lesson)
+
+[Las Vegas Sphere reports $98.4M loss; CFO quits](https://lasvegassun.com/news/2023/nov/08/las-vegas-sphere-reports-984-million-loss-cfo-quit/)
+
+[CLion Nova Explodes onto the C and C++ Development Scene](https://blog.jetbrains.com/clion/2023/11/clion-nova/)
 
 [Sharing Screen with GPT 4 vision](https://www.loom.com/share/9458bcbf79784162aa62ffb8dd66201b)
 
 [The Netwide Assembler (NASM)](https://www.nasm.us/)
 
-[Using GPT-4 Vision with Vimium to browse the web](https://github.com/ishan0102/vimGPT)
+[Omegle 2009-2023](https://www.omegle.com/)
 
-[Show HN: QBasic 4.5 on Android](https://github.com/ianatha/bababasic)
+[Olive oil soars, and thieves go after century-old trees in the Mediterranean](https://www.latimes.com/world-nation/story/2023-11-08/olive-oil-price-soars-thieves-target-old-trees)
 
-[Apple and Irish Government suffer major setback in €13B EU case](https://www.irishtimes.com/business/2023/11/09/apple-and-irish-government-suffer-major-setback-in-13bn-eu-tax-case/)
-
-[We Need a Revolution](https://www.fairphone.com/en/2023/11/09/we-need-a-revolution/)
-
-[Researchers uncover the fastest semiconductor yet](https://spectrum.ieee.org/semiconductor)
+[You Win or You Learn](https://www.threads.net/@waxpancake/post/CzbS-cVuGgn)

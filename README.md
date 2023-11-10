@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[I Skipped to the Ending](https://danangell.com/blog/posts/i-skipped-to-the-ending/)
+
 [Cursorless is alien magic from the future](https://xeiaso.net/notes/cursorless-alien-magic/)
 
 [Apollo astronaut Frank Borman has died](https://www.washingtonpost.com/obituaries/2023/11/09/frank-borman-astronaut-eastern-dead/)
 
-[GPU advancements in M3 and A17 Pro [video]](https://developer.apple.com/videos/play/tech-talks/111375)
-
 [Link-Time Optimisation (LTO)](https://convolv.es/guides/lto/)
 
-[Switching to Elixir](https://www.leemeichin.com/posts/switching-to-elixir.html)
+[GPU advancements in M3 and A17 Pro [video]](https://developer.apple.com/videos/play/tech-talks/111375)
 
-[What I learned getting acquired by Google](https://shreyans.org/google)
-
-[An implementation of Common Lisp targeting Lua](https://codeberg.org/gsou/LCL)
-
-[I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA]()
+[Rust – Faster compilation with the parallel front-end in nightly](https://blog.rust-lang.org/2023/11/09/parallel-rustc.html)
 
 [EuclideanSpace](https://euclideanspace.com/)
 
-[Bayesian Structural Equation Modeling using blavaan](https://mc-stan.org/users/documentation/case-studies/sem.html)
+[Switching to Elixir](https://www.leemeichin.com/posts/switching-to-elixir.html)
+
+[An implementation of Common Lisp targeting Lua](https://codeberg.org/gsou/LCL)
+
+[Typing fast is about latency, not throughput](https://two-wrongs.com/typing-fast-is-about-latency-not-throughput)

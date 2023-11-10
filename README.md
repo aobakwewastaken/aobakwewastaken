@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Cursorless is alien magic from the future](https://xeiaso.net/notes/cursorless-alien-magic/)
+
+[Apollo astronaut Frank Borman has died](https://www.washingtonpost.com/obituaries/2023/11/09/frank-borman-astronaut-eastern-dead/)
+
+[GPU advancements in M3 and A17 Pro [video]](https://developer.apple.com/videos/play/tech-talks/111375)
+
+[Link-Time Optimisation (LTO)](https://convolv.es/guides/lto/)
+
+[Switching to Elixir](https://www.leemeichin.com/posts/switching-to-elixir.html)
+
 [What I learned getting acquired by Google](https://shreyans.org/google)
 
-[Implementing TCP in Rust](https://github.com/Ghvstcode/Rust-Tcp)
-
-[On Medieval Cats](https://going-medieval.com/2023/05/16/on-cats/)
-
-[Illinois Senate approves plan to allow new nuclear reactors](https://apnews.com/article/illinois-nuclear-small-modular-reactors-moratorium-a56a90a09185e864cdd7f5d6d24b9d48)
+[An implementation of Common Lisp targeting Lua](https://codeberg.org/gsou/LCL)
 
 [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA]()
 
-[You Win or You Learn](https://www.threads.net/@waxpancake/post/CzbS-cVuGgn)
+[EuclideanSpace](https://euclideanspace.com/)
 
-[Steam Deck OLED](https://store.steampowered.com/sale/steamdeck_2023)
-
-[Reverse engineering the Intel 386 processor's register cell](https://www.righto.com/2023/11/reverse-engineering-intel-386.html)
-
-[Introducing Adept Experiments – use AI workflows to delegate repetitive tasks](https://www.adept.ai/blog/experiments)
-
-[Show HN: Nango – Open unified API for product integrations](https://www.nango.dev?source=hn-nov-2023)
+[Bayesian Structural Equation Modeling using blavaan](https://mc-stan.org/users/documentation/case-studies/sem.html)

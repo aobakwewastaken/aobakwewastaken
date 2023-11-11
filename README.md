@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Fourteen Years of Go](https://go.dev/blog/14years)
+[Nicotine: On the benefits and lack of demerits of nicotine](https://gwern.net/nicotine)
 
 [Show HN: DataSheetGrid, an Airtable-like React component](https://react-datasheet-grid.netlify.app/)
 
-[If you could only have one programming book on bookshelf what would it be?](https://softwareengineering.stackexchange.com/questions/870/if-you-could-only-have-one-programming-related-book-on-your-bookshelf-what-would)
+[Nanoparticle-remodeled gut microbiota slows neurodegeneration via gut–brain axis](https://www.nature.com/articles/s43587-023-00516-9)
+
+[Show HN: I spent 6 months building a new C debugger as a 17-year-old](https://github.com/d4ckard/spray)
 
 [Debugging tricks in the browser](https://alan.norbauer.com/articles/browser-debugging-tricks)
 
+[Show HN: Generate pdf with gitbook or mdbook url](https://github.com/lufengd3/htmlbook2pdf)
+
 [When NASA Used an RC Tiger II to Drill into Space Shuttle Tires](https://tankhistoria.com/experimental/tire-assault-vehicle/)
 
-[Meticulous (YC S21) Is Hiring to Build AI for UI Testing]()
+[Google offered Netflix a sweetheart deal to pay just 10 percent on Google Play](https://www.theverge.com/23954852/google-netflix-app-store-deal-play-10-percent-revshare)
 
-[Nanoparticle-remodeled gut microbiota slows neurodegeneration via gut–brain axis](https://www.nature.com/articles/s43587-023-00516-9)
+[Ripple CEO says SEC has lost sight of mission to protect investors](https://www.cnbc.com/2023/11/11/ripple-ceo-says-sec-has-lost-sight-of-mission-to-protect-investors.html)
 
-[How to boss without being bossy](https://www.jeffwofford.com/?p=2089)
-
-[Suits ignored IT's warnings, so the tech team went for the neck](https://www.theregister.com/2023/11/10/on_call/)
-
-[Codex documenting Aztec culture now digitized](https://hyperallergic.com/855683/stunning-florentine-codex-documenting-aztec-culture-now-fully-digitized/)
+[Meta, YouTube face criminal spying complaints in Ireland](https://www.theregister.com/2023/11/11/meta_youtube_criminal_charges/)

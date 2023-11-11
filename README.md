@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Don't Build AI Products the Way Everyone Else Is Doing It](https://www.builder.io/blog/build-ai)
+[Debugging tricks in the browser](https://alan.norbauer.com/articles/browser-debugging-tricks)
 
-[The hijacking of $339,000 worth of rare Japanese KitKats](https://www.straitstimes.com/world/united-states/how-to-kidnap-339000-in-rare-japanese-kitkats)
+[How to boss without being bossy](https://www.jeffwofford.com/?p=2089)
 
-[Rare egg-laying mammal (echidna) rediscovered in Indonesia](https://www.cbc.ca/news/science/echidna-video-1.7024966)
+[Starship’s second flight test](https://www.spacex.com/launches/mission/?missionId=starship-flight-2)
 
-[Ottoman-Era Bird Palaces](https://www.thisiscolossal.com/2017/07/the-ornate-bird-palaces-of-ottoman-era-turkey/)
+[Don't build AI products the way everyone else is doing it](https://www.builder.io/blog/build-ai)
 
-[Nordic Is Getting Involved in RISC-V](https://blog.nordicsemi.com/getconnected/why-nordic-is-getting-involved-in-risc-v)
+[Hashmaps in Factor are faster than in Zig](https://re.factorcode.org/2023/11/factor-is-faster-than-zig.html)
 
-[How Steve Jobs Saved Apple with the Online Apple Store](https://appleinsider.com/articles/19/11/10/how-steve-jobs-saved-apple-with-the-online-apple-store)
-
-[Gigantic heat caverns in Mustikkamaa have now been filled with water (2021)](https://www.helen.fi/en/news/2021/gigantic-heat-caverns-in-mustikkamaa-filled)
+[Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
 
 [Real-time image editing using latent consistency models](https://twitter.com/krea_ai/status/1723067313392320607)
 
-[Texture Healing for Monospace Fonts](https://github.com/githubnext/monaspace/blob/main/docs/Texture%20Healing.md)
+[Attenborough’s long-beaked echidna rediscovered in Indonesia](https://www.cbc.ca/news/science/echidna-video-1.7024966)
 
-[Generating Code Without Generating Technical Debt?](https://sourcery.ai/blog/chatgpt-maintainable-code/)
+[The hijacking of rare Japanese KitKats](https://www.straitstimes.com/world/united-states/how-to-kidnap-339000-in-rare-japanese-kitkats)
+
+[Texture Healing for Monospace Fonts](https://github.com/githubnext/monaspace/blob/main/docs/Texture%20Healing.md)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [Debugging tricks in the browser](https://alan.norbauer.com/articles/browser-debugging-tricks)
 
+[When NASA Used an RC Tiger II to Drill into Space Shuttle Tires](https://tankhistoria.com/experimental/tire-assault-vehicle/)
+
 [How to boss without being bossy](https://www.jeffwofford.com/?p=2089)
 
-[Starship’s second flight test](https://www.spacex.com/launches/mission/?missionId=starship-flight-2)
+[Suits ignored IT's warnings, so the tech team went for the neck](https://www.theregister.com/2023/11/10/on_call/)
 
-[Don't build AI products the way everyone else is doing it](https://www.builder.io/blog/build-ai)
+[Gnome Receives €1M from German Government](https://www.omgubuntu.co.uk/2023/11/gnome-sovereign-tech-fund)
+
+[.NET 8 Standalone 50% Smaller On Linux](https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-8)
 
 [Hashmaps in Factor are faster than in Zig](https://re.factorcode.org/2023/11/factor-is-faster-than-zig.html)
 
-[Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
+[One of a Kind (2014)](https://www.newyorker.com/magazine/2014/07/21/one-of-a-kind-2)
 
 [Real-time image editing using latent consistency models](https://twitter.com/krea_ai/status/1723067313392320607)
 
-[Attenborough’s long-beaked echidna rediscovered in Indonesia](https://www.cbc.ca/news/science/echidna-video-1.7024966)
-
-[The hijacking of rare Japanese KitKats](https://www.straitstimes.com/world/united-states/how-to-kidnap-339000-in-rare-japanese-kitkats)
-
-[Texture Healing for Monospace Fonts](https://github.com/githubnext/monaspace/blob/main/docs/Texture%20Healing.md)
+[Conway and Doyle can divide by three, but I can't](https://arxiv.org/abs/2309.11634)

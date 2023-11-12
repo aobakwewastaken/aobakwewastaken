@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Casino-like apps have drained people of millions](https://www.nbcnews.com/tech/tech-news/addicted-losing-how-casino-apps-have-drained-people-millions-n1239604)
+
+[Globalisation is a far, far bigger deal than you think](https://edconway.substack.com/p/globalisation-is-a-far-far-bigger)
+
+[Scary Hasty](https://eclecticlight.co/2023/11/12/last-week-on-my-mac-scary-hasty/)
+
+[Speaker Support in Asahi Linux](https://github.com/AsahiLinux/docs/wiki/SW:Speakers)
+
 [Map of Space Invader Mosaics in Paris](https://pnote.eu/projects/invaders/map.html)
 
-[How to attach logic probes to tiny SMD components (2021)](https://reddit.com/r/AskElectronics/comments/qxpfxl/how_to_attach_logic_probes_to_tiny_smd_components/)
+[Archive Your Old Projects](https://arne.me/articles/archive-your-old-projects)
 
-[Win-Vind: Vim key binder for Windows](https://pit-ray.github.io/win-vind/)
+[GPU Survival Toolkit for the AI age: The bare minimum every developer must know](https://journal.hexmos.com/gpu-survival-toolkit/)
 
-[6502 back end for LLVM (2022) [video]](https://www.youtube.com/watch?v=2lW3WHPtmKo)
+[Stanford Data Science Handbook](https://datascience.stanford.edu/programs/stanford-data-science-scholars-program/data-science-handbook)
 
-[The Apple Network Server's all-too-secret weapon (featuring PPC Toolbox)](http://oldvcr.blogspot.com/2023/11/the-apple-network-servers-all-too.html)
+[Serverless at Scale: Lessons from 200M Lambda Invocations](https://insights.adadot.com/2023/11/10/serverless-at-scale-lessons-from-200-million-lambda-invocations/)
 
-[Business questions worth asking](https://gmays.com/business-questions-worth-asking/)
-
-[It's still easy for anyone to become you at Experian](https://krebsonsecurity.com/2023/11/its-still-easy-for-anyone-to-become-you-at-experian/)
-
-[Why the Human Brain Perceives Small Numbers Better](https://www.quantamagazine.org/why-the-human-brain-perceives-small-numbers-better-20231109/)
-
-[Unearthing Gems in an Archive of Rock Star Interviews](https://www.atlasobscura.com/articles/katz-collection-rock-star-interviews)
-
-[An Overview of Nix in Practice](https://www.slice.zone/blog/nix-in-practice)
+[RIP Google Groups Dejanews.com Archive](http://dejanews.com/)

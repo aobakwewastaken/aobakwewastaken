@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [Don't waste money on a math coprocessor they said](https://virtuallyfun.com/2023/11/12/dont-waste-money-on-a-math-coprocessor-they-said/)
 
-[Ten Lessons I Wish I Had Learned Before Teaching Differential Equations [pdf]](https://web.williams.edu/Mathematics/lg5/Rota.pdf)
+[Lessons I wish I had learned before teaching differential equations [pdf]](https://web.williams.edu/Mathematics/lg5/Rota.pdf)
+
+[Ship Shape](https://www.canva.dev/blog/engineering/ship-shape/)
+
+[Terry Pratchett and the Maggi Soup Adverts (2011)](https://gmkeros.wordpress.com/2011/09/02/terry-pratchett-and-the-maggi-soup-adverts/)
+
+[RFC 9420 – A Messaging Layer Security Overview](https://www.thestack.technology/rfc9420-ietf-mls-standard/)
 
 [Beg Bounties (2021)](https://www.troyhunt.com/beg-bounties/)
-
-[Show HN: Open-source digital stylus with six degrees of freedom](https://github.com/Jcparkyn/dpoint)
 
 [Hacking a 25 Year Old Game to Make It Work [video]](https://www.youtube.com/watch?v=eQOOx4mmY6I)
 
 [RISC-V with Linux 6.7 Gains Optimized TLB Flushing, Software Shadow Call Stacks](https://www.phoronix.com/news/Linux-6.7-RISC-V)
 
-[RFC 9420 – A Messaging Layer Security Overview](https://www.thestack.technology/rfc9420-ietf-mls-standard/)
+[From Aristocratic to Ordinary: Shifting Modes of Elite Distinction (2020)](https://journals.sagepub.com/doi/full/10.1177/0003122420912941)
 
-[Run LLMs on my own Mac fast and efficient Only 2 MBs](https://www.secondstate.io/articles/fast-llm-inference/)
-
-[Role play with large language models](https://www.nature.com/articles/s41586-023-06647-8)
-
-[SRAM in AI: The Future of Memory](https://semiengineering.com/sram-in-ai-the-future-of-memory/)
+[Ruby on Rails: The Documentary [video]](https://www.youtube.com/watch?v=HDKUEXBF3B4)

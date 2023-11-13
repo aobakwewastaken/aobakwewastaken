@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Don't waste money on a math coprocessor they said](https://virtuallyfun.com/2023/11/12/dont-waste-money-on-a-math-coprocessor-they-said/)
-
-[Lessons I wish I had learned before teaching differential equations [pdf]](https://web.williams.edu/Mathematics/lg5/Rota.pdf)
-
 [Ship Shape](https://www.canva.dev/blog/engineering/ship-shape/)
 
-[Terry Pratchett and the Maggi Soup Adverts (2011)](https://gmkeros.wordpress.com/2011/09/02/terry-pratchett-and-the-maggi-soup-adverts/)
+[To free the Baltic grid, old technology is new again](https://spectrum.ieee.org/baltic-power-grid)
 
-[RFC 9420 – A Messaging Layer Security Overview](https://www.thestack.technology/rfc9420-ietf-mls-standard/)
+[Cathode-Retro: A collection of shaders to emulate the display of an NTSC signal](https://github.com/DeadlyRedCube/Cathode-Retro)
 
-[Beg Bounties (2021)](https://www.troyhunt.com/beg-bounties/)
+[Lessons I wish I had learned before teaching differential equations [pdf] (1997)](https://web.williams.edu/Mathematics/lg5/Rota.pdf)
 
-[Hacking a 25 Year Old Game to Make It Work [video]](https://www.youtube.com/watch?v=eQOOx4mmY6I)
+[Don't waste money on a math coprocessor they said](https://virtuallyfun.com/2023/11/12/dont-waste-money-on-a-math-coprocessor-they-said/)
 
-[RISC-V with Linux 6.7 Gains Optimized TLB Flushing, Software Shadow Call Stacks](https://www.phoronix.com/news/Linux-6.7-RISC-V)
+[Loro: Reimagine state management with CRDTs](https://www.loro.dev/blog/loro-now-open-source)
 
-[From Aristocratic to Ordinary: Shifting Modes of Elite Distinction (2020)](https://journals.sagepub.com/doi/full/10.1177/0003122420912941)
+[Unity announces layoffs despite increased revenue and reduced losses](https://www.gamesindustry.biz/unity-announces-layoffs-despite-increased-revenue-and-reduced-losses)
 
-[Ruby on Rails: The Documentary [video]](https://www.youtube.com/watch?v=HDKUEXBF3B4)
+[Tragedy of return to hostile offices](https://benjiweber.co.uk/blog/2023/11/12/tragedy-of-return-to-hostile-offices/)
+
+[Reasons to Prefer Blake3 over Sha256](https://peergos.org/posts/blake3)
+
+[A Design History of L.A.'S Dingbat Apartment Buildings (2021)](https://www.bloomberg.com/news/features/2021-09-24/a-design-history-of-l-a-s-dingbat-apartment-buildings)

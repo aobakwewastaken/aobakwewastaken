@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[EU Parliament Decides That Your Private Messages Must Not Be Scanned](https://tuta.com/blog/chat-control)
+[A Lot of Damage in Grindavík](https://icelandmonitor.mbl.is/news/news/2023/11/13/a_lot_of_damage_in_grindavik/)
 
-[Rust Without Crates.io](https://thomask.sdf.org/blog/2023/11/14/rust-without-crates-io.html)
+[Blender 4.0](https://wiki.blender.org/wiki/Reference/Release_Notes/4.0)
 
 [Placemark is going open source and shutting down](https://macwright.com/2023/11/13/placemark)
 
 [Constraints On Physical Computers In Holographic Spacetimes](https://arxiv.org/abs/2304.09900)
 
-[A coder considers the waning days of the craft](https://www.newyorker.com/magazine/2023/11/20/a-coder-considers-the-waning-days-of-the-craft)
+[Starship will attempt a launch this Friday](https://www.fly.faa.gov/adv/adv_spt.jsp)
 
-[Designing a programming language to speedrun Advent of Code](https://blog.vero.site/post/noulith)
+[Announcing the MonoGame Foundation](https://community.monogame.net/t/announcing-the-monogame-foundation/19809)
 
-[Building an occupancy sensor with a $5 ESP32 and a serverless DB](https://matthew.science/posts/occupancy/)
+[Lapce Editor 0.3](https://github.com/lapce/lapce/releases/tag/v0.3.0)
 
-[Inequalities, convergence, and continuity as "special deals"](https://terrytao.wordpress.com/2023/06/04/inequalities-convergence-and-continuity-as-special-deals/)
+[NaNoWriMo: National Novel Writing Month](https://nanowrimo.org/)
 
-[X is changing its algorithm to highlight smaller accounts](https://techcrunch.com/2023/11/13/elon-musk-says-x-is-changing-its-algorithm-to-highlight-smaller-accounts/)
+[Backblaze Drive Stats for Q3 2023](https://www.backblaze.com/blog/backblaze-drive-stats-for-q3-2023/)
 
-[Lets build an Amiga Network Adapter [video]](https://www.youtube.com/watch?v=sx9X0bjj6_8)
+[Treble.ai (YC S19) Is Hiring Spainish Speaking Product Engineers in NYC](https://www.ycombinator.com/companies/treble-ai/jobs/tL8GeWc-full-stack-software-engineer)

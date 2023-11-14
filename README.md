@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Starship will attempt a launch this Friday](https://www.fly.faa.gov/adv/adv_spt.jsp)
+
+[A coder considers the waning days of the craft](https://www.newyorker.com/magazine/2023/11/20/a-coder-considers-the-waning-days-of-the-craft)
+
 [Building an occupancy sensor with a $5 ESP32 and a serverless DB](https://matthew.science/posts/occupancy/)
 
-[Future is quantum: universities look to train engineers for an emerging industry](https://www.nature.com/articles/d41586-023-03511-7)
+[Low current around roots boosts plant growth](https://www.nature.com/articles/d44151-023-00162-5)
+
+[The Best Timed Shot in TV History (Probably)](https://greekreporter.com/2023/11/09/best-timed-shot-tv-history/)
+
+[Maxar's Open Satellite Feed](https://tech.marksblogg.com/maxar-open-data-free-satellite-imagery.html)
+
+[Nepal bans TikTok and says it disrupts social harmony](https://apnews.com/article/nepal-tiktok-ban-social-media-854846a42ef566fa296ddaacd0099447)
 
 [Hacking Google Bard – From Prompt Injection to Data Exfiltration](https://embracethered.com/blog/posts/2023/google-bard-data-exfiltration/)
 
-[Discouraging the use of web application firewalls](https://www.macchaffee.com/blog/2023/wafs/)
+[Designing a programming language to speedrun Advent of Code](https://blog.vero.site/post/noulith)
 
-[Smarter summaries with finetuning GPT-3.5 and chain of density](https://jxnl.github.io/instructor/blog/2023/11/05/chain-of-density/)
-
-[Principles are products of practice, not the reverse](https://alsado.ca/posts/principles-are-products-of-practice/)
-
-[Black goo is the new oscilloscope: Love Hultén's ferrofluid synths](https://cdm.link/2023/11/black-goo-ferrofluid-synths/)
-
-[Ship Shape](https://www.canva.dev/blog/engineering/ship-shape/)
-
-[We've learned nothing from the SolarWinds hack](https://www.macchaffee.com/blog/2023/solarwinds-hack-lessons-learned/)
-
-[HTML Web Components](https://blog.jim-nielsen.com/2023/html-web-components/)
+[The laptop that won't die](https://clivethompson.medium.com/the-laptop-that-wont-die-0c478c3fe46c)

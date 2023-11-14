@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[A Lot of Damage in Grindavík](https://icelandmonitor.mbl.is/news/news/2023/11/13/a_lot_of_damage_in_grindavik/)
+[Reptar](https://lock.cmpxchg8b.com/reptar.html)
 
-[US Confidence in Higher Education Institutions Continues Long Decline](https://news.gallup.com/poll/508352/americans-confidence-higher-education-down-sharply.aspx)
+[GraphCast: AI model for weather forecasting](https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/)
 
-[Electric heat to cost 77 percent more than natural gas, federal agency says](https://denvergazette.com/news/business/federal-agency-predicts-a-77-jump-in-electric-heating-costs/article_3a39bdae-803c-11ee-9763-6babdd47599f.html)
+[Google is suing AI scammers and fake DMCA takedown submitters](https://blog.google/outreach-initiatives/public-policy/taking-legal-action-to-protect-users-of-ai-and-small-businesses/)
 
-[Blender 4.0](https://wiki.blender.org/wiki/Reference/Release_Notes/4.0)
+[Music painted on wall of a Venetian orphanage will be heard 250 years later](https://theconversation.com/music-painted-on-the-wall-of-a-venetian-orphanage-will-be-heard-again-nearly-250-years-later-211995)
 
-[Placemark is going open source and shutting down](https://macwright.com/2023/11/13/placemark)
+[A decade of developing a programming language](https://yorickpeterse.com/articles/a-decade-of-developing-a-programming-language/)
 
-[Replacing HLS/Dash – Live Mass Fanout with Media over QUIC](https://quic.video/blog/replacing-hls-dash/)
+[CacheWarp: A new software fault attack on AMD SEV-ES and SEV-SNP](https://cachewarpattack.com/)
 
-[Constraints On Physical Computers In Holographic Spacetimes](https://arxiv.org/abs/2304.09900)
+[Firmware Software Bill of Materials (SBoM) Proposal](https://uefi.org/blog/firmware-sbom-proposal)
 
-[Announcing the MonoGame Foundation](https://community.monogame.net/t/announcing-the-monogame-foundation/19809)
+[IcePanel (YC W23) is hiring in Vancouver, Canada](https://icepanel.io/careers)
 
-[Backblaze Drive Stats for Q3 2023](https://www.backblaze.com/blog/backblaze-drive-stats-for-q3-2023/)
+[YJIT is the most memory-efficient Ruby JIT](https://railsatscale.com/2023-11-07-yjit-is-the-most-memory-efficient-ruby-jit/)
 
-[Starship will attempt a launch this Friday](https://www.fly.faa.gov/adv/adv_spt.jsp)
+[Music ControlNet: Multiple Time-Varying Controls for Music Generation](https://musiccontrolnet.github.io/web/)

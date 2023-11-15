@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[U.S. reenters the nuclear fuel game](https://spectrum.ieee.org/nuclear-power-plant-2666199640)
+
 [Reptar](https://lock.cmpxchg8b.com/reptar.html)
+
+[I accidentally a scheme](https://wingolog.org/archives/2023/11/13/i-accidentally-a-scheme)
+
+[ARRL hails FCC action to remove symbol rate restrictions](https://www.arrl.org/news/arrl-hails-fcc-action-to-remove-symbol-rate-restrictions)
+
+[The Architecture of Serverless Data Systems](https://jack-vanlightly.com/blog/2023/11/14/the-architecture-of-serverless-data-systems)
+
+[Gym Class VR (YC W22 – Top Sports VR Game) Hiring Lead Back End Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-lead-backend-engineering)
 
 [GraphCast: AI model for weather forecasting](https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/)
 
-[Google is suing AI scammers and fake DMCA takedown submitters](https://blog.google/outreach-initiatives/public-policy/taking-legal-action-to-protect-users-of-ai-and-small-businesses/)
-
-[Music painted on wall of a Venetian orphanage will be heard 250 years later](https://theconversation.com/music-painted-on-the-wall-of-a-venetian-orphanage-will-be-heard-again-nearly-250-years-later-211995)
+[Is the reversal curse in LLMs real?](https://andrewmayne.com/2023/11/14/is-the-reversal-curse-real/)
 
 [A decade of developing a programming language](https://yorickpeterse.com/articles/a-decade-of-developing-a-programming-language/)
 
-[CacheWarp: A new software fault attack on AMD SEV-ES and SEV-SNP](https://cachewarpattack.com/)
-
-[Firmware Software Bill of Materials (SBoM) Proposal](https://uefi.org/blog/firmware-sbom-proposal)
-
-[IcePanel (YC W23) is hiring in Vancouver, Canada](https://icepanel.io/careers)
-
-[YJIT is the most memory-efficient Ruby JIT](https://railsatscale.com/2023-11-07-yjit-is-the-most-memory-efficient-ruby-jit/)
-
-[Music ControlNet: Multiple Time-Varying Controls for Music Generation](https://musiccontrolnet.github.io/web/)
+[Detexify: LaTeX Handwriting Symbol Recognition](https://detexify.kirelabs.org/classify.html)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[DOS_deck: Play DOS games in the browser with full controller support](https://dosdeck.com/)
+[OpenSubtitles is not open anymore](https://blog.opensubtitles.com/opensubtitles/saying-goodbye-to-opensubtitles-org-api-embrace-the-20-black-friday-treat)
 
-[The Extreme Ambitions of West Bank Settlers](https://www.newyorker.com/news/q-and-a/the-extreme-ambitions-of-west-bank-settlers)
+[Printed robots with bones, ligaments, and tendons](https://ethz.ch/en/news-and-events/eth-news/news/2023/11/printed-robots-with-bones-ligaments-and-tendons.html)
 
-[The push to save the Itanium architecture in Linux](https://lwn.net/SubscriberLink/950466/0999d63fdf270781/)
+[Smart drugs reduce quality of effort, and slow decision-making](https://www.bps.org.uk/research-digest/smart-drugs-arent-so-smart-after-all)
 
-[Push ifs up and fors down](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
+[Operating an Entire Company on a Minimal Two-Core PostgreSQL Instance, Part 1](https://robertrode.com/2023/11/15/operating-an-entire-company-on-a-minimal-two-core-postgresql-instance-query-optimization-insights-part-1.html)
+
+[Serverless development experience for embedded computer vision](https://github.com/pipeless-ai/pipeless)
 
 [I think I need to go lie down](https://twitter.com/multikev/status/1724908185361011108)
 
-[Blender 16yo winner of UK young animator of the year](https://younganimator.uk/winner/1699875910225x437970782709919500)
+[DOS_deck: Play DOS games in the browser with full controller support](https://dosdeck.com/)
 
-[The truth is always made of details](https://www.raptitude.com/2023/10/the-truth-is-always-made-of-details/)
+[Show HN: Near-realtime cloud maps for weather visualisation, 3D models and more](https://github.com/matteason/live-cloud-maps)
 
-[Show HN: Convert any screenshot into clean HTML code using GPT Vision (OSS tool)](https://github.com/abi/screenshot-to-code)
+[Escaping the Edge sandbox: A bug that speaks for itself](https://microsoftedge.github.io/edgevr/posts/Escaping-the-sandbox-A-bug-that-speaks-for-itself/)
 
-[B-trees in Factorio](https://razberry.substack.com/p/btree-factorio)
-
-[The Great Sphinx of Giza may have have started out as a natural formation](https://arstechnica.com/science/2023/11/study-reveals-how-natural-processes-helped-sculpt-the-great-sphinx-of-giza/)
+[Types of Conversations with Generative AI](https://www.nngroup.com/articles/AI-conversation-types/)

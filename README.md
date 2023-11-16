@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[The Linux realtime preemption endgame is near](https://lwn.net/SubscriberLink/951337/e9139cdb65a9cb93/)
+[Show HN: Tiny LLMs – Browser-based private AI models for a wide array of tasks](https://tinyllms.vercel.app/dashboard)
 
-[Melatonin use soars among children, with unknown risks](https://www.colorado.edu/today/2023/11/13/melatonin-use-soars-among-children-unknown-risks)
+[The real realtime preemption end game](https://lwn.net/SubscriberLink/951337/e9139cdb65a9cb93/)
 
-[From email to phone number, a new OSINT approach](https://www.martinvigo.com/email2phonenumber/)
+[Migrating to OpenTelemetry](https://www.airplane.dev/blog/migrating-to-opentelemetry)
 
-[Show HN: Numbat – A programming language with physical dimensions as types](https://numbat.dev/articles/intro.html)
+[From email to phone number, a new OSINT approach (2019)](https://www.martinvigo.com/email2phonenumber/)
 
-[Smart drugs reduce quality of effort, and slow decision-making](https://www.bps.org.uk/research-digest/smart-drugs-arent-so-smart-after-all)
+[Emu Video and Emu Edit, our latest generative AI research milestones](https://ai.meta.com/blog/emu-text-to-video-generation-image-editing-research/)
 
-[Show HN: Beak.js – Custom conversational assistants for your React app](https://github.com/mme/beakjs)
+[Sweden Gov Announces 'Massive Expansion' of Nuclear Energy](https://greeninvesting.co/2023/11/sweden-gov-announces-massive-expansion-of-nuclear-energy/)
 
-[Operating an Entire Company on a Minimal Two-Core PostgreSQL Instance, Part 1](https://robertrode.com/2023/11/15/operating-an-entire-company-on-a-minimal-two-core-postgresql-instance-query-optimization-insights-part-1.html)
+[Zimbra 0-day used to steal email data from government organizations](https://blog.google/threat-analysis-group/zimbra-0-day-used-to-target-international-government-organizations/)
 
-[Printed robots with bones, ligaments, and tendons](https://ethz.ch/en/news-and-events/eth-news/news/2023/11/printed-robots-with-bones-ligaments-and-tendons.html)
+[In-person YC Startup Tech Talk and hiring mixer on 12/4 in SF]()
 
-[OpenSubtitles is not open anymore](https://blog.opensubtitles.com/opensubtitles/saying-goodbye-to-opensubtitles-org-api-embrace-the-20-black-friday-treat)
+[Show HN: I made a really silly personal landing page](https://davidadler.pages.dev/)
 
-[I think I need to go lie down](https://twitter.com/multikev/status/1724908185361011108)
+[OCapN, Interoperable Capabilities over the Network](https://spritely.institute/news/introducing-ocapn-interoperable-capabilities-over-the-network.html)

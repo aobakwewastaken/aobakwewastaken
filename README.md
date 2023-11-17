@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Show HN: Tiny LLMs – Browser-based private AI models for a wide array of tasks](https://tinyllms.vercel.app/dashboard)
+[I spent 3 years working on a coat hanger [video]](https://www.youtube.com/watch?v=vREokZa4dNU)
 
-[The real realtime preemption end game](https://lwn.net/SubscriberLink/951337/e9139cdb65a9cb93/)
+[Moving Away from Substack](https://prakgupta.com/blog/moving_away_from_substack)
 
-[Migrating to OpenTelemetry](https://www.airplane.dev/blog/migrating-to-opentelemetry)
+[UnitedHealth uses AI model with 90% error rate to deny care, lawsuit alleges](https://arstechnica.com/health/2023/11/ai-with-90-error-rate-forces-elderly-out-of-rehab-nursing-homes-suit-claims/)
 
-[From email to phone number, a new OSINT approach (2019)](https://www.martinvigo.com/email2phonenumber/)
+[YouTube Dream Track AI Music Experiment (clones pop stars voices)](https://blog.youtube/inside-youtube/ai-and-music-experiment/)
 
-[Emu Video and Emu Edit, our latest generative AI research milestones](https://ai.meta.com/blog/emu-text-to-video-generation-image-editing-research/)
+[What Meta learned from Galactica, the doomed model](https://venturebeat.com/ai/what-meta-learned-from-galactica-the-doomed-model-launched-two-weeks-before-chatgpt/)
 
-[Sweden Gov Announces 'Massive Expansion' of Nuclear Energy](https://greeninvesting.co/2023/11/sweden-gov-announces-massive-expansion-of-nuclear-energy/)
+[Disks lie. And the controllers that run them are partners in crime (2012)](https://dl.acm.org/doi/10.1145/2367376.2367378)
 
-[Zimbra 0-day used to steal email data from government organizations](https://blog.google/threat-analysis-group/zimbra-0-day-used-to-target-international-government-organizations/)
+[Air Accident Investigation Branch: film lights caused window damage on A321neo](https://www.flightradar24.com/blog/aaib-says-film-lights-caused-window-damage-on-titan-a321neo/)
 
-[In-person YC Startup Tech Talk and hiring mixer on 12/4 in SF]()
+[I used AI to make an app to help me with my ADHD](https://github.com/timsayshey/cringe-clock/blob/main/README.md)
 
-[Show HN: I made a really silly personal landing page](https://davidadler.pages.dev/)
+[Arithmetic in Computer Hardware](https://thelast19digitsofpi.github.io/hardware-explorations/dist/index.html)
 
-[OCapN, Interoperable Capabilities over the Network](https://spritely.institute/news/introducing-ocapn-interoperable-capabilities-over-the-network.html)
+[Apple announces that RCS support is coming to iPhone next year](https://9to5mac.com/2023/11/16/apple-rcs-coming-to-iphone/)

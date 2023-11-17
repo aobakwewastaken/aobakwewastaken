@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[I spent 3 years working on a coat hanger [video]](https://www.youtube.com/watch?v=vREokZa4dNU)
+[OpenAI's board has fired Sam Altman](https://openai.com/blog/openai-announces-leadership-transition)
 
-[Bits of Advice for 30 Years](https://arne.me/articles/30-bits-of-advice-for-30-years)
+[The Mirai Confessions: Three Young Hackers Who Built a Web-Killing Monster](https://www.wired.com/story/mirai-untold-story-three-young-hackers-web-killing-monster/)
 
-[Ethernet Is Still Going Strong After 50 Years](https://spectrum.ieee.org/ethernet-ieee-milestone)
+[Electric vehicle battery prices are falling faster than expected](https://www.goldmansachs.com/intelligence/pages/electric-vehicle-battery-prices-falling.html)
 
-[Made in China 2025](https://en.wikipedia.org/wiki/Made_in_China_2025)
+[Show HN: nbi.ai – Generative Business Intelligence](https://www.narrative.bi/ai)
 
-[Emacs-ng: A project to integrate Deno and WebRender into Emacs](https://github.com/emacs-ng/emacs-ng)
+[A game about staring into the eyes of a stranger](https://stranger.video/)
 
-[Wikidata, with 12B facts, can ground LLMs to improve their factuality](https://twitter.com/WikiResearch/status/1723966761962520824)
+[Deobfuscating World of Warships' Python Scripts](https://landaire.net/world-of-warships-deobfuscation/)
 
-[The Changing "Guarantees" Given by Python's Global Interpreter Lock](https://stefan-marr.de/2023/11/python-global-interpreter-lock/)
+[How the gas turbine conquered the electric power industry](https://www.construction-physics.com/p/how-the-gas-turbine-conquered-the)
 
-[280M e-bikes and mopeds are cutting demand for oil far more than electric cars](https://theconversation.com/the-worlds-280-million-electric-bikes-and-mopeds-are-cutting-demand-for-oil-far-more-than-electric-cars-213870)
+[UpCodes (YC S17) Is Hiring a Recruiter to Help Build Out Remote Team](https://up.codes/careers?utm_source=HN)
 
-[Show HN: Build and deploy a managed Postgres database from ChatGPT](https://chat.openai.com/g/g-A3ueeULl8-database-builder)
+[The state of silicon and the GPU poors](https://www.latent.space/p/semianalysis)
 
-[YouTube Copyright ID Scammers Must Pay Artists $3.3M Restitution](https://torrentfreak.com/youtube-copyright-id-scammers-must-pay-artists-3-3m-restitution-231116/)
+[A PCIe Coral TPU Finally Works on Raspberry Pi 5](https://www.jeffgeerling.com/blog/2023/pcie-coral-tpu-finally-works-on-raspberry-pi-5)

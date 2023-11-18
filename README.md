@@ -5,16 +5,16 @@
 
 [GTK: Introducing Graphics Offload](https://blog.gtk.org/2023/11/15/introducing-graphics-offload/)
 
-[Show HN: ColBERT Build from Sentence Transformers](https://github.com/raphaelsty/neural-cherche)
-
-[OpenVMS Account at DECUServe](https://eisner.decus.org/online/)
-
-[New York may ban noncompete employment agreements and Wall Street is not happy](https://fortune.com/2023/11/16/new-york-may-ban-noncompete-employment-agreements-wall-street-not-happy-kathy-hochul/)
-
-[Starship Integrated Flight Test 2 at 7 Am Central Time](https://twitter.com/i/flow/login?redirect_after_login=%2Fi%2Fbroadcasts%2F1dRKZEWQvrXxB)
+[Masterpiece Was Hanging Above an Elderly French Woman's Hot Plate](https://www.smithsonianmag.com/smart-news/forgotten-268-million-cimabue-painting-found-in-an-elderly-womans-home-heads-to-the-louvre-180983280/)
 
 [Second Reality for Apple II](http://deater.net/weave/vmwprod/second/)
 
-[I Hacked the Magic Mouse](https://uplab.pro/2023/11/i-hacked-the-magic-mouse/)
+[Cryptographers Solve Decades-Old Privacy Problem](https://nautil.us/cryptographers-solve-decades-old-privacy-problem-444899/)
 
-[Eoops: An object-oriented programming system for Emacs-Lisp](https://dl.acm.org/doi/10.1145/147135.147248)
+[Show HN: ColBERT Build from Sentence Transformers](https://github.com/raphaelsty/neural-cherche)
+
+[More people should write (2012)](https://jsomers.net/blog/more-people-should-write)
+
+[New York may ban noncompete employment agreements and Wall Street is not happy](https://fortune.com/2023/11/16/new-york-may-ban-noncompete-employment-agreements-wall-street-not-happy-kathy-hochul/)
+
+[OpenVMS Account at DECUServe](https://eisner.decus.org/online/)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [OpenAI's board has fired Sam Altman](https://openai.com/blog/openai-announces-leadership-transition)
 
-[The Mirai Confessions: Three Young Hackers Who Built a Web-Killing Monster](https://www.wired.com/story/mirai-untold-story-three-young-hackers-web-killing-monster/)
+[I Hacked the Magic Mouse](https://uplab.pro/2023/11/i-hacked-the-magic-mouse/)
 
-[Electric vehicle battery prices are falling faster than expected](https://www.goldmansachs.com/intelligence/pages/electric-vehicle-battery-prices-falling.html)
+[Text adventure ported to social media](https://www.threads.net/@80snostalgia/post/CzpPPuxNgDj)
 
-[Show HN: nbi.ai – Generative Business Intelligence](https://www.narrative.bi/ai)
+[Magic Carpet Ride](http://vestoj.com/magic-carpet-ride/)
+
+[Xash3D: An open-source reimplementation of Half-Life](https://github.com/FWGS/xash3d-fwgs)
+
+[LMAX Disruptor – High Performance Inter-Thread Messaging Library](https://lmax-exchange.github.io/disruptor/)
+
+[Old engineering simulation games, now open source [pdf]](https://github.com/sim-museum/esports-for-engineers/blob/master/files/syllabusFor_eSportsForEngineers.pdf)
+
+[Apostrophe Protection Society](https://www.apostrophe.org.uk)
 
 [A game about staring into the eyes of a stranger](https://stranger.video/)
 
-[Deobfuscating World of Warships' Python Scripts](https://landaire.net/world-of-warships-deobfuscation/)
-
-[How the gas turbine conquered the electric power industry](https://www.construction-physics.com/p/how-the-gas-turbine-conquered-the)
-
-[UpCodes (YC S17) Is Hiring a Recruiter to Help Build Out Remote Team](https://up.codes/careers?utm_source=HN)
-
-[The state of silicon and the GPU poors](https://www.latent.space/p/semianalysis)
-
-[A PCIe Coral TPU Finally Works on Raspberry Pi 5](https://www.jeffgeerling.com/blog/2023/pcie-coral-tpu-finally-works-on-raspberry-pi-5)
+[Electric vehicle battery prices are falling faster than expected](https://www.goldmansachs.com/intelligence/pages/electric-vehicle-battery-prices-falling.html)

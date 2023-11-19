@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Deep Learning Course](https://fleuret.org/dlc/)
+[Lindenmayer Systems](https://vsekar.me/blog/log_coffee/chapter_0.html)
 
-[Why Dumb Ideas Capture Smart and Successful People](https://www.robkhenderson.com/p/how-dumb-ideas-capture-smart-and)
+[Comparing Humans, GPT-4, and GPT-4V on Abstraction and Reasoning Tasks](https://arxiv.org/abs/2311.09247)
+
+[Victor Mono Typeface](https://rubjo.github.io/victor-mono/)
 
 [Zero-k: A libre sci-fi RTS game, with an economy based on metal and energy](https://zero-k.info/)
 
-[FSL: A License for the Bazaar, Not the Cathedral](https://lucumr.pocoo.org/2023/11/19/cathedral-and-bazaaar-licensing/)
+[Deep Learning Course](https://fleuret.org/dlc/)
+
+[Kyutai AI research lab with a $330M budget that will make everything open source](https://techcrunch.com/2023/11/17/kyutai-is-an-french-ai-research-lab-with-a-330-million-budget-that-will-make-everything-open-source/)
+
+[Show HN: YouTube banned adblockers so I built an extension to skip their ads]()
+
+[Rational Ritual: Why everyone needs to know what everyone knows (2020)](https://www.ian-leslie.com/p/the-ruffian-special-edition-book)
+
+[Should I replace my 56k modem with a 28.8K Modem? (2001)](https://forums.anandtech.com/threads/should-i-replace-my-56k-modem-with-a-28-8k-modem.437516/)
 
 [Ask HN: Any comprehensive courses on Auth?]()
-
-[BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-
-[Rational Ritual: Why Everyone Needs to Know What Everyone Knows](https://www.ian-leslie.com/p/the-ruffian-special-edition-book)
-
-[HandBrake 1.7.0 – The open source video transcoder](https://forum.handbrake.fr/viewtopic.php?t=43311)
-
-[An asteroid will occult Betelgeuse on December 12th](https://www.universetoday.com/164299/an-asteroid-will-occult-betelgeuse-on-december-12th/)
-
-[Infocom-zcode-terps: Historical source code for Infocom's Z-machine interpreters](https://github.com/erkyrath/infocom-zcode-terps)

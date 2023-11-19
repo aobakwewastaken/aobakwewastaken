@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[HoneyPot – I Made a Text Field Only Bots Use – Heres What Happened](https://github.com/lee101/hidden-form-on-the-internet)
+
+[The hidden beauty of Berlin's indoor pools](https://www.bbc.com/travel/article/20231116-the-hidden-beauty-of-berlins-indoor-pools)
+
+[An asteroid will occult Betelgeuse on December 12th](https://www.universetoday.com/164299/an-asteroid-will-occult-betelgeuse-on-december-12th/)
+
+[Infocom-zcode-terps: Historical source code for Infocom's Z-machine interpreters](https://github.com/erkyrath/infocom-zcode-terps)
+
 [Frigate: Open-source network video recorder with real-time AI object detection](https://frigate.video/)
 
-[Cryptographers solve decades-old privacy problem](https://nautil.us/cryptographers-solve-decades-old-privacy-problem-444899/)
+[ASCII-Gen, a Rust CLI tool that converts images to ASCII art](https://github.com/thed24/ascii-gen)
 
-[Suddenly I Understand Software](https://johnwhiles.com/posts/programming-as-theory)
+[Why aren't motherboards mostly USB-C by now? (2021)](https://philip.greenspun.com/blog/2021/03/22/why-arent-motherboards-mostly-usb-c-by-now/)
 
-[Starship Integrated Flight Test 2 at 7 Am Central Time](https://www.spacex.com/launches/mission/?missionId=starship-flight-2)
+[Teddy Roosevelt pursues the boat thieves](https://www.nps.gov/thro/learn/historyculture/roosevelt-pursues-boat-thieves.htm)
 
-[Death by AI – a free Jackbox style party game. AI judges your plans to survive](https://deathbyai.gg)
+[MRSA lives in your nose; swab before surgery](https://now.uiowa.edu/news/2013/06/be-gone-bacteria)
 
-[An automatic indexing system for Postgres](https://pganalyze.com/blog/automatic-indexing-system-postgres-pganalyze-indexing-engine)
-
-[NilAway: Practical nil panic detection for Go](https://www.uber.com/en-NL/blog/nilaway-practical-nil-panic-detection-for-go/)
-
-[Tesorio (YC S15) Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
-
-[Pig brain function under extracorporeal pulsatile circulatory control](https://www.nature.com/articles/s41598-023-39344-7)
-
-[Details emerge of surprise board coup that ousted CEO Sam Altman at OpenAI](https://arstechnica.com/information-technology/2023/11/report-sutskever-led-board-coup-at-openai-that-ousted-altman-over-ai-safety-concerns/)
+[Meta disbanded its Responsible AI team](https://www.theverge.com/2023/11/18/23966980/meta-disbanded-responsible-ai-team-artificial-intelligence)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[It's time for a change: datetime.utcnow() is now deprecated](https://blog.miguelgrinberg.com/post/it-s-time-for-a-change-datetime-utcnow-is-now-deprecated)
+[StyleTTS2 – open-source Eleven-Labs-quality Text To Speech](https://github.com/yl4579/StyleTTS2)
 
-[Victor Mono Typeface](https://rubjo.github.io/victor-mono/)
+[Why I Tend Not to Use Content Negotiation](https://htmx.org/essays/why-tend-not-to-use-content-negotiation/)
 
-[Lindenmayer Systems](https://vsekar.me/blog/log_coffee/chapter_0.html)
+[Ninth Dedekind number found by two independent groups](https://www.quantamagazine.org/ninth-dedekind-number-found-by-two-independent-groups-20230801/)
 
-[Comparing Humans, GPT-4, and GPT-4V on Abstraction and Reasoning Tasks](https://arxiv.org/abs/2311.09247)
+[The Myth of RAM (2014)](https://www.ilikebigbits.com/2014_04_21_myth_of_ram_1.html)
+
+[Show HN: "Awesome" Engineering Games (List)](https://github.com/arcataroger/awesome-engineering-games)
+
+[datetime.utcnow() is now deprecated](https://blog.miguelgrinberg.com/post/it-s-time-for-a-change-datetime-utcnow-is-now-deprecated)
+
+[US ex-President Jimmy Carter's wife Rosalynn dies aged 96](https://www.bbc.com/news/world-us-canada-67467831)
+
+[U.S. Agency Declares 21 Species Now Extinct L](https://www.pbsnc.org/blogs/science/us-agency-declares-21-species-now-extinct/)
+
+[The Cassette-Tape Revolution](https://www.newyorker.com/culture/cultural-comment/the-cassette-tape-revolution)
 
 [Zero-k: A libre sci-fi RTS game, with an economy based on metal and energy](https://zero-k.info/)
-
-[I cancelled my Replit subscription](https://journal.paoloamoroso.com/why-i-cancelled-my-replit-subscription)
-
-[Deep Learning Course](https://fleuret.org/dlc/)
-
-[Rational Ritual: Why everyone needs to know what everyone knows (2020)](https://www.ian-leslie.com/p/the-ruffian-special-edition-book)
-
-[Kyutai AI research lab with a $330M budget that will make everything open source](https://techcrunch.com/2023/11/17/kyutai-is-an-french-ai-research-lab-with-a-330-million-budget-that-will-make-everything-open-source/)
-
-[Should I replace my 56k modem with a 28.8K Modem? (2001)](https://forums.anandtech.com/threads/should-i-replace-my-56k-modem-with-a-28-8k-modem.437516/)

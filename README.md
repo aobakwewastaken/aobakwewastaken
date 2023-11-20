@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[YouTube artificially slows down video load times when using Firefox](https://old.reddit.com/r/youtube/login/)
+[OpenAI staff threaten to quit unless board resigns](https://www.wired.com/story/openai-staff-walk-protest-sam-altman/)
+
+[550 of 700 Employees OpenAI tell the board to resign](https://twitter.com/karaswisher/status/1726598360277356775)
 
 [The Death Star and the Final Trench Run (2017)](http://fxrant.blogspot.com/2017/01/the-death-star-and-final-trench-run.html)
 
 [Krita AI Diffusion](https://github.com/Acly/krita-ai-diffusion)
 
-[Z80 vs. 8088 Speed](https://groups.google.com/g/comp.os.cpm/c/OG4tTERPtto/m/yC5iUh79CQAJ)
+[Argentina's New President Wants to Adopt the Dollar as the National Currency](https://www.wsj.com/world/americas/argentinas-new-president-wants-to-adopt-the-u-s-dollar-as-national-currency-86da3444)
+
+[RSS can be used to distribute all sorts of information](https://colinwalker.blog/blog/?date=2023-11-19)
 
 [The Bluffers Guide to the Mythical Man Month](https://codemanship.wordpress.com/2023/11/20/the-bluffers-guide-to-the-mythical-man-month/)
 
-[Sam Altman, Greg Brockman and others to join Microsoft](https://twitter.com/satyanadella/status/1726509045803336122)
+[Roc – A fast, friendly, functional language](https://www.roc-lang.org/)
 
-[Practical Tips for Finetuning LLMs Using LoRA (Low-Rank Adaptation)](https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms)
+[Z80 vs. 8088 Speed](https://groups.google.com/g/comp.os.cpm/c/OG4tTERPtto/m/yC5iUh79CQAJ)
 
-[Why I tend not to use content negotiation](https://htmx.org/essays/why-tend-not-to-use-content-negotiation/)
-
-[Ancient Tree Inventory](https://ati.woodlandtrust.org.uk/)
-
-[Emmet Shear statement as Interim CEO of OpenAI](https://twitter.com/eshear/status/1726526112019382275?s=46&t=a8Pjw_2Gzth_zpOPBTHQaw)
+[Setenv Is Not Thread Safe and C Doesn't Want to Fix It](https://www.evanjones.ca/setenv-is-not-thread-safe.html)

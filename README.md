@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[After Boeing declines to pay up, ransomware group leaks 45 GB of data](https://www.itbrew.com/stories/2023/11/17/after-boeing-declines-to-pay-up-ransomware-group-leaks-45-gb-of-data)
+
+[LLMs cannot find reasoning errors, but can correct them](https://arxiv.org/abs/2311.08516)
+
+[Launch HN: Stralis (YC W23) – Hydrogen electric aircraft for medium-haul travel]()
+
+[Sam Altman is still trying to return as OpenAI CEO](https://www.theverge.com/2023/11/20/23969586/sam-altman-plotting-return-open-ai-microsoft)
+
+[Increasing QUIC and UDP Throughput over Tailscale](https://tailscale.com/blog/quic-udp-throughput/)
+
+[Finley (YC W21) Is Hiring Capital Markets Team Members](https://jobs.lever.co/FinleyTechnologies/70462b30-c31a-4db3-932a-0abb96ec5566)
+
+[River: A fast, robust job queue for Go and Postgres](https://brandur.org/river)
+
+[Why TSA's Implementation of Facial Recognition Is More Dangerous Than You Think](https://epic.org/dont-take-it-at-face-value-why-tsas-implementation-of-facial-recognition-is-more-dangerous-than-you-think/)
+
 [OpenAI staff threaten to quit unless board resigns](https://www.wired.com/story/openai-staff-walk-protest-sam-altman/)
 
-[Microsoft Is Eating the World](https://aisupremacy.substack.com/p/microsoft-is-eating-the-world)
-
-[550 of 700 Employees OpenAI tell the board to resign](https://twitter.com/karaswisher/status/1726598360277356775)
-
-[Former Mozilla exec: Google has sabotaged Firefox for years](https://www.zdnet.com/article/former-mozilla-exec-google-has-sabotaged-firefox-for-years/)
-
-[The Death Star and the Final Trench Run (2017)](http://fxrant.blogspot.com/2017/01/the-death-star-and-final-trench-run.html)
-
-[Krita AI Diffusion](https://github.com/Acly/krita-ai-diffusion)
-
-[RSS can be used to distribute all sorts of information](https://colinwalker.blog/blog/?date=2023-11-19)
-
-[Roc – A fast, friendly, functional language](https://www.roc-lang.org/)
-
-[Object-Oriented Programming in Oberon-2 [pdf]](https://ssw.jku.at/Research/Books/Oberon2.pdf)
-
-[Argentina's New President Wants to Adopt the Dollar as the National Currency](https://www.wsj.com/world/americas/argentinas-new-president-wants-to-adopt-the-u-s-dollar-as-national-currency-86da3444)
+[15-150: Principles of Functional Programming](https://brandonspark.github.io/150/)

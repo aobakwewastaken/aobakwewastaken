@@ -1,4 +1,10 @@
 # Top Stories on hackernews <br />
+[Candela P-12 taking off – Electric hydrofoiling passenger vessel [video]](https://www.youtube.com/watch?v=XSkjdfaHxhw)
+
+[GameMaker to be free for non-commercial purposes and have one-time fee license](https://gamemaker.io/en/blog/gamemaker-free-platforms)
+
+[Early-life stress changes more genes in the brain than a head injury](https://medicalxpress.com/news/2023-11-early-life-stress-genes-brain-injury.html)
+
 [Northvolt develops state-of-the-art sodium-ion battery validated at 160 Wh/kg](https://northvolt.com/articles/northvolt-sodium-ion/)
 
 [Orca 2: Teaching Small Language Models How to Reason](https://arxiv.org/abs/2311.11045)
@@ -7,14 +13,8 @@
 
 [Easylkb: Easy Linux Kernel Builder](https://tmpout.sh/3/20.html)
 
-[Realtime Planet Shader: Interactive 3D planet animation](https://jsulpis.github.io/realtime-planet-shader/earth/)
-
 [.NET Blazor](https://dusted.codes/dotnet-blazor)
 
-[Show HN: Stella Nera – Maddness Hardware Accelerator](https://github.com/joennlae/halutmatmul)
+[Stadium card stunts and the art of programming a crowd](https://www.engadget.com/hitting-the-books-code-to-joy-michael-l-littman-mit-press-153036241.html)
 
-[11.8M CHF for clinical trials of novel arthritis repair](https://www.unibas.ch/en/University/Fundraising/Fundraising-News/12-Million-CHF-for-clinical-trials-of-novel-arthritis-repair.html)
-
-[A Node, TypeScript, TS-Node and ESM experience that works](https://gist.github.com/khalidx/1c670478427cc0691bda00a80208c8cc)
-
-[Charging a lithium battery to 80% only?](https://electronics.stackexchange.com/questions/623358/wouldnt-charging-a-lithium-battery-to-80-only-defeat-the-purpose-of-putting-th)
+[Realtime Planet Shader: Interactive 3D planet animation](https://jsulpis.github.io/realtime-planet-shader/earth/)

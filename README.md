@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [We have reached an agreement in principle for Sam to return to OpenAI as CEO](https://twitter.com/openai/status/1727206187077370115)
 
+[Ultra Fast Bert](https://arxiv.org/abs/2311.10770)
+
+[EP–133](https://teenage.engineering/products/ep-133)
+
+[Writing and Linting Python at Scale](https://engineering.fb.com/2023/11/21/production-engineering/writing-linting-python-at-scale-meta/)
+
 [LM Studio – Discover, download, and run local LLMs](https://lmstudio.ai/)
 
-[Why does the moon change size when you snipe it in GTA?](https://insiderockstarnorth.blogspot.com/2023/11/why-does-moon-change-size-when-you.html)
+[What has changed in CPU cores in M3 chips?](https://eclecticlight.co/2023/11/22/what-has-changed-in-cpu-cores-in-m3-chips/)
 
-[Stable Video Diffusion](https://stability.ai/news/stable-video-diffusion-open-ai-video-model)
+[Linux Kernel Documentation: NAND Error-Correction Code](https://docs.kernel.org/driver-api/mtd/nand_ecc.html)
 
-[In the gut's 'second brain,' key agents of health emerge](https://www.quantamagazine.org/in-the-guts-second-brain-key-agents-of-health-emerge-20231121)
+[Are Analytics Good?](https://www.todepond.com/wikiblogarden/social-media/analytics/)
 
-[Bacteria store memories and pass them on for generations](https://news.utexas.edu/2023/11/21/bacteria-store-memories-and-pass-them-on-for-generations/)
+[Ubuntu: ~20% More Performance Than Windows 11 on New AMD Zen 4 Threadripper](https://www.phoronix.com/review/threadripper-7995wx-windows-linux)
 
-[FTC authorizes compulsory process for AI-related products and services](https://www.ftc.gov/news-events/news/press-releases/2023/11/ftc-authorizes-compulsory-process-ai-related-products-services)
-
-[Show HN: Deepmark AI- LLM assessment tool for task-specific metrics on your data](https://github.com/IngestAI/deepmark)
-
-[Running Windows 98 on the Browser](https://copy.sh/v86/?profile=windows98)
-
-[How does Cave/Glade Generator Work](https://www.boristhebrave.com/2023/11/19/how-does-cave-glade-generator-work/)
+[Minification Is Evil](https://www.todepond.com/wikiblogarden/better-computing/worse-computing/minification/)

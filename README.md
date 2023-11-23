@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [Reflecting on 18 Years at Google](https://ln.hixie.ch/?start=1700627373&count=1)
 
+[test, [, and [[ (2020)](https://jmmv.dev/2020/03/test-bracket.html)
+
+[Three chips in and Google Tensor is on life support](https://www.notebookcheck.net/Three-chips-in-and-Google-Tensor-is-on-life-support.768438.0.html)
+
+[How do I become a graphics programmer?](https://gpuopen.com/learn/how_do_you_become_a_graphics_programmer/)
+
+[Auroratone, a psychedelic 1940s film that helped WWII vets overcome PTSD](https://www.openculture.com/2023/11/watch-an-auroratone-a-psychedelic-1940s-film.html)
+
+[OpenAI researchers warned board of AI breakthrough ahead of CEO ouster](https://www.reuters.com/technology/sam-altmans-ouster-openai-was-precipitated-by-letter-board-about-ai-breakthrough-2023-11-22/)
+
 [Fast self-hostable open-source workflow engine](https://www.windmill.dev/blog/launch-week-1/fastest-workflow-engine)
 
-[Exponentially faster language modelling](https://arxiv.org/abs/2311.10770)
-
-[Yoyozo: How I made a Playdate game in 39k](https://blog.gingerbeardman.com/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/)
-
-[Poor Charlie's Almanack: The Essential Wit and Wisdom of Charles T. Munger](https://press.stripe.com/poor-charlies-almanack)
-
-[Rogue, and Other Roguelikes for Amiga](https://www.amigalove.com/viewtopic.php?t=2639)
+[Why viXra?](https://vixra.org/why)
 
 [We have reached an agreement in principle for Sam to return to OpenAI as CEO](https://twitter.com/openai/status/1727206187077370115)
 
-[Welding and the automation frontier](https://www.construction-physics.com/p/welding-and-the-automation-frontier)
-
-[What has changed in CPU cores in M3 chips?](https://eclecticlight.co/2023/11/22/what-has-changed-in-cpu-cores-in-m3-chips/)
-
-[Stack buffer overflow attack: 211BSD on the PDP-11](https://obsolescenceguaranteed.blogspot.com/2023/11/stack-buffer-overflow-attack-211bsd-on.html)
+[Exponentially faster language modelling](https://arxiv.org/abs/2311.10770)

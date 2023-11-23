@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[C diff spores resist bleach and remain viable on surgical scrubs andgown fabrics](https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.001418)
+[YouTube is now blocking Ad Blockers – So I just make ads run 16x faster](https://old.reddit.com/r/webdev/comments/181vbmk/youtube_is_now_blocking_ad_blockers_so_i_just/)
 
-[Git Branches: Intuition and Reality](https://jvns.ca/blog/2023/11/23/branches-intuition-reality/)
+[Bluetooth stack modifications to improve audio quality on headphones without AA](https://habr.com/en/articles/456476/)
 
-[Write libraries instead of services, where possible](https://catern.com/services.html)
+[Ansel](https://ansel.photos/en/)
 
-[Polio Is on the Brink of Eradication](https://www.nature.com/articles/d41586-023-03602-5)
+[POSIX v. reality: A position on O_PONIES (2009)](https://lwn.net/Articles/351422/)
 
-[US govt pays AT&T to let cops search Americans' phone records without warrant](https://www.theregister.com/2023/11/22/wyden_hemisphere_letter/)
+[Guinea worm disease is close to being eradicated](https://ourworldindata.org/guinea-worm-path-eradication)
 
-[Retries – An interactive study of request retry methods](https://encore.dev/blog/retries)
+[Polio is on the brink of eradication](https://www.nature.com/articles/d41586-023-03602-5)
 
-[Luiz André Barroso has died](https://spectrum.ieee.org/in-memoriam-nov-2023)
+[Community Contributions at GitLab](https://community.inc/deep-dives/contribution-gitlab)
 
-[Gameboy Technical Reference for Homebrew Developers](https://gbdev.io/pandocs/)
+[Shellcheck finds bugs in your shell scripts](https://www.shellcheck.net/)
 
-[Despite just 5.8% sales, over 38% of bug reports come from the Linux community (2021)](https://old.reddit.com/r/gamedev/comments/qeqn3b/despite_having_just_58_sales_over_38_of_bug/)
+[The Eyes Have It, by Philip K. Dick (1953)](https://www.gutenberg.org/files/31516/31516-h/31516-h.htm)
 
-[The Secret Language of Ships](https://hakaimagazine.com/videos-visuals/the-secret-language-of-ships/)
+[Gameboy technical reference for homebrew developers](https://gbdev.io/pandocs/)

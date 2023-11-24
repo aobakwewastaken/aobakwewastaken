@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[YouTube is now blocking Ad Blockers – So I just make ads run 16x faster](https://old.reddit.com/r/webdev/comments/181vbmk/youtube_is_now_blocking_ad_blockers_so_i_just/)
+[Mirage – A programming framework for building type-safe, modular systems](https://mirage.io/)
 
-[Bluetooth stack modifications to improve audio quality on headphones without AA](https://habr.com/en/articles/456476/)
+[Mid-old cells are a potential target for anti-aging interventions in the elderly](https://www.nature.com/articles/s41467-023-43491-w)
 
 [Ansel](https://ansel.photos/en/)
 
-[POSIX v. reality: A position on O_PONIES (2009)](https://lwn.net/Articles/351422/)
+[Bluetooth stack modifications to improve audio quality on headphones without AA (2019)](https://habr.com/en/articles/456476/)
 
-[Guinea worm disease is close to being eradicated](https://ourworldindata.org/guinea-worm-path-eradication)
+[Building a freedom-friendly WiFi pocket-router (2021)](https://www.kulesz.me/post/130-pocket-router/)
 
-[Polio is on the brink of eradication](https://www.nature.com/articles/d41586-023-03602-5)
+[Odigos (YC W23) Is Hiring eBPF Engineer](https://www.ycombinator.com/companies/keyval/jobs/6pSjpry-ebpf-engineer)
 
-[Community Contributions at GitLab](https://community.inc/deep-dives/contribution-gitlab)
+[State Dept prioritizes 'AI-ready workforce' in its first AI strategy](https://federalnewsnetwork.com/artificial-intelligence/2023/11/state-dept-prioritizes-ai-ready-workforce-in-its-first-ai-strategy/)
 
-[Shellcheck finds bugs in your shell scripts](https://www.shellcheck.net/)
+[Experimental tree-based writing interface for GPT-3](https://github.com/socketteer/loom)
 
-[The Eyes Have It, by Philip K. Dick (1953)](https://www.gutenberg.org/files/31516/31516-h/31516-h.htm)
+[The Revival of Medley/Interlisp](https://www.theregister.com/2023/11/23/medley_interlisp_revival/)
 
-[Gameboy technical reference for homebrew developers](https://gbdev.io/pandocs/)
+[A Busy 1979](https://www.filfre.net/2011/07/a-busy-1979/)

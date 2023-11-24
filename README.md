@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-["Useless Ruby sugar": Argument forwarding](https://zverok.space/blog/2023-11-24-syntax-sugar4-argument-forwarding.html)
+[Mail-in-a-Box: a mail server in a box](https://github.com/mail-in-a-box/mailinabox)
 
-[Show HN: Lua Carousel, create little programs on desktop or mobile devices](https://akkartik.itch.io/carousel)
+[Cicero (2022)](https://ai.meta.com/research/cicero/)
 
-[Almost half of Californians speak a non-English language at home](https://www.axios.com/local/san-francisco/2023/09/07/california-foreign-language-speakers)
+[React Spreadsheet 2 – Your Own Google Sheets](https://www.rowsncolumns.app/)
 
-[AI system self-organises to develop features of brains of complex organisms](https://www.cam.ac.uk/research/news/ai-system-self-organises-to-develop-features-of-brains-of-complex-organisms)
+[The Legend of Zelda: Twilight Princess Decompilation](https://github.com/zeldaret/tp)
 
-[Apple's Pro Display XDR takes Thunderbolt 3 to its limit](https://fabiensanglard.net/xdr/index.html)
+[Reality has a surprising amount of detail (2017)](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail)
 
-[Tesla turns on 10k-node Nvidia H100 Cluster](https://www.techradar.com/pro/nvidia-is-powering-a-mega-tesla-supercomputer-powered-by-10000-h100-gpus)
+[Some observations on the final text of the European Digital Identity framework](https://blog.xot.nl/2023/11/20/some-observations-on-the-final-text-of-the-european-digital-identity-framework-eidas/index.html)
 
-[Mirage – A programming framework for building type-safe, modular systems](https://mirage.io/)
+[Mice eating less isoleucine live longer, healthier](https://news.wisc.edu/mice-eating-less-of-specific-amino-acid-overrepresented-in-diet-of-obese-people-live-longer-healthier/)
 
-[Mid-old cells are a potential target for anti-aging interventions in the elderly](https://www.nature.com/articles/s41467-023-43491-w)
+[Paul Auster on cancer, connection and the fallacy of closure](https://www.theguardian.com/books/2023/nov/18/paul-auster-on-cancer-connection-and-the-fallacy-of-closure)
 
-[Pokémon is no longer just a game – it's a lifestyle](https://www.theverge.com/23970890/pokemon-poketsume-transformation-games-brand)
+[Show HN: A game to memorize scale degrees on the guitar fretboard](https://www.fretboardfly.com/FBG-201)
 
-[Subtitle is now open-source](https://vedgupta.in/blog/subtitle-breaking-down-language-barriers-with-ai-powered-caption-generation)
+[Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/#/)

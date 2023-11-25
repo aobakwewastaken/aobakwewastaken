@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Normal Operating Sounds](https://www.tesla.com/ownersmanual/model3/en_us/GUID-AA58ED67-9C93-4EE6-8B19-9FDABE018787.html)
+[Shh: Simple Shell Scripting from Haskell](https://github.com/luke-clifton/shh)
 
-[Autonomous excavator constructs a six-metre-high dry-stone wall](https://ethz.ch/en/news-and-events/eth-news/news/2023/11/autonomous-excavator-constructs-a-six-metre-high-dry-stone-wall.html)
+[Why 56k the fastest dial up modem speed](https://www.10stripe.com/articles/why-is-56k-the-fastest-dialup-modem-speed.php)
+
+[The bash book to rule them all](https://fabiensanglard.net/bash/)
 
 [Making games in Go for absolute beginners](https://threedots.tech/post/making-games-in-go/)
 
-[Animotion – a visual CSS animation app](https://cssanimotion.pages.dev/)
-
-[Topo magazine uses comics to tell the news to French teens](https://www.niemanlab.org/2023/11/how-topo-magazine-uses-comics-to-tell-the-news-to-french-teens/)
-
-[Lago – Open-source Stripe Billing alternative – is hiring a Data Scientist](https://www.ycombinator.com/companies/lago/jobs/z7tQqkS-data-scientist)
+[Darktable: Crashing into the wall in slow-motion](https://ansel.photos/en/news/darktable-dans-le-mur-au-ralenti/)
 
 [The Bond villain compliance strategy](https://www.bitsaboutmoney.com/archive/bond-villain-compliance-strategy/)
 
-[Reality has a surprising amount of detail (2017)](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail)
+[Cash Cows](https://www.ageofinvention.xyz/p/age-of-invention-cash-cows)
 
-[Show HN: IP Guide – info on IP addresses, Networks, and ASNs](https://ip.guide)
+[Topo magazine uses comics to tell the news to French teens](https://www.niemanlab.org/2023/11/how-topo-magazine-uses-comics-to-tell-the-news-to-french-teens/)
 
-[Botlib: C Telegram bot framework](https://github.com/antirez/botlib)
+[Normal Operating Sounds](https://www.tesla.com/ownersmanual/model3/en_us/GUID-AA58ED67-9C93-4EE6-8B19-9FDABE018787.html)
+
+[Interesting features of John Harrison's sea clocks](https://incoherency.co.uk/blog/stories/harrison-clocks.html)

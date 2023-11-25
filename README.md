@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Sqids – Generate Short Unique IDs from Numbers](https://sqids.org/)
+
+[The Dunning-Kruger effect is autocorrelation](https://economicsfromthetopdown.com/2022/04/08/the-dunning-kruger-effect-is-autocorrelation/)
+
+[New CRISPR systems hold promise for genome editing](https://www.nature.com/articles/d41586-023-03697-w)
+
+[Show HN: I saw this mind-blowing experiment, so I made a simple version of it](https://github.com/Momciloo/fun-with-sockets)
+
+[Nvidia sued for stealing trade secrets: blunder showed rival company's code](https://www.engadget.com/nvidia-sued-for-stealing-trade-secrets-after-screensharing-blunder-showed-rival-companys-code-063009605.html)
+
+[Online PDP-8 Home Page, Run a PDP-8](https://www.pdp8online.com/)
+
+[It's time for a new old language (2017) [pdf]](https://groups.csail.mit.edu/mac/users/gjs/6.945/readings/Steele-MIT-April-2017.pdf)
+
+[Meticulous (YC S21) Is Hiring to solve end-to-end testing]()
+
 [Shh: Simple Shell Scripting from Haskell](https://github.com/luke-clifton/shh)
 
 [Cash Cows](https://www.ageofinvention.xyz/p/age-of-invention-cash-cows)
-
-[The Bond villain compliance strategy](https://www.bitsaboutmoney.com/archive/bond-villain-compliance-strategy/)
-
-[Making games in Go for absolute beginners](https://threedots.tech/post/making-games-in-go/)
-
-[Normal Operating Sounds](https://www.tesla.com/ownersmanual/model3/en_us/GUID-AA58ED67-9C93-4EE6-8B19-9FDABE018787.html)
-
-[The bash book to rule them all](https://fabiensanglard.net/bash/)
-
-[Darktable: Crashing into the wall in slow-motion](https://ansel.photos/en/news/darktable-dans-le-mur-au-ralenti/)
-
-[Topo magazine uses comics to tell the news to French teens](https://www.niemanlab.org/2023/11/how-topo-magazine-uses-comics-to-tell-the-news-to-french-teens/)
-
-[Interesting features of John Harrison's sea clocks](https://incoherency.co.uk/blog/stories/harrison-clocks.html)
-
-[Lago – Open-source Stripe Billing alternative – is hiring a Data Scientist]()

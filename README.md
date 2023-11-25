@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Mail-in-a-Box: a mail server in a box](https://github.com/mail-in-a-box/mailinabox)
+[Tesla Normal Operating Sounds](https://www.tesla.com/ownersmanual/model3/en_us/GUID-AA58ED67-9C93-4EE6-8B19-9FDABE018787.html)
 
-[Cicero (2022)](https://ai.meta.com/research/cicero/)
+[The Bond villain compliance strategy](https://www.bitsaboutmoney.com/archive/bond-villain-compliance-strategy/)
 
-[React Spreadsheet 2 – Your Own Google Sheets](https://www.rowsncolumns.app/)
+[Autonomous excavator constructs a six-metre-high dry-stone wall](https://ethz.ch/en/news-and-events/eth-news/news/2023/11/autonomous-excavator-constructs-a-six-metre-high-dry-stone-wall.html)
 
-[The Legend of Zelda: Twilight Princess Decompilation](https://github.com/zeldaret/tp)
+[Topo magazine uses comics to tell the news to French teens](https://www.niemanlab.org/2023/11/how-topo-magazine-uses-comics-to-tell-the-news-to-french-teens/)
+
+[Animotion – a visual CSS animation app](https://cssanimotion.pages.dev/)
 
 [Reality has a surprising amount of detail (2017)](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail)
 
-[Some observations on the final text of the European Digital Identity framework](https://blog.xot.nl/2023/11/20/some-observations-on-the-final-text-of-the-european-digital-identity-framework-eidas/index.html)
+[ArchiveTeam is downloading and saving content from Blogger](https://wiki.archiveteam.org/index.php/Blogger)
 
-[Mice eating less isoleucine live longer, healthier](https://news.wisc.edu/mice-eating-less-of-specific-amino-acid-overrepresented-in-diet-of-obese-people-live-longer-healthier/)
+[Making Games in Go for Absolute Beginners](https://threedots.tech/post/making-games-in-go/)
 
-[Paul Auster on cancer, connection and the fallacy of closure](https://www.theguardian.com/books/2023/nov/18/paul-auster-on-cancer-connection-and-the-fallacy-of-closure)
+[Show HN: IP Guide – info on IP addresses, Networks, and ASNs](https://ip.guide)
 
-[Show HN: A game to memorize scale degrees on the guitar fretboard](https://www.fretboardfly.com/FBG-201)
-
-[Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/#/)
+[Botlib: C Telegram bot framework](https://github.com/antirez/botlib)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Whisky: Wine Supercharged with the Power of Apple's Game Porting Toolkit](https://getwhisky.app)
+[Understanding Deep Learning](https://udlbook.github.io/udlbook/)
 
-[VectorDB: Vector Database Built by Kagi Search](https://vectordb.com/)
+[Fish – Update on the Rust Port](https://github.com/fish-shell/fish-shell/discussions/10123)
 
-[City of Boulder Open Data](https://open-data.bouldercolorado.gov)
+[Dependencies Belong in Version Control](https://www.forrestthewoods.com/blog/dependencies-belong-in-version-control/)
 
-[Periodic Table of Tools](https://periodictableoftools.com/index.html)
+[Titled Tuesday Cheating](https://dorianquelle.github.io/blog/How-To-Catch-Smart-Cheaters/)
 
-[Write Guix package definitions in a breeze: Introducing Guix Packager](https://guix.gnu.org/blog/2023/write-package-definitions-in-a-breeze/)
+[Bjarne Stroustrup Quotes](https://www.stroustrup.com/quotes.html)
 
-[Grimoire: Open-Source bookmark manager with extra features](https://github.com/goniszewski/grimoire)
+[The history behind aspirin 81](https://www.clinicalcorrelations.org/2019/02/22/the-history-behind-aspirin-81/)
 
-[Apertus – Open-Source Camera](https://www.apertus.org/en)
+[Making a Font](https://kokorobot.ca/site/making_a_font.html)
+
+[Svix (YC W21) Is Hiring a Tech Lead (US Remote)](https://www.svix.com/careers/)
+
+[Ripgrep 14 Released](https://github.com/BurntSushi/ripgrep/releases/tag/14.0.0)
 
 [First Is the Worst: Nintendo's Color TV Game 6 and 15](https://nicole.express/2023/not-another-color-post-i-swear.html)
-
-[Naev – open-source game about space exploration, trade and combat](https://naev.org/)
-
-[They're Made Out of Meat (1991)](https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Understanding Deep Learning](https://udlbook.github.io/udlbook/)
+[Unciv](https://github.com/yairm210/Unciv)
 
-[Fish – Update on the Rust Port](https://github.com/fish-shell/fish-shell/discussions/10123)
+[Making a font](https://kokorobot.ca/site/making_a_font.html)
 
-[Dependencies Belong in Version Control](https://www.forrestthewoods.com/blog/dependencies-belong-in-version-control/)
+[Artificial glacier growing in the desert (2017)](https://www.cnn.com/style/article/ice-stupa-sonam-wangchuk/index.html)
+
+[Emacs and the mouse: A modest defense of the rodent](https://karthinks.com/software/different-strokes-for-different-folks/)
+
+[Noninvasive theta-burst stimulation enhances skill learning](https://www.nature.com/articles/s41593-023-01457-7)
+
+[Get started with technical writing](https://opensource.net/get-started-with-technical-writing/)
 
 [Titled Tuesday Cheating](https://dorianquelle.github.io/blog/How-To-Catch-Smart-Cheaters/)
 
-[Bjarne Stroustrup Quotes](https://www.stroustrup.com/quotes.html)
+[Freezing in style](https://blog.broulik.de/2023/11/freezing-in-style/)
 
-[The history behind aspirin 81](https://www.clinicalcorrelations.org/2019/02/22/the-history-behind-aspirin-81/)
+[The Periodic Table of Tools](https://periodictableoftools.com/index.html)
 
-[Making a Font](https://kokorobot.ca/site/making_a_font.html)
-
-[Svix (YC W21) Is Hiring a Tech Lead (US Remote)](https://www.svix.com/careers/)
-
-[Ripgrep 14 Released](https://github.com/BurntSushi/ripgrep/releases/tag/14.0.0)
-
-[First Is the Worst: Nintendo's Color TV Game 6 and 15](https://nicole.express/2023/not-another-color-post-i-swear.html)
+[Beej's Guide to Interprocess Communication](https://beej.us/guide/bgipc/html/)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Nutrient found in beef and dairy improves immune response to cancer](https://biologicalsciences.uchicago.edu/news/tva-nutrient-cancer-immunity)
+[My toddler loves planes, so I built her a radar](https://jacobbartlett.substack.com/p/my-toddler-loves-planes-so-i-built)
 
-[Favorite Database T-Shirts](https://www.cs.cmu.edu/~pavlo/blog/2016/07/my-favorite-database-shirts.html)
+[Cheaper microscope could bring protein mapping technique to the masses](https://www.science.org/content/article/cheaper-microscope-could-bring-protein-mapping-technique-masses)
 
-[A Yamaha DX7 on a USB Dongle](https://hackaday.com/2023/11/24/a-yamaha-dx7-on-a-usb-dongle/)
+[Show HN: Trains.fyi – a live map of passenger trains in the US and Canada](https://trains.fyi/)
 
-[Google Drive misplaces months' worth of customer data](https://www.theregister.com/2023/11/27/google_drive_files_disappearing/)
+[Strange Metals: Where electricity may flow without electrons](https://www.quantamagazine.org/meet-strange-metals-where-electricity-may-flow-without-electrons-20231127/)
 
-[Apple's developers reflashed Mac ROMs in the '90s](https://www.downtowndougbrown.com/2023/11/how-apples-developers-reflashed-mac-roms-in-the-90s/)
+[The largest number representable in 64 bits](https://tromp.github.io/blog/2023/11/24/largest-number)
 
-[Robot Dad](https://blog.untrod.com/2023/11/robot-dad.html)
+[$20k bounty was claimed](https://prettier.io/blog/2023/11/27/20k-bounty-was-claimed)
 
-[Signal reflections in electronic circuits](https://lcamtuf.substack.com/p/signal-reflections-in-electronic)
+[God Help Us, Let's Try to Understand AI Monosemanticity](https://www.astralcodexten.com/p/god-help-us-lets-try-to-understand)
 
-[Demystifying Web Push Notifications](https://pqvst.com/2023/11/21/web-push-notifications/)
+[Review – The Price of Time: The Real Story of Interest](https://www.lrb.co.uk/the-paper/v45/n22/jamie-martin/kettle-of-vultures)
 
-[Classnames – a site that provides thematically grouped lists of words](https://classnames.paulrobertlloyd.com)
+[Honeybee clustering when it's cold is a distress behavior: study](https://theconversation.com/honeybees-cluster-together-when-its-cold-but-weve-been-completely-wrong-about-why-218066)
 
-[AirJet makes a MacBook Air perform like a MacBook Pro](https://www.macworld.com/article/2150862/airjet-makes-a-macbook-air-perform-like-a-macbook-pro.html)
+[ed.bf: text editor in Brainfuck](https://github.com/bf-enterprise-solutions/ed.bf)

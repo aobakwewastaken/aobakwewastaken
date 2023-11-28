@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Modern C++ Programming Course](https://github.com/federico-busato/Modern-CPP-Programming)
+[Charlie Munger – Feeling Like a Victim Is Perfectly Disastrous](https://www.butwhatfor.com/p/takeaway-tuesday-facing-adversity-charlie-munger)
 
-[Rustlantis: Semantic fuzzing of the Rust compiler and interpreter [pdf]](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-pls/plf-dam/documents/StudentProjects/MasterTheses/2023-Andy-Thesis.pdf)
+[MeshGPT: Generating triangle meshes with decoder-only transformers](https://nihalsid.github.io/mesh-gpt/)
 
-[Eclipse ThreadX](https://eclipse-foundation.blog/2023/11/21/introducing-eclipse-threadx/)
+[Parsing 8-bit integers quickly](https://lemire.me/blog/2023/11/28/parsing-8-bit-integers-quickly/)
 
-[Designing a SIMD Algorithm from Scratch](https://mcyoung.xyz/2023/11/27/simd-base64/)
+[The camel, the rope, and the needle's eye](http://kiwihellenist.blogspot.com/2023/11/camel.html)
 
-[Amiga Graphics Archive](https://amiga.lychesis.net/)
+[Charlie Munger has died](https://www.berkshirehathaway.com/news/nov2823.pdf)
 
-[Keras 3.0](https://keras.io/keras_3/)
+[Scientists succeed growing dolomite in lab by dissolving defects during growth](https://phys.org/news/2023-11-scientists-succeed-dolomite-lab-dissolving.html)
 
-[Half Life:25th Anniversary Documentary](https://www.youtube.com/watch?v=TbZ3HzvFEto)
+[Hacking my filter coffee machine](https://diziet.dreamwidth.org/17079.html)
 
-[Microsoft opens sources ThreadX RTOS used in Raspberry Pis](https://www.theregister.com/2023/11/28/microsoft_opens_sources_threadx/)
+[S3 Express Is All You Need](https://www.warpstream.com/blog/s3-express-is-all-you-need)
 
-[How to Read a Paper [pdf]](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
+[The Case for Never Reading the Book Jacket](https://thewalrus.ca/the-case-for-never-reading-the-book-jacket/)
 
-[The `hanging-punctuation property` in CSS](https://chriscoyier.net/2023/11/27/the-hanging-punctuation-property-in-css/)
+[Relational Deep Learning: Graph representation learning on relational databases [pdf]](https://relbench.stanford.edu/paper.pdf)

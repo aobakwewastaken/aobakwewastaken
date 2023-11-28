@@ -7,14 +7,14 @@
 
 [Designing a SIMD Algorithm from Scratch](https://mcyoung.xyz/2023/11/27/simd-base64/)
 
+[Amiga Graphics Archive](https://amiga.lychesis.net/)
+
+[Keras 3.0](https://keras.io/keras_3/)
+
 [Half Life:25th Anniversary Documentary](https://www.youtube.com/watch?v=TbZ3HzvFEto)
 
 [Microsoft opens sources ThreadX RTOS used in Raspberry Pis](https://www.theregister.com/2023/11/28/microsoft_opens_sources_threadx/)
 
-[Hackers spent 2 years looting secrets of chipmaker NXP before being detected](https://arstechnica.com/security/2023/11/hackers-spent-2-years-looting-secrets-of-chipmaker-nxp-before-being-detected/)
-
-[Vitalik Buterin's Techno-Optimism](https://vitalik.eth.limo/general/2023/11/27/techno_optimism.html)
+[How to Read a Paper [pdf]](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
 
 [The `hanging-punctuation property` in CSS](https://chriscoyier.net/2023/11/27/the-hanging-punctuation-property-in-css/)
-
-[Treble.ai (YC S19) Is Hiring Spainish Speaking Engineers in NYC](https://www.ycombinator.com/companies/treble-ai/jobs/tL8GeWc-staff-product-engineer)

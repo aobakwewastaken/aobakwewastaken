@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[One of the greatest user interface disasters in history](https://octodon.social/@jalefkowit/111490485825183949)
+[Roundcube open-source webmail software merges with Nextcloud](https://www.phoronix.com/news/Roundcube-Nextcloud)
 
-[Open source email pioneer Roundcube joins the Nextcloud family](https://nextcloud.com/blog/open-source-email-pioneer-roundcube-comes-aboard-nextcloud/)
-
-[Architecture Antipatterns](https://architecture-antipatterns.tech/)
-
-[My $500M Mars rover mistake](https://www.chrislewicki.com/articles/failurestory)
+[How to Work Effectively with Someone You Don't Like](https://www.forbes.com/sites/tracybrower/2023/11/26/5-ways-to-work-effectively-with-someone-you-really-dont-like/)
 
 [Freetar – an alternative front end for ultimate-guitar.com](https://github.com/kmille/freetar)
 
-[Convictional (YC W19) Is Hiring](https://jobs.ashbyhq.com/convictional/e96f8d12-906d-4bfb-8d87-08017ae5cc91)
+[Guide to Tolkien's Letters](https://www.tolkienguide.com/guide/letters/)
 
-[BBC Basic returns on multiple platforms, open sourced](https://www.bbcbasic.co.uk/bbcsdl/index.html)
+[Rust std fs slower than Python](https://xuanwo.io/2023/04-rust-std-fs-slower-than-python/)
 
-[Writing documentation for your house](https://luke.hsiao.dev/blog/housing-documentation/)
+[My $500M Mars rover mistake](https://www.chrislewicki.com/articles/failurestory)
 
-[Language and Poverty](https://www.sil.org/blog/language-and-poverty)
+[MusicXML](https://www.musicxml.com/)
+
+[The 1988 shooting down of Flight 655 as a user interface disaster](https://octodon.social/@jalefkowit/111490485825183949)
+
+[The tragedy of the canon; or, path dependence in the history of science (2021)](https://www.sciencedirect.com/science/article/abs/pii/S0039368121001096)
 
 [Evaluating M3 Pro CPU Cores: General Performance](https://eclecticlight.co/2023/11/27/evaluating-m3-pro-cpu-cores-1-general-performance/)

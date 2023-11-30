@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Llamafile lets you distribute and run LLMs with a single file](https://github.com/Mozilla-Ocho/llamafile)
-
-[XCurl](https://daniel.haxx.se/blog/2023/11/30/xcurl/)
+[Ripgrep is faster than grep, ag, Git grep, ucg, pt, sift (2016)](https://blog.burntsushi.net/ripgrep/)
 
 [Brickception](https://brickception.xyz/)
 
+[Can Generalist Foundation Models Beat Special-Purpose Tuning?Medicine Case Study](https://arxiv.org/abs/2311.16452)
+
+[XCurl](https://daniel.haxx.se/blog/2023/11/30/xcurl/)
+
 [Marine bacteria genus may hold mitochondria's closest relatives](https://www.aaas.org/news/marine-bacteria-genus-may-hold-mitochondrias-closest-relatives)
 
-[Who makes the most reliable new cars?](https://www.consumerreports.org/cars/car-reliability-owner-satisfaction/who-makes-the-most-reliable-cars-a7824554938/)
-
-[Write shaders for the (sim) Vegas sphere](https://whenistheweekend.com/theSphere.html)
-
-[Herbie: Find and fix floating-point accuracy problems](https://herbie.uwplse.org/)
+[I worked in Amazon HR and was disgusted at what I was seeing with PIP plans](https://www.businessinsider.com/amazon-hr-performance-improvement-plans-pip-pivot-had-to-quit-2023-11)
 
 [On Pneumatic Tires](https://www.scopeofwork.net/on-pneumatic-tires/)
 
-[Analog Devices Apollo MxFE 0.5 to 55 GHz Ecosystem](https://www.analog.com/en/education/education-library/videos/6330317501112.html)
+[Kolibri OS: fits on a floppy disk, programmed using interrupts](https://kolibrios.org/en/index.htm)
 
-[Many Tamagotchis were harmed in the making of this presentation (2012) [video]](https://media.ccc.de/v/29c3-5088-en-many_tamagotchis_were_harmed_in_the_making_of_this_presentation_h264)
+[Llamafile lets you distribute and run LLMs with a single file](https://github.com/Mozilla-Ocho/llamafile)
+
+[Herbie: Find and fix floating-point accuracy problems](https://herbie.uwplse.org/)

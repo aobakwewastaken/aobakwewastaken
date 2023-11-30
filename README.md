@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Ripgrep is faster than grep, ag, Git grep, ucg, pt, sift (2016)](https://blog.burntsushi.net/ripgrep/)
+[Show HN: Taipy – Turns Data and AI algorithms into full web applications](https://github.com/Avaiga/taipy)
 
 [Brickception](https://brickception.xyz/)
 
-[Can Generalist Foundation Models Beat Special-Purpose Tuning?Medicine Case Study](https://arxiv.org/abs/2311.16452)
+[Q-Transformer](https://qtransformer.github.io/)
 
-[XCurl](https://daniel.haxx.se/blog/2023/11/30/xcurl/)
+[Ripgrep is faster than grep, ag, Git grep, ucg, pt, sift (2016)](https://blog.burntsushi.net/ripgrep/)
 
-[Marine bacteria genus may hold mitochondria's closest relatives](https://www.aaas.org/news/marine-bacteria-genus-may-hold-mitochondrias-closest-relatives)
+[Can generalist foundation models beat special-purpose tuning?](https://arxiv.org/abs/2311.16452)
 
-[I worked in Amazon HR and was disgusted at what I was seeing with PIP plans](https://www.businessinsider.com/amazon-hr-performance-improvement-plans-pip-pivot-had-to-quit-2023-11)
+['Weird Al' Roasts Spotify's Artist Payout System in Year-End Wrapped Video](https://www.rollingstone.com/music/music-news/weird-al-yankovic-spotify-wrapped-video-criticism-1234905887/)
 
-[On Pneumatic Tires](https://www.scopeofwork.net/on-pneumatic-tires/)
+[CSAR: European Parliament rejects mass scanning of private messages](https://edri.org/our-work/csar-european-parliament-rejects-mass-scanning-of-private-messages/)
+
+[AI and the Rise of Mediocrity](https://time.com/6337835/ai-mediocrity-essay/)
+
+[Edbrowse, a Command Line Editor Browser](https://edbrowse.org)
 
 [Kolibri OS: fits on a floppy disk, programmed using interrupts](https://kolibrios.org/en/index.htm)
-
-[Llamafile lets you distribute and run LLMs with a single file](https://github.com/Mozilla-Ocho/llamafile)
-
-[Herbie: Find and fix floating-point accuracy problems](https://herbie.uwplse.org/)

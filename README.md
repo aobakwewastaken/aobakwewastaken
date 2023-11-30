@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Proxmox VE Helper-Scripts – Scripts for Streamlining Your Homelab with Proxmox](https://tteck.github.io/Proxmox/)
+[Visual Anagrams: Generating Optical Illusions with Diffusion Models](https://dangeng.github.io/visual_anagrams/)
+
+[Stanisław Lem's vision of artificial life](https://thereader.mitpress.mit.edu/stanislaw-lems-prescient-vision-of-artificial-life/)
+
+[The weirdest bug I've seen yet](https://engineering.gusto.com/the-weirdest-bug-ive-seen-yet/)
+
+[How to ripen and store avocados](https://www.seriouseats.com/how-to-ripen-avocados-7377071)
 
 [Brickception](https://brickception.xyz/)
 
-[Yabai – A tiling window manager for macOS](https://github.com/koekeishiya/yabai)
+[Accelerating Generative AI with PyTorch II: GPT, Fast](https://pytorch.org/blog/accelerating-generative-ai-2/)
 
-[Show HN: Taipy – Turns Data and AI algorithms into full web applications](https://github.com/Avaiga/taipy)
+[Animate Anyone: Image-to-Video Synthesis for Character Animation](https://humanaigc.github.io/animate-anyone/)
 
-[Q-Transformer](https://qtransformer.github.io/)
+[Neil Gaiman on the future of the internet](https://calnewport.com/neil-gaimans-radical-vision-for-the-future-of-the-internet/)
 
-[Edbrowse, a Command Line Editor Browser](https://edbrowse.org)
+[Scotch on the Rocks: The TV drama locked away for 50 years](https://www.bbc.co.uk/news/uk-scotland-66889553)
 
-[Can generalist foundation models beat special-purpose tuning?](https://arxiv.org/abs/2311.16452)
-
-[Ripgrep is faster than grep, ag, Git grep, ucg, pt, sift (2016)](https://blog.burntsushi.net/ripgrep/)
-
-[CSAR: European Parliament rejects mass scanning of private messages](https://edri.org/our-work/csar-european-parliament-rejects-mass-scanning-of-private-messages/)
-
-[Literary Fight Club: On the Great Poets' Brawl of '68](https://lithub.com/literary-fight-club-on-the-great-poets-brawl-of-68/)
+[The Naked Reader: Child Enslavement in the Villa of the Mysteries Fresco](https://www.journals.uchicago.edu/doi/10.1086/722232)

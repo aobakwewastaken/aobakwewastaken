@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Seamless: Meta's New Speech Models](https://ai.meta.com/research/seamless-communication/)
+[Ask HN: Who is hiring? (December 2023)]()
 
-[Star neuroscientist may have manipulated data to support a major stroke trial](https://www.science.org/content/article/misconduct-concerns-possible-drug-risks-should-stop-stroke-trial-whistleblowers-say)
+[The Seamless Communication models](https://ai.meta.com/research/seamless-communication/)
 
-[HTML hacks that shaped the Internet](https://tedium.co/2023/11/24/weird-html-hacks-history/)
+[Stop building databases](https://sqlsync.dev/posts/stop-building-databases/)
 
-["Useless Ruby sugar": Endless (one-line) methods](https://zverok.space/blog/2023-12-01-syntax-sugar5-endless-methods.html)
+[Ask HN: Who wants to be hired? (December 2023)]()
 
-[Code is run more than read](https://olano.dev/2023-11-30-code-is-run-more-than-read/)
+[The Neglected Books page: Where forgotten books are remembered](https://neglectedbooks.com/)
 
-[Marker: Convert PDF to Markdown quickly with high accuracy](https://github.com/VikParuchuri/marker)
+[Seraph Secure: anti-scam software co-founded by Kitboga](https://www.seraphsecure.com/)
 
-[Exactly How Much Life Is on Earth?](https://www.nytimes.com/2023/12/01/science/space/earth-biology-life.html)
+[Salad Fingers and the dawn of ‘weird YouTube’](https://theconversation.com/salad-fingers-wasnt-just-strange-it-was-art-heres-how-its-still-influencing-the-weird-part-of-youtube-2-decades-on-216911)
 
-[Quantum particles can feel the influence of gravitational fields](https://www.sciencenews.org/article/quantum-particles-gravity-spacetime-aharonov-bohm-effect)
+[The future of air defense must be smarter, more affordable, and reusable](https://www.anduril.com/article/the-future-of-air-defense/)
 
-[James-Lange Theory](https://en.wikipedia.org/wiki/James%E2%80%93Lange_theory)
+[Easy Stable Diffusion XL in your device, offline](https://noiselith.com/)
 
-[Is the Turing Test Dead?](https://spectrum.ieee.org/turing-test)
+[Onyx, a new programming language powered by WebAssembly](https://wasmer.io/posts/onyxlang-powered-by-wasmer)

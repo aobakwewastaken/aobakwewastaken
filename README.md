@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Ask HN: Who is hiring? (December 2023)]()
+[Tinnitus linked to undetected auditory nerve damage](https://scitechdaily.com/tinnitus-linked-to-hidden-undetected-auditory-nerve-damage-a-step-towards-a-cure/)
 
-[The Seamless Communication models](https://ai.meta.com/research/seamless-communication/)
+[Ask HN: Who is hiring? (December 2023)]()
 
 [Stop building databases](https://sqlsync.dev/posts/stop-building-databases/)
 
-[Ask HN: Who wants to be hired? (December 2023)]()
+[Electrocaloric Material Makes Refrigerant-Free Solid-State Fridge Scalable](https://spectrum.ieee.org/solid-state-refrigerator)
 
-[The Neglected Books page: Where forgotten books are remembered](https://neglectedbooks.com/)
+[SEthernet: Modern, low-cost 10/100 Ethernet for the Macintosh SE and SE/30](https://github.com/rhalkyard/SEthernet)
 
-[Seraph Secure: anti-scam software co-founded by Kitboga](https://www.seraphsecure.com/)
+[Modern XMPP Server](https://docs.trueelena.org/self_hosting/modern_xmpp_server/index.html)
 
-[Salad Fingers and the dawn of ‘weird YouTube’](https://theconversation.com/salad-fingers-wasnt-just-strange-it-was-art-heres-how-its-still-influencing-the-weird-part-of-youtube-2-decades-on-216911)
+[A medieval Gothic monastery built using CAD / CAM](https://hackaday.com/2023/01/13/a-medieval-gothic-monastery-built-using-cad-cam/)
 
-[The future of air defense must be smarter, more affordable, and reusable](https://www.anduril.com/article/the-future-of-air-defense/)
+[New York will plant trees using new tech to maximize foliage impact](https://www.theguardian.com/us-news/2023/nov/30/new-york-city-tree-planting-lidar-mapping)
 
-[Easy Stable Diffusion XL in your device, offline](https://noiselith.com/)
+[Three American climbers solve the 'last great problem in the Himalayas'](https://www.nytimes.com/2023/12/01/us/climbing-jannu-north-face.html)
 
-[Onyx, a new programming language powered by WebAssembly](https://wasmer.io/posts/onyxlang-powered-by-wasmer)
+[Why Did These LEDs Light Up? ESP32-S3 – Which Pins Are Safe to Use? [video]](https://www.youtube.com/watch?v=tC-DLeI6hjQ)

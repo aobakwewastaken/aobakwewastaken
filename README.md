@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Show HN: Simulate 3D Plants in the Browser](https://plant.max-richter.dev)
-
-[Build your own WebAssembly Compiler](https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html)
-
-[Show HN: Onsites.fyi - Curated Big Tech Interview Experiences](https://www.onsites.fyi/)
-
-[GPT-4 Can Almost Perfectly Handle Unnatural Scrambled Text](https://arxiv.org/abs/2311.18805)
-
-[Tiny volumetric display](https://mitxela.com/projects/candle)
-
 [LLM Visualization](https://bbycroft.net/llm)
 
-[Clang now makes binaries an original Pi B+ can't run](https://rachelbythebay.com/w/2023/11/30/armv6/)
+[Let's learn how modern JavaScript frameworks work by building one](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/)
 
-[A Personal History of APL (1982)](https://ed-thelen.org/comp-hist/APL-hist.html)
+[Steel – An embeddable and extensible scheme dialect built in Rust](https://github.com/mattwparas/steel)
 
-[Why do everyone's logo fonts look the same? (2020)](https://justcreative.com/why-do-everyones-logo-fonts-look-the-same/)
+[Show HN: Audio plugin for circuit-bent MP3 compression sounds](https://wildergardenaudio.com/maim/)
 
-[OpenAI Committed to Buying $51M of AI Chips from a Startup Backed by Sam Altman](https://www.wired.com/story/openai-buy-ai-chips-startup-sam-altman/)
+[Show HN: Simulate 3D Plants in the Browser](https://plant.max-richter.dev)
+
+[Chasquid – SMTP server focused on simplicity](https://blitiri.com.ar/p/chasquid/)
+
+[GDlog: A GPU-Accelerated Deductive Engine](https://arxiv.org/abs/2311.02206)
+
+[All the hominins made tools](https://johnhawks.net/weblog/all-the-hominins-made-tools/)
+
+[Build your own WebAssembly Compiler (2019)](https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html)
+
+[Tesla: Security Vulnerabilities](https://www.cvedetails.com/vulnerability-list/vendor_id-16203/Tesla.html?page=1&order=1&trc=13&sha=73e27d3898b2b240263e0f443513b5e8f9073841)

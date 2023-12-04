@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[HTML attributes for improved accessibility and user experience](https://www.htmhell.dev/adventcalendar/2023/4/)
+[Launch HN: Slauth (YC S22) – auto-generate secure IAM policies for AWS and GCP]()
 
-[LLM Visualization](https://bbycroft.net/llm)
+[Gobs of data (2011)](https://go.dev/blog/gob)
 
-[The 8-Bit Era: Eight Iconic Processor Designs – By Babbage](https://thechipletter.substack.com/p/the-virtues-of-the-8-bit-era-eight)
+[Building AI without a neural network](https://hivekit.io/blog/building-ai-without-a-neural-network/)
 
-[Spotify cuts almost 1,600 jobs amid rising costs](https://www.theguardian.com/technology/2023/dec/04/spotify-cut-jobs-amid-rising)
+[The 8-bit era: Eight iconic processor designs](https://thechipletter.substack.com/p/the-virtues-of-the-8-bit-era-eight)
 
-[Paper vs. Devices: Brain Activation Differences During Memory Retrieval](https://www.frontiersin.org/articles/10.3389/fnbeh.2021.634158/full)
+[Now I can just print that video](https://blog.forret.com/2023/12/01/printthatvideo/)
 
 [Inércia 2023](https://celso.io/posts/2023/12/03/inercia-2023/)
 
-[Tyrian purple: Ancient pigment that was more valuable than gold](https://www.bbc.com/future/article/20231122-tyrian-purple-the-lost-ancient-pigment-that-was-more-valuable-than-gold)
+[AI and Trust](https://www.schneier.com/blog/archives/2023/12/ai-and-trust.html)
 
-[Kramdown-man: A Kramdown convert for converting Markdown files into man pages](https://github.com/postmodern/kramdown-man)
+[Paper vs. devices: Brain activation differences during memory retrieval](https://www.frontiersin.org/articles/10.3389/fnbeh.2021.634158/full)
 
-[Relative shell script includes with realpath on FreeBSD](https://patmaddox.com/doc/trunk/www/2023-12-sh-relative-shell-script-includes-with-realpath-on-freebsd/)
+[HTML attributes for improved accessibility and user experience](https://www.htmhell.dev/adventcalendar/2023/4/)
 
-[History of the PDF [pdf]](https://www.sensible.so/history-of-the-pdf-pdf)
+[LLM Visualization](https://bbycroft.net/llm)

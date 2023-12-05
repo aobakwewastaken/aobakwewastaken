@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[I Hacked Magic the Gathering: Arena for a 100% Win Rate](https://www.mayer.cool/writings/I-Hacked-Magic-the-Gathering/)
+[Polish trains lock up when serviced in third-party workshops](https://social.hackerspace.pl/@q3k/111528162462505087)
 
-[As Nepali villages modernize, mokha art is on the verge of disappearing](https://globalvoices.org/2023/12/01/as-nepali-villages-modernize-mokha-art-is-on-the-verge-of-disappearing/)
+[Toxic comments are associated with reduced volunteer editors on Wikipedia](https://academic.oup.com/pnasnexus/article/2/12/pgad385/7457939)
 
-[Maths and science animations](https://blog.matthen.com)
+[A Brainfuck interpreter written in PostScript](https://github.com/nst/bfps)
 
-[NN-SVG](https://alexlenail.me/NN-SVG/AlexNet.html)
+[Mtn Dew using AI to find logos on twitch streams and reward streamers [pdf]](https://www.mountaindew.com/wp-content/uploads/2023/11/MTN-DEW-RAID-QA.pdf)
 
-[Symbian, the Secret History: Dark Star (2010)](https://www.theregister.com/2010/11/23/symbian_history_part_one_dark_star/)
+[Human mobility networks reveal increased segregation in large cities](https://www.nature.com/articles/s41586-023-06757-3)
 
-[GiveCampus (YC S15) Is Hiring Engineers who care about education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
+[The Time Julius Caesar Was Captured by Pirates](https://www.britannica.com/story/the-time-julius-caesar-was-captured-by-pirates)
 
-[Mounting Git commits as folders with NFS](https://jvns.ca/blog/2023/12/04/mounting-git-commits-as-folders-with-nfs/)
+[My Fediverse use – I'm hosting everything myself – PeerTube, Mastodon and Lemmy](https://tube.jeena.net/w/nivehRx8J7ZwujfS2oCoPC)
 
-[Rage: Fast web framework compatible with Rails](https://github.com/rage-rb/rage)
+[Sorry, but a new prompt for GPT-4 is not a paper](https://twitter.com/hbouammar/status/1731970658278469714)
 
-[Maelstrom: A workbench for learning distributed systems](https://github.com/jepsen-io/maelstrom)
+[The Curious Case of the Aggregation Query](https://modern-sql.com/blog/2023-12/curious-case-aggregation-query)
 
-[New theory claims to unite Einstein's gravity with quantum mechanics](https://phys.org/news/2023-12-theory-einstein-gravity-quantum-mechanics.html)
+[AI will enable mass spying](https://www.schneier.com/blog/archives/2023/12/the-internet-enabled-mass-surveillance-ai-will-enable-mass-spying.html)

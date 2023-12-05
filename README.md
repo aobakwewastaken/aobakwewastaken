@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[I Hacked Magic the Gathering: Arena for a 100% Win Rate](https://www.mayer.cool/writings/I-Hacked-Magic-the-Gathering/)
+
+[Rest in Peace, Optane – Speculative Branches](https://specbranch.com/posts/rip-optane/)
+
+[NN-SVG](https://alexlenail.me/NN-SVG/AlexNet.html)
+
+[Coding4Fun Hardware Boneyard – Using the CueCat with .NET (2006)](https://www.hanselman.com/blog/coding4fun-hardware-boneyard-using-the-cuecat-with-net)
+
+[Eclipse: The Demo that Sold 3D to Nintendo](https://gamehistory.org/eclipse-the-demo-that-sold-3d-to-nintendo/)
+
+[Bits (YC S20) Is Hiring a Finance and Analytics Manager in London](https://www.ycombinator.com/companies/bits/jobs/cC85dw9-finance-analytics-manager)
+
+[Maths and science animations](https://blog.matthen.com)
+
 [Dogbolt Decompiler Explorer](https://dogbolt.org/)
 
-[Forecasts need to have error bars](https://andrewpwheeler.com/2023/11/19/forecasts-need-to-have-error-bars/)
+[New theory claims to unite Einstein's gravity with quantum mechanics](https://phys.org/news/2023-12-theory-einstein-gravity-quantum-mechanics.html)
 
-[Switch off weird smart TV settings](https://practicalbetterments.com/switch-off-bad-tv-settings/)
-
-[A decade of Have I Been Pwned](https://www.troyhunt.com/a-decade-of-have-i-been-pwned/)
-
-[Secrets of the Fn Key](https://tidbits.com/2023/11/16/the-hidden-secrets-of-the-fn-key/)
-
-[Kubernetes Needs an LTS](https://matduggan.com/why-kubernetes-needs-an-lts/)
-
-[Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)
-
-[Now I can just print that video](https://blog.forret.com/2023/12/01/printthatvideo/)
-
-[Generating random terrains with Enu – a Nim lang based interactive sandbox](https://moigagoo.svbtle.com/generating-random-terrains-in-enu-0-2)
-
-[Launch HN: Slauth (YC S22) – auto-generate secure IAM policies for AWS and GCP]()
+[Maelstrom: A workbench for learning distributed systems](https://github.com/jepsen-io/maelstrom)

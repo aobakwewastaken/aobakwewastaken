@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Gemini: Google's most capable AI model yet](https://blog.google/technology/ai/google-gemini-ai/)
+[Gemini AI](https://deepmind.google/technologies/gemini/)
 
-[Gemini – Google DeepMind](https://deepmind.google/technologies/gemini/)
-
-[Enabling next-generation AI workloads: Announcing TPU v5p and AI Hypercomputer](https://cloud.google.com/blog/products/ai-machine-learning/introducing-cloud-tpu-v5p-and-ai-hypercomputer)
+[Wikifunctions](https://wikimediafoundation.org/news/2023/12/05/introducing-wikifunctions-first-wikimedia-project-to-launch-in-a-decade-creates-new-forms-of-knowledge/)
 
 [Mold Course](https://www.epa.gov/mold/mold-course-introduction)
 
-[Show HN: CopilotKit- Build in-app AI chatbots and AI-powered Textareas](https://github.com/CopilotKit/CopilotKit)
+[Show HN: CopilotKit- Build in-app AI chatbots and AI-powered textareas](https://github.com/CopilotKit/CopilotKit)
 
-[Show HN: Winglang – a new Cloud-Oriented programming language](https://github.com/winglang/wing)
+[LogoFAIL: Secure Boot bypass with manipulated boot logos](https://binarly.io/posts/The_Far_Reaching_Consequences_of_LogoFAIL/)
 
-[Apple Confirms Governments Using Push Notifications to Surveil Users](https://www.macrumors.com/2023/12/06/apple-governments-surveil-push-notifications/)
+[PostgreSQL and FIPS Mode](http://peter.eisentraut.org/blog/2023/12/05/postgresql-and-fips-mode)
 
-[Compressing Gaussian Splats](https://blog.playcanvas.com//compressing-gaussian-splats/)
+[The Sheep Incident (2008)](https://www.damninteresting.com/the-sheep-incident/)
 
-[Governments spying on Apple, Google users through push notifications -US senator](https://www.reuters.com/technology/cybersecurity/governments-spying-apple-google-users-through-push-notifications-us-senator-2023-12-06/)
+[Spellbrush (YC W18), Hiring AI Anime Researchers and Gamedevs (Tokyo/SF)](https://spellbrush.com/careers)
 
-[Why is Jepsen written in Clojure?](https://aphyr.com/posts/367-why-is-jepsen-written-in-clojure)
+[Show HN: Lume – automate data mappings using AI](https://www.lume.ai/)
+
+[Spotlight: Sentry for Development](https://spotlightjs.com/)

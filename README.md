@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Purple Llama by Meta AI](https://ai.meta.com/blog/purple-llama-open-trust-safety-generative-ai/)
+[Making noisy SVGs](https://daniel.do/article/making-noisy-svgs/)
+
+[Jets: Ruby Serverless Framework](https://docs.rubyonjets.com/)
+
+[Conway's Game of Life Is Omniperiodic](https://arxiv.org/abs/2312.02799)
+
+[The economics of all-you-can-eat buffets (2020)](https://thehustle.co/the-economics-of-all-you-can-eat-buffets/)
+
+[Choose your own IP](https://tailscale.com/blog/choose-your-ip/)
+
+[A lost X-Files song](https://twitter.com/laurenancona/status/1731900441800155459)
+
+[Gemini "duck" demo was not done in realtime or with voice](https://twitter.com/parmy/status/1732811357068615969)
+
+[Data Engineering Design Patterns](https://www.dedp.online/)
 
 [Fake chips, I got stung](https://linuxjedi.co.uk/2023/12/01/fake-chips-i-got-stung/)
 
-[Learn SVG with 25 examples – How to code images in HTML](https://svg-tutorial.com/)
-
-[Swedish Tesla strike goes international as Norwegian and Danish unions join in](https://www.theregister.com/2023/12/07/swedish_tesla_strike_international/)
-
-[Data Engineering Design Patterns (DEDP)](https://www.dedp.online/)
-
-[Lithium Price Collapsed 77% in a Year, as Demand and Production Both Surged](https://wolfstreet.com/2023/11/23/lithium-shortage-bubble-implodes-once-again-as-demand-and-production-both-surged/)
-
-[Show HN: Recompyle – A JavaScript Developer Friendly Console / Debugger](https://www.recompyle.com/)
-
-[OpenPGP Forked into "LibrePGP" by GnuPG's Maintainer Werner Koch](https://blog.pgpkeys.eu/critique-critique.html)
-
-[Building end-to-end security for Messenger](https://engineering.fb.com/2023/12/06/security/building-end-to-end-security-for-messenger/)
-
-[Ask HN: What other good forums are out there?]()
+[Purple Llama: Towards open trust and safety in generative AI](https://ai.meta.com/blog/purple-llama-open-trust-safety-generative-ai/)

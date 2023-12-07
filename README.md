@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Purple Llama by Meta AI](https://ai.meta.com/blog/purple-llama-open-trust-safety-generative-ai/)
+
+[Learn SVG with 25 examples – How to code images in HTML](https://svg-tutorial.com/)
+
+[Show HN: Recompyle – A JavaScript Developer Friendly Console / Debugger](https://www.recompyle.com/)
+
+[Lithium Price Collapsed 77% in a Year, as Demand and Production Both Surged](https://wolfstreet.com/2023/11/23/lithium-shortage-bubble-implodes-once-again-as-demand-and-production-both-surged/)
+
+[Show HN: Cujobay – A Modern Alternative to Crunchbase](https://www.cujobay.com)
+
 [Building end-to-end security for Messenger](https://engineering.fb.com/2023/12/06/security/building-end-to-end-security-for-messenger/)
+
+[OpenPGP Forked into "LibrePGP" by GnuPG's Maintainer Werner Koch](https://blog.pgpkeys.eu/critique-critique.html)
 
 [Games Nintendo didn't want you to play: Tengen (2022)](https://nicole.express/2022/the-center-point-can-not-hold.html)
 
-[LogoFAIL: Secure Boot bypass with manipulated boot logos](https://binarly.io/posts/The_Far_Reaching_Consequences_of_LogoFAIL/)
+[Light can be reflected not only in space but also in time](https://www.scientificamerican.com/article/light-can-travel-backward-in-time-sort-of/)
 
-[Long context prompting for Claude 2.1](https://www.anthropic.com/index/claude-2-1-prompting)
-
-[Unveiling secrets of the ESP32: creating an open-source MAC layer](https://zeus.ugent.be/blog/23-24/open-source-esp32-wifi-mac/)
-
-[Ploomber (YC W22) Is Hiring Software Engineers in NYC](https://www.ycombinator.com/companies/ploomber/jobs)
-
-[Untrusted Device Encryption](https://docs.syncthing.net/specs/untrusted.html)
-
-[Behind the scenes of Sound ID in Merlin – Identify birds using your phone (2021)](https://www.macaulaylibrary.org/2021/06/22/behind-the-scenes-of-sound-id-in-merlin/)
-
-[Gemini AI](https://deepmind.google/technologies/gemini/)
-
-[Cabinets of curiosities laid the foundation for modern museums](https://www.smithsonianmag.com/history/how-cabinets-of-curiosities-laid-the-foundation-for-modern-museums-180983265/)
+[Until the 14th century women dominated the field of beer brewing](https://daily.jstor.org/a-pint-for-the-alewives/)

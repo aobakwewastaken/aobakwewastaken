@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Dieselgate, but for trains – some heavyweight hardware hacking](https://badcyber.com/dieselgate-but-for-trains-some-heavyweight-hardware-hacking/)
+[FDA approves a CRISPR-based medicine for treatment of sickle cell disease](https://www.statnews.com/2023/12/08/fda-approves-casgevy-crispr-based-medicine-for-treatment-of-sickle-cell-disease/)
 
-[jc: Converts the output of popular command-line tools to JSON](https://github.com/kellyjonbrazil/jc)
+['A-team' of math proves a critical link between addition and sets](https://www.quantamagazine.org/a-team-of-math-proves-a-critical-link-between-addition-and-sets-20231206/)
 
-[TXR Lisp](https://www.nongnu.org/txr/txr-lisp.html)
+[Paving the way to efficient architectures: StripedHyena-7B](https://www.together.ai/blog/stripedhyena-7b)
 
-[The Onyx Programming Language](https://onyxlang.io/)
+[You are never taught how to build quality software](https://www.florianbellmann.com/blog/never-taught-qa)
 
-[No distributed quantum advantage for approximate graph coloring](https://arxiv.org/abs/2307.09444)
+[GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Human Synthesis](https://shunyuanzheng.github.io/GPS-Gaussian)
 
-[Gaussian Head Avatar: Ultra High-Fidelity Head Avatar via Dynamic Gaussians](https://yuelangx.github.io/gaussianheadavatar/)
+[American Chestnut Foundation Ceasing Distribution of Blight-Resistant Seeds](https://tacf.org/darling-58/)
 
-[Reviving decade-old Macs with antiX and MX Linux (2022)](https://sts10.github.io/2022/12/14/antix-on-2008-macbook-5-1.html)
+[Spoofing DNS records by abusing DHCP DNS dynamic updates](https://www.akamai.com/blog/security-research/spoofing-dns-by-abusing-dhcp)
 
-[5Ghoul: 5G Modem Firmware CVEs](https://asset-group.github.io/disclosures/5ghoul/)
+[Ancient stars made extraordinarily heavy elements, researchers find](https://phys.org/news/2023-12-ancient-stars-extraordinarily-heavy-elements.html)
 
-[Spoofing DNS records abusing Microsoft DHCP server running in 40% of datacenters](https://www.akamai.com/blog/security-research/spoofing-dns-by-abusing-dhcp)
+[The pro-Israel information war](https://jackpoulson.substack.com/p/inside-the-pro-israel-information)
 
-[Problems on the Galaxy Store](https://forum.developer.samsung.com/t/test-confirmation-rejected-too-expensive/28238)
+[MIDI Editor](http://www.midieditor.org/index.php?category=intro)

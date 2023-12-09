@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Doug Engelbart’s 1968 demo](https://dougengelbart.org/content/view/209/)
+
+[Sony debuts first PS5 controller for disabled gamers](https://www.bbc.com/news/technology-67635851)
+
+[Vulnerabilities in TETRA radio networks](https://www.cryptomuseum.com/radio/tetra/burst.htm)
+
 [Murder is a pixel art ECS game engine in C#](https://github.com/isadorasophia/murder)
 
-[Deadweight Loss as a Service](https://unoriginal.blog/introducing-dwlaas/)
+[Dynamic music and sound techniques for video games](https://blog.gingerbeardman.com/2023/12/09/dynamic-music-and-sound-techniques-for-video-games/)
 
-[Scrambling Eggs for Spotify with Knuth's Fibonacci Hashing](https://pncnmnp.github.io/blogs/fibonacci-hashing.html)
+[CPNG, a backwards compatible fork of PNG](https://richg42.blogspot.com/2023/12/announcing-cpng-compatible-network.html)
 
-[W4 Games raises $15M to drive video game development with Godot Engine](https://w4games.com/2023/12/07/w4-games-raises-15m-to-drive-video-game-development-inflection-with-godot-engine/)
+[Sneakers Film Promotional Floppy](https://archive.org/details/Sneakers_Film_Promotional_Floppy)
 
-[OpenBao – FOSS Fork of HashiCorp Vault](https://github.com/openbao/openbao/tree/development)
+[UpCodes (YC S17) is hiring remote SWEs to help make buildings cheaper](https://up.codes/careers)
 
-[CPNG, a backwards compatible fork of PNG](http://richg42.blogspot.com/2023/12/announcing-cpng-compatible-network.html)
+[Why a spritz of water before grinding coffee yields better results](https://arstechnica.com/science/2023/12/study-why-a-spritz-of-water-before-grinding-coffee-yields-less-waste-tastier-espresso/)
 
-[Just Your Handyman](https://www.plough.com/en/topics/life/work/just-your-handyman?ref=thebrowser.com)
-
-[Nebula Genomics – First to offer consumer anonymous sequencing](https://nebula.org/anonymous-seq/)
-
-[Apple to move key iPad engineering resources to Vietnam](https://asia.nikkei.com/Spotlight/Supply-Chain/Apple-to-move-key-iPad-engineering-resources-to-Vietnam)
-
-[Advent of Technical Writing: Style](https://jamesg.blog/2023/12/09/style/)
+[Programming Bottom-Up (1993)](http://www.paulgraham.com/progbot.html)

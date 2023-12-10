@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Bad News, Emacs](https://eshelyaron.com/posts/2023-12-10-bad-news.html)
+
+[AST-grep(sg) is a CLI tool for code structural search, lint, and rewriting](https://github.com/ast-grep/ast-grep)
+
+[Write your own retro compiler](http://t3x.org/t3x/0/book.html)
+
+[Audiobox: Meta's new foundation research model for audio generation](https://ai.meta.com/blog/audiobox-generating-audio-voice-natural-language-prompts/)
+
+[Ask HN: How to inform YouTube a video is no longer under copyright?]()
+
+[Routers at Centre Pompidou and software evolution](https://tomasp.net/blog/2023/pompidou/)
+
 [Fuzzy Finding with Emacs Instead of Fzf](https://www.masteringemacs.org/article/fuzzy-finding-emacs-instead-of-fzf)
 
-[Gooey: Turn almost any Python command line program into a full GUI application](https://github.com/chriskiehl/Gooey)
-
-[Is RISC-V ready for HPC? Evaluating the 64-core Sophon SG2042 RISC-V CPU](https://arxiv.org/abs/2309.00381)
-
-[A Matter of Millimeters: The story of Qantas flight 32](https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7)
-
-[Things I learned from teaching](https://claytonwramsey.github.io/blog/learned-from-teaching.html)
-
-[Lago (Open-Source Stripe Billing) Is Hiring Back-End Ruby Engineers in EU](https://www.ycombinator.com/companies/lago/jobs/RvvzKuM-sr-back-end-ruby-engineer)
-
-[Trippy – A Network Diagnostic Tool](https://trippy.cli.rs/)
-
-[Trust-Based Moderation Systems](https://cblgh.org/trustnet/)
-
-[Sony debuts first PS5 controller for disabled gamers](https://www.bbc.com/news/technology-67635851)
+[Spotify announces CFO to leave, days after he cashed in $9.3M in shares](https://www.theguardian.com/technology/2023/dec/08/spotify-announces-cfo-to-leave-days-after-he-cashed-in-shares)
 
 [Innovation of the Year: BYD Blade Battery](https://www.electrifying.com/blog/best-cars/innovation-of-the-year-byd-blade-battery)
+
+[Things I learned from teaching](https://claytonwramsey.github.io/blog/learned-from-teaching.html)

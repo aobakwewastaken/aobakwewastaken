@@ -3,18 +3,18 @@
 
 [A Matter of Millimeters: The story of Qantas flight 32](https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7)
 
-[Trippy – A Network Diagnostic Tool](https://trippy.cli.rs/)
+[Is RISC-V ready for HPC? Evaluating the 64-core Sophon SG2042 RISC-V CPU](https://arxiv.org/abs/2309.00381)
 
-[Sony debuts first PS5 controller for disabled gamers](https://www.bbc.com/news/technology-67635851)
+[Trippy – A Network Diagnostic Tool](https://trippy.cli.rs/)
 
 [Things I learned from teaching](https://claytonwramsey.github.io/blog/learned-from-teaching.html)
 
-[Milk-V Pioneer – native RISC-V computer](https://milkv.io/pioneer)
+[Fuzzy Finding with Emacs Instead of Fzf](https://www.masteringemacs.org/article/fuzzy-finding-emacs-instead-of-fzf)
 
-[Doug Engelbart’s 1968 demo](https://dougengelbart.org/content/view/209/)
+[Trust-Based Moderation Systems](https://cblgh.org/trustnet/)
 
-[Cramming a tiny program into a tiny ELF file](https://tmpout.sh/3/22.html)
+[Sony debuts first PS5 controller for disabled gamers](https://www.bbc.com/news/technology-67635851)
 
-[Linux: Ext4 data corruption in 6.1.64-1](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1057843)
+[The diminishing half-life of knowledge](https://rednafi.com/zephyr/diminishing_half_life_of_knowledge/)
 
-[Ask HN: What's the best hardware to run small/medium models locally?]()
+[Waveterm](https://www.waveterm.dev/)

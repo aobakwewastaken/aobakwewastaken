@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Doug Engelbart’s 1968 demo](https://dougengelbart.org/content/view/209/)
+[Gooey: Turn almost any Python command line program into a full GUI application](https://github.com/chriskiehl/Gooey)
+
+[A Matter of Millimeters: The story of Qantas flight 32](https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7)
+
+[Trippy – A Network Diagnostic Tool](https://trippy.cli.rs/)
 
 [Sony debuts first PS5 controller for disabled gamers](https://www.bbc.com/news/technology-67635851)
 
-[Vulnerabilities in TETRA radio networks](https://www.cryptomuseum.com/radio/tetra/burst.htm)
+[Things I learned from teaching](https://claytonwramsey.github.io/blog/learned-from-teaching.html)
 
-[Murder is a pixel art ECS game engine in C#](https://github.com/isadorasophia/murder)
+[Milk-V Pioneer – native RISC-V computer](https://milkv.io/pioneer)
 
-[Dynamic music and sound techniques for video games](https://blog.gingerbeardman.com/2023/12/09/dynamic-music-and-sound-techniques-for-video-games/)
+[Doug Engelbart’s 1968 demo](https://dougengelbart.org/content/view/209/)
 
-[CPNG, a backwards compatible fork of PNG](https://richg42.blogspot.com/2023/12/announcing-cpng-compatible-network.html)
+[Cramming a tiny program into a tiny ELF file](https://tmpout.sh/3/22.html)
 
-[Sneakers Film Promotional Floppy](https://archive.org/details/Sneakers_Film_Promotional_Floppy)
+[Linux: Ext4 data corruption in 6.1.64-1](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1057843)
 
-[UpCodes (YC S17) is hiring remote SWEs to help make buildings cheaper](https://up.codes/careers)
-
-[Why a spritz of water before grinding coffee yields better results](https://arstechnica.com/science/2023/12/study-why-a-spritz-of-water-before-grinding-coffee-yields-less-waste-tastier-espresso/)
-
-[Programming Bottom-Up (1993)](http://www.paulgraham.com/progbot.html)
+[Ask HN: What's the best hardware to run small/medium models locally?]()

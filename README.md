@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [Mistral: Mixtral of Experts](https://mistral.ai/news/mixtral-of-experts/)
 
-[Low Latency, Low Loss, and Scalable Throughput (L4S) Internet Service: RFC 9330](https://datatracker.ietf.org/doc/rfc9330/)
+[Mistral: Our first AI endpoints are available in early access](https://mistral.ai/news/la-plateforme/)
 
-[Fixing Classical Cats: How I Got Tricked by 28-Year-Old Defensive Programming](https://www.mistys-internet.website/blog/blog/2023/12/10/fixing-classical-cats-or/)
+[Google have removed RSS support from their developer blogs](https://developer.chrome.com/feeds)
+
+[$35 smart calculator for small shops](https://smart.tohands.in/)
 
 [How many lines of C it takes to execute a + b in Python](https://codeconfessions.substack.com/p/cpython-dynamic-dispatch-internals)
 
-[Mistral: Our first AI endpoints are available in early access](https://mistral.ai/news/la-plateforme/)
+[Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 
-[Templ: A language for writing HTML user interfaces in Go](https://github.com/a-h/templ)
+[Low Latency, Low Loss, and Scalable Throughput (L4S) Internet Service: RFC 9330](https://datatracker.ietf.org/doc/rfc9330/)
 
-[Omg.lol: An Oasis on the Internet](https://blakewatson.com/journal/omg-lol-an-oasis-on-the-internet/)
+[Magical Fibonacci Formulae](https://orlp.net/blog/magical-fibonacci-formulae/)
 
-[Pitivi – Free video editor with a beautiful and intuitive user interface](https://www.pitivi.org/)
+[Is Northern Ireland a failed state?](https://www.thefitzwilliam.com/p/is-northern-ireland-a-failed-state)
 
-[Clockhands: Rename-Free Instruction Set Architecture for Out-of-Order Processors](https://dl.acm.org/doi/fullHtml/10.1145/3613424.3614272)
-
-[What is a zero refractive index material?](https://skullsinthestars.com/2023/12/09/what-is-a-zero-refractive-index-material/)
+[Building a bare-metal bootable game for Raspberry Pi in C#](https://migeel.sk/blog/2023/12/08/building-bare-metal-bootable-game-for-raspberry-pi-in-csharp/)

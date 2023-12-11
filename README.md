@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Mistral: Mixtral of Experts](https://mistral.ai/news/mixtral-of-experts/)
+[Mechanical Watch (2022)](https://ciechanow.ski/mechanical-watch/)
 
-[Mistral: Our first AI endpoints are available in early access](https://mistral.ai/news/la-plateforme/)
+[Why scientists are making transparent wood](https://arstechnica.com/science/2023/12/why-scientists-are-making-transparent-wood/)
 
-[Google have removed RSS support from their developer blogs](https://developer.chrome.com/feeds)
+[Tohands – Smart calculator for small businesses](https://smart.tohands.in/)
 
-[$35 smart calculator for small shops](https://smart.tohands.in/)
-
-[How many lines of C it takes to execute a + b in Python](https://codeconfessions.substack.com/p/cpython-dynamic-dispatch-internals)
-
-[Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
-
-[Low Latency, Low Loss, and Scalable Throughput (L4S) Internet Service: RFC 9330](https://datatracker.ietf.org/doc/rfc9330/)
+[A Big Small Leap Forward in Graph Theory](https://www.quantamagazine.org/after-nearly-a-century-a-new-limit-for-patterns-in-graphs-20230502/)
 
 [Magical Fibonacci Formulae](https://orlp.net/blog/magical-fibonacci-formulae/)
 
-[Is Northern Ireland a failed state?](https://www.thefitzwilliam.com/p/is-northern-ireland-a-failed-state)
+[How many lines of C it takes to execute a + b in Python](https://codeconfessions.substack.com/p/cpython-dynamic-dispatch-internals)
 
 [Building a bare-metal bootable game for Raspberry Pi in C#](https://migeel.sk/blog/2023/12/08/building-bare-metal-bootable-game-for-raspberry-pi-in-csharp/)
+
+[Mistral: Mixtral of Experts](https://mistral.ai/news/mixtral-of-experts/)
+
+[Low Latency, Low Loss, and Scalable Throughput (L4S) Internet Service: RFC 9330](https://datatracker.ietf.org/doc/rfc9330/)
+
+[Marmot: Multi-writer distributed SQLite based on NATS](https://github.com/maxpert/marmot)

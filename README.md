@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Low Latency, Low Loss, and Scalable Throughput (L4S) Internet Service: RFC 9330](https://datatracker.ietf.org/doc/rfc9330/)
+
+[Templ: A language for writing HTML user interfaces in Go](https://github.com/a-h/templ)
+
 [Omg.lol: An Oasis on the Internet](https://blakewatson.com/journal/omg-lol-an-oasis-on-the-internet/)
 
-[Write your own retro compiler](http://t3x.org/t3x/0/book.html)
+[Pitivi – Free video editor with a beautiful and intuitive user interface](https://www.pitivi.org/)
 
-[PC GEOS: the multitasking DOS-based GUI OS that evolved from a C64 desktop](https://github.com/bluewaysw/pcgeos)
+[Could We Stop Yellowstone from Erupting with a Giant Geothermal Power Plant?](https://www.construction-physics.com/p/could-we-stop-yellowstone-from-erupting)
 
-[The subtleties of proper B+Tree implementation](https://ayende.com/blog/198241-B/the-subtleties-of-proper-b-tree-implementation)
+[What is a zero refractive index material?](https://skullsinthestars.com/2023/12/09/what-is-a-zero-refractive-index-material/)
 
-[FFM (Foreign Function and Memory API) Goes Final](https://mail.openjdk.org/pipermail/panama-dev/2023-October/020095.html)
+[BSD on Windows: Things I wish I knew existed](https://virtuallyfun.com/2023/12/08/bsd-on-windows-things-i-wish-i-knew-existed/)
 
-[AST-grep(sg) is a CLI tool for code structural search, lint, and rewriting](https://github.com/ast-grep/ast-grep)
+[User Interface Typography](https://imperavi.com/books/ui-typography/)
 
-[Audiobox: Meta's new foundation research model for audio generation](https://ai.meta.com/blog/audiobox-generating-audio-voice-natural-language-prompts/)
+[The surprising connection between after-hours work and decreased productivity](https://slack.com/intl/en-gb/blog/news/the-surprising-connection-between-after-hours-work-and-decreased-productivity?nojsmode=1)
 
-[Meticulous.ai (YC S21) Is Hiring to make tests obsolete]()
-
-[The valley of the cheese of the dead](https://www.atlasobscura.com/articles/most-unusual-cheese-switzerland)
-
-[Mistral-8x7B-Chat](https://huggingface.co/mattshumer/mistral-8x7b-chat)
+[The Invisible Bunnies That Power World of Warcraft (2017)](https://kotaku.com/the-invisible-bunnies-that-power-world-of-warcraft-1791576630)

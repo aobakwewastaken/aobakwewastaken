@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Non-interactive SSH password authentication](https://vincent.bernat.ch/en/blog/2023-sshpass-without-sshpass)
+[Stirling-PDF: local web application to perform various operations on PDFs](https://github.com/Frooodle/Stirling-PDF)
+
+[DIY Night Clock Projector (2018)](https://microengineer.eu/2018/05/01/diy-night-clock-projector/)
 
 [TKey is a RISC-V computer in a USB-C case, that can run security applications](https://dev.tillitis.se/intro/)
 
-[GTA 5 source code reportedly leaked online a year after RockStar hack](https://www.bleepingcomputer.com/news/security/gta-5-source-code-reportedly-leaked-online-a-year-after-rockstar-hack/)
-
-[Zotero for Android available for beta tests](https://forums.zotero.org/discussion/110371/available-for-beta-testing-zotero-for-android)
-
-[2023: The Year of AI](https://journal.everypixel.com/2023-the-year-of-ai)
-
-[Woman pregnant in each of her two uteruses gives birth to twins](https://www.cnn.com/2023/12/24/health/woman-two-uteruses-birth-twins/index.html)
-
-[Constellations are younger than continents](https://www.lesswrong.com/posts/YMakfmwZsoLdXAZhb/constellations-are-younger-than-continents)
-
-[Stupid Patent of the Month: Selfie Contests](https://www.eff.org/deeplinks/2023/12/stupid-patent-month-selfie-contests)
-
-[Patterns (YC S21) is hiring to automate analytics with LLMs](https://www.patterns.app/)
+[Non-interactive SSH password authentication](https://vincent.bernat.ch/en/blog/2023-sshpass-without-sshpass)
 
 [The Neat Programming Language](https://neat-lang.github.io/)
+
+[TLA+ in Isabelle/HOL](https://davecturner.github.io/2018/02/12/tla-in-isabelle.html)
+
+[Has gratuity culture reached a tipping point?](https://www.newyorker.com/magazine/2023/01/01/has-gratuity-culture-reached-a-tipping-point)
+
+[Towards Oberon+ Concurrency](https://oberon-lang.github.io/2023/12/25/towards-concurrency.html)
+
+[Datsun 240Z L24 Engine Full Rebuild [video]](https://www.youtube.com/watch?v=j0GmBwB0yrI)
+
+[Reproducible Git Bundles](https://baecher.dev/stdout/reproducible-git-bundles/)

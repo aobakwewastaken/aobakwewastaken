@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Beeper Mini is back](https://blog.beeper.com/p/beeper-mini-is-back)
+[Non-interactive SSH password authentication](https://vincent.bernat.ch/en/blog/2023-sshpass-without-sshpass)
 
-[Mechanical Watch (2022)](https://ciechanow.ski/mechanical-watch/)
+[TKey is a RISC-V computer in a USB-C case, that can run security applications](https://dev.tillitis.se/intro/)
 
-[Show HN: I built an OSS alternative to Azure OpenAI services](https://github.com/bricks-cloud/BricksLLM)
+[GTA 5 source code reportedly leaked online a year after RockStar hack](https://www.bleepingcomputer.com/news/security/gta-5-source-code-reportedly-leaked-online-a-year-after-rockstar-hack/)
 
-[He steals them, of course](https://literaryreview.co.uk/he-steals-them-of-course)
+[Zotero for Android available for beta tests](https://forums.zotero.org/discussion/110371/available-for-beta-testing-zotero-for-android)
 
-[Text Editor Data Structures: Rethinking Undo](https://cdacamar.github.io/data%20structures/algorithms/benchmarking/text%20editors/c++/rethinking-undo/)
+[2023: The Year of AI](https://journal.everypixel.com/2023-the-year-of-ai)
 
-[Mathematicians have found a new upper limit to the Ramsey number](https://www.quantamagazine.org/after-nearly-a-century-a-new-limit-for-patterns-in-graphs-20230502/)
+[Woman pregnant in each of her two uteruses gives birth to twins](https://www.cnn.com/2023/12/24/health/woman-two-uteruses-birth-twins/index.html)
 
-[Comparing 6502 Multiply Routines](https://github.com/TobyLobster/multiply_test)
+[Constellations are younger than continents](https://www.lesswrong.com/posts/YMakfmwZsoLdXAZhb/constellations-are-younger-than-continents)
 
-['Glacier mice' baffle scientists](https://www.atlasobscura.com/articles/herds-of-glacier-mice-baffle-scientists)
+[Stupid Patent of the Month: Selfie Contests](https://www.eff.org/deeplinks/2023/12/stupid-patent-month-selfie-contests)
 
-[On Limited Editions (1998)](http://woodblock.com/surimono/atgallery01.html)
+[Patterns (YC S21) is hiring to automate analytics with LLMs](https://www.patterns.app/)
 
-[Transparent wood could soon find uses in smartphone screens, insulated windows](https://arstechnica.com/science/2023/12/why-scientists-are-making-transparent-wood/)
+[The Neat Programming Language](https://neat-lang.github.io/)

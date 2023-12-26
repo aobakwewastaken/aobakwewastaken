@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Game Boy / Color Architecture](https://www.copetti.org/writings/consoles/game-boy/)
+
+[Using Make – writing less Makefile](https://text.causal.agency/001-make.txt)
+
+[FUSE-T is a kext-less implementation of FUSE for macOS that uses NFSv4](https://github.com/macos-fuse-t/fuse-t)
+
+[Show HN: Actually Portable Vim (With a Cute Vimrc)](https://github.com/csdvrx/CuteVim)
+
+[History of Alice and Bob](http://cryptocouple.com/)
+
+[Putting the "J" in the RPG, Part 2: Playstation for the Win](https://www.filfre.net/2023/12/putting-the-j-in-the-rpg-part-2-playstation-for-the-win/)
+
 [Black Triangles (2014)](https://rampantgames.com/blog/?p=7745)
 
-[A copy-and-patch JIT compiler for CPython](https://github.com/python/cpython/pull/113465)
+[How thermal management is changing in the age of the kilowatt chip](https://www.theregister.com/2023/12/26/thermal_management_is_changing/)
 
-[Where Are the Sanity Checks?](https://eclecticlight.co/2023/12/25/where-are-the-sanity-checks/)
+[Moderna's mRNA cancer vaccine works better than thought](https://www.freethink.com/health/cancer-vaccine)
 
-[Lab Notebooks (2020)](https://sambleckley.com/writing/lab-notebooks.html)
-
-[A data corruption bug in OpenZFS?](https://despairlabs.com/blog/posts/2023-12-25-openzfs-data-corruption-bug/)
-
-[Website Search Hurts My Feelings](https://www.openmymind.net/Your-Website-Search-Hurts-My-Feelings/)
-
-[Learn Modern C++](https://learnmoderncpp.com/)
-
-[Fake It 'Til You Fake It](https://pxlnv.com/blog/fake-it-til-you-fake-it/)
-
-[Goodsteins theorem](https://en.wikipedia.org/wiki/Goodstein%27s_theorem)
-
-[Obsidian 1.5 Desktop (Public)](https://obsidian.md/changelog/2023-12-26-desktop-v1.5.3/)
+[The Invisible Screen – An E-Paper Smart Display](https://shop.invisible-computers.com/products/invisible-calendar)

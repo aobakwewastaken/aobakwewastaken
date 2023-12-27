@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [Apollo 11 vs. USB-C Chargers (2020)](https://forrestheller.com/Apollo-11-Computer-vs-USB-C-chargers.html)
 
-[2nd City Zoning](https://secondcityzoning.org)
+[Light-induced whole-molecule vibration can rupture melanoma cells’ membrane](https://news.rice.edu/news/2023/molecular-jackhammers-good-vibrations-eradicate-cancer-cells)
 
-[Donald Knuth’s 2023 Christmas Lecture: Making the Cells Dance](https://thenewstack.io/donald-knuths-2023-christmas-lecture-make-the-cells-dance/)
+[2nd City Zoning](https://secondcityzoning.org)
 
 [Things software developers should learn about learning](https://cacm.acm.org/magazines/2024/1/278891-10-things-software-developers-should-learn-about-learning/fulltext)
 
-[Nintendo Switch's iGPU: Maxwell Nerfed Edition](https://chipsandcheese.com/2023/12/23/nintendo-switchs-igpu-maxwell-nerfed-edition/)
+[Donald Knuth’s 2023 Christmas Lecture: Making the Cells Dance](https://thenewstack.io/donald-knuths-2023-christmas-lecture-make-the-cells-dance/)
 
 [Buzz: A lightweight statically typed scripting language](https://buzz-lang.dev/)
 
+[Veritasium: The SAT Question Everyone Got Wrong [video]](https://www.youtube.com/watch?v=FUHkTs-Ipfg)
+
+[Reminiscing CGI Scripts](https://rednafi.com/go/reminiscing_cgi_scripts/)
+
 [Game Boy / Color Architecture](https://www.copetti.org/writings/consoles/game-boy/)
 
-[Clanging](https://en.wikipedia.org/wiki/Clanging)
-
-[Mir: Strongly typed IR to implement fast and lightweight interpreters and JITs](https://github.com/vnmakarov/mir)
-
-[Croquet: Live, network-transparent 3D gaming](https://www.theregister.com/2023/03/23/croquet_for_unity/)
+[Tools and Apps for Technical Theater](https://www.captitles.com/apps-for-technical-theatre)

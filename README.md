@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[In 2024, please switch to Firefox](https://roytanck.com/2023/12/23/in-2024-please-switch-to-firefox/)
+[Tracking developer build times to decide if the M3 MacBook is worth upgrading](https://incident.io/blog/festive-macbooks)
 
-[How the append-only btree works](https://www.bzero.se/ldapd/btree.html)
+[Blot turns a folder into a website](https://blot.im/how)
 
-[Why are Apple Silicon VMs so different?](https://eclecticlight.co/2023/12/29/why-are-apple-silicon-vms-so-different/)
+[Wi-Fi 7 Signals the Industry's New Priority: Stability](https://spectrum.ieee.org/wi-fi-7)
 
-[The Linux Backdoor Attempt of 2003](https://freedom-to-tinker.com/2013/10/09/the-linux-backdoor-attempt-of-2003/)
+["No inventions; no innovations" A History of US Steel](https://www.construction-physics.com/p/no-inventions-no-innovations-a-history)
 
-[Ideal Monitor Rotation for Programmers (2021)](https://sprocketfox.io/xssfox/2021/12/02/xrandr/)
+[Most favorited articles by the top 10k most active HN members (2020)](https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis)
 
-[Gentoo Linux Goes Binary](https://www.gentoo.org/news/2023/12/29/Gentoo-binary.html)
+[UK announces commercial operations of longest land/subsea interconnector](https://www.nationalgrid.com/national-grid-announces-commercial-operations-viking-link-worlds-longest-land-and-subsea)
 
-[The Surprising Genius of Sewing Machines [video]](https://www.youtube.com/watch?v=RQYuyHNLPTQ)
+[How the append-only btree works (2010)](https://www.bzero.se/ldapd/btree.html)
 
-[Every Major Pharmacy Chain Giving Government Warrantless Medical Record Access](https://www.techdirt.com/2023/12/28/every-major-pharmacy-chain-is-giving-the-government-warrantless-access-to-medical-records/)
+[Who made millions trading the October 7th attacks?](https://www.economist.com/finance-and-economics/2023/12/05/did-hamas-make-millions-trading-the-october-7th-attacks)
 
-[Developer Productivity for Humans, Part 7: Software Quality](https://ieeexplore.ieee.org/document/10372494)
+[Increasing purchases at farmers markets using point‐of‐sale scanner data](https://onlinelibrary.wiley.com/doi/10.1002/jaa2.96)
 
-[Ask HN: What are good books/blogs to read for a first time CTO?]()
+[The Linux backdoor attempt of 2003 (2013)](https://freedom-to-tinker.com/2013/10/09/the-linux-backdoor-attempt-of-2003/)

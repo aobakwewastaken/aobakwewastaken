@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Ugrep – a more powerful, ultra fast, user-friendly, compatible grep](https://ugrep.com/)
+
+[EU Cyber Resilience Act: What does it mean for open source?](https://berthub.eu/articles/posts/eu-cra-what-does-it-mean-for-open-source/)
+
 [The art of high performance computing](https://theartofhpc.com/)
 
-[Show HN: LinuxDAW – Quality audio software for Linux](https://linuxdaw.org/)
+[Claude Bragdon: Drawings of the Fourth Dimension (2022)](https://socks-studio.com/2022/10/23/claude-bragdon-drawings/)
+
+[Thinking About Internet History](https://content.cooperate.com/post/internet_history/)
+
+[Malware abuses Google OAuth endpoint to 'revive' cookies, hijack accounts](https://www.bleepingcomputer.com/news/security/malware-abuses-google-oauth-endpoint-to-revive-cookies-hijack-accounts/)
 
 [Fake Trees: Using Indents for Simpler UIs](https://ratfactor.com/cards/fake-trees)
 
-[ScummVM officially released in the App Store](https://apps.apple.com/us/app/scummvm/id6446184412)
+[Show HN: dextk - Android dex file parser in Go](https://github.com/csnewman/dextk)
 
-[Hidden gems of moreutils](https://jpospisil.com/2023/12/19/the-hidden-gems-of-moreutils)
+[LIPS: Powerful Scheme based Lisp interpreter in JavaScript](https://lips.js.org/)
 
-[Latent Dictionary: 3D map of Oxford3000+search words via DistilBert embeddings](https://latentdictionary.com/)
-
-[PostgreSQL internals: Things to know about update statements](https://patrick.engineering/posts/postgres-internals/)
-
-[Understanding Parquet, Iceberg and Data Lakehouses](https://davidgomes.com/understanding-parquet-iceberg-and-data-lakehouses-at-broad/)
-
-[New theory seeks to unite Einstein's gravity with quantum mechanics](https://www.ucl.ac.uk/news/2023/dec/new-theory-seeks-unite-einsteins-gravity-quantum-mechanics)
-
-[Blot turns a folder into a website](https://blot.im/how)
+[Coastline Paradox](https://en.wikipedia.org/wiki/Coastline_paradox)

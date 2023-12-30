@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[The value of canonicity (2020)](https://building.nubank.com.br/the-value-of-canonicity/)
+[The art of high performance computing](https://theartofhpc.com/)
 
-[PostgreSQL Internals: Things to Know About Update Statements](https://patrick.engineering/posts/postgres-internals/)
+[Fake Trees: Using Indents for Simpler UIs](https://ratfactor.com/cards/fake-trees)
 
-[What I Learned Using Private LLMs to Write an Undergraduate History Essay](https://zwischenzugs.com/2023/12/27/what-i-learned-using-private-llms-to-write-an-undergraduate-history-essay/)
+[Latent Dictionary: 3D map of Oxford3000+search words via DistilBert embeddings](https://latentdictionary.com/)
 
-[The case for a pipe assignment operator in R](http://hughjonesd.github.io/case-for-pipe-assignment.html)
+[PostgreSQL internals: Things to know about update statements](https://patrick.engineering/posts/postgres-internals/)
 
-[Emerge (YC W21) is hiring a Senior Android Engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-android-engineer)
+[Hidden gems of moreutils](https://jpospisil.com/2023/12/19/the-hidden-gems-of-moreutils)
+
+[New theory seeks to unite Einstein's gravity with quantum mechanics](https://www.ucl.ac.uk/news/2023/dec/new-theory-seeks-unite-einsteins-gravity-quantum-mechanics)
 
 [Understanding Parquet, Iceberg and Data Lakehouses](https://davidgomes.com/understanding-parquet-iceberg-and-data-lakehouses-at-broad/)
 
-[Blot turns a folder into a website](https://blot.im/how)
-
-[Rep and Ren: A new approach to CLI find, replace, and renaming](https://blog.robenkleene.com/2023/12/26/introducing-rep-ren/)
+[Driverless cars immune from traffic tickets in California under current laws](https://www.nbcnews.com/business/business-news/can-driverless-cars-get-tickets-california-law-rcna131538)
 
 [Show HN: FreshTube – show latest videos from YouTube channels](https://github.com/porjo/freshtube)
 
-[THAT: A brand new analog computer](https://spectrum.ieee.org/try-this-new-analog-computer)
+[Emerge (YC W21) is hiring a Senior Android Engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-android-engineer)

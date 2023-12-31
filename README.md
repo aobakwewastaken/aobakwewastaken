@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT](https://danluu.com/seo-spam/)
+[Interesting double-poly latches inside AMD's vintage LANCE Ethernet chip](https://www.righto.com/2023/12/amd-lance-ethernet-double-poly.html)
 
-[A 1690s Peanut is Reborn](https://nationalpeanutboard.org/news/a-1690s-peanut-is-reborn/)
+[The step-by-step logic of old pinball machines [video]](https://www.youtube.com/watch?v=E3p_Cv32tEo)
+
+[Test Smarter, Not Harder: Focus on Outcomes, Not Outputs](https://markus.oberlehner.net/blog/test-smarter-not-harder-focus-on-outcomes-not-outputs/)
 
 [I forked SteamOS for my living room PC](https://iliana.fyi/blog/build-your-own-steamos-updates/)
 
-[The Forecasting Fallacy](https://www.alexmurrell.co.uk/articles/the-forecasting-fallacy)
+[Logistic Regression for Image Classification Using OpenCV](https://machinelearningmastery.com/logistic-regression-for-image-classification-using-opencv/)
 
-[Emacs-copilot: Large language model code completion for Emacs](https://github.com/jart/emacs-copilot)
+[7 watts idle – building a low powered server/NAS on Intel 12th/13th gen](https://mattgadient.com/7-watts-idle-on-intel-12th-13th-gen-the-foundation-for-building-a-low-power-server-nas/)
 
-[Email addresses are not good 'permanent' identifiers for accounts](https://utcc.utoronto.ca/~cks/space/blog/tech/EmailAddressesBadPermanentIDs)
+[A 1690s Peanut is Reborn](https://nationalpeanutboard.org/news/a-1690s-peanut-is-reborn/)
 
-[Unprivileged process injection techniques in Linux](https://joev.dev/posts/unprivileged-process-injection-techniques-in-linux)
+[Happy New Year HN!]()
 
-[LuaX: A Lua Dialect with JSX](https://bvisness.me/luax/)
+[Half of High School Seniors Won't Apply to Colleges Costing More Than $40k](https://www.forbes.com/sites/emmawhitford/2023/11/07/half-of-high-school-seniors-wont-apply-to-colleges-costing-more-than-40000/)
 
-[Committing Without Git](https://matheustavares.gitlab.io/posts/committing-without-git)
-
-[Instant Messaging: Protocols Are "Commons", Let's Take Them Seriously](https://www.process-one.net/blog/instant-messaging-protocols-are-commons-lets-take-them-seriously/)
+[Sony software updates breaks movie theater projectors](https://bsky.app/profile/donohoe.dev/post/3khu7w2kz7l2b)

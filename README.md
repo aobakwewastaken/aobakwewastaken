@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Show HN: Page Replica – Tool for Web Scraping, Prerendering, and SEO Boost](https://github.com/html5-ninja/page-replica)
+[Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory](https://arxiv.org/abs/2310.20360)
 
-[Show HN: I made TV Sort, a web-based game for ranking TV show episodes](https://tvsort.com/)
+[A* tricks for videogame path finding](https://timmastny.com/blog/a-star-tricks-for-videogame-path-finding/)
 
-[Procrastination is connected to perfectionism](https://solvingprocrastination.com/perfectionism/)
+[Writing a TrueType font renderer](https://axleos.com/writing-a-truetype-font-renderer/)
 
-[Ottopot, a sophisticated DIY MIDI controller](https://gerotakke.de/ottopot/)
+[OpenVoice: Versatile Instant Voice Cloning](https://arxiv.org/abs/2312.01479)
 
-[Show HN: Durdraw – a modern ANSI art editor for modern Unix terminals](https://github.com/cmang/durdraw)
+[Getting things done (in small increments)](https://dubroy.com/blog/getting-things-done-in-small-increments/)
 
-[SD4J – Stable Diffusion pipeline in Java using ONNX Runtime](https://github.com/oracle-samples/sd4j)
+[Woman with rectifier and electric car (1912)](https://nyheritage.contentdm.oclc.org/digital/collection/p16694coll20/id/35/)
 
-[Generative AI flooding online crocheting spaces with unrealistic amigurumi pics](https://twitter.com/LauraRbnsn/status/1741494511849578753)
+[Standard Ebooks](https://standardebooks.org/)
 
-[Meshtastic: An open source, off-grid, decentralized, mesh network](https://meshtastic.org/)
+[Displaying Content as a Graph](https://thisisimportant.net/posts/content-as-a-graph/)
 
-[Comparing Tech Used for Apollo, Artemis NASA Missions](https://www.eetimes.com/comparing-tech-used-for-apollo-artemis-nasa-missions/)
+[Show HN: DBChaos – A Database stress testing tool](https://github.com/adaptive-scale/dbchaos)
 
-[Using a Markov chain to generate readable nonsense with 20 lines of Python](https://benhoyt.com/writings/markov-chain/)
+[DARPA Triage Challenge](https://triagechallenge.darpa.mil/)

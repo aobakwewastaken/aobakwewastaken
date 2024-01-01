@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Orange Site Hit](https://blog.davep.org/2024/01/01/oshit.html)
+[Show HN: I made TV Sort, a web-based game for ranking TV show episodes](https://tvsort.com/)
 
-[Website Impersonating a Desktop Environment](https://dustinbrett.com/)
+[Subject-First Commit Messages](https://github.com/aaronjensen/software-development/blob/master/commit-messages.md)
 
-[Git Things](https://matklad.github.io/2023/12/31/git-things.html#Git-Things)
-
-[Meshtastic: An open source, off-grid, decentralized, mesh network](https://meshtastic.org/)
-
-[Taligent's Guide to Designing Programs [pdf]](https://bitsavers.org/pdf/apple/mac/pink/Taligent_-_Taligents_Guide_to_Designing_Programs_1994.pdf)
+[Procrastination is connected to perfectionism](https://solvingprocrastination.com/perfectionism/)
 
 [Show HN: Durdraw – a modern ANSI art editor for modern Unix terminals](https://github.com/cmang/durdraw)
 
-[Bazzite – a SteamOS-like OCI image for desktop, living room, and handheld PCs](https://github.com/ublue-os/bazzite)
-
-[Disney's Mickey Mouse enter public domain](https://www.bbc.com/news/entertainment-arts-67833411)
+[Ottopot, a sophisticated DIY MIDI controller](https://gerotakke.de/ottopot/)
 
 [Using a Markov chain to generate readable nonsense with 20 lines of Python](https://benhoyt.com/writings/markov-chain/)
 
-[37C3: Fuzzing the TCP/IP Stack](https://events.ccc.de/congress/2023/hub/en/event/fuzzing_the_tcp_ip_stack/)
+[Meshtastic: An open source, off-grid, decentralized, mesh network](https://meshtastic.org/)
+
+[Use any web browser as GUI, with Zig in the back end and HTML5 in the front end](https://github.com/webui-dev/zig-webui)
+
+[DaedalOS – Desktop environment in the browser](https://dustinbrett.com/)
+
+[Fixing Annoying Blue Standby Lights](https://www.fullcircuit.com/blog/fixing-annoying-blue-standby-lights)

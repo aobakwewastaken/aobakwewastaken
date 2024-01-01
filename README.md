@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Beginner dev looks at how YouTube sends videos](https://vincentsg.dev/dec31?)
+[Website Impersonating a Desktop Environment](https://dustinbrett.com/)
 
-[Bazzite – a SteamOS-like OCI image for desktop, living room, and handheld PCs](https://github.com/ublue-os/bazzite)
+[Git Things](https://matklad.github.io/2023/12/31/git-things.html#Git-Things)
 
 [Meshtastic: An open source, off-grid, decentralized, mesh network](https://meshtastic.org/)
 
-[Show HN: Pokemon prototype game made with JavaScript and p5.js](https://github.com/JSLegendDev/Pokemon-p5js)
+[Beginner dev looks at how YouTube sends videos](https://vincentsg.dev/dec31?)
 
-[Merkle Town: Explore the certificate transparency ecosystem](https://ct.cloudflare.com/)
+[Disney's Mickey Mouse enter public domain](https://www.bbc.com/news/entertainment-arts-67833411)
 
-[High Precision Mapping from Scratch](https://bendauphinee.com/writing/2023/12/30/to-know-where-you-are/)
+[Bazzite – a SteamOS-like OCI image for desktop, living room, and handheld PCs](https://github.com/ublue-os/bazzite)
 
-[27 Years Ago, Steve Jobs Said the Best Employees Focus on Content, Not Process](https://www.inc.com/jeff-haden/27-years-ago-steve-jobs-said-best-employees-focus-on-content-not-process-workplace-research-shows-he-was-right.html)
+[Using a Markov chain to generate readable nonsense with 20 lines of Python](https://benhoyt.com/writings/markov-chain/)
 
-[Spomenik Database](https://www.spomenikdatabase.org)
+[Counterfactual Regret Minimisation or How I won any money in Poker?](https://rnikhil.com/2023/12/31/ai-cfr-solver-poker.html)
 
-[A Core Calculus for Documents [pdf]](https://cs.brown.edu/~sk/Publications/Papers/Published/ck-core-calc-doc-lambda-ultimate-doc/paper.pdf)
+[Show HN: Durdraw – a modern ANSI art editor for modern Unix terminals](https://github.com/cmang/durdraw)
 
-[The step-by-step mechanical logic of old pinball machines [video]](https://www.youtube.com/watch?v=E3p_Cv32tEo)
+[Magnitude 7.4 earthquake stikes Japan, major tsunami warning issued for Ishikawa](https://www3.nhk.or.jp/nhkworld/en/news/20240101_15/)

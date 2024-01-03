@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Possible Meissner effect near room temperature: copper-substituted lead apatite](https://arxiv.org/abs/2401.00999)
+[Understand how transformers work by demystifying the math behind them](https://osanseviero.github.io/hackerllama/blog/posts/random_transformer/)
+
+[Niklaus Wirth has died](https://twitter.com/Bertrand_Meyer/status/1742613897675178347)
+
+[The drive stats of Backblaze storage pods](https://www.backblaze.com/blog/the-drive-stats-of-backblaze-storage-pods/)
+
+[TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones](https://github.com/DLYuanGod/TinyGPT-V)
 
 [Show HN: FrameOS – operating system for single function smart frames](https://frameos.net/)
 
-[Maestro: A Linux-compatible kernel in Rust](https://blog.lenot.re/a/introduction)
+[Ants recognise infected wounds and treat them with antibiotics](https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/ant-antibiotics/)
 
-[Rawjs – you may not need React anymore](https://www.squaresapp.org/rawjs/)
+[Possible Meissner effect near room temperature: copper-substituted lead apatite](https://arxiv.org/abs/2401.00999)
 
-[The Aha Stack](https://ahastack.dev/)
+[Laylo (YC S20) is hiring a live events and music account executive](https://www.ycombinator.com/companies/laylo/jobs/x3d7mtv-live-events-music-account-executive)
 
-[OpenBSD Workstation Hardening](https://dataswamp.org/~solene/2023-12-31-hardened-openbsd-workstation.html)
+[Making small games, which is fun in itself](https://abagames.github.io/joys-of-small-game-development-en/fun_to_make_small_games.html)
 
-[Operation Triangulation What You Get When Attack iPhones of Researchers [video]](https://media.ccc.de/v/37c3-11859-operation_triangulation_what_you_get_when_attack_iphones_of_researchers)
-
-[Thorium – Radioactive Chromium Fork](https://github.com/Alex313031/thorium)
-
-[UK 2022 rail station flow images](https://github.com/anisotropi4/kingfisher/blob/main/station.md)
-
-[Making the Micropipette](https://press.asimov.com/resources/making-the-micropipette)
+[C and C++ Hot-Reload/Live Coding](https://liveplusplus.tech/)

@@ -1,9 +1,15 @@
 # Top Stories on hackernews <br />
+[Maestro: A Linux-compatible kernel in Rust](https://blog.lenot.re/a/introduction)
+
+[UK 2022 rail station flow images](https://github.com/anisotropi4/kingfisher/blob/main/station.md)
+
+[Making the Micropipette](https://press.asimov.com/resources/making-the-micropipette)
+
 [Cross-platform Rust rewrite of the GNU coreutils](https://github.com/uutils/coreutils)
 
-[1D Pac-Man](https://abagames.github.io/crisp-game-lib-11-games/?pakupaku)
-
 [50 Algorithms Every Programmer Should Know (Second Edition)](https://www.oreilly.com/library/view/50-algorithms-every/9781803247762/)
+
+[Provision (YC S22) Is Hiring a Fullstack Software Engineer](https://provision-software.notion.site/Provision-is-Hiring-8b53cc10bbd04af39bf3d3c7ab181cac?pvs=4)
 
 [Show HN: Resurrecting the Dillo browser](https://dillo-browser.github.io/)
 
@@ -11,10 +17,4 @@
 
 [A new approach to local multiplayer / splitscreen perspective with raytracing](https://ph3at.github.io/posts/Ray-Coop-Camera/)
 
-[A lightweight Lisp interpreter in Malbolge Unshackled](https://github.com/kspalaiologos/malbolge-lisp)
-
-[GCC Specs: An Introduction](https://wozniak.ca/blog/2024/01/02/1/index.html)
-
-[Double encryption: Analyzing the NSA/GCHQ arguments against hybrids](https://blog.cr.yp.to/20240102-hybrid.html)
-
-[Gemini in Reasoning: Unveiling Commonsense in Multimodal Large Language Models](https://arxiv.org/abs/2312.17661)
+[1D Pac-Man](https://abagames.github.io/crisp-game-lib-11-games/?pakupaku)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Power over fiber](https://chaos.social/@f4grx/111697027153656114)
+[Clicks – Physical keyboard for iPhone](https://www.clicks.tech/)
 
-[AI and satellite imagery reveals expanding footprint of human activity at sea](https://globalfishingwatch.org/press-release/new-research-harnesses-ai-and-satellite-imagery-to-reveal-the-expanding-footprint-of-human-activity-at-sea/)
+[Go: What We Got Right, What We Got Wrong](https://commandcenter.blogspot.com/2024/01/what-we-got-right-what-we-got-wrong.html)
+
+[Project Oberon: Design of an operating system, a compiler, and a computer [pdf]](https://people.inf.ethz.ch/wirth/ProjectOberon/PO.System.pdf)
 
 [Launch HN: Rosebud (YC S19) – Turn game descriptions into browser games]()
 
 [Iggy.rs – building message streaming in Rust](https://blog.iggy.rs/posts/building-message-streaming-in-rust/)
 
-[Origins of J](https://github.com/kelas/ooj)
+[Show HN: Bring phone calls into the browser (sip-to-WebRTC)](https://github.com/pion/example-webrtc-applications/tree/master/sip-to-webrtc)
 
-[Whistleblower Aid](https://whistlebloweraid.org/)
+[Minimum Wage Clock](https://moonbase.lgbt/blog/minimum-wage-clock/)
 
-[Software engineering salaries come from one of three budgets](https://swizec.com/blog/the-3-budgets/)
+[Organ Pipe Physics](https://www.modartt.com/organteq_physical_modeling)
 
-[Give Us Something to Look At: Why ornament matters in architecture](https://theamericanscholar.org/give-us-something-to-look-at/)
+[AI and satellite imagery reveals expanding footprint of human activity at sea](https://globalfishingwatch.org/press-release/new-research-harnesses-ai-and-satellite-imagery-to-reveal-the-expanding-footprint-of-human-activity-at-sea/)
 
-[Clarke's Law, and who's to blame for bad science reporting](https://statmodeling.stat.columbia.edu/2024/01/02/clarkes-law-and-whos-to-blame-for-bad-science-reporting/)
-
-['Giant' predator worm more than half a billion years old discovered in Greenland](https://www.bristol.ac.uk/news/2024/january/giant-worm-fossils-.html)
+[Audio2Photoreal](https://github.com/facebookresearch/audio2photoreal)

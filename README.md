@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Zeiss's "Holocam" turns glass windows into cameras](https://www.digitalcameraworld.com/news/this-holographic-camera-turns-any-window-into-an-invisible-camera)
+
+[Hard disk LEDs and noisy machines](https://blogsystem5.substack.com/p/hard-disk-leds-and-noisy-machines)
+
+[TinyLlama: An Open-Source Small Language Model](https://arxiv.org/abs/2401.02385)
+
+[Kurt Gödel, his mother and the argument for life after death](https://aeon.co/essays/kurt-godel-his-mother-and-the-argument-for-life-after-death)
+
+[M3 CPU cores have become more versatile](https://eclecticlight.co/2024/01/05/m3-cpu-cores-have-become-more-versatile/)
+
 [An app can be a home-cooked meal (2020)](https://www.robinsloan.com/notes/home-cooked-app/)
 
 [9 years of Apple text editor solo dev](https://papereditor.app/dev)
 
-[June 30th, 2024, will bring the End of Life (EOL) of CentOS Linux](https://www.redhat.com/en/blog/fastest-road-centos-linux-red-hat-enterprise-linux)
+[A rocket a day keeps the high costs away (1993)](https://www.fourmilab.ch/documents/aRocketAday.txt)
 
-[Everything will be alright in Iceland](https://memoirsandrambles.substack.com/p/everything-will-be-alright-in-iceland)
+[We don't need a DAC on the ESP32-S3](https://atomic14.substack.com/p/esp32-s3-no-dac)
 
-[Duty to Document](https://nicolasbouliane.com/blog/duty-to-document)
-
-[Archiving Steam games for fun and profit](https://lorendb.dev/posts/archiving-steam-games-for-fun-and-profit/)
-
-[Multigenerational Living Often Makes Sense. That Doesn't Make It Easy](https://thewalrus.ca/multigenerational-living-often-makes-sense-that-doesnt-make-it-easy/)
-
-[Meta-analysis: On average undergraduate students intelligence is merely average](https://www.frontiersin.org/articles/10.3389/fpsyg.2024.1309142/abstract)
-
-[Cleaning up my 200GB iCloud with some JavaScript](https://andykong.org/blog/icloudconfusion)
-
-[CellLVM: A proof-of-concept LLVM to Excel spreadsheet compiler](https://belkadan.com/blog/2023/12/CellLVM/)
+[What You Don't Know About Sperm](https://nautil.us/what-you-dont-know-about-sperm-482001/)

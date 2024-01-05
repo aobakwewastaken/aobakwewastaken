@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[An app can be a home-cooked meal](https://www.robinsloan.com/notes/home-cooked-app/)
+[An app can be a home-cooked meal (2020)](https://www.robinsloan.com/notes/home-cooked-app/)
+
+[9 years of Apple text editor solo dev](https://papereditor.app/dev)
+
+[Ask HN: What to do with text from old, unarchived, online forums?]()
+
+[Duty to Document](https://nicolasbouliane.com/blog/duty-to-document)
+
+[Everything will be alright in Iceland](https://memoirsandrambles.substack.com/p/everything-will-be-alright-in-iceland)
+
+[June 30th, 2024, will bring the End of Life (EOL) of CentOS Linux](https://www.redhat.com/en/blog/fastest-road-centos-linux-red-hat-enterprise-linux)
 
 [CellLVM: A proof-of-concept LLVM to Excel spreadsheet compiler](https://belkadan.com/blog/2023/12/CellLVM/)
 
-[Cleaning up my 200GB iCloud with some JavaScript](https://andykong.org/blog/icloudconfusion)
+[Consumer Reports finds 'widespread' presence of plastics in food](https://www.reuters.com/business/healthcare-pharmaceuticals/consumer-reports-finds-widespread-presence-plastics-food-2024-01-04/)
 
 [Don't pass structs bigger than 16 bytes on AMD64](https://gist.github.com/FeepingCreature/5dff669aad380a123b15659e195fb96c)
 
-[YouTube demonetizes public domain 'Steamboat Willie' video after copyright claim](https://mashable.com/article/youtube-demontizes-public-domain-steamboat-willie-disney-copyright-claim)
-
-[Portable Efficient Assembly Code-Generator in Higher-Level Python (PeachPy)](https://github.com/Maratyszcza/PeachPy)
-
-[WebRTC for the Curious (2020)](https://webrtcforthecurious.com/)
-
-[SIMD in Pure Python](https://www.da.vidbuchanan.co.uk/blog/python-swar.html)
-
-[Turtles, a Shelly/Zigbee home automation tool in Elixir](https://joisig.com/2023-holiday-side-project-turtles)
-
-[Learning bimanual mobile manipulation with low-cost whole-body teleoperation](https://mobile-aloha.github.io)
+[Show HN: I made a game to improve my typing speed](https://keysmash.no)

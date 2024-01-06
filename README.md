@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Chromium bug bounty money tree browser](https://lyra.horse/misc/chromium_vrp_tree.html)
+
 [Fixing Macs door to door](https://matduggan.com/fixing-macs-door-to-door/)
-
-[Do we think of Git commits as diffs, snapshots, and/or histories?](https://jvns.ca/blog/2024/01/05/do-we-think-of-git-commits-as-diffs--snapshots--or-histories/)
-
-[Zeiss's "Holocam" turns glass windows into cameras](https://www.digitalcameraworld.com/news/this-holographic-camera-turns-any-window-into-an-invisible-camera)
 
 [Show HN: I made a tool to compare time zones](https://time.fyi/timezones)
 
-[Teaching C (2016)](https://blog.regehr.org/archives/1393)
-
-[Why bad scientific code beats code following "best practices"](https://yosefk.com/blog/why-bad-scientific-code-beats-code-following-best-practices.html)
-
-[Looo.lol – a binary math site](https://looo.lol/)
+[Alaska Airlines grounds Boeing 737 Max 9 planes after mid-air window blowout](https://www.theguardian.com/us-news/2024/jan/06/alaska-airlines-grounds-boeing-737-max-9-planes-after-mid-air-window-blowout)
 
 [Niklaus Wirth, 1934-2024: Geek For Life](https://tidyfirst.substack.com/p/niklaus-wirth-1934-2024)
 
-[Alaska Airlines Boeing 737-Max suffers window blowout after taking off](https://www.dailymail.co.uk/news/article-12932631/Brand-new-Alaska-Airlines-Boeing-737-Max-suffers-mid-air-window-BLOW-causing-depressurization-ripped-childs-shirt-jet-returned-Portland-Airport-High-tech-jet-suffered-two-deadly-crashes.html)
+[Teaching C (2016)](https://blog.regehr.org/archives/1393)
 
-[Choosing What to Read](https://tratt.net/laurie/blog/2024/choosing_what_to_read.html)
+[Bad scientific code beats code following "best practices" (2014)](https://yosefk.com/blog/why-bad-scientific-code-beats-code-following-best-practices.html)
+
+[Microsoft Phi-2 model changes licence to MIT](https://huggingface.co/microsoft/phi-2/commit/7e10f3ea09c0ebd373aebc73bc6e6ca58204628d)
+
+[Looo.lol – a binary math site](https://looo.lol/)
+
+[Focus and Flow: trade-offs in programmer productivity (2021)](https://www.aaronbuxbaum.com/focus-and-flow/)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Fixing Macs door to door](https://matduggan.com/fixing-macs-door-to-door/)
+
+[Do we think of Git commits as diffs, snapshots, and/or histories?](https://jvns.ca/blog/2024/01/05/do-we-think-of-git-commits-as-diffs--snapshots--or-histories/)
+
 [Zeiss's "Holocam" turns glass windows into cameras](https://www.digitalcameraworld.com/news/this-holographic-camera-turns-any-window-into-an-invisible-camera)
 
-[Hard disk LEDs and noisy machines](https://blogsystem5.substack.com/p/hard-disk-leds-and-noisy-machines)
+[Show HN: I made a tool to compare time zones](https://time.fyi/timezones)
 
-[TinyLlama: An Open-Source Small Language Model](https://arxiv.org/abs/2401.02385)
+[Teaching C (2016)](https://blog.regehr.org/archives/1393)
 
-[Kurt Gödel, his mother and the argument for life after death](https://aeon.co/essays/kurt-godel-his-mother-and-the-argument-for-life-after-death)
+[Why bad scientific code beats code following "best practices"](https://yosefk.com/blog/why-bad-scientific-code-beats-code-following-best-practices.html)
 
-[M3 CPU cores have become more versatile](https://eclecticlight.co/2024/01/05/m3-cpu-cores-have-become-more-versatile/)
+[Looo.lol – a binary math site](https://looo.lol/)
 
-[An app can be a home-cooked meal (2020)](https://www.robinsloan.com/notes/home-cooked-app/)
+[Niklaus Wirth, 1934-2024: Geek For Life](https://tidyfirst.substack.com/p/niklaus-wirth-1934-2024)
 
-[9 years of Apple text editor solo dev](https://papereditor.app/dev)
+[Alaska Airlines Boeing 737-Max suffers window blowout after taking off](https://www.dailymail.co.uk/news/article-12932631/Brand-new-Alaska-Airlines-Boeing-737-Max-suffers-mid-air-window-BLOW-causing-depressurization-ripped-childs-shirt-jet-returned-Portland-Airport-High-tech-jet-suffered-two-deadly-crashes.html)
 
-[A rocket a day keeps the high costs away (1993)](https://www.fourmilab.ch/documents/aRocketAday.txt)
-
-[We don't need a DAC on the ESP32-S3](https://atomic14.substack.com/p/esp32-s3-no-dac)
-
-[What You Don't Know About Sperm](https://nautil.us/what-you-dont-know-about-sperm-482001/)
+[Choosing What to Read](https://tratt.net/laurie/blog/2024/choosing_what_to_read.html)

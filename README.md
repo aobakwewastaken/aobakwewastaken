@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[First new vax in 30 years? (2021)](https://mail-index.netbsd.org/port-vax/2021/07/03/msg003899.html)
+
 [DNS Toys (2022)](https://www.dns.toys/)
 
-[Comics I Loved in 2023](https://riteshbabu.net/2024/01/05/comics-i-loved-in-2023/)
+[Show HN: I built a tool to send 10k emails for $1 via AWS](https://maillayer.com/)
 
 [Pocketbase: Open-source back end in one file](https://pocketbase.io/)
 
+[AI or Ain't: Eliza](https://zserge.com/posts/ai-eliza/)
+
+[The New York Times Launches a Strong Case Against Microsoft and OpenAI](https://katedowninglaw.com/2024/01/06/the-new-york-times-launches-a-very-strong-case-against-microsoft-and-openai/)
+
+[MozillaSocial](https://github.com/MozillaSocial/mozilla-social-android)
+
 [Teachable Machine (2017)](https://teachablemachine.withgoogle.com/)
 
-[First tunnel to a magma chamber could supercharge geothermal power](https://www.newscientist.com/article/mg26134722-100-worlds-first-tunnel-to-a-magma-chamber-could-unleash-unlimited-energy/)
+[Apple Starts Sending 'Batterygate' Settlement Payments](https://www.macrumors.com/2024/01/06/apple-starts-iphone-batterygate-payouts/)
 
-[Learning Regular Languages with L* Algorithm](https://rahul.gopinath.org/post/2024/01/04/lstar-learning-regular-languages/)
-
-[Retro on Viberary](https://vickiboykis.com/2024/01/05/retro-on-viberary/)
-
-[Original Age of Empires 2 dev talks about its usage of assembly code](https://old.reddit.com/r/aoe2/comments/18ysttu/aoe_is_written_in_assembly_is_this_actually_true_o/)
-
-[Discontinued and unreleased Microsoft peripherals revived by licensing deal](https://arstechnica.com/gadgets/2024/01/discontinued-and-unreleased-microsoft-peripherals-revived-by-licensing-deal/)
-
-[The journey of the Roman gladius and other swords](https://acoup.blog/2024/01/05/collections-the-journey-of-the-roman-gladius-and-other-swords/)
+[What the heck is a homomorphic mapped type?](https://andreasimonecosta.dev/posts/what-the-heck-is-a-homomorphic-mapped-type/)

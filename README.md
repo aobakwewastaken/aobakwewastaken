@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[GitUI](https://github.com/extrawurst/gitui)
+
 [Show HN: I made an app that consolidated 18 apps (doc, sheet, form, site, chat…)](https://nino.app)
 
-[First new vax in 30 years? (2021)](https://mail-index.netbsd.org/port-vax/2021/07/03/msg003899.html)
+[The immediate victims of the con would rather act as if the con never happened](https://statmodeling.stat.columbia.edu/2024/01/07/french-bio-lab-research-scandal/)
 
-[DNS Toys (2022)](https://www.dns.toys/)
+[The Future of Nuclear Energy in a Carbon-Constrained World (2018)](https://energy.mit.edu/research/future-nuclear-energy-carbon-constrained-world/)
 
-[MozillaSocial](https://github.com/MozillaSocial/mozilla-social-android)
+[Tiny Computers from Texas: The Early History of the Microcontroller](https://thechipletter.substack.com/p/tiny-computers-from-texas)
 
-[Pocketbase: Open-source back end in one file](https://pocketbase.io/)
+[A concrete example of why Apple's documentation is terrible](https://www.amimetic.co.uk/blog/a-concrete-example-of-why-apples-docs-are-terrible/)
 
-[Transputer.net](http://transputer.net/)
+[Behind the scenes: the struggle for each paper (2021)](https://jeffhuang.com/struggle_for_each_paper/)
 
-[AI or Ain't: Eliza](https://zserge.com/posts/ai-eliza/)
+[Meticulous (YC S21) is hiring to replace UI testing]()
 
-[Comics I Loved in 2023](https://riteshbabu.net/2024/01/05/comics-i-loved-in-2023/)
+[Defending against hypothetical moon life during Apollo 11](https://eukaryotewritesblog.com/2024/01/06/defending-against-hypothetical-moon-life-during-apollo-11/)
 
-[Teachable Machine (2017)](https://teachablemachine.withgoogle.com/)
-
-[What the heck is a homomorphic mapped type?](https://andreasimonecosta.dev/posts/what-the-heck-is-a-homomorphic-mapped-type/)
+[A self-hosting and educational C optimizing compiler](https://github.com/sysprog21/shecc)

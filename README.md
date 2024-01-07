@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Ultima (2012)](https://www.filfre.net/2012/02/ultima-part-1/)
+[Teachable Machine](https://teachablemachine.withgoogle.com/)
 
-[FAA orders grounding of more than 170 Boeing 737 Max 9s](https://www.cnbc.com/2024/01/06/boeing-737-max-9-grounding-after-alaska-airlines-door-blows-midflight.html)
+[They correctly predicted a Nobel Prize winning discovery. And no one cared [video]](https://www.youtube.com/watch?v=gnQy-5lkbPg)
 
-[Adventures of Linux Userspace at Meta [video]](https://media.ccc.de/v/all-systems-go-2023-193-adventures-of-linux-userspace-at-meta)
+[Learning Regular Languages with L* Algorithm](https://rahul.gopinath.org/post/2024/01/04/lstar-learning-regular-languages/)
 
-[The Everything NPM Package](https://socket.dev/blog/when-everything-becomes-too-much)
+[Retro on Viberary](https://vickiboykis.com/2024/01/05/retro-on-viberary/)
 
-[Sounds of Cologne – The WDR Studio for Electronic Music](https://artsandculture.google.com/story/sounds-of-cologne-wdr/gQWRzsVclcCYPA?hl=en)
+[Show HN: Building a 'liturgical lightbulb', bringing the Calendar to life](https://github.com/grahame/pharus)
 
-[The Perils and Pleasures of Bartending in Antarctica](https://www.atlasobscura.com/articles/bartender-antarctica-south-pole)
+[Parable of the Polygons](https://ncase.me/polygons/)
 
-[Chromium bug bounty money tree browser](https://lyra.horse/misc/chromium_vrp_tree.html)
+[Rue de L'Avenir](https://en.wikipedia.org/wiki/Rue_de_l%27Avenir)
 
-[Csvlens: Command line CSV file viewer. Like less but made for CSV](https://github.com/YS-L/csvlens)
+[A Legal and Moral Question: The crash of Turkish Airlines flight 981 (2021)](https://admiralcloudberg.medium.com/a-legal-and-moral-question-the-crash-of-turkish-airlines-flight-981-and-the-dc-10-cargo-door-saga-d22f0b9fa689)
 
-[IRS to Begin Trial of Its Own Free Tax-Filing System](https://www.nytimes.com/2024/01/05/your-money/irs-tax-filing-free-online.html)
+[Linear CEO Alleges Carta Mishandled Sensitive Cap Table Data](https://twitter.com/karrisaarinen/status/1743824345334714587)
 
-[A tiny hand crafted CPU emulator, C compiler, and Operating System](https://github.com/rswier/swieros)
+[Chess-GPT's Internal World Model](https://github.com/adamkarvonen/chess_llm_interpretability)

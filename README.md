@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Jeff Lawson Steps Down as CEO of Twilio](https://investors.twilio.com/news/news-details/2024/Twilio-Announces-CEO-Transition/default.aspx)
+[Duolingo Cuts 10% of Contractors as It Uses More AI to Create App Content](https://www.bloomberg.com/news/articles/2024-01-08/duolingo-cuts-10-of-contractors-in-move-to-greater-use-of-ai)
+
+[Cells Across the Body Talk to Each Other About Aging](https://www.quantamagazine.org/cells-across-the-body-talk-to-each-other-about-aging-20240108/)
+
+[OpenBSD KDE Plasma Desktop](https://rsadowski.de/posts/2024-01-09-openbsd-kde/)
+
+[Dive: A tool for exploring a Docker image, layer contents and more](https://github.com/wagoodman/dive)
+
+[Solver Performance: 1989 vs. 2024](https://www.solvermax.com/blog/solver-performance-1989-vs-2024)
+
+[Mario Maker 2 API](https://tgrcode.com/posts/mario_maker_2_api)
+
+[Trade-offs between Different CRDTs](https://interjectedfuture.com/trade-offs-between-different-crdts/)
+
+[Async file IO in Java is not truly async [Resource, Tech blog]](https://cmhteixeira.com/concurrency/asyncfileio.html)
+
+[Thousands of AI Authors on the Future of AI](https://arxiv.org/abs/2401.02843)
 
 [Why Aren't We Sieve-Ing?](https://brooker.co.za/blog/2023/12/15/sieve.html)
-
-[k on pdp11](https://ktye.github.io/pdp11/index.html)
-
-[bigFORTH (1997)](https://bernd-paysan.de/bigforth.html)
-
-[What PWA Can Do Today](https://whatpwacando.today)
-
-[What has a 1 in a million chance? (2010)](https://www.stat.berkeley.edu/~aldous/Real-World/million.html)
-
-[Alaska 737 cockpit voice recorder data erasure renews safety debate](https://www.reuters.com/business/aerospace-defense/alaska-737-cockpit-voice-recorder-data-erasure-renews-industry-safety-debate-2024-01-08/)
-
-[Visualizing Ext4](https://buredoranna.github.io/linux/ext4/2020/01/09/ext4-viz.html)
-
-[MotorOS: a Rust-first operating system for x64 VMs](https://github.com/moturus/motor-os)
-
-[Oklahoma receives first "Made in Oklahoma" EV](https://oklahoma.gov/omes/newsroom/2023/state-receives-first-made-in-oklahoma-electric-vehicles-from-canoo.html)

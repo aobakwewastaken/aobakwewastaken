@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Why Aren't We Sieve-Ing?](https://brooker.co.za/blog/2023/12/15/sieve.html)
+
+[k on pdp11](https://ktye.github.io/pdp11/index.html)
+
+[bigFORTH (1997)](https://bernd-paysan.de/bigforth.html)
+
+[What PWA Can Do Today](https://whatpwacando.today)
+
 [What has a 1 in a million chance? (2010)](https://www.stat.berkeley.edu/~aldous/Real-World/million.html)
+
+[Oklahoma receives first "Made in Oklahoma" EV](https://oklahoma.gov/omes/newsroom/2023/state-receives-first-made-in-oklahoma-electric-vehicles-from-canoo.html)
+
+[It employment grew by just 700 jobs in 2023](https://www.wsj.com/articles/it-employment-grew-by-just-700-jobs-in-2023-down-from-267-000-in-2022-adbd8a61)
 
 [MotorOS: a Rust-first operating system for x64 VMs](https://github.com/moturus/motor-os)
 
 [Visualizing Ext4](https://buredoranna.github.io/linux/ext4/2020/01/09/ext4-viz.html)
 
-[The World Has Already Ended](https://www.collapsemusings.com/the-world-has-already-ended/)
-
-[Show HN: I made a HTMX Playground 100% in the browser](https://lassebomh.github.io/htmx-playground/)
-
-[Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
-
-[Ubuntu Looking at Discontinuing Its Source ISOs](https://www.phoronix.com/news/Ubuntu-Discontinue-Source-ISOs)
-
-[What does the cerebellum do?](https://sarahconstantin.substack.com/p/what-does-the-cerebellum-do-anyway)
-
-[Show HN: I've updated my food delivery repo. Feedback Welcome](https://github.com/ninjas-code-official/food-delivery-multivendor)
-
-[C Compiler Assembler and Runtime for C64](https://github.com/drmortalwombat/oscar64)
+[Impulse Induction Stove: boils water in 40s and has backup battery for outages](https://www.impulselabs.com/)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Duolingo Cuts 10% of Contractors as It Uses More AI to Create App Content](https://www.bloomberg.com/news/articles/2024-01-08/duolingo-cuts-10-of-contractors-in-move-to-greater-use-of-ai)
+[Why does holding a key fob to your head increase its range?](https://physics.stackexchange.com/questions/101913/why-does-a-remote-car-key-work-when-held-to-your-head-body)
 
-[Cells Across the Body Talk to Each Other About Aging](https://www.quantamagazine.org/cells-across-the-body-talk-to-each-other-about-aging-20240108/)
+[Polars](https://pola.rs/)
 
-[OpenBSD KDE Plasma Desktop](https://rsadowski.de/posts/2024-01-09-openbsd-kde/)
+[Money pours into new fabs and facilities](https://semiengineering.com/money-pours-into-new-fabs-and-facilities/)
 
-[Dive: A tool for exploring a Docker image, layer contents and more](https://github.com/wagoodman/dive)
+[Mode7 Graphics Library for Playdate](https://github.com/risolvipro/playdate-mode7)
 
-[Solver Performance: 1989 vs. 2024](https://www.solvermax.com/blog/solver-performance-1989-vs-2024)
+[Turing Complete Transformers: Two Transformers Are More Powerful Than One](https://openreview.net/forum?id=MGWsPGogLH)
 
-[Mario Maker 2 API](https://tgrcode.com/posts/mario_maker_2_api)
+[An overview of distributed Postgres architectures](https://www.crunchydata.com/blog/an-overview-of-distributed-postgresql-architectures)
 
-[Trade-offs between Different CRDTs](https://interjectedfuture.com/trade-offs-between-different-crdts/)
+[The best way to get unstuck](https://ggnotes.com/the-best-way-to-get-unstuck)
 
-[Async file IO in Java is not truly async [Resource, Tech blog]](https://cmhteixeira.com/concurrency/asyncfileio.html)
+[Macs can now inform Apple if any liquids have been detected in the USB-C ports](https://9to5mac.com/2023/11/03/macs-liquids-detected-in-usb-c-ports/)
 
-[Thousands of AI Authors on the Future of AI](https://arxiv.org/abs/2401.02843)
+[Golden Rules of Interface Design (2013)](https://www.cs.umd.edu/~ben/goldenrules.html)
 
-[Why Aren't We Sieve-Ing?](https://brooker.co.za/blog/2023/12/15/sieve.html)
+[Show HN: I made an interactive math crossword puzzle with infinite levels](https://scientific.place/math-crossword/)

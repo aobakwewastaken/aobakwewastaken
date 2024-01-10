@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Austerity Is an Antidemocratic Strategy to Boost Capital](https://catalyst-journal.com/2023/11/capital-order-clara-mattei-book-review)
+
+[Does DNA have the equivalent of IF-statements, WHILE loops, or function calls?](https://biology.stackexchange.com/questions/30116/does-dna-have-the-equivalent-of-if-statements-while-loops-or-function-calls-h)
+
+[Vcc – The Vulkan Clang Compiler](https://shady-gang.github.io/vcc/)
+
 [I pwned half of America's fast food chains simultaneously](https://mrbruh.com/chattr/)
 
-[DMARC required by Gmail and Yahoo from Feb 2024](https://www.mailgun.com/blog/deliverability/gmail-and-yahoo-inbox-updates-2024/)
+[Gmail and Yahoo’s 2024 inbox protections and what they mean for email programs](https://www.mailgun.com/blog/deliverability/gmail-and-yahoo-inbox-updates-2024/)
 
-[Atuin replaces your existing shell history with a SQLite database](https://github.com/atuinsh/atuin)
+[British Post Office Scandal](https://en.wikipedia.org/wiki/British_Post_Office_scandal)
 
 [Linkhut: A Social Bookmarking Site](https://ln.ht/)
 
+[Supabase (YC S20) Is Hiring a Product Marketer (Fully Remote)](https://boards.greenhouse.io/supabase/jobs/5005843004)
+
 [Wikihouse: Open-Source Houses](https://www.wikihouse.cc/)
 
-[I quit my job to work full time on my open source project](https://ellie.wtf/posts/i-quit-my-job-to-work-full-time-on-my-open-source-project)
-
-[The teen mental illness epidemic is international](https://www.afterbabel.com/p/international-mental-illness-part-one)
-
 [OpenWRT turns 20; wants to launch their "first upstream supported" design](https://lwn.net/ml/openwrt-devel/a8aaa495-da0b-4ddc-8c4f-3e1192d8b012@phrozen.org/)
-
-[Rabbit: LLM-First Mobile Phone](https://www.rabbit.tech/)
-
-[Juniper Networks to Combine with HPE](https://blogs.juniper.net/en-us/driven-by-experience/juniper-networks-to-combine-with-hpe-accelerating-ai-native-networking-leadership)

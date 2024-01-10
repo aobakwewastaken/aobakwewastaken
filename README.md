@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Does DNA have the equivalent of IF-statements, WHILE loops, or function calls?](https://biology.stackexchange.com/questions/30116/does-dna-have-the-equivalent-of-if-statements-while-loops-or-function-calls-h)
+[Netflix never used its $1M algorithm (2012)](https://thenextweb.com/news/remember-netflixs-1m-algorithm-contest-well-heres-why-it-didnt-use-the-winning-entry)
 
-[I pwned half of America's fast food chains simultaneously](https://mrbruh.com/chattr/)
+[Signs that it's time to leave a company](https://adrianco.medium.com/signs-that-its-time-to-leave-a-company-5f8759ad018e)
 
-[Vcc – The Vulkan Clang Compiler](https://shady-gang.github.io/vcc/)
+[A battery has replaced Hawaii's last coal plant](https://www.canarymedia.com/articles/energy-storage/a-huge-battery-has-replaced-hawaiis-last-coal-plant)
 
-[Gmail and Yahoo’s 2024 inbox protections and what they mean for email programs](https://www.mailgun.com/blog/deliverability/gmail-and-yahoo-inbox-updates-2024/)
+[Conditional Git Configuration](https://blog.scottlowe.org/2023/12/15/conditional-git-configuration/)
 
-[OpenWRT turns 20; wants to launch their "first upstream supported" design](https://lwn.net/ml/openwrt-devel/a8aaa495-da0b-4ddc-8c4f-3e1192d8b012@phrozen.org/)
+[OpenWrt One – celebrating 20 years of OpenWrt](https://lists.openwrt.org/pipermail/openwrt-devel/2024-January/042018.html)
 
-[Wikihouse: Open-Source Houses](https://www.wikihouse.cc/)
+[Attempting to engineer microscopic insulin pumps out of a skin bacterium](https://www.growbyginkgo.com/2024/01/09/getting-under-the-skin/)
 
-[I quit my job to work full time on my open source project](https://ellie.wtf/posts/i-quit-my-job-to-work-full-time-on-my-open-source-project)
+[Exploiting Undocumented API to Regenerate Google Service Cookies](https://www.cloudsek.com/blog/compromising-google-accounts-malwares-exploiting-undocumented-oauth2-functionality-for-session-hijacking)
 
-[Databases and why their complexity is now unnecessary](https://blog.redplanetlabs.com/2024/01/09/everything-wrong-with-databases-and-why-their-complexity-is-now-unnecessary/)
+[Shoelace: A library of web components](https://shoelace.style/)
 
-[Linkhut: A Social Bookmarking Site](https://ln.ht/)
+[New Clues (2015)](https://www.cluetrain.com/newclues/)
 
-[Show HN: Tool to calculate how much milk is needed to make an amount of cheese](https://cheesemak.ing/how-much-milk/)
+[Maestro I – The First IDE](https://wiki.edunitas.com/IT/en/114-10/Maestro-I_20000_eduNitas.html)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[SEC's X Account Hacked, Bitcoin Spot ETFs Not yet Approved](https://en.bitcoinsistemi.com/breaking-gary-gensler-says-secs-x-account-hacked-bitcoin-spot-etfs-not-yet-approved/)
+[I pwned half of America's fast food chains simultaneously](https://mrbruh.com/chattr/)
 
-[Rabbit R1, Designed by Teenage Engineering](https://www.rabbit.tech/?r1)
+[DMARC required by Gmail and Yahoo from Feb 2024](https://www.mailgun.com/blog/deliverability/gmail-and-yahoo-inbox-updates-2024/)
 
-[Building an e-ink picture frame that displays an iCloud photo album](https://ben.page/eink)
+[Atuin replaces your existing shell history with a SQLite database](https://github.com/atuinsh/atuin)
 
-['Magical' Error Correction Scheme Proved Inherently Inefficient](https://www.quantamagazine.org/magical-error-correction-scheme-proved-inherently-inefficient-20240109/)
+[Linkhut: A Social Bookmarking Site](https://ln.ht/)
 
-[Python 3.13 Gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
+[Wikihouse: Open-Source Houses](https://www.wikihouse.cc/)
 
-[DeepFlow – open-source eBPF Distributed Tracing](https://deepflow.io/)
+[I quit my job to work full time on my open source project](https://ellie.wtf/posts/i-quit-my-job-to-work-full-time-on-my-open-source-project)
 
-[Ancient Stars Made Extraordinarily Heavy Elements (2023)](https://news.ncsu.edu/2023/12/ancient-stars-made-extraordinarily-heavy-elements/)
+[The teen mental illness epidemic is international](https://www.afterbabel.com/p/international-mental-illness-part-one)
 
-[GE Vernova announces order of 674 wind turbines, providing 2.4 GW of power](https://www.ge.com/news/press-releases/ge-vernova-announces-2point4-gw-order-for-pattern-energy-sunzia-wind-project)
+[OpenWRT turns 20; wants to launch their "first upstream supported" design](https://lwn.net/ml/openwrt-devel/a8aaa495-da0b-4ddc-8c4f-3e1192d8b012@phrozen.org/)
 
-[Researchers create first functional semiconductor made from graphene](https://techxplore.com/news/2024-01-functional-semiconductor-graphene.html)
+[Rabbit: LLM-First Mobile Phone](https://www.rabbit.tech/)
 
-[The Ugliest Airplane: An Appreciation of the Transavia AirTruk](https://www.smithsonianmag.com/air-space-magazine/ugliest-airplane-appreciation-180978708/)
+[Juniper Networks to Combine with HPE](https://blogs.juniper.net/en-us/driven-by-experience/juniper-networks-to-combine-with-hpe-accelerating-ai-native-networking-leadership)

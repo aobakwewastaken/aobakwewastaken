@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Building a baseline JIT for Lua automatically](https://sillycross.github.io/2023/05/12/2023-05-12/)
+[Show HN: GodotOS: A Fake Operating System Interface Made in the Godot Engine](https://github.com/popcar2/GodotOS)
+
+[Announce: timeline to remove DSA support in OpenSSH](https://lists.mindrot.org/pipermail/openssh-unix-announce/2024-January/000156.html)
+
+[Is htmx Just Another JavaScript Framework?](https://htmx.org/essays/is-htmx-another-javascript-framework/)
+
+[Lego Mechanical Computer](https://www.drmoron.org/posts/mechanical-computer/)
+
+[The Internet Is Full of AI Dogshit](https://aftermath.site/the-internet-is-full-of-ai-dogshit)
+
+[A CEO's Guide to Emacs](http://www.fugue.co/blog/2015-11-11-guide-to-emacs.html)
+
+[Why Would I Buy This Useless, Evil Thing?](https://aftermath.site/why-would-i-buy-this-useless-evil-thing)
 
 [ChatGPT for Teams](https://openai.com/chatgpt/team)
 
-[Google Cuts Jobs in Engineering and Other Divisions](https://www.nytimes.com/2024/01/11/technology/google-layoffs.html)
+[MFA today is both 'simple' and non-trivial work](https://utcc.utoronto.ca/~cks/space/blog/tech/MFAIsBothSimpleAndWork)
 
-[High C Compiler – A C language extension ahead of its time](https://cohost.org/jckarter/post/2955755-the-lost-language-ex)
-
-[Drawing.garden](https://drawing.garden/)
-
-[Great Question (YC W21) Is Hiring for Sales](https://www.ycombinator.com/companies/great-question/jobs/Jyl8JbP-senior-account-executive)
-
-[HTML Spirograph (2021)](http://htmlspirograph.com/)
-
-[epoll: The API that powers the modern internet (2022)](https://darkcoding.net/software/epoll-the-api-that-powers-the-modern-internet/)
-
-[You can't follow me](https://so.nwalsh.com/2024/01/06-mastodon)
-
-[Research paper is also an executable x86 program [pdf]](http://tom7.org/abc/paper.pdf)
+[Tell HN: Bash.org Is No More]()

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[A vision for the alleviation of water scarcity in the US Southwest](https://caseyhandmer.wordpress.com/2024/01/09/a-vision-for-the-alleviation-of-water-scarcity-in-the-us-southwest-and-the-revitalization-of-the-salton-sea/)
+[Vector Databases: A Technical Primer [pdf]](https://tge-data-web.nyc3.digitaloceanspaces.com/docs/Vector%20Databases%20-%20A%20Technical%20Primer.pdf)
 
-[Epistemic Learned Helplessness](https://slatestarcodex.com/2019/06/03/repost-epistemic-learned-helplessness/)
+[DevDocs](https://devdocs.io)
+
+[Show HN: Marimo – an open-source reactive notebook for Python](https://github.com/marimo-team/marimo)
+
+[I'm sorry but I cannot fulfill this request it goes against OpenAI use policy](https://www.amazon.com/fulfill-request-respectful-information-users-Brown/dp/B0CM82FJL2)
+
+[Reverse-engineering the Yamaha DX7 synthesizer's sound chip from die photos (2021)](http://www.righto.com/2021/11/reverse-engineering-yamaha-dx7.html)
 
 [Unity's Open-Source Double Standard: The Ban of VLC](https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html)
 
-[My AI Timelines Have Sped Up (Again)](https://www.alexirpan.com/2024/01/10/ai-timelines-2024.html)
+[Show HN: RemoteStorage – sync localStorage across devices and browsers](https://github.com/FrigadeHQ/remote-storage)
 
-[Wind turbines are friendlier to birds than oil-and-gas drilling](https://www.economist.com/science-and-technology/2024/01/10/wind-turbines-are-friendlier-to-birds-than-oil-and-gas-drilling)
+[Axle (YC S22) – Hiring for Senior Product Engineer]()
 
-[On the Pleb Filter (2023)](https://fantasticanachronism.com/2023/02/06/on-the-pleb-filter/)
+[Features and Benefits of Bluetooth Mesh 1.1 for Wireless Mesh Networking](https://www.bluetooth.com/bluetooth-resources/features-benefits-bluetooth-mesh/)
 
-[Show HN: Run Stable Diffusion Directly on iPhone](https://apps.apple.com/us/app/amazing-ai/id1660147028?platform=iphone)
-
-[Citigroup Plans to Cut 20k Jobs](https://www.wsj.com/livecoverage/stock-market-today-dow-jones-bank-earnings-01-12-2024/card/citigroup-plans-to-cut-20-000-jobs-KCIfucmQx18qn9TfDESs)
-
-[Post Office lied and threatened BBC over Fujitsu dev whistleblower](https://www.bbc.co.uk/news/uk-67884743)
-
-[Mysticism and Empiricism](https://asteriskmag.com/issues/04/mysticism-empiricism)
+[Trilinear point splatting for real-time radiance field rendering](https://lfranke.github.io/trips/)

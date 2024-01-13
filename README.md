@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [Apple hiring compiler developers for improving Swift / C++ interoperability](https://jobs.apple.com/en-us/details/200531386/compiler-frontend-engineer)
 
-[Doing First Grade Math in Rust's Type System](https://fprasx.github.io/articles/type-system-arithmetic/)
+[Temperature-Sensing Stirbar with RFID](https://github.com/benkrasnow/Temperature_sensing_stirbar)
 
-[On Sleeper Agent LLMs](https://twitter.com/karpathy/status/1745921205020799433)
+[YouTransfer: Self-hosted file transfer and sharing solution](https://github.com/YouTransfer/YouTransfer)
+
+[I Found David Lynch's Lost 'Dune II' Script](https://www.wired.com/story/david-lynch-dune-sequel-script-unearthed/)
 
 [Blur Radius Comparison](https://bjango.com/articles/blurradiuscomparison/)
 
-[Generalized K-Means Clustering](https://github.com/derrickburns/generalized-kmeans-clustering)
+[Trayd (YC S23) Is Hiring](https://www.ycombinator.com/companies/trayd/jobs/kr4Mx7E-founding-engineer)
 
-[Shadcn: Components that you can copy-paste into your apps](https://ui.shadcn.com/)
+[On Sleeper Agent LLMs](https://twitter.com/karpathy/status/1745921205020799433)
 
-[Midlibrary: Library of 4000 Midjourney artistic styles](https://midlibrary.io/styles)
+[GoatCounter creator is hoping to raise at least €1k for basic living expense](https://github.com/arp242/goatcounter/releases/tag/v2.5.0)
 
-[DevDocs](https://devdocs.io)
+[Doing First Grade Math in Rust's Type System](https://fprasx.github.io/articles/type-system-arithmetic/)
 
-[Show HN: Marimo – an open-source reactive notebook for Python](https://github.com/marimo-team/marimo)
-
-[Attack of the Week: Airdrop Tracing](https://blog.cryptographyengineering.com/2024/01/11/attack-of-the-week-airdrop-tracing/)
+[Show HN: I made a site to simplify recommending talented people to others](https://www.youshouldworkwith.com)

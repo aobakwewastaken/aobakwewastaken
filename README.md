@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[How to Be More Agentic](https://usefulfictions.substack.com/p/how-to-be-more-agentic)
+[Stellarium is a free GPL software which renders realistic skies in real time](https://github.com/Stellarium/stellarium)
 
-[I Found David Lynch's Lost 'Dune II' Script](https://www.wired.com/story/david-lynch-dune-sequel-script-unearthed/)
+[ArchiveBox – open-source self-hosted web archiving](https://archivebox.io/)
 
-[The Global Project to Make a General Robotic Brain](https://spectrum.ieee.org/global-robotic-brain)
+[AsmBB – a lightweight web forum engine written in assembly language](https://asmbb.org/what-is-asmbb.1/)
 
-[Temperature-Sensing Stirbar with RFID](https://github.com/benkrasnow/Temperature_sensing_stirbar)
+[Exploring Podman: A More Secure Docker Alternative](https://betterstack.com/community/guides/scaling-docker/podman-vs-docker/)
 
-[A tiny radioactive battery could keep your future phone running for 50 years](https://www.techradar.com/phones/a-tiny-radioactive-battery-could-keep-your-phone-running-for-50-years)
+[Starlink Successfully Tests Space Direct to Cell Mobile Service](https://www.ispreview.co.uk/index.php/2024/01/starlink-successfully-tests-space-direct-to-cell-mobile-service.html)
 
-[YouTransfer: Self-hosted file transfer and sharing solution](https://github.com/YouTransfer/YouTransfer)
+[Peer review is an honor-based system](https://lemire.me/blog/2008/08/21/peer-review-is-an-honor-based-system/)
 
-[How to solve the "Mastermind" guessing game? (2009)](https://stackoverflow.com/questions/1185634/how-to-solve-the-mastermind-guessing-game)
+[Decompilation of Paper Mario for N64](https://papermar.io/)
 
-[A site that tracks the price of a Big Mac in every US McDonald's](https://pantryandlarder.com/mccheapest)
+[Spine AI (YC S23) Is Hiring](https://www.ycombinator.com/companies/spine-ai/jobs)
 
-[On Sleeper Agent LLMs](https://twitter.com/karpathy/status/1745921205020799433)
+[Coming of Age at the Dawn of the Social Internet](https://www.newyorker.com/culture/the-weekend-essay/coming-of-age-at-the-dawn-of-the-social-internet)
 
-[Blur Radius Comparison](https://bjango.com/articles/blurradiuscomparison/)
+[LG washing machine sending 3.7GB of data a day](https://www.tomshardware.com/networking/your-washing-machine-could-be-sending-37-gb-of-data-a-day)

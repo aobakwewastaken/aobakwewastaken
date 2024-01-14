@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[ICO fines HelloFresh £140k for spam texts and emails](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2024/01/ico-fines-hellofresh-140-000-for-spam-texts-and-emails/)
-
-[Would Luddites find the gig economy familiar?](https://arstechnica.com/gadgets/2024/01/would-luddites-find-the-gig-economy-familiar/)
+[When am I "allowed" to quit and not be labeled a quitter?](https://ognjen.io/when-am-i-allowed-to-quit/)
 
 [Show HN: #!/usr/bin/env docker run](https://gist.github.com/adtac/595b5823ef73b329167b815757bbce9f)
 
 [Citadel, a Calibre-compatible eBook management app](https://github.com/every-day-things/citadel)
 
+[How to Delete Your Data from Data Brokers](https://www.cybercollective.org/blog/how-to-delete-your-data-from-data-brokers)
+
 [Type information for faster Python C extensions](https://bernsteinbear.com//blog/typed-c-extensions/)
 
-[BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+[An eruption has begun north of Grindavík](https://www.ruv.is/english/2024-01-14-an-eruption-has-begun-north-of-grindavik-401887)
 
-[Building a fully local LLM voice assistant to control my smart home](https://johnthenerd.com/blog/local-llm-assistant/)
+[Gas pumps freeze at Calgary gas stations – Video – CityNews Calgary](https://calgary.citynews.ca/video/2024/01/12/gas-pumps-freeze-at-calgary-gas-stations/)
 
-[Towards Modern Development of Cloud Applications (2023)](https://dl.acm.org/doi/10.1145/3593856.3595909)
+[What Was ISDN?](https://tedium.co/2024/01/12/isdn-history-retrospective/)
 
-[All PyCon 2023 talks sorted by the view count](https://techtalksweekly.substack.com/p/all-pycon-2023-talks-sorted-by-views)
+[When "blocked indefinitely" is not indefinite](https://well-typed.com/blog/2024/01/when-blocked-indefinitely-is-not-indefinite/)
 
-[The young people sifting through the internet's worst horrors](https://www.ft.com/content/ef42e78f-e578-450b-9e43-36fbd1e20d01)
+[Smart binoculars can identify 9k birds](https://www.digitalcameraworld.com/news/worlds-first-ever-smart-binoculars-can-identify-up-to-9000-birds-thanks-built-in-ai)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Stellarium is a free GPL software which renders realistic skies in real time](https://github.com/Stellarium/stellarium)
+[Show HN: #!/usr/bin/env docker run](https://gist.github.com/adtac/595b5823ef73b329167b815757bbce9f)
 
-[ArchiveBox – open-source self-hosted web archiving](https://archivebox.io/)
+[Posthog is closing their Slack community in favor of forum](https://posthog.com/blog/slack-closure)
+
+[Building a fully local LLM voice assistant to control my smart home](https://johnthenerd.com/blog/local-llm-assistant/)
+
+[Stellarium: Software which renders realistic skies in real time](https://github.com/Stellarium/stellarium)
+
+[Smart binoculars can identify 9k birds](https://www.digitalcameraworld.com/news/worlds-first-ever-smart-binoculars-can-identify-up-to-9000-birds-thanks-built-in-ai)
+
+[John Michell: Country Parson Described Black Holes in 1783 (2000)](https://www.amnh.org/learn-teach/curriculum-collections/cosmic-horizons-book/john-michell-black-holes)
+
+[Researchers trace a form of lupus back to a single mutation](https://www.mpg.de/21374791/lupus-trigger)
 
 [AsmBB – a lightweight web forum engine written in assembly language](https://asmbb.org/what-is-asmbb.1/)
 
-[Exploring Podman: A More Secure Docker Alternative](https://betterstack.com/community/guides/scaling-docker/podman-vs-docker/)
+[What is the difference between a terminal, a shell, a TTY and a console? (2012)](https://unix.stackexchange.com/questions/4126/what-is-the-exact-difference-between-a-terminal-a-shell-a-tty-and-a-con)
 
-[Starlink Successfully Tests Space Direct to Cell Mobile Service](https://www.ispreview.co.uk/index.php/2024/01/starlink-successfully-tests-space-direct-to-cell-mobile-service.html)
-
-[Peer review is an honor-based system](https://lemire.me/blog/2008/08/21/peer-review-is-an-honor-based-system/)
-
-[Decompilation of Paper Mario for N64](https://papermar.io/)
-
-[Spine AI (YC S23) Is Hiring](https://www.ycombinator.com/companies/spine-ai/jobs)
-
-[Coming of Age at the Dawn of the Social Internet](https://www.newyorker.com/culture/the-weekend-essay/coming-of-age-at-the-dawn-of-the-social-internet)
-
-[LG washing machine sending 3.7GB of data a day](https://www.tomshardware.com/networking/your-washing-machine-could-be-sending-37-gb-of-data-a-day)
+[Asus Zenbook Duo 2024](https://www.asus.com/us/laptops/for-home/zenbook/asus-zenbook-duo-2024-ux8406/)

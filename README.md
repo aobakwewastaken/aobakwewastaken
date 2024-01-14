@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[When am I "allowed" to quit and not be labeled a quitter?](https://ognjen.io/when-am-i-allowed-to-quit/)
+[How to Delete Your Data from Data Brokers](https://www.cybercollective.org/blog/how-to-delete-your-data-from-data-brokers)
+
+[Coding Self-Attention, Multi-Head Attention, Cross-Attention, Causal-Attention](https://magazine.sebastianraschka.com/p/understanding-and-coding-self-attention)
 
 [Show HN: #!/usr/bin/env docker run](https://gist.github.com/adtac/595b5823ef73b329167b815757bbce9f)
 
 [Citadel, a Calibre-compatible eBook management app](https://github.com/every-day-things/citadel)
 
-[How to Delete Your Data from Data Brokers](https://www.cybercollective.org/blog/how-to-delete-your-data-from-data-brokers)
+[OnnxStream running TinyLlama and Mistral 7B, with CUDA support](https://github.com/vitoplantamura/OnnxStream/blob/master/assets/LLM.md)
 
 [Type information for faster Python C extensions](https://bernsteinbear.com//blog/typed-c-extensions/)
 
-[An eruption has begun north of Grindavík](https://www.ruv.is/english/2024-01-14-an-eruption-has-begun-north-of-grindavik-401887)
+[AMD Unveils Ryzen 8000G Series Processors: Zen 4 APUs for Desktop with Ryzen AI](https://www.anandtech.com/show/21208/amd-unveils-ryzen-8000g-series-processors-zen-4-apus-for-desktop-with-ryzen-ai)
 
-[Gas pumps freeze at Calgary gas stations – Video – CityNews Calgary](https://calgary.citynews.ca/video/2024/01/12/gas-pumps-freeze-at-calgary-gas-stations/)
+[What Bed Linen Can Teach Us About Usability](https://www.incomparable.design/blog/what-bed-linen-can-teach)
 
 [What Was ISDN?](https://tedium.co/2024/01/12/isdn-history-retrospective/)
 
-[When "blocked indefinitely" is not indefinite](https://well-typed.com/blog/2024/01/when-blocked-indefinitely-is-not-indefinite/)
-
-[Smart binoculars can identify 9k birds](https://www.digitalcameraworld.com/news/worlds-first-ever-smart-binoculars-can-identify-up-to-9000-birds-thanks-built-in-ai)
+[Dynamic Programming is not Black Magic](https://qsantos.fr/2024/01/04/dynamic-programming-is-not-black-magic/)

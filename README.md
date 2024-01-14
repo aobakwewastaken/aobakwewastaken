@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[How to Delete Your Data from Data Brokers](https://www.cybercollective.org/blog/how-to-delete-your-data-from-data-brokers)
+[Vanna.ai: Chat with your SQL database](https://github.com/vanna-ai/vanna)
 
-[Coding Self-Attention, Multi-Head Attention, Cross-Attention, Causal-Attention](https://magazine.sebastianraschka.com/p/understanding-and-coding-self-attention)
+[Fast RISC-V-based scripting back end for game engines](https://github.com/fwsGonzo/rvscript)
 
-[Show HN: #!/usr/bin/env docker run](https://gist.github.com/adtac/595b5823ef73b329167b815757bbce9f)
+[A supply chain attack on PyTorch](https://johnstawinski.com/2024/01/11/playing-with-fire-how-we-executed-a-critical-supply-chain-attack-on-pytorch/)
 
-[Citadel, a Calibre-compatible eBook management app](https://github.com/every-day-things/citadel)
+[Show HN: Material Files – Open Source Material Design File Manager for Android](https://github.com/zhanghai/MaterialFiles)
 
-[OnnxStream running TinyLlama and Mistral 7B, with CUDA support](https://github.com/vitoplantamura/OnnxStream/blob/master/assets/LLM.md)
+[‘This Has Been Going on for Years’: Boeing’s Manufacturing Mess](https://www.wsj.com/business/airlines/boeing-manufacturing-737-max-alaska-door-plug-spirit-18f7e233)
 
-[Type information for faster Python C extensions](https://bernsteinbear.com//blog/typed-c-extensions/)
+[Project Bluefin: an immutable, developer-focused, Cloud-native Linux](https://www.ypsidanger.com/announcing-project-bluefin/)
 
-[AMD Unveils Ryzen 8000G Series Processors: Zen 4 APUs for Desktop with Ryzen AI](https://www.anandtech.com/show/21208/amd-unveils-ryzen-8000g-series-processors-zen-4-apus-for-desktop-with-ryzen-ai)
+[Autonomous trucking is harder than autonomous rideshare](https://kevinchen.co/blog/autonomous-trucking-harder-than-rideshare/)
 
-[What Bed Linen Can Teach Us About Usability](https://www.incomparable.design/blog/what-bed-linen-can-teach)
+[My Knowledge Lakehouse](https://tabokie.github.io/non-fiction/2024/01/13/log-kb.html)
 
-[What Was ISDN?](https://tedium.co/2024/01/12/isdn-history-retrospective/)
+[Smalltalk simplicity and consistency vs. other languages (2022) [video]](https://www.youtube.com/watch?v=QFZqilshyL4)
 
-[Dynamic Programming is not Black Magic](https://qsantos.fr/2024/01/04/dynamic-programming-is-not-black-magic/)
+[A collector of math and physics surprises (2018)](https://www.quantamagazine.org/tadashi-tokieda-collects-math-and-physics-surprises-20181127/)

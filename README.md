@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [Teach Yourself Programming in Ten Years (1998)](https://norvig.com/21-days.html)
 
-[SQLite: Wal2 Mode](https://www.sqlite.org/cgi/src/doc/wal2/doc/wal2.md)
+[Wokwi – Simulate IoT Projects in the Browser](https://wokwi.com/)
 
-[A periodic table of visualization methods](https://www.visual-literacy.org/periodic_table/periodic_table.html)
+[A lowering strategy for control effects in Rust](https://www.abubalay.com/blog/2024/01/14/rust-effect-lowering)
 
-[YouTube begins new wave of slowdowns for users with ad blockers enabled](https://9to5google.com/2024/01/13/youtube-new-wave-slow-downs-ad-blocker/)
+[Our language, our world](https://aeon.co/essays/does-language-mirror-the-mind-an-intellectual-history)
 
-[Slashing Data Transfer Costs in AWS by 99%](https://www.bitsand.cloud/posts/slashing-data-transfer-costs/)
+[FSRS: A modern, efficient spaced repetition algorithm](https://github.com/open-spaced-repetition/fsrs4anki/wiki/ABC-of-FSRS)
 
-[Lago – open-source Stripe alternative is hiring a Founding Marketer](https://www.ycombinator.com/companies/lago/jobs/twKO87q-founding-marketer)
+[Harnessing heat from wastewater](https://www.bbc.co.uk/future/article/20240103-sewage-a-low-cost-low-carbon-way-to-warm-homes)
 
-[Microsoft suggests command line fiddling to get Windows 10 update installed](https://www.theregister.com/2024/01/12/microsoft_update_for_bitlocker_vuln/)
+[Svix (YC W21) Is Hiring a Technical Content Marketer (US Remote)](https://www.svix.com/careers/)
 
-[Notes from Dynamicland: Geokit (2018)](https://omar.website/posts/notes-from-dynamicland-geokit/)
+[Americans are fake and the Dutch are rude (2022)](https://behavioralscientist.org/americans-are-fake-and-the-dutch-are-rude/)
 
-[What's the Story on the "Toxic Lady"?](https://www.straightdope.com/21342164/what-s-the-story-on-the-toxic-lady)
+["The Girls in Their Summer Dresses" – Irwin Shaw (1939)](https://www.classicshorts.com/stories/dresses.html)
 
-[Beaver Drop](https://en.wikipedia.org/wiki/Beaver_drop)
+[(Unsuccessfully) Fine-tuning GPT to play "Connections"](https://www.danielcorin.com/posts/2024/fine-tuning-connections/)

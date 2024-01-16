@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Teach Yourself Programming in Ten Years (1998)](https://norvig.com/21-days.html)
+[Modeless Vim](https://github.com/SebastianMuskalla/ModelessVim)
+
+[Lichee Console 4A – RISC-V mini laptop: Review, benchmarks and early issues](https://3.14.by/en/read/RISC-V-Sipeed-Lichee-Console-4A-Alibaba-T-Head-TH1520-review)
+
+[We switched to Java 21 virtual threads and got a deadlock in TPC-C for Postgres](https://blog.ydb.tech/how-we-switched-to-java-21-virtual-threads-and-got-deadlock-in-tpc-c-for-postgresql-cca2fe08d70b)
+
+[Introduction to GPU Programming in Chapel](https://chapel-lang.org/blog/posts/intro-to-gpus/)
+
+[Venice's Secret Service](https://www.thomas-huehn.com/2024/01/venices-secret-service/)
+
+[Prison. Bankruptcy. Suicide. How a software glitch ruined lives](https://www.cnn.com/2024/01/13/business/uk-post-office-fujitsu-horizon-scandal/index.html)
+
+[Victorian Glass Fire Grenades](https://museumcrush.org/the-beauty-and-danger-in-victorian-glass-fire-grenades/)
 
 [Wokwi – Simulate IoT Projects in the Browser](https://wokwi.com/)
 
-[A lowering strategy for control effects in Rust](https://www.abubalay.com/blog/2024/01/14/rust-effect-lowering)
+[Niklaus Wirth, or the Importance of Being Simple](https://cacm.acm.org/blogs/blog-cacm/279178-niklaus-wirth-or-the-importance-of-being-simple/fulltext)
 
-[Our language, our world](https://aeon.co/essays/does-language-mirror-the-mind-an-intellectual-history)
-
-[FSRS: A modern, efficient spaced repetition algorithm](https://github.com/open-spaced-repetition/fsrs4anki/wiki/ABC-of-FSRS)
-
-[Harnessing heat from wastewater](https://www.bbc.co.uk/future/article/20240103-sewage-a-low-cost-low-carbon-way-to-warm-homes)
-
-[Svix (YC W21) Is Hiring a Technical Content Marketer (US Remote)](https://www.svix.com/careers/)
-
-[Americans are fake and the Dutch are rude (2022)](https://behavioralscientist.org/americans-are-fake-and-the-dutch-are-rude/)
-
-["The Girls in Their Summer Dresses" – Irwin Shaw (1939)](https://www.classicshorts.com/stories/dresses.html)
-
-[(Unsuccessfully) Fine-tuning GPT to play "Connections"](https://www.danielcorin.com/posts/2024/fine-tuning-connections/)
+[Many AI safety orgs have tried to criminalize currently-existing open-source AI](https://1a3orn.com/sub/machine-learning-bans.html)

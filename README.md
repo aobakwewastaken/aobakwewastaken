@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Willow Protocol](https://willowprotocol.org/)
+
+[Nintendo Switch Emulator: Progress Report December 2023](https://blog.ryujinx.org/progress-report-december-2023/)
+
+[Show HN: htmldocs - Typeset and Generate PDFs with HTML/CSS](https://htmldocs.com)
+
 [Show HN: I made a website to find best bus seat to avoid the sun while traveling](https://sitinshade.com)
 
-[US developers can offer non-app store purchasing, Apple still collect commission](https://www.macrumors.com/2024/01/16/us-app-store-alternative-purchase-option/)
+[Z – Jump around](https://github.com/rupa/z)
+
+[Htmx Is Composable?](https://timkellogg.me/blog/2024/01/17/htmx)
+
+[RAG Using Unstructured Data and Role of Knowledge Graphs](https://kuzudb.com/docusaurus/blog/llms-graphs-part-2/)
 
 [Some Memories of Niklaus Wirth by Martin Odersky](https://odersky.github.io/blog/2024-01-04-post.html)
 
-[My New Computer](https://blog.taoetc.org/)
-
-[PixieFail: Nine Vulnerabilities UEFI Implementations](https://blog.quarkslab.com/pixiefail-nine-vulnerabilities-in-tianocores-edk-ii-ipv6-network-stack.html)
-
-[OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers#section-job)
+[The Rust project has a burnout problem](https://jyn.dev/2024/01/16/the-rust-project-has-a-burnout-problem.html)
 
 [Flowblade: Open-Source Video Editor](https://jliljebl.github.io/flowblade/)
-
-[Fluorite lenses: Corrective capabilities beyond ordinary optical glass](https://global.canon/en/c-museum/special/exhibition2.html)
-
-[BBC BASIC raytracer in 432 characters](https://mastodon.me.uk/@bbcmicrobot/111762132859648345)
-
-[Post-mortem for last week's incident at Kagi](https://status.kagi.com/issues/2024-01-12-kagi-down-on-some-regions/)

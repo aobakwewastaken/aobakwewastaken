@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Bad stuff going down at the American Sociological Association](https://statmodeling.stat.columbia.edu/2024/01/17/bad-stuff-going-down-at-the-american-sociological-association/)
+[AlphaGeometry: An Olympiad-level AI system for geometry](https://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/)
 
-[Apple built iCloud to store billions of databases](https://read.engineerscodex.com/p/how-apple-built-icloud-to-store-billions)
+[We have surpassed 6 of the 9 planetary boundaries that sustain human life (2023)](https://www.stockholmresilience.org/research/planetary-boundaries.html)
+
+[K/simple: a tiny K interpreter for educational purposes by Arthur Whitney](https://github.com/kparc/ksimple)
 
 [Willow Protocol](https://willowprotocol.org/)
 
-[Show HN: htmldocs - Typeset and Generate PDFs with HTML/CSS](https://htmldocs.com)
+[Machine embroidery of light-emitting textiles with electroluminescent threads](https://www.science.org/doi/10.1126/sciadv.adk4295)
 
-[RAG Using Unstructured Data and Role of Knowledge Graphs](https://kuzudb.com/docusaurus/blog/llms-graphs-part-2/)
+[MRISC32 – An Open 32-Bit RISC/Vector ISA (Suitable for FPGA CPU)](https://mrisc32.bitsnbites.eu/)
 
-[Show HN: I made a website to find best bus seat to avoid the sun while traveling](https://sitinshade.com)
+[John Lasseter drew the BSD daemon logo](https://www.jacobelder.com/2024/01/17/director-of-toy-story-also-drew-bsd-daemon.html)
 
-[Z – Jump around](https://github.com/rupa/z)
+[Fathom AI Meeting Assistant (YC W21) is hiring full-stack engineers (remote)](https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-full-stack-engineer-remote)
 
-[Nintendo Switch Emulator: Progress Report December 2023](https://blog.ryujinx.org/progress-report-december-2023/)
+[Show HN: Shadeup – A language that makes WebGPU easier](https://shadeup.dev/)
 
-[Some Memories of Niklaus Wirth](https://odersky.github.io/blog/2024-01-04-post.html)
-
-[Flowblade: Open-Source Video Editor](https://jliljebl.github.io/flowblade/)
+[OpenAI is working with the US military now](https://www.bloomberg.com/news/articles/2024-01-16/openai-working-with-us-military-on-cybersecurity-tools-for-veterans)

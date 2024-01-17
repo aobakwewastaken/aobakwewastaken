@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Web AI Model Testing: WebGPU, WebGL, and Headless Chrome](https://developer.chrome.com/blog/supercharge-web-ai-testing)
+[US developers can offer non-app store purchasing, Apple still collect commission](https://www.macrumors.com/2024/01/16/us-app-store-alternative-purchase-option/)
 
-[TinyML: Ultra-low power machine learning](https://www.ikkaro.net/what-tinyml-is/)
+[Flowblade: Open-Source Video Editor](https://jliljebl.github.io/flowblade/)
 
-[Space Solar Power Demonstrator ends first in-space mission](https://www.caltech.edu/about/news/space-solar-power-project-ends-first-in-space-mission-with-successes-and-lessons)
+[Show HN: I made a website to find best bus seat to avoid the sun while traveling](https://sitinshade.com)
 
-[The origins of the Guinness stout yeast](https://www.nature.com/articles/s42003-023-05587-3)
+[Fluorite lenses: Corrective capabilities beyond ordinary optical glass](https://global.canon/en/c-museum/special/exhibition2.html)
 
-[OutRun – Open-source, privacy oriented, outdoor fitness tracker](https://github.com/timfraedrich/OutRun)
+[From Vexing Uncertainty to Intellectual Humility](https://academic.oup.com/schizophreniabulletin/advance-article/doi/10.1093/schbul/sbad173/7517011)
 
-[6174](https://en.wikipedia.org/wiki/6174)
+[MixRank (YC S11) Is Hiring Global Remote Software Engineers]()
 
-[Speedbump – a TCP proxy to simulate variable network latency](https://github.com/kffl/speedbump)
+[ALOHA robot learns from humans to cook, clean, do laundry](https://venturebeat.com/automation/stanfords-mobile-aloha-robot-learns-from-humans-to-cook-clean-do-laundry/)
 
-[Y Combinator needs another infrastructure software engineer]()
+[BBC BASIC raytracer in 432 characters](https://mastodon.me.uk/@bbcmicrobot/111762132859648345)
 
-[Lilygo T-Keyboard: An ESP32 Bluetooth Blackberry keyboard](https://www.lilygo.cc/products/t-keyboard)
+[Post-mortem for last week's incident at Kagi](https://status.kagi.com/issues/2024-01-12-kagi-down-on-some-regions/)
 
-[Understanding x86_64 Paging](https://zolutal.github.io/understanding-paging/)
+[Stable Code 3B: Coding on the Edge](https://stability.ai/news/stable-code-2024-llm-code-completion-release)

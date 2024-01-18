@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Losing my son](https://www.fortressofdoors.com/i-lost-my-son/)
+[The quiet death of Ello's big dreams](https://waxy.org/2024/01/the-quiet-death-of-ellos-big-dreams/)
+
+[German developer guilty of 'hacking' for exposing hardcoded credentials in app](https://infosec.exchange/@WPalant/111776937550399546)
+
+[Flying kites deliver container-sized power generation](https://spectrum.ieee.org/micro-wind-power-kitepower)
+
+[Show HN: Auto-generate load tests/synthetic test data from OpenAPI spec/HAR file](https://docs.multiple.dev/how-it-works/ai-test-gen)
+
+[The value of information gathering in phage–bacteria warfare](https://academic.oup.com/pnasnexus/article/3/1/pgad431/7512761)
+
+[New cancer drug kinder than chemotherapy](https://www.bbc.com/news/health-67793887)
 
 [Launch HN: Talc AI (YC S23) – Test Sets for AI]()
 
-[Examples of AI rip-offs making their way into Google News](https://www.404media.co/google-news-is-boosting-garbage-ai-generated-articles/)
+[Medjed: From Ancient Egypt to Japanese Pop Culture (2017)](https://jgeekstudies.org/archives/vol-42-december-2017/medjed-from-ancient-egypt-to-japanese-pop-culture/)
 
-[WhisperSpeech – An open source text-to-speech system built by inverting Whisper](https://github.com/collabora/WhisperSpeech)
+[Zuck: Our long-term vision is to build general intelligence and open-source it.](https://www.threads.net/@zuck/post/C2QB4NGRVHn)
 
-[Queues don't fix overload (2014)](https://ferd.ca/queues-don-t-fix-overload.html)
-
-[PostgreSQL Operations Cheat Sheet: featuring security, scaling, structure, etc.](https://wiki.postgresql.org/wiki/Operations_cheat_sheet)
-
-[Identifying Rust's collect:<Vec<_>>() memory leak footgun](https://blog.polybdenum.com/2024/01/17/identifying-the-collect-vec-memory-leak-footgun.html)
-
-[Ways to die on the web](https://wiki.archiveteam.org/index.php/A_Million_Ways_to_Die_on_the_Web)
-
-[Which word begins with "y" and looks like an axe in this picture? (2017)](https://english.stackexchange.com/questions/395382/which-word-begins-with-y-and-looks-like-an-axe-in-this-picture)
-
-[How to Design an ISA](https://queue.acm.org/detail.cfm?id=3639445)
+[WebGPU is now available on Android](https://developer.chrome.com/blog/new-in-webgpu-121)

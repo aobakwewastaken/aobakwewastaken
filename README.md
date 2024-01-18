@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Losing my son](https://www.fortressofdoors.com/i-lost-my-son/)
+
+[Which word begins with "y" and looks like an axe in this picture? (2017)](https://english.stackexchange.com/questions/395382/which-word-begins-with-y-and-looks-like-an-axe-in-this-picture)
+
+[WhisperSpeech – An open source text-to-speech system built by inverting Whisper](https://github.com/collabora/WhisperSpeech)
+
+[Djgpp](https://www.delorie.com/djgpp/)
+
+[Remote work doesn't seem to affect productivity, Fed study finds](https://www.bloomberg.com/news/articles/2024-01-16/remote-work-doesn-t-seem-to-affect-productivity-fed-study-finds)
+
+[Wasmer (YC S19) Is Hiring Rust and Compiler Engineers](https://www.ycombinator.com/companies/wasmer/jobs)
+
 [AlphaGeometry: An Olympiad-level AI system for geometry](https://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/)
 
-[We have surpassed 6 of the 9 planetary boundaries that sustain human life (2023)](https://www.stockholmresilience.org/research/planetary-boundaries.html)
+[Automatic class sorting with Prettier](https://tailwindcss.com/blog/automatic-class-sorting-with-prettier)
 
-[K/simple: a tiny K interpreter for educational purposes by Arthur Whitney](https://github.com/kparc/ksimple)
+[Barcoding Bees (2020)](https://theapiarist.org/barcoding-bees/)
 
-[Willow Protocol](https://willowprotocol.org/)
-
-[Machine embroidery of light-emitting textiles with electroluminescent threads](https://www.science.org/doi/10.1126/sciadv.adk4295)
-
-[MRISC32 – An Open 32-Bit RISC/Vector ISA (Suitable for FPGA CPU)](https://mrisc32.bitsnbites.eu/)
-
-[John Lasseter drew the BSD daemon logo](https://www.jacobelder.com/2024/01/17/director-of-toy-story-also-drew-bsd-daemon.html)
-
-[Fathom AI Meeting Assistant (YC W21) is hiring full-stack engineers (remote)](https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-full-stack-engineer-remote)
-
-[Show HN: Shadeup – A language that makes WebGPU easier](https://shadeup.dev/)
-
-[OpenAI is working with the US military now](https://www.bloomberg.com/news/articles/2024-01-16/openai-working-with-us-military-on-cybersecurity-tools-for-veterans)
+[Computer Engineering for Babies (2021)](https://computerengineeringforbabies.com/products/computer-engineering-for-babies)

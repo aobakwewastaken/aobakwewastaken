@@ -5,16 +5,16 @@
 
 [A Million Ways to Die on the Web](https://wiki.archiveteam.org/index.php/A_Million_Ways_to_Die_on_the_Web)
 
+[Flattr is closing down](https://flattr.com/)
+
 [WhisperSpeech – An open source text-to-speech system built by inverting Whisper](https://github.com/collabora/WhisperSpeech)
+
+[Gym Class VR (YC W22) Is Hiring Lead Applied AI Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/XG7v8sQ-lead-applied-ai-gaming-engineer)
 
 [How to Design an ISA](https://queue.acm.org/detail.cfm?id=3639445)
 
-[Automatic class sorting with Prettier](https://tailwindcss.com/blog/automatic-class-sorting-with-prettier)
-
-[Solving the Dining Philosophers Problem with Systemd – Part 3](https://www.brightbox.com/blog/2024/01/17/solving-dining-philosophers-with-systemd-part-3/)
-
-[Remote work doesn't seem to affect productivity, Fed study finds](https://www.bloomberg.com/news/articles/2024-01-16/remote-work-doesn-t-seem-to-affect-productivity-fed-study-finds)
-
 [Polymorphic Types in C [pdf]](https://open-std.org/JTC1/SC22/WG14/www/docs/n3212.pdf)
 
-[Djgpp](https://www.delorie.com/djgpp/)
+[Automatic class sorting with Prettier (2022)](https://tailwindcss.com/blog/automatic-class-sorting-with-prettier)
+
+[Remote work doesn't seem to affect productivity, Fed study finds](https://www.bloomberg.com/news/articles/2024-01-16/remote-work-doesn-t-seem-to-affect-productivity-fed-study-finds)

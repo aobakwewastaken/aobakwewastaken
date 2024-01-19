@@ -5,16 +5,16 @@
 
 [We migrated our PostgreSQL database with 11 seconds downtime](https://gds.blog.gov.uk/2024/01/17/how-we-migrated-our-postgresql-database-with-11-seconds-downtime/)
 
-[Random Animations](https://bleuje.com/randomanimations/)
+[Mourning Google](https://www.tbray.org/ongoing/When/202x/2024/01/15/Google-2024)
 
 [LoaderShip – CSS-Only Loaders](https://www.loadership.com/)
 
-[Orthic Shorthand – Write as fast as you type](https://orthic.shorthand.fun/)
+[Nango (YC W23) Is Hiring Back End Engineers (Remote)](https://nango.dev/jobs)
 
-[Microsoft limits institutional cloud storage space for environmental reasons](https://scholar.social/@researchfairy/111778617625312456)
+[Random Animations](https://bleuje.com/randomanimations/)
 
-[Hearing and Doing](https://www.planeandpilotmag.com/hearing-and-doing/)
+[Driver hack lets you run Linux after Windows BSODs, no reboot required](https://www.tomshardware.com/software/operating-systems/driver-hack-lets-you-run-linux-after-windows-bsods-no-reboot-required)
 
 [10 Second Teleportation](https://upollo.ai/blog/10-second-teleportation)
 
-[Culture Change at Google](https://social.clawhammer.net/blog/posts/2024-01-19-CultureChange/)
+[The Geometry of Other People](https://aeon.co/essays/why-do-other-people-form-imaginary-shapes-in-our-minds)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Dave Mills has died](https://elists.isoc.org/pipermail/internet-history/2024-January/009265.html)
+
+[Google will disable all but OAuth for IMAP, SMTP and POP starting Sept. 30](https://workspaceupdates.googleblog.com/2023/09/winding-down-google-sync-and-less-secure-apps-support.html)
+
+[We migrated our PostgreSQL database with 11 seconds downtime](https://gds.blog.gov.uk/2024/01/17/how-we-migrated-our-postgresql-database-with-11-seconds-downtime/)
+
+[Random Animations](https://bleuje.com/randomanimations/)
+
+[David Mills' Fuzzball](https://github.com/pdp11/fuzzball-operating-system)
+
+[Culture Change at Google](https://social.clawhammer.net/blog/posts/2024-01-19-CultureChange/)
+
 [The quiet death of Ello's big dreams](https://waxy.org/2024/01/the-quiet-death-of-ellos-big-dreams/)
 
-[German developer guilty of 'hacking' for exposing hardcoded credentials in app](https://infosec.exchange/@WPalant/111776937550399546)
+[10 Second Teleportation](https://upollo.ai/blog/10-second-teleportation)
 
-[Flying kites deliver container-sized power generation](https://spectrum.ieee.org/micro-wind-power-kitepower)
+[Noisy brain may underlie some of autism's sensory features](https://www.thetransmitter.org/spectrum/noisy-brain-may-underlie-some-of-autisms-sensory-features/)
 
-[Show HN: Auto-generate load tests/synthetic test data from OpenAPI spec/HAR file](https://docs.multiple.dev/how-it-works/ai-test-gen)
-
-[The value of information gathering in phage–bacteria warfare](https://academic.oup.com/pnasnexus/article/3/1/pgad431/7512761)
-
-[New cancer drug kinder than chemotherapy](https://www.bbc.com/news/health-67793887)
-
-[Launch HN: Talc AI (YC S23) – Test Sets for AI]()
-
-[Medjed: From Ancient Egypt to Japanese Pop Culture (2017)](https://jgeekstudies.org/archives/vol-42-december-2017/medjed-from-ancient-egypt-to-japanese-pop-culture/)
-
-[Zuck: Our long-term vision is to build general intelligence and open-source it.](https://www.threads.net/@zuck/post/C2QB4NGRVHn)
-
-[WebGPU is now available on Android](https://developer.chrome.com/blog/new-in-webgpu-121)
+[Why holes at the bottom of the ocean disappear and reappear](https://www.atlasobscura.com/articles/ocean-floor-holes-purposes-eels)

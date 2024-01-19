@@ -7,14 +7,14 @@
 
 [Random Animations](https://bleuje.com/randomanimations/)
 
-[David Mills' Fuzzball](https://github.com/pdp11/fuzzball-operating-system)
+[LoaderShip – CSS-Only Loaders](https://www.loadership.com/)
 
-[Culture Change at Google](https://social.clawhammer.net/blog/posts/2024-01-19-CultureChange/)
+[Orthic Shorthand – Write as fast as you type](https://orthic.shorthand.fun/)
 
-[The quiet death of Ello's big dreams](https://waxy.org/2024/01/the-quiet-death-of-ellos-big-dreams/)
+[Microsoft limits institutional cloud storage space for environmental reasons](https://scholar.social/@researchfairy/111778617625312456)
+
+[Hearing and Doing](https://www.planeandpilotmag.com/hearing-and-doing/)
 
 [10 Second Teleportation](https://upollo.ai/blog/10-second-teleportation)
 
-[Noisy brain may underlie some of autism's sensory features](https://www.thetransmitter.org/spectrum/noisy-brain-may-underlie-some-of-autisms-sensory-features/)
-
-[Why holes at the bottom of the ocean disappear and reappear](https://www.atlasobscura.com/articles/ocean-floor-holes-purposes-eels)
+[Culture Change at Google](https://social.clawhammer.net/blog/posts/2024-01-19-CultureChange/)

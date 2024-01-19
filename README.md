@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Canadian Man Stuck in Triangle of E-Commerce Fraud](https://krebsonsecurity.com/2024/01/canadian-man-stuck-in-triangle-of-e-commerce-fraud/)
+[Ceph: A Journey to 1 TiB/s](https://ceph.io/en/news/blog/2024/ceph-a-journey-to-1tibps/)
+
+[What's something difficult programmers make look easy?](https://tomaszs2.medium.com/whats-something-very-hard-that-programmers-make-look-easy-80ef5e7a104b)
+
+[Tart: VMs on macOS using Apple's native Virtualization.Framework](https://tart.run/)
+
+[Researchers claim first functioning graphene-based chip](https://spectrum.ieee.org/graphene-semiconductor)
+
+[Calculus on Computational Graphs: Backpropagation (2015)](https://colah.github.io/posts/2015-08-Backprop/)
+
+[Surveillance-by-Design in Proposed Amendments to the UK Investigatory Powers Act](https://www.lawfaremedia.org/article/surveillance-by-design-in-proposed-amendments-to-the-u.k.-investigatory-powers-act)
+
+[US government opens 22M acres of federal lands to solar](https://electrek.co/2024/01/18/us-govt-opens-22-million-acres-federal-lands-solar/)
 
 [Building a USB SNES Controller](https://blog.chybby.com/posts/building-a-usb-snes-controller)
 
-[Researchers Claim First Functioning Graphene-Based Chip](https://spectrum.ieee.org/graphene-semiconductor)
+[Surf the web like it's 1999](https://billsworld.neocities.org/)
 
-[Silos are fine, as long as there is an API between them](https://fernandovillalba.substack.com/p/devops-dont-destroy-silos-transform)
-
-[Dave Mills has died](https://elists.isoc.org/pipermail/internet-history/2024-January/009265.html)
-
-[Comparing the 1970's Cray-1 supercomputer against the Raspberry Pi](https://blog.adafruit.com/2024/01/17/comparing-the-1970s-cray-1-supercomputer-against-the-raspberry-pi-single-board-computer-range-raspberrypi-hacksterio/)
-
-[Live: Japan's first-ever soft lunar landing attempt with SLIM spacecraft [video]](https://www.youtube.com/watch?v=2-yBlZplnKQ)
-
-[LoaderShip – CSS-Only Loaders](https://www.loadership.com/)
-
-[Winding down Google Sync and Less Secure Apps support](https://workspaceupdates.googleblog.com/2023/09/winding-down-google-sync-and-less-secure-apps-support.html)
-
-[Backing up the power grid with green methanol](https://spectrum.ieee.org/methanol-energy-storage)
+[Japan's first-ever soft lunar landing with SLIM spacecraft [video]](https://www.youtube.com/watch?v=2-yBlZplnKQ)

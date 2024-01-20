@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Open source Spotify client that doesn't require Premium nor uses Electron](https://github.com/KRTirtho/spotube)
+[Investigating a vanishing BIOS on the Fujitsu Lifebook AH532](https://blog.timschumi.net/2024/01/20/ah532-bios-investigation.html)
+
+[Nightshade: An offensive tool for artists against AI art generators](https://nightshade.cs.uchicago.edu/whatis.html)
+
+[Spotube: Open-source Spotify-Youtube client](https://github.com/KRTirtho/spotube)
+
+[Memory leak proof every C program](https://flak.tedunangst.com/post/memory-leak-proof-every-C-program)
+
+[Show HN: Checkmate Champ – a training tool for chess tactics](https://www.checkmatechamp.net/)
 
 [What's that touchscreen in my room?](https://laplab.me/posts/whats-that-touchscreen-in-my-room/)
 
-[Pratt Parsers: Expression Parsing Made Easy (2011)](https://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy/)
+[Let's talk about joins](https://cghlewis.com/blog/joins/)
 
-[Emergency-Hired Teachers Without Degrees as Effective as Licensed Educators](https://www.the74million.org/article/emergency-hired-teachers-do-just-as-well-as-those-who-go-through-normal-training/)
+[HaptX gloves provide high-fidelity touch feedback of virtual spaces](https://www.freethink.com/ar-vr/we-tested-the-most-advanced-haptic-gloves-in-the-world)
 
-[Ubisoft Says Out Loud: We Want People to Get Used to Not Owning What They Bought](https://www.techdirt.com/2024/01/19/ubisoft-says-it-out-loud-we-want-people-to-get-used-to-not-owning-what-theyve-bought/)
+[NASA loses contact with Ingenuity Mars helicopter](https://www.space.com/nasa-loses-contact-ingenuity-mars-helicopter)
 
-[Vint Cerf is accumulating Dave Mills stories](https://docs.google.com/document/d/1XU6Fn5rFeJLO4mIBSa9e8V8BIDwafI0Lvlmi4gQwcmE/edit?usp=sharing)
-
-[Show HN: Coffeehouse, one-on-one voicechat with random HN users](https://coffeehouse.chat/hn)
-
-[Simulating a Minimal Cell in the Browser](https://technistuff.com/posts/simulating-a-minimal-cell/)
-
-[Why lowercase letters save data](https://endtimes.dev/why-lowercase-letters-save-data/)
-
-[Snowcraft – Building a Lego Snowfort from giant Lego snow-bricks](https://www.verandavikings.com/blog/building-lego-iglos)
+[The possibility of making money from shredded banknotes using computer vision](https://arxiv.org/abs/2401.06133)

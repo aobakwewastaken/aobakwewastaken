@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Investigating a vanishing BIOS on the Fujitsu Lifebook AH532](https://blog.timschumi.net/2024/01/20/ah532-bios-investigation.html)
+[Collision Detection](https://www.jeffreythompson.org/collision-detection/index.php)
 
 [Nightshade: An offensive tool for artists against AI art generators](https://nightshade.cs.uchicago.edu/whatis.html)
 
-[Spotube: Open-source Spotify-Youtube client](https://github.com/KRTirtho/spotube)
+[The Bun Shell](https://bun.sh/blog/the-bun-shell)
 
-[Memory leak proof every C program](https://flak.tedunangst.com/post/memory-leak-proof-every-C-program)
-
-[Show HN: Checkmate Champ – a training tool for chess tactics](https://www.checkmatechamp.net/)
+[Investigating a vanishing BIOS on the Fujitsu Lifebook AH532](https://blog.timschumi.net/2024/01/20/ah532-bios-investigation.html)
 
 [What's that touchscreen in my room?](https://laplab.me/posts/whats-that-touchscreen-in-my-room/)
 
-[Let's talk about joins](https://cghlewis.com/blog/joins/)
+[Langfuse (YC W23) Is Hiring a Founding Engineer in Berlin (LLM Observability)](https://www.workatastartup.com/jobs/62929)
 
-[HaptX gloves provide high-fidelity touch feedback of virtual spaces](https://www.freethink.com/ar-vr/we-tested-the-most-advanced-haptic-gloves-in-the-world)
+[Common Lisp's Block / Return-From and Unwind-Protect](http://axisofeval.blogspot.com/2024/01/common-lisps-block-return-from-and.html)
 
-[NASA loses contact with Ingenuity Mars helicopter](https://www.space.com/nasa-loses-contact-ingenuity-mars-helicopter)
+[Gemini: Fast Failure Recovery in Distributed Training with In-Memory Checkpoints [pdf]](https://www.cs.rice.edu/~eugeneng/papers/SOSP23.pdf)
 
-[The possibility of making money from shredded banknotes using computer vision](https://arxiv.org/abs/2401.06133)
+[Shiyu discovery reveals East Asia's advanced materials dating to 45,000 BCE](https://phys.org/news/2024-01-shiyu-discovery-reveals-east-asia.html)
+
+[Use Midnight Commander like a pro (2015)](https://klimer.eu/2015/05/01/use-midnight-commander-like-a-pro/)

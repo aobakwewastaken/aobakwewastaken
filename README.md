@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Collision Detection](https://www.jeffreythompson.org/collision-detection/index.php)
+[Collision Detection (2015)](https://www.jeffreythompson.org/collision-detection/index.php)
 
-[Nightshade: An offensive tool for artists against AI art generators](https://nightshade.cs.uchicago.edu/whatis.html)
+[Which command did you run 1731 days ago?](https://registerspill.thorstenball.com/p/which-command-did-you-run-1731-days)
+
+[Augmenting the Markdown Language for Great Python Graphical Interfaces](https://www.taipy.io/posts/augmenting-the-markdown-language-for-great-python-graphical-interfaces)
+
+[Use Midnight Commander like a pro (2015)](https://klimer.eu/2015/05/01/use-midnight-commander-like-a-pro/)
+
+[What's that touchscreen in my room?](https://laplab.me/posts/whats-that-touchscreen-in-my-room/)
 
 [The Bun Shell](https://bun.sh/blog/the-bun-shell)
 
 [Investigating a vanishing BIOS on the Fujitsu Lifebook AH532](https://blog.timschumi.net/2024/01/20/ah532-bios-investigation.html)
 
-[What's that touchscreen in my room?](https://laplab.me/posts/whats-that-touchscreen-in-my-room/)
+[Common Lisp's block / return-from and unwind-protect](http://axisofeval.blogspot.com/2024/01/common-lisps-block-return-from-and.html)
 
-[Langfuse (YC W23) Is Hiring a Founding Engineer in Berlin (LLM Observability)](https://www.workatastartup.com/jobs/62929)
+[Show HN: Checkmate Champ – a training tool for chess tactics](https://www.checkmatechamp.net/)
 
-[Common Lisp's Block / Return-From and Unwind-Protect](http://axisofeval.blogspot.com/2024/01/common-lisps-block-return-from-and.html)
-
-[Gemini: Fast Failure Recovery in Distributed Training with In-Memory Checkpoints [pdf]](https://www.cs.rice.edu/~eugeneng/papers/SOSP23.pdf)
-
-[Shiyu discovery reveals East Asia's advanced materials dating to 45,000 BCE](https://phys.org/news/2024-01-shiyu-discovery-reveals-east-asia.html)
-
-[Use Midnight Commander like a pro (2015)](https://klimer.eu/2015/05/01/use-midnight-commander-like-a-pro/)
+[Marketing for Product-Obsessed Developers](https://marclou.beehiiv.com/p/marketing-for-product-obsessed-developers)

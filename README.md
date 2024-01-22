@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[My toddler still loves planes, so I upgraded her radar](https://jacobbartlett.substack.com/p/my-toddler-still-loves-planes-so)
+
+[Modder re-creates Game Boy Advance games using the audio from crash sounds](https://arstechnica.com/gaming/2024/01/modder-recreates-game-boy-advance-games-using-the-audio-from-crash-sounds/)
+
+[Winlator: Android app that lets you to run Windows apps with Wine](https://winlator.org/)
+
+[LoRA from scratch: implementation for LLM finetuning](https://lightning.ai/lightning-ai/studios/code-lora-from-scratch?view=public&section=all)
+
+[Right to Repair: The Price Is Not Right](https://repair.eu/news/the-price-is-not-right/)
+
+[Building a fair multi-tenant queuing system](https://www.inngest.com/blog/building-the-inngest-queue-pt-i-fairness-multi-tenancy)
+
 [Launch HN: Diversion (YC S22) – Cloud-Native Git Alternative]()
 
-[When America First Dropped Acid](https://www.newyorker.com/magazine/2024/01/29/tripping-on-utopia-margaret-mead-the-cold-war-and-the-troubled-birth-of-psychedelic-science-benjamin-breen-book-review)
+[How far could the sun possibly be?](https://profmattstrassler.com/2024/01/19/how-far-could-the-sun-possibly-be/)
 
 [Reading QR codes without a computer](https://qr.blinry.org/)
 
-[RubyWM – an X11 window manager in pure Ruby](https://rubyflow.com/p/pb1tu2-rubywm-an-x11-window-manager-in-pure-ruby)
-
-[A Man Who Coined the Word "Robot" Defends Himself](https://spectrum.ieee.org/karel-capek-robots)
-
-[U.S. National Park Service API](https://www.nps.gov/subjects/digital/nps-data-api.htm)
-
-[BiomeJS 2024 Roadmap](https://biomejs.dev/blog/roadmap-2024/)
-
-[What happens when an astronaut in orbit says he's not coming back?](https://arstechnica.com/space/2024/01/solving-a-nasa-mystery-why-did-space-shuttle-commanders-lock-the-hatch/)
-
-[Indexing iCloud Photos with AI Using LLaVA and Pgvector](https://medium.com/@mustafaakin/indexing-icloud-photos-with-ai-using-llava-and-pgvector-fd58182febf6)
-
-[Jazelle DBX: Allow ARM processors to execute Java bytecode in hardware](https://en.wikipedia.org/wiki/Jazelle)
+[Show HN: Vx.dev – GitHub-Powered AI for effortless development](https://vxdev.pages.dev)

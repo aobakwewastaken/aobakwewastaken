@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[GPT-3.5 crashes when it thinks about useRalativeImagePath too much](https://iter.ca/post/gpt-crash/)
+[Should I Open Source my Company?](https://supabase.com/blog/should-i-open-source-my-company)
 
-[Why isn't Bluesky a peer-to-peer network?](https://www.pfrazee.com/blog/why-not-p2p)
-
-[Flipper Zero: Multi-Tool Device for Geeks](https://flipperzero.one)
+[RubyWM – an X11 window manager in pure Ruby](https://rubyflow.com/p/pb1tu2-rubywm-an-x11-window-manager-in-pure-ruby)
 
 [U.S. National Park Service API](https://www.nps.gov/subjects/digital/nps-data-api.htm)
 
-[CSS3D Clouds](https://spite.github.io/CSS3DClouds/)
+[Flipper Zero: Multi-Tool Device for Geeks](https://flipperzero.one)
 
-[On the dimensionality of spacetime (1997) [pdf]](https://space.mit.edu/home/tegmark/dimensions.pdf)
+[Battery-free self-powered sensor harvests magnetic energy](https://news.mit.edu/2024/self-powered-sensor-harvests-magnetic-energy-0118)
 
-[Boulder VC firm Foundry to shutter after 18 years, 200 investments](https://www.bizjournals.com/denver/news/2024/01/19/boulder-vc-firm-foundry-to-close.html)
+[GPT-3.5 crashes when it thinks about useRalativeImagePath too much](https://iter.ca/post/gpt-crash/)
+
+[Kayak's New Flight Filter Allows You to Exclude Aircraft Models](https://i.redd.it/kxptcowxiwdc1.png)
+
+[Why isn't Bluesky a peer-to-peer network?](https://www.pfrazee.com/blog/why-not-p2p)
+
+[Dumping Firmware for fun and learning [pdf]](https://github.com/AkechiShiro/slides-talks/blob/main/UYBHYS2022/Talk%20SPI%20chips.pdf)
 
 [Garden Light Turned Mesh Network Node](https://hackaday.com/2024/01/21/garden-light-turned-mesh-network-node/)
-
-[Taito's Mini-Vaders: Why Should Dottori Have All the Fun?](https://nicole.express/2024/taito-does-what-segant.html)
-
-[Scientists discovered perfectly preserved dinosaur embryo inside fossilized egg](https://www.unilad.com/news/world-news/dinosaur-egg-embryo-fossil-213524-20231107)

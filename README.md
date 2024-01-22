@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [Should I Open Source my Company?](https://supabase.com/blog/should-i-open-source-my-company)
 
+[Launch HN: Diversion (YC S22) – Cloud-Native Git Alternative]()
+
 [RubyWM – an X11 window manager in pure Ruby](https://rubyflow.com/p/pb1tu2-rubywm-an-x11-window-manager-in-pure-ruby)
+
+[Reading QR codes without a computer](https://qr.blinry.org/)
 
 [U.S. National Park Service API](https://www.nps.gov/subjects/digital/nps-data-api.htm)
 
+[Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+
+[A Man Who Coined the Word "Robot" Defends Himself](https://spectrum.ieee.org/karel-capek-robots)
+
 [Flipper Zero: Multi-Tool Device for Geeks](https://flipperzero.one)
 
-[Battery-free self-powered sensor harvests magnetic energy](https://news.mit.edu/2024/self-powered-sensor-harvests-magnetic-energy-0118)
+[Kayak's New Flight Filter Allows You to Exclude Aircraft Models](https://www.reddit.com/r/aviation/s/kb3WBpHMFL)
 
-[GPT-3.5 crashes when it thinks about useRalativeImagePath too much](https://iter.ca/post/gpt-crash/)
-
-[Kayak's New Flight Filter Allows You to Exclude Aircraft Models](https://i.redd.it/kxptcowxiwdc1.png)
-
-[Why isn't Bluesky a peer-to-peer network?](https://www.pfrazee.com/blog/why-not-p2p)
-
-[Dumping Firmware for fun and learning [pdf]](https://github.com/AkechiShiro/slides-talks/blob/main/UYBHYS2022/Talk%20SPI%20chips.pdf)
-
-[Garden Light Turned Mesh Network Node](https://hackaday.com/2024/01/21/garden-light-turned-mesh-network-node/)
+[Indexing iCloud Photos with AI Using LLaVA and Pgvector](https://medium.com/@mustafaakin/indexing-icloud-photos-with-ai-using-llava-and-pgvector-fd58182febf6)

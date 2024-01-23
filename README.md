@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Free Godot Engine for Official Switch Developers](https://www.rawrlab.com/godot_nintendo_switch_free_port.html)
+[Machine Learning Is Still Too Hard for Software Engineers](https://www.nyckel.com/blog/machine-learning-difficulties/)
+
+[Direct pixel-space megapixel image generation with diffusion models](https://crowsonkb.github.io/hourglass-diffusion-transformers/)
+
+[How to install Firefox on a Chromebook the easy way](https://www.aboutchromebooks.com/how-to/how-to-install-firefox-on-a-chromebook-the-easy-way/)
+
+[Why is machine learning 'hard'? (2016)](https://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html)
+
+[Spotting LLMs with Binoculars: Zero-Shot Detection of Machine-Generated Text](https://arxiv.org/abs/2401.12070)
+
+[From slow to SIMD: A Go optimization story](https://sourcegraph.com/blog/slow-to-simd)
 
 [Is the emergence of life an expected phase transition in the evolving universe?](https://arxiv.org/abs/2401.09514)
 
-[Introduction to Loro's Rich Text CRDT](https://www.loro.dev/blog/loro-richtext)
+[Show HN: Atlas – GIS and interactive maps in the browser](https://atlas.co)
 
-[Framework Laptop 16 Delivers Great Linux Support and Performance](https://www.phoronix.com/review/framework-laptop-16)
+[Apple dials back car's self-driving features and delays launch to 2028](https://www.bloomberg.com/news/articles/2024-01-23/apple-car-ev-set-to-debut-in-2028-with-limited-autonomous-driving)
 
-[Another mysterious Roman dodecahedron has been unearthed in England](https://www.smithsonianmag.com/smart-news/another-of-ancient-romes-mysterious-12-sided-objects-has-been-found-in-england-180983632/)
-
-[Why the fuck are we templating YAML? (2019)](https://leebriggs.co.uk/blog/2019/02/07/why-are-we-templating-yaml)
-
-[Arno A. Penzias, 90, Dies; Nobel Physicist Confirmed Big Bang Theory](https://www.nytimes.com/2024/01/22/science/space/arno-a-penzias-dead.html)
-
-[Forging signed commits on GitHub](https://iter.ca/post/gh-sig-pwn/)
-
-[Differences Between miniKanren and Prolog](http://minikanren.org/minikanren-and-prolog.html)
-
-[Show HN: Built a self hosted clean status page and batteries](https://github.com/rajnandan1/kener)
+[The NSA Furby Documents](https://www.404media.co/these-are-the-notorious-nsa-furby-documents-showing-spy-agency-freaking-out-about-childrens-toy/)

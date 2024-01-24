@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Machine Learning Is Still Too Hard for Software Engineers](https://www.nyckel.com/blog/machine-learning-difficulties/)
+[scrapscript.py](https://bernsteinbear.com/blog/scrapscript/)
 
-[Direct pixel-space megapixel image generation with diffusion models](https://crowsonkb.github.io/hourglass-diffusion-transformers/)
+[The juror who found herself guilty](https://www.texasmonthly.com/news-politics/the-juror-who-found-herself-guilty/)
 
-[How to install Firefox on a Chromebook the easy way](https://www.aboutchromebooks.com/how-to/how-to-install-firefox-on-a-chromebook-the-easy-way/)
+[Waterway Map](https://waterwaymap.org)
+
+[Show HN: Open-source Rule-based PDF parser for RAG](https://github.com/nlmatics/nlm-ingestor)
+
+[Gene therapy allows an 11-year-old boy to hear](https://www.nytimes.com/2024/01/23/health/deaf-gene-therapy.html)
 
 [Why is machine learning 'hard'? (2016)](https://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html)
 
-[Spotting LLMs with Binoculars: Zero-Shot Detection of Machine-Generated Text](https://arxiv.org/abs/2401.12070)
+[Direct pixel-space megapixel image generation with diffusion models](https://crowsonkb.github.io/hourglass-diffusion-transformers/)
+
+[Making Rust binaries smaller by default](https://kobzol.github.io/rust/cargo/2024/01/23/making-rust-binaries-smaller-by-default.html)
+
+[Waking up my NAS remotely using Tailscale (2023)](https://rischmann.fr/blog/waking-up-my-nas-remotely-using-tailscale)
 
 [From slow to SIMD: A Go optimization story](https://sourcegraph.com/blog/slow-to-simd)
-
-[Is the emergence of life an expected phase transition in the evolving universe?](https://arxiv.org/abs/2401.09514)
-
-[Show HN: Atlas – GIS and interactive maps in the browser](https://atlas.co)
-
-[Apple dials back car's self-driving features and delays launch to 2028](https://www.bloomberg.com/news/articles/2024-01-23/apple-car-ev-set-to-debut-in-2028-with-limited-autonomous-driving)
-
-[The NSA Furby Documents](https://www.404media.co/these-are-the-notorious-nsa-furby-documents-showing-spy-agency-freaking-out-about-childrens-toy/)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Just Bribe Everyone – It's Only the Scientific Record](https://www.science.org/content/blog-post/just-bribe-everyone-it-s-only-scientific-record)
-
-[You (probably) don't need to learn C](https://nedbatchelder.com/blog/202401/you_probably_dont_need_to_learn_c.html)
-
-[scrapscript.py](https://bernsteinbear.com/blog/scrapscript/)
-
-[Show HN: Open-source Rule-based PDF parser for RAG](https://github.com/nlmatics/nlm-ingestor)
-
-[The case of the jump into the middle of an instruction from nowhere (2023)](https://devblogs.microsoft.com/oldnewthing/20230324-00/?p=107966)
+[How Euler did it? (by Ed Sandifer)](http://eulerarchive.maa.org/hedi/index.html)
 
 [Show HN: Open-source script to get your site indexed on Google](https://github.com/goenning/google-indexing-script)
 
-[Alaska CEO: We found many loose bolts on our Max planes](https://www.nbcnews.com/business/business-news/alaska-airlines-found-more-loose-bolts-boeing-737-max-9-ceo-says-rcna135316)
+[Scientific journal publishers and editors say they are being offered bribes](https://www.science.org/content/blog-post/just-bribe-everyone-it-s-only-scientific-record)
+
+[Show HN: Open-source Rule-based PDF parser for RAG](https://github.com/nlmatics/nlm-ingestor)
+
+[scrapscript.py](https://bernsteinbear.com/blog/scrapscript/)
+
+[My Journey Submitting to Cran](https://andrewpwheeler.com/2022/07/22/my-journey-submitting-to-cran/)
 
 [Overpass Turbo: A Web Based Data Mining Tool for OpenStreetMap](https://overpass-turbo.eu/)
 
-[Jamsocket (YC W22) is hiring a senior Rust systems engineer (NYC/remote)](https://jamsocket.com/blog/senior-rust-engineer)
+[Duplicity](https://duplicity.us/)
 
-[The scam YouTube ads are getting better](https://old.reddit.com/r/ChatGPT/comments/19dv1dg/the_scam_youtube_ads_are_getting_better/)
+[The case of the jump into the middle of an instruction from nowhere (2023)](https://devblogs.microsoft.com/oldnewthing/20230324-00/?p=107966)
+
+[Show HN: I wished for a site with a growing list of math problems, I built it](https://teachyourselfmath.app/)

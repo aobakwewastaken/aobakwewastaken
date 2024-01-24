@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[How Euler did it? (by Ed Sandifer)](http://eulerarchive.maa.org/hedi/index.html)
+[Zed, a collaborative code editor, is now open source](https://zed.dev/blog/zed-is-now-open-source)
 
-[Show HN: Open-source script to get your site indexed on Google](https://github.com/goenning/google-indexing-script)
+[How we made an animated movie in 8kB](https://www.ctrl-alt-test.fr/2024/how-we-made-an-animated-movie-in-8kb)
 
-[Scientific journal publishers and editors say they are being offered bribes](https://www.science.org/content/blog-post/just-bribe-everyone-it-s-only-scientific-record)
+[Show HN: Startup funding simulator](https://www.fundingsimulator.com/)
 
-[Show HN: Open-source Rule-based PDF parser for RAG](https://github.com/nlmatics/nlm-ingestor)
+[BLIS: A BLAS-like framework for basic linear algebra routines](https://github.com/flame/blis)
 
-[scrapscript.py](https://bernsteinbear.com/blog/scrapscript/)
+[CRT Manufacturing](https://vintagetek.org/crt-manufacturing/)
 
-[My Journey Submitting to Cran](https://andrewpwheeler.com/2022/07/22/my-journey-submitting-to-cran/)
+[Train robbery for Amazon packages? More common than you think](https://www.nytimes.com/2024/01/23/magazine/train-robbery-amazon-packages.html)
 
-[Overpass Turbo: A Web Based Data Mining Tool for OpenStreetMap](https://overpass-turbo.eu/)
+[OpenAI scrapped a promise to disclose key documents to the public](https://www.wired.com/story/openai-scrapped-promise-disclose-key-documents/)
 
-[Duplicity](https://duplicity.us/)
+[Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 
-[The case of the jump into the middle of an instruction from nowhere (2023)](https://devblogs.microsoft.com/oldnewthing/20230324-00/?p=107966)
+[Turning an iPad Pro into the Ultimate Classic Macintosh (2021)](https://blog.gingerbeardman.com/2021/04/17/turning-an-ipad-pro-into-the-ultimate-classic-macintosh/)
 
-[Show HN: I wished for a site with a growing list of math problems, I built it](https://teachyourselfmath.app/)
+[Majority of America's underground water stores are drying up, study finds](https://thehill.com/policy/equilibrium-sustainability/4426143-majority-of-americas-underground-water-stores-are-drying-up-study-finds/)

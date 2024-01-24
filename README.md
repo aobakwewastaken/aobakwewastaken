@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[AI 'hallucinated' fake legal cases filed to B.C. court in Canadian first](https://globalnews.ca/news/10238699/fake-legal-case-bc-ai/)
+
 [scrapscript.py](https://bernsteinbear.com/blog/scrapscript/)
-
-[The juror who found herself guilty](https://www.texasmonthly.com/news-politics/the-juror-who-found-herself-guilty/)
-
-[Waterway Map](https://waterwaymap.org)
 
 [Show HN: Open-source Rule-based PDF parser for RAG](https://github.com/nlmatics/nlm-ingestor)
 
-[Gene therapy allows an 11-year-old boy to hear](https://www.nytimes.com/2024/01/23/health/deaf-gene-therapy.html)
+[Waterway Map](https://waterwaymap.org)
 
-[Why is machine learning 'hard'? (2016)](https://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html)
+[Overpass Turbo: A Web Based Data Mining Tool for OpenStreetMap](https://overpass-turbo.eu/)
 
-[Direct pixel-space megapixel image generation with diffusion models](https://crowsonkb.github.io/hourglass-diffusion-transformers/)
+[Lumiere: A Space-Time Diffusion Model for Realistic Video Generation](https://lumiere-video.github.io/)
 
 [Making Rust binaries smaller by default](https://kobzol.github.io/rust/cargo/2024/01/23/making-rust-binaries-smaller-by-default.html)
 
-[Waking up my NAS remotely using Tailscale (2023)](https://rischmann.fr/blog/waking-up-my-nas-remotely-using-tailscale)
+[Why is machine learning 'hard'? (2016)](https://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html)
 
-[From slow to SIMD: A Go optimization story](https://sourcegraph.com/blog/slow-to-simd)
+[Show HN: I wished for a site with a growing list of math problems, I built it](https://teachyourselfmath.app/)
+
+[Global carbon markets overcredit cookstove greenhouse gas reductions by 10](https://phys.org/news/2024-01-global-carbon-overcredit-cookstove-greenhouse.html)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Faircamp Is a Free Bandcamp Alternative](https://wedistribute.org/2023/11/introducing-faircamp/)
+[Apple announces changes to iOS, Safari, and the App Store in the European Union](https://www.apple.com/newsroom/2024/01/apple-announces-changes-to-ios-safari-and-the-app-store-in-the-european-union/)
+
+[I realized chess pieces can be redesigned to be geometric attack directions](https://twitter.com/graycrawford/status/1750225562281632048)
+
+[CVE-2023-40547 – avoid incorrectly trusting HTTP headers](https://github.com/rhboot/shim/commit/0226b56513b2b8bd5fd281bce77c40c9bf07c66d)
+
+[The Uncomfortable – a collection of deliberately inconvenient objects](https://www.theuncomfortable.com/)
+
+[CRDTs Turned Inside Out](https://interjectedfuture.com/crdts-turned-inside-out/)
+
+[Due to blade damage, Mars Helicopter Ingenuity will not fly again](https://www.nasa.gov/news-release/after-three-years-on-mars-nasas-ingenuity-helicopter-mission-ends/)
+
+[The new architecture wars](https://aeon.co/essays/the-architectural-style-wars-have-started-all-over-again)
+
+[Show HN: Lumos, a local LLM Chrome extension](https://github.com/andrewnguonly/Lumos)
+
+[Chemists tie a trefoil knot using only 54 atoms](https://phys.org/news/2024-01-chemists-atoms.html)
 
 [We build X.509 chains so you don't have to](https://blog.trailofbits.com/2024/01/25/we-build-x-509-chains-so-you-dont-have-to/)
-
-[Framing Frames: Bypassing Wi-Fi Encryption by Manipulating Transmit Queues](https://www.usenix.org/conference/usenixsecurity23/presentation/schepers)
-
-[Brains are not required to think or solve problems – simple cells can do it](https://www.scientificamerican.com/article/brains-are-not-required-when-it-comes-to-thinking-and-solving-problems-simple-cells-can-do-it/)
-
-[Ollama releases Python and JavaScript Libraries](https://ollama.ai/blog/python-javascript-libraries)
-
-[Lightweight woven helical antenna could replace field-deployed dishes](https://newatlas.com/telecommunications/woven-helical-antenna/)
-
-[Heat exchanger masks for cold weather cycling (2019)](https://www.coldbike.com/2019/02/13/heat-exchanger-masks-a-love-story/)
-
-[Quicksort with Jenkins for Fun and No Profit](https://susam.net/blog/jenkins-quicksort.html)
-
-[A Single Small Map Is Enough for a Lifetime](https://www.noemamag.com/a-single-small-map-is-enough-for-a-lifetime/)
-
-[Placemark is now open source – web-based geospatial data editor](https://github.com/placemark/placemark)

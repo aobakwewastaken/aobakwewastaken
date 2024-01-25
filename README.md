@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Ollama releases Python and JavaScript Libraries](https://ollama.ai/blog/python-javascript-libraries)
+
 [Zed, a collaborative code editor, is now open source](https://zed.dev/blog/zed-is-now-open-source)
 
-[How we made an animated movie in 8kB](https://www.ctrl-alt-test.fr/2024/how-we-made-an-animated-movie-in-8kb)
+[We made an animated movie in 8kB](https://www.ctrl-alt-test.fr/2024/how-we-made-an-animated-movie-in-8kb)
+
+[2023 Letter](https://danwang.co/2023-letter/)
 
 [Show HN: Startup funding simulator](https://www.fundingsimulator.com/)
 
-[BLIS: A BLAS-like framework for basic linear algebra routines](https://github.com/flame/blis)
-
-[CRT Manufacturing](https://vintagetek.org/crt-manufacturing/)
+[Using Arc to decode Venter's DNA watermark (2010)](https://www.righto.com/2010/06/using-arc-to-decode-venters-secret-dna.html)
 
 [Train robbery for Amazon packages? More common than you think](https://www.nytimes.com/2024/01/23/magazine/train-robbery-amazon-packages.html)
 
-[OpenAI scrapped a promise to disclose key documents to the public](https://www.wired.com/story/openai-scrapped-promise-disclose-key-documents/)
+[BLIS: A BLAS-like framework for basic linear algebra routines](https://github.com/flame/blis)
 
-[Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
+[Crusty, the Indestructible Mac](https://geocities.ws/rehasoft/crusty.html)
 
-[Turning an iPad Pro into the Ultimate Classic Macintosh (2021)](https://blog.gingerbeardman.com/2021/04/17/turning-an-ipad-pro-into-the-ultimate-classic-macintosh/)
-
-[Majority of America's underground water stores are drying up, study finds](https://thehill.com/policy/equilibrium-sustainability/4426143-majority-of-americas-underground-water-stores-are-drying-up-study-finds/)
+[Breaking Free from DRM: Hacking My Air Purifier](https://unethical.info/2024/01/24/hacking-my-air-purifier/)

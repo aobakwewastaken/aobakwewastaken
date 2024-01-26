@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [Oasis – a small, statically-linked Linux system](https://github.com/oasislinux/oasis)
 
+[Untranslatable](https://untranslatable.co/)
+
 [Lossy CSS compression for fun and loss (or profit)](https://blog.danieljanus.pl/2024/01/26/lossy-css-compression/)
 
-[TinySA – small spectrum analyzer and signal generator](https://www.tinysa.org/wiki/)
+[How French Was Medieval England?](https://www.historytoday.com/archive/head-head/how-french-was-medieval-england)
 
-[Some strange Macintosh computers](https://arstechnica.com/gadgets/2024/01/macintosh-at-40-the-oddest-and-rarest-macs-ever-built/)
+[How I hacked chess.com with a rookie exploit](https://skii.dev/rook-to-xss/)
 
-[Amon Tobin – Foley Room site (2007)](https://web.archive.org/web/20070309014113/http://www.amontobin.com/field/)
+[Show HN: Anki/Duolingo like app using Educational YouTube videos](https://www.platoedu.org)
 
-[Edsger Dijkstra carried computer science on his shoulders (2020)](https://inference-review.com/article/the-man-who-carried-computer-science-on-his-shoulders)
+[Modern Treasury (YC S18) Is Hiring a Design Engineer](https://jobs.ashbyhq.com/moderntreasury/279437f2-0671-403c-b9f5-716ed9a54845)
 
-[Portable EPUBs](https://willcrichton.net/notes/portable-epubs/#epub-content%2FEPUB%2Findex.xhtml$)
+[Details of the new Suzuki Omnichord OM-108](https://www.suzuki-music.co.jp/special/omnichord_om-108/en/index.html)
 
-[Does gear matter?](https://arun.is/blog/does-gear-matter/)
+[The Rise of Batteries in Six Charts](https://rmi.org/the-rise-of-batteries-in-six-charts-and-not-too-many-numbers/)
 
-[WASI 0.2.0 and Why It Matters](https://wasmcloud.com/blog/wasi-preview-2-officially-launches)
-
-[Apple announces changes to iOS, Safari, and the App Store in the European Union](https://www.apple.com/newsroom/2024/01/apple-announces-changes-to-ios-safari-and-the-app-store-in-the-european-union/)
+[Tweets to Citations: The Impact of Social Media Influencers on AI Research](https://arxiv.org/abs/2401.13782)

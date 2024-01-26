@@ -3,18 +3,18 @@
 
 [I realized chess pieces can be redesigned to be geometric attack directions](https://twitter.com/graycrawford/status/1750225562281632048)
 
+[Portable EPUBs](https://willcrichton.net/notes/portable-epubs/#epub-content%2FEPUB%2Findex.xhtml$)
+
+[I don't always use LaTeX, but when I do, I compile to HTML (2013)](https://www.peterkrautzberger.org/0136/)
+
+['They're knowingly addicting kids': the attorney challenging social media firms](https://www.theguardian.com/us-news/2024/jan/25/kids-addicted-social-media-congress-meta-tiktok-snap)
+
+[Replication Prohibited: Attacking Restricted Keyways with 3D Printing [pdf]](https://www.usenix.org/system/files/conference/woot15/woot15-paper-burgess.pdf)
+
+[Improbable Island, one of the largest and longest-running online text adventures](https://www.improbableisland.com)
+
+[Smoother sailing: Studying audio imperfections in Steamboat Willie](https://www.windytan.com/2024/01/smoother-sailing-steamboat-willie-flutter.html)
+
 [CVE-2023-40547 – avoid incorrectly trusting HTTP headers](https://github.com/rhboot/shim/commit/0226b56513b2b8bd5fd281bce77c40c9bf07c66d)
 
-[The Uncomfortable – a collection of deliberately inconvenient objects](https://www.theuncomfortable.com/)
-
-[CRDTs Turned Inside Out](https://interjectedfuture.com/crdts-turned-inside-out/)
-
-[Due to blade damage, Mars Helicopter Ingenuity will not fly again](https://www.nasa.gov/news-release/after-three-years-on-mars-nasas-ingenuity-helicopter-mission-ends/)
-
-[The new architecture wars](https://aeon.co/essays/the-architectural-style-wars-have-started-all-over-again)
-
-[Show HN: Lumos, a local LLM Chrome extension](https://github.com/andrewnguonly/Lumos)
-
-[Chemists tie a trefoil knot using only 54 atoms](https://phys.org/news/2024-01-chemists-atoms.html)
-
-[We build X.509 chains so you don't have to](https://blog.trailofbits.com/2024/01/25/we-build-x-509-chains-so-you-dont-have-to/)
+[Ruby on Rails load testing habits](https://www.rorvswild.com/blog/2024/ruby-on-rails-load-testing-habits)

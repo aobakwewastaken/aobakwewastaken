@@ -1,19 +1,19 @@
 # Top Stories on hackernews <br />
 [Oasis – a small, statically-linked Linux system](https://github.com/oasislinux/oasis)
 
-[Metabolic Step-by-Step: Stages of Fasting in the First 72hrs](https://usetemper.com/learn/metabolic-step-by-step/)
+[Lossy CSS compression for fun and loss (or profit)](https://blog.danieljanus.pl/2024/01/26/lossy-css-compression/)
 
 [TinySA – small spectrum analyzer and signal generator](https://www.tinysa.org/wiki/)
 
-[Amon Tobin – Foley Room site (2007)](https://web.archive.org/web/20070309014113/http://www.amontobin.com/field/)
-
-[If Lisp is so great](https://mihaiolteanu.me/if-lisp-is-so-great)
-
 [Some strange Macintosh computers](https://arstechnica.com/gadgets/2024/01/macintosh-at-40-the-oddest-and-rarest-macs-ever-built/)
+
+[Amon Tobin – Foley Room site (2007)](https://web.archive.org/web/20070309014113/http://www.amontobin.com/field/)
 
 [Edsger Dijkstra carried computer science on his shoulders (2020)](https://inference-review.com/article/the-man-who-carried-computer-science-on-his-shoulders)
 
 [Portable EPUBs](https://willcrichton.net/notes/portable-epubs/#epub-content%2FEPUB%2Findex.xhtml$)
+
+[Does gear matter?](https://arun.is/blog/does-gear-matter/)
 
 [WASI 0.2.0 and Why It Matters](https://wasmcloud.com/blog/wasi-preview-2-officially-launches)
 

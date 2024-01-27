@@ -1,7 +1,15 @@
 # Top Stories on hackernews <br />
+[Disney Unveils the HoloTile Floor, Inching Us Closer to a Real-Life Holodeck](https://www.ign.com/articles/disney-unveils-the-holotile-floor-inching-us-closer-to-a-real-life-holodeck)
+
 [Sxmo: Linux tiling window manager for phones](https://sxmo.org/)
 
+[A man who collects lost pet posters](https://ameliatait.substack.com/p/the-man-who-collects-lost-pet-posters)
+
+[Opening night at the Apollo Theater, 90 years ago](https://untappedcities.com/2024/01/26/opening-night-apollo-theater/)
+
 [Nesizm: NES emulator for Casio Prizm calculators](https://github.com/tswilliamson/nesizm)
+
+[The Ur Programming Language Family](http://impredicative.com/ur/)
 
 [ExifTool CVE-2021-22204 – Arbitrary Code Execution (2021)](https://devcraft.io/2021/05/04/exiftool-arbitrary-code-execution-cve-2021-22204.html)
 
@@ -9,12 +17,4 @@
 
 [CNC lasers for cutting and engraving](https://jacquesmattheij.com/cnc-lasers/)
 
-[Brave Leo now uses Mixtral 8x7B as default](https://brave.com/leo-mixtral/)
-
-[Mlvwm –  X11 window manager with a classic MacOS appearance (2021)](https://github.com/morgant/mlvwm)
-
-[A ghostly radio station that no one claims to run (2020)](https://www.bbc.com/future/article/20170801-the-ghostly-radio-station-that-no-one-claims-to-run)
-
-[The FCC Is Taking Steps to Wind Down the Affordable Connectivity Program](https://www.fcc.gov/fcc-taking-steps-wind-down-affordable-connectivity-program)
-
-[Why Is Game Writing So Terrible? (2021)](https://www.shamusyoung.com/twentysidedtale/?p=52945)
+[Alan Watts, for all his faults, was an imaginative and provocative thinker](https://aeon.co/essays/how-alan-watts-re-imagined-religion-desire-and-life-itself)

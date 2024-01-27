@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Oasis – a small, statically-linked Linux system](https://github.com/oasislinux/oasis)
+[CNC lasers for cutting and engraving](https://jacquesmattheij.com/cnc-lasers/)
 
-[Untranslatable](https://untranslatable.co/)
+[A ghostly radio station that no one claims to run (2020)](https://www.bbc.com/future/article/20170801-the-ghostly-radio-station-that-no-one-claims-to-run)
 
-[Lossy CSS compression for fun and loss (or profit)](https://blog.danieljanus.pl/2024/01/26/lossy-css-compression/)
+[Rclone syncs your files to cloud storage](https://rclone.org/)
 
-[How French Was Medieval England?](https://www.historytoday.com/archive/head-head/how-french-was-medieval-england)
+[Stem, a stack-based language with metaprogramming and a C FLI](https://ret2pop.nullring.xyz/blog/stem.html)
 
-[How I hacked chess.com with a rookie exploit](https://skii.dev/rook-to-xss/)
+[Show HN: Anki/Duolingo-like app using educational YouTube videos](https://www.platoedu.org)
 
-[Show HN: Anki/Duolingo like app using Educational YouTube videos](https://www.platoedu.org)
+[The FCC Is Taking Steps to Wind Down the Affordable Connectivity Program](https://www.fcc.gov/fcc-taking-steps-wind-down-affordable-connectivity-program)
 
-[Modern Treasury (YC S18) Is Hiring a Design Engineer](https://jobs.ashbyhq.com/moderntreasury/279437f2-0671-403c-b9f5-716ed9a54845)
+[A Terribly Serious adventure: Philosophy and war at Oxford](https://www.washingtonpost.com/books/2024/01/19/oxford-philosophy-history-book-krishnan/)
+
+[Rook to XSS: How I hacked chess.com with a rookie exploit](https://skii.dev/rook-to-xss/)
+
+[Mod_blog: A Blogging Engine in C](https://github.com/spc476/mod_blog)
 
 [Details of the new Suzuki Omnichord OM-108](https://www.suzuki-music.co.jp/special/omnichord_om-108/en/index.html)
-
-[The Rise of Batteries in Six Charts](https://rmi.org/the-rise-of-batteries-in-six-charts-and-not-too-many-numbers/)
-
-[Tweets to Citations: The Impact of Social Media Influencers on AI Research](https://arxiv.org/abs/2401.13782)

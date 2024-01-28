@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Is it insider trading if I bought Boeing puts while inside the wrecked airplane?](https://law.stackexchange.com/questions/98706/is-it-insider-trading-if-i-bought-boeing-puts-while-i-am-inside-the-wrecked-airp)
+[Disney unveils the HoloTile floor](https://www.ign.com/articles/disney-unveils-the-holotile-floor-inching-us-closer-to-a-real-life-holodeck)
 
 [Hold on there: WPA3 connections fail after 11 hours](http://rachelbythebay.com/w/2024/01/24/fail/)
 
-[Disney unveils the HoloTile floor](https://www.ign.com/articles/disney-unveils-the-holotile-floor-inching-us-closer-to-a-real-life-holodeck)
-
 [Show HN: Pong Wars](https://pong-wars.koenvangilst.nl/)
 
-[The Invention of a New Pasta Shape](https://kottke.org/21/03/the-invention-of-a-new-pasta-shape)
+[Why good content gets posted on the wrong platform?](https://danluu.com/why-video/)
 
-[Topaz Unicode](https://gitlab.com/Screwtapello/topaz-unicode#topaz-unicode)
+[The 100MHz 6502 (2022)](https://www.e-basteln.de/computing/65f02/65f02/)
 
-["It's Like You're a Space Explorer Encountering Aliens"](https://nautil.us/its-like-youre-a-space-explorer-encountering-aliens-500550/)
+[The invention of a new pasta shape (2021)](https://kottke.org/21/03/the-invention-of-a-new-pasta-shape)
 
-[Sxmo: Linux tiling window manager for phones](https://sxmo.org/)
+[In Loving Memory of Square Checkbox](https://tonsky.me/blog/checkbox/)
+
+[Remembering Unix Desktops – and What We Can Learn from Them](https://www.theregister.com/2024/01/27/opinion_column/)
 
 [Implementing a ChatGPT-like LLM from scratch, step by step](https://github.com/rasbt/LLMs-from-scratch)
 
-[Gitlab password reset bug leaves more than 5.3K servers up for grabs](https://www.scmagazine.com/news/gitlab-password-reset-bug-leaves-more-than-5-3k-servers-up-for-grabs)
+[Topaz Unicode](https://gitlab.com/Screwtapello/topaz-unicode#topaz-unicode)

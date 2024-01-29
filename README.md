@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[What I Talk About When I Talk About Query Optimizer (Part 1): IR Design](https://xuanwo.io/2024/02-what-i-talk-about-when-i-talk-about-query-optimizer-part-1/)
+[A Tour of Lisps](https://www.fosskers.ca/en/blog/rounds-of-lisp)
 
-[Show HN: WhisperFusion – Ultra-low latency conversations with an AI chatbot](https://github.com/collabora/WhisperFusion)
+[Show HN: Boardzilla, a framework for making web-based board games](https://www.boardzilla.io/)
 
-[Harmonics Explorer](https://teropa.info/harmonics-explorer/)
+[Scientists document first-ever transmitted Alzheimer's cases](https://www.statnews.com/2024/01/29/first-transmitted-alzheimers-disease-cases-growth-hormone-cadavers/)
 
-[Show HN: Phrasing – learn every language, to any level](https://phrasing.app/playground)
+[Helios: A distribution of Illumos powering the Oxide Rack](https://github.com/oxidecomputer/helios)
 
-[How we had our Nectar Points stolen, and this is how yours will be too](https://www.kiphakes.com/2024/01/how-we-had-our-nectar-points-stolen-and-this-is-how-yours-will-be-too/)
+[Dorf Fort (2020)](https://www.androidarts.com/df/dorf.htm)
 
-[—-libcurl](https://everything.curl.dev/libcurl/libcurl)
+[Darknetlive Sold to Incognito Market](https://darkdot.com/articles/darknetlive-sold/)
 
-[New Renderers for GTK](https://blog.gtk.org/2024/01/28/new-renderers-for-gtk/)
+[Lessons from history's greatest R&D labs](https://www.answer.ai/posts/2024-01-26-freaktakes-lessons.html)
 
-[The Apple Vision Pro’s missing apps](https://stratechery.com/2024/the-apple-vision-pros-missing-apps/)
+[The company that sells your lost airplane luggage](https://thehustle.co/the-lucrative-business-of-lost-airplane-luggage/)
 
-[Paintings of the Traditional Porcelain Process](https://www.derekau.net/blog/2019/07/10/paintings-of-the-traditional-porcelain-process)
+[Launch HN: Dashdive (YC W23) – Track your cloud costs precisely]()
 
-[Higher Order Derivatives of Transforms](https://nosferalatu.com/HigherOrderDerivativesTransforms.html)
+[What I talk about when I talk about query optimizer (part 1): IR design](https://xuanwo.io/2024/02-what-i-talk-about-when-i-talk-about-query-optimizer-part-1/)

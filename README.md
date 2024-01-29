@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Eagle 7B: Soaring past Transformers](https://blog.rwkv.com/p/eagle-7b-soaring-past-transformers)
+
+[Why is Maxwell's theory so hard to understand? (2007) [pdf]](https://www.damtp.cam.ac.uk/user/tong/em/dyson.pdf)
+
+[Ruby's Exceptional Creatures](https://www.exceptionalcreatures.com/)
+
+[Variable Fonts](https://v-fonts.com/)
+
+[The cancer that some doctors don't want to call cancer](https://www.wsj.com/health/wellness/prostate-cancer-low-risk-treatment-rename-185b6e3f)
+
 [I need to grow away from these roots](https://www.vitling.xyz/i-need-to-grow-away-from-these-roots/)
 
-[General purpose MCUs built in to LEDs emulate candle flicker](https://cpldcpu.wordpress.com/2024/01/14/revisiting-candle-flicker-leds-now-with-integrated-timer/)
+[Two handy GDB breakpoint tricks](https://nullprogram.com/blog/2024/01/28/)
 
-[Fungi survives outside international space station](https://www.agenciasinc.es/en/News/Antarctic-fungi-survive-Martian-conditions-on-the-International-Space-Station)
+[MIT in Anime](https://anime.mit.edu/resources/mit_in_anime)
 
-[Milwaukee reporter investigates cousin's 1978 car bombing death](https://www.jsonline.com/story/news/investigations/2024/01/17/milwaukee-reporter-investigates-cousins-1978-car-bombing-death/71883074007/)
+[The Rooftop Solar Industry Could Be on the Verge of Collapse](https://time.com/6565415/rooftop-solar-industry-collapse/)
 
-[I looked through attacks in my access logs](https://nishtahir.com/i-looked-through-attacks-in-my-access-logs-heres-what-i-found/)
-
-[Show HN: Apple II clock using interrupts from physical pendulum clock](https://github.com/wkjagt/apple2_pendulum_clock/blob/main/README.md)
-
-[Law for Computer Scientists (2020)](https://lawforcomputerscientists.pubpub.org/)
-
-[Easy-to-Use Apple Vision wrapper for text extraction and clustering](https://pypi.org/project/apple-ocr/)
-
-[The Rest Is Silliness: Peter Schickele and PDQ Bach remembered](https://van-magazine.com/mag/peter-schickele-pdq-bach/)
-
-[When the "R" goes missing from R&D (2021)](https://madned.substack.com/p/when-the-r-goes-missing-from-r-and)
+[A Historical Tour of Silicon Valley (2010)](https://www.scaruffi.com/svhistory/svtour.html)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[—-libcurl](https://everything.curl.dev/libcurl/libcurl)
+[What I Talk About When I Talk About Query Optimizer (Part 1): IR Design](https://xuanwo.io/2024/02-what-i-talk-about-when-i-talk-about-query-optimizer-part-1/)
 
-[The Apple Vision Pro's Missing Apps](https://stratechery.com/2024/the-apple-vision-pros-missing-apps/)
-
-[There Is No Planet B (For Worldbuilding)](https://etiennefd.substack.com/p/there-is-no-planet-b-for-worldbuilding)
+[Show HN: WhisperFusion – Ultra-low latency conversations with an AI chatbot](https://github.com/collabora/WhisperFusion)
 
 [Harmonics Explorer](https://teropa.info/harmonics-explorer/)
 
+[Show HN: Phrasing – learn every language, to any level](https://phrasing.app/playground)
+
+[How we had our Nectar Points stolen, and this is how yours will be too](https://www.kiphakes.com/2024/01/how-we-had-our-nectar-points-stolen-and-this-is-how-yours-will-be-too/)
+
+[—-libcurl](https://everything.curl.dev/libcurl/libcurl)
+
 [New Renderers for GTK](https://blog.gtk.org/2024/01/28/new-renderers-for-gtk/)
 
-[Appearances of MIT in Anime](https://anime.mit.edu/resources/mit_in_anime)
+[The Apple Vision Pro’s missing apps](https://stratechery.com/2024/the-apple-vision-pros-missing-apps/)
+
+[Paintings of the Traditional Porcelain Process](https://www.derekau.net/blog/2019/07/10/paintings-of-the-traditional-porcelain-process)
 
 [Higher Order Derivatives of Transforms](https://nosferalatu.com/HigherOrderDerivativesTransforms.html)
-
-[Take the Road Most Documented](https://jarbus.net/blog/take-the-road-most-documented/)
-
-[linefont: Font for rendering line chart data](https://github.com/dy/linefont)
-
-[Japan: Moon lander Slim comes back to life and resumes mission](https://www.bbc.co.uk/news/world-asia-68125589)

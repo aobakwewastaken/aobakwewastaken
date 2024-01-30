@@ -5,16 +5,16 @@
 
 [Show HN: Boardzilla, a framework for making web-based board games](https://www.boardzilla.io/)
 
+[A Tour of the Lisps](https://www.fosskers.ca/en/blog/rounds-of-lisp)
+
 [Pub400.com – Your public IBM I 7.5 server](https://pub400.com/)
 
-[Everyone hates the electronic medical record](https://logicmag.io/policy/why-everyone-hates-the-electronic-medical-record/)
+[A mistakenly published password exposed Mercedes-Benz source code](https://techcrunch.com/2024/01/26/mercedez-benz-token-exposed-source-code-github/)
 
-[On the Costs of Syscalls](https://gms.tf/on-the-costs-of-syscalls.html)
+[Raspberry Pi Picks Banks for IPO, Choosing London over New York](https://www.bloomberg.com/news/articles/2024-01-29/raspberry-pi-picks-banks-for-ipo-choosing-london-over-new-york)
 
-[An Introduction to the WARC File](https://archive-it.org/post/the-stack-warc-file/)
+[On the Costs of Syscalls (2021)](https://gms.tf/on-the-costs-of-syscalls.html)
 
-[Helios: A distribution of Illumos powering the Oxide Rack](https://github.com/oxidecomputer/helios)
+[Prisoners in the US are part of a hidden workforce linked to popular food brands](https://apnews.com/article/prison-to-plate-inmate-labor-investigation-c6f0eb4747963283316e494eadf08c4e)
 
-[Paul Erdős, the most prolific mathematician](https://www.scientificamerican.com/article/this-nomadic-eccentric-was-the-most-prolific-mathematician-in-history/)
-
-[Accessing the Pinecil UART with Picoprobe](https://danielmangum.com/posts/risc-v-bytes-accessing-pinecil-uart-picoprobe/)
+[A Tinkertoy computer that plays tic-tac-toe (1989)](https://web.archive.org/web/20070110215459/http://www.rci.rutgers.edu:80/~cfs/472_html/Intro/TinkertoyComputer/TinkerToy.html)

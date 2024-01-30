@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[I Just Wanted Emacs to Look Nice – Using 24-Bit Color in Terminals](https://chadaustin.me/2024/01/truecolor-terminal-emacs/)
+[Apple Vision Pro review](https://www.wsj.com/tech/apple-vision-pro-review-39f2d82e)
 
-[John Deere Announces Strategic Partnership with SpaceX](https://www.deere.com/en/news/all-news/john-deere-partnership-with-spacex/)
+[.ai website registrations are a windfallf for tiny Anguilla](https://spectrum.ieee.org/ai-domains)
 
-[Quickemu: Quickly run optimised Windows, macOS and Linux virtual machines](https://github.com/quickemu-project/quickemu)
+[Why flying insects gather at artificial light](https://www.nature.com/articles/s41467-024-44785-3)
 
-[Why Certificate Lifecycle Automation Matters](https://www.hezmatt.org/~mpalmer/blog/2024/01/30/why-certificate-automation-matters.html)
+[Show HN: Open-source x64 and Arm GitHub runners](https://www.ubicloud.com/use-cases/github-actions)
 
-[The original magic Emacs garbage collection hack (2019)](https://akrl.sdf.org/#orgc15a10d)
+[Small biz owners scale back their office space or go remote altogether](https://www.cp24.com/world/small-biz-owners-scale-back-their-office-space-or-go-remote-altogether-some-move-to-the-suburbs-1.6747552)
 
-[Senator Wyden Letter Confirms NSA Is Buying US Persons' Data from Data Brokers](https://www.techdirt.com/2024/01/29/well-thats-everyone-senator-wyden-letter-confirms-the-nsa-is-buying-us-persons-data-from-data-brokers/)
+[Google Announces Fourth Quarter and Fiscal Year 2023 Results [pdf]](https://abc.xyz/assets/95/eb/9cef90184e09bac553796896c633/2023q4-alphabet-earnings-release.pdf)
 
-[Covid Test Data Breach: 1.3M Patient Records Exposed Online](https://www.vpnmentor.com/news/report-coronalab-breach/)
+[I just wanted Emacs to look nice – Using 24-bit color in terminals](https://chadaustin.me/2024/01/truecolor-terminal-emacs/)
 
-[Show HN: Wren – simple yet extensible task management with CLI, Telegram, HTTP](https://github.com/bjesus/wren)
+[Relationship Hero (YC S17) Is Hiring Relationship Coaches](https://relationshiphero.com/careers?role=coach)
 
-[Tesorio (YC S15) Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
+[The Soviet 1801VM2 LSI-11 Processor (2021)](https://www.cpushack.com/2021/11/04/the-soviet-1801vm2-lsi-11-processor/)
 
-[BlockTube, a YouTube Content Blocker](https://github.com/amitbl/blocktube)
+[Crime rings trafficking sand](https://www.scientificamerican.com/article/sand-mafias-are-plundering-the-earth/)

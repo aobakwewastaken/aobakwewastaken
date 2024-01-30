@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [Quickemu: Quickly run optimised Windows, macOS and Linux virtual machines](https://github.com/quickemu-project/quickemu)
 
+[Senator Wyden Letter Confirms NSA Is Buying US Persons' Data from Data Brokers](https://www.techdirt.com/2024/01/29/well-thats-everyone-senator-wyden-letter-confirms-the-nsa-is-buying-us-persons-data-from-data-brokers/)
+
+[The original magic Emacs garbage collection hack (2019)](https://akrl.sdf.org/#orgc15a10d)
+
+[I Just Wanted Emacs to Look Nice – Using 24-Bit Color in Terminals](https://chadaustin.me/2024/01/truecolor-terminal-emacs/)
+
+[There's So Much Data Even Spies Are Struggling to Find Secrets](https://www.bloomberg.com/news/articles/2024-01-29/flood-of-personal-data-makes-life-tough-for-nsa-cia)
+
+[Tesorio (YC S15) Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
+
+[Hopes for Finding Mars Life After Rover's Ground-Penetrating Radar Discovery](https://scitechdaily.com/excitement-builds-for-finding-life-on-mars-after-perseverance-rovers-ground-penetrating-radar-discovery/)
+
+[Why Certificate Lifecycle Automation Matters](https://www.hezmatt.org/~mpalmer/blog/2024/01/30/why-certificate-automation-matters.html)
+
+[Launch HN: Univerbal (YC W23) – Language learning with a conversational AI tutor]()
+
 [Researchers have found a faster way to do integer linear programming](https://www.quantamagazine.org/researchers-approach-new-speed-limit-for-seminal-problem-20240129/)
-
-[Alzheimer’s cases tied to no-longer-used medical procedure](https://www.statnews.com/2024/01/29/first-transmitted-alzheimers-disease-cases-growth-hormone-cadavers/)
-
-[A Tour of the Lisps](https://www.fosskers.ca/en/blog/rounds-of-lisp)
-
-[Pub400.com – Your public IBM I 7.5 server](https://pub400.com/)
-
-[Notes on Cruise's Pedestrian Accident](https://danluu.com/cruise-report/)
-
-[A mistakenly published password exposed Mercedes-Benz source code](https://techcrunch.com/2024/01/26/mercedez-benz-token-exposed-source-code-github/)
-
-[Men hand over Bitcoins worth two billion euros to German federal police](https://www.spiegel.de/netzwelt/web/movie2k-to-beschuldigter-uebergibt-bitcoins-im-wert-von-zwei-milliarden-euro-ans-bundeskriminalamt-a-66a34b4a-a01b-4edf-b622-cdbff14596dd)
-
-[On the Costs of Syscalls (2021)](https://gms.tf/on-the-costs-of-syscalls.html)
-
-[Poincaré Recurrence Theorem](https://en.wikipedia.org/wiki/Poincar%C3%A9_recurrence_theorem)

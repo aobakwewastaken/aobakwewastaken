@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Quickemu: Quickly run optimised Windows, macOS and Linux virtual machines](https://github.com/quickemu-project/quickemu)
-
-[Senator Wyden Letter Confirms NSA Is Buying US Persons' Data from Data Brokers](https://www.techdirt.com/2024/01/29/well-thats-everyone-senator-wyden-letter-confirms-the-nsa-is-buying-us-persons-data-from-data-brokers/)
-
-[The original magic Emacs garbage collection hack (2019)](https://akrl.sdf.org/#orgc15a10d)
-
 [I Just Wanted Emacs to Look Nice – Using 24-Bit Color in Terminals](https://chadaustin.me/2024/01/truecolor-terminal-emacs/)
 
-[There's So Much Data Even Spies Are Struggling to Find Secrets](https://www.bloomberg.com/news/articles/2024-01-29/flood-of-personal-data-makes-life-tough-for-nsa-cia)
+[John Deere Announces Strategic Partnership with SpaceX](https://www.deere.com/en/news/all-news/john-deere-partnership-with-spacex/)
 
-[Tesorio (YC S15) Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
-
-[Hopes for Finding Mars Life After Rover's Ground-Penetrating Radar Discovery](https://scitechdaily.com/excitement-builds-for-finding-life-on-mars-after-perseverance-rovers-ground-penetrating-radar-discovery/)
+[Quickemu: Quickly run optimised Windows, macOS and Linux virtual machines](https://github.com/quickemu-project/quickemu)
 
 [Why Certificate Lifecycle Automation Matters](https://www.hezmatt.org/~mpalmer/blog/2024/01/30/why-certificate-automation-matters.html)
 
-[Launch HN: Univerbal (YC W23) – Language learning with a conversational AI tutor]()
+[The original magic Emacs garbage collection hack (2019)](https://akrl.sdf.org/#orgc15a10d)
 
-[Researchers have found a faster way to do integer linear programming](https://www.quantamagazine.org/researchers-approach-new-speed-limit-for-seminal-problem-20240129/)
+[Senator Wyden Letter Confirms NSA Is Buying US Persons' Data from Data Brokers](https://www.techdirt.com/2024/01/29/well-thats-everyone-senator-wyden-letter-confirms-the-nsa-is-buying-us-persons-data-from-data-brokers/)
+
+[Covid Test Data Breach: 1.3M Patient Records Exposed Online](https://www.vpnmentor.com/news/report-coronalab-breach/)
+
+[Show HN: Wren – simple yet extensible task management with CLI, Telegram, HTTP](https://github.com/bjesus/wren)
+
+[Tesorio (YC S15) Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
+
+[BlockTube, a YouTube Content Blocker](https://github.com/amitbl/blocktube)

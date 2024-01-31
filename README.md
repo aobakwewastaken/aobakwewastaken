@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Macaroons Escalated Quickly](https://fly.io/blog/macaroons-escalated-quickly/)
-
-[Reverse-Engineering a Scoreboard Display](https://hardfault.life/p/big-seven-segment)
-
 [Infinite Craft](https://neal.fun/infinite-craft/)
 
-[RavenDB 6.0.2 (A Jepsen Report)](https://jepsen.io/analyses/ravendb-6.0.2)
+[I Moved My Blog from IPFS to a Server](https://neimanslab.org/2024-01-31/why-i-moved-my-blog-ipfs-to-server.html)
 
-[Show HN: ChatGPT prompt builder – the simplest prompt builder](https://mitenmit.github.io/gpt/)
+[Generating Fantasy Maps (2016)](http://mewo2.com/notes/terrain/)
 
-[Adobe Gives Up on Web-Design Product to Rival Figma After Deal Collapse](https://www.bloomberg.com/news/articles/2024-01-30/adobe-gives-up-on-xd-after-figma-deal-collapse)
+[Show HN: Some blind hackers are bridging IRC to LMMs running locally](https://2mb.codes/~cmb/ollama-bot/)
 
-[XFaaS: Hyperscale and Low Cost Serverless Functions at Meta](https://www.micahlerner.com/2024/01/23/xfaas-hyperscale-and-low-cost-serverless-functions-at-meta.html)
+[Testing how hard it is to cheat with ChatGPT in interviews](https://interviewing.io/blog/how-hard-is-it-to-cheat-with-chatgpt-in-technical-interviews)
 
-[Ask HN: Any good Silicon Valley Photo coffee table books?]()
+[Sega AI](https://www.smspower.org/SegaAI/Index)
 
-[What it was like to be the subject of a longitudinal study (2023)](https://slate.com/human-interest/2023/11/research-subject-children-ethics-psychology.html)
+[Building an early warning system for LLM-aided biological threat creation](https://openai.com/research/building-an-early-warning-system-for-llm-aided-biological-threat-creation)
 
-[1-Bit Pixels Encoded in E. Coli for the Display of Interactive Digital Media](https://docs.google.com/document/d/1SFm1dS6myqq7psBKttP7CVYN4jO66lOp7ZMA829c_hc/edit)
+[EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+
+[Kando: The Cross-Platform Pie Menu](https://github.com/kando-menu/kando)
+
+[Constructing a Four-Point Egg](https://dotat.at/@/2024-01-29-four-point-egg.html)

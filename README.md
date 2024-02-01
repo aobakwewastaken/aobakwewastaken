@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Infinite Craft](https://neal.fun/infinite-craft/)
+[Making a PDF that's larger than Germany](https://alexwlchan.net/2024/big-pdf/)
 
-[I Moved My Blog from IPFS to a Server](https://neimanslab.org/2024-01-31/why-i-moved-my-blog-ipfs-to-server.html)
+[Pivotal Mental States](https://journals.sagepub.com/doi/full/10.1177/0269881120959637)
 
-[Generating Fantasy Maps (2016)](http://mewo2.com/notes/terrain/)
+[EU chip goal 'unrealistic' says ASML CEO](https://www.electronicsweekly.com/news/business/eu-chip-goal-totally-unrealistic-2024-01/)
 
-[Show HN: Some blind hackers are bridging IRC to LMMs running locally](https://2mb.codes/~cmb/ollama-bot/)
+[How We Crowdfunded $750k for a Giant Book about Keyboard History](https://glennf.medium.com/how-we-crowdfunded-750-000-for-a-giant-book-about-keyboard-history-c30e24c4022e)
 
-[Testing how hard it is to cheat with ChatGPT in interviews](https://interviewing.io/blog/how-hard-is-it-to-cheat-with-chatgpt-in-technical-interviews)
+[DeepSeek Coder: Let the Code Write Itself](https://deepseekcoder.github.io/)
 
-[Sega AI](https://www.smspower.org/SegaAI/Index)
+[PhotoRoom (YC S20) Is Hiring an API Designer in Paris (Node, Rust)]()
 
-[Building an early warning system for LLM-aided biological threat creation](https://openai.com/research/building-an-early-warning-system-for-llm-aided-biological-threat-creation)
+[MobileDiffusion: Rapid text-to-image generation on-device](https://blog.research.google/2024/01/mobilediffusion-rapid-text-to-image.html)
 
-[EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+[The Theory of Concatenative Combinators (2007)](http://tunes.org/~iepos/joy.html)
 
-[Kando: The Cross-Platform Pie Menu](https://github.com/kando-menu/kando)
+[Show HN: Lockbox: forward proxy for making third party API calls](https://github.com/mkjt2/lockbox)
 
-[Constructing a Four-Point Egg](https://dotat.at/@/2024-01-29-four-point-egg.html)
+[Visual Analysis of Binary Files](http://binvis.io/#/)

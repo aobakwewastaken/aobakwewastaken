@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Bard's latest updates: Access Gemini Pro globally and generate images](https://blog.google/products/bard/google-bard-gemini-pro-image-generation/)
+[Thanksgiving 2023 security incident](https://blog.cloudflare.com/thanksgiving-2023-security-incident)
 
-[Show HN: filippo.io/mlkem768 – Post-Quantum Cryptography for the Go Ecosystem](https://words.filippo.io/dispatches/mlkem768/)
+[Show HN: Stanchion – Column-oriented tables in SQLite](https://github.com/dgllghr/stanchion)
 
-[Launch HN: Escape (YC W23) – Discover and secure all your APIs]()
+[Starlink's laser system is beaming 42 petabytes of data per day](https://www.pcmag.com/news/starlinks-laser-system-is-beaming-42-million-gb-of-data-per-day)
 
-[Damn Small Linux 2024](https://www.damnsmalllinux.org/)
-
-[Spider webs capture environmental DNA from terrestrial vertebrates](https://www.cell.com/iscience/fulltext/S2589-0042(24)00125-1)
-
-[In Praise of Buttons](https://www.nubero.ch/blog/009/)
+[240-Gbit/s sub-THz wireless communications using ultra-low phase noise receiver](https://www.jstage.jst.go.jp/article/elex/advpub/0/advpub_20.20230584/_article)
 
 [My favourite Git commit (2019)](https://dhwthompson.com/2019/my-favourite-git-commit)
 
-[What Makes for 'Good' Mathematics?](https://www.quantamagazine.org/what-makes-for-good-mathematics-20240201/)
+[The web just gets better with Interop 2024](https://webkit.org/blog/14955/the-web-just-gets-better-with-interop/)
 
-[To Be Is to Be a Value of a Variable (2006) [pdf]](https://www.dcs.warwick.ac.uk/~hugh/TTM/relvars.pdf)
+[Ask HN: Who is hiring? (February 2024)]()
 
-[Vision Mamba: Efficient Visual Representation Learning with Bidirectional SSM](https://arxiv.org/abs/2401.09417)
+[A Startup Allegedly 'Hacked the World.' Then Came the Censorship, and Backlash](https://www.wired.com/story/appin-training-centers-lawsuits-censorship/)
+
+[Genetic autopsies to unravel the mystery of sudden deaths](https://english.elpais.com/health/2024-01-25/genetic-autopsies-to-unravel-the-mystery-of-sudden-deaths.html)
+
+[Solving SAT via Positive Supercompilation](https://hirrolot.github.io/posts/sat-supercompilation.html)

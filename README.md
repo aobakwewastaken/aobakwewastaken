@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Write code for the web - Apple doesn't care about you, Mr. Developer](https://mrmr.io/apple/)
+[Browser extensions are underrated: the promise of hackable software (2019)](https://www.geoffreylitt.com/2019/07/29/browser-extensions)
 
-[Why is the mouse cursor slightly tilted and not straight?](https://ux.stackexchange.com/questions/52336/why-is-the-mouse-cursor-slightly-tilted-and-not-straight)
+[Beyond self-attention: How a small language model predicts the next token](https://shyam.blog/posts/beyond-self-attention/)
 
-[Duncan Campbell – Investigative journalist and forensic expert](https://www.duncancampbell.org/content/biography)
+[How the codpiece flopped](https://www.bbc.com/future/article/20240202-what-happened-to-the-codpiece)
 
-[Plastic bans work. Billions of plastic bags were avoided in the US alone](https://www.zmescience.com/science/news-science/plastic-bans-work-billions-of-plastic-bags-were-avoided-in-the-us-alone/)
+[Autism, through the eyes of a computer (2019)](https://www.spectrumnews.org/features/deep-dive/autism-through-the-eyes-of-a-computer/)
 
-[41 Years in UX: A Career Retrospective](https://www.uxtigers.com/post/41-years-in-ux)
+[Stract: Open-souce, non-profit search engine](https://stract.com/)
 
-[Finance worker pays out $25M after VC with deepfake CFO](https://edition.cnn.com/2024/02/04/asia/deepfake-cfo-scam-hong-kong-intl-hnk/index.html)
+[ProofWiki: Online compendium of mathematical proofs](https://proofwiki.org/wiki/Main_Page)
+
+[Dijkstra's interview on Dutch TV (2000)](https://pncnmnp.github.io/blogs/translating-dijakstra.html)
+
+[Meticulous (YC S21) is hiring to eliminate UI testing]()
 
 [Rolling Airframe Missile](https://www.navalgazing.net/RAM)
 
-[Missile Game](https://www.missile-game.com)
-
-[A Reasonable Configuration Language](https://ruudvanasseldonk.com/2024/a-reasonable-configuration-language)
-
-[New Linux glibc flaw lets attackers get root on major distros](https://www.bleepingcomputer.com/news/security/new-linux-glibc-flaw-lets-attackers-get-root-on-major-distros/)
+[Magnetic launching of black hole jets in Perseus A](https://www.mpifr-bonn.mpg.de/pressreleases/2024/4)

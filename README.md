@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Better Call GPT, Comparing Large Language Models Against Lawyers [pdf]](https://arxiv.org/abs/2401.16212)
+[Alaska Airlines flight 1282 NTSB preliminary report [pdf]](https://www.ntsb.gov/investigations/Documents/DCA24MA063%20Preliminary%20report.pdf)
 
-[Command Line Interface Guidelines](https://clig.dev/)
+[Learnings from our 8 years of Kubernetes in production](https://medium.com/@.anders/learnings-from-our-8-years-of-kubernetes-in-production-two-major-cluster-crashes-ditching-self-0257c09d36cd)
 
-[What Happened with the Web Monetization API?](https://chriscoyier.net/2024/01/24/what-happened-with-the-web-monetization-api/)
+[The perverse policies that fuel wildfires](https://www.newyorker.com/magazine/2024/02/05/the-perverse-policies-that-fuel-wildfires)
 
-[NetBox.dev: the source of truth for everything on your network](https://netbox.dev/)
+[What is a hard error, and what makes it harder than an easy error?](https://devblogs.microsoft.com/oldnewthing/20240116-00/?p=109274)
 
-[We might want to regularly keep track of how important each server is](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/TrackingMachineImportance)
+[BuildKit in depth: Docker's build engine explained](https://depot.dev/blog/buildkit-in-depth)
 
-[Bluesky signups are now open to the public](https://bsky.social/about/blog/02-06-2024-join-bluesky)
+[The world is awful. The world is much better. The world can be much better](https://ourworldindata.org/much-better-awful-can-be-better)
 
-[Write a Letter to Your Future Self](https://www.futureme.org/)
+[AdGuard Home: Network-wide ad- and tracker-blocking DNS server](https://github.com/AdguardTeam/AdGuardHome)
 
-[Will Satellite Megaconstellations Weaken Earth's Magnetic Field?](https://spaceweatherarchive.com/2024/02/01/will-satellite-megaconstellations-weaken-earths-magnetic-field/)
+[Spine AI (YC S23) Is Hiring a Lead ML Scientist](https://www.ycombinator.com/companies/spine-ai/jobs/Z1hz3BZ-lead-applied-ml-scientist)
 
-[Relativistic Spaceship](https://dmytry.github.io/space/)
+[Paintings reveal how the Dutch adapted to extreme weather in the little Ice Age](https://www.smithsonianmag.com/history/these-paintings-reveal-how-the-dutch-adapted-to-extreme-weather-during-the-little-ice-age-180983671/)
 
-[Vesuvius Challenge 2023 Grand Prize awarded: we can read the first scroll](https://scrollprize.org/grandprize)
+[What happened with the Web Monetization API?](https://chriscoyier.net/2024/01/24/what-happened-with-the-web-monetization-api/)

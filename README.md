@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[How to hire low experience, high potential people](https://worktopia.substack.com/p/how-to-hire-low-experience-high-potential)
+[A search engine in 80 lines of Python](https://www.alexmolas.com/2024/02/05/a-search-engine-in-80-lines.html)
 
-[RustPython](https://rustpython.github.io/)
+[A Conspiracy to Kill IE6](https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6)
 
-[TSMC to build second Japan chip factory, raising investment to $20B](https://finance.yahoo.com/news/tsmc-build-second-japan-chip-105111276.html)
+[Microsoft's Adaptive Cards](https://adaptivecards.io/)
 
-[How would you build an operating system?](https://corecursive.com/serenity-os-with-andreas-kling/)
+[Explore interesting places nearby listed on Wikipedia](https://en.nearbywiki.org/map/)
 
-[SQLite Isn't Enough](https://ente.io/blog/tech/sqlite-objectbox-isar/)
+[TSMC to build second Japan chip factory](https://finance.yahoo.com/news/tsmc-build-second-japan-chip-105111276.html)
 
-[The Ladybird browser project](https://ladybird.dev/)
+[Unison Cloud](https://www.unison.cloud/)
 
-[Show HN: YTPics – Download pictures from YouTube videos](https://www.ytpics.com/)
+[Transforming Postgres into a Fast OLAP Database](https://blog.paradedb.com/pages/introducing_analytics)
+
+[Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 
 [Show HN: Improve cognitive focus in 1 minute](https://oneminutefocus.com)
 
-[The first open source 3D atlas of human anatomy](https://conference.blender.org/2022/presentations/1365/)
-
-[Implementing system-versioned tables in Postgres](https://hypirion.com/musings/implementing-system-versioned-tables-in-postgres)
+[Neanderthals, modern humans may have co-existed in Europe for at least 10k years](https://theconversation.com/how-long-did-neanderthals-and-modern-humans-co-exist-in-europe-evidence-is-growing-it-may-have-been-at-least-10-000-years-222762)

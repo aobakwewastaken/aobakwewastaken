@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Alaska Airlines flight 1282 NTSB preliminary report [pdf]](https://www.ntsb.gov/investigations/Documents/DCA24MA063%20Preliminary%20report.pdf)
+[The Ladybird browser project](https://ladybird.dev/)
 
-[Learnings from our 8 years of Kubernetes in production](https://medium.com/@.anders/learnings-from-our-8-years-of-kubernetes-in-production-two-major-cluster-crashes-ditching-self-0257c09d36cd)
+[EU coal and gas collapse as wind and solar ascend](https://electrek.co/2024/02/06/eu-coal-and-gas-collapse-wind-and-solar-ascend/)
 
-[The perverse policies that fuel wildfires](https://www.newyorker.com/magazine/2024/02/05/the-perverse-policies-that-fuel-wildfires)
+[Oslo acquires ChatGPT for 110k students and teachers](https://www.digi.no/artikler/oslo-kjoper-chat-gpt-til-110-000-elever-og-laerere/543339)
 
-[What is a hard error, and what makes it harder than an easy error?](https://devblogs.microsoft.com/oldnewthing/20240116-00/?p=109274)
+[SQL for data scientists in 100 queries](https://gvwilson.github.io/sql-tutorial/)
 
-[BuildKit in depth: Docker's build engine explained](https://depot.dev/blog/buildkit-in-depth)
+[Making steel without emitting CO2](https://www.science.org/content/article/electrifying-new-ironmaking-method-could-slash-carbon-emissions)
 
-[The world is awful. The world is much better. The world can be much better](https://ourworldindata.org/much-better-awful-can-be-better)
+[Deepnote (YC S19) is hiring engineers to build ChatGPT for data (Europe)](https://deepnote.com/join-us)
 
-[AdGuard Home: Network-wide ad- and tracker-blocking DNS server](https://github.com/AdguardTeam/AdGuardHome)
+[How Condé Nast bought and destroyed Pitchfork](https://www.semafor.com/article/02/04/2024/inside-conde-nasts-breakup-with-pitchfork)
 
-[Spine AI (YC S23) Is Hiring a Lead ML Scientist](https://www.ycombinator.com/companies/spine-ai/jobs/Z1hz3BZ-lead-applied-ml-scientist)
+[jQuery v4.0 Beta](https://blog.jquery.com/2024/02/06/jquery-4-0-0-beta/)
 
-[Paintings reveal how the Dutch adapted to extreme weather in the little Ice Age](https://www.smithsonianmag.com/history/these-paintings-reveal-how-the-dutch-adapted-to-extreme-weather-during-the-little-ice-age-180983671/)
+[Two's complement integers with only sign bit set should be a trap representation](https://social.belkadan.com/@jrose/statuses/01HNRNHBQY4E5MC37KG14R50P7)
 
-[What happened with the Web Monetization API?](https://chriscoyier.net/2024/01/24/what-happened-with-the-web-monetization-api/)
+[BitLocker encryption broken in 43 seconds with sub-$10 Raspberry Pi Pico](https://www.tomshardware.com/pc-components/cpus/youtuber-breaks-bitlocker-encryption-in-less-than-43-seconds-with-sub-dollar10-raspberry-pi-pico)

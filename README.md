@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[John Walker, founder of Autodesk, has died](https://scanalyst.fourmilab.ch/t/john-walker-1949-2024/4305)
+
+[Cyclist hit by driverless Waymo car in San Francisco, police say](https://www.sfgate.com/bayarea/article/waymo-driverless-car-hits-cyclist-in-sf-18654109.php)
+
+[When "letting it crash" is not enough](https://flawless.dev/essays/when-letting-it-crash-is-not-enough/)
+
 [A search engine in 80 lines of Python](https://www.alexmolas.com/2024/02/05/a-search-engine-in-80-lines.html)
 
-[A Conspiracy to Kill IE6](https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6)
+[Thinking Forth: A Language and Philosophy for Solving Problems (2004) [pdf]](https://www.forth.com/wp-content/uploads/2018/11/thinking-forth-color.pdf)
 
-[Microsoft's Adaptive Cards](https://adaptivecards.io/)
+[Concrete.css](https://concrete.style)
+
+[Google DeepMind Alignment with Online AI Feedback (OAIF)](https://arxiv.org/abs/2402.04792)
+
+[The appendix is not, in fact, useless](https://www.npr.org/sections/health-shots/2024/02/02/1228474984/appendix-function-appendicitis-gut-health)
 
 [Explore interesting places nearby listed on Wikipedia](https://en.nearbywiki.org/map/)
 
-[TSMC to build second Japan chip factory](https://finance.yahoo.com/news/tsmc-build-second-japan-chip-105111276.html)
-
-[Unison Cloud](https://www.unison.cloud/)
-
-[Transforming Postgres into a Fast OLAP Database](https://blog.paradedb.com/pages/introducing_analytics)
-
-[Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
-
-[Show HN: Improve cognitive focus in 1 minute](https://oneminutefocus.com)
-
-[Neanderthals, modern humans may have co-existed in Europe for at least 10k years](https://theconversation.com/how-long-did-neanderthals-and-modern-humans-co-exist-in-europe-evidence-is-growing-it-may-have-been-at-least-10-000-years-222762)
+[Simple Precision Time Protocol at Meta](https://engineering.fb.com/2024/02/07/production-engineering/simple-precision-time-protocol-sptp-meta/)

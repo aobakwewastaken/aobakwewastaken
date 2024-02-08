@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [VirtualBox KVM Public Release](https://cyberus-technology.de/articles/vbox-kvm-public-release)
 
+[Bard is now Gemini, and we’re rolling out a mobile app and Gemini Advanced](https://blog.google/products/gemini/bard-gemini-advanced-app/)
+
 [John Walker, founder of Autodesk, has died](https://scanalyst.fourmilab.ch/t/john-walker-1949-2024/4305)
 
-[The moon is slowly shrinking – and it's triggering powerful moonquakes](https://www.zmescience.com/science/news-science/moon-shrinking-moonquakes/)
+[Billion File Filesystem](https://blog.liw.fi/posts/2024/billion/)
 
-[Gemini Ultra Released](https://one.google.com/explore-plan/gemini-advanced)
+[Dutch Police intelligence services unlawfully spied on whole population groups](https://nltimes.nl/2024/02/08/police-intelligence-services-unlawfully-spied-whole-population-groups)
 
-[Simple Precision Time Protocol at Meta](https://engineering.fb.com/2024/02/07/production-engineering/simple-precision-time-protocol-sptp-meta/)
+[Web design inspiration catalog](https://www.curated.design/)
 
-[Nimbus (YC W21) Is Hiring Founding Engineer to Make Datadog Affordable Again](https://www.ycombinator.com/companies/nimbus-3/jobs/TgQFIkz-founding-engineer)
+[Walking home at night is not the same for women – study](https://news.byu.edu/intellect/study-visually-captures-hard-truth-walking-home-at-night-is-not-the-same-for-women)
 
-[The power of two random choices](https://brooker.co.za/blog/2012/01/17/two-random.html)
+[Surely You're Joking, Comrade Beria (2021)](https://blog.nuclearsecrecy.com/2021/11/19/surely-youre-joking-comrade-beria/)
+
+[Show HN: SnapCode – a real Java IDE in the browser](https://reportmill.com/SnapCode/)
 
 [Concrete.css](https://concrete.style)
-
-[When "letting it crash" is not enough](https://flawless.dev/essays/when-letting-it-crash-is-not-enough/)
-
-[Thinking Forth: A Language and Philosophy for Solving Problems (2004) [pdf]](https://www.forth.com/wp-content/uploads/2018/11/thinking-forth-color.pdf)

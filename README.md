@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[How I write HTTP services in Go after 13 years](https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/)
+
+[Data Structures for Data-Intensive Applications [pdf]](https://cs-people.bu.edu/mathan/publications/fnt23-athanassoulis.pdf)
+
+[A 2024 plea for lean software](https://spectrum.ieee.org/lean-software-development)
+
+[Add coffee stains to LaTeX documents (2021)](https://ctan.org/pkg/coffeestains)
+
+[Nine US states are teaming up to accelerate the adoption of heat pumps](https://www.wired.com/story/these-states-are-basically-begging-you-to-get-a-heat-pump/)
+
+[Scientists find optimal space-time balance for hash tables](https://www.quantamagazine.org/scientists-find-optimal-balance-of-data-storage-and-time-20240208/)
+
+[Modern Treasury (YC S18) Is Hiring an Enterprise PM](https://jobs.ashbyhq.com/moderntreasury/7d1f8b2e-e151-48b1-a6fc-c02780aa78a4)
+
+[Spreadsheet "breaks" Apple Vision Pro eye-tracking](https://kguttag.com/2024/02/05/spreadsheet-breaks-the-apple-vision-pros-avp-eye-tracking-foveation-the-first-through-the-optics-pictures/)
+
 [Permutation City (1994)](https://www.gregegan.net/PERMUTATION/Permutation.html)
 
-[What Turned Earth into a Giant Snowball 700M Years Ago?](https://astrobiology.com/2024/02/what-turned-earth-into-a-giant-snowball-700m-years-ago.html)
-
-[Context Control in Go](https://zenhorace.dev/blog/context-control-go/)
-
-[Receiving Weather Satellite Images Using SatDump](https://support.nooelec.com/hc/en-us/articles/10407982882327-Receiving-Weather-Satellite-Images-Using-SatDump)
-
-[What's new in the Postgres 16 query planner](https://www.citusdata.com/blog/2024/02/08/whats-new-in-postgres-16-query-planner-optimizer/)
-
-[Figure out who's leaving the company: dump, diff, repeat](https://rachelbythebay.com/w/2024/02/08/ldap/)
-
-[Hono v4.0.0](https://github.com/honojs/hono/releases/tag/v4.0.0)
-
-[Cyclomatic Complexity](https://en.wikipedia.org/wiki/Cyclomatic_complexity)
-
-[Huawei's offices in France raided by financial prosecutors](https://www.cnn.com/2024/02/09/tech/china-huawei-france-financial-investigation-intl-hnk/index.html)
-
-[Circle Medical (YC S15) Is Hiring Ruby Engineers in Montreal](https://www.ycombinator.com/companies/circle-medical/jobs/2RM7yFC-senior-backend-engineer)
+[Tiny Quadrotor Learns to Fly in 18 Seconds](https://spectrum.ieee.org/drone-quadrotor)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[I Was Illegally Fired by Amazon for Speaking Out About a Coworker's Death (2023)](https://jacobin.com/2023/11/i-was-illegally-fired-by-amazon-for-speaking-out-about-a-coworkers-death/)
+[Becoming a dungeon master for an interview](https://www.propelauth.com/post/interview-dungeon-master)
 
-[Memray – A Memory Profiler for Python](https://github.com/bloomberg/memray)
+[Aho – a Git implementation in Awk](https://github.com/djanderson/aho)
 
-[A rent-stabilized 1 bedroom apartment for $1,100 In NYC? broker's fee is $15K](https://gothamist.com/news/a-rent-stabilized-1-bedroom-apartment-for-1100-in-nyc-the-brokers-fee-is-15k)
+[Cloud Egress Costs](https://getdeploying.com/reference/data-egress)
 
-[Building the DirectX shader compiler better than Microsoft?](https://devlog.hexops.com/2024/building-the-directx-shader-compiler-better-than-microsoft/)
+[Demoscene and Video Game Music Streaming Radio Links](https://mw.rat.bz/davgmsrl/)
 
-[OPML Is Underrated](https://kmaasrud.com/blog/opml-is-underrated.html)
+[How to write stuff no one else can](https://thewritetoroam.com/2024/02/how-to-write-stuff-no-one-else-can)
 
-[Show HN: Now my pet programming language can run in the browser](https://nbittich.github.io/adana/)
+[Detroit's abandoned tunnel systems open door to another world](https://www.freep.com/story/news/local/michigan/2024/02/10/underground-tunnels-detroit-michigan/72060366007/)
 
-[Accidentally making windows vanish in my old-fashioned Unix X environment](https://utcc.utoronto.ca/~cks/space/blog/unix/XOffscreenIconMistake)
+[Toolong: Terminal application to view, tail, merge, and search log files](https://github.com/Textualize/toolong)
 
-[Power of small optimizations](https://maksimkita.com/blog/power-of-small-optimizations.html)
+[Emerge (YC W21) is hiring a growth engineer (small team, fully remote)](https://www.emergetools.com/careers/jobs/growth-engineer)
 
-[BirdLingo: A birdsong learning game](https://jessicalieb.itch.io/birdlingo)
+[On-demand JSON: A better way to parse documents?](https://onlinelibrary.wiley.com/doi/10.1002/spe.3313)
 
-[Why it's impossible to agree on what's allowed](https://danluu.com/impossible-agree/)
+[How to Study (2023)](https://cse.buffalo.edu/~rapaport/howtostudy.html)

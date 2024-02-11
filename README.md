@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Becoming a dungeon master for an interview](https://www.propelauth.com/post/interview-dungeon-master)
+[Cloud Egress Costs](https://getdeploying.com/reference/data-egress)
+
+[How to write stuff no one else can](https://thewritetoroam.com/2024/02/how-to-write-stuff-no-one-else-can)
+
+[Show HN: A platform for remote piano lessons based on the Web MIDI API](https://keyboardconnect.com/)
 
 [Aho – a Git implementation in Awk](https://github.com/djanderson/aho)
 
-[Cloud Egress Costs](https://getdeploying.com/reference/data-egress)
-
-[Demoscene and Video Game Music Streaming Radio Links](https://mw.rat.bz/davgmsrl/)
-
-[How to write stuff no one else can](https://thewritetoroam.com/2024/02/how-to-write-stuff-no-one-else-can)
+[Show HN: Emacs minor mode for connecting assembly and assembled code buffers](https://github.com/ebanner/hexasm)
 
 [Detroit's abandoned tunnel systems open door to another world](https://www.freep.com/story/news/local/michigan/2024/02/10/underground-tunnels-detroit-michigan/72060366007/)
 
 [Toolong: Terminal application to view, tail, merge, and search log files](https://github.com/Textualize/toolong)
 
-[Emerge (YC W21) is hiring a growth engineer (small team, fully remote)](https://www.emergetools.com/careers/jobs/growth-engineer)
+[Undisclosed tinkering in Excel behind economics paper](https://retractionwatch.com/2024/02/05/no-data-no-problem-undisclosed-tinkering-in-excel-behind-economics-paper/)
 
-[On-demand JSON: A better way to parse documents?](https://onlinelibrary.wiley.com/doi/10.1002/spe.3313)
+[ForceGen: End-to-end de novo protein generation](https://www.science.org/doi/10.1126/sciadv.adl4000)
 
-[How to Study (2023)](https://cse.buffalo.edu/~rapaport/howtostudy.html)
+[OpenTTD](https://www.openttd.org/about)

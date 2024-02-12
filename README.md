@@ -1,17 +1,17 @@
 # Top Stories on hackernews <br />
-[Piezoelectrics enable displays to provide both audio and touch feedback](https://spectrum.ieee.org/piezoelectric-speakers)
-
 [AMD Funded a Drop-In CUDA Implementation Built on ROCm: It's Now Open-Source](https://www.phoronix.com/review/radeon-cuda-zluda)
+
+[Cloudflare defeats patent troll Sable at trial](https://blog.cloudflare.com/cloudflare-defeats-patent-troll-sable-at-trial)
 
 [Kalman Filter Explained Simply](https://thekalmanfilter.com/kalman-filter-explained-simply/)
 
 [I designed a cube that balances itself on a corner](https://willempennings.nl/balancing-cube/)
 
-['I have not seen one cent': billions stolen in wage theft from US workers](https://www.theguardian.com/us-news/2023/jun/15/wage-theft-us-workers-employees)
-
 [It Can Be Done (2003)](https://multicians.org/andre.html)
 
-[Cloudflare defeats patent troll Sable at trial](https://blog.cloudflare.com/cloudflare-defeats-patent-troll-sable-at-trial)
+[The Ultraviolet Myth](http://www.arxiv.org/abs/2402.03405)
+
+[My Visit to Deep Springs College (2009)](https://www.harrisonbarnes.com/do-not-trust-appearances-my-visit-to-deep-springs-college/)
 
 [The surreal life of a professional bridesmaid](https://thehustle.co/the-surreal-life-of-a-professional-bridesmaid/)
 

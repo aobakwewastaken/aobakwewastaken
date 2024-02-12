@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[It Can Be Done (2003)](https://multicians.org/andre.html)
+[Piezoelectrics enable displays to provide both audio and touch feedback](https://spectrum.ieee.org/piezoelectric-speakers)
+
+[AMD Funded a Drop-In CUDA Implementation Built on ROCm: It's Now Open-Source](https://www.phoronix.com/review/radeon-cuda-zluda)
+
+[Kalman Filter Explained Simply](https://thekalmanfilter.com/kalman-filter-explained-simply/)
 
 [I designed a cube that balances itself on a corner](https://willempennings.nl/balancing-cube/)
 
-[FOSDEM 2024: my experience, some notes and tech tips](https://ounapuu.ee/posts/2024/02/12/fosdem-2024/)
+['I have not seen one cent': billions stolen in wage theft from US workers](https://www.theguardian.com/us-news/2023/jun/15/wage-theft-us-workers-employees)
 
-[How SSH port became 22](https://www.ssh.com/academy/ssh/port#the-story-of-getting-ssh-port-22)
+[It Can Be Done (2003)](https://multicians.org/andre.html)
+
+[Cloudflare defeats patent troll Sable at trial](https://blog.cloudflare.com/cloudflare-defeats-patent-troll-sable-at-trial)
+
+[The surreal life of a professional bridesmaid](https://thehustle.co/the-surreal-life-of-a-professional-bridesmaid/)
 
 [OpenFPGA. The future of video game preservation](https://www.analogue.co/developer)
 
-[Show HN: Bitwise Liminal – A Short Film in 256 Bytes of Code](https://killedbyapixel.github.io/TinyCode/256B/BitwiseLiminal/)
-
-[The scarcity of the long term](https://kk.org/thetechnium/the-scarcity-of-the-long-term/)
-
-[How Venus ended up with a mini-moon named Zoozve](https://skyandtelescope.org/astronomy-news/how-venus-ended-up-with-a-mini-moon-named-zoozve/)
-
-[Orbit: C/C++ Performance Profiler](https://github.com/google/orbit)
-
-[The Brennan self-balancing monorail [video]](https://www.youtube.com/watch?v=kUYzuAJeg3M)
+[FOSDEM 2024: my experience, some notes and tech tips](https://ounapuu.ee/posts/2024/02/12/fosdem-2024/)

@@ -7,14 +7,14 @@
 
 [How SSH port became 22](https://www.ssh.com/academy/ssh/port#the-story-of-getting-ssh-port-22)
 
+[OpenFPGA. The future of video game preservation](https://www.analogue.co/developer)
+
 [Show HN: Bitwise Liminal – A Short Film in 256 Bytes of Code](https://killedbyapixel.github.io/TinyCode/256B/BitwiseLiminal/)
 
-[28-ton, 1.2-megawatt tidal kite is now exporting power to the grid](https://newatlas.com/energy/minesto-tidal-kite/)
+[The scarcity of the long term](https://kk.org/thetechnium/the-scarcity-of-the-long-term/)
 
 [How Venus ended up with a mini-moon named Zoozve](https://skyandtelescope.org/astronomy-news/how-venus-ended-up-with-a-mini-moon-named-zoozve/)
 
 [Orbit: C/C++ Performance Profiler](https://github.com/google/orbit)
 
 [The Brennan self-balancing monorail [video]](https://www.youtube.com/watch?v=kUYzuAJeg3M)
-
-[Semiconductor Fabrication 101](https://engineering.purdue.edu/online/programs/masters-degrees/semiconductors/semiconductor-fabrication-101)

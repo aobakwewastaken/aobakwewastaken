@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [I designed a cube that balances itself on a corner](https://willempennings.nl/balancing-cube/)
 
-[The Empire Strikes Back First Draft by Leigh Brackett (1978) [pdf]](https://starwarz.com/tbone/wp-content/uploads/Star-Wars-Sequel-Brackett.pdf)
+[How SSH port became 22](https://www.ssh.com/academy/ssh/port#the-story-of-getting-ssh-port-22)
 
-[Cross My Heart – A Frogger Demake in 256 Bytes of HTML/JS](https://killedbyapixel.github.io/TinyCode/games/CrossMyHeart/)
+[Show HN: Bitwise Liminal – A Short Film in 256 Bytes of Code](https://killedbyapixel.github.io/TinyCode/256B/BitwiseLiminal/)
 
-[Finding a new software developer job](https://henrikwarne.com/2024/02/11/finding-a-new-software-developer-job/)
+[The Nasdaq is in an A.I.-led bubble](https://www.philoinvestor.com/p/downside-at-nvidia-and-the-nasdaq)
 
-[A look at the Mojo language for bioinformatics](https://viralinstruction.com/posts/mojo/)
+[It Can Be Done](https://multicians.org/andre.html)
 
-[The quietest places in the loudest cities](https://earth.fm/the-quietest-places-in-the-worlds-loudest-cities/)
+[Orbit: C/C++ Performance Profiler](https://github.com/google/orbit)
 
-[RLHF a LLM in <50 lines of Python](https://datadreamer.dev/docs/latest/pages/get_started/quick_tour/aligning.html)
+[How Venus ended up with a mini-moon named Zoozve](https://skyandtelescope.org/astronomy-news/how-venus-ended-up-with-a-mini-moon-named-zoozve/)
 
-[Show HN: Multi-monitor KVM using just a USB switch](https://github.com/fiddyschmitt/SimpleKVM)
+[Ventum, Dimond, Cervelo – Why do these triathlon bikes look so weird?](https://www.theproscloset.com/blogs/news/ventum-dimond-cervelo-why-do-these-tri-bikes-look-so-weird)
 
-[Pentominoku for Layla](https://logic-masters.de/Raetselportal/Raetsel/zeigen.php?chlang=en&id=000F6A)
+[Semiconductor Fabrication 101](https://engineering.purdue.edu/online/programs/masters-degrees/semiconductors/semiconductor-fabrication-101)
 
-[Show HN: Oration (iOS) turns pdfs into audiobooks](https://oration.app)
+[A Cycle of Misery: The business of building commercial aircraft](https://www.construction-physics.com/p/a-cycle-of-misery-the-business-of)

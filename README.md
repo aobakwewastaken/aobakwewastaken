@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [Stable-Audio-Demo](https://stability-ai.github.io/stable-audio-demo/)
 
-[Abandoned villages of Hong Kong](https://www.cnn.com/2024/02/13/style/hong-kong-abandoned-villages-stefan-irvine-photographer-hnk/index.html)
-
-[Visual calculus](https://en.wikipedia.org/wiki/Visual_calculus)
-
-[The Rise and Fall of GOFAI](https://billwadge.com/2024/02/12/the-rise-and-fall-of-gofai/)
-
-[Neural network training makes beautiful fractals](https://sohl-dickstein.github.io/2024/02/12/fractal.html)
+[StreamingLLM: tiny tweak to KV LRU improves long conversations](https://news.mit.edu/2024/new-way-let-ai-chatbots-converse-all-day-without-crashing-0213)
 
 [John Locke's recipe for Pancakes (2021)](https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/)
 
-[Home Assistant: Three years later](https://eamonnsullivan.co.uk/posts-output/home-automation-three-years/2024-02-11-home-assistant-three-years-later/)
+[Nokia Made Too Many Phones](https://textquery.app/2024/02/06/nokia-made-too-many-phones/)
 
-[Twenty years of my work with Arm architecture](https://marcin.juszkiewicz.com.pl/2024/02/12/twenty-years-of-my-work-with-arm-architecture/)
+[AMD's Mild Hybrid Strategy: Ryzen Z1 in Asus's ROG Ally](https://chipsandcheese.com/2024/02/12/amds-mild-hybrid-strategy-ryzen-z1-in-asuss-rog-ally/)
 
-[Math as a habit](https://kidswholovemath.substack.com/p/math-as-a-habit)
+[Neural network training makes beautiful fractals](https://sohl-dickstein.github.io/2024/02/12/fractal.html)
 
-[Wall found at bottom of Baltic Sea 'may be Europe’s oldest megastructure'](https://www.theguardian.com/science/2024/feb/12/stone-age-wall-found-at-bottom-of-baltic-sea-may-be-europes-oldest-megastructure)
+[Visual calculus](https://en.wikipedia.org/wiki/Visual_calculus)
+
+[Cool URIs can be ugly](https://unterwaditzer.net/2023/cool-uris.html)
+
+[The Catalogue of UK Entrances to Hell](https://www.entrances2hell.co.uk/)
+
+[So You Think You Know Git – Git Tips and Tricks by Scott Chacon](https://blog.gitbutler.com/git-tips-and-tricks/)

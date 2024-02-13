@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Is something bugging you?](https://antithesis.com/blog/is_something_bugging_you/)
+[Stable Cascade](https://github.com/Stability-AI/StableCascade)
 
-[Owners report rust forming on Tesla Cybertruck](https://www.theregister.com/2024/02/13/tesla_cybertruck_rust/)
+[Is something bugging you?](https://antithesis.com/blog/is_something_bugging_you/)
 
 [Original WWW proposal is a Word for Macintosh 4 file from 1990, can we open it?](https://blog.jgc.org/2024/02/the-original-www-proposal-is-word-for.html)
 
-[A Git client for simultaneous branches on top of your existing workflow](https://gitbutler.com)
+[Memory and new controls for ChatGPT](https://openai.com/blog/memory-and-new-controls-for-chatgpt)
 
-[The Catalogue of UK Entrances to Hell (2002)](https://www.entrances2hell.co.uk/)
-
-[Sparkle: A software update framework for macOS](https://github.com/sparkle-project/Sparkle)
-
-[Non-code contributions are the secret to open source success](https://github.com/readme/featured/open-source-non-code-contributions)
-
-[Show HN: Statusduck – Website monitoring tool where the data is public](https://statusduck.io/)
+[Before he was George Orwell, he was Eric Blair, police officer](https://www.nytimes.com/2024/02/05/books/review/george-orwell-burma-sahib-paul-theroux.html)
 
 [Mastering Programming - by Kent Beck (2016)](https://tidyfirst.substack.com/p/mastering-programming)
 
-[Implement Tcl in Tcl (2007)](https://wiki.tcl-lang.org/page/Implement+tcl+in+tcl)
+[How to center a div in CSS](https://www.joshwcomeau.com/css/center-a-div/)
+
+[Tesorio (YC S15) Is Hiring a Head of Infrastructure (100% Remote)](https://www.tesorio.com/careers#job-openings)
+
+[Nokia made too many phones](https://textquery.app/2024/02/06/nokia-made-too-many-phones/)
+
+[Wi-Fi jamming to knock out cameras suspected in nine Minnesota burglaries](https://www.tomshardware.com/networking/wi-fi-jamming-to-knock-out-cameras-suspected-in-nine-minnesota-burglaries-smart-security-systems-vulnerable-as-tech-becomes-cheaper-and-easier-to-acquire)

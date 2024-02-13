@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[vDPA: Support for block devices in Linux and QEMU](https://stefano-garzarella.github.io/posts/2024-02-12-vdpa-blk/)
+[Stable-Audio-Demo](https://stability-ai.github.io/stable-audio-demo/)
 
-[Mornington Crescent](https://www.isihac.net/mornington_crescent.php)
+[Abandoned villages of Hong Kong](https://www.cnn.com/2024/02/13/style/hong-kong-abandoned-villages-stefan-irvine-photographer-hnk/index.html)
 
-[The Ultraviolet Myth](http://www.arxiv.org/abs/2402.03405)
+[Visual calculus](https://en.wikipedia.org/wiki/Visual_calculus)
 
-[US Government makes $42M bet on open cell networks: Open RAN dream stays alive](https://www.theverge.com/2024/2/12/24070550/open-ran-standard-us-funding-5g-huawei)
+[The Rise and Fall of GOFAI](https://billwadge.com/2024/02/12/the-rise-and-fall-of-gofai/)
 
-[A walk through Chicago Pedway (2017)](https://chicago.curbed.com/2017/9/21/16345460/chicago-pedway-walkway-tour-map-safety-directions)
+[Neural network training makes beautiful fractals](https://sohl-dickstein.github.io/2024/02/12/fractal.html)
 
-[Evolution: Fast or slow? Lizards help resolve a paradox](https://www.quantamagazine.org/evolution-fast-or-slow-lizards-help-resolve-a-paradox-20240102/)
+[John Locke's recipe for Pancakes (2021)](https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/)
 
-[AMD funded a drop-in CUDA implementation built on ROCm: It's now open-source](https://www.phoronix.com/review/radeon-cuda-zluda)
+[Home Assistant: Three years later](https://eamonnsullivan.co.uk/posts-output/home-automation-three-years/2024-02-11-home-assistant-three-years-later/)
 
-[Cloudflare defeats patent troll Sable at trial](https://blog.cloudflare.com/cloudflare-defeats-patent-troll-sable-at-trial)
+[Twenty years of my work with Arm architecture](https://marcin.juszkiewicz.com.pl/2024/02/12/twenty-years-of-my-work-with-arm-architecture/)
 
-[Kalman Filter Explained Simply](https://thekalmanfilter.com/kalman-filter-explained-simply/)
+[Math as a habit](https://kidswholovemath.substack.com/p/math-as-a-habit)
 
-[Should toggle button show its current state or the state to which it'll change? (2010)](https://ux.stackexchange.com/questions/1318/should-a-toggle-button-show-its-current-state-or-the-state-to-which-it-will-chan)
+[Wall found at bottom of Baltic Sea 'may be Europe’s oldest megastructure'](https://www.theguardian.com/science/2024/feb/12/stone-age-wall-found-at-bottom-of-baltic-sea-may-be-europes-oldest-megastructure)

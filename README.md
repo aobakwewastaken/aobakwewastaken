@@ -3,7 +3,7 @@
 
 [100 Years Ago, IBM Was Born](https://spectrum.ieee.org/ibm-history)
 
-[Stable Cascade](https://github.com/Stability-AI/StableCascade)
+[UC Berkley: World Model on Million-Length Video and Language with RingAttention](https://largeworldmodel.github.io/)
 
 [Bioluminescent petunias now available for U.S. market](https://lgrmag.com/news/light-bio-to-introduce-bioluminescent-petunias-into-u-s-market/)
 
@@ -11,10 +11,10 @@
 
 [Hi everyone yes, I left OpenAI yesterday](https://twitter.com/karpathy/status/1757600075281547344)
 
-[A bird's eye view of Polars](https://pola.rs/posts/polars_birds_eye_view/)
-
 [Oink: An API for PHP in a single file](https://github.com/jcarlosroldan/oink)
 
-[A woman who can smell Parkinson's is inspiring research into diagnosis (2020)](https://www.npr.org/sections/health-shots/2020/03/23/820274501/her-incredible-sense-of-smell-is-helping-scientists-find-new-ways-to-diagnose-di)
+[A bird's eye view of Polars](https://pola.rs/posts/polars_birds_eye_view/)
 
-[Nokia made too many phones](https://textquery.app/2024/02/06/nokia-made-too-many-phones/)
+[Getting the RK3588 SoC supported in upstream Linux (2023)](https://kernel-recipes.org/en/2023/schedule/getting-the-rk3588-soc-supported-upstream/)
+
+[Not all TLDs are Created Equal](https://www.hezmatt.org/~mpalmer/blog/2024/02/13/not-all-tlds-are-created-equal.html)

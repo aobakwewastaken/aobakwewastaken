@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Fly.io has GPUs now](https://fly.io/blog/fly-io-has-gpus-now/)
+
+[100 Years Ago, IBM Was Born](https://spectrum.ieee.org/ibm-history)
+
 [Stable Cascade](https://github.com/Stability-AI/StableCascade)
 
-[Is something bugging you?](https://antithesis.com/blog/is_something_bugging_you/)
+[Bioluminescent petunias now available for U.S. market](https://lgrmag.com/news/light-bio-to-introduce-bioluminescent-petunias-into-u-s-market/)
 
-[Original WWW proposal is a Word for Macintosh 4 file from 1990, can we open it?](https://blog.jgc.org/2024/02/the-original-www-proposal-is-word-for.html)
+[Show HN: Play the game I'm developing directly on its website](https://athenacrisis.com)
 
-[Memory and new controls for ChatGPT](https://openai.com/blog/memory-and-new-controls-for-chatgpt)
+[Hi everyone yes, I left OpenAI yesterday](https://twitter.com/karpathy/status/1757600075281547344)
 
-[Before he was George Orwell, he was Eric Blair, police officer](https://www.nytimes.com/2024/02/05/books/review/george-orwell-burma-sahib-paul-theroux.html)
+[A bird's eye view of Polars](https://pola.rs/posts/polars_birds_eye_view/)
 
-[Mastering Programming - by Kent Beck (2016)](https://tidyfirst.substack.com/p/mastering-programming)
+[Oink: An API for PHP in a single file](https://github.com/jcarlosroldan/oink)
 
-[How to center a div in CSS](https://www.joshwcomeau.com/css/center-a-div/)
-
-[Tesorio (YC S15) Is Hiring a Head of Infrastructure (100% Remote)](https://www.tesorio.com/careers#job-openings)
+[A woman who can smell Parkinson's is inspiring research into diagnosis (2020)](https://www.npr.org/sections/health-shots/2020/03/23/820274501/her-incredible-sense-of-smell-is-helping-scientists-find-new-ways-to-diagnose-di)
 
 [Nokia made too many phones](https://textquery.app/2024/02/06/nokia-made-too-many-phones/)
-
-[Wi-Fi jamming to knock out cameras suspected in nine Minnesota burglaries](https://www.tomshardware.com/networking/wi-fi-jamming-to-knock-out-cameras-suspected-in-nine-minnesota-burglaries-smart-security-systems-vulnerable-as-tech-becomes-cheaper-and-easier-to-acquire)

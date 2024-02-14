@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[The Matrix Trashfire](https://blog.koehntopp.info/2024/02/13/the-matrix-trashfire.html)
+[European Court of Human Rights bans weakening of secure end-to-endencryption](https://www.eureporter.co/world/human-rights-category/european-court-of-human-rights-echr/2024/02/14/european-court-of-human-rights-bans-weakening-of-secure-end-to-endencryption-the-end-of-eus-chat-control-csar-mass-surveillance-plans/)
 
-[Fly.io has GPUs now](https://fly.io/blog/fly-io-has-gpus-now/)
+[Enhancing the Factorio experience with SAT solvers](https://github.com/R-O-C-K-E-T/Factorio-SAT)
+
+[What made Earth a giant snowball 700M years ago? Scientists have an answer](https://www.sydney.edu.au/news-opinion/news/2024/02/08/geoscientists-discover-what-turned-snowball-earth-sturtian-ice-age-earthbyte.html)
+
+[Xonsh: Python-powered, cross-platform, Unix-gazing shell](https://github.com/xonsh/xonsh)
+
+[Ask HN: How do you organize software documentation at work?]()
+
+[Not all TLDs are Created Equal](https://www.hezmatt.org/~mpalmer/blog/2024/02/13/not-all-tlds-are-created-equal.html)
 
 [100 Years Ago, IBM Was Born](https://spectrum.ieee.org/ibm-history)
 
-[UC Berkley: World Model on Million-Length Video and Language with RingAttention](https://largeworldmodel.github.io/)
+[The Erlang Runtime System](https://blog.stenmans.org/theBeamBook/)
 
-[Bioluminescent petunias now available for U.S. market](https://lgrmag.com/news/light-bio-to-introduce-bioluminescent-petunias-into-u-s-market/)
+[The history of Digital Research's Gemdos for the Atari ST](http://cd.textfiles.com/crawlycrypt1/program/books/progem/gemdos.15)
 
-[Lightdash (YC S20) Is hiring an analytics engineering advocate](https://www.ycombinator.com/companies/hubble/jobs/IZ0giSa-analytics-engineering-advocate)
-
-[Show HN: Play the game I'm developing directly on its website](https://athenacrisis.com)
-
-[Oink: An API for PHP in a single file](https://github.com/jcarlosroldan/oink)
-
-[A bird's eye view of Polars](https://pola.rs/posts/polars_birds_eye_view/)
-
-[Maybe Everything Is a Coroutine](https://adam.nels.onl//blog/maybe-everything-is-a-coroutine/)
+[A gentle introduction to automated reasoning](https://www.amazon.science/blog/a-gentle-introduction-to-automated-reasoning)

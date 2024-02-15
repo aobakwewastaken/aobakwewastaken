@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Sora: Creating video from text](https://openai.com/sora)
+
 [Our next-generation model: Gemini 1.5](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/)
 
-[Managing mutable data in Elixir with Rust](https://www.lambdafunctions.com/articles/elixir-and-rust)
+[Building an LLM from Scratch: Automatic Differentiation](https://bclarkson-code.github.io/posts/llm-from-scratch-scalar-autograd/post.html)
 
-[A quantitative test of Diamond’s axis of orientation hypothesis](https://phys.org/news/2024-02-eurasia-dominant-east-west-axis.html)
+[Uv: Python packaging in Rust](https://astral.sh/blog/uv)
 
-[Portal (2021)](http://macintoshgarden.org/games/portal)
+[Every default macOS wallpaper](https://512pixels.net/projects/default-mac-wallpapers-in-5k/)
 
-[Show HN: Dstack – an open-source engine for running GPU workloads](https://dstack.ai/)
+[Observable 2.0, a static site generator for data apps](https://observablehq.com/blog/observable-2-0)
 
-[Gemini 1.5 Pro](https://twitter.com/JeffDean/status/1758146022726041615)
+[Apple confirms it's breaking iPhone web apps in the EU on purpose](https://techcrunch.com/2024/02/15/apple-confirms-its-breaking-iphone-web-apps-in-the-eu-on-purpose/)
 
-[How deceptive design is used to compromise your privacy and how to fight back](https://consciousdigital.org/deceptive-design-patterns/)
+[Launch HN: Zenfetch (YC W23) – Turn notes/browser history into an AI assistant]()
 
-[OpenAI – Application for US trademark “GPT” has failed](https://tsdr.uspto.gov/documentviewer?caseId=sn97733259&docId=FREF20240206125856&linkId=1#docIndex=0&page=1)
+[YouTube Oddities](https://github.com/mattwright324/youtube-metadata/wiki/YouTube-Oddities)
 
-[Reverse engineering a forgotten 1970s Intel dual core beast: 8271 (2020)](https://scarybeastsecurity.blogspot.com/2020/11/reverse-engineering-forgotten-1970s.html)
-
-[GitHub now officially supports polar.sh as a funding platform](https://twitter.com/birk/status/1758087210211909649)
+[Safe and reliable production changes; and how Rivian recently got this wrong](https://blog.substrate.tools/safe-and-reliable-production-changes-for-fast-moving-teams-and-how-rivian-recently-got-this-wrong/)

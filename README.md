@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[My Sixth Year as a Bootstrapped Founder](https://mtlynch.io/solo-developer-year-6/)
+[My sixth year as a bootstrapped founder](https://mtlynch.io/solo-developer-year-6/)
 
-[The Emacsen family, the design of an Emacs and the importance of Lisp (2023)](https://emacsconf.org/2023/talks/emacsen/)
+[Paying people to work on open source is good](https://jacobian.org/2024/feb/16/paying-maintainers-is-good/)
 
-[Data Structures as Topological Spaces (2002) [pdf]](http://mgs.spatial-computing.org/PUBLICATIONS/umc02.pdf)
+[Recording and visualising the 20k system calls it takes to "import seaborn"](http://blog.mattstuchlik.com/2024/02/16/counting-syscalls-in-python.html)
 
-[Guix on the Framework 13 AMD](https://wingolog.org/archives/2024/02/16/guix-on-the-framework-13-amd)
+[Show HN: Driftmania – an open source PICO-8 racing game](https://frenchie14.itch.io/driftmania)
 
-[I'm an Old Fart and AI Makes Me Sad](https://medium.com/@alex.suzuki/im-an-old-fart-and-ai-makes-me-sad-06003bfb6750)
+[The seventh most popular easily understood unsolved problem on MathOverflow](https://mathstodon.xyz/@johncarlosbaez/111942324712561452)
 
-[$5 device accurately tests for breast cancer in under 5 seconds](https://studyfinds.org/device-breast-cancer-5-seconds/)
+[The majority of traffic from X may have been fake during the Super Bowl](https://mashable.com/article/x-twitter-elon-musk-bots-fake-traffic)
 
-[Kagi Changelog 2/13: Faster and more accurate instant answers and Wikipedia page](https://kagi.com/changelog#3179)
+[Memory Renaming: Fast and Accurate Processing of Memory Communication (1999) [pdf]](https://web.eecs.umich.edu/~taustin/papers/IJPP-mren.pdf)
 
-[Magika: AI powered fast and efficient file type identification](https://opensource.googleblog.com/2024/02/magika-ai-powered-fast-and-efficient-file-type-identification.html)
+[UI = f(statesⁿ)](https://daverupert.com/2024/02/ui-states/)
 
-[Sora: Creating video from text](https://openai.com/sora)
+[Plastic industry knew recycling was a farce for decades](https://www.euronews.com/green/2024/02/16/plastic-industry-knew-recycling-was-a-farce-for-decades-yet-deceived-the-public-report-rev)
 
-[Think Python, 3rd Edition](https://allendowney.github.io/ThinkPython/)
+[How to commit part of file in Git](https://newbeelearn.com/blog/git-commit-part-of-file/)

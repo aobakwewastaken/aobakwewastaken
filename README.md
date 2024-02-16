@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [Sora: Creating video from text](https://openai.com/sora)
 
-[Our next-generation model: Gemini 1.5](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/)
+[Magika: AI powered fast and efficient file type identification](https://opensource.googleblog.com/2024/02/magika-ai-powered-fast-and-efficient-file-type-identification.html)
 
-[Building an LLM from Scratch: Automatic Differentiation](https://bclarkson-code.github.io/posts/llm-from-scratch-scalar-autograd/post.html)
+[Happy Birthday Lemmings](https://scottishgames.net/2024/02/14/it-was-33-years-ago-today-happy-birthday-lemmings/)
 
-[Uv: Python packaging in Rust](https://astral.sh/blog/uv)
+[Think Python, 3rd Edition](https://allendowney.github.io/ThinkPython/)
+
+[The existence of a new kind of magnet has been confirmed](https://www.newscientist.com/article/2417255-the-existence-of-a-new-kind-of-magnetism-has-been-confirmed/)
 
 [Every default macOS wallpaper](https://512pixels.net/projects/default-mac-wallpapers-in-5k/)
 
-[Observable 2.0, a static site generator for data apps](https://observablehq.com/blog/observable-2-0)
+[Orgzly Revived: a community-maintained version of Orgzly](https://github.com/orgzly-revived/orgzly-android-revived)
 
-[Apple confirms it's breaking iPhone web apps in the EU on purpose](https://techcrunch.com/2024/02/15/apple-confirms-its-breaking-iphone-web-apps-in-the-eu-on-purpose/)
+[Video generation models as world simulators](https://openai.com/research/video-generation-models-as-world-simulators)
 
-[Launch HN: Zenfetch (YC W23) – Turn notes/browser history into an AI assistant]()
+[Building an LLM from Scratch: Automatic Differentiation (2023)](https://bclarkson-code.github.io/posts/llm-from-scratch-scalar-autograd/post.html)
 
 [YouTube Oddities](https://github.com/mattwright324/youtube-metadata/wiki/YouTube-Oddities)
-
-[Safe and reliable production changes; and how Rivian recently got this wrong](https://blog.substrate.tools/safe-and-reliable-production-changes-for-fast-moving-teams-and-how-rivian-recently-got-this-wrong/)

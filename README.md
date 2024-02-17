@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Automated Unit Test Improvement Using Large Language Models at Meta](https://arxiv.org/abs/2402.09171)
+[Considerations for a long-running Raspberry Pi](https://www.dzombak.com/blog/2023/12/Considerations-for-a-long-running-Raspberry-Pi.html)
 
-[Raising Children on the Eve of AI](https://juliawise.net/raising-children-on-the-eve-of-ai/)
+[Automated Unit Test Improvement Using Large Language Models at Meta](https://arxiv.org/abs/2402.09171)
 
 [Progman: X11 WM modeled after Program Manager from the Windows 3 era](https://github.com/jcs/progman)
 
+[From engineer to manager: what I love, what I hate](https://thoughtspile.github.io/2024/02/16/eng-to-em/)
+
 [Coding in Vision Pro](https://willem.com/blog/2024-02-16_vision-pro/)
 
-[How did the settlers of the Canary Islands survive a millennium of isolation?](https://www.science.org/content/article/humans-survive-alone-1000-years-desert-islands-off-africa)
+[Juvenile great apes love to tease and annoy their elders, study finds](https://www.theguardian.com/science/2024/feb/14/juvenile-great-apes-love-to-tease-and-annoy-their-elders-study-finds)
+
+[AMD Ryzen Master Utility for Overclocking Control](https://www.amd.com/en/technologies/ryzen-master)
+
+[Agile Is a Tainted Term](https://www.pcloadletter.dev/blog/agile/)
 
 [UFO: A UI-Focused AI Agent for Windows OS Interaction](https://github.com/microsoft/UFO)
 
 [Hyrum's Law](https://www.hyrumslaw.com)
-
-[Show HN: Driftmania – an open source PICO-8 racing game](https://frenchie14.itch.io/driftmania)
-
-[Big Pharma spends billions more on executives and stockholders than on R&D](https://arstechnica.com/science/2024/02/big-pharma-spends-billions-more-on-executives-and-stockholders-than-on-rd/)
-
-[The seventh most popular easily understood unsolved problem on MathOverflow](https://mathstodon.xyz/@johncarlosbaez/111942324712561452)

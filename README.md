@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[My notes on Gitlab's Postgres schema design (2022)](https://shekhargulati.com/2022/07/08/my-notes-on-gitlabs-postgres-schema-design/)
+
+[Apple Watch Ultra 2 Hacked](https://discussions.apple.com/thread/255453237)
+
+[Representation Engineering: Mistral-7B on Acid](https://vgel.me/posts/representation-engineering/)
+
+[A love letter to Apache Echarts](https://alicegg.tech//2024/02/14/echarts.html)
+
 [Headphone and Amp Impedance (2011)](http://nwavguy.blogspot.com/2011/02/headphone-amp-impedance.html)
 
-[Ollama is now available on Windows in preview](https://ollama.com/blog/windows-preview)
+[Welding of Plutonium (1958) [pdf]](https://sgp.fas.org/othergov/doe/lanl/lib-www/la-pubs/00414797.pdf)
 
-[So long, and thanks for all the bytes](https://chethaase.medium.com/so-long-and-thanks-for-all-the-bytes-02a4ef972f65)
+[Quantum Country](https://quantum.country/)
 
-[Old Online Chevy Manuals](https://chevy.oldcarmanualproject.com/)
+[Basic proxy implementation using io_uring](https://git.kernel.dk/cgit/liburing/tree/examples/proxy.c)
 
-[Show HN: macOS-cross-compiler – Compile binaries for macOS on Linux](https://github.com/shepherdjerred/macos-cross-compiler)
+[The world of Yakuza fan magazines (2009)](https://publishingperspectives.com/2009/10/the-strange-world-of-yakuza-fan-magazines/)
 
-[OS-Copilot Friday](https://os-copilot.github.io/)
-
-[The Ute Tribe will construct one of the largest solar farms in the US](https://www.ksut.org/news/2024-02-15/ute-mountain-ute-tribe-will-construct-one-of-the-largest-solar-farms-in-the-u-s)
-
-[Run Llama 2 uncensored locally](https://ollama.com/blog/run-llama2-uncensored-locally)
-
-[So you think you understand IP fragmentation?](https://lwn.net/Articles/960913/)
-
-[Chain-of-Thought Reasoning Without Prompting](https://arxiv.org/abs/2402.10200)
+[Bypassing the WiFi Hardware Switch on the Lenovo X201 (2023)](https://btxx.org/posts/x201/)

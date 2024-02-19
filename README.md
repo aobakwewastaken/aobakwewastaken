@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Castle Engine – free, os, x-platform, 2D/3D game engine using modern Pascal](https://castle-engine.io/)
+[Castle Engine – Free open-source cross-platform 3D/2D game engine using Pascal](https://castle-engine.io/)
 
-[Clean your codebase with basic information theory](https://taylor.town/compress-code)
+[Biologists discover four new octopus species](https://www.smithsonianmag.com/smart-news/biologists-discover-four-new-octopus-species-deep-ocean-costa-rica-180983631/)
 
-[Show HN: Searchbase – Plug-n-play semantic/fuzzy search for your data](https://searchbase.dev/)
+[A Plea for Lean Software (1995)](https://liam-on-linux.dreamwidth.org/88032.html)
 
 [Diseconomies of scale in fraud, spam, support, and moderation](https://danluu.com/diseconomies-scale/)
 
-[VPP on FreeBSD](https://ipng.ch/s/articles/2024/02/17/vpp-freebsd-2.html)
+[Clean your codebase with basic information theory](https://taylor.town/compress-code)
 
-[Serving a website from a Git repo without cloning it](https://mediocregopher.com/posts/git-proxy)
+[Floats Are Weird](https://a.exozy.me/posts/floats-weird/)
 
-[Show HN: RAM Prices](https://ramstickprices.com/)
+[The Namingless Programming Language](https://github.com/akalenuk/the_namingless_programming_language)
 
-[Google Cloud's New Assured Open Source Software Service (2022)](https://cloud.google.com/blog/products/identity-security/introducing-assured-open-source-software-service)
+[Josh: Just One Single History (2022)](https://josh-project.github.io/josh/)
 
 [Show HN: I built a vector database API on Cloudflare](https://github.com/TimeSurgeLabs/athenadb)
 
-[RoR Debugbar](https://debugbar.dev/)
+[Show HN: Searchbase – Plug-n-play semantic/fuzzy search for your data](https://searchbase.dev/)

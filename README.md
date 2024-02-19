@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[How to make a better default Firefox UI](https://github.com/black7375/Firefox-UI-Fix/wiki/%5BArticle%5D-1.-How-to-make-a-better-default-Firefox-UI)
+
 [Castle Engine – Free open-source cross-platform 3D/2D game engine using Pascal](https://castle-engine.io/)
+
+[The boundary of neural network trainability is fractal](https://arxiv.org/abs/2402.06184)
 
 [Biologists discover four new octopus species](https://www.smithsonianmag.com/smart-news/biologists-discover-four-new-octopus-species-deep-ocean-costa-rica-180983631/)
 
-[A Plea for Lean Software (1995)](https://liam-on-linux.dreamwidth.org/88032.html)
+[GlobalFoundries wins $3.1B in CHIPS Act subsidies for NY, Vermont](https://www.syracuse.com/business/2024/02/globalfoundries-wins-31-billion-in-chips-act-subsidies-for-upstate-ny-vermont-expansion.html)
+
+[First satellite imagery of the Feb-13, 2024 landslide at Çöpler Mine in Turkey](https://eos.org/thelandslideblog/copler-mine-3)
+
+[My PHP Problems](https://www.dantleech.com/blog/2024/02/18/my-php-problems/)
 
 [Diseconomies of scale in fraud, spam, support, and moderation](https://danluu.com/diseconomies-scale/)
 
-[Clean your codebase with basic information theory](https://taylor.town/compress-code)
+[Optimization Example: Mandelbrot Set (part 1)](https://www.orange-kiwi.com/posts/optimization-example-mandelbrot-part-1/)
 
-[Floats Are Weird](https://a.exozy.me/posts/floats-weird/)
-
-[The Namingless Programming Language](https://github.com/akalenuk/the_namingless_programming_language)
-
-[Josh: Just One Single History (2022)](https://josh-project.github.io/josh/)
-
-[Show HN: I built a vector database API on Cloudflare](https://github.com/TimeSurgeLabs/athenadb)
-
-[Show HN: Searchbase – Plug-n-play semantic/fuzzy search for your data](https://searchbase.dev/)
+[Show HN: PRQL in PostgreSQL](https://github.com/kaspermarstal/plprql)

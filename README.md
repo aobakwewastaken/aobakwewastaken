@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[2/16/24 Wyze Security Incident Update](https://forums.wyze.com/t/update-on-investigation-of-2-16-24-security-issue/291002)
+
+[Show HN: htmz – a low power tool for HTML](https://leanrada.com/htmz/)
+
+[Show HN: PRQL in PostgreSQL](https://github.com/kaspermarstal/plprql)
+
 [How to make a better default Firefox UI](https://github.com/black7375/Firefox-UI-Fix/wiki/%5BArticle%5D-1.-How-to-make-a-better-default-Firefox-UI)
+
+[The Case Against Caffeine](https://zantafakari.substack.com/p/the-case-against-caffeine)
 
 [Castle Engine – Free open-source cross-platform 3D/2D game engine using Pascal](https://castle-engine.io/)
 
-[The boundary of neural network trainability is fractal](https://arxiv.org/abs/2402.06184)
+[Porting to GCC 14: C language issues](https://gcc.gnu.org/gcc-14/porting_to.html#c)
 
 [Biologists discover four new octopus species](https://www.smithsonianmag.com/smart-news/biologists-discover-four-new-octopus-species-deep-ocean-costa-rica-180983631/)
 
-[GlobalFoundries wins $3.1B in CHIPS Act subsidies for NY, Vermont](https://www.syracuse.com/business/2024/02/globalfoundries-wins-31-billion-in-chips-act-subsidies-for-upstate-ny-vermont-expansion.html)
+[The boundary of neural network trainability is fractal](https://arxiv.org/abs/2402.06184)
 
-[First satellite imagery of the Feb-13, 2024 landslide at Çöpler Mine in Turkey](https://eos.org/thelandslideblog/copler-mine-3)
-
-[My PHP Problems](https://www.dantleech.com/blog/2024/02/18/my-php-problems/)
-
-[Diseconomies of scale in fraud, spam, support, and moderation](https://danluu.com/diseconomies-scale/)
-
-[Optimization Example: Mandelbrot Set (part 1)](https://www.orange-kiwi.com/posts/optimization-example-mandelbrot-part-1/)
-
-[Show HN: PRQL in PostgreSQL](https://github.com/kaspermarstal/plprql)
+[Show HN: CodeRev.app – Code Review as Interview](https://coderev.app)

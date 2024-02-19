@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Ancient Rome's failed building projects](https://www.historytoday.com/archive/history-matters/ancient-romes-failed-building-projects)
+[Castle Engine – free, os, x-platform, 2D/3D game engine using modern Pascal](https://castle-engine.io/)
+
+[Clean your codebase with basic information theory](https://taylor.town/compress-code)
+
+[Show HN: Searchbase – Plug-n-play semantic/fuzzy search for your data](https://searchbase.dev/)
+
+[Diseconomies of scale in fraud, spam, support, and moderation](https://danluu.com/diseconomies-scale/)
+
+[VPP on FreeBSD](https://ipng.ch/s/articles/2024/02/17/vpp-freebsd-2.html)
+
+[Serving a website from a Git repo without cloning it](https://mediocregopher.com/posts/git-proxy)
+
+[Show HN: RAM Prices](https://ramstickprices.com/)
+
+[Google Cloud's New Assured Open Source Software Service (2022)](https://cloud.google.com/blog/products/identity-security/introducing-assured-open-source-software-service)
+
+[Show HN: I built a vector database API on Cloudflare](https://github.com/TimeSurgeLabs/athenadb)
 
 [RoR Debugbar](https://debugbar.dev/)
-
-[USGS Historical Topographic Maps](https://www.esri.com/arcgis-blog/products/arcgis-living-atlas/mapping/access-over-181000-usgs-historical-topographic-maps/)
-
-[A random dungeon generator that fits on a business card (2019)](https://gist.github.com/munificent/b1bcd969063da3e6c298be070a22b604)
-
-[Everything is a linear model](https://danielroelfs.com/blog/everything-is-a-linear-model/)
-
-[What's an obelisk, anyway?](https://www.science.org/content/blog-post/what-s-obelisk-anyway)
-
-[I taught the Iliad to Chinese teenagers](https://scholars-stage.org/how-i-taught-the-iliad-to-chinese-teenagers/)
-
-[Meticulous (YC S21) is hiring to eliminate UI end-to-end tests]()
-
-[CorsixTH: Open-source clone of Theme Hospital](https://github.com/CorsixTH/CorsixTH)
-
-[Sent – simple plaintext presentation tool](https://tools.suckless.org/sent/)

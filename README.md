@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[In Defense of Simple Architectures (2022)](https://danluu.com/simple-architectures/)
+[Keep your phone number private with Signal usernames](https://signal.org/blog/phone-number-privacy-usernames/)
 
-[Writing a scheduler for Linux in Rust that runs in user-space](http://arighi.blogspot.com/2024/02/writing-scheduler-for-linux-in-rust.html)
+[Kagi Sidekick (Alpha)](https://sidekick.kagi.com/)
 
-[Web Scraping in Python – The Complete Guide](https://proxiesapi.com/articles/web-scraping-in-python-the-complete-guide)
+[SSDs have become fast, except in the cloud](http://databasearchitects.blogspot.com/2024/02/ssds-have-become-ridiculously-fast.html)
 
-[Translating OpenStreetMap data to HTML5 Canvas with Rust and WebAssembly](https://mary.codes/blog/programming/translating_openstreetmaps_to_HTML5_canvas_rust_wasm/)
+[LED Matrix Earrings](https://mitxela.com/projects/ledstud)
 
-[Launch HN: Dart (YC W22) – Project management with automatic report generation]()
+[Exodus Bitcoin Wallet: $490k swindle](https://popey.com/blog/2024/02/exodus-bitcoin-wallet-490k-swindle/)
 
-[Microsoft Is Spying on Users of Its AI Tools](https://www.schneier.com/blog/archives/2024/02/microsoft-is-spying-on-users-of-its-ai-tools.html)
+[Let's Build the GPT Tokenizer [video]](https://www.youtube.com/watch?v=zduSFxRajkE)
 
-[AI your home on street view](https://googlemapsmania.blogspot.com/2024/02/ai-your-home-on-street-view.html)
+[The asteroid that wiped out dinosaurs didn't impact bird evolution: new study](https://www.nytimes.com/2024/02/12/science/bird-evolution-asteroid-dinosaurs.html)
 
-[Future of 32-bit platform support in FreeBSD](https://lists.freebsd.org/archives/freebsd-announce/2024-February/000117.html)
+[Spine AI (YC S23) Is Hiring](https://www.ycombinator.com/companies/spine-ai/jobs/Z1hz3BZ-lead-applied-ml-scientist)
 
-[WebKit switching to Skia for 2d graphics rendering](https://blogs.igalia.com/carlosgc/2024/02/19/webkit-switching-to-skia-for-2d-graphics-rendering/)
+[Warning: $14k BigQuery charge in 2 hours](https://discuss.httparchive.org/t/warning-14-000-bigquery-charge-in-2-hours/2715)
 
-[How Much Is One Terabyte of Data](https://github.com/SPLWare/esProc/wiki/How-Much-Is-One-Terabyte-of-Data%EF%BC%9F)
+[LlamaCloud and LlamaParse](https://blog.llamaindex.ai/introducing-llamacloud-and-llamaparse-af8cedf9006b)

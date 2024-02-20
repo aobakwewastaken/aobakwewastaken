@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[FTC proposes new protections to combat AI impersonation of individuals](https://www.ftc.gov/news-events/news/press-releases/2024/02/ftc-proposes-new-protections-combat-ai-impersonation-individuals)
+[Cake – C23 and Beyond (2023)](http://thradams.com/cake/ownership.html)
 
-[Show HN: htmz – a low power tool for HTML](https://leanrada.com/htmz/)
+[Endgame: A dashboard exploit for the original Xbox](https://github.com/XboxDev/endgame-exploit)
 
-[OTP at a High Level (2019)](https://adoptingerlang.org/docs/development/otp_high_level/)
+[Game Font Forensics](https://int10h.org/blog/2024/02/game-font-forensics/)
 
-[Groq runs Mixtral 8x7B-32k with 500 T/s](https://groq.com/)
+[Silent data corruptions at scale (2021)](https://arxiv.org/abs/2102.11245)
 
-[What is a species, anyway?](https://www.nytimes.com/2024/02/19/science/what-is-a-species.html)
+[DiskClick: Ever wanted to hear old hard drive sounds](https://deervo.itch.io/diskclick)
 
-[Big media publishers are inundating the web with subpar product recommendations](https://housefresh.com/david-vs-digital-goliaths/)
+[E2EE on the web: is the web that bad?](https://emilymstark.com/2024/02/09/e2ee-on-the-web-is-the-web-really-that-bad.html)
 
-[My productivity app is a never-ending .txt file (2022)](https://jeffhuang.com/productivity_text_file/)
+[Learning resources for curious software engineers](https://github.com/charlax/professional-programming)
 
-[Building a Hybrid Native Application with Gleam and Tauri](https://www.wezm.net/v2/posts/2024/gleam-tauri/)
+[Old London Bridge](https://www.english-heritage.org.uk/visit/places/kenwood/history-stories-kenwood/old-london-bridge/)
 
-[An accessible one-handed keyboard, inspired by FrogPad](https://www.kianryan.co.uk/2024-02-16-one-handed-accessible-keyboard-inspired-by-frogpad/)
+[Extreme video compression with prediction using pre-trainded diffusion models](https://github.com/ElesionKyrie/Extreme-Video-Compression-With-Prediction-Using-Pre-trainded-Diffusion-Models-)
 
-[Hip to be square – 70 years of the Citroën H Van](https://www.adrianflux.co.uk/influx/culture/hip-square-70-years-citroen-h-van/)
+[Sony's Playstation Portal hacked, can now emulate PSP games](https://overkill.wtf/sony-playstation-portal-hacked-emulate-psp-games/)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Pijul is a free and open source (GPL2) distributed version control system](https://pijul.org/)
+
+[LaTeX and Neovim for technical note-taking](https://www.ejmastnak.com/tutorials/vim-latex/intro/)
+
 [Kagi Sidekick (alpha)](https://sidekick.kagi.com/)
 
-[Keep your phone number private with Signal usernames](https://signal.org/blog/phone-number-privacy-usernames/)
+[Stop postponing things by embracing the mess](https://www.deprocrastination.co/blog/stop-postponing-things-by-embracing-the-mess)
 
-[LED Matrix Earrings](https://mitxela.com/projects/ledstud)
-
-[Planner programming blows my mind](https://www.hillelwayne.com/post/picat/)
+[100kHz to 6GHz 2 port USB based VNA](https://github.com/jankae/LibreVNA)
 
 [Japan bets $67B to become a global chip powerhouse once again](https://finance.yahoo.com/news/japan-bets-67-billion-become-210013021.html)
 
-[Would von Braun's Mars landers have worked?](https://raypatrick.xyz/blog/2023/11/24/would-von-brauns-mars-landers-have-worked/)
+[Winteracter – The Fortran GUI Toolset](https://www.winteracter.com/)
 
-[If architects had to work like programmers (1995)](http://www.gksoft.com/a/fun/architects.html)
+[Keep your phone number private with Signal usernames](https://signal.org/blog/phone-number-privacy-usernames/)
 
 [Video Game Module for Flipper Zero](https://shop.flipperzero.one/products/video-game-module-for-flipper-zero)
 
-[ChatGPT has gone berserk](https://garymarcus.substack.com/p/chatgpt-has-gone-berserk)
-
-[TCP Puzzlers (2016)](https://www.tritondatacenter.com/blog/tcp-puzzlers)
+[LED Matrix Earrings](https://mitxela.com/projects/ledstud)

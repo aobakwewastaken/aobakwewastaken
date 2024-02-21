@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Gemma: New Open Models](https://blog.google/technology/developers/gemma-open-models/)
+
 [Pijul is a free and open source (GPL2) distributed version control system](https://pijul.org/)
 
-[LaTeX and Neovim for technical note-taking](https://www.ejmastnak.com/tutorials/vim-latex/intro/)
+[XL: An Extensible Programming Language](https://xlr.sourceforge.io/)
 
-[Kagi Sidekick (alpha)](https://sidekick.kagi.com/)
+[RFC 9512: YAML Media Type](https://www.rfc-editor.org/rfc/rfc9512.html)
+
+[Launch HN: Retell AI (YC W24) – Conversational Speech API for Your LLM]()
+
+[Insecure vehicles should be banned, not security tools like the Flipper Zero](https://saveflipper.ca/)
+
+[AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling](https://junzhan2000.github.io/AnyGPT.github.io/)
+
+[iMessage with PQ3 Cryptographic Protocol](https://security.apple.com/blog/imessage-pq3/)
+
+[Remix Vite Is Now Stable](https://remix.run/blog/remix-vite-stable)
 
 [Stop postponing things by embracing the mess](https://www.deprocrastination.co/blog/stop-postponing-things-by-embracing-the-mess)
-
-[100kHz to 6GHz 2 port USB based VNA](https://github.com/jankae/LibreVNA)
-
-[Japan bets $67B to become a global chip powerhouse once again](https://finance.yahoo.com/news/japan-bets-67-billion-become-210013021.html)
-
-[Winteracter – The Fortran GUI Toolset](https://www.winteracter.com/)
-
-[Keep your phone number private with Signal usernames](https://signal.org/blog/phone-number-privacy-usernames/)
-
-[Video Game Module for Flipper Zero](https://shop.flipperzero.one/products/video-game-module-for-flipper-zero)
-
-[LED Matrix Earrings](https://mitxela.com/projects/ledstud)

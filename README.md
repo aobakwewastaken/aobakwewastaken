@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[The killer app of Gemini Pro 1.5 is video](https://simonwillison.net/2024/Feb/21/gemini-pro-video/)
+
 [Gemma: New Open Models](https://blog.google/technology/developers/gemma-open-models/)
 
-[Insecure vehicles should be banned, not security tools like the Flipper Zero](https://saveflipper.ca/)
+[An Introduction to the Theory and Practice of Poker](https://hopkinspokercourse.com/)
 
-[Coffee machine camera at Amazon warehouse raises concerns about surveillance](https://sahanjournal.com/business-work/amazon-coffee-machine-camera-surveillance/)
+[ASML dethrones Applied Materials, becomes largest fab tool maker](https://www.tomshardware.com/tech-industry/manufacturing/asml-dethrones-applied-materials-becomes-worlds-largest-fab-tool-maker-analyst)
 
-[iMessage with PQ3 Cryptographic Protocol](https://security.apple.com/blog/imessage-pq3/)
+[Neural Network Diffusion](https://arxiv.org/abs/2402.13144)
 
-[Pijul is a free and open source (GPL2) distributed version control system](https://pijul.org/)
+[X.org Server Clears Out Remnants for Supporting Old Compilers](https://www.phoronix.com/news/XServer-Clear-Out-Old-Compilers)
+
+[Show HN: An Experiment with One-Feature Tool Made $7164/Mo]()
+
+[Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 
 [Launch HN: Retell AI (YC W24) – Conversational Speech API for Your LLM]()
 
-[XL: An Extensible Programming Language](https://xlr.sourceforge.io/)
-
-[The Ruby on Rails Podcast Episode 508: YJIT with Maxime Chevalier-Boisvert](https://www.therubyonrailspodcast.com/508)
-
-[RFC 9512: YAML Media Type](https://www.rfc-editor.org/rfc/rfc9512.html)
-
-[Remix Vite Is Now Stable](https://remix.run/blog/remix-vite-stable)
+[Strawberry Pop-Tart Blow-Torches (1994)](https://www.pmichaud.com/toast/)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Stable Diffusion 3](https://stability.ai/news/stable-diffusion-3)
+[Bluesky announces data federation for self hosters](https://bsky.social/about/blog/02-22-2024-open-social-web)
 
-[Eclipse viewing at 30k feet: Delta to offer path-of-totality flight](https://news.delta.com/eclipse-viewing-30000-feet-delta-offer-path-totality-flight)
+[Phind-70B: Closing the code quality gap with GPT-4 Turbo while running 4x faster](https://www.phind.com/blog/introducing-phind-70b)
+
+[Nobody ever gets credit for fixing problems that never happened (2001) [pdf]](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf)
+
+[Apple Pkl](https://github.com/apple/pkl)
+
+[I turned my ThinkPad into a programmable USB device](https://xairy.io/articles/thinkpad-xdci)
 
 [Launch HN: Danswer (YC W24) – Open-source AI search and chat over private data]()
 
-[Reading "A Programmer's Guide to Common Lisp"](https://journal.paoloamoroso.com/reading-a-programmers-guide-to-common-lisp)
+[New code for SIGILL faults to help identify misbranches on OpenBSD](https://www.undeadly.org/cgi?action=article;sid=20240222183703)
 
-[The Xylophone Maze: Screen-free coding for children](https://20y.hu/~slink/journal/xylophone-duplo/)
+[Reflex (YC W23) is hiring SWEs to work on open-source Python web apps]()
 
-[Show HN: Pages CMS – A CMS for GitHub](https://pagescms.org)
+[APL at Volvo](https://www.dyalog.com/case-studies/hercules.htm)
 
-[A peek at Intel's future foundry tech](https://spectrum.ieee.org/intel-18a)
-
-[Replacement PCB Replicates Early 80s Modem](https://tempestfpga.com/)
-
-[Why Is California the Way It Is?](https://unchartedterritories.tomaspueyo.com/p/why-is-california-the-way-it-is)
-
-[Private company landing on the moon today](https://www.intuitivemachines.com/im-1)
+[Cellular outage in U.S. hits AT&T, T-Mobile and Verizon users](https://www.cnbc.com/2024/02/22/cellular-outage-in-us-hits-att-t-mobile-and-verizon-users-downdetector-shows-.html)

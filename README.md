@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Show HN: Auth0 OSS alternative Ory Kratos now with passwordless and SMS support](https://github.com/ory/kratos/releases/tag/v1.1.0)
+[Stable Diffusion 3](https://stability.ai/news/stable-diffusion-3)
 
-[Gimp 2.99.18 Released: The Last Development Preview Before 3.0](https://www.gimp.org/news/2024/02/21/gimp-2-99-18-released/)
+[Reading a Programmer's Guide to Common Lisp](https://journal.paoloamoroso.com/reading-a-programmers-guide-to-common-lisp)
 
-[A Peek at Intel's Future Foundry Tech](https://spectrum.ieee.org/intel-18a)
+[Eclipse viewing at 30k feet: Delta to offer path-of-totality flight](https://news.delta.com/eclipse-viewing-30000-feet-delta-offer-path-totality-flight)
 
-[A beginner's guide to constant-time cryptography (2017)](https://www.chosenplaintext.ca/articles/beginners-guide-constant-time-cryptography.html)
+[Launch HN: Danswer (YC W24) – Open-source AI search and chat over private data]()
 
-[The killer app of Gemini Pro 1.5 is using video as an input](https://simonwillison.net/2024/Feb/21/gemini-pro-video/)
+[Replacement PCB Replicates Early 80s Modem](https://tempestfpga.com/)
 
-[Google to pause Gemini image generation of people after issues](https://www.theverge.com/2024/2/21/24079371/google-ai-gemini-generative-inaccurate-historical)
+[A peek at Intel's future foundry tech](https://spectrum.ieee.org/intel-18a)
 
-[What went wrong at Techstars](https://www.founderscoop.com/2024/what-went-wrong-at-techstars/)
+[The Xylophone Maze: Screen-free coding for children](https://20y.hu/~slink/journal/xylophone-duplo/)
 
-[Launch HN: Retell AI (YC W24) – Conversational Speech API for Your LLM]()
+[How to optimally trap points in high-dimensional spaces inside ellipsoids](https://www.adrianriv.com/blog/2024/02/19/minimum_volume_ellipsoid/)
 
-[Cellular outage in U.S. hits AT&T, T-Mobile and Verizon users](https://www.cnbc.com/2024/02/22/cellular-outage-in-us-hits-att-t-mobile-and-verizon-users-downdetector-shows-.html)
+[A Plastic Tsunami Is Taking over Farms. What Will Stop Plasticulture?](https://modernfarmer.com/2024/02/plastic-farms-stop-plasticulture/)
 
-[Interesting Uses of Ansible's ternary filter](https://www.zufallsheld.de/2024/02/21/interesting-use-of-ansible-ternary-filter/)
+[LongRoPE: Extending LLM Context Window Beyond 2M Tokens](https://arxiv.org/abs/2402.13753)

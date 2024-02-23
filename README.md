@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Beyond A*: Better Planning with Transformers](https://arxiv.org/abs/2402.14083)
+
 [Intel Processor Instability Causing Oodle Decompression Failures](https://www.radgametools.com/oodleintel.htm)
+
+[I don't think the cheapest APC Back-UPS units can be monitored except in Windows](https://strugglers.net/~andy/blog/2024/02/23/i-dont-think-the-cheapest-apc-back-ups-units-can-be-monitored-except-in-windows/)
 
 [Thanks FedEx, This Is Why We Keep Getting Phished](https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/)
 
+[Jim Keller criticizes Nvidia CUDA, x86 – 'CUDA's a swamp, not a moat, like x86'](https://www.tomshardware.com/tech-industry/artificial-intelligence/jim-keller-criticizes-nvidias-cuda-and-x86-cudas-a-swamp-not-a-moat-x86-was-a-swamp-too)
+
+[Work for you? Again? After you lied about the job and stole my stuff? No thanks](https://www.theregister.com/2024/02/23/on_call/)
+
 [The Fossil Sync Protocol](https://fossil-scm.org/home/doc/trunk/www/sync.wiki)
 
-[Show HN: Real-time image generation with SDXL Lightning](https://fastsdxl.ai/)
-
-[Vice website is shutting down](https://writing.exchange/@ernie/111977450241144169)
-
-[Brave's AI assistant now integrates with PDFs and Google Drive](https://brave.com/leo-docsupport/)
+[German Bundestag Passes Cannabis Legalization](https://www.bundestag.de/dokumente/textarchiv/2024/kw08-de-cannabis-990684)
 
 [Graphic Presentation (1939)](https://archive.org/details/graphicpresentat00brinrich)
 
-[A Distributed File System in Go Cut Average Metadata Memory Usage to 100 Bytes](https://juicefs.com/en/blog/engineering/reduce-metadata-memory-usage)
-
-[Nobody ever gets credit for fixing problems that never happened (2001) [pdf]](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf)
-
-[Launch HN: Danswer (YC W24) – Open-source AI search and chat over private data]()
+[Brave's AI assistant now integrates with PDFs and Google Drive](https://brave.com/leo-docsupport/)

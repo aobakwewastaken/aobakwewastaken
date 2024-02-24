@@ -5,16 +5,16 @@
 
 [Ten years of remembering every day that passes](http://lembransation.blogspot.com/2022/01/ten-years-of-remembering-every-day-that.html)
 
-[Meta's new LLM-based test generator](https://read.engineerscodex.com/p/metas-new-llm-based-test-generator)
+[Geospatial Nix – create, use and deploy today](https://geospatial-nix.today/)
 
 [Shoes makes building little graphical programs for Mac, Windows, Linux simple](http://shoesrb.com/)
 
-[Generative Models: What do they know? Do they know things? Let's find out](https://intrinsic-lora.github.io/)
-
 [Never-Repeating Tiles Can Safeguard Quantum Information](https://www.quantamagazine.org/never-repeating-tiles-can-safeguard-quantum-information-20240223/)
 
+[Meta's new LLM-based test generator](https://read.engineerscodex.com/p/metas-new-llm-based-test-generator)
+
+[Generative Models: What do they know? Do they know things? Let's find out](https://intrinsic-lora.github.io/)
+
+[Contributing Scrutiny to Nixpkgs](https://jnsgr.uk/2024/02/contributing-scrutiny-to-nixpkgs/)
+
 [LilyPond: Music notation for everyone](https://lilypond.org/)
-
-[Lisp Programming with Vim (2019)](https://susam.net/lisp-in-vim.html)
-
-[Go(lang): Robust generic functions on slices](https://go.dev/blog/generic-slice-functions)

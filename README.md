@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Google helped destroy adoption of RSS feeds (2023)](https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds)
+
 [Institutions try to preserve the problem to which they are the solution](https://effectiviology.com/shirky-principle/)
 
-[Understanding, Using, and Finetuning Gemma](https://lightning.ai/lightning-ai/studios/understanding-using-and-finetuning-gemma)
+[We were not accepted into Google Summer of Code. So, we started our own](https://qdrant.tech/blog/qdrant-summer-of-code-24/)
 
-[Microsoft Joins the MapLibre Sponsorship Program](https://maplibre.org/news/2024-02-20-msft-announcement/)
+[Some OpenBSD features that aren't widely known](https://dataswamp.org/~solene/2024-02-20-rarely-known-openbsd-features.html)
 
-[GPT in 500 Lines of SQL](https://explainextended.com/2023/12/31/happy-new-year-15/)
+[Project Oberon](https://www.projectoberon.net/)
 
-[Building a Deep Learning Rig](https://samsja.github.io/blogs/rig/part_1/)
+[Simple script to generate RSS feeds](https://www.zoraster.org/blog/script-to-generate-rss-feed)
 
-[How to think about software quality (2022)](https://www.evalapply.org/posts/how-to-not-die-by-a-thousand-cuts/index.html)
+[Coding the anime "woosh" screen on Amiga](https://dansalva.to/coding-the-anime-woosh-screen-on-amiga/)
 
-[Power Metal: is it really about dragons? (2018)](https://notes.atomutek.org/power-metal-and-dragons.html)
+[Emerge (YC W21) is hiring a growth engineer (small team remote)](https://www.emergetools.com/careers/jobs/growth-engineer)
 
-[Ten years of remembering every day that passes (2022)](http://lembransation.blogspot.com/2022/01/ten-years-of-remembering-every-day-that.html)
+[Quantifying the diva-ness of national anthem performances](https://pudding.cool/2024/02/anthems/)
 
-[Geospatial Nix – create, use and deploy today](https://geospatial-nix.today/)
-
-[Everyone seems to forget why GNOME and GNOME 3 and Unity happened (2022)](https://liam-on-linux.dreamwidth.org/85359.html)
+[V Language Review (2023)](https://n-skvortsov-1997.github.io/reviews/)

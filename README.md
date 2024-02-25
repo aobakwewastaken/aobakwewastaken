@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Hallucination is inevitable: An innate limitation of large language models](https://arxiv.org/abs/2401.11817)
+[Marginalia: 3 Years](https://www.marginalia.nu/log/a_101_marginalia-3-years/)
+
+[fd, xargs, bat = quick document review](https://hiandrewquinn.github.io/til-site/posts/fd-bat-quick-document-review/)
+
+[The Top of the DNS Hierarchy](https://computer.rip/2024-02-11-the-top-of-the-DNS-hierarchy.html)
+
+[Show HN: Reverse-Engineering a Switch Lite with 1,917 wires](https://usoldering.com/switch-lite/)
+
+[Building a Fly.io-Like Scheduler with Resource Requirements](https://www.aspiring.dev/fly-io-scheduler-part-2/)
+
+[Love Letter to Obsidian](https://twitter.com/karpathy/status/1761467904737067456)
+
+[Archival Floppy Disk Preservation and Use [video]](https://www.youtube.com/watch?v=UxsRpMdmlGo)
 
 [Tacit programming](https://en.wikipedia.org/wiki/Tacit_programming)
 
-[Institutions try to preserve the problem to which they are the solution](https://effectiviology.com/shirky-principle/)
-
-[GenAI and erroneous medical references](https://hai.stanford.edu/news/generating-medical-errors-genai-and-erroneous-medical-references)
-
-[Three Interpretations of Matrix Products](https://www.linearalgebraforprogrammers.com/blog/matmul_animations)
-
 [Neat Parallel Output in Python](https://bernsteinbear.com/blog/python-parallel-output/)
 
-[Asynchronous clean-up](https://without.boats/blog/asynchronous-clean-up/)
-
-[Synthetic images aid the recognition of human-made art forgeries](https://arxiv.org/abs/2312.14998)
-
-[Somaliland: A country shaped by poetry](https://www.noemamag.com/a-country-shaped-by-poetry/)
-
-[Miracle of Wörgl](https://www.alexstonethinkingstrings.com/446414233)
+[Hallucination is inevitable: An innate limitation of large language models](https://arxiv.org/abs/2401.11817)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Google helped destroy adoption of RSS feeds (2023)](https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds)
+[Every model learned by gradient descent is approximately a kernel machine (2020)](https://arxiv.org/abs/2012.00152)
+
+[Tacit Programming](https://en.wikipedia.org/wiki/Tacit_programming)
+
+[Architecture.md (2021)](https://matklad.github.io/2021/02/06/ARCHITECTURE.md.html)
 
 [Institutions try to preserve the problem to which they are the solution](https://effectiviology.com/shirky-principle/)
 
-[We were not accepted into Google Summer of Code. So, we started our own](https://qdrant.tech/blog/qdrant-summer-of-code-24/)
-
-[Some OpenBSD features that aren't widely known](https://dataswamp.org/~solene/2024-02-20-rarely-known-openbsd-features.html)
-
-[Project Oberon](https://www.projectoberon.net/)
-
-[Simple script to generate RSS feeds](https://www.zoraster.org/blog/script-to-generate-rss-feed)
+[Bought a Prison Laptop on eBay](https://twitter.com/zephray_wenting/status/1761548861896606014)
 
 [Coding the anime "woosh" screen on Amiga](https://dansalva.to/coding-the-anime-woosh-screen-on-amiga/)
 
-[Emerge (YC W21) is hiring a growth engineer (small team remote)](https://www.emergetools.com/careers/jobs/growth-engineer)
+[Asynchronous clean-up](https://without.boats/blog/asynchronous-clean-up/)
 
-[Quantifying the diva-ness of national anthem performances](https://pudding.cool/2024/02/anthems/)
+[A giant meteorite has been lost in the desert since 1916](https://arstechnica.com/science/2024/02/a-meteorite-has-been-lost-in-the-sahara-since-1916-heres-how-we-might-find-it/)
 
-[V Language Review (2023)](https://n-skvortsov-1997.github.io/reviews/)
+[GenAI and erroneous medical references](https://hai.stanford.edu/news/generating-medical-errors-genai-and-erroneous-medical-references)
+
+[David Hahn, the 'radioactive boy scout' who tried to build a nuclear reactor (2022)](https://allthatsinteresting.com/david-hahn)

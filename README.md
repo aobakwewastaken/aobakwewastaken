@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Marginalia: 3 Years](https://www.marginalia.nu/log/a_101_marginalia-3-years/)
+[Show HN: Reverse-Engineering a Switch Lite with 1,917 wires](https://usoldering.com/switch-lite/)
 
-[fd, xargs, bat = quick document review](https://hiandrewquinn.github.io/til-site/posts/fd-bat-quick-document-review/)
+[Osquery: An sqlite3 virtual table exposing operating system data to SQL](https://osquery.io/)
+
+[Starving to Death on a Full Stomach](https://slothconservation.org/starving-death-full-stomach/)
+
+[Seaborn bug responsible for finding of declining disruptiveness in science](https://arxiv.org/abs/2402.14583)
 
 [The Top of the DNS Hierarchy](https://computer.rip/2024-02-11-the-top-of-the-DNS-hierarchy.html)
 
-[Show HN: Reverse-Engineering a Switch Lite with 1,917 wires](https://usoldering.com/switch-lite/)
+[Marginalia: 3 Years](https://www.marginalia.nu/log/a_101_marginalia-3-years/)
 
 [Building a Fly.io-Like Scheduler with Resource Requirements](https://www.aspiring.dev/fly-io-scheduler-part-2/)
 
-[Love Letter to Obsidian](https://twitter.com/karpathy/status/1761467904737067456)
+[You almost never see a clock at the mall](https://thehustle.co/originals/why-you-almost-never-see-a-clock-at-the-mall)
 
-[Archival Floppy Disk Preservation and Use [video]](https://www.youtube.com/watch?v=UxsRpMdmlGo)
+[Zero-Rupee Note](https://en.wikipedia.org/wiki/Zero-rupee_note)
 
-[Tacit programming](https://en.wikipedia.org/wiki/Tacit_programming)
-
-[Neat Parallel Output in Python](https://bernsteinbear.com/blog/python-parallel-output/)
-
-[Hallucination is inevitable: An innate limitation of large language models](https://arxiv.org/abs/2401.11817)
+[Chip Defense](https://github.com/ochadenas/cpudefense)

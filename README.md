@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[A History of the TTY](https://computer.rip/2024-02-25-a-history-of-the-tty.html)
+
 [Show HN: Nekoweb – a retro static web hosting](https://nekoweb.org/)
 
-[Pleasures by Aldous Huxley (1920)](https://hackneybooks.co.uk/books/364/686/Pleasures.html)
+[Frugly vs. Freemium](https://taylor.town/frugly)
 
-[Coroutines in C (2000)](https://www.chiark.greenend.org.uk/~sgtatham/coroutines.html)
+[PID Without a PhD [pdf]](http://manuals.chudov.com/Servo-Tuning/PID-without-a-PhD.pdf)
 
-[Show HN: Reverse-Engineering a Switch Lite with 1,917 wires](https://usoldering.com/switch-lite/)
+[Life Aboard a Nuclear Submarine](https://www.vanityfair.com/news/life-aboard-a-nuclear-submarine)
 
-[Efficient recovery and recycling of cobalt from spent lithium-ion batteries](https://pubs.acs.org/doi/10.1021/acsomega.2c07780)
+[New car buying guide: the algorithm](https://github.com/kutinden/buyingacar/blob/main/README.md)
 
-[So Google's Gemini Doesn't Like Python Programming and Sanskrit?](https://new.pythonforengineers.com/blog/so-evidently/)
+[FDA approves first medication to reduce allergic reactions to multiple foods](https://www.fda.gov/news-events/press-announcements/fda-approves-first-medication-help-reduce-allergic-reactions-multiple-foods-after-accidental)
 
-[Mamba Explained: The State Space Model Taking On Transformers](https://www.kolaayonrinde.com/blog/2024/02/11/mamba.html)
+[Business Narrative Strategy](https://tomcritchlow.com/2024/02/16/narrative-strategy/)
 
-[Osquery: An sqlite3 virtual table exposing operating system data to SQL](https://osquery.io/)
+[Ask HN: What do I do with my side projects?]()
 
-[Write Dumb Code (2018)](https://matthewrocklin.com/write-dumb-code.html)
-
-[Console.delight](https://frontendmasters.com/blog/console-delight/)
+[Working with Purpose, Forever](https://hakaimagazine.com/news/working-with-purpose-forever/)

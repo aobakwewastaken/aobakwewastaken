@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[AI Infrastructure Landscape](https://ai-infra.fun/)
+
+[Doom rendered via console.log() in a web browser](https://github.com/MattCozendey/doom-console-log)
+
 [A History of the TTY](https://computer.rip/2024-02-25-a-history-of-the-tty.html)
 
-[Show HN: Nekoweb – a retro static web hosting](https://nekoweb.org/)
+[A Twist on Wadler's Printer](https://justinpombrio.net/2024/02/23/a-twist-on-Wadlers-printer.html)
 
 [Frugly vs. Freemium](https://taylor.town/frugly)
 
-[PID Without a PhD [pdf]](http://manuals.chudov.com/Servo-Tuning/PID-without-a-PhD.pdf)
+[Slimming Down Windows 3.1/3.11 (2002)](http://www.geocities.ws/politalk/win31/slimwin.htm)
 
-[Life Aboard a Nuclear Submarine](https://www.vanityfair.com/news/life-aboard-a-nuclear-submarine)
+[Show HN: Nekoweb – a retro static web hosting](https://nekoweb.org/)
 
-[New car buying guide: the algorithm](https://github.com/kutinden/buyingacar/blob/main/README.md)
+[PID Without a PhD (2016) [pdf]](https://www.wescottdesign.com/articles/pid/pidWithoutAPhd.pdf)
 
-[FDA approves first medication to reduce allergic reactions to multiple foods](https://www.fda.gov/news-events/press-announcements/fda-approves-first-medication-help-reduce-allergic-reactions-multiple-foods-after-accidental)
-
-[Business Narrative Strategy](https://tomcritchlow.com/2024/02/16/narrative-strategy/)
-
-[Ask HN: What do I do with my side projects?]()
+[How to Change a System](https://www.enablingchange.com.au/blog/strategy-2/how-to-change-a-system/)
 
 [Working with Purpose, Forever](https://hakaimagazine.com/news/working-with-purpose-forever/)

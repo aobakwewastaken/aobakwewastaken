@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Rapier is a set of 2D and 3D physics engines written in Rust](https://rapier.rs/docs/)
+
+[Netlify just sent me a $104K bill for a simple static site](https://old.reddit.com/r/webdev/comments/1b14bty/netlify_just_sent_me_a_104k_bill_for_a_simple/)
+
+[You Are Not Late (2014)](https://kk.org/thetechnium/you-are-not-late/)
+
 [How to find the AWS account ID of any S3 bucket](https://tracebit.com/blog/2024/02/finding-aws-account-id-of-any-s3-bucket/)
+
+[Segmenting Comic book Frames](https://vrroom.github.io/blog/2024/02/23/comic-frame-segmentation.html)
+
+[Bpftop: Streamlining eBPF performance optimization](https://netflixtechblog.com/announcing-bpftop-streamlining-ebpf-performance-optimization-6a727c1ae2e5?gi=223d75ac1771)
 
 [Ryzen Z1's Tiny iGPU](https://chipsandcheese.com/2024/02/25/ryzen-z1s-tiny-igpu/)
 
-[Apache Superset](https://superset.apache.org/)
-
-[A bad day at the office](https://airminded.org/2024/02/20/a-bad-day-at-the-office/)
-
-[Show HN: AboutIdeasNow – search /about, /ideas, /now pages of 7k+ personal sites](https://aboutideasnow.com/)
+[Cactus – A Modern Diablo II Version Switcher, Character Isolator, & Mod Manager](https://github.com/fearedbliss/Cactus)
 
 [On Light, Colors, Mixing Paints, and Numerical Optimization](https://github.com/miciwan/PaintMixing)
 
-[A new phase of matter: Physicists show non-Abelian anyons in quantum processor](https://phys.org/news/2024-02-phase-physicists-abelian-anyons-quantum.html)
-
-[New York medical school eliminates tuition after $1B gift](https://www.bbc.com/news/world-us-canada-68407453)
-
-[Launch HN: Delve (YC W24) – HIPAA compliance as a service]()
-
-[What a major solar storm could do](https://www.newyorker.com/magazine/2024/03/04/what-a-major-solar-storm-could-do-to-our-planet)
+[Multi – Multiplayer Collaboration for macOS](https://multi.app/)

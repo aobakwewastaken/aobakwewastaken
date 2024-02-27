@@ -3,18 +3,18 @@
 
 [Easter eggs on Swiss maps](https://www.atlasobscura.com/articles/swiss-map-secrets)
 
-[Boeing Missing Key Elements of Safety Culture: FAA Report](https://www.ainonline.com/aviation-news/air-transport/2024-02-26/boeing-missing-key-elements-safety-culture-faa-report)
+[Blazer: Business Intelligence Made Simple](https://github.com/ankane/blazer)
 
 [I turned my open-source project into a full-time business](https://docs.emailengine.app/how-i-turned-my-open-source-project-into/)
 
-[Blazer: Business Intelligence Made Simple](https://github.com/ankane/blazer)
+[Heat Pumps Take on Cold Climates](https://spectrum.ieee.org/cold-climate-heat-pump)
+
+[Show HN: Mountaineer – Webapps in Python and React](https://github.com/piercefreeman/mountaineer)
 
 [Consider the Pawpaw](https://beltmag.com/consider-the-pawpaw/)
 
-[Premium MistralAI models available for on-prem deployment](https://mistral.ai/technology/#models:~:text=contact%20our%20team%20to%20deploy%20our%20optimized%20models%20similarly.)
+[Boeing missing key elements of safety culture: FAA report](https://www.ainonline.com/aviation-news/air-transport/2024-02-26/boeing-missing-key-elements-safety-culture-faa-report)
 
-[Rapier is a set of 2D and 3D physics engines written in Rust](https://rapier.rs/docs/)
+[Botanical gardens can cool city air by an average of 5°C](https://newatlas.com/environment/surrey-cooling-effects-green-spaces-waterways/)
 
-[Solving Prompt Injection via Backtranslation](https://arxiv.org/abs/2402.16459)
-
-[Why time seems to pass faster as we age](https://invertedpassion.com/why-time-seems-to-pass-faster-as-we-age/)
+[Machine Learning Myths Debunked](https://www.hopsworks.ai/post/5-machine-learning-myths-debunked)

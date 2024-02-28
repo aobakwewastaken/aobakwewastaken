@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[European summer weather linked to North Atlantic freshwater anomalies](https://wcd.copernicus.org/articles/5/109/2024/)
+[The Bitter Lesson (2019)](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
 
 [Testcontainers](https://testcontainers.com/)
 
 [Show HN: I made an app to use local AI as daily driver](https://recurse.chat/)
 
+[Learn to Read Korean in 15 Minutes](https://www.ryanestrada.com/learntoreadkoreanin15minutes/)
+
+[Ask HN: Slow thinkers, how do you compensate for your lack of quick-wittedness?]()
+
 [Airfoil](https://ciechanow.ski/airfoil/)
 
 [GoboLinux](https://www.gobolinux.org/)
 
-[Why Python's Integer Division Floors (2010)](http://python-history.blogspot.com/2010/08/why-pythons-integer-division-floors.html)
-
 [Don't Mock Machine Learning Models In Unit Tests](https://eugeneyan.com/writing/unit-testing-ml/)
 
-[Universal Domain Types](https://mmapped.blog/posts/25-domain-types.html)
+[Why Python's Integer Division Floors (2010)](http://python-history.blogspot.com/2010/08/why-pythons-integer-division-floors.html)
 
-[Show HN: AI dub tool I made to watch foreign language videos with my 7-year-old](https://speakz.ai)
-
-[Does this 8088 code in the Leisure Suit Larry 2 game do anything?](https://retrocomputing.stackexchange.com/questions/29565/does-this-8088-code-in-the-leisure-suit-larry-2-game-actually-do-anything)
+[European summer weather linked to North Atlantic freshwater anomalies](https://wcd.copernicus.org/articles/5/109/2024/)

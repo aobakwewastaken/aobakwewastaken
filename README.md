@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Nintendo is suing the creators of Switch emulator Yuzu](https://overkill.wtf/nintendo-sue-yuzu-emulator/)
-
 [Airfoil](https://ciechanow.ski/airfoil/)
 
-[SuperTux](https://github.com/SuperTux/supertux)
+[New FCC standards should consider latency](https://broadbandbreakfast.com/untitled-12/)
 
-[Pure Programming Language](https://agraef.github.io/pure-lang/)
+[Testcontainers](https://testcontainers.com/)
 
-[Testing the F-35C Tailhook](https://the-engi-nerd.github.io/posts/welcome/)
+[Show HN: I made an app to use local AI as daily driver](https://recurse.chat/)
 
-[Ant Geopolitics](https://aeon.co/essays/the-strange-and-turbulent-global-world-of-ant-geopolitics)
-
-[The /unblock API from Browserless: dodging bot detection as a service](https://www.browserless.io/blog/2024/02/26/unblock-api/?apcid=00620de59ffc742367908900&utm_campaign=unblock-api-announcement&utm_content=unblock-api-announcement&utm_medium=email&utm_source=ortto)
-
-[Tesorio (YC S15) Is Hiring a Head of Infrastructure (100% Remote)](https://www.tesorio.com/careers#job-openings)
+[GoboLinux](https://www.gobolinux.org/)
 
 [Does this 8088 code in the Leisure Suit Larry 2 game do anything?](https://retrocomputing.stackexchange.com/questions/29565/does-this-8088-code-in-the-leisure-suit-larry-2-game-actually-do-anything)
 
-[I turned my open-source project into a full-time business](https://docs.emailengine.app/how-i-turned-my-open-source-project-into/)
+[Blind, Alone, and Confused for 24 Hours Challenge (2020)](https://mattlakeman.org/2020/11/08/the-blind-alone-and-confused-for-24-hours-challenge/)
+
+[Show HN: AI dub tool I made to watch foreign language videos with my 7-year-old](https://speakz.ai)
+
+[Micron Kicks Off Production of HBM3E Memory – AnandTech](https://www.anandtech.com/show/21277/micron-kicks-off-production-of-hbm3e-memory)
+
+[Neanderthals' use of complex adhesives shows high cognitive abilities](https://phys.org/news/2024-02-neanderthals-usage-complex-adhesives-reveals.html)

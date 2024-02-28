@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-['Mathematically perfect' star system being investigated for potential alien tech](https://www.space.com/alien-technosignatures-exoplanet-mathematically-perfect-orbits)
+[The Era of 1-bit LLMs: ternary parameters for cost-effective computing](https://arxiv.org/abs/2402.17764)
 
-[SymPy: Symbolic Mathematics in Python](https://www.sympy.org/en/index.html)
+[MicroZig: Unified abstraction layer and HAL for Zig on several microcontrollers](https://github.com/ZigEmbeddedGroup/microzig)
 
-[The Amazon forest has an almost 3x year-on-year increase in fires in February](https://brazil.postsen.com/local/532131/The-Amazon-has-a-286--increase-in-fires-in-February.html)
+[HDMI Forum Rejects Open-Source HDMI 2.1 Driver Support Sought by AMD](https://www.phoronix.com/news/HDMI-2.1-OSS-Rejected)
 
-[Show HN: Pgs.sh – A zero-install static site hosting service for hackers](https://pgs.sh)
+[Look, ma, no matrices](https://enkimute.github.io/LookMaNoMatrices/)
 
-[Man Convicted for Trying to Help Undercover Game Wardens Recover a Deer Drone](https://www.outdoorlife.com/hunting/pennsylvania-drone-sting-conviction/)
+[Julius Caesar's Year of Confusion](https://www.bbc.com/future/article/20240227-how-julius-caesar-made-the-longest-year-in-history-and-brought-us-leap-years)
 
-[YouTube video embedding harm reduction](https://dustri.org/b/youtube-video-embedding-harm-reduction.html)
+[Show HN: CriticalPath – Advanced Profiler for Android](https://crpath.app)
 
-[VATSIM: The International Online Aviation Network](https://vatsim.net/)
+[Let Everybody Sing (2016)](https://bittersoutherner.com/sacred-harp-let-everybody-sing)
+
+[Pql, a pipelined query language that compiles to SQL (written in Go)](https://pql.dev/)
 
 [Orbital reentry from 17000mph looks like dropping out of hyperspace [video]](https://www.youtube.com/watch?v=qw4DseiPu7E)
 
-[The Tech Industry Doesn't Understand Consent – Opt-Out Is Not Consent](https://soatok.blog/2024/02/27/the-tech-industry-doesnt-understand-consent/)
-
-[Intel puts 1nm process (10A) on the roadmap for 2027](https://www.tomshardware.com/pc-components/cpus/intel-puts-1nm-process-10a-on-the-roadmap-for-2027-aiming-for-fully-ai-automated-factories-with-cobots)
+[Vyxal: A code-golfing language experience](https://github.com/Vyxal/Vyxal)

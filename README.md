@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[How video games use lookup tables](https://blog.frost.kiwi/WebGL-LUTS-made-simple/)
+
 [The Era of 1-bit LLMs: ternary parameters for cost-effective computing](https://arxiv.org/abs/2402.17764)
 
-[MicroZig: Unified abstraction layer and HAL for Zig on several microcontrollers](https://github.com/ZigEmbeddedGroup/microzig)
-
-[HDMI Forum Rejects Open-Source HDMI 2.1 Driver Support Sought by AMD](https://www.phoronix.com/news/HDMI-2.1-OSS-Rejected)
+[Talc – A fast and flexible allocator for no_std and WebAssembly](https://github.com/SFBdragon/talc)
 
 [Look, ma, no matrices](https://enkimute.github.io/LookMaNoMatrices/)
 
-[Julius Caesar's Year of Confusion](https://www.bbc.com/future/article/20240227-how-julius-caesar-made-the-longest-year-in-history-and-brought-us-leap-years)
+[Scientists find genetic signature of Down syndrome in ancient bones](https://www.nytimes.com/2024/02/20/science/down-syndrome-dna-bones.html)
 
-[Show HN: CriticalPath – Advanced Profiler for Android](https://crpath.app)
+[Scheduling Internals](https://tontinton.com/posts/scheduling-internals/)
 
-[Let Everybody Sing (2016)](https://bittersoutherner.com/sacred-harp-let-everybody-sing)
+[The Claro Programming Language](https://docs.clarolang.com/)
 
-[Pql, a pipelined query language that compiles to SQL (written in Go)](https://pql.dev/)
+[MicroZig: Unified abstraction layer and HAL for Zig on several microcontrollers](https://github.com/ZigEmbeddedGroup/microzig)
 
-[Orbital reentry from 17000mph looks like dropping out of hyperspace [video]](https://www.youtube.com/watch?v=qw4DseiPu7E)
+[The floppy disk music scene](https://www.theverge.com/24034551/floppy-disk-music-scene-underground-diy)
 
-[Vyxal: A code-golfing language experience](https://github.com/Vyxal/Vyxal)
+[New jet engine enables efficiency at every speed for cheaper orbital launches](https://twitter.com/k2pilot/status/1763007610993991722)

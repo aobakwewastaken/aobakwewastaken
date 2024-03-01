@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Old vs. New Growth Trees and the Wood Products They Make](https://hullworks.com/wood/)
+[How we applied fuzzing techniques to cURL](https://blog.trailofbits.com/2024/03/01/toward-more-effective-curl-fuzzing/)
 
-[Where Is Noether's Principle in Machine Learning?](https://cgad.ski/blog/where-is-noethers-principle-in-machine-learning.html)
+[Colecovision BASIC compiler: CVBasic v0.1.0](https://forums.atariage.com/topic/362182-colecovision-basic-compiler-cvbasic-v010/)
 
-[How we applied advanced fuzzing techniques to cURL](https://blog.trailofbits.com/2024/03/01/toward-more-effective-curl-fuzzing/)
+[Old vs. new growth trees and the wood products they make](https://hullworks.com/wood/)
 
-[JSR: The JavaScript Registry](https://jsr.io)
+[Apple reverses course on death of Progressive Web Apps in EU](https://appleinsider.com/articles/24/03/01/apple-reverses-course-on-death-of-progressive-web-apps-in-eu)
 
-[I Accidentally Deleted a Game from MAME](https://www.mistys-internet.website/blog/blog/2024/03/01/that-time-i-accidentally-deleted-a-game-from-mame/)
+[Ask HN: Who is hiring? (March 2024)]()
+
+[Where is Noether's principle in machine learning?](https://cgad.ski/blog/where-is-noethers-principle-in-machine-learning.html)
+
+[The Cosmonaut of Potsdam](https://digitalcosmonaut.com/the-cosmonaut-of-potsdam/)
 
 [JPEG XL and the Pareto Front](https://cloudinary.com/blog/jpeg-xl-and-the-pareto-front)
 
-[Colony Graphs: Visualizing the Cloud](https://www.brendangregg.com/ColonyGraphs/cloud.html)
+[Elon Musk sues Sam Altman, Greg Brockman, and OpenAI [pdf]](https://www.courthousenews.com/wp-content/uploads/2024/02/musk-v-altman-openai-complaint-sf.pdf)
 
-[A daddy-longlegs possesses six eyes, including two vestigial pairs](https://www.nytimes.com/2024/03/01/science/daddy-long-legs-eyes.html)
-
-[Streaming HTML out of order without JavaScript](https://lamplightdev.com/blog/2024/01/10/streaming-html-out-of-order-without-javascript/)
-
-[Seismology of rubble-pile asteroids in binary systems](https://academic.oup.com/mnras/article/528/4/6568/7596572)
+[I accidentally deleted a bad game revision from MAME](https://www.mistys-internet.website/blog/blog/2024/03/01/that-time-i-accidentally-deleted-a-game-from-mame/)

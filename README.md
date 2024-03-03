@@ -5,16 +5,16 @@
 
 [Known Meta Sites](https://gitlab.com/J4YC33/metablock/-/blob/main/Meta.txt)
 
+[Ask HN: How can I learn about performance optimization?]()
+
 [ShotSpotter: listening in on the neighborhood](https://computer.rip/2024-03-01-listening-in-on-the-neighborhood.html)
 
 [Byte Interviews the Apple Lisa Dev Team (1983)](https://computeradsfromthepast.substack.com/p/byte-interviews-the-apple-lisa-dev)
 
-[Wintergatan Marble Machine (2016) [video]](https://www.youtube.com/watch?v=IvUU8joBb1Q)
-
-[Ask HN: How can I learn about performance optimization?]()
-
-[Learning Theory from First Principles [pdf]](https://www.di.ens.fr/%7Efbach/ltfp_book.pdf)
+[Zoomable, translated version of the 15th century Mappa Mundi](https://mostre.museogalileo.it/framauro/en/interactive-exploration/explore.html)
 
 [SpaceX just achieved speed of 17Mb/s from satellite to stock Android phone](https://twitter.com/elonmusk/status/1764032892663906313)
 
-[US prescription market hamstrung for 9 days (so far) by ransomware attack](https://arstechnica.com/security/2024/03/us-prescription-market-hamstrung-for-9-days-so-far-by-ransomware-attack/)
+[An Apple district manager's Macintosh Portable in 1989-91 (featuring GEIS Apple](http://oldvcr.blogspot.com/2024/03/an-apple-district-managers-macintosh.html)
+
+[LumaCode](https://github.com/c0pperdragon/LumaCode/wiki/Overview)

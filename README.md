@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Wintergatan Marble Machine (2016)](https://www.youtube.com/watch?v=IvUU8joBb1Q)
+[The One Billion Row Challenge in Go: from 1m45s to 4s in nine solutions](https://benhoyt.com/writings/go-1brc/)
+
+[CS 6120: Advanced Compilers: The Self-Guided Online Course](https://www.cs.cornell.edu/courses/cs6120/2023fa/self-guided/)
+
+[Known Meta Sites](https://gitlab.com/J4YC33/metablock/-/blob/main/Meta.txt)
+
+[ShotSpotter: listening in on the neighborhood](https://computer.rip/2024-03-01-listening-in-on-the-neighborhood.html)
+
+[Byte Interviews the Apple Lisa Dev Team (1983)](https://computeradsfromthepast.substack.com/p/byte-interviews-the-apple-lisa-dev)
+
+[Wintergatan Marble Machine (2016) [video]](https://www.youtube.com/watch?v=IvUU8joBb1Q)
+
+[Ask HN: How can I learn about performance optimization?]()
 
 [Learning Theory from First Principles [pdf]](https://www.di.ens.fr/%7Efbach/ltfp_book.pdf)
 
-[Sorting the Self: Assessments and the Cult of Personality](https://hedgehogreview.com/issues/missing-character/articles/sorting-the-self)
+[SpaceX just achieved speed of 17Mb/s from satellite to stock Android phone](https://twitter.com/elonmusk/status/1764032892663906313)
 
-[Mathematicians prove Pólya's conjecture for the eigenvalues of a disk](https://phys.org/news/2024-03-mathematicians-plya-conjecture-eigenvalues-disk.html)
-
-[Writing a Minecraft server from scratch in Bash (2022)](https://sdomi.pl/weblog/15-witchcraft-minecraft-server-in-bash/)
-
-[Gamedev in Lisp. Part 1: ECS and Metalinguistic Abstraction](https://awkravchuk.itch.io/cl-fast-ecs/devlog/622054/gamedev-in-lisp-part-1-ecs-and-metalinguistic-abstraction)
-
-[Ente: Open-Source, E2E Encrypted, Google Photos Alternative](https://ente.io/)
-
-[Bob Heil, K9EID, Silent Key](https://www.arrl.org/news/bob-heil-k9eid-silent-key)
-
-[Rogue editors started a competing Wikipedia that's only about roads](https://gizmodo.com/competing-wikipedia-editors-only-about-roads-aaroads-1851298769)
-
-[Scenes from the last operational Morse-code radio station in North America](https://www.theatlantic.com/magazine/archive/2024/04/ann-hermes-morse-code/677468/)
+[US prescription market hamstrung for 9 days (so far) by ransomware attack](https://arstechnica.com/security/2024/03/us-prescription-market-hamstrung-for-9-days-so-far-by-ransomware-attack/)

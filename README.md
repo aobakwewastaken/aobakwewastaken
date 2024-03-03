@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Supermium – Chromium fork for Win 2003/XP and newer](https://win32subsystem.live/supermium/)
+[French Artists in 1899 Envisioned What Life Would Look Like in the Year 2000](https://www.openculture.com/2024/02/how-french-artists-in-1899-envisioned-what-life-would-look-like-in-the-year-2000.html)
 
-[The Classic Adventures Solution Archive](https://www.solutionarchive.com/)
+[Combating olive oil fraud with nuclear innovations](https://www.iaea.org/newscenter/news/combating-olive-oil-fraud-with-nuclear-innovations)
 
-[Show HN: Hancho – A simple and pleasant build system in ~500 lines of Python](https://github.com/aappleby/hancho)
+[U.S. seeks to revive idled shipyards with help of Japan, South Korea](https://asia.nikkei.com/Politics/Defense/U.S.-seeks-to-revive-idled-shipyards-with-help-of-Japan-South-Korea)
 
-[Zoomable, translated version of the 15th century Mappa Mundi](https://mostre.museogalileo.it/framauro/en/interactive-exploration/explore.html)
+[Better PC cooling with Python and Grafana](https://calbryant.uk/blog/better-pc-cooling-with-python/)
 
-[David Holladay, blindness technology pioneer, dies at age 70](https://www.braillists.org/uncategorised/a-message-from-duxbury-systems-in-loving-memory-of-our-dear-friend-and-colleague/)
+[Interesting ideas in Observable Framework](https://simonwillison.net/2024/Mar/3/interesting-ideas-in-observable-framework/)
 
-[TikTok is finally on the decline](https://slate.com/technology/2024/02/tiktok-declining-finally-why-universal-ads-search.html)
+[Show HN: Pipedream now has 1800 integrated APIs](https://pipedream.com/explore)
 
-[Open Beam Interface](https://github.com/nanographs/Open-Beam-Interface)
+[A kids' novel inspired me to simulate a gene drive on 86M genealogy profiles](https://worthdoingbadly.com/familytree/)
 
-[Bookish Diversions: Do Audiobooks Count?](https://www.millersbookreview.com/p/bookish-diversions-do-audiobooks-count)
+[Meticulous (YC S21) is hiring to eliminate UI E2E tests]()
 
-[First known photos of 'lost bird' captured by scientists](https://phys.org/news/2024-02-photos-lost-bird-captured-scientists.html)
+[Storing binary data in playing cards (2014)](https://www.timwarriner.com/carddata/)
 
-[CS 6120: Advanced Compilers: The Self-Guided Online Course](https://www.cs.cornell.edu/courses/cs6120/2023fa/self-guided/)
+[USB in a Nutshell (2010)](https://www.beyondlogic.org/usbnutshell/usb1.shtml)

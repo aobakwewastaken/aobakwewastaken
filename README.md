@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Show HN: Astro App](https://astro.sshh.io/)
+[The hunt for the missing data type](https://www.hillelwayne.com/post/graph-types/)
+
+[Why it's so challenging to land upright on the moon](https://www.nytimes.com/2024/03/04/science/moon-landing-sideways-gravity.html)
+
+[Git Worktrees and GitButler](https://blog.gitbutler.com/git-worktrees/)
 
 [Claude 3 model family](https://www.anthropic.com/news/claude-3-family)
 
-[I made a bad camera lens from some old glasses [video]](https://www.youtube.com/watch?v=-C6AcRnUmbE)
+[Show HN: Astro App](https://astro.sshh.io/)
 
-[Singapore Airlines Concorde](https://mainlymiles.com/2024/03/03/singapore-airlines-concorde-full-story/)
+[The Rise and Fall of Adam Osborne](https://every.to/the-crazy-ones/the-rise-and-fall-of-steve-jobs-s-greatest-rival)
 
-[Motion blur all the way down (2022)](https://www.osar.fr/notes/motionblur/)
+[Improving Network Performance with Linux Flowtables](https://www.ubicloud.com/blog/improving-network-performance-with-linux-flowtables)
 
-[What Is a Schur Decomposition? (2022)](https://nhigham.com/2022/05/11/what-is-a-schur-decomposition/)
+[EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 
-[French court issues damages award for violation of GPL](https://heathermeeker.com/2024/02/17/french-court-issues-damages-award-for-violation-of-gpl/)
+[Opus 1.5 released: Opus gets a machine learning upgrade](https://opus-codec.org/demo/opus-1.5/)
 
-[Rust for Embedded Systems: Current state, challenges and open problems](https://arxiv.org/abs/2311.05063)
-
-[A mathematician who finds poetry in math and math in poetry](https://www.quantamagazine.org/the-theorist-who-sees-math-in-art-music-and-writing-20240112/)
-
-[Artisan AI (YC W24) Is Hiring a VP of E](https://www.ycombinator.com/companies/artisan-ai/jobs/TXSbyeS-founding-vp-of-engineering)
+[What flying was like fifty years ago](https://airfactsjournal.com/2024/03/remembering-what-flying-was-like-fifty-years-ago/)

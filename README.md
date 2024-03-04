@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[French Artists in 1899 Envisioned What Life Would Look Like in the Year 2000](https://www.openculture.com/2024/02/how-french-artists-in-1899-envisioned-what-life-would-look-like-in-the-year-2000.html)
+[French Court Issues Damages Award for Violation of GPL](https://heathermeeker.com/2024/02/17/french-court-issues-damages-award-for-violation-of-gpl/)
 
-[Combating olive oil fraud with nuclear innovations](https://www.iaea.org/newscenter/news/combating-olive-oil-fraud-with-nuclear-innovations)
+[Motion blur all the way down (2022)](https://www.osar.fr/notes/motionblur/)
 
-[U.S. seeks to revive idled shipyards with help of Japan, South Korea](https://asia.nikkei.com/Politics/Defense/U.S.-seeks-to-revive-idled-shipyards-with-help-of-Japan-South-Korea)
+[CSS for printing to paper](https://voussoir.net/writing/css_for_printing)
 
-[Better PC cooling with Python and Grafana](https://calbryant.uk/blog/better-pc-cooling-with-python/)
+[Giant anaconda species in the Amazon of Ecuador is the largest to be documented](https://www.usatoday.com/story/news/world/2024/03/02/photos-of-northern-green-anaconda-amazon/72806065007/)
+
+[A woman named "Steve" – IT pioneer, entrepreneur, philanthropist (2019)](https://www.computer.org/publications/tech-news/research/dame-stephanie-steve-shirley-computer-pioneer)
 
 [Interesting ideas in Observable Framework](https://simonwillison.net/2024/Mar/3/interesting-ideas-in-observable-framework/)
 
-[Show HN: Pipedream now has 1800 integrated APIs](https://pipedream.com/explore)
+[The perils of pause(2) (2023)](https://www.cipht.net/2023/11/30/perils-of-pause.html)
 
-[A kids' novel inspired me to simulate a gene drive on 86M genealogy profiles](https://worthdoingbadly.com/familytree/)
+[Sampling: What Nyquist didn't say, and what to do about it (2018) [pdf]](https://www.wescottdesign.com/articles/Sampling/sampling.pdf)
 
-[Meticulous (YC S21) is hiring to eliminate UI E2E tests]()
+[Surrealism Is 100](https://www.nytimes.com/2024/02/28/arts/design/surrealism-centennial-pompidou-brussels.html)
 
-[Storing binary data in playing cards (2014)](https://www.timwarriner.com/carddata/)
-
-[USB in a Nutshell (2010)](https://www.beyondlogic.org/usbnutshell/usb1.shtml)
+[Cold Chemistry Is Different](https://physics.aps.org/articles/v17/37)

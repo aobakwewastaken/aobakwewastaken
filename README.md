@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Facebook, Instagram, WhatsApp outage](https://downdetector.com/status/facebook/)
+[Nerdy internals of an Apple text editor](https://papereditor.app/internals)
 
-[Open-source project ZLUDA lets CUDA apps run on AMD GPUs](https://www.cgchannel.com/2024/02/open-source-project-zluda-lets-cuda-apps-run-on-amd-gpus/)
+[Cracking Meta's Messenger Certificate Pinning on macOS](https://texts.blog/2024/02/20/cracking-metas-messenger-certificate-pinning-on-macos/)
+
+[JEDEC Publishes GDDR7 Graphics Memory Standard](https://www.jedec.org/news/pressreleases/jedec-publishes-gddr7-graphics-memory-standard)
+
+[Elliptic Curve 'Murmurations' Found with AI Take Flight](https://www.quantamagazine.org/elliptic-curve-murmurations-found-with-ai-take-flight-20240305/)
+
+[Launch HN: Greptile (YC W24) - RAG on codebases that actually works]()
+
+[Array Languages vs. the Curse of the Spreadsheet](https://blog.dhsdevelopments.com/array-languages-vs)
+
+[How to generate uniformly random points on n-spheres and in n-balls](https://extremelearning.com.au/how-to-generate-uniformly-random-points-on-n-spheres-and-n-balls/)
 
 [Radicle: Open-Source, Peer-to-Peer, GitHub Alternative](https://app.radicle.xyz/nodes/seed.radicle.garden/rad:z3gqcJUoA1n9HaHKufZs5FCSGazv5)
 
-[The Shen Programming Language](https://shenlanguage.org/)
+[Kagi and Wolfram](https://blog.kagi.com/kagi-wolfram)
 
-[Stable Diffusion 3: Research Paper](https://stability.ai/news/stable-diffusion-3-research-paper)
-
-[LibraryBox](https://jasongriffey.net/librarybox/)
-
-[Flexagon](https://en.wikipedia.org/wiki/Flexagon)
-
-[Why do tree-based models still outperform deep learning on tabular data? (2022)](https://arxiv.org/abs/2207.08815)
-
-[Library of Juggling](http://libraryofjuggling.com/)
-
-[Cloudflare Announces Firewall for AI](https://blog.cloudflare.com/firewall-for-ai)
+[This Is Knuth 3:16 (2002)](http://www.larry.denenberg.com/Knuth-3-16/)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Show HN: 3 years and 1M users later, I just open-sourced my "Internet OS"](https://github.com/HeyPuter/puter)
+
+[Sell for half a billion and get nothing (2021)](https://www.fundablestartups.com/blog/half-a-billion)
+
+[How I keep myself alive using Golang](https://www.bytesizego.com/blog/keeping-alive-with-go)
+
+[Miles Davis and the recording of Kind of Blue](https://www.esquire.com/entertainment/music/a46871755/james-kaplan-miles-davis-3-shades-of-blue-excerpt/)
+
 [The hunt for the missing data type](https://www.hillelwayne.com/post/graph-types/)
 
-[Why it's so challenging to land upright on the moon](https://www.nytimes.com/2024/03/04/science/moon-landing-sideways-gravity.html)
+[Based: Simple linear attention language models](https://www.together.ai/blog/based)
 
-[Git Worktrees and GitButler](https://blog.gitbutler.com/git-worktrees/)
+[A moment of financial clarification (2013)](https://whatever.scalzi.com/2013/01/25/a-quick-moment-of-financial-clarification/)
 
-[Claude 3 model family](https://www.anthropic.com/news/claude-3-family)
+[European crash tester says carmakers must bring back physical controls](https://arstechnica.com/cars/2024/03/carmakers-must-bring-back-buttons-to-get-good-safety-scores-in-europe/)
 
-[Show HN: Astro App](https://astro.sshh.io/)
+[How I listen to music](https://marginalrevolution.com/marginalrevolution/2024/02/how-i-listen-to-music.html)
 
-[The Rise and Fall of Adam Osborne](https://every.to/the-crazy-ones/the-rise-and-fall-of-steve-jobs-s-greatest-rival)
-
-[Improving Network Performance with Linux Flowtables](https://www.ubicloud.com/blog/improving-network-performance-with-linux-flowtables)
-
-[EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
-
-[Opus 1.5 released: Opus gets a machine learning upgrade](https://opus-codec.org/demo/opus-1.5/)
-
-[What flying was like fifty years ago](https://airfactsjournal.com/2024/03/remembering-what-flying-was-like-fifty-years-ago/)
+[Mustard](https://chloelist.substack.com/p/issue-12-mustard)

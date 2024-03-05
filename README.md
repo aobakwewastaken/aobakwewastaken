@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [Radicle: Open-Source, Peer-to-Peer, GitHub Alternative](https://app.radicle.xyz/nodes/seed.radicle.garden/rad:z3gqcJUoA1n9HaHKufZs5FCSGazv5)
 
-[Show HN: 3 years and 1M users later, I just open-sourced my "Internet OS"](https://github.com/HeyPuter/puter)
+[The Shen Programming Language](https://shenlanguage.org/)
 
 [Stable Diffusion 3: Research Paper](https://stability.ai/news/stable-diffusion-3-research-paper)
 
-[How I keep myself alive using Golang](https://www.bytesizego.com/blog/keeping-alive-with-go)
+[LibraryBox](https://jasongriffey.net/librarybox/)
 
-[Running CP/M on the C128](https://celso.io/posts/2024/03/03/c128-cpm/)
+[Why do tree-based models still outperform deep learning on tabular data? (2022)](https://arxiv.org/abs/2207.08815)
 
-[Miles Davis and the recording of Kind of Blue](https://www.esquire.com/entertainment/music/a46871755/james-kaplan-miles-davis-3-shades-of-blue-excerpt/)
+[Flexagon](https://en.wikipedia.org/wiki/Flexagon)
 
-[European crash tester says carmakers must bring back physical controls](https://arstechnica.com/cars/2024/03/carmakers-must-bring-back-buttons-to-get-good-safety-scores-in-europe/)
+[Likelihood functions, p-values, and the replication crisis](https://arbital.com/p/likelihoods_not_pvalues/?l=4xx)
 
-[Library of Juggling](http://libraryofjuggling.com/)
+[Rapid7 throws JetBrains under the bus for uncoordinated vulnerability disclosure](https://www.theregister.com/2024/03/05/rapid7_jetbrains_vuln_disclosure_dispute/)
 
-[I spend £8,500 a year to live on a train](https://metro.co.uk/2024/03/03/spend-8-500-a-year-live-a-train-20388001/)
+[Cloudflare Announces Firewall for AI](https://blog.cloudflare.com/firewall-for-ai)
 
-[Based: Simple linear attention language models](https://www.together.ai/blog/based)
+[Show HN: Hacker News Badges (Unofficial)](https://hnbadges.com/?retry)

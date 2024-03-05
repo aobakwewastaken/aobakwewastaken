@@ -3,6 +3,8 @@
 
 [Show HN: 3 years and 1M users later, I just open-sourced my "Internet OS"](https://github.com/HeyPuter/puter)
 
+[Stable Diffusion 3: Research Paper](https://stability.ai/news/stable-diffusion-3-research-paper)
+
 [How I keep myself alive using Golang](https://www.bytesizego.com/blog/keeping-alive-with-go)
 
 [Running CP/M on the C128](https://celso.io/posts/2024/03/03/c128-cpm/)
@@ -11,10 +13,8 @@
 
 [European crash tester says carmakers must bring back physical controls](https://arstechnica.com/cars/2024/03/carmakers-must-bring-back-buttons-to-get-good-safety-scores-in-europe/)
 
-[Sell for half a billion and get nothing (2021)](https://www.fundablestartups.com/blog/half-a-billion)
+[Library of Juggling](http://libraryofjuggling.com/)
+
+[I spend £8,500 a year to live on a train](https://metro.co.uk/2024/03/03/spend-8-500-a-year-live-a-train-20388001/)
 
 [Based: Simple linear attention language models](https://www.together.ai/blog/based)
-
-[The largest climatized reading space](https://www.snohetta.com/projects/beijing-city-library)
-
-[What Is WebTV?](https://goblin-heart.net/sadgrl/shrines/webtv/)

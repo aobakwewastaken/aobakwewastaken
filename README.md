@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Nerdy internals of an Apple text editor](https://papereditor.app/internals)
+[Embedded Swift on the Raspberry Pi Pico](https://forums.swift.org/t/embedded-swift-on-the-raspberry-pi-pico-rp2040-without-the-pico-sdk/69338)
 
 [Cracking Meta's Messenger Certificate Pinning on macOS](https://texts.blog/2024/02/20/cracking-metas-messenger-certificate-pinning-on-macos/)
 
-[JEDEC Publishes GDDR7 Graphics Memory Standard](https://www.jedec.org/news/pressreleases/jedec-publishes-gddr7-graphics-memory-standard)
+[Leaving LinkedIn: Choosing Engineering Excellence over Expediency](https://corecursive.com/leaving-linkedin-with-chris-krycho/)
 
-[Elliptic Curve 'Murmurations' Found with AI Take Flight](https://www.quantamagazine.org/elliptic-curve-murmurations-found-with-ai-take-flight-20240305/)
+[Fonts are still a Helvetica of a Problem](https://www.canva.dev/blog/engineering/fonts-are-still-a-helvetica-of-a-problem/)
 
-[Launch HN: Greptile (YC W24) - RAG on codebases that actually works]()
+[Show HN: Piping logs, visualizing in a web app – just suffix "| npx logscreen"](https://github.com/soorajshankar/logScreen)
 
-[Array Languages vs. the Curse of the Spreadsheet](https://blog.dhsdevelopments.com/array-languages-vs)
+[The Future That Never Was](http://www.os2museum.com/wp/the-future-that-never-was/)
 
-[How to generate uniformly random points on n-spheres and in n-balls](https://extremelearning.com.au/how-to-generate-uniformly-random-points-on-n-spheres-and-n-balls/)
+[The propagation of error in classical geometry constructions (2018)](https://jdh.hamkins.org/propagation-of-error-in-classical-geometry-constructions/)
 
-[Radicle: Open-Source, Peer-to-Peer, GitHub Alternative](https://app.radicle.xyz/nodes/seed.radicle.garden/rad:z3gqcJUoA1n9HaHKufZs5FCSGazv5)
+[Nerdy internals of an Apple text editor](https://papereditor.app/internals)
 
-[Kagi and Wolfram](https://blog.kagi.com/kagi-wolfram)
+[OpenAI and Elon Musk](https://openai.com/blog/openai-elon-musk)
 
-[This Is Knuth 3:16 (2002)](http://www.larry.denenberg.com/Knuth-3-16/)
+[Elliptic curve 'murmurations' found with AI](https://www.quantamagazine.org/elliptic-curve-murmurations-found-with-ai-take-flight-20240305/)

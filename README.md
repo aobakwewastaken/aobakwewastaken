@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Beautiful SAR images of the ocean reveal shipping lanes, wind farms](https://blog.datadesk.eco/p/sky-lapse-in-two-tone)
-
-[Fractional scales, fonts and hinting](https://blog.gtk.org/2024/03/07/on-fractional-scales-fonts-and-hinting/)
-
-[A Bug in Early Creative Commons Licenses Has Enabled Copyleft Trolls (2022)](https://doctorow.medium.com/a-bug-in-early-creative-commons-licenses-has-enabled-a-new-breed-of-superpredator-5f6360713299)
-
-[Bob_cassette_rewinder](https://github.com/dekuNukem/bob_cassette_rewinder)
-
-[On the Double-Slit Experiment and Quantum Interference in the Wolfram Model](https://www.wolframphysics.org/bulletins/2020/08/a-short-note-on-the-double-slit-experiment-and-other-quantum-interference-effects-in-the-wolfram-model/)
-
-[UpCodes (YC S17) Is Hiring SWEs Across the Americas](https://up.codes/careers?utm_source=HN)
-
-[Nikon to acquire RED](https://www.nikon.com/company/news/2024/0307_01.html)
-
-[Interactive SQLite Documentation: Experiment with Queries in Real-Time](https://blog.sqlitecloud.io/interactive-sqlite-documentation-experiment-with-queries-in-real-time)
+[Eloquent JavaScript 4th edition (2024)](https://eloquentjavascript.net/)
 
 [Autogenerating a Book Series from Three Years of iMessages](https://benkettle.xyz/posts/message-book/)
 
-[My talk on CSS runtime performance](https://nolanlawson.com/2023/01/17/my-talk-on-css-runtime-performance/)
+[Total Functional Programming (2004) [pdf]](https://ncatlab.org/ufias2012/files/turner.pdf)
+
+[The Magic of Bird Brains](https://www.newyorker.com/science/elements/the-magic-of-bird-brains)
+
+[Hurried Thoughts: You're Wrong About Tidal-Locking](https://worldbuildingpasta.blogspot.com/2024/03/hurried-thoughts-youre-wrong-about.html)
+
+[Show HN: Flyde – an open-source visual programming language](https://github.com/flydelabs/flyde)
+
+[Snapdragon 8 Gen 1's iGPU: Adreno Gets Big](https://chipsandcheese.com/2024/03/05/inside-snapdragon-8-gen-1s-igpu-adreno-gets-big/)
+
+[Sky lapse in two tone](https://blog.datadesk.eco/p/sky-lapse-in-two-tone)
+
+[Pikachu Volleyball](https://gorisanson.github.io/pikachu-volleyball/en/)
+
+[Fractional scales, fonts and hinting](https://blog.gtk.org/2024/03/07/on-fractional-scales-fonts-and-hinting/)

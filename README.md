@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[My favourite animation trick: exponential smoothing](https://lisyarus.github.io/blog/programming/2023/02/21/exponential-smoothing.html)
+[Home Lab Guide](https://linuxblog.io/home-lab-beginners-guide-hardware/)
 
-[Show HN: A directory of open source alternatives to proprietary software](https://openalternative.co)
+[Build Initramfs Rootless](https://blog.izissise.net/posts/initramfs/)
 
 [Fine tune a 70B language model at home](https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html)
 
-[Amazon Cancels Fees for Customers Moving to Rival Cloud Services](https://www.bloomberg.com/news/articles/2024-03-05/amazon-cancels-fees-for-customers-moving-to-rival-cloud-services)
+[Rolldown: Rollup compatible bundler written in Rust](https://rolldown.rs/)
 
 [Chlorpyrifos: Pesticide tied to brain damage in children](https://usrtk.org/pesticides/chlorpyrifos/)
 
-[Thousand Character Classic](https://en.wikipedia.org/wiki/Thousand_Character_Classic)
+[Full AMD Linux Laptop (Radeon 7600M XT GPU, Ryzen CPU): Tuxedo Sirius 16 Review](https://tilvids.com/videos/watch/7ed1d601-ea6b-43e9-9ca0-bfc84c016af2)
 
-[Reentry of International Space Station Batteries into Earth's Atmosphere](https://www.esa.int/Space_Safety/Space_Debris/Reentry_of_International_Space_Station_ISS_batteries_into_Earth_s_atmosphere)
+[TikTok Stunt Motivates Lawmakers to Take on the App](https://www.wsj.com/politics/policy/a-tiktok-stunt-motivates-lawmakers-to-take-on-the-app-ba989656)
 
-[New breakthrough brings matrix multiplication closer to ideal](https://www.quantamagazine.org/new-breakthrough-brings-matrix-multiplication-closer-to-ideal-20240307/)
+[The CAP theorem. The Bad, the Bad, & the Ugly](https://blog.dtornow.com/the-cap-theorem.-the-bad-the-bad-the-ugly/)
 
-[The Ruin of Mumbai–Asterisk](https://asteriskmag.com/issues/05/the-ruin-of-mumbai)
+[How to Structure C Projects: These Best Practices Worked for Me](https://www.lucavall.in/blog/how-to-structure-c-projects-my-experience-best-practices)
 
-[Thierry Breton: Under DMA, there is no room for threats by gatekeepers](https://twitter.com/ThierryBreton/status/1765793776692326891)
+[Launch HN: Relari (YC W24) – Identify the root cause of problems in LLM apps]()

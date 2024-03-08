@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[The Pile is a 825 GiB diverse, open-source language modelling data set](https://pile.eleuther.ai/)
+[My favourite animation trick: exponential smoothing](https://lisyarus.github.io/blog/programming/2023/02/21/exponential-smoothing.html)
 
-[Carl Newport on his PhD experience at MIT: How I learn to concentrate](https://www.newyorker.com/culture/office-space/how-i-learned-to-concentrate)
+[Fine tune a 70B language model at home](https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html)
 
-[Eloquent JavaScript 4th edition (2024)](https://eloquentjavascript.net/)
+[The Terrifying A.I. Scam That Uses Your Loved One's Voice](https://www.newyorker.com/science/annals-of-artificial-intelligence/the-terrifying-ai-scam-that-uses-your-loved-ones-voice)
+
+[Why does the `reset` command include a delay? (2017)](https://unix.stackexchange.com/questions/335648/why-does-the-reset-command-include-a-delay)
+
+[Reentry of International Space Station Batteries into Earth's Atmosphere](https://www.esa.int/Space_Safety/Space_Debris/Reentry_of_International_Space_Station_ISS_batteries_into_Earth_s_atmosphere)
 
 [You cannot simply publicly access private secure links, can you?](https://vin01.github.io/piptagole/security-tools/soar/urlscan/hybrid-analysis/data-leaks/urlscan.io/cloudflare-radar%22/2024/03/07/url-database-leaks-private-urls.html)
 
-[Launch HN: SiLogy (YC W24) – Chip design and verification in the cloud]()
+[The Life and Death of the Bulbdial Clock](https://ironicsans.beehiiv.com/p/life-death-bulbdial-clock)
 
-[A peculiarity of the X Window System: Windows all the way down](https://utcc.utoronto.ca/~cks/space/blog/unix/XWindowsAllTheWayDown)
+[Don't fuck with paste](https://github.com/aaronraimist/DontFuckWithPaste)
+
+[Thousand Character Classic](https://en.wikipedia.org/wiki/Thousand_Character_Classic)
 
 [Gabriel García Márquez: Sons publish novel that late author wanted destroyed](https://www.bbc.co.uk/news/entertainment-arts-68488756.amp)
-
-[Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
-
-[The Berkeley Software Distribution](https://www.abortretry.fail/p/the-berkley-software-distribution)
-
-[Hurried Thoughts: You're Wrong About Tidal-Locking](https://worldbuildingpasta.blogspot.com/2024/03/hurried-thoughts-youre-wrong-about.html)

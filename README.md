@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Home Lab Beginners guide](https://linuxblog.io/home-lab-beginners-guide-hardware/)
+[Show HN: Hatchet – Open-source distributed task queue](https://github.com/hatchet-dev/hatchet)
 
-[Fishing for oil and meat drives extinction of deepwater sharks and rays](https://www.science.org/doi/10.1126/science.ade9121)
+[Downpour is the game creation tool I have been working on for the past few years](https://v21.io/blog/downpour)
 
-[Build Initramfs Rootless](https://blog.izissise.net/posts/initramfs/)
+[Show HN: Wallstreetlocal – View investments from America's biggest companies](https://github.com/bruhbruhroblox/wallstreetlocal)
 
-[Airbus electric air taxi makes its debut](https://www.airbus.com/en/newsroom/press-releases/2024-03-cityairbus-nextgen-makes-its-debut)
+[Epic says Apple will reinstate developer account](https://9to5mac.com/2024/03/08/epic-says-apple-will-reinstate-developer-account-clearing-path-for-epic-games-store-on-iphone/)
 
-[Fine tune a 70B language model at home](https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html)
-
-[Rolldown: Rollup compatible bundler written in Rust](https://rolldown.rs/)
+[A UK college student explaining congressional procedure to Washington](https://www.politico.com/news/magazine/2024/03/08/the-uk-college-student-explaining-congressional-procedure-to-washington-00145314)
 
 [Launch HN: Relari (YC W24) – Identify the root cause of problems in LLM apps]()
 
-[Full AMD Linux Laptop (Radeon 7600M XT GPU, Ryzen CPU): Tuxedo Sirius 16 Review](https://tilvids.com/videos/watch/7ed1d601-ea6b-43e9-9ca0-bfc84c016af2)
+[Home Lab Beginners guide](https://linuxblog.io/home-lab-beginners-guide-hardware/)
 
-[Chlorpyrifos: Pesticide tied to brain damage in children](https://usrtk.org/pesticides/chlorpyrifos/)
+[Finley (YC W21) is hiring capital markets technologists](https://www.finleycms.com/careers/)
 
-[Impostor Syndrome vs. the Dunning-Kruger Effect](https://raptori.dev/blog/impostor-syndrome-vs-the-dunning-kruger-effect/)
+['Lukewarm' and 'Lukecool' (2021)](https://www.grammarphobia.com/blog/2021/07/lukewarm-lukecool.html)
+
+[Vlite – Lite demo server, inspired by Vite](https://github.com/Jinjiang/vlite)

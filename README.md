@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Show HN: Hatchet – Open-source distributed task queue](https://github.com/hatchet-dev/hatchet)
+[4D Knit Dress](https://selfassemblylab.mit.edu/4d-knit-dress)
+
+[Gallery of Simple Websites](https://deadsimplesites.com/)
+
+[The Acme Klein Bottle (From Cliff Stoll and Family)](https://blog.jgc.org/2024/03/the-acme-klein-bottle-from-cliff-stoll.html)
+
+[Google/Rulesofthumb](https://nonint.com/2024/01/06/go-rulesofthumb/)
+
+[A helicopter and boats to perform a rare ceremony at the Tower of London](https://www.ianvisits.co.uk/articles/a-helicopter-and-boats-to-perform-a-rare-ceremony-at-the-tower-of-london-70761/)
 
 [Anomalous contribution to galactic rotation curves due to stochastic spacetime](https://arxiv.org/abs/2402.19459)
 
-[Sea Kit](https://www.sea-kit.com)
+[Metaperson: The enchanted worlds of Marshall Sahlins](https://www.thenation.com/article/culture/marshall-sahlins-new-science-enchanted-universe/)
 
-[Chiplet IP Standards Are Just the Beginning](https://semiengineering.com/chiplet-ip-standards-are-just-the-beginning/)
+[SuperC: Parsing All of C by Taming the Preprocessor [pdf] (2012)](https://paulgazzillo.com/papers/pldi12.pdf)
 
-[SuperC: Parsing All of C by Taming the Preprocessor [pdf]](https://paulgazzillo.com/papers/pldi12.pdf)
+[Show HN: Hatchet – Open-source distributed task queue](https://github.com/hatchet-dev/hatchet)
 
-[Self-Retrieval: Building an information retrieval system with one LLM](https://arxiv.org/abs/2403.00801)
-
-[A simple dice game shines a bit of light on the psychology of regret](https://thereader.mitpress.mit.edu/how-fear-of-regret-influences-our-decisions/)
-
-[TimeLapze: Open-source screen recorder](https://github.com/wkaisertexas/ScreenTimeLapse)
-
-[Differential: Type safe RPC that feels like local functions](https://www.differential.dev)
-
-[Piano on Paper](https://github.com/Mayuresh1611/Paper-Piano)
+[Engineer bought prison laptop and 1,200 incarcerated folks lost their devices](https://www.opencampusmedia.org/2024/03/04/an-engineer-bought-a-prison-laptop-on-ebay-then-1200-incarcerated-students-lost-their-devices/)

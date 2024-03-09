@@ -1,12 +1,6 @@
 # Top Stories on hackernews <br />
 [4D Knit Dress](https://selfassemblylab.mit.edu/4d-knit-dress)
 
-[Gallery of Simple Websites](https://deadsimplesites.com/)
-
-[The Acme Klein Bottle (From Cliff Stoll and Family)](https://blog.jgc.org/2024/03/the-acme-klein-bottle-from-cliff-stoll.html)
-
-[Google/Rulesofthumb](https://nonint.com/2024/01/06/go-rulesofthumb/)
-
 [A helicopter and boats to perform a rare ceremony at the Tower of London](https://www.ianvisits.co.uk/articles/a-helicopter-and-boats-to-perform-a-rare-ceremony-at-the-tower-of-london-70761/)
 
 [Anomalous contribution to galactic rotation curves due to stochastic spacetime](https://arxiv.org/abs/2402.19459)
@@ -15,6 +9,12 @@
 
 [SuperC: Parsing All of C by Taming the Preprocessor [pdf] (2012)](https://paulgazzillo.com/papers/pldi12.pdf)
 
-[Show HN: Hatchet – Open-source distributed task queue](https://github.com/hatchet-dev/hatchet)
+[Earliest forest discovered, scientists say](https://www.bbc.co.uk/news/science-environment-68500649)
 
-[Engineer bought prison laptop and 1,200 incarcerated folks lost their devices](https://www.opencampusmedia.org/2024/03/04/an-engineer-bought-a-prison-laptop-on-ebay-then-1200-incarcerated-students-lost-their-devices/)
+[Sea Kit](https://www.sea-kit.com)
+
+[Chiplet IP Standards Are Just the Beginning](https://semiengineering.com/chiplet-ip-standards-are-just-the-beginning/)
+
+[Self-Retrieval: Building an information retrieval system with one LLM](https://arxiv.org/abs/2403.00801)
+
+[TimeLapze: Open-source screen recorder](https://github.com/wkaisertexas/ScreenTimeLapse)

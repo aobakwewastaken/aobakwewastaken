@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Bruno: Fast and Git-friendly open-source API client (Postman alternative)](https://www.usebruno.com/)
+
+[Monodraw](https://monodraw.helftone.com/)
+
+[Cystic fibrosis breakthrough has given patients a chance to live longer](https://www.theatlantic.com/magazine/archive/2024/04/cystic-fibrosis-trikafta-breakthrough-treatment/677471/)
+
+[The Programmer's Apprentice Project: A Research Overview (1987) [pdf]](http://www.semdesigns.com/Company/Publications/ProgrammersApprentice-AIM-1004.pdf)
+
+[Scientists built their own Stone Age tools to figure out how they were used](https://arstechnica.com/science/2024/03/these-scientists-built-their-own-stone-age-tools-to-figure-out-how-they-were-used/)
+
+[Show HN: React Geiger – performance profiling using sound](https://github.com/kristiandupont/react-geiger)
+
+[1brc merykitty's magic SWAR: 8 lines of code explained in 3k words](https://questdb.io/blog/1brc-merykittys-magic-swar/)
+
+[Emerge (YC W21) is hiring a Growth Engineer (remote)](https://www.emergetools.com/careers/jobs/growth-engineer)
+
 [4D Knit Dress](https://selfassemblylab.mit.edu/4d-knit-dress)
 
-[A helicopter and boats to perform a rare ceremony at the Tower of London](https://www.ianvisits.co.uk/articles/a-helicopter-and-boats-to-perform-a-rare-ceremony-at-the-tower-of-london-70761/)
-
-[Anomalous contribution to galactic rotation curves due to stochastic spacetime](https://arxiv.org/abs/2402.19459)
-
-[Metaperson: The enchanted worlds of Marshall Sahlins](https://www.thenation.com/article/culture/marshall-sahlins-new-science-enchanted-universe/)
-
-[SuperC: Parsing All of C by Taming the Preprocessor [pdf] (2012)](https://paulgazzillo.com/papers/pldi12.pdf)
-
-[Earliest forest discovered, scientists say](https://www.bbc.co.uk/news/science-environment-68500649)
-
-[Sea Kit](https://www.sea-kit.com)
-
-[Chiplet IP Standards Are Just the Beginning](https://semiengineering.com/chiplet-ip-standards-are-just-the-beginning/)
-
-[Self-Retrieval: Building an information retrieval system with one LLM](https://arxiv.org/abs/2403.00801)
-
-[TimeLapze: Open-source screen recorder](https://github.com/wkaisertexas/ScreenTimeLapse)
+[An all-optical general-purpose CPU and optical computer architecture](https://arxiv.org/abs/2403.00045)

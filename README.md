@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Yi: Open Foundation Models by 01.ai](https://arxiv.org/abs/2403.04652)
+[The Best Essay](https://paulgraham.com/best.html)
 
-[A Copy of a Copy of a Copy: The Story of FDA Medical Device Clearances](https://wcedmisten.fyi/post/medical-device-analysis/)
+[Rebuilding memchess.com from its archive](https://grondilu.github.io/memchess/)
 
-[S3 is files, but not a filesystem](https://calpaterson.com/s3.html)
+[Monte-Carlo Graph Search from First Principles](https://github.com/lightvector/KataGo/blob/master/docs/GraphSearch.md)
 
-[Tenstorrent unveils Grayskull, its RISC-V answer to GPUs](https://www.techradar.com/pro/firm-headed-by-legendary-chip-architect-behind-amd-zen-finally-releases-first-hardware-days-after-being-selected-to-build-the-future-of-ai-in-japan-tenstorrent-unveils-grayskull-its-risc-v-answer-to-gpus)
+[The Fashion Police in 16th-century Italy (2014)](https://www.medievalists.net/2014/10/fashion-police-16th-century-italy/)
+
+[Controlling 3.6kW of Solar EV Charging with an Arduino GIGA R1 WiFi](https://blog.arduino.cc/2024/03/04/controlling-3-6kw-of-solar-ev-charging-with-an-arduino-giga-r1-wifi/)
 
 [Show HN: LlamaGym – fine-tune LLM agents with online reinforcement learning](https://github.com/KhoomeiK/LlamaGym)
 
-[Do we need swap on modern systems? (2017)](https://www.redhat.com/en/blog/do-we-really-need-swap-modern-systems)
+[Moore on Moore – The past, present and uncertain future of Moore's Law](https://thechipletter.substack.com/p/moore-on-moore)
 
-[Bell Labs: An Institute of Creative Technology (2015)](https://sts10.github.io/2015/09/14/bell-labs-the-idea-factory.html)
+[DBeaver – open-source database client](https://github.com/dbeaver/dbeaver)
 
-[Iris (Infra-Red, in Situ) Silicon Verification Project Updates](https://www.bunniestudios.com/blog/?p=6937)
+[A neural code for time and space in the human brain [pdf]](https://www.cell.com/cell-reports/pdf/S2211-1247(23)01250-0.pdf)
 
-[BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-
-[The No Symbol: The History of the Red Circle-Slash](https://tedium.co/2024/03/09/red-circle-slash-no-symbol-history/)
+[Kernel Hardening – Protect Linux User Accounts Against Brute Force Attacks](https://github.com/Kicksecure/security-misc)

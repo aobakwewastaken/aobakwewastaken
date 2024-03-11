@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[You don't need a database, a queue, a distributed system: Go is enough](https://simonedutto.github.io/2024-03-09/binary-duel)
+[GrapheneOS finds Bluetooth memory corruption via ARM MTE](https://grapheneos.social/@GrapheneOS/112066872276203917)
 
-[A TUI Git client inspired by Magit](https://github.com/altsem/gitu)
+[Building an Open Source Decentralized E-Book Search Engine](https://github.com/j2qk3b/ebook-demo/blob/main/tutorial.md)
 
-[How to Write a (Lisp) Interpreter (In Python) (2010)](https://www.norvig.com/lispy.html)
+[Execute formulas stored in database fields with almost standard SQL](https://www.colbert.nl/formulas-in-fields/)
 
-[European Commission's use of Microsoft 365 infringes data protection law for EU](https://www.edps.europa.eu/press-publications/press-news/press-releases/2024/european-commissions-use-microsoft-365-infringes-data-protection-law-eu-institutions-and-bodies_en)
+[Flowers for Algernon (1965) [pdf]](https://www.sdfo.org/gj/stories/flowersforalgernon.pdf)
 
-[Maybe Functions](https://blog.benwinding.com/maybe-functions/)
+[(How to Write a (Lisp) Interpreter (In Python)) (2010)](https://www.norvig.com/lispy.html)
 
-[Humanity Is Dangerously Pushing Its Ability to Tolerate Heat](https://www.wired.com/story/extreme-heat-tolerance/)
+[Show HN: Teable – Open-Source No-Code Database Fusion of Postgres and Airtable](https://github.com/teableio/teable)
 
-[Monte-Carlo graph search from first principles](https://github.com/lightvector/KataGo/blob/master/docs/GraphSearch.md)
+[EV Charging Points in America Are Finally Making Money](https://oilprice.com/Latest-Energy-News/World-News/EV-Charging-Points-in-America-Are-Finally-Making-Money.html)
 
 [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)
 
-[How the Devteam Conquered the iPhone](https://fabiensanglard.net/iSummer/)
+[Fern (YC W23) is hiring a deployed engineer in NYC](https://www.ycombinator.com/companies/fern/jobs/6J4HE6G-deployed-engineer)
 
-[The Best Essay](https://paulgraham.com/best.html)
+[How the Devteam Conquered the iPhone](https://fabiensanglard.net/iSummer/)

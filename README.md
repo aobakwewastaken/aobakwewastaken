@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Show HN: RE3 – Reversed Engineered GTA3 Source Code](https://github.com/halpz/re3)
+[How to Write a (Lisp) Interpreter (In Python)](https://www.norvig.com/lispy.html)
 
 [Monte-Carlo graph search from first principles](https://github.com/lightvector/KataGo/blob/master/docs/GraphSearch.md)
 
-[LocalSend: Open-source, cross-platform file sharing to nearby devices](https://localsend.org)
-
-[The Best Essay](https://paulgraham.com/best.html)
+[Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)
 
 [How the Devteam Conquered the iPhone](https://fabiensanglard.net/iSummer/)
 
-[Open-source Rust-based RAG](https://github.com/devflowinc/trieve)
+[The Best Essay](https://paulgraham.com/best.html)
 
 [Perf Is Not Enough](https://motherduck.com/blog/perf-is-not-enough/)
 
+[The true, dramatic story of Robert Downey Jr.'s 'Oppenheimer' villain](https://www.washingtonpost.com/history/2024/03/09/lewis-strauss-oppenheimer-true-story-robert-downey/)
+
 [Rebuilding memchess.com from its archive](https://grondilu.github.io/memchess/)
 
-[Kernel Hardening: Protect Linux user accounts against brute force attacks](https://github.com/Kicksecure/security-misc)
+[LocalSend: Open-source, cross-platform file sharing to nearby devices](https://localsend.org)
 
-[Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)
+[The Fashion Police in 16th-century Italy (2014)](https://www.medievalists.net/2014/10/fashion-police-16th-century-italy/)

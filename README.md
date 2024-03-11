@@ -1,5 +1,15 @@
 # Top Stories on hackernews <br />
-[How to Write a (Lisp) Interpreter (In Python)](https://www.norvig.com/lispy.html)
+[You don't need a database, a queue, a distributed system: Go is enough](https://simonedutto.github.io/2024-03-09/binary-duel)
+
+[A TUI Git client inspired by Magit](https://github.com/altsem/gitu)
+
+[How to Write a (Lisp) Interpreter (In Python) (2010)](https://www.norvig.com/lispy.html)
+
+[European Commission's use of Microsoft 365 infringes data protection law for EU](https://www.edps.europa.eu/press-publications/press-news/press-releases/2024/european-commissions-use-microsoft-365-infringes-data-protection-law-eu-institutions-and-bodies_en)
+
+[Maybe Functions](https://blog.benwinding.com/maybe-functions/)
+
+[Humanity Is Dangerously Pushing Its Ability to Tolerate Heat](https://www.wired.com/story/extreme-heat-tolerance/)
 
 [Monte-Carlo graph search from first principles](https://github.com/lightvector/KataGo/blob/master/docs/GraphSearch.md)
 
@@ -8,13 +18,3 @@
 [How the Devteam Conquered the iPhone](https://fabiensanglard.net/iSummer/)
 
 [The Best Essay](https://paulgraham.com/best.html)
-
-[Perf Is Not Enough](https://motherduck.com/blog/perf-is-not-enough/)
-
-[The true, dramatic story of Robert Downey Jr.'s 'Oppenheimer' villain](https://www.washingtonpost.com/history/2024/03/09/lewis-strauss-oppenheimer-true-story-robert-downey/)
-
-[Rebuilding memchess.com from its archive](https://grondilu.github.io/memchess/)
-
-[LocalSend: Open-source, cross-platform file sharing to nearby devices](https://localsend.org)
-
-[The Fashion Police in 16th-century Italy (2014)](https://www.medievalists.net/2014/10/fashion-police-16th-century-italy/)

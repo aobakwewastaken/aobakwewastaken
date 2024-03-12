@@ -5,7 +5,7 @@
 
 [Show HN: I made a free animator. Think Adobe Illustrator but for animation](https://www.trangram.com)
 
-[Webb and Hubble confirm Universe's expansion rate](https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_confirm_Universe_s_expansion_rate)
+[The Bevy Foundation](https://bevyengine.org/news/bevy-foundation/)
 
 [Breaking Down Tasks](https://jacobian.org/2024/mar/11/breaking-down-tasks/)
 
@@ -13,8 +13,8 @@
 
 [OpenAI – transformer debugger release](https://github.com/openai/transformer-debugger)
 
+[Is Cosine-Similarity of Embeddings Really About Similarity?](https://arxiv.org/abs/2403.05440)
+
+[Ultratec Technology Timeline](https://www.ultratec.com/about/timeline/)
+
 [Simpson's paradox](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
-
-[Diffusion models from scratch, from a new theoretical perspective](https://www.chenyang.co/diffusion.html)
-
-[Launch HN: Onedoc (YC W24) – A better way to create PDFs](https://github.com/OnedocLabs/react-print-pdf)

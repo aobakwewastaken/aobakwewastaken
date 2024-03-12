@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[More options for apps distributed in the European Union](https://developer.apple.com/news/?id=8c1m8hqt)
+[Building Meta's GenAI infrastructure](https://engineering.fb.com/2024/03/12/data-center-engineering/building-metas-genai-infrastructure/)
 
-[Deterministic Simulation Testing for Our Entire SaaS](https://www.warpstream.com/blog/deterministic-simulation-testing-for-our-entire-saas)
+[How Mandelbrot set images are affected by floating point precision](https://github.com/ProfJski/FloatCompMandelbrot)
 
-[Cloning a Laptop over NVMe TCP](https://copyninja.in/blog/clone_laptop_nvmet.html)
+[Launch HN: Glide (YC W24) – AI-assisted technical design docs]()
 
-[Show HN: I made a free animator. Think Adobe Illustrator but for animation](https://www.trangram.com)
+[How to colorize Game Boy games – Backgrounds](https://toruzz.com/blog/how-to-colorize-gb-games-04/)
 
-[Shields up: New ideas might make active shielding viable](https://arstechnica.com/science/2024/03/shields-up-new-ideas-might-make-active-shielding-viable/)
+[Vulkan Foliage rendering using GPU Instancing](https://www.thegeeko.me/blog/foliage-rendering)
 
-[The Bevy Foundation](https://bevyengine.org/news/bevy-foundation/)
+[Screen Space Reflection](https://zznewclear13.github.io/posts/screen-space-reflection-en/)
 
-[A double emergence of periodical cicadas isn’t cicada-geddon – It’s a marvel](https://www.scientificamerican.com/article/a-double-brood-of-periodical-cicadas-will-emerge-in-2024/)
+[Chyrp Lite – An Ultra-Lightweight Tumblelogging Engine Using PHP and SQLite](https://chyrplite.net/)
 
-[Not just humans: Bees and chimps can also pass on their skills](https://phys.org/news/2024-03-humans-bees-chimps-skills.html)
+[Weather forecasts have become more accurate](https://ourworldindata.org/weather-forecasts)
 
-[OpenAI – transformer debugger release](https://github.com/openai/transformer-debugger)
+[Apple announces ability to download apps directly from websites in EU](https://www.macrumors.com/2024/03/12/apple-announces-app-downloads-from-websites/)
 
-[Unix and Beyond: An Interview with Ken Thompson (1999)](https://www.cs.princeton.edu/courses/archive/spring03/cs333/thompson)
+[Deterministic simulation testing for our entire SaaS](https://www.warpstream.com/blog/deterministic-simulation-testing-for-our-entire-saas)

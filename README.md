@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[JIT WireGuard](https://fly.io/blog/jit-wireguard-peers/)
+
+[Nvtop: Linux Task Monitor for Nvidia, AMD and Intel GPUs](https://github.com/Syllo/nvtop)
+
+[Technical Manual TM 11-410: The Homing Pigeon (1945)](https://www.gutenberg.org/files/55084/55084-h/55084-h.htm)
+
+[Bluesky's stackable approach to moderation](https://bsky.social/about/blog/03-12-2024-stackable-moderation)
+
 [Building Meta's GenAI infrastructure](https://engineering.fb.com/2024/03/12/data-center-engineering/building-metas-genai-infrastructure/)
+
+[Large Language Models Are Neurosymbolic Reasoners](https://arxiv.org/abs/2401.09334)
 
 [How Mandelbrot set images are affected by floating point precision](https://github.com/ProfJski/FloatCompMandelbrot)
 
+[Show HN: Creating custom coloring pages from photos. Great for parents/teachers](https://portraitart.app/photo-to-coloring-page)
+
+[Multi-Threading and Mutation](https://www.rfleury.com/p/multi-threading-and-mutation)
+
 [Launch HN: Glide (YC W24) – AI-assisted technical design docs]()
-
-[How to colorize Game Boy games – Backgrounds](https://toruzz.com/blog/how-to-colorize-gb-games-04/)
-
-[Vulkan Foliage rendering using GPU Instancing](https://www.thegeeko.me/blog/foliage-rendering)
-
-[Screen Space Reflection](https://zznewclear13.github.io/posts/screen-space-reflection-en/)
-
-[Chyrp Lite – An Ultra-Lightweight Tumblelogging Engine Using PHP and SQLite](https://chyrplite.net/)
-
-[Weather forecasts have become more accurate](https://ourworldindata.org/weather-forecasts)
-
-[Apple announces ability to download apps directly from websites in EU](https://www.macrumors.com/2024/03/12/apple-announces-app-downloads-from-websites/)
-
-[Deterministic simulation testing for our entire SaaS](https://www.warpstream.com/blog/deterministic-simulation-testing-for-our-entire-saas)

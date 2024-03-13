@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Show HN: A user-friendly UI for viewing and editing Markdown files](https://marker.pages.dev/)
+[A world from a sheet of paper (2023) [video]](https://www.youtube.com/watch?v=8p02DtmyQhU)
 
-[Auto Makers Are Selling Data on Your Driving Habits to Your Insurer](https://www.techdirt.com/2024/03/13/auto-makers-are-selling-data-on-your-driving-habits-to-your-insurer-without-properly-informing-you/)
+[Show HN: Flox 1.0 – Open-source dev env as code with Nix](https://github.com/flox/flox)
 
-[JIT WireGuard](https://fly.io/blog/jit-wireguard-peers/)
+[A generalist AI agent for 3D virtual environments](https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/)
 
-[Google SIMA](https://twitter.com/GoogleDeepMind/status/1767918515585994818)
+[How photos were transmitted by wire in the 1930s](https://kottke.org/24/03/how-photos-were-transmitted-by-wire-in-the-1930s)
 
-[Paul Alexander, ‘the man in the iron lung’, has died](https://www.bbc.com/news/world-us-canada-68555051)
+[Lemonade Stand](https://possiblywrong.wordpress.com/2024/03/12/lemonade-stand/)
 
-[Nvtop: Linux Task Monitor for Nvidia, AMD and Intel GPUs](https://github.com/Syllo/nvtop)
+[How Arnold Schoenberg changed Hollywood](https://www.newyorker.com/magazine/2024/03/18/how-arnold-schoenberg-changed-hollywood)
 
-[DeepMind AI Plays Goat Simulator and No Man's Sky](https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/)
+[Claude 3 Haiku: our fastest model yet](https://www.anthropic.com/news/claude-3-haiku)
 
-[I'm Excited about Darklang](https://stachu.net/im-really-excited-about-darklang/)
+[IBM and NASA build language models to make scientific knowledge more accessible](https://research.ibm.com/blog/science-expert-LLM)
 
-[Figure 01 robot demos its OpenAI integration](https://twitter.com/figure_robot/status/1767913661253984474)
+[Marcel Grossmann and his contribution to the general theory of relativity](https://ar5iv.labs.arxiv.org/html/1312.4068)
 
-[Proof of the Singular Value Decomposition](https://gregorygundersen.com/blog/2018/12/20/svd-proof/)
+[Mass timber is great, but it will not solve the housing shortage](https://www.construction-physics.com/p/mass-timber-is-great-but-it-will)

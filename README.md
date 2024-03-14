@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[The Good Soldier Švejk (2018)](https://blogs.loc.gov/international-collections/2018/03/the-good-soldier-vejk/)
+[How Figma's databases team lived to tell the scale](https://www.figma.com/blog/how-figmas-databases-team-lived-to-tell-the-scale/)
 
-[Swirling Forces, Crushing Pressures Measured in the Proton](https://www.quantamagazine.org/swirling-forces-crushing-pressures-measured-in-the-proton-20240314/)
+[Show HN: Skyvern – Browser automation using LLMs and computer vision](https://github.com/Skyvern-AI/skyvern)
 
-[Reverse engineering a car key fob signal](https://0x44.cc/radio/2024/03/13/reversing-a-car-key-fob-signal.html)
+[The Mythical Non-Roboticist](https://generalrobots.substack.com/p/the-mythical-non-roboticist)
+
+[CEO of data privacy company Onerep.com founded dozens of people-search firms](https://krebsonsecurity.com/2024/03/ceo-of-data-privacy-company-onerep-com-founded-dozens-of-people-search-firms/)
+
+[Real time weather balloon tracking](https://sondehub.org)
+
+[Learning From DNA: a grand challenge in biology](https://hazyresearch.stanford.edu/blog/2024-03-14-evo)
+
+[Launch HN: Meticulate (YC W24) – LLM pipelines for business research]()
 
 [Spreadsheets are all you need](https://spreadsheets-are-all-you-need.ai/index.html)
 
-[Chainguard Images now available on Docker Hub](https://www.chainguard.dev/unchained/chainguard-images-now-available-on-docker-hub)
+[The Good Soldier Švejk (2018)](https://blogs.loc.gov/international-collections/2018/03/the-good-soldier-vejk/)
 
-[Performance-Aware Programming Series](https://www.computerenhance.com/p/table-of-contents)
-
-[Voyager 1 starts making sense again after months of babble](https://www.theregister.com/2024/03/14/voyager_1_not_dead/)
-
-[Oregon Passes Right to Repair Law Apple Lobbied to Kill](https://www.techdirt.com/2024/03/13/oregon-passes-right-to-repair-law-apple-lobbied-to-kill/)
-
-[I summarized my understanding of Linux systems](https://github.com/lsc4719/MyViewOfLinuxSystems)
-
-[Show HN: PyKidos, Teach Your Kid Python in the Browser](https://pykidos.github.io/)
+[Reverse engineering a car key fob signal](https://0x44.cc/radio/2024/03/13/reversing-a-car-key-fob-signal.html)

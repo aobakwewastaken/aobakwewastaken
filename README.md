@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[John Barnett before death "if anything happens, it's not suicide", claims friend](https://abcnews4.com/news/local/if-anything-happens-its-not-suicide-boeing-whistleblowers-prediction-before-death-south-carolina-abc-news-4-2024)
+[What Every User Should Know About Mixed Precision Training in PyTorch](https://pytorch.org/blog/what-every-user-should-know-about-mixed-precision-training-in-pytorch/)
 
 [TextSnatcher: Copy text from images, for the Linux Desktop](https://github.com/RajSolai/TextSnatcher)
 
 [The Oregon Outback International Dark Sky Sanctuary](https://www.hereisoregon.com/experiences/2024/03/oregon-outback-is-now-the-largest-dark-sky-sanctuary-in-the-world.html)
 
-[Show HN: Skyvern – Browser automation using LLMs and computer vision](https://github.com/Skyvern-AI/skyvern)
-
-[The Getty makes nearly 88k art images free to use](https://www.openculture.com/2024/03/the-getty-makes-nearly-88000-art-images-free-to-use-however-you-like.html)
+[The Mathematical Movie Database](https://www.qedcat.com/moviemath/index.html)
 
 [More powerful Go execution traces](https://go.dev/blog/execution-traces-2024)
 
-[Why are most sofas so bad?](https://www.dwell.com/article/dtc-sofa-crisis-32304b9e)
+[Photoroom (YC S20) Is Hiring a Front End State Architect in Paris (Mobx, React)](https://jobs.lever.co/photoroom/fb70ca3c-632f-4b1b-b6e2-004f0240011d?lever-origin=applied&lever-source%5B%5D=yc)
+
+[The Getty makes nearly 88k art images free to use](https://www.openculture.com/2024/03/the-getty-makes-nearly-88000-art-images-free-to-use-however-you-like.html)
+
+[Berlin's techno scene added to Unesco intangible cultural heritage list](https://www.theguardian.com/world/2024/mar/15/berlins-techno-scene-added-to-unesco-intangible-cultural-heritage-list)
 
 [Spreadsheets are all you need](https://spreadsheets-are-all-you-need.ai/index.html)
 
 [CEO of data privacy company Onerep.com founded dozens of people-search firms](https://krebsonsecurity.com/2024/03/ceo-of-data-privacy-company-onerep-com-founded-dozens-of-people-search-firms/)
-
-[New York disbars infamous copyright troll](https://abovethelaw.com/2024/03/new-york-disbars-infamous-copyright-troll/)

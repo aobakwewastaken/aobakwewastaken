@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[How Figma's databases team lived to tell the scale](https://www.figma.com/blog/how-figmas-databases-team-lived-to-tell-the-scale/)
+[John Barnett before death "if anything happens, it's not suicide", claims friend](https://abcnews4.com/news/local/if-anything-happens-its-not-suicide-boeing-whistleblowers-prediction-before-death-south-carolina-abc-news-4-2024)
+
+[TextSnatcher: Copy text from images, for the Linux Desktop](https://github.com/RajSolai/TextSnatcher)
+
+[The Oregon Outback International Dark Sky Sanctuary](https://www.hereisoregon.com/experiences/2024/03/oregon-outback-is-now-the-largest-dark-sky-sanctuary-in-the-world.html)
 
 [Show HN: Skyvern – Browser automation using LLMs and computer vision](https://github.com/Skyvern-AI/skyvern)
 
-[The Mythical Non-Roboticist](https://generalrobots.substack.com/p/the-mythical-non-roboticist)
+[The Getty makes nearly 88k art images free to use](https://www.openculture.com/2024/03/the-getty-makes-nearly-88000-art-images-free-to-use-however-you-like.html)
 
-[CEO of data privacy company Onerep.com founded dozens of people-search firms](https://krebsonsecurity.com/2024/03/ceo-of-data-privacy-company-onerep-com-founded-dozens-of-people-search-firms/)
+[More powerful Go execution traces](https://go.dev/blog/execution-traces-2024)
 
-[Real time weather balloon tracking](https://sondehub.org)
-
-[Learning From DNA: a grand challenge in biology](https://hazyresearch.stanford.edu/blog/2024-03-14-evo)
-
-[Launch HN: Meticulate (YC W24) – LLM pipelines for business research]()
+[Why are most sofas so bad?](https://www.dwell.com/article/dtc-sofa-crisis-32304b9e)
 
 [Spreadsheets are all you need](https://spreadsheets-are-all-you-need.ai/index.html)
 
-[The Good Soldier Švejk (2018)](https://blogs.loc.gov/international-collections/2018/03/the-good-soldier-vejk/)
+[CEO of data privacy company Onerep.com founded dozens of people-search firms](https://krebsonsecurity.com/2024/03/ceo-of-data-privacy-company-onerep-com-founded-dozens-of-people-search-firms/)
 
-[Reverse engineering a car key fob signal](https://0x44.cc/radio/2024/03/13/reversing-a-car-key-fob-signal.html)
+[New York disbars infamous copyright troll](https://abovethelaw.com/2024/03/new-york-disbars-infamous-copyright-troll/)

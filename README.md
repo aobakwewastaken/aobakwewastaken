@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[GhostRace: Exploiting and Mitigating Speculative Race Conditions](https://www.vusec.net/projects/ghostrace/)
+[On clock faces, 4 is Expressed as IIII, not IV](https://museum.seiko.co.jp/en/knowledge/trivia02/)
+
+[Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
+
+[GhostRace: Exploiting and mitigating speculative race conditions](https://www.vusec.net/projects/ghostrace/)
+
+[Ovid's myths of macOS: password entry dialogs and the death of Semele](https://eclecticlight.co/2024/03/14/ovids-myths-of-macos-password-entry-dialogs-and-the-death-of-semele/)
 
 [Ollama now supports AMD graphics cards](https://ollama.com/blog/amd-preview)
 
-[Great Ideas in Theoretical Computer Science](https://www.cs251.com)
+[An alternate pattern-matching conditional for Elisp](https://lwn.net/Articles/961682/)
 
-[Stashpad launches Google Docs alternative you can use without any login](https://techcrunch.com/2024/03/13/dev-focused-note-taking-startup-stashpad-launches-google-docs-alternative-you-can-use-without-any-login/)
+[Nix is a better Docker image builder than Docker's image builder](https://xeiaso.net/talks/2024/nix-docker-build/)
 
-[Tiny bitfield based text renderer (2022)](https://www.onirom.fr/wiki/blog/25-09-2022_tiny_bitfield_based_text_renderer/)
+[Show HN: Open-source, browser-local data exploration using DuckDB-WASM and PRQL](https://github.com/pretzelai/pretzelai)
 
-[Sunlight, a Certificate Transparency log implementation](https://letsencrypt.org/2024/03/14/introducing-sunlight.html)
+[Abnormal brain structure seen in children with developmental language issues](https://medicalxpress.com/news/2024-03-abnormal-brain-children-developmental-language.html)
 
-[OpenVPN Is Open to VPN Fingerprinting](https://arxiv.org/abs/2403.03998)
-
-[Show HN: Matrix Multiplication with Half the Multiplications](https://github.com/trevorpogue/algebraic-nnhw)
-
-[DBOS Operating System](https://www.dbos.dev/)
-
-[Compressing Chess Moves for Fun and Profit](https://mbuffett.com/posts/compressing-chess-moves/)
+[Great ideas in theoretical computer science](https://www.cs251.com)

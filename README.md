@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[The return of the frame pointers](https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html)
+
 [How web bloat impacts users with slow devices](https://danluu.com/slow-device/)
 
-[Fuzzing Ladybird with tools from Google Project Zero](https://awesomekling.substack.com/p/fuzzing-ladybird-with-tools-from)
+[How Microchips Work](https://exclusivearchitecture.com/03-technical-articles-IC-00-table-of-contents.html)
 
-[Parsing URLs in Python](https://tkte.ch/articles/2024/03/15/parsing-urls-in-python.html)
+[Debloat non-rooted Android devices](https://github.com/0x192/universal-android-debloater)
+
+[A JavaScript Nightmare](https://blog.ignaciobrasca.com/opinion/2024/03/15/javascript-nightmare.html)
+
+[We were wizards – a foreword to Learning Perl](https://jwgoerlich.com/we-were-wizards-learning-perl/)
+
+[U.S. is investigating Meta for role in drug sales](https://www.wsj.com/tech/u-s-is-investigating-meta-for-role-in-drug-sales-574944cb)
 
 [IBM 360 in UK need a home](https://www.ibm360.co.uk/)
 
-[Georg Cantor and His Heritage](https://arxiv.org/abs/math/0209244)
+[Passkeys – Under the Hood](https://research.kudelskisecurity.com/2024/03/14/passkeys-under-the-hood/)
 
-[Show HN: Flash Attention in ~100 lines of CUDA](https://github.com/tspeterkim/flash-attention-minimal)
-
-[Lambda on hard mode: serverless HTTP in Rust](https://modal.com/blog/serverless-http)
-
-[The Economics of Pirate Radio (2020)](https://ibhof.blogspot.com/2020/01/the-economics-of-pirate-radio.html)
-
-[Affordable Wheel Based Refreshable Braille Display](https://jacquesmattheij.com/refreshablebraille/BrailleDisplayProject.html)
-
-[Show HN: Richard – A CNN written in C++ and Vulkan (no ML or math libs)](https://github.com/robjinman/richard)
+[Low-tech Magazine underscores the potential of past technologies](https://solar.lowtechmagazine.com/)

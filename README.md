@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Grok](https://github.com/xai-org/grok)
+
+[When Armor Met Lips](https://crookedtimber.org/2024/03/16/occasional-paper-when-armor-met-lips)
+
+[Superiority by Arthur C. Clarke](https://metallicman.com/laoban4site/superiority-by-arthur-c-clarke-full-text/)
+
+[Nanofont3x4: Smallest readable 3x4 font with lowercase](https://github.com/Michaelangel007/nanofont3x4)
+
+[Optimize CSS with SAT Solving](https://github.com/matthewhague/sat-css-tool)
+
 [LLM4Decompile: Decompiling Binary Code with LLM](https://github.com/albertan017/LLM4Decompile)
 
-[The return of the frame pointers](https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html)
+[2600.network Dialup Service](https://2600.network/)
 
-[Gravitational Collapse of Spongebob](https://twitter.com/PeRossello/status/1769035370031694214)
+[Meticulous (YC S21) is hiring to eliminate UI tests]()
 
-[What are the "worst" spelling bee pangrams?](https://notes.billmill.org/blog/2024/03/What_are_the__worst__spelling_bee_pangrams_.html)
+[Compressing Images with Neural Networks](https://mlumiste.com/technical/compression-deep-learning/)
 
-[Flemish Proverbs by Jan Wierix (ca. 1568)](https://publicdomainreview.org/collection/wierix-flemish-proverbs/)
-
-[Mars Has Influence on Earth's Oceans and Climate, Repeating Every 2.4M Years](https://www.smithsonianmag.com/smart-news/mars-has-an-unexpected-influence-on-earths-oceans-and-climate-repeating-every-24-million-years-study-finds-180983952/)
-
-[Using ChatGPT for Podcast Suggestions](https://ryanbuening.com/posts/chatgpt-for-podcast-suggestions/)
-
-[How Microchips Work](https://exclusivearchitecture.com/03-technical-articles-IC-00-table-of-contents.html)
-
-[Imitation Learning (2023)](https://geohot.github.io//blog/jekyll/update/2023/11/18/imitation-learning.html)
-
-[Low-tech Magazine underscores the potential of past technologies](https://solar.lowtechmagazine.com/)
+[Vector: A high-performance observability data pipeline](https://github.com/vectordotdev/vector)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Stability.ai – Introducing Stable Video 3D](https://stability.ai/news/introducing-stable-video-3d)
+
+[YouTube now requires to label their realistic-looking videos made using AI](https://blog.google/intl/en-in/products/platforms/how-were-helping-creators-disclose-altered-or-synthetic-content/)
+
+[Show HN: Extend Zigbee sensor range with LoRaWAN](https://github.com/lorabridge)
+
+[Compiling with Constraints](https://www.philipzucker.com/compile_constraints/)
+
+[RP2040 Boot Sequence](https://vanhunteradams.com/Pico/Bootloader/Boot_sequence.html)
+
+[Nvidia announces its most powerful AI chip as it seeks to become a platform co.](https://www.cnbc.com/2024/03/18/nvidia-announces-gb200-blackwell-ai-chip-launching-later-this-year.html)
+
 [Cranelift code generation comes to Rust](https://lwn.net/SubscriberLink/964735/8b795f23495af1d4/)
 
-[Look ma, I wrote a new JIT compiler for PostgreSQL](https://www.pinaraf.info/2024/03/look-ma-i-wrote-a-new-jit-compiler-for-postgresql/)
+[Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 
 [Optimizing the Particle Life: From 400 to 4M particles](https://programmingattack.com/articles/optimizing-the-article-life-from-a-thousand-to-a-milion-particles)
 
-[Empty Frames and Other Oddities from the Unsolved Gardner Museum Heist](https://www.nytimes.com/2024/03/18/arts/design/unsolved-gardner-museum-heist.html)
-
-[Transpile Any SQL to PostgreSQL Dialect](https://gitlab.com/dalibo/transqlate)
-
-[Elegant open source project tracking, Trello like but self-hosted](https://github.com/plankanban/planka)
-
-[Tick-killing pill shows promising results in human trial](https://arstechnica.com/science/2024/03/tick-killing-pill-shows-promising-results-in-human-trial/)
-
-[Ancient Texts Can Shed Light on Auroras](https://www.smithsonianmag.com/science-nature/inside-the-quest-to-find-evidence-of-auroras-in-ancient-texts-180983844/)
-
-[Thoughts on the Future of Software Development](https://www.sheshbabu.com/posts/thoughts-on-the-future-of-software-development/)
-
-[Instinctive Sleeping and Resting Postures (2000)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1119282/)
+[How I replaced deadly garage door torsion springs (2002)](https://www.truetex.com/garage.htm)

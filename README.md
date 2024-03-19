@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[LaTeX3 Automatic Labels for Fun and No Profit](https://commutative.xyz/~miguelmurca/blog/x/autoref.html)
+[How to Start Google](https://paulgraham.com/google.html)
 
 [BootLogo: Logo language in 508 bytes of x86 machine code](https://github.com/nanochess/bootLogo)
 
-[USB hubs, printers, Java, and more seemingly broken by macOS 14.4 update](https://arstechnica.com/gadgets/2024/03/usb-hubs-printers-java-and-more-seemingly-broken-by-macos-14-4-update/)
+[Launch HN: Okapi (YC W24) – A new, flexible CRM with good UX]()
 
-[ESA' Euclid Telescope Has an Ice Problem](https://europeanspaceflight.com/esa-euclid-telescope-has-an-ice-problem/)
+[Understanding Google's File System (2020)](https://www.micahlerner.com/2020/03/22/understanding-googles-file-system.html)
+
+[Show HN: Causal 2.0 – Modern Financial Planning for Startups](https://causal.app)
+
+[New Intermediate Certificates](https://letsencrypt.org/2024/03/19/new-intermediate-certificates.html)
+
+[Java 22 Released](https://mail.openjdk.org/pipermail/jdk-dev/2024-March/008827.html)
 
 [Astronaut Thomas Stafford has died](https://apnews.com/article/apollo-10-astronaut-tom-stafford-18600e218bd145ce99a3605b35df7b8c)
 
+[Operations begin to de-ice Euclid’s vision](https://www.esa.int/Science_Exploration/Space_Science/Euclid/Operations_begin_to_de-ice_Euclid_s_vision)
+
 [Gaining kernel code execution on an MTE-enabled Pixel 8](https://github.blog/2024-03-18-gaining-kernel-code-execution-on-an-mte-enabled-pixel-8/)
-
-[Garnet – A new remote cache-store from Microsoft Research](https://github.com/microsoft/garnet)
-
-[Ask HN: How should organize and back up 23 TiB of personal files?]()
-
-[How do neural networks learn?](https://phys.org/news/2024-03-neural-networks-mathematical-formula-relevant.html)
-
-[20 Years of "Not Even Wrong"](https://www.math.columbia.edu/~woit/wordpress/?p=13864)

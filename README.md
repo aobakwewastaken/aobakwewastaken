@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Lego price per part over the years](https://brickinsights.com/statistics/ppp)
+
+[Natural language instructions induce generalization in networks of neurons](https://www.nature.com/articles/s41593-024-01607-5)
+
+[Intel 8080 emulator. 19th IOCCC. Best of Show](https://nanochess.org/emulator.html)
+
+[Unconventional Uses of FPGAs](https://voltagedivide.com/2024/03/18/unconventional-uses-of-fpgas/)
+
+[The Mechanics of Proof](https://hrmacbeth.github.io/math2001/index.html)
+
+[Dual-Clutch Transmission: Wet or Dry?](https://www.transmissiondigest.com/dct-dual-clutch-transmission-wet-or-dry/)
+
+[Draft Paper Discovered in Which Joseph Weizenbaum Envisions ELIZA's Applications](https://sites.google.com/view/elizagen-org/news#h.ykbzq5nuiccs)
+
+[New algorithm unlocks high-resolution insights for computer vision](https://news.mit.edu/2024/featup-algorithm-unlocks-high-resolution-insights-computer-vision-0318)
+
+[Retina – eBPF distributed networking observability tool for Kubernetes](https://github.com/microsoft/retina)
+
 [How to Start Google](https://paulgraham.com/google.html)
-
-[BootLogo: Logo language in 508 bytes of x86 machine code](https://github.com/nanochess/bootLogo)
-
-[Launch HN: Okapi (YC W24) – A new, flexible CRM with good UX]()
-
-[Understanding Google's File System (2020)](https://www.micahlerner.com/2020/03/22/understanding-googles-file-system.html)
-
-[Show HN: Causal 2.0 – Modern Financial Planning for Startups](https://causal.app)
-
-[New Intermediate Certificates](https://letsencrypt.org/2024/03/19/new-intermediate-certificates.html)
-
-[Java 22 Released](https://mail.openjdk.org/pipermail/jdk-dev/2024-March/008827.html)
-
-[Astronaut Thomas Stafford has died](https://apnews.com/article/apollo-10-astronaut-tom-stafford-18600e218bd145ce99a3605b35df7b8c)
-
-[Operations begin to de-ice Euclid’s vision](https://www.esa.int/Science_Exploration/Space_Science/Euclid/Operations_begin_to_de-ice_Euclid_s_vision)
-
-[Gaining kernel code execution on an MTE-enabled Pixel 8](https://github.blog/2024-03-18-gaining-kernel-code-execution-on-an-mte-enabled-pixel-8/)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Flightradar24's new GPS jamming map](https://www.flightradar24.com/blog/gps-jamming-map/)
+
+[Suspicious discontinuities (2020)](https://danluu.com/discontinuities/)
+
+[Launch HN: CamelQA (YC W24) – AI that tests mobile apps]()
+
 [Rive Renderer for real-time vector graphics is now open source](https://rive.app/blog/rive-renderer-now-open-source-and-available-on-all-platforms)
 
-[US Gov announces $8.5B preliminary CHIPS investment agreement with Intel](https://www.commerce.gov/news/press-releases/2024/03/biden-harris-administration-announces-preliminary-terms-intel-support)
+[Google Scholar PDF Reader](https://scholar.googleblog.com/2024/03/supercharge-your-pdf-reading-follow.html)
 
-[Michel Talagrand Wins Abel Prize for Work Wrangling Randomness](https://www.quantamagazine.org/michel-talagrand-wins-abel-prize-for-work-wrangling-randomness-20240320/)
+[Got my ultimate retro KVM setup working](https://rubenerd.com/finally-got-my-ultimate-retro-kvm-setup-working/)
 
-[Regex character "$" doesn't mean "end-of-string"](https://sethmlarson.dev/regex-$-matches-end-of-string-or-newline)
+[Blocklist that contain AI generated content for uBlock Origin and uBlacklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
 
-[Focus by Automation](https://myme.no/posts/2024-03-19-focus-by-automation.html)
+[Intel to Receive $8.5B in Grants to Build Chip Plants](https://www.nytimes.com/2024/03/20/us/politics/chips-act-grant-intel.html)
 
-[Lcl.host: fast, easy HTTPS in your local dev environment](https://anchor.dev/blog/introducing-lcl-host)
+[Parrots love playing tablet games. That's helping researchers understand them](https://news.northeastern.edu/2024/03/20/parrots-playing-tablet-games/)
 
-[RStudio: Integrated development environment (IDE) for R](https://github.com/rstudio/rstudio)
-
-[Space Shuttle teleprinter reverse engineering](https://twitter.com/kenshirriff/status/1770188240777044079)
-
-[So you think you want to write a deterministic hypervisor?](https://antithesis.com/blog/deterministic_hypervisor/)
-
-[Paris preserves its mixed society by pouring billions into public housing](https://www.nytimes.com/2024/03/17/realestate/paris-france-housing-costs.html)
+[Encyclopaedia Britannica Seeking $1B Valuation in IPO](https://www.bloomberg.com/news/articles/2024-03-18/encyclopaedia-britannica-seeking-1-billion-valuation-in-ipo)

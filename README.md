@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Picotron Is a Fantasy Workstation](https://www.lexaloffle.com/picotron.php)
+[OpenCat: Open-source robotic pet quadruped framework](https://www.petoi.com/pages/opencat-open-source-robot-pet-framework)
 
-[Show HN: Mapping almost every law, regulation and case in Australia](https://umarbutler.com/mapping-almost-every-law-regulation-and-case-in-australia/)
+[Launch HN: DryMerge (YC W24) – Automate Workflows with Plain English]()
 
-[Why is it so hard to build an airport?](https://www.construction-physics.com/p/why-is-it-so-hard-to-build-an-airport)
+[Designing a Pure Python Web Framework](https://reflex.dev/blog/2024-03-21-reflex-architecture/)
 
-[My grandfather Paul Tillich, the unbelieving theologian](https://aeon.co/essays/my-grandfather-paul-tillich-the-unbelieving-theologian)
+[Pure CSS Website](https://pure-css-site.netlify.app/)
 
-[Atari Falcon030](https://www.goto10retro.com/p/atari-falcon030)
+[Finding Little Albert (2011)](https://www.bps.org.uk/psychologist/looking-back-finding-little-albert)
 
-[Chronos: Learning the Language of Time Series](https://arxiv.org/abs/2403.07815)
+[DenseFormer: Enhancing Information Flow in Transformers](https://arxiv.org/abs/2402.02622)
 
-[How Chain-of-Thought Reasoning Helps Neural Networks Compute](https://www.quantamagazine.org/how-chain-of-thought-reasoning-helps-neural-networks-compute-20240321/)
+[Shakespeare's sister: Digital archives reveal insights into unknown sibling](https://phys.org/news/2024-03-shakespeare-sister-digital-archives-reveal.html)
 
-[The Bulma CSS framework reaches 1.0](https://github.com/jgthms/bulma/releases/tag/1.0.0)
+[Empirical (YC S23) is hiring interns to build AI-enabled primary care](https://www.workatastartup.com/jobs/65500)
 
-[Antithesis of a One-in-a-Million Bug: Taming Demonic Nondeterminism](https://www.cockroachlabs.com/blog/demonic-nondeterminism/)
+[Show HN: Leaping – Debug Python tests instantly with an LLM debugger](https://github.com/leapingio/leaping)
 
-[Aviator (YC S21) is hiring engineers to build the DevEx platform](https://www.ycombinator.com/companies/aviator/jobs/svf18r9-senior-software-engineer-founding-team)
+[Boom Announces Successful Flight of XB-1 Demonstrator Aircraft](https://boomsupersonic.com/flyby/inaugural-first-flight-xb1-supersonic-demonstrator)

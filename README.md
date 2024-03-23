@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [Game of Life, simulating itself, infinitely zoomable](https://oimo.io/works/life/)
 
-[A Spark Extinguished](https://chinabooksreview.com/2023/10/19/a-spark-extinguished/)
+[The man who bought Pine Bluff, Arkansas (2022)](https://maxread.substack.com/p/the-man-who-bought-pine-bluff-arkansas)
 
-[Bertie – A minimal, high-assurance implementation of TLS 1.3 written in hacspec](https://github.com/cryspen/bertie)
+[The Intel 8088 processor's instruction prefetch circuitry: a look inside](https://www.righto.com/2024/03/8088-prefetch-circuitry.html)
 
-[Feedle: A search engine for blogs and podcasts](https://feedle.world/)
+[Show HN: Lapdev, a new open-source remote dev environment management software](https://github.com/lapce/lapdev)
 
-[More than half of chickenpox diagnoses are wrong, study finds](https://arstechnica.com/science/2024/03/more-than-half-of-chickenpox-diagnoses-are-wrong-study-finds/)
+[Show HN: Rotary Phone Project](https://github.com/mnutt/rotary)
 
-[SQLite Schema Diagram Generator](https://gitlab.com/Screwtapello/sqlite-schema-diagram)
+[Rye: Homoiconic dynamic programming language with some new ideas](https://github.com/refaktor/rye)
 
-[Vasopressin deficiency: driver of social impairment and fluid imbalance in ASD? [pdf]](https://med.stanford.edu/content/dam/sm/parkerlab/documents/da035ad7-7c80-41bd-a9a6-ee03a8bcc58d.pdf)
+[On Microsoft, the U.S. Government Must Embrace the Stick](https://www.lawfaremedia.org/article/on-microsoft-the-u.s.-government-must-embrace-the-stick-ransomware-disruption)
 
-[Visualization 'demonic' face distortions in a case of prosopometamorphopsia](https://medicalxpress.com/news/2024-03-visualizes-demonic-distortions-case-prosopometamorphopsia.html)
+[Marimo: Interactive Fluffy Ball](https://oimo.io/works/marimo/)
 
-[Show HN: FXYT – Tiny, esoteric, stack-based, postfix, canvas colouring language](https://github.com/susam/fxyt)
+[The Driest Place on Earth](https://astrobiology.nasa.gov/news/the-driest-place-on-earth/)
 
-[-2000 Lines of Code (2007)](https://www.folklore.org/Negative_2000_Lines_Of_Code.html)
+[Hyprland Crash Course](https://xd1.dev/2024/03/hyprland-crash-course)

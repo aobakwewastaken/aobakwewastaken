@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Stability AI Announcement](https://stability.ai/news/stabilityai-announcement)
+
+[Visiting Scarfolk, the Most Spectacular Dystopia of the 1970s (2016)](https://www.collectorsweekly.com/articles/visiting-scarfolk/)
+
+[Post-quantum cryptography is too damn big](https://dadrian.io/blog/posts/pqc-signatures-2024/)
+
+[Soupault: A static website management tool](https://soupault.app/)
+
 [OpenCat: Open-source robotic pet quadruped framework](https://www.petoi.com/pages/opencat-open-source-robot-pet-framework)
+
+[High-speed microscale 3D printing](https://news.stanford.edu/2024/03/13/high-speed-microscale-3d-printing/)
 
 [Launch HN: DryMerge (YC W24) – Automate Workflows with Plain English]()
 
-[Designing a Pure Python Web Framework](https://reflex.dev/blog/2024-03-21-reflex-architecture/)
-
-[Pure CSS Website](https://pure-css-site.netlify.app/)
-
-[Finding Little Albert (2011)](https://www.bps.org.uk/psychologist/looking-back-finding-little-albert)
-
 [DenseFormer: Enhancing Information Flow in Transformers](https://arxiv.org/abs/2402.02622)
 
-[Shakespeare's sister: Digital archives reveal insights into unknown sibling](https://phys.org/news/2024-03-shakespeare-sister-digital-archives-reveal.html)
+[Show HN: magick.css – Minimalist CSS for Wizards](https://css.winterveil.net)
 
-[Empirical (YC S23) is hiring interns to build AI-enabled primary care](https://www.workatastartup.com/jobs/65500)
-
-[Show HN: Leaping – Debug Python tests instantly with an LLM debugger](https://github.com/leapingio/leaping)
-
-[Boom Announces Successful Flight of XB-1 Demonstrator Aircraft](https://boomsupersonic.com/flyby/inaugural-first-flight-xb1-supersonic-demonstrator)
+[Google Ordered to Identify Who Watched Certain YouTube Videos](https://www.forbes.com/sites/thomasbrewster/2024/03/22/feds-ordered-google-to-unmask-certain-youtube-users-critics-say-its-terrifying/)

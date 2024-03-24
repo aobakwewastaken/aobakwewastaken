@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Tinyssh](https://tinyssh.org/)
+[PSChess – A Chess Engine in PostScript](https://seriot.ch/projects/pschess.html)
 
-[Why don't humans have tails?](https://www.cnn.com/2024/03/23/world/humans-tails-genetic-mutation-junk-dna-scn/index.html)
-
-[Reactive Programming Without Functions](https://programming-journal.org/2024/8/11/)
-
-[New Aztec Codices Discovered: The Codices of San Andrés Tetepilco](https://tlacuilolli.com/2024/03/21/new-aztec-codices-the-codices-of-san-andres-tetepilco/)
+[TinySSH is a small SSH server using NaCl, TweetNaCl](https://github.com/janmojzis/tinyssh)
 
 [Fault tolerance and resilience patterns for Go](https://github.com/failsafe-go/failsafe-go)
 
-[Sieve (YC W22) Is hiring ML engineers to build the future of video AI](https://sievedata.com/about/jobs)
-
 [Creating an autopilot in X-Plane using Python](https://austinsnerdythings.com/2021/10/15/creating-an-autopilot-in-x-plane-using-python-part-1/)
+
+[Distributed coroutines with a native Python extension and Dispatch](https://stealthrocket.tech/blog/distributed-coroutines-in-python/)
 
 [After 41 years, my first assembly program on my first computer, the Tomy Tutor](http://oldvcr.blogspot.com/2024/03/after-41-years-my-first-assembly.html)
 
-[Speaking without vocal cords, thanks to a new AI-assisted wearable device](https://newsroom.ucla.edu/releases/speaking-without-vocal-cords-ucla-engineering-wearable-tech)
+[Deterministic simulation testing for a word processor](https://www.eno-writer.com/008-deterministic-simulation-testing-for-a-word-processor/)
 
-[Unending bubble wrap: a pointless activity to spend a few satisfying minutes](https://brainteaser.top/bubblespop.html)
+[Game of Life, simulating itself, infinitely zoomable](https://oimo.io/works/life/)
+
+[Sequential and parallel execution of long-running shell commands](https://github.com/Nukesor/pueue)
+
+[Reactive Programming Without Functions](https://programming-journal.org/2024/8/11/)

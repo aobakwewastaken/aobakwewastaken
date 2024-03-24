@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Game of Life, simulating itself, infinitely zoomable](https://oimo.io/works/life/)
+[New Aztec Codices Discovered: The Codices of San Andrés Tetepilco](https://tlacuilolli.com/2024/03/21/new-aztec-codices-the-codices-of-san-andres-tetepilco/)
 
-[The man who bought Pine Bluff, Arkansas (2022)](https://maxread.substack.com/p/the-man-who-bought-pine-bluff-arkansas)
+[After 41 years, my first assembly program on my first computer, the Tomy Tutor](http://oldvcr.blogspot.com/2024/03/after-41-years-my-first-assembly.html)
+
+[Swedish composer becomes Spotify's most-famous musician you've never heard of](https://www.theguardian.com/uk-news/2024/mar/19/swedish-composer-johan-rohr-becomes-spotifys-most-famous-musician-youve-never-heard-of)
+
+[Speaking without vocal cords, thanks to a new AI-assisted wearable device](https://newsroom.ucla.edu/releases/speaking-without-vocal-cords-ucla-engineering-wearable-tech)
 
 [The Intel 8088 processor's instruction prefetch circuitry: a look inside](https://www.righto.com/2024/03/8088-prefetch-circuitry.html)
 
-[Show HN: Lapdev, a new open-source remote dev environment management software](https://github.com/lapce/lapdev)
-
-[Show HN: Rotary Phone Project](https://github.com/mnutt/rotary)
+[The Super Mario Maker community faces its final boss](https://arstechnica.com/gaming/2024/03/the-super-mario-maker-community-faces-its-final-boss/)
 
 [Rye: Homoiconic dynamic programming language with some new ideas](https://github.com/refaktor/rye)
 
-[On Microsoft, the U.S. Government Must Embrace the Stick](https://www.lawfaremedia.org/article/on-microsoft-the-u.s.-government-must-embrace-the-stick-ransomware-disruption)
+[Game of Life, simulating itself, infinitely zoomable](https://oimo.io/works/life/)
 
-[Marimo: Interactive Fluffy Ball](https://oimo.io/works/marimo/)
+[What Happens to Google Maps When Tectonic Plates Move?](https://nautil.us/what-happens-to-google-maps-when-tectonic-plates-move-237678/)
 
-[The Driest Place on Earth](https://astrobiology.nasa.gov/news/the-driest-place-on-earth/)
-
-[Hyprland Crash Course](https://xd1.dev/2024/03/hyprland-crash-course)
+[Oxide Cloud Computer. No Cables. No Assembly. Just Cloud](https://oxide.computer/)

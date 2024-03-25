@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Weather Planning for Eclipse Day](https://eclipsophile.com/eclipse-day-weather/)
+[Why choose async/await over threads?](https://notgull.net/why-not-threads/)
 
-[PSChess – A chess engine in PostScript](https://seriot.ch/projects/pschess.html)
+[Windows 98 Icons](https://win98icons.alexmeub.com/)
 
-[Aegis v3.0 – a free, secure and open source 2FA app for Android](https://github.com/beemdevelopment/Aegis/releases/tag/v3.0)
+[Monolith – CLI tool for saving complete web pages as a single HTML file](https://github.com/Y2Z/monolith)
 
-[TinySSH is a small SSH server using NaCl, TweetNaCl](https://github.com/janmojzis/tinyssh)
+[Best engineering interview question I've gotten](https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/)
 
-[Scientists have traced human tail loss to a short sequence of genetic code](https://www.cnn.com/2024/03/23/world/humans-tails-genetic-mutation-junk-dna-scn/index.html)
+[Supervision: Reusable Computer Vision](https://github.com/roboflow/supervision)
 
-[The ü/ü Conundrum](https://unravelweb.dev/2024/02/12/the-u-u-conundrum/)
+["She's bouncing the ball" – the uncanny way octopuses play](https://lithub.com/shes-bouncing-the-ball-on-the-uncanny-way-octopuses-play/)
 
-[ARM64EC (and ARM64X) Explained](http://www.emulators.com/docs/abc_arm64ec_explained.htm)
+[Real-time map of every Starlink satellite in orbit](https://www.starlinkmap.org/)
 
-[Lezer: A parsing system for CodeMirror, inspired by Tree-sitter](https://marijnhaverbeke.nl/blog/lezer.html)
+[Mutt on Windows Without WSL](https://blog.djhaskin.com/blog/mutt-on-windows-without-wsl/)
 
-[Why isn't preprint review being adopted?](https://www.theroadgoeson.com/why-isnt-preprint-review-being-adopted)
+[“Emergent” abilities in LLMs actually develop gradually and predictably – study](https://www.quantamagazine.org/how-quickly-do-large-language-models-learn-unexpected-skills-20240213/)
 
-[GPT-4, without specialized training, beat a GPT-3.5 class model that cost $10M](https://www.threads.net/@ethan_mollick/post/C46AfItO8RS)
+[The Lone Volcano in California's Central Valley](https://www.nytimes.com/2024/03/21/us/the-lone-volcano-in-californias-central-valley.html)

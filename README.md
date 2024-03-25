@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[For Brilliant Color: Packaging the First LSD Blotter](https://thereader.mitpress.mit.edu/for-brilliant-color-packaging-the-first-lsd-blotter/)
+[ZenHammer: Rowhammer Attacks on AMD Zen-Based Platforms](https://comsec.ethz.ch/research/dram/zenhammer/)
+
+[Show HN: Tracecat – Open-source security alert automation / SOAR alternative](https://github.com/TracecatHQ/tracecat)
+
+[Martin Scorsese's secret life as an obsessive VHS archivist](https://www.theguardian.com/film/2024/mar/25/martin-scorsese-vhs-video-collection-archive)
+
+[Show HN: Invertornot.com – API to enhance your images in dark-mode](https://invertornot.com)
+
+[See a Fish? Ring the Bell](https://visdeurbel.nl/en/the-fish-doorbell/)
+
+[Inclusive Sans: Text font designed for accessibility and readability](https://www.oliviaking.com/inclusive-sans)
+
+[Is GPT-4 a Good Data Analyst?](https://arxiv.org/abs/2305.15038)
+
+[Ugly Avatar](https://txstc55.github.io/ugly-avatar/)
 
 [Show HN: Jampack – Optimizes static websites as a post-processing step](https://github.com/divriots/jampack)
 
-[Show HN: Nano-web, a low latency one binary webserver designed for serving SPAs](https://github.com/radiosilence/nano-web)
-
-[Show HN: Flatito, grep for YAML and JSON files](https://github.com/ceritium/flatito)
-
-[The Case of a Leaky Goroutine](https://brainbaking.com/post/2024/03/the-case-of-a-leaky-goroutine/)
-
-[Show HN: Detecting adblock, without JavaScript, by abusing HTTP 103 responses](https://github.com/Mechazawa/103-early-anti-adblock)
-
-[Pyenv – lets you easily switch between multiple versions of Python](https://github.com/pyenv/pyenv)
-
-[Turbocall – the just-in-time compiler for Deno FFI](https://divy.work/turbocall.html)
-
-[Exosuit Muscle Control Steps Closer to Reality](https://spectrum.ieee.org/functional-electrical-stimulation-exosuit-project)
-
-[SPQR 1.3.0: a production-ready system for horizontal scaling of PostgreSQL](https://github.com/pg-sharding/spqr/discussions/569)
+[Flickr Commons](https://commons.flickr.org/)

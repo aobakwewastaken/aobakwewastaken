@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [Sega Saturn Architecture – A practical analysis](https://www.copetti.org/writings/consoles/sega-saturn/)
 
+[Hybrid-Net: Real-time audio source separation, generate lyrics, chords, beat](https://github.com/DoMusic/Hybrid-Net)
+
+[Debian/Ubuntu privilege escalation PoC exploit for CVE-2024-1086](https://github.com/Notselwyn/CVE-2024-1086)
+
+[Generating music in the waveform domain (2020)](https://sander.ai/2020/03/24/audio-generation.html)
+
+[Tech Debt: My Rust Library Is Now a CDO](https://lucumr.pocoo.org/2024/3/26/rust-cdo/)
+
 [Radios, how do they work?](https://lcamtuf.substack.com/p/radios-how-do-they-work)
 
-[Google's First Tensor Processing Unit: Architecture](https://thechipletter.substack.com/p/googles-first-tpu-architecture)
+[Show HN: I Made a Books Recommendation App Based on Your Mood](https://booksbymood.com)
 
-[An AI robot is destroying sick tulips in Dutch bulb fields](https://apnews.com/article/tulips-netherlands-robot-technology-46ec590b882188ee6d7428df8f04bb9e)
+[Launch HN: CommodityAI (YC W24) – Shipment management for commodity traders]()
 
 [Nonlinearsolve.jl: Fast and Robust Solvers for Nonlinear Equations in Julia](https://arxiv.org/abs/2403.16341)
 
 [Nimbus (YC W21) Is Hiring Founding Engineer to Make Datadog Affordable Again](https://www.ycombinator.com/companies/nimbus-3/jobs/SqMcSqM-founding-full-stack-engineer)
-
-[Show HN: Tracecat – Open-source security alert automation / SOAR alternative](https://github.com/TracecatHQ/tracecat)
-
-[Deej: An open-source hardware volume mixer for Windows and Linux](https://github.com/omriharel/deej)
-
-[Packet-Editing Games in Golang (2021)](https://remyhax.xyz/posts/golang-packet-editing/)
-
-[The Francis Scott Key Bridge in Baltimore, Maryland Has Collapsed](https://twitter.com/sentdefender/status/1772514015790477667)

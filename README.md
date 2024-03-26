@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Debian/Ubuntu privilege escalation PoC exploit for CVE-2024-1086](https://github.com/Notselwyn/CVE-2024-1086)
-
 [Launch HN: Aqua Voice (YC W24) – Voice-driven text editor]()
 
-[Hybrid-Net: Real-time audio source separation, generate lyrics, chords, beat](https://github.com/DoMusic/Hybrid-Net)
+[In B-Flat (2009)](http://www.inbflat.net/)
 
-[Generating music in the waveform domain (2020)](https://sander.ai/2020/03/24/audio-generation.html)
+[Who killed the network switch? A Hubris Bug Story](https://cliffle.com/blog/who-killed-the-network-switch/)
 
-[Sega Saturn Architecture – A practical analysis](https://www.copetti.org/writings/consoles/sega-saturn/)
+[Texas hailstorm damages solar panels at 350-MW farm](https://www.renewableenergyworld.com/solar/utility-scale/texas-hailstorm-damages-thousands-of-solar-panels-at-350-mw-farm/)
 
-[Neorg – organize your life in Neovim](https://github.com/nvim-neorg/neorg)
+[Spinner-mouse: Arduino-based USB rotary controller for Arkanoid, Tempest, etc.](https://github.com/carlosefr/spinner-mouse)
 
-[Show HN: I Made a Books Recommendation App Based on Your Mood](https://booksbymood.com)
+[Baltimore's Key Bridge struck by cargo ship, collapses](https://www.wbaltv.com/article/baltimore-bridge-collapse-key-bridge/60303975)
 
-[Pinnacle – a modern tribute to the 1986 classic, The Sentinel](https://viperfish.com.au/games/pinnacle.html)
+[Sega Saturn Architecture – A practical analysis (2021)](https://www.copetti.org/writings/consoles/sega-saturn/)
 
-[Radios, how do they work?](https://lcamtuf.substack.com/p/radios-how-do-they-work)
+[OneText (YC W23) Is Hiring a Lead Design/UX Engineer](https://gist.github.com/bluepnume/33f2c4be93cc20215aafd55f803de19f)
 
-[Launch HN: CommodityAI (YC W24) – Shipment management for commodity traders]()
+[Everyone is John: A competitive roleplaying game for three or more people](https://rtwolf.github.io/Everyone-is-John/)
+
+[Hacking the genome of fungi for smart foods of the future](https://www.sciencedaily.com/releases/2024/03/240314122135.htm)

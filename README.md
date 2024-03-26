@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[ZenHammer: Rowhammer Attacks on AMD Zen-Based Platforms](https://comsec.ethz.ch/research/dram/zenhammer/)
+[Google's First Tensor Processing Unit: Architecture](https://thechipletter.substack.com/p/googles-first-tpu-architecture)
+
+[Radios, how do they work?](https://lcamtuf.substack.com/p/radios-how-do-they-work)
+
+[Chess puzzle, but you are what you capture](https://echochess.com)
+
+[ZenHammer: Rowhammer attacks on AMD Zen-based platforms](https://comsec.ethz.ch/research/dram/zenhammer/)
+
+[Nonlinearsolve.jl: Fast and Robust Solvers for Nonlinear Equations in Julia](https://arxiv.org/abs/2403.16341)
 
 [Show HN: Tracecat – Open-source security alert automation / SOAR alternative](https://github.com/TracecatHQ/tracecat)
 
+[Moirai: A time series foundation model for universal forecasting](https://blog.salesforceairesearch.com/moirai/)
+
 [Martin Scorsese's secret life as an obsessive VHS archivist](https://www.theguardian.com/film/2024/mar/25/martin-scorsese-vhs-video-collection-archive)
 
-[Show HN: Invertornot.com – API to enhance your images in dark-mode](https://invertornot.com)
+[Canva acquires Affinity, its biggest acquisition, to compete with Adobe](https://finance.yahoo.com/news/canva-acquires-affinity-design-suite-004813952.html)
 
-[See a Fish? Ring the Bell](https://visdeurbel.nl/en/the-fish-doorbell/)
-
-[Inclusive Sans: Text font designed for accessibility and readability](https://www.oliviaking.com/inclusive-sans)
-
-[Is GPT-4 a Good Data Analyst?](https://arxiv.org/abs/2305.15038)
-
-[Ugly Avatar](https://txstc55.github.io/ugly-avatar/)
-
-[Show HN: Jampack – Optimizes static websites as a post-processing step](https://github.com/divriots/jampack)
-
-[Flickr Commons](https://commons.flickr.org/)
+[Packet-Editing Games in Golang (2021)](https://remyhax.xyz/posts/golang-packet-editing/)

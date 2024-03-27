@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [Launch HN: Aqua Voice (YC W24) – Voice-driven text editor]()
 
-[In B-Flat (2009)](http://www.inbflat.net/)
-
 [Who killed the network switch? A Hubris Bug Story](https://cliffle.com/blog/who-killed-the-network-switch/)
 
-[Texas hailstorm damages solar panels at 350-MW farm](https://www.renewableenergyworld.com/solar/utility-scale/texas-hailstorm-damages-thousands-of-solar-panels-at-350-mw-farm/)
+[How I would automate monitoring DNS queries in basic Prometheus](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PrometheusAutomatingDNSChecks)
+
+[Everyone is John: A competitive roleplaying game for three or more people (2002)](https://rtwolf.github.io/Everyone-is-John/)
+
+[Butterflies Full of Wasps Full of Microwasps Are a Science Nightmare (2021)](https://www.atlasobscura.com/articles/butterflies-parasitic-wasps-finland)
+
+[Laudspeaker hiring senior engineer to build open source customer engagement]()
+
+[Death and typos: my six years screening online obituary comments](https://www.theguardian.com/lifeandstyle/2024/mar/26/online-sympathy-condolence-notes-screening)
 
 [Spinner-mouse: Arduino-based USB rotary controller for Arkanoid, Tempest, etc.](https://github.com/carlosefr/spinner-mouse)
 
-[Baltimore's Key Bridge struck by cargo ship, collapses](https://www.wbaltv.com/article/baltimore-bridge-collapse-key-bridge/60303975)
+[In B-Flat (2009)](http://www.inbflat.net/)
 
-[Sega Saturn Architecture – A practical analysis (2021)](https://www.copetti.org/writings/consoles/sega-saturn/)
-
-[OneText (YC W23) Is Hiring a Lead Design/UX Engineer](https://gist.github.com/bluepnume/33f2c4be93cc20215aafd55f803de19f)
-
-[Everyone is John: A competitive roleplaying game for three or more people](https://rtwolf.github.io/Everyone-is-John/)
-
-[Hacking the genome of fungi for smart foods of the future](https://www.sciencedaily.com/releases/2024/03/240314122135.htm)
+[How do MRI Headphones work? (2022)](https://tomlingham.com/articles/how-do-mri-headphones-work/)

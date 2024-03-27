@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Introducing DBRX: A New State-of-the-Art Open LLM by Databricks](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm)
+[Writing Gnome Apps with Swift](https://www.swift.org/blog/adwaita-swift/)
 
-[Flatpak builds are not reproducible and why that's a practical problem (2022)](https://ranfdev.com/blog/flatpak-builds-are-not-reproducible/)
+[Want to start a startup? Meet all the YC partners in Boston – Apr 20th](https://www.ycombinator.com/blog/startup-school-east-boston/)
 
-[Daniel Kahneman, Nobel-winning economist, dies at 90](https://www.washingtonpost.com/obituaries/2024/03/27/daniel-kahneman-dead/)
+[Launch HN: PointOne (YC W24) – Automated time tracking for lawyers]()
 
-[FuryGpu – Custom PCIe FPGA GPU](https://www.furygpu.com)
+[DBRX: A new open LLM](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm)
 
-[The Last Crimes of Caravaggio](https://www.newstatesman.com/culture/art-design/2024/03/the-last-crimes-of-caravaggio)
+[Infinite Mac: Turning to the dark side](https://blog.persistent.info/2024/03/infinite-mac-nextstep.html)
 
-[Recent 'MFA Bombing' Attacks Targeting Apple Users](https://krebsonsecurity.com/2024/03/recent-mfa-bombing-attacks-targeting-apple-users/)
+[Show HN: A (marginally) useful x86-64 ELF executable in 466 bytes](https://github.com/meribold/btry)
 
-[Show HN: I made a cheap alternative to college-level math & physics tutoring]()
+[Launch HN: Patchwork (YC W24) – Team communication based on feeds, not chat]()
 
-[Daniel Kahneman, Psychologist Who Upended Economics, Dies at 90](https://www.bloomberg.com/news/articles/2024-03-27/daniel-kahneman-psychologist-who-upended-economics-dies-at-90)
+[Finley (YC W21) is hiring to remake the $1T private credit space](https://www.finleycms.com/careers/)
 
-[Launch HN: Aqua Voice (YC W24) – Voice-driven text editor]()
+[Daniel Kahneman has died](https://www.washingtonpost.com/obituaries/2024/03/27/daniel-kahneman-dead/)
 
-[Show HN: Budget Kanban – Visually manage finances in Kanban boards](https://budgetkanban.com)
+[Show HN: I built an interactive plotter art exhibit for SIGGRAPH](https://lostpixels.io/writings/building-interactive-plotter-art)

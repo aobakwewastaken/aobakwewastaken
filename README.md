@@ -5,16 +5,16 @@
 
 [Show HN: I made a cheap alternative to college-level math & physics tutoring]()
 
+[How Radicle Works Under the Hood](https://radicle.xyz/guides/protocol)
+
+[The What, Why and How of Containers](https://www.annwan.me/computers/what-why-how-containers/)
+
+[Show HN: A static site generator that prettifies the output HTML](https://github.com/jdeanwallace/jinjabread)
+
 [Launch HN: Aqua Voice (YC W24) – Voice-driven text editor]()
 
-[Boeing chief must have engineering background, Emirates boss says](https://www.ft.com/content/fcacc767-5f05-414e-bebc-61c737764e7b)
+[Serious security breach hits EU police agency](https://www.politico.eu/article/europol-internal-agency-eu-police-agency-engulfed-in-clean-up-over-missing-files/)
 
-[Who killed the network switch? A Hubris Bug Story](https://cliffle.com/blog/who-killed-the-network-switch/)
+[Egui 0.27 – easy-to-use immediate mode GUI for Rust](https://github.com/emilk/egui/releases/tag/0.27.0)
 
-[How I would automate monitoring DNS queries in basic Prometheus](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PrometheusAutomatingDNSChecks)
-
-[Butterflies Full of Wasps Full of Microwasps Are a Science Nightmare (2021)](https://www.atlasobscura.com/articles/butterflies-parasitic-wasps-finland)
-
-[Death and typos: my six years screening online obituary comments](https://www.theguardian.com/lifeandstyle/2024/mar/26/online-sympathy-condolence-notes-screening)
-
-[Laudspeaker hiring senior engineer to build open source customer engagement]()
+[Younger Generations Have Larger Brains. Is That Healthier?](https://www.sciencealert.com/younger-generations-have-larger-brains-is-that-healthier)

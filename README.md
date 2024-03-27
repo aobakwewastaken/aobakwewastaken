@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Introducing DBRX: A New State-of-the-Art Open LLM by Databricks](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm)
+
+[The window for great-grandmothers is closing](https://memoirsandrambles.substack.com/p/the-window-for-great-grandmothers)
+
 [FuryGpu – Custom PCIe FPGA GPU](https://www.furygpu.com)
 
 [Recent 'MFA Bombing' Attacks Targeting Apple Users](https://krebsonsecurity.com/2024/03/recent-mfa-bombing-attacks-targeting-apple-users/)
 
 [Show HN: I made a cheap alternative to college-level math & physics tutoring]()
 
-[How Radicle Works Under the Hood](https://radicle.xyz/guides/protocol)
-
-[The What, Why and How of Containers](https://www.annwan.me/computers/what-why-how-containers/)
+[Launch HN: Aqua Voice (YC W24) – Voice-driven text editor]()
 
 [Show HN: A static site generator that prettifies the output HTML](https://github.com/jdeanwallace/jinjabread)
 
-[Launch HN: Aqua Voice (YC W24) – Voice-driven text editor]()
+[Show HN: Figr Identity – Generate Design Systems in Figma Instantly](https://www.figma.com/community/plugin/1350743748296105581/generate-design-systems-quickly-figr-identity-free-beta)
 
-[Serious security breach hits EU police agency](https://www.politico.eu/article/europol-internal-agency-eu-police-agency-engulfed-in-clean-up-over-missing-files/)
+[Show HN: Budget Kanban – Visually manage finances in Kanban boards](https://budgetkanban.com)
 
-[Egui 0.27 – easy-to-use immediate mode GUI for Rust](https://github.com/emilk/egui/releases/tag/0.27.0)
-
-[Younger Generations Have Larger Brains. Is That Healthier?](https://www.sciencealert.com/younger-generations-have-larger-brains-is-that-healthier)
+[Sun Microsystems co-founder charged with insider trading](https://www.theregister.com/2024/03/26/sun_microsystems_insider_trading/)

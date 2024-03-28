@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[How We’ll Reach a 1 Trillion Transistor GPU](https://spectrum.ieee.org/trillion-transistor-gpu)
+
+[Show HN: I scraped all of OpenAI's Community Forum](https://julep-ai.github.io/)
+
+[SBF Sentenced to 25 years in Prison](https://www.cnn.com/business/live-news/sam-bankman-fried-sentencing-03-28-24/index.html)
+
+[Sam Bankman-Fried Sentenced to 25 Years](https://www.bbc.co.uk/news/live/world-us-canada-68656415)
+
+[LLMs use a surprisingly simple mechanism to retrieve some stored knowledge](https://news.mit.edu/2024/large-language-models-use-surprisingly-simple-mechanism-retrieve-stored-knowledge-0325)
+
 [Show HN: I made a binary enigma machine for manual encryption](https://makerworld.com/en/models/247798)
-
-[What is DECT-2020 New Radio (NR), and how big a deal is it? (2021)](https://blog.nordicsemi.com/getconnected/what-is-dect-2020-new-radio-nr-and-how-big-a-deal-is-it)
-
-[EpiPen For Heart Attacks? Idorsia Launches Phase III Study Of Selatogrel (2021)](https://scrip.citeline.com:443/SC144926/An-EpiPen-For-Heart-Attacks-Idorsia-Launches-Phase-III-Study-Of-Selatogrel)
-
-[Gigantic Aluminium Spiders](https://windspider.com/gigantic-aluminium-spiders/)
-
-[ST-DOS](http://sininenankka.dy.fi/~sami/fdshell/doskernel.php)
-
-[Endlessh-go: a Golang SSH tarpit that traps bots/scanners](https://github.com/shizunge/endlessh-go)
 
 [Dioxus 0.5: Web, Desktop, Mobile Apps in Rust](https://dioxuslabs.com/blog/release-050/)
 
-[Addressing Visibility Challenges with TLS 1.3 Within the Enterprise](https://www.nist.gov/news-events/news/2024/01/new-nccoe-guide-helps-major-industries-observe-incoming-data-while-using)
+[What Do You Do If a Hacker Takes Control of Your Ship? (2023)](https://maritime-executive.com/editorials/what-do-you-do-if-a-hacker-takes-control-of-your-ship)
 
-[Writing Gnome Apps with Swift](https://www.swift.org/blog/adwaita-swift/)
+[Gigantic Aluminium Spiders](https://windspider.com/gigantic-aluminium-spiders/)
 
-[Memories are made by breaking DNA – and fixing it](https://www.nature.com/articles/d41586-024-00930-y)
+[New open source GPU is free to all](https://www.tomshardware.com/pc-components/gpus/new-open-source-gpu-is-free-to-all-supports-modern-windows-software-stack-runs-on-an-fpga-with-custom-pcb)

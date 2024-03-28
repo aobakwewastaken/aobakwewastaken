@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[ST-DOS](http://sininenankka.dy.fi/~sami/fdshell/doskernel.php)
+
 [Writing Gnome Apps with Swift](https://www.swift.org/blog/adwaita-swift/)
 
-[Want to start a startup? Meet all the YC partners in Boston – Apr 20th](https://www.ycombinator.com/blog/startup-school-east-boston/)
+[BeagleY-AI: a 4 TOPS-capable $70 board from Beagleboard](https://www.beagleboard.org/boards/beagley-ai)
+
+[The Pentagon's Silicon Valley Problem](https://harpers.org/archive/2024/03/the-pentagons-silicon-valley-problem-andrew-cockburn/)
+
+[For young people, the job search has never been so miserable](https://www.ft.com/content/4b16c325-8758-4b90-bdb5-15536b401606)
 
 [Launch HN: PointOne (YC W24) – Automated time tracking for lawyers]()
 
+[Show HN: I built an interactive plotter art exhibit for SIGGRAPH](https://lostpixels.io/writings/building-interactive-plotter-art)
+
+[Peter principle](https://en.wikipedia.org/wiki/Peter_principle)
+
 [DBRX: A new open LLM](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm)
 
-[Infinite Mac: Turning to the dark side](https://blog.persistent.info/2024/03/infinite-mac-nextstep.html)
-
-[Show HN: A (marginally) useful x86-64 ELF executable in 466 bytes](https://github.com/meribold/btry)
-
-[Launch HN: Patchwork (YC W24) – Team communication based on feeds, not chat]()
-
-[Finley (YC W21) is hiring to remake the $1T private credit space](https://www.finleycms.com/careers/)
-
-[Daniel Kahneman has died](https://www.washingtonpost.com/obituaries/2024/03/27/daniel-kahneman-dead/)
-
-[Show HN: I built an interactive plotter art exhibit for SIGGRAPH](https://lostpixels.io/writings/building-interactive-plotter-art)
+[Misunderstanding about the details of how Apply Pay works](https://birchtree.me/blog/digital-wallets-and-the-only-apple-pay-does-this-mythology/)

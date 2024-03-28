@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[How We’ll Reach a 1 Trillion Transistor GPU](https://spectrum.ieee.org/trillion-transistor-gpu)
+[You can't leak users' data if you don't hold it](https://seancoates.com/blogs/matter-and-privacy)
 
-[Show HN: I scraped all of OpenAI's Community Forum](https://julep-ai.github.io/)
+[Jamba: Production-grade Mamba-based AI model](https://www.maginative.com/article/ai21-labs-unveils-jamba-the-first-production-grade-mamba-based-ai-model/)
 
-[SBF Sentenced to 25 years in Prison](https://www.cnn.com/business/live-news/sam-bankman-fried-sentencing-03-28-24/index.html)
+[Can Xerox's PARC find new life with SRI?](https://www.nytimes.com/interactive/2024/03/26/business/silicon-valley-tech-xerox-parc-sri.html?ugrp=m&unlocked_article_code=1.gE0.gM2G.ilR2kKr-h9Yf&smid=url-share)
 
-[Sam Bankman-Fried Sentenced to 25 Years](https://www.bbc.co.uk/news/live/world-us-canada-68656415)
+[Edgar, build a Dyson swarm](https://playedgar.netlify.app/)
 
-[LLMs use a surprisingly simple mechanism to retrieve some stored knowledge](https://news.mit.edu/2024/large-language-models-use-surprisingly-simple-mechanism-retrieve-stored-knowledge-0325)
+[NotepadNext – a cross-platform reimplementation of Notepad++](https://github.com/dail8859/NotepadNext)
 
-[Show HN: I made a binary enigma machine for manual encryption](https://makerworld.com/en/models/247798)
+[Sam Bankman-Fried sentenced to 25 years in prison](https://www.cnn.com/business/live-news/sam-bankman-fried-sentencing-03-28-24/index.html)
 
-[Dioxus 0.5: Web, Desktop, Mobile Apps in Rust](https://dioxuslabs.com/blog/release-050/)
+[UV-K5 is the most hackable handheld ham radio yet](https://spectrum.ieee.org/quansheng-uv-k5-hacking)
 
-[What Do You Do If a Hacker Takes Control of Your Ship? (2023)](https://maritime-executive.com/editorials/what-do-you-do-if-a-hacker-takes-control-of-your-ship)
+[Keeling Labs (YC W23) Is Hiring a Sr Data Engineer for Applied ML in the Grid](https://www.ycombinator.com/companies/keeling-labs/jobs/YWFbAh6-senior-data-engineer)
 
-[Gigantic Aluminium Spiders](https://windspider.com/gigantic-aluminium-spiders/)
+[Launch HN: Thorntale (YC W24) – Presentation software that works with your data]()
 
-[New open source GPU is free to all](https://www.tomshardware.com/pc-components/gpus/new-open-source-gpu-is-free-to-all-supports-modern-windows-software-stack-runs-on-an-fpga-with-custom-pcb)
+[Launch HN: Eggnog (YC W24) – AI videos with consistent characters]()

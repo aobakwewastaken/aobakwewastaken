@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[You can't leak users' data if you don't hold it](https://seancoates.com/blogs/matter-and-privacy)
+[Arraymancer – Deep Learning Nim Library](https://github.com/mratsim/Arraymancer)
+
+[The race to replace Redis](https://lwn.net/SubscriberLink/966631/6bf2063136effa1e/)
+
+[Doom Captcha (2021)](https://vivirenremoto.github.io/doomcaptcha/)
+
+[Math writing is dull when it neglects the human dimension](https://golem.ph.utexas.edu/category/2024/03/why_mathematics_is_boring_1.html)
+
+[The Apple Jonathan: A 1980s concept computer that never shipped](https://512pixels.net/2024/03/apple-jonathan-modular-concept/)
+
+[Deep Learning in JavaScript](https://github.com/eduardoleao052/js-torch)
+
+[The rev.ng decompiler goes open source](https://rev.ng/blog/open-sourcing-renvg-decompiler-ui-closed-beta)
+
+[The Great Migration from MongoDB to PostgreSQL](https://infisical.com/blog/postgresql-migration-technical)
 
 [Jamba: Production-grade Mamba-based AI model](https://www.maginative.com/article/ai21-labs-unveils-jamba-the-first-production-grade-mamba-based-ai-model/)
 
-[Can Xerox's PARC find new life with SRI?](https://www.nytimes.com/interactive/2024/03/26/business/silicon-valley-tech-xerox-parc-sri.html?ugrp=m&unlocked_article_code=1.gE0.gM2G.ilR2kKr-h9Yf&smid=url-share)
-
-[Edgar, build a Dyson swarm](https://playedgar.netlify.app/)
-
-[NotepadNext – a cross-platform reimplementation of Notepad++](https://github.com/dail8859/NotepadNext)
-
-[Sam Bankman-Fried sentenced to 25 years in prison](https://www.cnn.com/business/live-news/sam-bankman-fried-sentencing-03-28-24/index.html)
-
-[UV-K5 is the most hackable handheld ham radio yet](https://spectrum.ieee.org/quansheng-uv-k5-hacking)
-
-[Keeling Labs (YC W23) Is Hiring a Sr Data Engineer for Applied ML in the Grid](https://www.ycombinator.com/companies/keeling-labs/jobs/YWFbAh6-senior-data-engineer)
-
-[Launch HN: Thorntale (YC W24) – Presentation software that works with your data]()
-
-[Launch HN: Eggnog (YC W24) – AI videos with consistent characters]()
+[Monogon: A Linux userland in pure Go](https://github.com/monogon-dev/monogon)

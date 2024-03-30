@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [Backdoor in upstream xz/liblzma leading to SSH server compromise](https://www.openwall.com/lists/oss-security/2024/03/29/4)
 
+[Full-scale file system acceleration on GPU [pdf]](https://dl.gi.de/server/api/core/bitstreams/7c7a8830-fd81-4e56-8507-cd4809020660/content)
+
+[Show HN: AI for researching personal health issues](https://www.agenthost.ai/chat/wellness-wise)
+
+[Santa Barbara's collective memory, sold for kindling](https://www.independent.com/2024/03/29/santa-barbaras-collective-memory-sold-for-kindling/)
+
+[Running a Raspberry Pi with a read-only root filesystem](https://www.dzombak.com/blog/2024/03/Running-a-Raspberry-Pi-with-a-read-only-root-filesystem.html)
+
+[Wayland breaks your bad software](https://orowith2os.gitlab.io/posts/wayland-breaks-your-bad-software/)
+
 [Launch HN: Lumona (YC W24) – Product search based on Reddit and YouTube reviews]()
 
-[EEG channels with low-cost PiEEG device](https://pieeg.com/)
+[Richard Serra, minimalist sculptor whose steel creations awed viewers, has died](https://www.artnews.com/art-news/news/richard-serra-minimalist-sculptor-dead-1234701117/)
 
 [Overlay networks based on WebRTC](https://github.com/pojntfx/weron)
 
-[Towards 1-bit Machine Learning Models](https://mobiusml.github.io/1bit_blog/)
-
-[The First Cat War](https://birdhistory.substack.com/p/the-first-cat-war)
-
-[A muon collider could revolutionize particle physics, if it can be built](https://www.science.org/content/article/muon-collider-could-revolutionize-particle-physics-if-it-can-be-built)
-
-[Show HN: Appamor.d – Full set of AppArmor profiles (~ 1500 profiles)](https://github.com/roddhjav/apparmor.d)
-
-[Bartók's Monster – Stalking the dead composer through Transylvania (2013)](https://harpers.org/archive/2013/10/bartoks-monster/)
-
-[Mazda's rotary engine in the age of the electric car](https://www.nippon.com/en/in-depth/d00956/)
+[EEG channels with low-cost PiEEG device](https://pieeg.com/)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Garbage Collection for Systems Programmers (2023)](https://bitbashing.io/gc-for-systems-programmers.html)
+
 [Prolog language for PostgreSQL proof of concept](https://github.com/tatut/pgprolog)
 
-[Some notes on Firefox's media autoplay settings in practice as of Firefox 124](https://utcc.utoronto.ca/~cks/space/blog/web/FirefoxMediaAutoplaySettingsIV)
+[When Will the Eclipse Happen? A Multimillennium Tale of Computation](https://writings.stephenwolfram.com/2024/03/when-exactly-will-the-eclipse-happen-a-multimillennium-tale-of-computation/)
 
 [Backdoor in upstream xz/liblzma leading to SSH server compromise](https://www.openwall.com/lists/oss-security/2024/03/29/4)
 
-[NetBSD/Pkgsrc on Xz Library](https://www.unitedbsd.com/d/1321-statement-on-backdoor-in-xz-library)
+[Tom's Essay (2008)](https://archive.nytimes.com/opinionator.blogs.nytimes.com/2008/09/23/toms-essay/)
+
+[Some notes on Firefox’s media autoplay settings in practice as of Firefox 124](https://utcc.utoronto.ca/~cks/space/blog/web/FirefoxMediaAutoplaySettingsIV)
 
 [From scratch OpenGL and shaders with raw Xlib](https://hereket.com/posts/x11_window_with_shaders/)
 
-[Reported Supply Chain Compromise Affecting XZ Utils Data Compression Library](https://www.cisa.gov/news-events/alerts/2024/03/29/reported-supply-chain-compromise-affecting-xz-utils-data-compression-library-cve-2024-3094)
+[How GitHub replaced SourceForge as the dominant code hosting platform](https://graphite.dev/blog/github-monopoly-on-code-hosting)
 
-[Full-scale file system acceleration on GPU [pdf]](https://dl.gi.de/server/api/core/bitstreams/7c7a8830-fd81-4e56-8507-cd4809020660/content)
+[Brilliant Pebbles (2001)](https://www.llnl.gov/archives/1980s/brilliant-pebbles)
 
-[Debian on xz-utils: revert to version that does not contain changes by bad actor](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1068024)
-
-[KasmVNC – WASM Based VNC Server and Client](https://github.com/kasmtech/KasmVNC)
-
-[Running a Raspberry Pi with a read-only root filesystem](https://www.dzombak.com/blog/2024/03/Running-a-Raspberry-Pi-with-a-read-only-root-filesystem.html)
+[Basic Things](https://matklad.github.io/2024/03/22/basic-things.html)

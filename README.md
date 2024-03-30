@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Roll-Invert-Unroll: An easier way to replace a duvet cover](https://danverbraganza.com/writings/an-easier-way-to-replace-a-duvet-cover)
+
+[Kolmogorov Complexity and Compression Distance](https://smunshi.net/kolmogorov-complexity-and-compression-distance.html)
+
+[Running OCR against PDFs and images directly in the browser](https://simonwillison.net/2024/Mar/30/ocr-pdfs-images/)
+
 [Garbage Collection for Systems Programmers (2023)](https://bitbashing.io/gc-for-systems-programmers.html)
 
-[Prolog language for PostgreSQL proof of concept](https://github.com/tatut/pgprolog)
+[An unusual 7400-series chip implemented with a gate array](https://www.righto.com/2024/03/idt-gate-array.html)
 
-[Tom's Essay (2008)](https://archive.nytimes.com/opinionator.blogs.nytimes.com/2008/09/23/toms-essay/)
+[About the Tailscale.com outage on March 7, 2024](https://tailscale.com/blog/tls-outage-20240307)
 
-[When Will the Eclipse Happen? A Multimillennium Tale of Computation](https://writings.stephenwolfram.com/2024/03/when-exactly-will-the-eclipse-happen-a-multimillennium-tale-of-computation/)
+[Toni Morrison's Rejection Letters](https://lareviewofbooks.org/article/there-is-no-point-in-my-being-other-than-honest-with-you-on-toni-morrisons-rejection-letters/)
 
-[Backdoor in upstream xz/liblzma leading to SSH server compromise](https://www.openwall.com/lists/oss-security/2024/03/29/4)
+[Git as a debugging tool](https://lucasoshiro.github.io/posts-en/2023-02-13-git-debug/)
 
-[Engaging with Developers on Hacker News with Dan Moore [video]](https://redmonk.com/videos/a-redmonk-conversation-engaging-with-developers-on-hacker-news-with-dan-moore/)
+[Mamba Explained](https://thegradient.pub/mamba-explained/)
 
-[From scratch OpenGL and shaders with raw Xlib](https://hereket.com/posts/x11_window_with_shaders/)
-
-[Some notes on Firefox’s media autoplay settings in practice as of Firefox 124](https://utcc.utoronto.ca/~cks/space/blog/web/FirefoxMediaAutoplaySettingsIV)
-
-[Brilliant Pebbles (2001)](https://www.llnl.gov/archives/1980s/brilliant-pebbles)
-
-[Full-scale file system acceleration on GPU [pdf]](https://dl.gi.de/server/api/core/bitstreams/7c7a8830-fd81-4e56-8507-cd4809020660/content)
+['Shear sound waves' provide the magic for linking ultrasound and magnetic waves](https://phys.org/news/2024-03-magic-linking-ultrasound-magnetic.html)

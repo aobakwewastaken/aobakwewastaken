@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Show HN: Truncate, a word-based strategy game](https://truncate.town/)
+[Shutting down the letsblock.it project and its official instance](https://github.com/letsblockit/letsblockit/discussions/663)
+
+[The Illusion of Being Stuck](https://the-simulation-strategists.beehiiv.com/p/being-stuck)
 
 [Guess My RGB](https://susam.net/myrgb.html)
 
-[xz: A Microcosm of the interactions in Open Source projects](https://robmensching.com/blog/posts/2024/03/30/a-microcosm-of-the-interactions-in-open-source-projects/)
+[Zoomable Circles, a Svelte component for hierarchical data](https://www.npmjs.com/package/svelte-zoomable-circles)
 
-[How Read-Intensive is The Kernel's Use of RCU?](https://paulmck.livejournal.com/67547.html)
+[Tiny orchid flowers pollinated by tiny flies](https://phys.org/news/2024-03-tiny-orchid-pollinated-flies.html)
 
-[Ask HN: How bad is the xz hack?]()
+[How to graduate your PhD when you have no hope](https://huiwenn.github.io/feynman)
+
+[Giphy is sharing your IP address and private data to 816 partners](https://twitter.com/illyism/status/1774425117117788223)
 
 [Meta's Onavo VPN removed SSL encryption of competitor's analytics traffic](https://www.documentcloud.org/documents/24520332-merged-fb)
 
-[Show HN: Ragdoll Studio (fka Arthas.AI) is the FOSS alternative to character.ai](https://ragdoll-studio.vercel.app/)
+[Linear Algebra of Types (2019)](https://www.philipzucker.com/linear-algebra-of-types/)
 
-[Mathematician Who Made Sense of the Universe's Randomness Wins Math's Top Prize](https://www.smithsonianmag.com/smart-news/mathematician-who-made-sense-of-the-universes-randomness-wins-maths-top-prize-180984020/)
-
-[Cognition Labs Seeks $2B Valuation](https://www.wsj.com/tech/ai/a-peter-thiel-backed-ai-startup-cognition-labs-seeks-2-billion-valuation-998fa39d)
-
-[Xz: Can you spot the single character that disabled Linux landlock?](https://git.tukaani.org/?p=xz.git;a=blobdiff;f=CMakeLists.txt;h=d2b1af7ab0ab759b6805ced3dff2555e2a4b3f8e;hp=76700591059711e3a4da5b45cf58474dac4e12a7;hb=328c52da8a2bbb81307644efdb58db2c422d9ba7;hpb=eb8ad59e9bab32a8d655796afd39597ea6dcc64d)
+[The unreasonable effectiveness of VMs in hacker pedagogy](https://hiandrewquinn.github.io/til-site/posts/the-unreasonable-effectiveness-of-vms-in-hacker-pedagogy/)

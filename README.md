@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Shutting down the letsblock.it project and its official instance](https://github.com/letsblockit/letsblockit/discussions/663)
+[Show HN: Libmui is a macOS Classic widget lib for Linux](https://github.com/buserror/libmui)
 
-[The Illusion of Being Stuck](https://the-simulation-strategists.beehiiv.com/p/being-stuck)
+[Cpp2 and cppfront – An experimental 'C++ syntax 2' and its first compiler](https://hsutter.github.io/cppfront/)
 
-[Guess My RGB](https://susam.net/myrgb.html)
+[Cutting a 700 Carat Rare Valuable Gemstone [video]](https://www.youtube.com/watch?v=Qe9tnIB2Yro)
 
-[Giphy is sharing your IP address and private data to 816 partners](https://twitter.com/illyism/status/1774425117117788223)
+[The xz backdoor thing reminds me of a story](https://rigor-mortis.nmrc.org/@simplenomad/112184869681420177)
+
+[Guess my RGB](https://susam.net/myrgb.html)
+
+[A. K. Dewdney has died](https://lfpress.remembering.ca/obituary/alexander-dewdney-1089463499)
+
+[The Mongolian Meta](https://docs.google.com/document/d/1W_QK69BXMHUZXI5VdNH93_aLhTd9SQzNYhRLrh_-ZVA/edit?usp=sharing&ref=thebrowser.com)
+
+[Meticulous (YC S21) is hiring to eliminate UI tests]()
+
+[Is social media behind an epidemic of teenage mental illness?](https://www.nature.com/articles/d41586-024-00902-2)
 
 [Zoomable Circles, a Svelte component for hierarchical data](https://www.npmjs.com/package/svelte-zoomable-circles)
-
-[Tiny orchid flowers pollinated by tiny flies](https://phys.org/news/2024-03-tiny-orchid-pollinated-flies.html)
-
-[Totality and non-standard recursion in Idris](https://franklin.dyer.me/post/222)
-
-[The unreasonable effectiveness of VMs in hacker pedagogy](https://hiandrewquinn.github.io/til-site/posts/the-unreasonable-effectiveness-of-vms-in-hacker-pedagogy/)
-
-[The end of Pepper&Carrot and my next project](https://www.davidrevoy.com/article1020/the-end-of-peppercarrot-and-my-next-project)
-
-[Linear Algebra of Types (2019)](https://www.philipzucker.com/linear-algebra-of-types/)

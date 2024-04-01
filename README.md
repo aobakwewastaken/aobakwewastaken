@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[LLaMA Now Goes Faster on CPUs](https://justine.lol/matmul/)
+
+[Stuff that is backwards in Australia](https://blog.plover.com/geo/Australia.html)
+
+[A deep dive into email deliverability in 2024](https://www.xomedia.io/blog/a-deep-dive-into-email-deliverability/)
+
 [Show HN: Libmui is a macOS Classic widget lib for Linux](https://github.com/buserror/libmui)
 
-[Cpp2 and cppfront – An experimental 'C++ syntax 2' and its first compiler](https://hsutter.github.io/cppfront/)
+[InternLM2](https://arxiv.org/abs/2403.17297)
 
-[Cutting a 700 Carat Rare Valuable Gemstone [video]](https://www.youtube.com/watch?v=Qe9tnIB2Yro)
+[Documentation for the AMD 7900XTX](https://github.com/geohot/7900xtx)
 
-[The xz backdoor thing reminds me of a story](https://rigor-mortis.nmrc.org/@simplenomad/112184869681420177)
+[Overview: What are Cpp2 and cppfront? How do I get and build cppfront?](https://hsutter.github.io/cppfront/)
 
-[Guess my RGB](https://susam.net/myrgb.html)
+[I upgraded my iBook G4 to have an SSD](https://boredzo.org/blog/archives/2024-03-31/i-upgraded-my-ibook-g4-to-have-an-ssd)
 
-[A. K. Dewdney has died](https://lfpress.remembering.ca/obituary/alexander-dewdney-1089463499)
+[Upscayl – Free and Open Source AI Image Upscaler](https://github.com/upscayl/upscayl)
 
-[The Mongolian Meta](https://docs.google.com/document/d/1W_QK69BXMHUZXI5VdNH93_aLhTd9SQzNYhRLrh_-ZVA/edit?usp=sharing&ref=thebrowser.com)
-
-[Meticulous (YC S21) is hiring to eliminate UI tests]()
-
-[Is social media behind an epidemic of teenage mental illness?](https://www.nature.com/articles/d41586-024-00902-2)
-
-[Zoomable Circles, a Svelte component for hierarchical data](https://www.npmjs.com/package/svelte-zoomable-circles)
+[Programming Beyond Paradigms](https://www.micahcantor.com/blog/programming-beyond-paradigms/)

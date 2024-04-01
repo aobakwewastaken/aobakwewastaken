@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Error Handling in Baby Toys](https://brainbaking.com/post/2024/04/error-handling-in-baby-toys/)
+[Xzbot: Notes, honeypot, and exploit demo for the xz backdoor](https://github.com/amlweems/xzbot)
 
-[LLaMA Now Goes Faster on CPUs](https://justine.lol/matmul/)
+[The Wi-Fi only works when it's raining](https://predr.ag/blog/wifi-only-works-when-its-raining/)
+
+[Ask HN: Who is hiring? (April 2024)]()
+
+[OWASP Data Breach Notification](https://owasp.org/blog/2024/03/29/OWASP-data-breach-notification)
+
+[Show HN: I just made my profitable online form builder open-sourced](https://github.com/heyform/heyform)
+
+[What even is a JSON number?](https://blog.trl.sn/blog/what-is-a-json-number/)
+
+[Ask HN: Who wants to be hired? (April 2024)]()
+
+[Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+
+[RAGFlow is an open-source RAG engine based on OCR and document parsing](https://github.com/infiniflow/ragflow)
 
 [The Tale of Daniel](https://www.hillelwayne.com/post/tale-of-daniel/)
-
-[Century-Old Stone "Tsunami Stones" Dot Japan's Coastline (2015)](https://www.smithsonianmag.com/smart-news/century-old-warnings-against-tsunamis-dot-japans-coastline-180956448/)
-
-[What Caused the Red Sea Submarine Cable Cuts?](https://www.kentik.com/blog/what-caused-the-red-sea-submarine-cable-cuts/)
-
-[First-in-human implantation of bionic device to halt Crohn's disease (2023)](https://florey.edu.au/news/2023/12/first-in-human-implantation-of-bionic-device-to-halt-crohns-disease/)
-
-[Chrome Feature: ZSTD Content-Encoding](https://chromestatus.com/feature/6186023867908096)
-
-[The Hearts of the Super Nintendo](https://fabiensanglard.net/snes_hearts/index.html)
-
-[Will Any Crap We Put into Graphene Increase Its Electrocatalytic Effect? (2020)](https://pubs.acs.org/doi/pdf/10.1021/acsnano.9b00184)
-
-[The history of lead pencils and their lack of any actual lead](https://www.pensunlimited.co.uk/blog/industry-news/pencils-a-little-tale/)

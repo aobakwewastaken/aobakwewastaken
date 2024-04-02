@@ -7,14 +7,14 @@
 
 [Wireproxy: WireGuard client that exposes itself as a HTTP/SOCKS5 proxy](https://github.com/pufferffish/wireproxy)
 
+[Emerge (YC W21) is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
+
+[KraftCloud](https://github.com/unikraft/unikraft)
+
+[From xz to ibus: more questionable tarballs](https://www.openwall.com/lists/oss-security/2024/04/01/1)
+
+[Show HN: OneUptime – open-source Datadog Alternative](https://github.com/OneUptime/oneuptime)
+
 [Refix: Fast, Debuggable, Reproducible Builds](https://yosefk.com/blog/refix-fast-debuggable-reproducible-builds.html)
 
-[Building GCC 1.27 (first GCC with x86 support) (2019)](http://kristerw.blogspot.com/2019/01/building-gcc-127.html)
-
-[XZ: Repo maintainer Lasse Collin responding on LKML](https://lkml.org/lkml/2024/3/30/188)
-
-[Microchess for the Kim-1 (2006)](http://www.benlo.com/microchess/index.html)
-
-[What even is a JSON number?](https://blog.trl.sn/blog/what-is-a-json-number/)
-
-[Xzbot: Notes, honeypot, and exploit demo for the xz backdoor](https://github.com/amlweems/xzbot)
+[Timeline of the xz open source attack](https://research.swtch.com/xz-timeline)

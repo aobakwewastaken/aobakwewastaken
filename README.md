@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-['10 > 64, in QR Codes](https://huonw.github.io/blog/2024/03/qr-base10-base64/)
+[CityGaussian: Real-time high-quality large-scale scene rendering with Gaussians](https://dekuliutesla.github.io/citygs/)
 
-[David A. Wheeler – Countering Trusting Trust via Diverse Double-Compiling (2009)](https://dwheeler.com/trusting-trust/)
+[Anonymous public voicemail inbox](https://afterthebeep.tel/)
 
-[Canoo spent double its annual revenue on the CEO's private jet](https://techcrunch.com/2024/04/01/canoo-spent-double-its-annual-revenue-on-the-ceos-private-jet-in-2023/)
+[3D + 2D: Testing out my cross-platform WASM graphics engine]()
 
-[Timeline of the xz open source attack](https://research.swtch.com/xz-timeline)
+[Los Alamos Chess](https://en.wikipedia.org/wiki/Los_Alamos_chess)
 
-[DECT NR+: A technical dive into non-cellular 5G](https://devzone.nordicsemi.com/nordic/nordic-blog/b/blog/posts/dect-nr-a-technical-dive-into-non-cellular-5g)
+[Princeton group open sources "SWE-agent", with 12% fix rate for GitHub issues](https://github.com/princeton-nlp/SWE-agent)
 
-[Debian Git Monorepo](https://blog.liw.fi/posts/2024/monorepo/)
+[CamSimulate: Python app to stream Videos from files to video devices on computer](https://github.com/MK-1407/CamSimulate)
 
-[Low Cost Robot Arm](https://github.com/AlexanderKoch-Koch/low_cost_robot)
+[Everything I know about SSDs (2019)](https://kcall.co.uk/ssd/index.html)
 
-[Python Cloudflare Workers](https://blog.cloudflare.com/python-workers)
+[Roe AI (YC W24) Is Hiring](https://www.ycombinator.com/companies/roe-ai/jobs/NZDmSo9-founding-engineer)
 
-[Show HN: OneUptime – open-source Datadog Alternative](https://github.com/OneUptime/oneuptime)
+[Ross Anderson](https://www.schneier.com/blog/archives/2024/03/ross-anderson.html)
 
-[Apple AI researcher boast on-device model that 'substantially outperforms' GPT-4](https://9to5mac.com/2024/04/01/apple-ai-gpt-4/)
+[10 > 64, in QR Codes](https://huonw.github.io/blog/2024/03/qr-base10-base64/)

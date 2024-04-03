@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Reflections on Distrusting xz](https://joeyh.name/blog/entry/reflections_on_distrusting_xz/)
+[PyTorch Library for Running LLM on Intel CPU and GPU](https://github.com/intel-analytics/ipex-llm)
+
+[Every Dunder Method in Python](https://www.pythonmorsels.com/every-dunder-method/)
+
+[Redict 7.3.0, a copyleft fork of Redis, is now available](https://redict.io/posts/2024-04-03-redict-7.3.0-released/)
 
 [3D + 2D: Testing out my cross-platform WASM graphics engine]()
 
-[Dali owner file petition to cap liability in Baltimore bridge collapse at $43.7M](https://www.mdd.uscourts.gov/news/matter-petition-grace-ocean-private-limited-et-al-exoneration-or-limitation-liability-2024-04)
-
-[Avoid blundering: 80% of a winning strategy](https://longform.asmartbear.com/avoid-blundering/)
-
-[Anonymous public voicemail inbox](https://afterthebeep.tel/)
-
-[ReALM: Reference Resolution as Language Modeling](https://arxiv.org/abs/2403.20329)
+[Reflections on Distrusting xz](https://joeyh.name/blog/entry/reflections_on_distrusting_xz/)
 
 [A Gentle Introduction to the Art of Mathematics](https://giam.southernct.edu/GIAM/)
 
-[A Brazilian special-forces unit fighting to save the Amazon](https://www.newyorker.com/magazine/2024/04/08/the-brazilian-special-forces-unit-fighting-to-save-the-amazon)
+[How the XZ Backdoor Works](https://lwn.net/SubscriberLink/967192/6c39d47b5f299a23/)
+
+[ReALM: Reference Resolution as Language Modeling](https://arxiv.org/abs/2403.20329)
 
 [Science fiction and the death of the sun](https://www.typebarmagazine.com/2024/03/24/science-fiction-and-the-death-of-the-sun/)
 
-[CityGaussian: Real-time high-quality large-scale scene rendering with Gaussians](https://dekuliutesla.github.io/citygs/)
+[Cups vs. grams: why can't American and British cooks agree on food measurements?](https://www.theguardian.com/food/2024/apr/02/cups-v-grams-why-cant-american-and-british-cooks-agree-on-food-measurements)

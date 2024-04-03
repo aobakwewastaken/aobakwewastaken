@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Reflections on Distrusting xz](https://joeyh.name/blog/entry/reflections_on_distrusting_xz/)
+
 [3D + 2D: Testing out my cross-platform WASM graphics engine]()
 
-[The Rise and Fall of 3M's Floppy Disk](https://spectrum.ieee.org/3m-floppy)
+[Dali owner file petition to cap liability in Baltimore bridge collapse at $43.7M](https://www.mdd.uscourts.gov/news/matter-petition-grace-ocean-private-limited-et-al-exoneration-or-limitation-liability-2024-04)
 
-[CityGaussian: Real-time high-quality large-scale scene rendering with Gaussians](https://dekuliutesla.github.io/citygs/)
+[Avoid blundering: 80% of a winning strategy](https://longform.asmartbear.com/avoid-blundering/)
 
 [Anonymous public voicemail inbox](https://afterthebeep.tel/)
 
 [ReALM: Reference Resolution as Language Modeling](https://arxiv.org/abs/2403.20329)
 
-[HP Disables Printer Functionality Until You Install the HP Smart App](https://twitter.com/Schappi/status/1775384892970533208/photo/1)
+[A Gentle Introduction to the Art of Mathematics](https://giam.southernct.edu/GIAM/)
 
-[A rudimentary simulation of the three-body problem](https://github.com/achristmascarl/three_body)
+[A Brazilian special-forces unit fighting to save the Amazon](https://www.newyorker.com/magazine/2024/04/08/the-brazilian-special-forces-unit-fighting-to-save-the-amazon)
 
 [Science fiction and the death of the sun](https://www.typebarmagazine.com/2024/03/24/science-fiction-and-the-death-of-the-sun/)
 
-[Los Alamos Chess](https://en.wikipedia.org/wiki/Los_Alamos_chess)
-
-[Avoid blundering: 80% of a winning strategy](https://longform.asmartbear.com/avoid-blundering/)
+[CityGaussian: Real-time high-quality large-scale scene rendering with Gaussians](https://dekuliutesla.github.io/citygs/)

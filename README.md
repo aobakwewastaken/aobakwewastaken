@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [PyTorch Library for Running LLM on Intel CPU and GPU](https://github.com/intel-analytics/ipex-llm)
 
-[Every Dunder Method in Python](https://www.pythonmorsels.com/every-dunder-method/)
+[LiveView Is Best with Svelte](https://blog.sequin.io/liveview-is-best-with-svelte/)
 
-[Redict 7.3.0, a copyleft fork of Redis, is now available](https://redict.io/posts/2024-04-03-redict-7.3.0-released/)
+[The ancient world before computers had stacks or heaps](https://devblogs.microsoft.com/oldnewthing/20240401-00/?p=109599)
+
+[Show HN: Goralim - a rate limiting pkg for Go to handle distributed workloads](https://github.com/0verread/goralim)
+
+['Mini liver' will grow in person's own lymph node in bold new trial](https://www.nature.com/articles/d41586-024-00975-z)
+
+[Truemetrics (YC S23) Hiring a Back End Engineer](https://www.ycombinator.com/companies/truemetrics/jobs/rZNg2Ai-backend-engineer-with-strong-python-and-aws-skills)
+
+['The Manipulaters' Improve Phishing, Still Fail at Opsec](https://krebsonsecurity.com/2024/04/the-manipulaters-improve-phishing-still-fail-at-opsec/)
 
 [3D + 2D: Testing out my cross-platform WASM graphics engine]()
 
-[Reflections on Distrusting xz](https://joeyh.name/blog/entry/reflections_on_distrusting_xz/)
+[The Rise and Fall of 3M's Floppy Disk (2023)](https://spectrum.ieee.org/3m-floppy)
 
-[A Gentle Introduction to the Art of Mathematics](https://giam.southernct.edu/GIAM/)
-
-[How the XZ Backdoor Works](https://lwn.net/SubscriberLink/967192/6c39d47b5f299a23/)
-
-[ReALM: Reference Resolution as Language Modeling](https://arxiv.org/abs/2403.20329)
-
-[Science fiction and the death of the sun](https://www.typebarmagazine.com/2024/03/24/science-fiction-and-the-death-of-the-sun/)
-
-[Cups vs. grams: why can't American and British cooks agree on food measurements?](https://www.theguardian.com/food/2024/apr/02/cups-v-grams-why-cant-american-and-british-cooks-agree-on-food-measurements)
+[Legendre Transform, Better Explained](https://blog.jessriedel.com/2017/06/28/legendre-transform/)

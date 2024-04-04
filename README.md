@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Tips for linking shell companies to their secret owners](https://gijn.org/stories/tracking-shell-companies-secret-owners/)
+[Cally: Accessibility Statement](https://simonwillison.net/2024/Apr/2/cally-accessibility-statement/)
 
-[Subroutine calls in the ancient world, before computers had stacks or heaps](https://devblogs.microsoft.com/oldnewthing/20240401-00/?p=109599)
+[Show HN: I've built a locally running Perplexity clone](https://github.com/nilsherzig/LLocalSearch)
 
-[Pitcairn Island Immigration (current population ~ 50)](https://www.immigration.pn)
+[Online Encyclopedia of Integer Sequences](https://oeis.org/)
 
-[MOnSter 6502: a working transistor-scale replica of the classic MOS 6502](https://monster6502.com/)
+[Henry Darger](https://www.moma.org/artists/28600)
+
+[A disk so full, it couldn't be restored](https://sixcolors.com/post/2024/03/a-disk-so-full-it-couldnt-be-restored/)
+
+[Washington State judge blocks use of AI-enhanced video as evidence](https://www.nbcnews.com/news/us-news/washington-state-judge-blocks-use-ai-enhanced-video-evidence-rcna141932)
 
 [Tonal.js: Functional music theory lib](https://github.com/tonaljs/tonal)
 
-[Terraform makes carbon neutral natural gas](https://terraformindustries.wordpress.com/2024/04/01/terraform-makes-carbon-neutral-natural-gas/)
+[MOnSter 6502: a working transistor-scale replica of the classic MOS 6502](https://monster6502.com/)
 
-[Improvements to static analysis in GCC 14](https://developers.redhat.com/articles/2024/04/03/improvements-static-analysis-gcc-14-compiler)
+[Logik: Open-source FPGA toolchain by Zero ASIC](https://github.com/zeroasiccorp/logik)
 
-[New seafloor map only 25% done, with 6 years to go](https://eos.org/articles/new-seafloor-map-only-25-done-with-6-years-to-go)
-
-[The Triumph of Philanthropy (2018)](https://www.laphamsquarterly.org/roundtable/triumph-philanthropy)
-
-[The Quintic, the Icosahedron, and Elliptic Curves [pdf]](https://www.ams.org/journals/notices/202404/rnoti-p444.pdf)
+[Sei (YC W22) Is Hiring Principal Engineers (On-Site, India)](https://www.ycombinator.com/companies/sei/jobs/EjEA2P9-lead-principal-software-engineer)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[The design philosophy of Great Tables](https://posit-dev.github.io/great-tables/blog/design-philosophy/)
+
 [Anatomy of a credit card rewards program](https://www.bitsaboutmoney.com/archive/anatomy-of-credit-card-rewards-programs/)
 
-[Kobold letters: Why HTML emails are a risk to your organization](https://lutrasecurity.com/en/articles/kobold-letters/)
+[Understanding and managing the impact of machine learning models on the web](https://www.w3.org/reports/ai-web-impact/)
 
-[Command R+: A Scalable LLM Built for Business](https://txt.cohere.com/command-r-plus-microsoft-azure/)
+[HTTP/2 Continuation Flood: Technical Details](https://nowotarski.info/http2-continuation-flood-technical-details/)
 
-[Polars DataFrame Processing on GPU's](https://pola.rs/posts/polars-on-gpu/)
+[JetMoE: Reaching LLaMA2 performance with 0.1M dollars](https://research.myshell.ai/jetmoe)
 
-[The V8 Sandbox](https://v8.dev/blog/sandbox)
+[Language models as compilers: Simulating pseudocode execution](https://arxiv.org/abs/2404.02575)
 
-[Generational Luck in the Housing Market](https://awealthofcommonsense.com/2024/04/generational-luck-in-the-housing-market/)
+[Homemade 6 GHz pulse compression radar](https://hforsten.com/homemade-6-ghz-pulse-compression-radar.html)
 
-[US Government funds pilot project for heated sand energy storage](https://www.pv-magazine.com/2024/04/04/us-government-funds-pilot-project-for-heated-sand-energy-storage/)
+[Reclaim Protocol (YC W21) Is Hiring BDRs](https://www.workatastartup.com/jobs/65710)
+
+[Containers and Unikernels: Similar, different, and intertwined](https://unikraft.io/blog/containers-and-unikernels/)
 
 [The Great American Rail-Trail](https://www.railstotrails.org/site/greatamericanrailtrail/content/route/)
-
-[Ask HN: Happy 404 Day. Whats your favorite 404 error page?]()
-
-[Show HN: A universal Helm Chart for deploying applications into K8s/OpenShift](https://github.com/nixys/nxs-universal-chart)

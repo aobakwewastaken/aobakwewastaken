@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Mario meets Pareto](https://www.mayerowitz.io/blog/mario-meets-pareto)
+[M 4.7 Earthquake 7 km N of Whitehouse Station, New Jersey – USGS](https://earthquake.usgs.gov/earthquakes/eventpage/at00sbh3yv/executive)
 
-[Infrastructure as Code Is Not the Answer – By Luke Shaughnessy](https://lukeshaughnessy.medium.com/infrastructure-as-code-is-not-the-answer-cfaf4882dcba)
+[4.7 Earthquake in NYC](https://earthquake.usgs.gov/earthquakes/map/?currentFeatureId=ld2009021400&extent=39.64377,-78.45886&extent=42.91218,-69.94446&range=search&sort=largest&listOnlyShown=true&baseLayer=terrain&timeZone=utc&search=%7B%22name%22:%22Search%20Results%22,%22params%22:%7B%22starttime%22:%221900-01-01%2000:00:00%22,%22maxlatitude%22:45.176,%22minlatitude%22:40.657,%22maxlongitude%22:-71.642,%22minlongitude%22:-79.991,%22minmagnitude%22:0,%22orderby%22:%22time%22%7D%7D)
+
+[So you wanna de-bog yourself](https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself)
+
+[A Lego Model of Financial Capitalism](https://www.asomo.co/p/a-lego-model-of-financial-capitalism)
+
+[Amazon increased US plastic packaging despite global phase-out](https://www.theguardian.com/technology/2024/apr/04/amazon-increases-plastic-packaging-us)
+
+[Ask HN: What is the most useless project you have been working on?]()
+
+[Mario meets Pareto](https://www.mayerowitz.io/blog/mario-meets-pareto)
 
 [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
 
-[Tool Use (function calling)](https://docs.anthropic.com/claude/docs/tool-use)
+[Cloudflare acquires PartyKit to allow developers to build real-time multi-user](https://blog.cloudflare.com/cloudflare-acquires-partykit)
 
-[Why Don't I Like Git More?](https://matduggan.com/why-dont-i-like-git-more/)
-
-[Understanding Linear Feedback Shift Registers in FPGAs](https://www.adiuvoengineering.com/post/microzed-chronicles-linear-feedback-shift-register)
-
-[Anatomy of a credit card rewards program](https://www.bitsaboutmoney.com/archive/anatomy-of-credit-card-rewards-programs/)
-
-[Proton Mail says Outlook for Windows is Microsoft's new data collection service](https://www.ghacks.net/2024/01/12/proton-mail-says-that-the-new-outlook-app-for-windows-is-microsofts-new-data-collection-service/)
-
-[OpenBSD 7.5 Released](https://www.openbsd.org/75.html)
-
-[The design philosophy of Great Tables](https://posit-dev.github.io/great-tables/blog/design-philosophy/)
+[WindCon2024: A Joke Too Far for Many](https://blog.windscribe.com/a-joke-too-far/)

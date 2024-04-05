@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[M 4.7 Earthquake 7 km N of Whitehouse Station, New Jersey – USGS](https://earthquake.usgs.gov/earthquakes/eventpage/at00sbh3yv/executive)
+[Fortran on WebAssembly](https://gws.phd/posts/fortran_wasm/)
 
-[So you wanna de-bog yourself](https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself)
+[Interview with a blind developer on how he works (2017)](https://www.vincit.com/blog/software-development-450-words-per-minute)
 
-[A Lego Model of Financial Capitalism](https://www.asomo.co/p/a-lego-model-of-financial-capitalism)
+[JetBrains has just released a 3000 inspections Encyclopedia](https://www.jetbrains.com/pages/inspectopedia-by-jetbrains/)
 
-[Mario meets Pareto](https://www.mayerowitz.io/blog/mario-meets-pareto)
+[How does DNS work](https://cr.yp.to/djbdns/intro-dns.html)
 
-[Bringing Back the Somali Shilling](http://jpkoning.blogspot.com/2017/03/bringing-back-somali-shilling.html)
+[Autonomous Overhead Powerline Recharging for Uninterrupted Drone Operations [video]](https://www.youtube.com/watch?v=C-uekD6VTIQ)
 
-[Cloudflare acquires PartyKit to allow developers to build real-time multi-user](https://blog.cloudflare.com/cloudflare-acquires-partykit)
+[The Defenestrations of Prague (1419–1997)](https://publicdomainreview.org/essay/windows-onto-history/)
 
-[Understanding Linear Feedback Shift Registers in FPGAs](https://www.adiuvoengineering.com/post/microzed-chronicles-linear-feedback-shift-register)
+[A local news site was critical of Facebook–then Meta banned all their links](https://www.thehandbasket.co/p/facebook-kansas-reflector-links-banned)
 
-[Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
+[Apple Updates App Store Guidelines to Permit Game Emulators, EU Music App Links](https://www.macrumors.com/2024/04/05/app-store-guidelines-emulators-music-app-links/)
 
-[A Tantalizing 'Hint' That Astronomers Got Dark Energy All Wrong](https://www.nytimes.com/2024/04/04/science/space/astronomy-universe-dark-energy.html)
+[Ask HN: What is the most useless project you have worked on?]()
 
-[Big Tech's underground race to buy AI training data](https://www.reuters.com/technology/inside-big-techs-underground-race-buy-ai-training-data-2024-04-05/)
+[An IRC client in your motherboard](https://axleos.com/an-irc-client-in-your-motherboard/)

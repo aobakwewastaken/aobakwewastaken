@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[eC Programming Language](https://ec-lang.org)
+[Faces.js, a JavaScript library for generating vector-based cartoon faces](https://zengm.com/facesjs/)
 
-[System/360 – CHM Revolution](https://www.computerhistory.org/revolution/mainframe-computers/7/164)
+[Tridge Returns to Rsync](https://lwn.net/Articles/968732/)
 
-[Insurers Are Spying on Your Home from the Sky](https://www.wsj.com/real-estate/home-insurance-aerial-images-37a18b16)
+[What to do when an airline website doesn't accept your legal name](https://www.preethamrn.com/posts/southwest-flight-bug)
 
-[An Open Source Tool for Multimodal Fact Verification](https://github.com/Libr-AI/OpenFactVerification)
+[Chisel: A fast TCP/UDP tunnel over HTTP](https://github.com/jpillora/chisel)
 
-[NASA spacecraft films crazy vortex while flying through sun's atmosphere](https://mashable.com/article/nasa-sun-footage-parker-solar-probe)
+[A Theory of Composing Protocols (2023)](https://programming-journal.org/2023/7/6/)
 
-[A History of Source Control Systems: SCCS and RCS](https://experimentalworks.net/posts/2024-03-18-a-history-of-vcs-part1/)
+[ChrysaLisp GUI Demo [video]](https://www.youtube.com/watch?v=ADvyZOxlBu4)
 
-[Asus refunds Zenfone buyer for failing to provide bootloader unlock tools](https://www.androidauthority.com/asus-bootloader-unlock-settlement-3431818/)
+[Porn restrictions are leading to a VPN boom](https://www.popsci.com/technology/vpn-boom/)
 
-[Maintenance.md](https://github.com/FiloSottile/FiloSottile/blob/main/maintenance.md)
+[Tokens, N-Grams, and Bag-of-Words Models](https://zilliz.com/learn/introduction-to-natural-language-processing-tokens-ngrams-bag-of-words-models)
 
-[Ohmyksh: A Framework for OpenBSD's Ksh](https://github.com/qbit/ohmyksh)
+[Trademark bully': Momofuku turns up heat on others selling 'chili crunch'](https://www.theguardian.com/food/2024/apr/04/chili-crunch-trademark-momofuku-david-chang)
 
-[Deep Aphantasia: a visual brain with minimal influence from priors?](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1374349/full)
+[Schedule-Free Learning – A New Way to Train](https://github.com/facebookresearch/schedule_free)

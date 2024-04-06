@@ -1,7 +1,13 @@
 # Top Stories on hackernews <br />
+[What I think about when I edit](https://evaparish.com/blog/how-i-edit)
+
 [SearXNG is a free internet metasearch engine](https://github.com/searxng/searxng)
 
+[A History of Source Control Systems: SCCS and RCS](https://experimentalworks.net/posts/2024-03-18-a-history-of-vcs-part1/)
+
 [NIST researchers use cellphone compass to measure glucose](https://www.nist.gov/news-events/news/2024/04/nist-researchers-use-cellphone-compass-measure-tiny-concentrations)
+
+[Why AWS Supports Valkey](https://aws.amazon.com/blogs/opensource/why-aws-supports-valkey/)
 
 [World_sim: LLM prompted to act as a sentient CLI universe simulator](https://worldsim.nousresearch.com/)
 
@@ -9,12 +15,6 @@
 
 [Why CockroachDB doesn't use EvalPlanQual](https://www.cockroachlabs.com/blog/why-cockroachdb-doesnt-use-evalplanqual/)
 
-[Interview with a blind developer on how he works (2017)](https://www.vincit.com/blog/software-development-450-words-per-minute)
-
-[Fortran on WebAssembly](https://gws.phd/posts/fortran_wasm/)
-
 [Autonomous Overhead Powerline Recharging for Uninterrupted Drone Operations [video]](https://www.youtube.com/watch?v=C-uekD6VTIQ)
 
-[65 years ago, America announced the names of its first astronauts](https://www.theregister.com/2024/04/04/65_years_ago_mercury_7/)
-
-[Postgres locks explorer](https://leontrolski.github.io/pglockpy.html)
+[Oh No Robot: Comics search](https://www.ohnorobot.com/)

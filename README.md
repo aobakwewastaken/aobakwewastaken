@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [Just How Much Faster Are the Gnome 46 Terminals?](https://bxt.rs/blog/just-how-much-faster-are-the-gnome-46-terminals/)
 
-[Spotify demonetizes all tracks under 1k streams](https://djmag.com/news/spotify-officially-demonetises-all-tracks-under-1000-streams)
+[Blocky – a DNS proxy and ad-blocker for the local network](https://0xerr0r.github.io/blocky/)
 
 [Show HN: Beyond text splitting – improved file parsing for LLM's](https://github.com/Filimoa/open-parse)
 
+[KDE6 release: D-Bus and Polkit Galore](https://security.opensuse.org/2024/04/02/kde6-dbus-polkit.html)
+
 [When a black hole and a neutron star merge](https://www.mpg.de/21778967/0404-grav-mysterious-object-in-the-gap-152520-x)
+
+[Building a Managed Postgres Service in Rust](https://tembo.io/blog/managed-postgres-rust)
 
 [Phytomining – Extracting Minerals via Plants](https://arpa-e.energy.gov/news-and-media/press-releases/us-department-energy-announces-10-million-explore-using-plants)
 
-[Programming with DOS Debugger (2003)](https://susam.net/programming-with-dos-debugger.html)
+[TSMC Gets $11.6B in US Grants, Loans for Three Chip Fabs](https://www.bloomberg.com/news/articles/2024-04-08/tsmc-gets-11-6-billion-in-us-grants-loans-for-three-chip-fabs)
 
 [Wreck of Shackleton's 'Endurance' discovered in Antarctic depths (2022)](https://www.smithsonianmag.com/smart-news/ernest-shackleton-ship-discovery-antarctic-explorer-history-180979702/)
 
-[PumpkinOS, a Re-Implementation of PalmOS](https://github.com/migueletto/PumpkinOS)
-
-[Bitmovin (YC S15) Is Hiring a Full Stack Engineer in Austria](https://bitmovin.com/careers/full-stack-engineer-7260509002)
-
-[Retrospective on 10 Years of colour-science](https://www.colour-science.org/posts/retrospective-on-10-years-of-colour-science/)
+[Programming with DOS Debugger (2003)](https://susam.net/programming-with-dos-debugger.html)

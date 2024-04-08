@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Vala Programming Language](https://vala.dev/)
+[llm.c – LLM training in simple, pure C/CUDA](https://github.com/karpathy/llm.c)
 
-[Reverst: Reverse Tunnels in Go over HTTP/3 and QUIC](https://github.com/flipt-io/reverst)
+[Lore Harp McGovern built a microcomputer empire from her suburban home](https://every.to/the-crazy-ones/the-woman-that-tech-history-forgot)
 
-[Just How Much Faster Are the Gnome 46 Terminals?](https://bxt.rs/blog/just-how-much-faster-are-the-gnome-46-terminals/)
+[After AI beat them, professional Go players got better and more creative](https://www.henrikkarlsson.xyz/p/go)
 
-[Exploring Batch Caching of Trees](https://blog.julik.nl/2024/04/batch-caching-of-trees)
+[Hello World](https://thecoder08.github.io/hello-world.html)
 
-[Blocky – a DNS proxy and ad-blocker for the local network](https://0xerr0r.github.io/blocky/)
+[Japanese American Bird Pins](https://www.hcn.org/issues/56-4/the-untold-history-of-japanese-american-bird-pins/)
 
-[A brief history of keyboard encoding](https://kbd.news/A-brief-history-of-keyboard-encoding-2199.html)
+[The 6502 instruction set as a database](https://gitlab.com/Screwtapello/isa65xx)
 
-[Cultivating Minds: The Psychological Consequences of Rice versus Wheat Farming](https://marginalrevolution.com/marginalrevolution/2024/04/cultivating-minds-the-psychological-consequences-of-rice-versus-wheat-farming.html)
+[Fear makes you a worse programmer](https://jvns.ca/blog/2014/12/21/fear-makes-you-a-worse-programmer/)
 
-[Turchin's Terrifying Predictions](http://donaldclarkplanb.blogspot.com/2024/04/turchins-terrifying-predictions.html)
+[Colab notebook to create Magic cards from image with Claude](https://colab.research.google.com/drive/1h5WIzhvT-GJCL3LHxMCLnc9qyOIqHubY?usp=sharing)
 
-[Show HN: Beyond text splitting – improved file parsing for LLM's](https://github.com/Filimoa/open-parse)
+[French company ramps up production to meet demand for its military drone radar](https://www.politico.eu/article/soar-demand-france-military-radars-ground-master-air-surveillance-thales-war-ukraine/)
 
-[Building a Managed Postgres Service in Rust](https://tembo.io/blog/managed-postgres-rust)
+[Nightfall: Can Kalgash Exist (2014)](https://arxiv.org/abs/1407.4895)

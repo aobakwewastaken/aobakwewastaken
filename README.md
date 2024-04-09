@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Beeper acquired by Automattic (WordPress)](https://blog.beeper.com/2024/04/09/beeper-is-joining-automattic/)
+[A MySQL compatible database engine written in pure Go](https://github.com/dolthub/go-mysql-server)
 
-[New Grafana Loki UI: No LogQL Required](https://grafana.com/blog/2024/04/09/find-your-logs-data-with-explore-logs-no-logql-required/)
+[Intel Gaudi 3 AI Accelerator](https://www.intel.com/content/www/us/en/newsroom/news/vision-2024-gaudi-3-ai-accelerator.html)
 
-[Google's Chrome Antitrust Paradox](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4780718)
+[Building Reliable Systems Out of Unreliable Agents](https://www.rainforestqa.com/blog/building-reliable-systems-out-of-unreliable-agents)
 
-[Chronon, Airbnb's ML Feature Platform, Is Now Open Source](https://medium.com/airbnb-engineering/chronon-airbnbs-ml-feature-platform-is-now-open-source-d9c4dba859e8)
+[Cow Magnets](https://www.stanfordmagnets.com/cow-magnets.html)
 
-[Google CodeGemma: Open Code Models Based on Gemma [pdf]](https://storage.googleapis.com/deepmind-media/gemma/codegemma_report.pdf)
+[The challenges of building modern open source software on PowerPC Mac OS X](http://www.netbsd.org/~nia/tigersrc/)
 
-[Show HN: DualShock calibration in the browser using WebHID](https://blog.the.al/2024/04/09/dualshock-calibration-in-the-browser.html)
+[Show HN: We built PriceLevel to find out what companies pay for SaaS](https://www.pricelevel.com/)
 
-[Show HN: I made a discrete logic network card](https://qdiv.dev/posts/eth2/)
+[ScreenAI: A visual LLM for UI and visually-situated language understanding](https://research.google/blog/screenai-a-visual-language-model-for-ui-and-visually-situated-language-understanding/)
 
-[Supreme Commander Graphics Study (2015)](http://www.adriancourreges.com/blog/2015/06/23/supreme-commander-graphics-study/)
+[How we built the Find My Device network with user security and privacy in mind](https://security.googleblog.com/2024/04/find-my-device-network-security-privacy-protections.html)
 
-[The Lonely Funeral Project in Amsterdam](https://www.upworthy.com/the-lonely-funeral-project)
+[Beeper acquired by Automattic](https://blog.beeper.com/2024/04/09/beeper-is-joining-automattic/)
 
-[How I Tripped Over the Debian Weak Keys Vulnerability](https://www.hezmatt.org/~mpalmer/blog/2024/04/09/how-i-tripped-over-the-debian-weak-keys-vuln.html)
+[Peter Higgs, physicist who discovered Higgs boson, has died](https://www.theguardian.com/science/2024/apr/09/peter-higgs-physicist-who-discovered-higgs-boson-dies-aged-94)

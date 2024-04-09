@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[llm.c – LLM training in simple, pure C/CUDA](https://github.com/karpathy/llm.c)
+[Llm.c – LLM training in simple, pure C/CUDA](https://github.com/karpathy/llm.c)
+
+[How I Tripped Over the Debian Weak Keys Vulnerability](https://www.hezmatt.org/~mpalmer/blog/2024/04/09/how-i-tripped-over-the-debian-weak-keys-vuln.html)
+
+[Hello OLMo: A truly open LLM](https://blog.allenai.org/hello-olmo-a-truly-open-llm-43f7e7359222?gi=760105621962)
+
+[Why Do Python Lists Multiply Oddly? Exploring the CPython Source Code](https://codeconfessions.substack.com/p/why-do-python-lists-multiply-oddly)
+
+[1.18k drawings of plant root systems](https://images.wur.nl/digital/collection/coll13/search)
 
 [Lore Harp McGovern built a microcomputer empire from her suburban home](https://every.to/the-crazy-ones/the-woman-that-tech-history-forgot)
 
-[After AI beat them, professional Go players got better and more creative](https://www.henrikkarlsson.xyz/p/go)
+[TSAC: Low Bitrate Audio Compression](https://bellard.org/tsac/)
+
+[Show HN: I created automatic subtitling app to boost short videos](https://videofa.st/en/short-video/automatic-subtitles/)
 
 [Hello World](https://thecoder08.github.io/hello-world.html)
 
-[Japanese American Bird Pins](https://www.hcn.org/issues/56-4/the-untold-history-of-japanese-american-bird-pins/)
-
-[The 6502 instruction set as a database](https://gitlab.com/Screwtapello/isa65xx)
-
-[Fear makes you a worse programmer](https://jvns.ca/blog/2014/12/21/fear-makes-you-a-worse-programmer/)
-
-[Colab notebook to create Magic cards from image with Claude](https://colab.research.google.com/drive/1h5WIzhvT-GJCL3LHxMCLnc9qyOIqHubY?usp=sharing)
-
-[French company ramps up production to meet demand for its military drone radar](https://www.politico.eu/article/soar-demand-france-military-radars-ground-master-air-surveillance-thales-war-ukraine/)
-
-[Nightfall: Can Kalgash Exist (2014)](https://arxiv.org/abs/1407.4895)
+[Don't require people to change 'source code' to configure your programs](https://utcc.utoronto.ca/~cks/space/blog/programming/ConfigureNoSourceCodeChanges)

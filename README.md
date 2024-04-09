@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Show HN: I made a discrete logic network card](https://qdiv.dev/posts/eth2/)
+
+[Sqlime: Online SQLite Playground](https://github.com/nalgeon/sqlime)
+
 [Llm.c – LLM training in simple, pure C/CUDA](https://github.com/karpathy/llm.c)
 
 [How I Tripped Over the Debian Weak Keys Vulnerability](https://www.hezmatt.org/~mpalmer/blog/2024/04/09/how-i-tripped-over-the-debian-weak-keys-vuln.html)
 
 [Hello OLMo: A truly open LLM](https://blog.allenai.org/hello-olmo-a-truly-open-llm-43f7e7359222?gi=760105621962)
 
-[Why Do Python Lists Multiply Oddly? Exploring the CPython Source Code](https://codeconfessions.substack.com/p/why-do-python-lists-multiply-oddly)
-
-[1.18k drawings of plant root systems](https://images.wur.nl/digital/collection/coll13/search)
-
-[Lore Harp McGovern built a microcomputer empire from her suburban home](https://every.to/the-crazy-ones/the-woman-that-tech-history-forgot)
+[MapSCII – A Braille and ASCII world map renderer for the console](https://github.com/rastapasta/mapscii)
 
 [TSAC: Low Bitrate Audio Compression](https://bellard.org/tsac/)
 
-[Show HN: I created automatic subtitling app to boost short videos](https://videofa.st/en/short-video/automatic-subtitles/)
+[1.18k drawings of plant root systems](https://images.wur.nl/digital/collection/coll13/search)
 
-[Hello World](https://thecoder08.github.io/hello-world.html)
+[Reviving an 800-Year-Old Japanese Tea Farm](https://www.nippon.com/en/japan-topics/c11602/)
 
-[Don't require people to change 'source code' to configure your programs](https://utcc.utoronto.ca/~cks/space/blog/programming/ConfigureNoSourceCodeChanges)
+[Quartz Crystals – Twinning (2016)](http://www.quartzpage.de/crs_twins.html)

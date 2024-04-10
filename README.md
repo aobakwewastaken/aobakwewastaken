@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Double-Entry Bookkeeping as a Directed Graph](https://matheusportela.com/double-entry-bookkeeping-as-a-directed-graph)
+[Show HN: Sonauto – a more controllable AI music creator](https://sonauto.ai/)
 
-[2023 ACM Turing Prize awarded to Avi Wigderson](https://awards.acm.org/about/2023-turing)
+[Aider: AI pair programming in your terminal](https://github.com/paul-gauthier/aider)
 
-[Show HN: Ads-B Visualizer](https://adsb.exposed/)
+[Implementation of Google's Griffin Architecture – RNN LLM](https://github.com/google-deepmind/recurrentgemma)
 
-[Ways of Seeing: Nicholson Baker learns to draw](https://www.bookforum.com/print/3004/nicholson-baker-learns-to-draw-25332)
+[Libgourou: A Free Implementation of Adobe's Adept DRM on ePub/PDF Files](https://forge.soutade.fr/soutade/libgourou)
 
-[Meta MTIA v2](https://ai.meta.com/blog/next-generation-meta-training-inference-accelerator-AI-MTIA/)
+[Code search is hard](https://blog.val.town/blog/search-notes/)
 
-[Intel's Ambitious Meteor Lake iGPU](https://chipsandcheese.com/2024/04/08/intels-ambitious-meteor-lake-igpu/)
+[Lens sort, a masked pixel sort glitch effect](https://github.com/BernardZhao/lenssort)
 
-[A cheeky intern nearly turned MS-DOS into NSFW-DOS](https://www.theregister.com/2024/04/08/ms_dos_easter_egg/)
+[Nimble: A new columnar file format by Meta [video]](https://www.youtube.com/watch?v=bISBNVtXZ6M)
 
-[Kobo announces color e-readers](https://www.theverge.com/2024/4/10/24124411/kobo-libra-colour-clara-colour-e-reader-kindle-e-ink)
+[Mux (YC W16) is hiring a Senior Product Designer that's excited about devtools](https://mux.com/jobs?j=product-designer)
 
-[Client libraries are better when they have no API](https://csvbase.com/blog/7)
+[How does the classic Win32 ListView handle incremental searching?](https://devblogs.microsoft.com/oldnewthing/20240408-00/?p=109627)
 
-[Transformer as a General Purpose Computer](https://www.jvoderho.com/blog.html?blogid=Transformer%20as%20a%20general%20purpose%20computer)
+[The Alice and Bob After Dinner Speech (1984)](https://urbigenous.net/library/alicebob.html)

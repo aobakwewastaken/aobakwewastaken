@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Meta Used Monolithic Architecture to Ship Threads in Only Five Months](https://www.infoq.com/news/2024/04/meta-threads-instagram-5-months/)
+
 [A MySQL compatible database engine written in pure Go](https://github.com/dolthub/go-mysql-server)
-
-[Intel Gaudi 3 AI Accelerator](https://www.intel.com/content/www/us/en/newsroom/news/vision-2024-gaudi-3-ai-accelerator.html)
-
-[Building Reliable Systems Out of Unreliable Agents](https://www.rainforestqa.com/blog/building-reliable-systems-out-of-unreliable-agents)
-
-[Cow Magnets](https://www.stanfordmagnets.com/cow-magnets.html)
-
-[The challenges of building modern open source software on PowerPC Mac OS X](http://www.netbsd.org/~nia/tigersrc/)
 
 [Show HN: We built PriceLevel to find out what companies pay for SaaS](https://www.pricelevel.com/)
 
-[ScreenAI: A visual LLM for UI and visually-situated language understanding](https://research.google/blog/screenai-a-visual-language-model-for-ui-and-visually-situated-language-understanding/)
+[A 2-Axis, Multihead Light Positioner](https://www.bunniestudios.com/blog/2024/a-2-axis-multihead-light-positioner/)
 
-[How we built the Find My Device network with user security and privacy in mind](https://security.googleblog.com/2024/04/find-my-device-network-security-privacy-protections.html)
+[Intel Gaudi 3 AI Accelerator](https://www.intel.com/content/www/us/en/newsroom/news/vision-2024-gaudi-3-ai-accelerator.html)
 
-[Beeper acquired by Automattic](https://blog.beeper.com/2024/04/09/beeper-is-joining-automattic/)
+[Building reliable systems out of unreliable agents](https://www.rainforestqa.com/blog/building-reliable-systems-out-of-unreliable-agents)
 
-[Peter Higgs, physicist who discovered Higgs boson, has died](https://www.theguardian.com/science/2024/apr/09/peter-higgs-physicist-who-discovered-higgs-boson-dies-aged-94)
+[How deep does life go?](https://thereader.mitpress.mit.edu/how-deep-does-life-go/)
+
+[Cow Magnets](https://www.stanfordmagnets.com/cow-magnets.html)
+
+[Yes, social media is a cause of the epidemic of teenage mental illness](https://www.afterbabel.com/p/phone-based-childhood-cause-epidemic)
+
+[Show HN: QWANJI](https://byronicalpatrick.github.io/qwanji/)

@@ -1,5 +1,5 @@
 # Top Stories on hackernews <br />
-[Meta Used Monolithic Architecture to Ship Threads in Only Five Months](https://www.infoq.com/news/2024/04/meta-threads-instagram-5-months/)
+[Yes, social media is a cause of the epidemic of teenage mental illness](https://www.afterbabel.com/p/phone-based-childhood-cause-epidemic)
 
 [A MySQL compatible database engine written in pure Go](https://github.com/dolthub/go-mysql-server)
 
@@ -7,14 +7,14 @@
 
 [A 2-Axis, Multihead Light Positioner](https://www.bunniestudios.com/blog/2024/a-2-axis-multihead-light-positioner/)
 
-[Intel Gaudi 3 AI Accelerator](https://www.intel.com/content/www/us/en/newsroom/news/vision-2024-gaudi-3-ai-accelerator.html)
+[GPT-4 Turbo with Vision is a step backwards for coding](https://aider.chat/2024/04/09/gpt-4-turbo.html)
 
 [Building reliable systems out of unreliable agents](https://www.rainforestqa.com/blog/building-reliable-systems-out-of-unreliable-agents)
 
 [How deep does life go?](https://thereader.mitpress.mit.edu/how-deep-does-life-go/)
 
-[Cow Magnets](https://www.stanfordmagnets.com/cow-magnets.html)
-
-[Yes, social media is a cause of the epidemic of teenage mental illness](https://www.afterbabel.com/p/phone-based-childhood-cause-epidemic)
+[British Placename Mapper](https://placenames.rtwilson.com/)
 
 [Show HN: QWANJI](https://byronicalpatrick.github.io/qwanji/)
+
+[Multimillion-dollar L.A. heist was seamless, sophisticated, stealthy](https://www.latimes.com/california/story/2024-04-06/30-million-theft-from-l-a-vault-was-seemless-sophisticated-daring)

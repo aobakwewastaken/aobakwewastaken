@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Yes, social media is a cause of the epidemic of teenage mental illness](https://www.afterbabel.com/p/phone-based-childhood-cause-epidemic)
+[Deep Bug](https://www.marginalia.nu/log/a_104_dep_bug/)
 
-[A MySQL compatible database engine written in pure Go](https://github.com/dolthub/go-mysql-server)
+[Double-Entry Bookkeeping as a Directed Graph](https://matheusportela.com/double-entry-bookkeeping-as-a-directed-graph)
 
-[Show HN: We built PriceLevel to find out what companies pay for SaaS](https://www.pricelevel.com/)
+[Transformer as a General Purpose Computer](https://www.jvoderho.com/blog.html?blogid=Transformer%20as%20a%20general%20purpose%20computer)
 
-[A 2-Axis, Multihead Light Positioner](https://www.bunniestudios.com/blog/2024/a-2-axis-multihead-light-positioner/)
+[Intel's Ambitious Meteor Lake iGPU](https://chipsandcheese.com/2024/04/08/intels-ambitious-meteor-lake-igpu/)
 
-[GPT-4 Turbo with Vision is a step backwards for coding](https://aider.chat/2024/04/09/gpt-4-turbo.html)
+[How to Stay Sane](https://un.curl.dev/life/stay-sane)
+
+[Lago – Open-Source Stripe Alternative Is Hiring a Post-Sales Solution Eng(EU)](https://www.ycombinator.com/companies/lago/jobs/zEAkwhK-solution-engineer-post-sales)
+
+[Rust 101](https://www.scotto.me/blog/rust-101/)
 
 [Building reliable systems out of unreliable agents](https://www.rainforestqa.com/blog/building-reliable-systems-out-of-unreliable-agents)
 
 [How deep does life go?](https://thereader.mitpress.mit.edu/how-deep-does-life-go/)
 
-[British Placename Mapper](https://placenames.rtwilson.com/)
-
-[Show HN: QWANJI](https://byronicalpatrick.github.io/qwanji/)
-
-[Multimillion-dollar L.A. heist was seamless, sophisticated, stealthy](https://www.latimes.com/california/story/2024-04-06/30-million-theft-from-l-a-vault-was-seemless-sophisticated-daring)
+[A 2-Axis, Multihead Light Positioner](https://www.bunniestudios.com/blog/2024/a-2-axis-multihead-light-positioner/)

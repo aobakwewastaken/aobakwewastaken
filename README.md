@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Stacking Triangles for Fun and Profit](https://www.oranlooney.com/post/angle-addition/)
+[Show HN: I made a new sensor out of 3D printer filament for my PhD](https://paulbupejr.com/developing-the-optigap-sensor-system/)
 
-[Roll-to-roll fabricated perovskite solar cells under ambient room conditions](https://www.nature.com/articles/s41467-024-46016-1)
+[Using ClickHouse to scale an events engine](https://github.com/getlago/lago/wiki/Using-Clickhouse-to-scale-an-events-engine)
 
-[ESA Satellites to Test Razor-Sharp Formation Flying](https://spectrum.ieee.org/satellite-constellation-formation-flying-esa)
+[Quantum Algorithms for Lattice Problems](https://eprint.iacr.org/2024/555)
 
-[Apple alerts users in 92 nations to mercenary spyware attacks](https://techcrunch.com/2024/04/10/apple-warning-mercenary-spyware-attacks/)
+[The simple beauty of XOR floating point compression](https://clemenswinter.com/2024/04/07/the-simple-beauty-of-xor-floating-point-compression/)
 
-[Transformers.js –  Run Transformers directly in the browser](https://github.com/xenova/transformers.js)
+[Vortex: OpenCL compatible RISC-V GPGPU](https://vortex.cc.gatech.edu/)
 
-[Herman Goldstine and the IAS Machine: Unveiling the Modern Computer (2023)](https://thechipletter.substack.com/p/unveiling-the-modern-computer)
+[Stanley Kubrick did it his way](https://www.apollo-magazine.com/stanley-kubrick-biography-abrams-kolker-review/)
 
-[Pompeii: Breathtaking new paintings found at ancient city](https://www.bbc.com/news/science-environment-68777741)
+[Stacking triangles for fun and profit](https://www.oranlooney.com/post/angle-addition/)
 
-[Going in circles without a real-time clock](https://rachelbythebay.com/w/2024/04/10/rtc/)
+[Etleap (YC W13) is hiring an account executive in San Francisco](https://etleap.com/careers/account-executive/)
 
-[Untergunther – Restoration of the Pantheon Clock](https://urban-resources.net/untergunther.html)
+[Boy photographer seeks danger as others flee (1968)](https://www.vintag.es/2016/10/boy-photographer-seeks-danger-as-others.html)
 
-[Embed Crystal code directly in Ruby](https://github.com/wouterken/crystalruby)
+[First languages of North America traced back to two groups from Siberia](https://phys.org/news/2024-04-languages-north-america-language-groups.html)

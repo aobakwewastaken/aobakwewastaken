@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[ESA Satellites to Test Razor-Sharp Formation Flying](https://spectrum.ieee.org/satellite-constellation-formation-flying-esa)
+[Stacking Triangles for Fun and Profit](https://www.oranlooney.com/post/angle-addition/)
 
 [Roll-to-roll fabricated perovskite solar cells under ambient room conditions](https://www.nature.com/articles/s41467-024-46016-1)
 
-[Continuous Social Media Scrolling Negatively Impacts Eye Movement](https://www.optometryadvisor.com/home/meetings/aaopt-2021/social-media-scrolling-detrimental-to-ocular-health/)
+[ESA Satellites to Test Razor-Sharp Formation Flying](https://spectrum.ieee.org/satellite-constellation-formation-flying-esa)
 
-[Aider: AI pair programming in your terminal](https://github.com/paul-gauthier/aider)
+[Herman Goldstine and the IAS Machine: Unveiling the Modern Computer](https://thechipletter.substack.com/p/unveiling-the-modern-computer)
 
-[Oh My Git: An open source game about learning Git](https://ohmygit.org/)
-
-[Fern (YC W23) Is Hiring a Front End Engineer in Brooklyn, NY](https://www.ycombinator.com/companies/fern/jobs/BfXHkk5-frontend-engineer)
+[Transformers.js –  Run Transformers directly in the browser](https://github.com/xenova/transformers.js)
 
 [Going in circles without a real-time clock](https://rachelbythebay.com/w/2024/04/10/rtc/)
 
-[Embed Crystal code directly in Ruby](https://github.com/wouterken/crystalruby)
+[Anyone got a contact at OpenAI. They have a spider problem](https://mailman.nanog.org/pipermail/nanog/2024-April/225407.html)
 
 [Untergunther – Restoration of the Pantheon Clock](https://urban-resources.net/untergunther.html)
 
-[Amazon owes $525M in cloud-storage patent fight, US jury says](https://www.reuters.com/legal/amazon-owes-525-mln-cloud-storage-patent-fight-us-jury-says-2024-04-11/)
+[Fern (YC W23) Is Hiring a Front End Engineer in Brooklyn, NY](https://www.ycombinator.com/companies/fern/jobs/BfXHkk5-frontend-engineer)
+
+[Embed Crystal code directly in Ruby](https://github.com/wouterken/crystalruby)

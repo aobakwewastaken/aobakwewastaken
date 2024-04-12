@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[There's a 30-year old dead rabbit in Seven Sisters tube station](https://www.ianvisits.co.uk/articles/theres-a-dead-rabbit-in-seven-sisters-tube-station-71502/)
+
+[Building a Linux Container Using Namespaces: Part – 1 (2020)](https://www.polarsparc.com/xhtml/Containers-1.html)
+
+[DwarFS – Deduplicating Warp-Speed Advanced Read-Only File System](https://github.com/mhx/dwarfs)
+
 [Show HN: I made a new sensor out of 3D printer filament for my PhD](https://paulbupejr.com/developing-the-optigap-sensor-system/)
 
-[Using ClickHouse to scale an events engine](https://github.com/getlago/lago/wiki/Using-Clickhouse-to-scale-an-events-engine)
+[DNS over Wikipedia](https://github.com/aaronjanse/dns-over-wikipedia)
 
-[Quantum Algorithms for Lattice Problems](https://eprint.iacr.org/2024/555)
+[Abstract Methods and NotImplementedError in Ruby](https://nithinbekal.com/posts/abstract-methods-notimplementederror-ruby/)
 
-[The simple beauty of XOR floating point compression](https://clemenswinter.com/2024/04/07/the-simple-beauty-of-xor-floating-point-compression/)
+[Man creatively sneaks onto Delta flight, but gets caught](https://onemileatatime.com/news/man-creatively-sneaks-onto-delta-flight/)
 
-[Vortex: OpenCL compatible RISC-V GPGPU](https://vortex.cc.gatech.edu/)
+[Fivefold Slower Compared to Go? Optimizing Rust's Protobuf Decoding Performance](https://www.greptime.com/blogs/2024-04-09-rust-protobuf-performance)
 
-[Stanley Kubrick did it his way](https://www.apollo-magazine.com/stanley-kubrick-biography-abrams-kolker-review/)
+[I made a thing to help you make a thing out of a keypad](https://cliffle.com/blog/keypad-go/)
 
-[Stacking triangles for fun and profit](https://www.oranlooney.com/post/angle-addition/)
-
-[Etleap (YC W13) is hiring an account executive in San Francisco](https://etleap.com/careers/account-executive/)
-
-[Boy photographer seeks danger as others flee (1968)](https://www.vintag.es/2016/10/boy-photographer-seeks-danger-as-others.html)
-
-[First languages of North America traced back to two groups from Siberia](https://phys.org/news/2024-04-languages-north-america-language-groups.html)
+[Trying Out Rye](https://burakku.com/blog/rye-test-and-python-tools/)

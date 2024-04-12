@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[There's a 30-year old dead rabbit in Seven Sisters tube station](https://www.ianvisits.co.uk/articles/theres-a-dead-rabbit-in-seven-sisters-tube-station-71502/)
+[An open source initiative to share and compare heat pump performance data](https://heatpumpmonitor.org/)
+
+[Webb – Space Telescope Live. What Is Webb Observing Now?](https://spacetelescopelive.org/webb?obsId=01HTJT20C0STKNZ01KQYGEKBQ1)
+
+[Organizing OpenStreetMap Mapping Parties](https://contrapunctus.codeberg.page/blog/mapping-party-tips.html)
 
 [Building a Linux Container Using Namespaces: Part – 1 (2020)](https://www.polarsparc.com/xhtml/Containers-1.html)
-
-[DwarFS – Deduplicating Warp-Speed Advanced Read-Only File System](https://github.com/mhx/dwarfs)
 
 [Show HN: I made a new sensor out of 3D printer filament for my PhD](https://paulbupejr.com/developing-the-optigap-sensor-system/)
 
 [DNS over Wikipedia](https://github.com/aaronjanse/dns-over-wikipedia)
 
-[Abstract Methods and NotImplementedError in Ruby](https://nithinbekal.com/posts/abstract-methods-notimplementederror-ruby/)
+[DwarFS – Deduplicating Warp-Speed Advanced Read-Only File System](https://github.com/mhx/dwarfs)
 
-[Man creatively sneaks onto Delta flight, but gets caught](https://onemileatatime.com/news/man-creatively-sneaks-onto-delta-flight/)
+[A 30-year old Rabbit Telepoint base station at Seven Sisters tube station](https://www.ianvisits.co.uk/articles/theres-a-dead-rabbit-in-seven-sisters-tube-station-71502/)
 
-[Fivefold Slower Compared to Go? Optimizing Rust's Protobuf Decoding Performance](https://www.greptime.com/blogs/2024-04-09-rust-protobuf-performance)
+[Apple alerts users in 92 nations to mercenary attacks in new warning](https://techcrunch.com/2024/04/10/apple-warning-mercenary-spyware-attacks/)
 
-[I made a thing to help you make a thing out of a keypad](https://cliffle.com/blog/keypad-go/)
-
-[Trying Out Rye](https://burakku.com/blog/rye-test-and-python-tools/)
+[U.S. imposes first-ever national drinking water limits on PFAS](https://apnews.com/article/forever-chemicals-pfas-pollution-epa-drinking-water-1c8804288413a73bb7b99fc866c8fa51)

@@ -7,14 +7,14 @@
 
 [Ray Tracer in a Boot Sector](https://github.com/nanochess/RayTracer)
 
-[Notes on Git's Error Messages](https://jvns.ca/blog/2024/04/10/notes-on-git-error-messages/)
-
 [Shape Typing in Python](https://jameshfisher.com/2024/04/12/shape-typing-in-python/)
 
+[The Reconstruction of Ulysses S Grant (2017)](https://thebrowser.com/r/2cc28fad?m=c6bf87ab-387d-49ae-9584-ab31c2b12376)
+
+[Pylyzer – A fast static code analyzer and language server for Python](https://github.com/mtshiba/pylyzer)
+
+[15 Note Poly Tempo Pendulum [video]](https://www.youtube.com/watch?v=lTwg4mFF32E)
+
+[On Self-Respect (1961)](https://www.vogue.com/article/joan-didion-self-respect-essay-1961)
+
 [Backyard Birding (2023)](https://worldsensorium.com/backyard-birding/)
-
-[Browser Security Bugs That Aren't: JavaScript in PDF](https://textslashplain.com/2024/04/10/browser-security-bugs-that-arent-javascript-in-pdf/)
-
-[Green's Dictionary of Slang](https://greensdictofslang.com/)
-
-[Commercial wing in ground effect plane (2018)](https://www.nextbigfuture.com/2018/09/commercial-wing-in-ground-effect-plane.html)

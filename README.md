@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Tree-shaking, the horticulturally misguided algorithm](https://wingolog.org/archives/2023/11/24/tree-shaking-the-horticulturally-misguided-algorithm)
+[Show HN: ZSV (Zip Separated Values) columnar data format](https://github.com/Hafthor/zsvutil)
 
-[350 tons of of chocolate and wine arrive on world’s largest cargo sailboat](https://untappedcities.com/2024/04/12/grain-de-sail-ll/)
+[Open Circuits Book](https://opencircuitsbook.com/)
 
-[A disgruntled federal employee's 1980s desk calendar (2018)](https://internationaltimes.it/a-disgruntled-federal-employees-1980s-desk-calendar/)
+[Device stopped working because your medical prescription has expired](https://olympicophthalmics.com/itear-100/faqs/)
 
-[Ray Tracer in a Boot Sector](https://github.com/nanochess/RayTracer)
+[Tree-shaking, the horticulturally misguided algorithm (2023)](https://wingolog.org/archives/2023/11/24/tree-shaking-the-horticulturally-misguided-algorithm)
 
-[Shape Typing in Python](https://jameshfisher.com/2024/04/12/shape-typing-in-python/)
+[The darker side of being a doctor](https://drericlevi.substack.com/p/the-darker-side-of-being-a-doctor)
 
-[The Reconstruction of Ulysses S Grant (2017)](https://thebrowser.com/r/2cc28fad?m=c6bf87ab-387d-49ae-9584-ab31c2b12376)
+[Show HN: My $1k self-install, off-grid solar backup build for renters](https://sunboxlabs.com)
 
-[Pylyzer – A fast static code analyzer and language server for Python](https://github.com/mtshiba/pylyzer)
+[The Arc Product-Market Fit Framework](https://www.sequoiacap.com/article/pmf-framework/)
 
-[15 Note Poly Tempo Pendulum [video]](https://www.youtube.com/watch?v=lTwg4mFF32E)
+[Kerodon – an online resource for homotopy-coherent mathematics](https://kerodon.net/)
 
-[On Self-Respect (1961)](https://www.vogue.com/article/joan-didion-self-respect-essay-1961)
+[Lessons after a Half-billion GPT Tokens](https://kenkantzer.com/lessons-after-a-half-billion-gpt-tokens/)
 
-[Backyard Birding (2023)](https://worldsensorium.com/backyard-birding/)
+[The FCC needs to stop 5G fast lanes](https://cyberlaw.stanford.edu/blog/2024/04/harmful-5g-fast-lanes-are-coming-fcc-needs-stop-them)

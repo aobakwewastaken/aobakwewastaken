@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Hospitals that make profits should pay taxes](https://www.statnews.com/2024/04/14/nonprofit-hospitals-turn-profit-charity-care-tax-exempt-status/)
+[Show HN: I made a tool to clean and convert any webpage to Markdown](https://markdowndown.vercel.app/)
 
-[Hidden dependencies in Linux binaries.](http://thelittleengineerthatcould.blogspot.com/2024/04/hidden-dependencies-in-linux-binaries.html)
+[Sandboxing all the things with Flatpak and BubbleBox](https://www.ralfj.de/blog/2024/04/14/bubblebox.html)
 
-[Obituary for a Quiet Life](https://bittersoutherner.com/feature/2023/obituary-for-a-quiet-life)
+[Redis re-implemented with SQLite](https://github.com/nalgeon/redka)
 
-[Interview with Senior JavaScript Developer 2024 [video]](https://www.youtube.com/watch?v=aWfYxg-Ypm4)
+[Mysterious Moving Pointers](https://blomqu.ist/posts/2024/move/)
 
-[The One Billion Row Challenge in CUDA](https://tspeterkim.github.io/posts/cuda-1brc)
+[Kate editor on all platforms](https://cullmann.io/posts/kate-on-all-platforms-2024/)
 
-[Algae that can fix nitrogen – thanks to a tiny cell structure](https://www.nature.com/articles/d41586-024-01046-z)
+[U.S. Steel Shareholders Approve Sale to Japan's Nippon Steel](https://www.wsj.com/business/deals/u-s-steel-shareholders-approve-sale-to-japans-nippon-steel-3e1dec9e)
 
-[Getting into way too much detail with the Z80 netlist simulation (2021)](https://floooh.github.io/2021/12/06/z80-instruction-timing.html#table-of-content)
+[My cat alerted me to a DDoS attack](https://www.dannyguo.com/blog/my-cat-alerted-me-to-a-ddos-attack)
 
-[The Guide to Stock Options Conversations](https://zaidesanton.substack.com/p/the-guide-to-stock-options-conversations)
+[Show HN: Stack, an open-source Clerk/Firebase Auth alternative](https://stack-auth.com/blog/introducing-stack)
 
-[Show HN: PostgreSQL index advisor](https://github.com/supabase/index_advisor)
+[Obituary for a quiet life (2023)](https://bittersoutherner.com/feature/2023/obituary-for-a-quiet-life)
 
-[When Nostalgia Was Deadly](https://www.historytoday.com/archive/history-matters/when-nostalgia-was-deadly)
+[Meticulous (YC S21) is hiring to eliminate E2E UI tests]()

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Show HN: ZSV (Zip Separated Values) columnar data format](https://github.com/Hafthor/zsvutil)
+[Obituary for a Quiet Life](https://bittersoutherner.com/feature/2023/obituary-for-a-quiet-life)
 
-[Open Circuits Book](https://opencircuitsbook.com/)
+[Show HN: PostgreSQL index advisor](https://github.com/supabase/index_advisor)
 
-[Device stopped working because your medical prescription has expired](https://olympicophthalmics.com/itear-100/faqs/)
+[Problem with selling developer tools is that devs have no purchasing authority](https://twitter.com/d_feldman/status/1779203622351339955)
 
-[Tree-shaking, the horticulturally misguided algorithm (2023)](https://wingolog.org/archives/2023/11/24/tree-shaking-the-horticulturally-misguided-algorithm)
-
-[The darker side of being a doctor](https://drericlevi.substack.com/p/the-darker-side-of-being-a-doctor)
-
-[Show HN: My $1k self-install, off-grid solar backup build for renters](https://sunboxlabs.com)
+[Fast and secure translation on your local machine with a GUI](https://github.com/XapaJIaMnu/translateLocally)
 
 [The Arc Product-Market Fit Framework](https://www.sequoiacap.com/article/pmf-framework/)
 
-[Kerodon – an online resource for homotopy-coherent mathematics](https://kerodon.net/)
+[Wall Mounted Can Organizer (2019)](https://www.ana-white.com/woodworking-projects/wall-mounted-can-organizer)
 
-[Lessons after a Half-billion GPT Tokens](https://kenkantzer.com/lessons-after-a-half-billion-gpt-tokens/)
+[How do machines ‘grok’ data?](https://www.quantamagazine.org/how-do-machines-grok-data-20240412/)
 
-[The FCC needs to stop 5G fast lanes](https://cyberlaw.stanford.edu/blog/2024/04/harmful-5g-fast-lanes-are-coming-fcc-needs-stop-them)
+[The Microsoft-Dilemma – Europe as a Software Colony – Full Documentary](https://kolektiva.media/w/ra7bfqXCyqBFn7dSFhneFy)
+
+[The darker side of being a doctor](https://drericlevi.substack.com/p/the-darker-side-of-being-a-doctor)
+
+[The Stacks Project: A Wikipedia of algebraic geometry (2022)](https://news.columbia.edu/news/stacks-project-johan-dejong)

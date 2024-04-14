@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Godot as an Embeddable Game Engine](https://tirania.org/blog/archive/2024/Apr-23.html)
-
 [Obituary for a Quiet Life](https://bittersoutherner.com/feature/2023/obituary-for-a-quiet-life)
 
-[Show HN: I made a site that lets you make interactive demos for free](https://www.demopond.com/)
+[The One Billion Row Challenge in CUDA](https://tspeterkim.github.io/posts/cuda-1brc)
 
 [Show HN: PostgreSQL index advisor](https://github.com/supabase/index_advisor)
 
 [Getting into way too much detail with the Z80 netlist simulation (2021)](https://floooh.github.io/2021/12/06/z80-instruction-timing.html#table-of-content)
 
-[The One Billion Row Challenge in CUDA](https://tspeterkim.github.io/posts/cuda-1brc)
-
 [Fast and secure translation on your local machine with a GUI](https://github.com/XapaJIaMnu/translateLocally)
+
+[How to Determine the Error of an Air Quality Sensor?](https://www.airgradient.com/blog/how-to-determine-error-of-sensor/)
 
 [How do machines ‘grok’ data?](https://www.quantamagazine.org/how-do-machines-grok-data-20240412/)
 
-[Problem with selling developer tools is that devs have no purchasing authority](https://twitter.com/d_feldman/status/1779203622351339955)
+[Experience report: It will never work in theory](https://www.computer.org/csdl/magazine/so/5555/01/10424425/1Ulj1Qa8tJ6)
 
-[The Arc Product-Market Fit Framework](https://www.sequoiacap.com/article/pmf-framework/)
+[Many FBI agents are struggling to make ends meet. Housing costs are to blame](https://www.npr.org/2024/04/11/1243982287/fbi-agents-housing-costs)
+
+[Taking CO2 out of the air would be an expensive way to fight climate change](https://www.theverge.com/2024/4/11/24127331/carbon-dioxide-removal-costs-rhodium-group-report)

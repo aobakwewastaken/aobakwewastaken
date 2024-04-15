@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Show HN: I made a tool to clean and convert any webpage to Markdown](https://markdowndown.vercel.app/)
+[Visualizing Attention, a Transformer's Heart [video]](https://www.3blue1brown.com/lessons/attention)
 
-[Sandboxing all the things with Flatpak and BubbleBox](https://www.ralfj.de/blog/2024/04/14/bubblebox.html)
+[Himalayan Hillsides Grows Japan's Cold, Hard Cash](https://www.nytimes.com/2024/04/15/world/asia/nepal-japan-yen-argeli.html)
 
-[Redis re-implemented with SQLite](https://github.com/nalgeon/redka)
+[Computer-generated holography with ordinary display](https://opg.optica.org/ol/abstract.cfm?uri=ol-49-8-1876)
 
-[Mysterious Moving Pointers](https://blomqu.ist/posts/2024/move/)
+[The Wallis Annenberg Wildlife Crossing](https://101wildlifecrossing.org/)
 
-[Kate editor on all platforms](https://cullmann.io/posts/kate-on-all-platforms-2024/)
+[WireViz: Easily document cables and wiring harnesses](https://github.com/wireviz/WireViz)
 
-[U.S. Steel Shareholders Approve Sale to Japan's Nippon Steel](https://www.wsj.com/business/deals/u-s-steel-shareholders-approve-sale-to-japans-nippon-steel-3e1dec9e)
+[Spectral Ray Tracing](https://larswander.com/writing/spectral-ray-tracing/)
 
-[My cat alerted me to a DDoS attack](https://www.dannyguo.com/blog/my-cat-alerted-me-to-a-ddos-attack)
+[RocketStar tests fusion-enhanced in-space propulsion process](https://www.aerospacetestinginternational.com/news/space/rocketstar-tests-fusion-enhanced-in-space-propulsion-process.html)
 
-[Show HN: Stack, an open-source Clerk/Firebase Auth alternative](https://stack-auth.com/blog/introducing-stack)
+[Sleep apnea: Mouthguards less invasive, just as effective as CPAP](https://newatlas.com/medical/sleep-apnea-mouthguard-cpap-blood-pressure/)
 
-[Obituary for a quiet life (2023)](https://bittersoutherner.com/feature/2023/obituary-for-a-quiet-life)
+[One man's artistic wonderland, created in rental, gets protected status](https://www.cnn.com/2024/04/07/style/rental-apartment-artwork-listed-gbr-scli-intl-gbr/index.html)
 
-[Meticulous (YC S21) is hiring to eliminate E2E UI tests]()
+[Swift for C++ Practitioners, Part 1: Intro and Value Types](https://www.douggregor.net/posts/swift-for-cxx-practitioners-value-types/)

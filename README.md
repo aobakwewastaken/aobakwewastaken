@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[The Tiny Ultrabright Laser That Can Melt Steel](https://spectrum.ieee.org/pcsel)
+[T-Mobile Employees Across the Country Receive Cash Offers to Illegally Swap Sims](https://tmo.report/2024/04/t-mobile-employees-across-the-country-receive-cash-offers-to-illegally-swap-sims/)
+
+[PuTTY vulnerability vuln-p521-bias](https://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/vuln-p521-bias.html)
+
+[Ramanujan's Lost Notebook](https://en.wikipedia.org/wiki/Ramanujan%27s_lost_notebook)
+
+[Nathan Tolbert pushes the limitations of new games on old consoles](https://www.smilepolitely.com/culture/nathan-tolbert-pushes-the-limitations-of-new-games-on-old-consoles/)
+
+[Embezzlers Are Nice People (2017)](https://www.stimmel-law.com/en/articles/story-1-embezzlers-are-nice-people)
 
 [Building a GPS receiver](https://axleos.com/building-a-gps-receiver-part-1-hearing-whispers/)
 
-[TwitchAdSolutions – Blocking Twitch Ads](https://github.com/pixeltris/TwitchAdSolutions)
+[Web-based Turbo Pascal compiler](https://github.com/lkesteloot/turbopascal)
 
-[Supabase – General Availability Week](https://supabase.com/ga)
+[Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 
-[Beautifying Org Mode in Emacs (2018)](https://zzamboni.org/post/beautifying-org-mode-in-emacs/)
+[The great purge of German science in 1933](https://www.privatdozent.co/p/the-great-purge-of-1933-9f0)
 
-[Got tinnitus? A device that tickles the tongue helps this musician find relief](https://www.npr.org/sections/health-shots/2024/04/15/1244501055/tinnitus-hearing-loss-ringing-ear-noise)
-
-[A shrub in Nepal supplies the raw material for the bank notes used in Japan](https://www.nytimes.com/2024/04/15/world/asia/nepal-japan-yen-argeli.html)
-
-[Getting the Grid to Net Zero](https://spectrum.ieee.org/electric-inverter)
-
-[Canoes Discovered Northwest of Rome Are Oldest Boats Ever Found in Mediterranean](https://www.smithsonianmag.com/smart-news/five-canoes-discovered-northwest-of-rome-are-oldest-boats-ever-found-in-the-mediterranean-180984014/)
-
-[Recall.ai (YC W20) Is Hiring Engineer #4 (Rust and Large Scale Infra)](https://www.workatastartup.com/jobs/63615)
+[A tiny ultrabright laser that can melt steel](https://spectrum.ieee.org/pcsel)

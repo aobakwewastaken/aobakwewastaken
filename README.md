@@ -1,7 +1,15 @@
 # Top Stories on hackernews <br />
 [Visualizing Attention, a Transformer's Heart [video]](https://www.3blue1brown.com/lessons/attention)
 
-[Himalayan Hillsides Grows Japan's Cold, Hard Cash](https://www.nytimes.com/2024/04/15/world/asia/nepal-japan-yen-argeli.html)
+[Beautifying Org Mode in Emacs (2018)](https://zzamboni.org/post/beautifying-org-mode-in-emacs/)
+
+[A shrub in Nepal supplies the raw material for the bank notes used in Japan](https://www.nytimes.com/2024/04/15/world/asia/nepal-japan-yen-argeli.html)
+
+[Canoes Discovered Northwest of Rome Are Oldest Boats Ever Found in Mediterranean](https://www.smithsonianmag.com/smart-news/five-canoes-discovered-northwest-of-rome-are-oldest-boats-ever-found-in-the-mediterranean-180984014/)
+
+[Better Adb-Shell](https://github.com/matan-h/adb-shell)
+
+[Spectral Ray Tracing](https://larswander.com/writing/spectral-ray-tracing/)
 
 [Computer-generated holography with ordinary display](https://opg.optica.org/ol/abstract.cfm?uri=ol-49-8-1876)
 
@@ -9,12 +17,4 @@
 
 [WireViz: Easily document cables and wiring harnesses](https://github.com/wireviz/WireViz)
 
-[Spectral Ray Tracing](https://larswander.com/writing/spectral-ray-tracing/)
-
 [RocketStar tests fusion-enhanced in-space propulsion process](https://www.aerospacetestinginternational.com/news/space/rocketstar-tests-fusion-enhanced-in-space-propulsion-process.html)
-
-[Sleep apnea: Mouthguards less invasive, just as effective as CPAP](https://newatlas.com/medical/sleep-apnea-mouthguard-cpap-blood-pressure/)
-
-[One man's artistic wonderland, created in rental, gets protected status](https://www.cnn.com/2024/04/07/style/rental-apartment-artwork-listed-gbr-scli-intl-gbr/index.html)
-
-[Swift for C++ Practitioners, Part 1: Intro and Value Types](https://www.douggregor.net/posts/swift-for-cxx-practitioners-value-types/)

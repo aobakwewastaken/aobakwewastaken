@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Justice Department to file antitrust suit against Live Nation](https://www.wsj.com/business/media/live-nation-justice-department-antitrust-lawsuit-ab98c268)
+
+[We need to rewild the internet](https://www.noemamag.com/we-need-to-rewild-the-internet/)
+
+[This is a teenager](https://pudding.cool/2024/03/teenagers/)
+
+[A quick post on Chen's algorithm](https://blog.cryptographyengineering.com/2024/04/16/a-quick-post-on-chens-algorithm/)
+
+[David Lynch presents 'A Thinking Room'](https://www.wallpaper.com/design-interiors/david-lynch-salone-del-mobile-2024)
+
+[Megalodon: Efficient LLM Pretraining and Inference with Unlimited Context Length](https://arxiv.org/abs/2404.08801)
+
 [Loading a trillion rows of weather data into TimescaleDB](https://aliramadhan.me/2024/03/31/trillion-rows.html)
 
-[Vaccine breakthrough means no more chasing strains](https://news.ucr.edu/articles/2024/04/15/vaccine-breakthrough-means-no-more-chasing-strains)
+[Spellbrush (YC W18) hiring an anime-loving distributed systems engineer; Tokyo/SF](https://twitter.com/Cixelyn/status/1780320068817322381)
 
-[Distributed Authorization](https://www.osohq.com/post/distributed-authorization)
+[Should You Use Upper Bound Version Constraints (In Python)?](https://iscinumpy.dev/post/bound-version-constraints/)
 
-[Descent 3 Source Code](https://github.com/kevinbentley/Descent3)
-
-[A curious phenomenon called 'Etak'](https://maphappenings.com/2024/04/11/story-of-etak/)
-
-[US government’s reliance on Microsoft means the company gets a free pass](https://www.wired.com/story/the-us-government-has-a-microsoft-problem/)
-
-[A Visual Guide to Vision Transformers](https://blog.mdturp.ch/posts/2024-04-05-visual_guide_to_vision_transformer.html)
-
-[The legal rule that computers are presumed to be operating correctly (2022) [pdf]](https://www.benthamsgaze.org/wp-content/uploads/2022/06/briefing-presumption-that-computers-are-reliable.pdf)
-
-[A framework to help B2B founders find product-market fit](https://pmf.firstround.com/levels)
-
-[Show HN: a Rust based CLI tool 'imgcatr' for displaying images](https://github.com/SilinMeng0510/imgcatr)
+[usbredir: A protocol for sending USB device traffic over a network connection](https://www.spice-space.org/usbredir.html)

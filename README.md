@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[T-Mobile Employees Across the Country Receive Cash Offers to Illegally Swap Sims](https://tmo.report/2024/04/t-mobile-employees-across-the-country-receive-cash-offers-to-illegally-swap-sims/)
+[Descent 3 Source Code](https://github.com/kevinbentley/Descent3)
+
+[A curious phenomenon called 'Etak'](https://maphappenings.com/2024/04/11/story-of-etak/)
+
+[BTFS: BitTorrent Filesystem](https://github.com/johang/btfs)
 
 [PuTTY vulnerability vuln-p521-bias](https://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/vuln-p521-bias.html)
 
-[Ramanujan's Lost Notebook](https://en.wikipedia.org/wiki/Ramanujan%27s_lost_notebook)
+[HonoJS: Small, simple, and ultrafast web framework for the Edges](https://github.com/honojs/hono)
 
-[Nathan Tolbert pushes the limitations of new games on old consoles](https://www.smilepolitely.com/culture/nathan-tolbert-pushes-the-limitations-of-new-games-on-old-consoles/)
+[Phone conversations with law enforcement can be recorded without their consent](https://www.orlandoweekly.com/news/phone-conversations-with-law-enforcement-can-be-recorded-without-their-consent-court-says-36640808)
 
-[Embezzlers Are Nice People (2017)](https://www.stimmel-law.com/en/articles/story-1-embezzlers-are-nice-people)
+[Show HN: Render audio waveforms to HTML canvas using WebGPU]()
 
-[Building a GPS receiver](https://axleos.com/building-a-gps-receiver-part-1-hearing-whispers/)
+[Ramanujan's lost notebook](https://en.wikipedia.org/wiki/Ramanujan%27s_lost_notebook)
 
-[Web-based Turbo Pascal compiler](https://github.com/lkesteloot/turbopascal)
+[ResearchAgent: Iterative Research Idea Generation Using LLMs](https://arxiv.org/abs/2404.07738)
 
-[Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
-
-[The great purge of German science in 1933](https://www.privatdozent.co/p/the-great-purge-of-1933-9f0)
-
-[A tiny ultrabright laser that can melt steel](https://spectrum.ieee.org/pcsel)
+[California exceeds 100% of energy demand with renewables over a record 30 days](https://electrek.co/2024/04/15/renewables-met-100-percent-california-energy-demand-30-days/)

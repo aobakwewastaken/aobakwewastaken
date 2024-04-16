@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Product-Market Fit Isn't a Black Box – A New Framework to Help B2B Founders](https://pmf.firstround.com/levels)
+
+[Loading a trillion rows of weather data into TimescaleDB](https://aliramadhan.me/2024/03/31/trillion-rows.html)
+
+[A visual guide to Vision Transformer – A scroll story](https://blog.mdturp.ch/posts/2024-04-05-visual_guide_to_vision_transformer.html)
+
 [Descent 3 Source Code](https://github.com/kevinbentley/Descent3)
 
-[Thoughts on low latency trading if exchanges went full cloud](https://blog.abctaylor.com/what-would-happen-to-low-latency-trading-if-exchanges-moved-to-the-cloud/)
+[Justice Department to File Antitrust Suit Against Live Nation](https://www.wsj.com/business/media/live-nation-justice-department-antitrust-lawsuit-ab98c268)
 
 [A curious phenomenon called 'Etak'](https://maphappenings.com/2024/04/11/story-of-etak/)
 
+[AMD unveils Ryzen Pro 8000-series processors](https://www.tomshardware.com/pc-components/cpus/amd-unveils-ryzen-pro-8040-hawk-point-and-8000-series-phoenix-processors-ai-engines-come-to-the-commercial-market)
+
 [BTFS: BitTorrent Filesystem](https://github.com/johang/btfs)
 
-[Show HN: a Rust based CLI tool 'imgcatr' for displaying images](https://github.com/SilinMeng0510/imgcatr)
+[Ice to treat soft-tissue injuries contraindicated by creator of protocol](https://en.wikipedia.org/wiki/RICE_(medicine))
 
-[Copenhagen's historic stock exchange in flames](https://www.bbc.com/news/world-europe-68824189)
-
-[AI cloud startup TensorWave bets AMD can beat Nvidia](https://www.theregister.com/2024/04/16/amd_tensorwave_mi300x/)
-
-[HonoJS: Small, simple, and ultrafast web framework for the Edges](https://github.com/honojs/hono)
-
-[Show HN: Render audio waveforms to HTML canvas using WebGPU]()
-
-[ResearchAgent: Iterative Research Idea Generation Using LLMs](https://arxiv.org/abs/2404.07738)
+[OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers#section-job)

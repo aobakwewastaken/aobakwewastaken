@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Embeddings are a good starting point for the AI curious app developer](https://bawolf.substack.com/p/embeddings-are-a-good-starting-point)
+
+[Flying Aircraft Carriers](https://neverwasmag.com/2019/08/flying-aircraft-carriers/)
+
+[Show HN: Speeding up LLM inference 2x times (possibly)](https://asciinema.org/a/piP22yYwcaohu5cA2gyuv1W61)
+
+[Cyc: History's Forgotten AI Project](https://outsiderart.substack.com/p/cyc-historys-forgotten-ai-project)
+
 [How many bathrooms have Neanderthals in the tile?](https://johnhawks.net/weblog/how-many-bathrooms-have-neandertals-in-the-tile/)
 
-[The biggest source of waste is untapped skilled pragmatists](https://cutlefish.substack.com/p/tbm-271-the-biggest-untapped-opportunity)
+[The forgotten war on beepers](https://newsletter.pessimistsarchive.org/p/the-forgotten-war-on-beepers)
+
+[An electric new era for Atlas](https://bostondynamics.com/blog/electric-new-era-for-atlas/)
+
+[Svix (YC W21) Is Hiring a Tech Lead (US Remote)](https://www.svix.com/careers/)
+
+[The Dictionary of Obscure Sorrows](https://www.themarginalian.org/2024/04/12/dictionary-of-obscure-sorrows/)
 
 [Solving the minimum cut problem for undirected graphs](https://research.google/blog/solving-the-minimum-cut-problem-for-undirected-graphs/)
-
-[Future of Humanity Institute shuts down](https://www.futureofhumanityinstitute.org)
-
-[Stable Diffusion 3 API Now Available](https://stability.ai/news/stable-diffusion-3-api)
-
-[The VC acid test as a founder (2017)](https://www.stimmel-law.com/en/articles/story-2-acid-test-clause)
-
-[An Electric New Era for Atlas](https://bostondynamics.com/blog/electric-new-era-for-atlas/)
-
-[Ten years of improvements in PostgreSQL's optimizer](https://rmarcus.info/blog/2024/04/12/pg-over-time.html)
-
-[Blaze: A High Performance C++ Math Library](https://bitbucket.org/blaze-lib/blaze/src/master/)
-
-[Mixtral 8x22B](https://mistral.ai/news/mixtral-8x22b/)

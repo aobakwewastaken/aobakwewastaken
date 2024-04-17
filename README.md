@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Ten years of improvements in PostgreSQL's optimizer](https://rmarcus.info/blog/2024/04/12/pg-over-time.html)
+[The Ballmer Peak: An Empirical Search](https://arxiv.org/abs/2404.10002)
 
-[Why Alcohol Is the Deadliest Drug](https://www.addictioncenter.com/community/why-alcohol-is-the-deadliest-drug/)
-
-[Caching secrets of the HTTP elders, part 1](https://csvbase.com/blog/8)
+[Show HN: Open Source TailwindCSS UI Components](https://github.com/EasyFrontend-com/html-tailwindcss-components)
 
 [Collection of notebooks showcasing some fun and effective ways of using Claude](https://github.com/anthropics/anthropic-cookbook)
 
-[Stop Acting Like You're Famous](https://ajkprojects.com/stopactinglikeyourefamous)
+[ChatControl: EU ministers want to exempt themselves](https://european-pirateparty.eu/chatcontrol-eu-ministers-want-to-exempt-themselves/)
 
-[Raytracing on Meteor Lake's iGPU](https://chipsandcheese.com/2024/04/15/raytracing-on-meteor-lakes-igpu/)
+[Humane AI – Pico Laser Projection – $230M AI Twist on an Old Scam (2023)](https://kguttag.com/2023/12/06/humane-ai-pico-laser-projection-230m-ai-twist-on-an-old-scam/)
 
-[A quick post on Chen's algorithm](https://blog.cryptographyengineering.com/2024/04/16/a-quick-post-on-chens-algorithm/)
+[Finley (YC W21) is hiring for capital markets innovators (US remote)](https://www.finleycms.com/careers/)
 
-[Ask HN: What software sparks joy when using?]()
+[Ten years of improvements in PostgreSQL's optimizer](https://rmarcus.info/blog/2024/04/12/pg-over-time.html)
 
-[A curious phenomenon called 'Etak'](https://maphappenings.com/2024/04/11/story-of-etak/)
+[Java 23: The New Features Are Officially Announced](https://coderoasis.com/java-23-new-features/)
+
+[Caching secrets of the HTTP elders, part 1](https://csvbase.com/blog/8)
 
 [The NSA is just days away from taking over the internet](https://twitter.com/Snowden/status/1779920066840055847)

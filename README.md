@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[The Ballmer Peak: An Empirical Search](https://arxiv.org/abs/2404.10002)
+[Mixtral 8x22B](https://mistral.ai/news/mixtral-8x22b/)
+
+[How many bathrooms have Neanderthals in the tile?](https://johnhawks.net/weblog/how-many-bathrooms-have-neandertals-in-the-tile/)
+
+[An Electric New Era for Atlas](https://bostondynamics.com/blog/electric-new-era-for-atlas/)
 
 [Show HN: Open Source TailwindCSS UI Components](https://github.com/EasyFrontend-com/html-tailwindcss-components)
 
-[Collection of notebooks showcasing some fun and effective ways of using Claude](https://github.com/anthropics/anthropic-cookbook)
+[The VC acid test as a founder (2017)](https://www.stimmel-law.com/en/articles/story-2-acid-test-clause)
 
-[ChatControl: EU ministers want to exempt themselves](https://european-pirateparty.eu/chatcontrol-eu-ministers-want-to-exempt-themselves/)
-
-[Humane AI – Pico Laser Projection – $230M AI Twist on an Old Scam (2023)](https://kguttag.com/2023/12/06/humane-ai-pico-laser-projection-230m-ai-twist-on-an-old-scam/)
-
-[Finley (YC W21) is hiring for capital markets innovators (US remote)](https://www.finleycms.com/careers/)
+[Stable Diffusion 3 API Now Available](https://stability.ai/news/stable-diffusion-3-api)
 
 [Ten years of improvements in PostgreSQL's optimizer](https://rmarcus.info/blog/2024/04/12/pg-over-time.html)
 
-[Java 23: The New Features Are Officially Announced](https://coderoasis.com/java-23-new-features/)
+[LXQt 2.0.0](https://lxqt-project.org/release/2024/04/15/release-lxqt-2-0-0/)
 
-[Caching secrets of the HTTP elders, part 1](https://csvbase.com/blog/8)
+[I can't use my number pad for 2FA codes](https://shkspr.mobi/blog/2024/04/i-cant-use-my-number-pad-for-2fa-codes/)
 
-[The NSA is just days away from taking over the internet](https://twitter.com/Snowden/status/1779920066840055847)
+[Blaze: A High Performance C++ Math Library](https://bitbucket.org/blaze-lib/blaze/src/master/)

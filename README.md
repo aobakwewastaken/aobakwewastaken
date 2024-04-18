@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Short Stack: World’s smallest Nintendo Wii](https://github.com/loopj/short-stack)
+
 [Embeddings are a good starting point for the AI curious app developer](https://bawolf.substack.com/p/embeddings-are-a-good-starting-point)
 
-[Flying Aircraft Carriers](https://neverwasmag.com/2019/08/flying-aircraft-carriers/)
+[CFPB Takes Action Against Coding Boot Camp BloomTech and CEO Austen Allred](https://www.consumerfinance.gov/about-us/newsroom/cfpb-takes-action-against-coding-boot-camp-bloomtech-and-ceo-austen-allred-for-deceiving-students-and-hiding-loan-costs/)
 
-[Show HN: Speeding up LLM inference 2x times (possibly)](https://asciinema.org/a/piP22yYwcaohu5cA2gyuv1W61)
+[Hardest problem in computer science: centering things](https://tonsky.me/blog/centering/)
+
+[Goldene: A single atom layer of gold](https://liu.se/en/news-item/ett-atomlager-guld-liu-forskare-skapar-gulden)
+
+[Langfuse (YC W23) Is Hiring [Engineers, DevRel] in Berlin, Germany](https://langfuse.com/careers)
 
 [Cyc: History's Forgotten AI Project](https://outsiderart.substack.com/p/cyc-historys-forgotten-ai-project)
 
-[How many bathrooms have Neanderthals in the tile?](https://johnhawks.net/weblog/how-many-bathrooms-have-neandertals-in-the-tile/)
+[Math Puzzles](https://jrmf.org/puzzle/)
 
-[The forgotten war on beepers](https://newsletter.pessimistsarchive.org/p/the-forgotten-war-on-beepers)
+[Flying Aircraft Carriers (2019)](https://neverwasmag.com/2019/08/flying-aircraft-carriers/)
 
-[An electric new era for Atlas](https://bostondynamics.com/blog/electric-new-era-for-atlas/)
-
-[Svix (YC W21) Is Hiring a Tech Lead (US Remote)](https://www.svix.com/careers/)
-
-[The Dictionary of Obscure Sorrows](https://www.themarginalian.org/2024/04/12/dictionary-of-obscure-sorrows/)
-
-[Solving the minimum cut problem for undirected graphs](https://research.google/blog/solving-the-minimum-cut-problem-for-undirected-graphs/)
+[Show HN: Speeding up LLM inference 2x times (possibly)](https://asciinema.org/a/piP22yYwcaohu5cA2gyuv1W61)

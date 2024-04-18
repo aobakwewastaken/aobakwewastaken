@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Meta Llama 3](https://llama.meta.com/llama3/)
+
+[Randar: A Minecraft exploit that uses LLL lattice reduction to crack server RNG](https://github.com/spawnmason/randar-explanation/blob/master/README.md)
+
+[El Prado Museum – Virtual Tour](https://www.museodelprado.es/visita-virtual-coleccion-2023)
+
+[Monowheels: Vehicles with Insufficient Wheels](http://www.douglas-self.com/MUSEUM/TRANSPORT/motorwhl/motorwhl.htm)
+
 [Halo 2 in HD: Pushing the Original Xbox to the Limit](https://icode4.coffee/?p=738)
 
-[Feathers Are One of Evolution's Cleverest Inventions](https://www.scientificamerican.com/article/why-feathers-are-one-of-evolutions-cleverest-inventions/)
+[Feathers are one of evolution's cleverest inventions](https://www.scientificamerican.com/article/why-feathers-are-one-of-evolutions-cleverest-inventions/)
 
-[Chinchilla Scaling: A Replication Attempt](https://arxiv.org/abs/2404.10102)
+[Show HN: Vapi – Convince our voice AI to give you the secret code](https://blog.vapi.ai/show-hn-vapi-try-to-convince-our-voice-ai-to-give-you-the-secret-code/)
+
+[Draftaid (YC W24) Is Hiring a Founding AI/ML Engineer](https://www.ycombinator.com/companies/draftaid/jobs/7km301I-founding-ai-ml-engineer)
 
 [Hermit is a hermetic and reproducible sandbox for running programs](https://github.com/facebookexperimental/hermit)
 
-[Short Stack: World’s smallest Nintendo Wii](https://github.com/loopj/short-stack)
-
-[OpenMCT: A web based mission control framework](https://github.com/nasa/openmct)
-
-[Why CVE-2022-3602 was not detected by fuzz testing](http://allsoftwaresucks.blogspot.com/2022/11/why-cve-2022-3602-was-not-detected-by.html)
-
-[Launch HN: Volta Labs (YC W19) – Easier sample prep for genomics]()
-
-[USAF Test Pilot School, DARPA announce aerospace machine learning breakthrough](https://www.edwards.af.mil/News/Article-View/Article/3744695/usaf-test-pilot-school-and-darpa-announce-breakthrough-in-aerospace-machine-lea/)
-
-[The invisible seafaring industry that keeps the internet afloat](https://www.theverge.com/c/24070570/internet-cables-undersea-deep-repair-ships)
+[Formal Mechanised Semantics of CHERI C: Capabilities, Undefined Behaviour](https://dl.acm.org/doi/10.1145/3617232.3624859?ai=&ui=&af=)

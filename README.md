@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[3rd Edition of Programming: Principles and Practice Using C++ by Stroustrup](https://www.stroustrup.com/programming.html)
+[Daniel Dennett has died](https://dailynous.com/2024/04/19/daniel-dennett-death-1942-2024/)
 
-[Tips on how to structure your home directory (2023)](https://unixdigest.com/tutorials/tips-on-how-to-structure-your-home-directory.html)
+[Tell HN: Ever think of applying to YC? Do it this weekend for S24]()
 
-[Guy callendar, the engineer who discovered human-caused global warming](https://nautil.us/the-part-time-climate-scientist-542351/)
+[Bicycle Day (Psychedelic Holiday)](https://en.wikipedia.org/wiki/Bicycle_Day_(Psychedelic_Holiday))
 
-[Quantum Algorithms for Lattice Problems – Update on April 18](http://www.chenyilei.net/)
+[Quill v2 – Rich text editor](https://quilljs.com/)
 
-[Supabase Storage: now supports the S3 protocol](https://supabase.com/blog/s3-compatible-storage)
+[Multipath TCP for Linux (2022)](https://www.mptcp.dev/)
 
-[Daniel Dennett (1942-2024)](https://dailynous.com/2024/04/19/daniel-dennett-death-1942-2024/)
+[Show HN: Talk to Me Human – my game about social persuasion](https://talktomehuman.com/)
 
-[C-Macs – a pure C macOS application](https://github.com/CodaFi/C-Macs)
+[Single vendor is the new proprietary](https://opensource.net/why-single-vendor-is-the-new-proprietary/)
 
-[DuckDuckGo AI Chat](https://duckduckgo.com/?q=DuckDuckGo&ia=chat)
+[Streak (YC W22) Is Hiring a Staff UI Engineer](https://www.streak.com/careers/staff-ui-engineer)
 
-[Meta Llama 3](https://llama.meta.com/llama3/)
+[Robotic arms that assemble panels on solar farms](https://www.fastcompany.com/91108331/these-solar-assembling-robotic-arms-could-solve-one-of-the-industrys-biggest-problems)
 
-[Scale of the Universe](https://scaleofuniverse.com/en)
+[The Illustrated Word2Vec (2019)](https://jalammar.github.io/illustrated-word2vec/)

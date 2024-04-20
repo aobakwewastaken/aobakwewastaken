@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[MuPDF WASM Viewer Demo](https://mupdf.com/wasm/demo/index.html?file=../../docs/mupdf_explored.pdf)
+
 [Ceefax Simulator](https://www.nathanmediaservices.co.uk/ceefax/)
 
-[On Terry A. Davis](https://schizophrenic.io/blog/on-terry-a-davis)
+[What is screen time doing to children?](https://www.economist.com/science-and-technology/2024/04/17/what-is-screen-time-doing-to-children)
 
 [My 25-year engineering career retrospective](https://hybridhacker.email/p/my-25-year-engineering-career-retrospective)
 
+[50 Years Later, This Apollo-Era Antenna Still Talks to Voyager 2](https://spectrum.ieee.org/apollo-era-antenna-voyager-2)
+
+[Resend (YC W23) Is Hiring DevOps Engineers (Remote)](https://resend.com/careers/devops-engineer)
+
 [Tell HN: Ever think of applying to YC? Do it this weekend for S24]()
-
-[Cosmic rays streamed through Earth's atmosphere 41k years ago](https://phys.org/news/2024-04-cosmic-rays-streamed-earth-atmosphere.html)
-
-[RFI (Radio Frequency Interference) Sleuthing with the TinySA (2021)](http://ka7oei.blogspot.com/2021/02/rfi-radio-frequency-interference.html)
-
-[Daniel Dennett has died](https://dailynous.com/2024/04/19/daniel-dennett-death-1942-2024/)
 
 [The Basics of Legibility: A Short Guide for Non-Typographers](https://www.nubero.ch/blog/011/)
 
-[Church's λ-Calculus (2023) [pdf]](http://www.cs.cmu.edu/~rwh/pfpl/supplements/ulc.pdf)
+[Dehydrated: Letsencrypt/acme client implemented as a shell-script](https://github.com/dehydrated-io/dehydrated)
 
-[6th generation x86 CPU Comparisons](http://www.azillionmonkeys.com/qed/cpuwar.html)
+[Daniel Dennett has died](https://dailynous.com/2024/04/19/daniel-dennett-death-1942-2024/)

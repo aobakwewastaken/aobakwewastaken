@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Daniel Dennett has died](https://dailynous.com/2024/04/19/daniel-dennett-death-1942-2024/)
+[My 25-year engineering career retrospective](https://hybridhacker.email/p/my-25-year-engineering-career-retrospective)
 
 [Tell HN: Ever think of applying to YC? Do it this weekend for S24]()
 
-[Bicycle Day (Psychedelic Holiday)](https://en.wikipedia.org/wiki/Bicycle_Day_(Psychedelic_Holiday))
-
 [Quill v2 – Rich text editor](https://quilljs.com/)
+
+[Remake of the Windows 95 Solitaire game](https://github.com/danielricci/solitaire)
+
+[Daniel Dennett has died](https://dailynous.com/2024/04/19/daniel-dennett-death-1942-2024/)
 
 [Multipath TCP for Linux (2022)](https://www.mptcp.dev/)
 
-[Show HN: Talk to Me Human – my game about social persuasion](https://talktomehuman.com/)
+[Cosmic rays streamed through Earth's atmosphere 41k years ago](https://phys.org/news/2024-04-cosmic-rays-streamed-earth-atmosphere.html)
 
-[Single vendor is the new proprietary](https://opensource.net/why-single-vendor-is-the-new-proprietary/)
+[6th generation x86 CPU Comparisons](http://www.azillionmonkeys.com/qed/cpuwar.html)
 
-[Streak (YC W22) Is Hiring a Staff UI Engineer](https://www.streak.com/careers/staff-ui-engineer)
+[Church's λ-Calculus (2023) [pdf]](http://www.cs.cmu.edu/~rwh/pfpl/supplements/ulc.pdf)
 
-[Robotic arms that assemble panels on solar farms](https://www.fastcompany.com/91108331/these-solar-assembling-robotic-arms-could-solve-one-of-the-industrys-biggest-problems)
-
-[The Illustrated Word2Vec (2019)](https://jalammar.github.io/illustrated-word2vec/)
+[Git Bisect-Find](https://kevincox.ca/2024/05/19/git-bisect-find/)

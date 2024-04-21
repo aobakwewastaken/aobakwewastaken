@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [Programming Is Mostly Thinking](http://agileotter.blogspot.com/2014/09/programming-is-mostly-thinking.html)
 
-[Racket Language](https://racket-lang.org/)
+[Doom-htop: The classic DOOM game over htop](https://github.com/0x0mer/doom-htop)
 
-[Glibc Buffer Overflow in Iconv](https://www.openwall.com/lists/oss-security/2024/04/18/4)
+[Tiny World Map](https://github.com/tinyworldmap/tiny-world-map)
 
-[I bought 300 emoji domain names from Kazakhstan and built an email service (2021)](https://tinyprojects.dev/projects/mailoji)
+[Lunatik: Lunatik is a framework for scripting the Linux kernel with Lua](https://github.com/luainkernel/lunatik)
 
 [A hacker's guide to Language Models](https://github.com/fastai/lm-hackers/blob/main/lm-hackers.ipynb)
 
-[Scientists discover first nitrogen fixing organelle](https://newscenter.lbl.gov/2024/04/17/scientists-discover-first-nitrogen-fixing-organelle/)
+[Racket Language](https://racket-lang.org/)
 
-[Show HN: We relaunched the Official MTA App for NYC public transit](https://apps.apple.com/ca/app/the-official-mta-app/id1297605670)
+[The Great British Housing Famine](https://www.himbonomics.com/p/the-great-british-housing-famine)
 
-[Earth Online: non-stop satellite monitoring platform](https://nimbo.earth/products/earth-online/)
+[Bostrom's Deep Utopia](https://www.overcomingbias.com/p/bostroms-deep-utopia)
 
-[My journey into personal computer software development in 1983](https://farrs.substack.com/p/my-journey-into-personal-computer)
+[I bought 300 emoji domain names from Kazakhstan and built an email service (2021)](https://tinyprojects.dev/projects/mailoji)
 
-[How to fix America's aviation system](https://www.wbur.org/onpoint/2023/11/15/how-to-fix-americas-aviation-system)
+[Glibc Buffer Overflow in Iconv](https://www.openwall.com/lists/oss-security/2024/04/18/4)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Bringing Exchange Support to Thunderbird](https://blog.thunderbird.net/2024/04/adventures-in-rust-bringing-exchange-support-to-thunderbird/)
+[Racket Language](https://racket-lang.org/)
+
+[Programming Is Mostly Thinking](http://agileotter.blogspot.com/2014/09/programming-is-mostly-thinking.html)
+
+[Glibc Buffer Overflow in Iconv](https://www.openwall.com/lists/oss-security/2024/04/18/4)
+
+[I bought 300 emoji domain names from Kazakhstan and built an email service (2021)](https://tinyprojects.dev/projects/mailoji)
+
+[Scientists discover first nitrogen fixing organelle](https://newscenter.lbl.gov/2024/04/17/scientists-discover-first-nitrogen-fixing-organelle/)
+
+[Financial market applications of LLMs](https://thegradient.pub/financial-market-applications-of-llms/)
 
 [Doomscroller.xyz](https://doomscroller.xyz/)
 
-[Financial Market Applications of LLMs](https://thegradient.pub/financial-market-applications-of-llms/)
-
-[The current state of map design in OpenStreetMap](https://imagico.de/blog/en/the-current-state-of-map-design-in-openstreetmap/)
-
-[My Journey into Personal Computer Software Development in 1983](https://farrs.substack.com/p/my-journey-into-personal-computer)
-
 [Earth Online: non-stop satellite monitoring platform](https://nimbo.earth/products/earth-online/)
 
-[MuPDF WASM Viewer Demo](https://mupdf.com/wasm/demo/index.html?file=../../docs/mupdf_explored.pdf)
+[My journey into personal computer software development in 1983](https://farrs.substack.com/p/my-journey-into-personal-computer)
 
-[Emerge (YC W21) is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
-
-[Self-reasoning tokens: teaching models to think ahead](https://reasoning-tokens.ghost.io/reasoning-tokens/)
-
-[HelloKitty ransomware rebrands, releases CD Projekt and Cisco data](https://www.bleepingcomputer.com/news/security/hellokitty-ransomware-rebrands-releases-cd-projekt-and-cisco-data/)
+[Show HN: We relaunched the Official MTA App for NYC public transit](https://apps.apple.com/ca/app/the-official-mta-app/id1297605670)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Py2wasm – A Python to WASM Compiler](https://wasmer.io/posts/py2wasm-a-python-to-wasm-compiler)
+
+[Equinox.space](https://equinox.space/)
+
 [Show HN: OpenOrb, a curated search engine for Atom and RSS feeds](https://openorb.idiot.sh/search)
 
 [Inside the Super Nintendo cartridges](https://fabiensanglard.net/snes_carts/index.html)
 
-[Infinitown](https://demos.littleworkshop.fr/infinitown)
+[Internet of Desks: How I Connected My Standing Desk to the Internet](https://kn100.me/desksniffer/)
 
-[A Sketch of the Biggest Idea in Software Architecture (2022)](https://www.oilshell.org/blog/2022/03/backlog-arch.html)
+[Show HN: I made a multiple runtime version manager that can be used on Windows](https://github.com/version-fox/vfox)
 
-[Pico.sh – Hacker Labs](https://github.com/picosh/pico)
+[Untangling Spaghetti: Debugging Non-Terminating Object Programs (2009)](https://tidyfirst.substack.com/p/untangling-spaghetti-debugging-non)
 
-[Don Bluth's Garage Band](https://animationobsessive.substack.com/p/don-bluths-garage-band)
+[Apple acquires French startup behind AI and computer vision technology](https://9to5mac.com/2024/04/22/apple-startup-acquire-ai-compression-and-computer-vision/)
 
 [A flat map with the least error possible: The Gott-Goldberg-Vanderbei projection](https://vanderbei.princeton.edu/planets_webgl/GottPlanets.html)
 
-[Show HN: MonsterWriter – Write a thesis, post, or organize notes]()
-
-[Deep Space Trajectories: Exiting the Heliosphere](https://www.centauri-dreams.org/2024/04/03/deep-space-trajectories-exiting-the-heliosphere/)
-
-[I should have loved biology (2020)](https://jsomers.net/i-should-have-loved-biology/)
+[BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)

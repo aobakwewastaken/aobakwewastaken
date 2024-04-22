@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Inside the Super Nintendo cartridges](https://fabiensanglard.net/snes_carts/index.html)
+
+[Ruby vs. Python comes down to the for loop (2021)](https://softwaredoug.com/blog/2021/11/12/ruby-vs-python-for-loop.html)
+
 [I should have loved biology (2020)](https://jsomers.net/i-should-have-loved-biology/)
+
+[Pico.sh – Hacker Labs](https://github.com/picosh/pico)
 
 [Penzai: JAX research toolkit for building, editing, and visualizing neural nets](https://github.com/google-deepmind/penzai)
 
-[Lossless Acceleration of LLM via Adaptive N-Gram Parallel Decoding](https://arxiv.org/abs/2404.08698)
+[A flat map with the least error possible: The Gott-Goldberg-Vanderbei projection](https://vanderbei.princeton.edu/planets_webgl/GottPlanets.html)
 
-[The dangers of "decentralized" ID systems](https://paper.wf/crypto-agorism/the-dangers-of-decentralized-id-systems)
+[Ask HN: Which books/resources to understand modern Assembler?]()
 
 [Coroutines and effects](https://without.boats/blog/coroutines-and-effects/)
 
-[I made an open source Windows app to rewind and search everything on screen](https://tonoko.notion.site/I-made-an-open-source-app-to-rewind-search-everything-happened-on-your-screen-on-Windows-184d1a9d5edb494dba0c2f46d311ec5c)
+[Ask HN: Python Metrics Library]()
 
-[Anti-municipal broadband budget amendment gets nixed in New York](https://communitynets.org/content/anti-muni-broadband-budget-amendment-gets-nixed-new-york)
-
-[EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
-
-[Tiny World Map](https://github.com/tinyworldmap/tiny-world-map)
-
-[From a lorry driver to Ruby on rails developer at 38](https://www.writesoftwarewell.com/lorry-driver-to-rails-developer-at-38/)
+[Simon Tatham's Portable Puzzle Collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)

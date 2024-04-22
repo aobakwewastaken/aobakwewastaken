@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Meta Horizon OS](https://www.meta.com/blog/quest/meta-horizon-os-open-hardware-ecosystem-asus-republic-gamers-lenovo-xbox/)
+
 [Equinox.space](https://equinox.space/)
 
-[An Exploration of SBCL Internals (2020)](https://simonsafar.com/2020/sbcl/)
+[Dify, a visual workflow to build/test LLM applications](https://github.com/langgenius/dify)
 
-[American politics has infected investing](https://www.economist.com/finance-and-economics/2024/04/21/how-american-politics-has-infected-investing)
+[Show HN: Wonkypedia - Wikipedia from an Alternate Timeline](https://www.wonkypedia.org/)
 
-[Show HN: OpenOrb, a curated search engine for Atom and RSS feeds](https://openorb.idiot.sh/search)
+[NASA's Voyager 1 Resumes Sending Engineering Updates to Earth](https://blogs.nasa.gov/voyager/2024/04/22/nasas-voyager-1-resumes-sending-engineering-updates-to-earth/)
 
-[Py2wasm – A Python to WASM Compiler](https://wasmer.io/posts/py2wasm-a-python-to-wasm-compiler)
+[Parquet-WASM: Rust-based WebAssembly bindings to read and write Parquet data](https://github.com/kylebarron/parquet-wasm)
 
-[Inside the Super Nintendo cartridges](https://fabiensanglard.net/snes_carts/index.html)
+[JEDEC Extends DDR5 Memory Spec to 8800 MT/S, Adds Anti-Rowhammer Features](https://www.anandtech.com/show/21363/jedec-extends-ddr5-specification-to-8800-mts-adds-anti-rowhammer-features)
 
-[NvAlt: MultiMarkdown Notational Velocity fork with Markdown editing and preview](https://github.com/ttscoff/nv)
+[Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 
-[Show HN: I made a multiple runtime version manager that can be used on Windows](https://github.com/version-fox/vfox)
+[The emotional trial of clinical trials: like online dating with death risk](https://jakeseliger.com/2024/04/22/the-emotional-trial-of-clinical-trials-part-1-its-like-online-dating-except-if-you-choose-wrong-you-die/)
 
-[Apple has reportedly acquired Datakalab](https://9to5mac.com/2024/04/22/apple-startup-acquire-ai-compression-and-computer-vision/)
-
-[Internet of Desks: How I Connected My Standing Desk to the Internet](https://kn100.me/desksniffer/)
+[FPGA Architecture for Deep Learning: Survey and Future Directions](https://arxiv.org/abs/2404.10076)

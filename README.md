@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Show HN: Getada: rustup-like installer for Ada's toolchain/package manager](https://getada.dev)
+[Network visualization of 50k blogs and links](https://graph.henryn.ca)
+
+[GPU Compute in the Browser at the Speed of Native: WebGPU Marching Cubes](https://www.willusher.io/graphics/2024/04/22/webgpu-marching-cubes)
+
+[Digitized Continuous Magnetic Recordings for the 1859 Carrington Event](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023SW003807)
 
 [New Foundations is consistent – a difficult mathematical proof proved using Lean](https://leanprover-community.github.io/con-nf//)
 
-[Carl Sagan, nuking the moon, and not nuking the moon](https://eukaryotewritesblog.com/2024/04/12/nuking-the-moon/)
+[Show HN: Getada: rustup-like installer for Ada's toolchain/package manager](https://getada.dev)
 
-[Show HN: 10 Level Balancing Game for the Mobile Browser w/ increasing difficulty](https://www.balanc3dgame.com/)
+[Show HN: Balancing game for the mobile browser with increasing difficulty](https://www.balanc3dgame.com/)
+
+[A Photographer Captured His Spectacular Dream Eclipse Photo](https://petapixel.com/2024/04/21/how-a-photographer-captured-his-spectacular-dream-eclipse-photo/)
+
+[Shortbread (YC W23) is hiring a founding engineer in SF for AI comics creation](https://www.ycombinator.com/companies/shortbread/jobs/8jV0RY9-founding-engineer)
+
+[The beautiful dissociation of the Japanese language](https://aethermug.com/posts/the-beautiful-dissociation-of-the-japanese-language)
 
 [Help us invent CSS Grid Level 3, a.k.a. "Masonry" layout](https://webkit.org/blog/15269/help-us-invent-masonry-layouts-for-css-grid-level-3/)
-
-[How Amazon Became the Largest Private EV Charging Operator in the US](https://www.bloomberg.com/news/articles/2024-04-15/amazon-electric-vans-powered-by-17-000-ev-chargers)
-
-[Phi-3 Technical Report](https://arxiv.org/abs/2404.14219)
-
-[The Beautiful Dissociation of the Japanese Language](https://aethermug.com/posts/the-beautiful-dissociation-of-the-japanese-language)
-
-[The Beautiful Islands of San Serriffe (2016)](https://realdougwilson.com/writing/san-serriffe)
-
-[Show HN: Hashquery, a Python library for defining reusable analysis](https://hashquery.dev/)

@@ -3,18 +3,18 @@
 
 [Krazam OS](https://www.krazam.tv/)
 
-[EURISKO Lives](https://blog.funcall.org/lisp/2024/03/22/eurisko-lives/)
+[Open Source Community Unites to Build EU CRA-Compliant Cybersecurity Processes](https://news.apache.org/foundation/entry/open-source-community-unites-to-build-cra-compliant-cybersecurity-processes)
 
-[Meta Horizon OS](https://www.meta.com/blog/quest/meta-horizon-os-open-hardware-ecosystem-asus-republic-gamers-lenovo-xbox/)
+[Web Game Engines and Libraries](https://www.webgamedev.com/engines-libraries/web-game-engines-libraries)
+
+[EURISKO Lives](https://blog.funcall.org/lisp/2024/03/22/eurisko-lives/)
 
 [Understanding and avoiding visually ambiguous characters in IDs](https://gajus.com/blog/avoiding-visually-ambiguous-characters-in-ids)
 
-[How short can Git abbreviate? (2013)](https://blog.cuviper.com/2013/11/10/how-short-can-git-abbreviate/)
-
 [The problem with invariants is that they change over time](https://surfingcomplexity.blog/2024/03/26/the-problem-with-invariants-is-that-they-change-over-time/)
 
-[The Performance Impact of C++'s `final` Keyword](https://16bpp.net/blog/post/the-performance-impact-of-cpp-final-keyword/)
+[How short can Git abbreviate? (2013)](https://blog.cuviper.com/2013/11/10/how-short-can-git-abbreviate/)
 
-[The Resurrection of Rajasthan's Royal Liquors](https://www.atlasobscura.com/articles/the-secret-liquor-recipes-of-rajasthans-royals)
+[Meta Horizon OS](https://www.meta.com/blog/quest/meta-horizon-os-open-hardware-ecosystem-asus-republic-gamers-lenovo-xbox/)
 
-[No one buys books](https://www.elysian.press/p/no-one-buys-books)
+[HTML-first, framework-agnostic implementation of shadcn/UI – franken/UI](https://www.franken-ui.dev/)

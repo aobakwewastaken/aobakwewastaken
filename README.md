@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Phi-3 Technical Report](https://arxiv.org/abs/2404.14219)
+
+[Krazam OS](https://www.krazam.tv/)
+
+[EURISKO Lives](https://blog.funcall.org/lisp/2024/03/22/eurisko-lives/)
+
 [Meta Horizon OS](https://www.meta.com/blog/quest/meta-horizon-os-open-hardware-ecosystem-asus-republic-gamers-lenovo-xbox/)
 
-[Equinox.space](https://equinox.space/)
+[Understanding and avoiding visually ambiguous characters in IDs](https://gajus.com/blog/avoiding-visually-ambiguous-characters-in-ids)
 
-[Dify, a visual workflow to build/test LLM applications](https://github.com/langgenius/dify)
+[How short can Git abbreviate? (2013)](https://blog.cuviper.com/2013/11/10/how-short-can-git-abbreviate/)
 
-[Show HN: Wonkypedia - Wikipedia from an Alternate Timeline](https://www.wonkypedia.org/)
+[The problem with invariants is that they change over time](https://surfingcomplexity.blog/2024/03/26/the-problem-with-invariants-is-that-they-change-over-time/)
 
-[NASA's Voyager 1 Resumes Sending Engineering Updates to Earth](https://blogs.nasa.gov/voyager/2024/04/22/nasas-voyager-1-resumes-sending-engineering-updates-to-earth/)
+[The Performance Impact of C++'s `final` Keyword](https://16bpp.net/blog/post/the-performance-impact-of-cpp-final-keyword/)
 
-[Parquet-WASM: Rust-based WebAssembly bindings to read and write Parquet data](https://github.com/kylebarron/parquet-wasm)
+[The Resurrection of Rajasthan's Royal Liquors](https://www.atlasobscura.com/articles/the-secret-liquor-recipes-of-rajasthans-royals)
 
-[JEDEC Extends DDR5 Memory Spec to 8800 MT/S, Adds Anti-Rowhammer Features](https://www.anandtech.com/show/21363/jedec-extends-ddr5-specification-to-8800-mts-adds-anti-rowhammer-features)
-
-[Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
-
-[The emotional trial of clinical trials: like online dating with death risk](https://jakeseliger.com/2024/04/22/the-emotional-trial-of-clinical-trials-part-1-its-like-online-dating-except-if-you-choose-wrong-you-die/)
-
-[FPGA Architecture for Deep Learning: Survey and Future Directions](https://arxiv.org/abs/2404.10076)
+[No one buys books](https://www.elysian.press/p/no-one-buys-books)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Open-Shell: A collection of utilities bringing back classic features to Windows](https://github.com/Open-Shell/Open-Shell-Menu)
+
 [Piet (2018)](https://www.dangermouse.net/esoteric/piet.html)
+
+[VideoGigaGAN: Towards Detail-Rich Video Super-Resolution](https://videogigagan.github.io/)
 
 [CoreNet: A library for training deep neural networks](https://github.com/apple/corenet)
 
-[Meta does everything OpenAI should be](https://old.reddit.com/r/MachineLearning/comments/1cbhec7/meta_does_everything_openai_should_be_d/)
+[Faer-rs: Linear algebra foundation for the Rust programming language](https://github.com/sarah-ek/faer-rs)
 
-[Reddit Will License Its Data to Train LLMs, We Made a FF Extension to Replace](https://theluddite.org/#!post/reddit-extension)
+[Nvidia to Acquire Run:AI](https://blogs.nvidia.com/blog/runai/)
 
 [Simulating Jupiter](https://emildziewanowski.com/flowfields/)
 
+[Other People's Problems](https://seths.blog/2024/04/other-peoples-problems/)
+
 [Brainbase (YC W24) Is Hiring for Founding Full-Stack Engineer](https://www.ycombinator.com/companies/brainbase/jobs/qNs5JRo-founding-fullstack-engineer)
-
-[ESPHome](https://esphome.io/index.html)
-
-[American flag sort](https://xlinux.nist.gov/dads/HTML/americanFlagSort.html)
-
-[Bottle Plotter](https://vgnotepad.blogspot.com/2024/04/bottle-plotter.html)
 
 [BeeBase, a programmable relational database with graphical user interface](https://beebase.sourceforge.io)

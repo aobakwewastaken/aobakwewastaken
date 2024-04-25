@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Leaving Substack](https://www.mostlypython.com/leaving-substack/)
+[A useful front-end confetti animation library](https://github.com/catdad/canvas-confetti)
+
+[David Frankel is a man on a mission against robocalls](https://spectrum.ieee.org/how-to-stop-robocalls)
+
+[Tribler: An attack-resilient micro-economy for media](https://github.com/Tribler/tribler/wiki)
+
+[Serious flaws in SQL (1990)](https://dl.acm.org/doi/10.5555/77708.C1065772)
 
 [You are what you read, even if you don't always remember it](https://blog.jim-nielsen.com/2024/you-are-what-you-read/)
 
-[Tiny GPU: A minimal GPU implementation in Verilog](https://github.com/adam-maj/tiny-gpu)
+[More on x86 – The Chip Letter](https://thechipletter.substack.com/p/more-on-x86)
 
-[HTML Attributes vs. DOM Properties](https://jakearchibald.com/2024/attributes-vs-properties/)
+[Autotuner: How to Speed Up Your Rails App](https://railsatscale.com/2024-04-24-autotuner-how-to-speed-up-your-rails-app/)
 
-[A Beginner's Guide to the ESP8266 (2017)](https://tttapa.github.io/ESP8266/Chap01%20-%20ESP8266.html)
+[Someone built an LLM-powered Slay the Spire bot](https://community.aws/content/2esiarYrF0xRNOMPj0god4ikRzw/i-built-an-llm-bot-in-3-hours-to-conquer-slay-the-spire)
 
-[Cogram (YC W22) Is Hiring a Customer Success Engineer](https://www.ycombinator.com/companies/cogram/jobs/tB0R5rt-customer-success-engineer)
+[TSMC unveils 1.6nm process technology with backside power delivery](https://www.tomshardware.com/tech-industry/tsmc-unveils-16nm-process-technology-with-backside-power-delivery-rivals-intels-competing-design)
 
-[How NASA Repaired Voyager 1 from 15B Miles Away](https://arstechnica.com/space/2024/04/recoding-voyager-1-nasas-interstellar-explorer-is-finally-making-sense-again/)
-
-[Quaternion Knowledge Graph Embeddings](https://arxiv.org/abs/1904.10281)
-
-[Google rival Tuta complains to EU tech regulators about de-ranking](https://www.reuters.com/technology/google-rival-tuta-complains-eu-tech-regulators-about-de-ranking-2024-04-24/)
-
-[Airlines required to refund passengers for canceled, delayed flights](https://abcnews.go.com/Politics/airlines-give-automatic-refunds-canceled-flights-delayed-3/story?id=109573733)
+[Digital Wood Joints](https://openup.design/we-learn/50-digital-wood-joints/)

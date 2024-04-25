@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[We Have 4 Days to Contest KYC Being Required by Internet Services](https://www.federalregister.gov/documents/2024/01/29/2024-01580/taking-additional-steps-to-address-the-national-emergency-with-respect-to-significant-malicious)
+[Open Sourcing DOS 4](https://www.hanselman.com/blog/open-sourcing-dos-4)
 
-[Package management on macOS with Nix-Darwin](https://davi.sh/blog/2024/01/nix-darwin/)
+[No Abstractions: our API design principle](https://increase.com/articles/no-abstractions)
 
-[Launch HN: Nango (YC W23) – The open-source unified API]()
+[Show HN: I made a programmable computer from NAND gates](https://github.com/ArhanChaudhary/NAND)
 
-[Tribler: An attack-resilient micro-economy for media](https://github.com/Tribler/tribler/wiki)
+[The Nimble File Format by Meta](https://github.com/facebookexternal/nimble)
 
-[Ex-athletic director arrested for framing principal with AI-generated voice](https://www.thebaltimorebanner.com/education/k-12-schools/eric-eiswert-ai-audio-baltimore-county-YBJNJAS6OZEE5OQVF5LFOFYN6M/)
+[FCC votes to restore net neutrality rules](https://www.nytimes.com/2024/04/25/technology/fcc-net-neutrality-open-internet.html)
 
-[Amazon MemoryDB: A fast and durable memory-first cloud database](https://www.amazon.science/publications/amazon-memorydb-a-fast-and-durable-memory-first-cloud-database)
+[Launch HN: Nango (YC W23) – Source-available unified API]()
 
-[Digital Wood Joints](https://openup.design/we-learn/50-digital-wood-joints/)
+[DDC OLED: how to drive a tiny display from an HDMI port. (2022)](https://mitxela.com/projects/ddc-oled)
 
-[Someone built an LLM-powered Slay the Spire bot](https://community.aws/content/2esiarYrF0xRNOMPj0god4ikRzw/i-built-an-llm-bot-in-3-hours-to-conquer-slay-the-spire)
+[Tesorio (YC S15) Is Hiring a Head of Cloud Infrastructure/Operations (Remote)](https://www.tesorio.com/careers#job-openings)
 
-[A useful front-end confetti animation library](https://github.com/catdad/canvas-confetti)
+[Virtual Machine Administration Using QEMU Monitor](https://documentation.suse.com/sles/12-SP5/html/SLES-all/cha-qemu-monitor.html)
 
-[Rust Stream API visualized and exposed](https://github.com/alexpusch/rust-magic-patterns/blob/master/rust-stream-visualized/Readme.md)
+[Start Your Own ISP](https://startyourownisp.com/)

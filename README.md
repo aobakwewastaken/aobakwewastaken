@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [Open Sourcing DOS 4](https://www.hanselman.com/blog/open-sourcing-dos-4)
 
-[Show HN: I made a programmable computer from NAND gates](https://github.com/ArhanChaudhary/NAND)
+[A BSD person tries Alpine Linux](https://rubenerd.com/a-bsd-pserson-trying-alpine-linux/)
 
-[No Abstractions: our API design principle](https://increase.com/articles/no-abstractions)
+[Radicle is an open source, peer-to-peer code collaboration stack built on Git](https://radicle.xyz/)
+
+[Passkeys: A Shattered Dream](https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/)
 
 [The construction of the mafioso social capital and the Sack of Palermo (2023)](https://onlinelibrary.wiley.com/doi/full/10.1111/issj.12464)
 
+[No Abstractions: our API design principle](https://increase.com/articles/no-abstractions)
+
 [Launch HN: Nango (YC W23) – Source-available unified API]()
 
-[FCC votes to restore net neutrality rules](https://www.nytimes.com/2024/04/25/technology/fcc-net-neutrality-open-internet.html)
+[Multiple Displays on a Mac Sucks](https://wadetregaskis.com/multiple-displays-on-a-mac-sucks/)
 
 [The Optimizations in Erlang/OTP 27](https://www.erlang.org/blog/optimizations/)
 
-[DDC OLED (2022)](https://mitxela.com/projects/ddc-oled)
-
 [DayLight Computer](https://in-silo.com/daylight_computer)
-
-[Visualizing malicious IP addresses](https://romeov.github.io/malicious_ip_addresses/malicious_ip_analysis.html)

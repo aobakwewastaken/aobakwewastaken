@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Leaving Rust gamedev after 3 years](https://loglog.games/blog/leaving-rust-gamedev/)
+
+[Bun's New Crash Reporter](https://bun.sh/blog/bun-report-is-buns-new-crash-reporter)
+
 [I'm creating PBR Textures and 3D models since 2018 and sharing them for free](https://www.sharetextures.com/)
 
-[Jon Pretty wins in court against sexual harassment claims by Scala community](https://pretty.direct/statement.html)
+[Camus, Albert and the Anarchists (2007)](https://theanarchistlibrary.org/library/organise-camus-albert-and-the-anarchists)
 
-[Show HN: Meegle – Jira alternative with workflow visualization](https://www.meegle.com/index)
+[IceCube observes seven potential tau neutrinos](https://phys.org/news/2024-04-elusive-icecube-potential-tau-neutrinos.html)
 
-[Removing Reflections from Raw Photos](https://arxiv.org/abs/2404.14414)
+[Building an open data pipeline in 2024](https://blog.twingdata.com/p/building-an-open-data-pipeline-in)
 
-[Pharo 12](https://pharo.org/news/2024-04-26-pharo12-released.html)
+[Show HN: I made a spaced repetition tool to master coding problems](https://www.lanki.xyz/)
 
-[PEP 686 – Make UTF-8 mode default](https://peps.python.org/pep-0686/)
+[Trellis (YC W24) is hiring Founding Eng to build snowflake for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/biNfViG-founding-engineers-full-time)
 
-[Open Sourcing DOS 4](https://www.hanselman.com/blog/open-sourcing-dos-4)
+[Court upholds New York law that says ISPs must offer $15 broadband](https://arstechnica.com/tech-policy/2024/04/court-upholds-new-york-law-that-says-isps-must-offer-15-broadband/)
 
-[Cult of the Dead Cow – Veilid (2023)](https://cultdeadcow.com/tools/veilid.html)
-
-[I Rewired My Brain to Become Fluent in Math (2014)](https://nautil.us/how-i-rewired-my-brain-to-become-fluent-in-math-235085/)
-
-[Hotel WiFi JavaScript Injection (2012)](https://justinsomnia.org/2012/04/hotel-wifi-javascript-injection/)
+[Funeral Food](https://currentpub.com/2024/04/22/funeral-food/)

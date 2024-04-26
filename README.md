@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [I'm creating PBR Textures and 3D models since 2018 and sharing them for free](https://www.sharetextures.com/)
 
-[Cult of the Dead Cow – Veilid (2023)](https://cultdeadcow.com/tools/veilid.html)
-
-[Qwen1.5-110B](https://qwenlm.github.io/blog/qwen1.5-110b/)
-
-[The Universe as a Computer](https://dabacon.org/pontiff/2024/04/26/the-universe-as-a-computer-john-archibald-wheeler/)
+[Jon Pretty wins in court against sexual harassment claims by Scala community](https://pretty.direct/statement.html)
 
 [Show HN: Meegle – Jira alternative with workflow visualization](https://www.meegle.com/index)
 
-[UK's Investigatory Powers Bill to become law despite tech world opposition](https://www.theregister.com/2024/04/26/investigatory_powers_bill/)
+[Removing Reflections from Raw Photos](https://arxiv.org/abs/2404.14414)
 
-[OpenVoice: Instant Voice Cloning](https://github.com/myshell-ai/OpenVoice)
+[Pharo 12](https://pharo.org/news/2024-04-26-pharo12-released.html)
+
+[PEP 686 – Make UTF-8 mode default](https://peps.python.org/pep-0686/)
+
+[Open Sourcing DOS 4](https://www.hanselman.com/blog/open-sourcing-dos-4)
+
+[Cult of the Dead Cow – Veilid (2023)](https://cultdeadcow.com/tools/veilid.html)
 
 [I Rewired My Brain to Become Fluent in Math (2014)](https://nautil.us/how-i-rewired-my-brain-to-become-fluent-in-math-235085/)
 
-[Aviator (YC S21) is hiring engineers to build a dev productivity platform](https://www.ycombinator.com/companies/aviator/jobs)
-
-[Pharo 12](https://pharo.org/news/2024-04-26-pharo12-released.html)
+[Hotel WiFi JavaScript Injection (2012)](https://justinsomnia.org/2012/04/hotel-wifi-javascript-injection/)

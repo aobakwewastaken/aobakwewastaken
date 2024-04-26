@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[H5N1 prevalence in milk suggest US bird flu outbreak in cows is widespread](https://www.statnews.com/2024/04/25/h5n1-bird-flu-cows-outbreak-likely-widespread/)
+[I'm creating PBR Textures and 3D models since 2018 and sharing them for free](https://www.sharetextures.com/)
 
-[Radicle is an open source, peer-to-peer code collaboration stack built on Git](https://radicle.xyz/)
-
-[What We Train Our Brains For](https://michaeldehaan.substack.com/p/what-we-train-our-brains-for)
-
-[A BSD person tries Alpine Linux](https://rubenerd.com/a-bsd-pserson-trying-alpine-linux/)
-
-[Open Sourcing DOS 4](https://www.hanselman.com/blog/open-sourcing-dos-4)
-
-[OpenVoice: Instant Voice Cloning](https://github.com/myshell-ai/OpenVoice)
-
-[The Universe as a Computer](https://dabacon.org/pontiff/2024/04/26/the-universe-as-a-computer-john-archibald-wheeler/)
-
-[Pharo 12](https://pharo.org/news/2024-04-26-pharo12-released.html)
+[Cult of the Dead Cow – Veilid (2023)](https://cultdeadcow.com/tools/veilid.html)
 
 [Qwen1.5-110B](https://qwenlm.github.io/blog/qwen1.5-110b/)
 
-[It's Been a Year and Georgia.gov Continues to Be Hacked](https://boehs.org/node/medicicnes)
+[The Universe as a Computer](https://dabacon.org/pontiff/2024/04/26/the-universe-as-a-computer-john-archibald-wheeler/)
+
+[Show HN: Meegle – Jira alternative with workflow visualization](https://www.meegle.com/index)
+
+[UK's Investigatory Powers Bill to become law despite tech world opposition](https://www.theregister.com/2024/04/26/investigatory_powers_bill/)
+
+[OpenVoice: Instant Voice Cloning](https://github.com/myshell-ai/OpenVoice)
+
+[I Rewired My Brain to Become Fluent in Math (2014)](https://nautil.us/how-i-rewired-my-brain-to-become-fluent-in-math-235085/)
+
+[Aviator (YC S21) is hiring engineers to build a dev productivity platform](https://www.ycombinator.com/companies/aviator/jobs)
+
+[Pharo 12](https://pharo.org/news/2024-04-26-pharo12-released.html)

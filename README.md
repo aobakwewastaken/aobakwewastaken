@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Apple users are being locked out of their Apple IDs with no explanation](https://9to5mac.com/2024/04/26/signed-out-of-apple-id-account-problem-password/)
+
 [Leaving Rust gamedev after 3 years](https://loglog.games/blog/leaving-rust-gamedev/)
-
-[Bun's New Crash Reporter](https://bun.sh/blog/bun-report-is-buns-new-crash-reporter)
-
-[I'm creating PBR Textures and 3D models since 2018 and sharing them for free](https://www.sharetextures.com/)
-
-[Camus, Albert and the Anarchists (2007)](https://theanarchistlibrary.org/library/organise-camus-albert-and-the-anarchists)
-
-[IceCube observes seven potential tau neutrinos](https://phys.org/news/2024-04-elusive-icecube-potential-tau-neutrinos.html)
-
-[Building an open data pipeline in 2024](https://blog.twingdata.com/p/building-an-open-data-pipeline-in)
 
 [Show HN: I made a spaced repetition tool to master coding problems](https://www.lanki.xyz/)
 
-[Trellis (YC W24) is hiring Founding Eng to build snowflake for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/biNfViG-founding-engineers-full-time)
+[Bun's New Crash Reporter](https://bun.sh/blog/bun-report-is-buns-new-crash-reporter)
 
-[Court upholds New York law that says ISPs must offer $15 broadband](https://arstechnica.com/tech-policy/2024/04/court-upholds-new-york-law-that-says-isps-must-offer-15-broadband/)
+[What contributing to Open-source is, and what it isn't](https://suchdevblog.com/opinions/WhatOpenSourceIs.html)
 
-[Funeral Food](https://currentpub.com/2024/04/22/funeral-food/)
+[Clang's -O0 output: branch displacement and size increase](https://maskray.me/blog/2024-04-27-clang-o0-output-branch-displacement-and-size-increase)
+
+[Show HN: React for Circuits](https://github.com/tscircuit/tscircuit/blob/main/README.md)
+
+[Searchformer: Beyond A* – Better planning with transformers via search dynamics](https://github.com/facebookresearch/searchformer)
+
+[Laws of Software Evolution](https://two-wrongs.com/laws-of-software-evolution)
+
+[The Presidential Nuclear "Football" from Eisenhower to George W. Bush](https://nsarchive.gwu.edu/briefing-book/nuclear-vault/2023-07-18/presidential-nuclear-football-eisenhower-george-w-bush)

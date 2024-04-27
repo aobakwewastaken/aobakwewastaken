@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Moviecart – full length color movie and audio cartridges for stock Atari 2600](https://github.com/lodefmode/moviecart)
+
 [World Wide Web (1991)](https://info.cern.ch/hypertext/WWW/TheProject.html)
 
-[The Server Chose Violence](https://cliffle.com/blog/hubris-reply-fault/)
+[Self-hosting forms, the sane way](https://karelvo.com/blog/selfhosting-forms-the-sane-way)
 
-[Apple users are being locked out of their Apple IDs with no explanation](https://9to5mac.com/2024/04/26/signed-out-of-apple-id-account-problem-password/)
+[The server chose violence](https://cliffle.com/blog/hubris-reply-fault/)
 
-[Janky Apple ID Security](https://mjtsai.com/blog/2024/04/26/janky-apple-id-security/)
+[Planes in 3D Space](https://alexharri.com/blog/planes)
 
-[What contributing to Open-source is, and what it isn't](https://suchdevblog.com/opinions/WhatOpenSourceIs.html)
+[Predicted 25% Drop in Search Volume Remains Unclear](https://datos.live/predicted-25-drop-in-search-volume-remains-unclear/)
 
-[Searchformer: Beyond A* – Better planning with transformers via search dynamics](https://github.com/facebookresearch/searchformer)
+[Ubuntu Desktop 24.04 LTS: Noble Numbat](https://ubuntu.com/blog/ubuntu-desktop-24-04-noble-numbat-deep-dive)
 
-[Show HN: React for Circuits](https://github.com/tscircuit/tscircuit/blob/main/README.md)
+[Sweep (YC S23) is hiring a Founding ML engineer to build an AI developer](https://www.ycombinator.com/companies/sweep/jobs/)
 
 [Laws of Software Evolution](https://two-wrongs.com/laws-of-software-evolution)
 
-[Clang's -O0 output: branch displacement and size increase](https://maskray.me/blog/2024-04-27-clang-o0-output-branch-displacement-and-size-increase)
-
-[The Presidential Nuclear "Football" from Eisenhower to George W. Bush](https://nsarchive.gwu.edu/briefing-book/nuclear-vault/2023-07-18/presidential-nuclear-football-eisenhower-george-w-bush)
+[What contributing to Open-source is, and what it isn't](https://suchdevblog.com/opinions/WhatOpenSourceIs.html)

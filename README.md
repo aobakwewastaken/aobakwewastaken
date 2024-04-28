@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[LoRA+: Efficient Low Rank Adaptation of Large Models](https://arxiv.org/abs/2402.12354)
+[Call-to-Action on SB 1047 – Frontier Artificial Intelligence Models Act](https://www.affuture.org/post/9-context/)
+
+[A small lathe built in a Japanese prison camp](http://www.lathes.co.uk/bradley-pow-lathe/)
+
+[OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computers](https://os-world.github.io/)
+
+[Personal Computing Paves the Way for Personal Library Science](https://www.bramadams.dev/issue-55/)
 
 [Zilog Z80 CPU – Modern, free and open source silicon clone](https://github.com/rejunity/z80-open-silicon)
 
 [The unstallable plane that stalled](https://fearoflanding.com/accidents/accident-reports/the-unstallable-plane-that-stalled/)
 
-[TfL's simple pop-up message led to a significant drop in paper ticket sales](https://www.ianvisits.co.uk/articles/how-tfls-simple-pop-up-message-led-to-a-significant-drop-in-paper-ticket-sales-71920/)
-
-[Synth wars: The story of MIDI (2023)](https://www.musicradar.com/news/the-story-of-midi)
-
-[Flow Field Pathfinding](https://www.redblobgames.com/blog/2024-04-27-flow-field-pathfinding/)
-
-[Fragmented thinking is a bigger threat to flow state than interruptions](https://blog.stackblitz.com/posts/flow-state/)
-
-[The Invention of the Integrated Circuit: Jean Hoerni's Patent Notebook](https://thechipletter.substack.com/p/the-invention-of-the-integrated-circuit)
-
 [Watch cars evolve using genetic algorithm](https://rednuht.org/genetic_cars_2/)
 
-[Zed Decoded: Rope and SumTree](https://zed.dev/blog/zed-decoded-rope-sumtree)
+[Meticulous (YC S21) is hiring to eliminate E2E UI tests]()
+
+[Speeding up C++ build times](https://www.figma.com/blog/speeding-up-build-times/)
+
+[Show HN: Dotenv, if it is a Unix utility](https://github.com/gyf304/dotenv)

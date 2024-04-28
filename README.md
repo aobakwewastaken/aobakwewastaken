@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Google made me ruin a perfectly good website (2023)](https://theluddite.org/#!post/google-ads)
+
+[Google Quantum AI](https://quantumai.google/)
+
 [Keep Out – WebGL Game](http://www.playkeepout.com/)
+
+[How to improve the RISC-V specification](https://alastairreid.github.io/riscv-spec-issues/)
+
+[Burn After Wearing](https://grist.org/international/burn-after-wearing-fashion-waste-chile/)
 
 [SVG Viewer – View, edit, and optimize SVGs](https://www.svgviewer.dev)
 
-[Let's Think Dot by Dot: Hidden Computation in Transformer Language Models](https://arxiv.org/abs/2404.15758)
+[Install Asdf: One Runtime Manager to Rule All Dev Environments](https://jdsalaro.com/tutorial/asdf-single-package-manager-multiple-dev-environments)
 
-[Moviecart – Full length color movie and audio cartridges for stock Atari 2600](https://github.com/lodefmode/moviecart)
+[Let's Embed a Go Program into the Linux Kernel](https://sigma-star.at/blog/2023/07/embedded-go-prog/)
 
-[Einsum for Tensor Manipulation](https://swe-to-mle.pages.dev/posts/einsum-for-tensor-manipulation/)
+[Japan's Moon lander makes it through another lunar night](https://www.theregister.com/2024/04/25/slim_another_lunar_night/)
 
-[Show HN: Cognita – open-source RAG framework for modular applications](https://github.com/truefoundry/cognita)
-
-[The server chose violence](https://cliffle.com/blog/hubris-reply-fault/)
-
-[Zep AI (YC W24) Is Hiring a Machine Learning Engineer with LLM Experience](https://jobs.gem.com/zep/am9icG9zdDqdSHi4vSPAkX4trFIRMpZn)
-
-[World Wide Web (1991)](https://info.cern.ch/hypertext/WWW/TheProject.html)
-
-[What can LLMs never do?](https://www.strangeloopcanon.com/p/what-can-llms-never-do)
+[Can science find ways to ease loneliness?](https://www.science.org/content/article/can-science-find-ways-ease-loneliness#)

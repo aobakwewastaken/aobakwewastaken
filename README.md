@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Call-to-Action on SB 1047 – Frontier Artificial Intelligence Models Act](https://www.affuture.org/post/9-context/)
+[Atomic nucleus excited with laser: A breakthrough after decades](https://www.tuwien.at/en/tu-wien/news/news-articles/news/lange-erhoffter-durchbruch-erstmals-atomkern-mit-laser-angeregt)
 
-[A small lathe built in a Japanese prison camp](http://www.lathes.co.uk/bradley-pow-lathe/)
+[A small lathe built in a Japanese prison camp (1949)](http://www.lathes.co.uk/bradley-pow-lathe/)
 
-[OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computers](https://os-world.github.io/)
+[Common DB schema change mistakes in Postgres](https://postgres.ai/blog/20220525-common-db-schema-change-mistakes)
 
-[Personal Computing Paves the Way for Personal Library Science](https://www.bramadams.dev/issue-55/)
+[I found one of my first programs (Java, 2011) on the Wayback Machine and it runs](https://github.com/khiner/CrosswordFiller)
 
-[Zilog Z80 CPU – Modern, free and open source silicon clone](https://github.com/rejunity/z80-open-silicon)
+[FreeBee: AT&T Unix PC emulator](https://www.philpem.me.uk/code/3b1emu)
 
-[The unstallable plane that stalled](https://fearoflanding.com/accidents/accident-reports/the-unstallable-plane-that-stalled/)
+[Personal computing paves the way for personal library science](https://www.bramadams.dev/issue-55/)
 
-[Watch cars evolve using genetic algorithm](https://rednuht.org/genetic_cars_2/)
-
-[Meticulous (YC S21) is hiring to eliminate E2E UI tests]()
-
-[Speeding up C++ build times](https://www.figma.com/blog/speeding-up-build-times/)
+[6502 – Guideline to Reverse Engineering (how to read die shots) [pdf]](https://downloads.reactivemicro.com/Electronics/Reverse%20Engineering/6502%20-%20Guideline%20to%20Reverse%20Engineering%20v1.0.pdf)
 
 [Show HN: Dotenv, if it is a Unix utility](https://github.com/gyf304/dotenv)
+
+[Reentry – An Orbital Simulator](https://reentrygame.com/)
+
+[The Myth of the Second Chance](https://ft.pressreader.com/article/282557318242321)

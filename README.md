@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Answering Legal Questions with LLMs](https://hugodutka.com/posts/answering-legal-questions-with-llms/)
-
 [SB-1047 will stifle open-source AI and decrease safety](https://www.answer.ai/posts/2024-04-29-sb1047.html)
 
-[Cheyenne Super Computer Auction](https://gsaauctions.gov/auctions/preview/282996)
+[Webb captures iconic Horsehead Nebula in unprecedented detail](https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_captures_iconic_Horsehead_Nebula_in_unprecedented_detail)
 
-[Memary: Open-Source Longterm Memory for Autonomous Agents](https://github.com/kingjulio8238/memary)
+[A leadership crisis in the Nix community](https://lwn.net/SubscriberLink/970824/0d89c6d83efad1e0/)
 
-[Collection of publicly available IPTV channels](https://iptv-org.github.io/)
-
-[Atomic nucleus excited with laser: A breakthrough after decades](https://www.tuwien.at/en/tu-wien/news/news-articles/news/lange-erhoffter-durchbruch-erstmals-atomkern-mit-laser-angeregt)
+[Answering Legal Questions with LLMs](https://hugodutka.com/posts/answering-legal-questions-with-llms/)
 
 [Claude Émile Jean-Baptiste Litre](https://en.wikipedia.org/wiki/Claude_%C3%89mile_Jean-Baptiste_Litre)
 
-[Pdf.tocgen](https://krasjet.com/voice/pdf.tocgen/)
+[Tiered storage won't fix Kafka](https://www.warpstream.com/blog/tiered-storage-wont-fix-kafka)
 
-[What's Going on with ‘Nonplussed’? (2017)](https://www.merriam-webster.com/grammar/nonplussed)
+[Memary: Open-Source Longterm Memory for Autonomous Agents](https://github.com/kingjulio8238/memary)
 
-[Unify (YC W23) Is Hiring Contributors to Unify ML](https://www.ycombinator.com/companies/unify/jobs/XoPGc3D-llm-engineer-contributor)
+[Husband and wife outed as GRU spies aiding bombings and poisonings across Europe](https://theins.ru/en/politics/271205)
+
+[Project Habbakuk: Britain's Ice "Bergship" Aircraft Carrier Project](https://99percentinvisible.org/article/project-habbakuk-britains-secret-ice-bergship-aircraft-carrier-project/)
+
+[Atomic nucleus excited with laser: A breakthrough after decades](https://www.tuwien.at/en/tu-wien/news/news-articles/news/lange-erhoffter-durchbruch-erstmals-atomkern-mit-laser-angeregt)

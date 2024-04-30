@@ -1,11 +1,9 @@
 # Top Stories on hackernews <br />
 [Show HN: I made a CLI tool to create web extensions with no build configuration](https://github.com/cezaraugusto/extension.js)
 
-[Bytecode VMs in Surprising Places](https://dubroy.com/blog/bytecode-vms-in-surprising-places/)
+[Pyinfra: Automate Infrastructure Using Python](https://pyinfra.com/)
 
-[Tesla failing to deliver Semi-trucks on time to PepsiCo, Sysco, UPS, and Walmart](https://www.reuters.com/business/autos-transportation/tesla-semi-trucks-short-supply-pepsico-its-rivals-use-competing-ev-big-rigs-2024-04-19/)
-
-[Reddit is full of bots: thread reposted comment by comment, 10 months later](https://lemmy.blahaj.zone/post/11615413)
+[Borgo is a statically typed language that compiles to Go](https://github.com/borgo-lang/borgo)
 
 [Why SQLite Uses Bytecode](https://sqlite.org/draft/whybytecode.html)
 
@@ -13,8 +11,10 @@
 
 [TypeSpec: A new language for API-centric development](https://typespec.io/blog/2024-04-25-introducing)
 
-[Google search for "Delta Emulator" shows malware as top result](https://www.google.com/search?q=delta+emulator)
+[Webb captures iconic Horsehead Nebula in unprecedented detail](https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_captures_iconic_Horsehead_Nebula_in_unprecedented_detail)
+
+[P vs. NP and the Computational Complexity Zoo (2014) [video]](https://www.youtube.com/watch?v=YX40hbAHx3s)
 
 [Autotab (YC S23) Is Hiring Founding Engineers to Build the Digital Robot](https://www.ycombinator.com/companies/autotab/jobs/V5V8saO-founding-engineer)
 
-[Webb captures iconic Horsehead Nebula in unprecedented detail](https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_captures_iconic_Horsehead_Nebula_in_unprecedented_detail)
+[How to Write Computer Programs (2015) [pdf]](https://www.dyalog.com/uploads/documents/Papers/declarative_prog.pdf)

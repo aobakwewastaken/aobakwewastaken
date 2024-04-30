@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Show HN: I made a CLI tool to create web extensions with no build configuration](https://github.com/cezaraugusto/extension.js)
+
+[Bytecode VMs in Surprising Places](https://dubroy.com/blog/bytecode-vms-in-surprising-places/)
+
+[Tesla failing to deliver Semi-trucks on time to PepsiCo, Sysco, UPS, and Walmart](https://www.reuters.com/business/autos-transportation/tesla-semi-trucks-short-supply-pepsico-its-rivals-use-competing-ev-big-rigs-2024-04-19/)
+
+[Reddit is full of bots: thread reposted comment by comment, 10 months later](https://lemmy.blahaj.zone/post/11615413)
+
 [Why SQLite Uses Bytecode](https://sqlite.org/draft/whybytecode.html)
 
-[Memory Management Every Programmer Should Know](https://zacharylee.substack.com/p/memory-management-every-programmer)
+[CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat)
 
-[Asynchronous Programming in C#](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md)
+[TypeSpec: A new language for API-centric development](https://typespec.io/blog/2024-04-25-introducing)
 
-[Nintendo(1)](http://man.9front.org/1/nintendo)
-
-[Show HN: 3D framework for the web, built on Svelte and Three.js](https://threlte.xyz/)
-
-[I Rented Out a Movie Theatre (Again) and Used My Steam Deck to Play Co-Op Games](https://old.reddit.com/r/linux/comments/1cggj92/i_rented_out_a_movie_theatre_again_and_used_my/)
+[Google search for "Delta Emulator" shows malware as top result](https://www.google.com/search?q=delta+emulator)
 
 [Autotab (YC S23) Is Hiring Founding Engineers to Build the Digital Robot](https://www.ycombinator.com/companies/autotab/jobs/V5V8saO-founding-engineer)
 
-[Cats suffer H5N1 brain infections, blindness, death after drinking raw milk](https://arstechnica.com/science/2024/04/concerning-spread-of-bird-flu-from-cows-to-cats-suspected-in-texas/)
-
-[TL;DR AI are better community-written abstracts for research papers](https://www.tldr-ai.org/)
-
-[CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat)
+[Webb captures iconic Horsehead Nebula in unprecedented detail](https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_captures_iconic_Horsehead_Nebula_in_unprecedented_detail)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[DEA Accepts Health Agency's Recommendation to Reclassify Cannabis](https://norml.org/blog/2024/04/30/dea-accepts-health-agencys-recommendation-to-reclassify-cannabis/)
+
 [Printing Music with CSS Grid](https://cruncher.ch/blog/printing-music-with-css-grid/)
 
-[Quitting Engineering to Pursue Art Full-Time](https://www.staysketchy.com/p/pablo-azocar)
+[Kolmogorov-Arnold Networks](https://github.com/KindXiaoming/pykan)
+
+[Figma OSS Alternative](https://penpot.app/)
+
+[Show HN: I made an app that helps you find where to stream movies and TV shows](https://whereto.stream)
+
+[Run0, a systemd based alternative to sudo, announced](https://mastodon.social/@pid_eins/112353324518585654)
 
 [The File Filesystem (2021)](https://mgree.github.io/ffs/)
 
 [Level of Gaussians: Real-Time View Synthesis for Millions of Square Meters](https://zju3dv.github.io/LoG_webpage/)
 
-[Pyinfra: Automate Infrastructure Using Python](https://pyinfra.com/)
+[Early Bitcoin Investor Roger Ver Charged with Tax Fraud](https://www.justice.gov/opa/pr/early-bitcoin-investor-charged-tax-fraud)
 
-[Arti: A Tor Implementation in Rust](https://tpo.pages.torproject.net/core/arti/)
-
-[FTC challenges 'junk' patents held by 10 drugmakers, incl Novo Nordisk's Ozempic](https://www.cnbc.com/2024/04/30/ftc-challenges-patents-held-by-drugmakers-including-for-ozempic.html)
-
-[RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
-
-[Alice's adventures in a differentiable wonderland](https://www.sscardapane.it/alice-book)
-
-[Show HN: I made a CLI tool to create web extensions with no build configuration](https://github.com/cezaraugusto/extension.js)
+[Engineer 'builds a GPU from scratch' in two weeks](https://www.tomshardware.com/pc-components/gpus/engineer-builds-a-gpu-from-scratch-in-two-weeks-process-much-harder-than-he-expected)

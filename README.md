@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[New findings point to an Earth-like environment on ancient Mars](https://discover.lanl.gov/news/0501-ancient-mars/)
+
+[Car manufacturers break promise about sharing location data with police](https://www.wyden.senate.gov/news/press-releases/wyden-markey-reveal-automakers-provide-detailed-location-information-to-law-enforcement-without-a-warrant-rarely-notify-car-owners-request-ftc-investigate-broken-promises-to-protect-drivers-privacy)
+
 [Better and Faster Large Language Models via Multi-Token Prediction](https://arxiv.org/abs/2404.19737)
 
-[Printing Music with CSS Grid](https://cruncher.ch/blog/printing-music-with-css-grid/)
+[The LaserDisc – By Bradford Morgan White – Abort Retry Fail](https://www.abortretry.fail/p/the-laserdisc)
 
 [Kolmogorov-Arnold Networks](https://github.com/KindXiaoming/pykan)
 
-[Resistance against London tube map commit history (a.k.a. git merge hell) (2015)](https://www.tugberkugurlu.com/archive/resistance-against-london-tube-map-commit-history-a-k-a--git-merge-hell)
+[Show HN: I've forked neofetch to keep it alive](https://github.com/LorenDB/neofetch)
 
-[How to install Linux from a Windows installer](https://prose.nsood.in/linux-from-windows-installer)
+[Tire toxicity faces fresh scrutiny after salmon die-offs](https://phys.org/news/2024-05-toxicity-fresh-scrutiny-salmon-die.html)
 
-[Show HN: I made an app that helps you find where to stream movies and TV shows](https://whereto.stream)
+[LLMs Can't Do Probability](https://brainsteam.co.uk/2024/05/01/llms-cant-do-probability/)
 
-[Borgo is a statically typed language that compiles to Go](https://github.com/borgo-lang/borgo)
+[Two giants in the satellite telecom industry join forces to counter Starlink](https://arstechnica.com/space/2024/04/the-two-largest-geostationary-satellite-operators-will-become-one/)
 
-[Pyinfra: Automate Infrastructure Using Python](https://pyinfra.com/)
-
-[Run0, a systemd based alternative to sudo, announced](https://mastodon.social/@pid_eins/112353324518585654)
-
-[Level of Gaussians: Real-Time View Synthesis for Millions of Square Meters](https://zju3dv.github.io/LoG_webpage/)
+[Private EYES: How a tech company is expanding surveillance in public streets](https://www.newsobserver.com/news/state/north-carolina/article286920890.html)

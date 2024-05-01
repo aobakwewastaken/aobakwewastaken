@@ -3,18 +3,18 @@
 
 [Printing Music with CSS Grid](https://cruncher.ch/blog/printing-music-with-css-grid/)
 
-[Figma OSS Alternative](https://penpot.app/)
-
 [Kolmogorov-Arnold Networks](https://github.com/KindXiaoming/pykan)
 
-[Jeff Barr acknowledges S3 unauthorized request billing issue](https://old.reddit.com/r/aws/comments/1ch1ir4/jeff_barr_acknowledges_s3_unauthorized_request/)
-
-[Show HN: I made an app that helps you find where to stream movies and TV shows](https://whereto.stream)
+[Resistance against London tube map commit history (a.k.a. git merge hell) (2015)](https://www.tugberkugurlu.com/archive/resistance-against-london-tube-map-commit-history-a-k-a--git-merge-hell)
 
 [How to install Linux from a Windows installer](https://prose.nsood.in/linux-from-windows-installer)
 
-[Level of Gaussians: Real-Time View Synthesis for Millions of Square Meters](https://zju3dv.github.io/LoG_webpage/)
-
-[Most clean power purchasing strategies do little to cut emissions](https://research.princeton.edu/news/buyer-beware-most-clean-power-purchasing-strategies-do-little-cut-emissions)
+[Show HN: I made an app that helps you find where to stream movies and TV shows](https://whereto.stream)
 
 [Borgo is a statically typed language that compiles to Go](https://github.com/borgo-lang/borgo)
+
+[Pyinfra: Automate Infrastructure Using Python](https://pyinfra.com/)
+
+[Run0, a systemd based alternative to sudo, announced](https://mastodon.social/@pid_eins/112353324518585654)
+
+[Level of Gaussians: Real-Time View Synthesis for Millions of Square Meters](https://zju3dv.github.io/LoG_webpage/)

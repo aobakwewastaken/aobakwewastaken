@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[DEA Accepts Health Agency's Recommendation to Reclassify Cannabis](https://norml.org/blog/2024/04/30/dea-accepts-health-agencys-recommendation-to-reclassify-cannabis/)
+[Better and Faster Large Language Models via Multi-Token Prediction](https://arxiv.org/abs/2404.19737)
 
 [Printing Music with CSS Grid](https://cruncher.ch/blog/printing-music-with-css-grid/)
 
+[Figma OSS Alternative](https://penpot.app/)
+
 [Kolmogorov-Arnold Networks](https://github.com/KindXiaoming/pykan)
 
-[Figma OSS Alternative](https://penpot.app/)
+[Jeff Barr acknowledges S3 unauthorized request billing issue](https://old.reddit.com/r/aws/comments/1ch1ir4/jeff_barr_acknowledges_s3_unauthorized_request/)
 
 [Show HN: I made an app that helps you find where to stream movies and TV shows](https://whereto.stream)
 
-[Run0, a systemd based alternative to sudo, announced](https://mastodon.social/@pid_eins/112353324518585654)
-
-[The File Filesystem (2021)](https://mgree.github.io/ffs/)
+[How to install Linux from a Windows installer](https://prose.nsood.in/linux-from-windows-installer)
 
 [Level of Gaussians: Real-Time View Synthesis for Millions of Square Meters](https://zju3dv.github.io/LoG_webpage/)
 
-[Early Bitcoin Investor Roger Ver Charged with Tax Fraud](https://www.justice.gov/opa/pr/early-bitcoin-investor-charged-tax-fraud)
+[Most clean power purchasing strategies do little to cut emissions](https://research.princeton.edu/news/buyer-beware-most-clean-power-purchasing-strategies-do-little-cut-emissions)
 
-[Engineer 'builds a GPU from scratch' in two weeks](https://www.tomshardware.com/pc-components/gpus/engineer-builds-a-gpu-from-scratch-in-two-weeks-process-much-harder-than-he-expected)
+[Borgo is a statically typed language that compiles to Go](https://github.com/borgo-lang/borgo)

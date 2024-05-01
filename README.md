@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[The AWS S3 Denial of Wallet Amplification Attack](https://blog.limbus-medtec.com/the-aws-s3-denial-of-wallet-amplification-attack-bc5a97cc041d?gi=67ac052cc1ce)
+
 [Ask HN: Who is hiring? (May 2024)]()
 
-[Claude Team plan and iOS app](https://www.anthropic.com/news/team-plan-and-ios)
+[At Microsoft, years of security debt come crashing down](https://www.cybersecuritydive.com/news/microsoft-security-debt-crashing-down/714685/)
 
-[New findings point to an Earth-like environment on ancient Mars](https://discover.lanl.gov/news/0501-ancient-mars/)
+[The Revenge of the Home Page](https://www.newyorker.com/culture/infinite-scroll/the-revenge-of-the-home-page)
 
-[Better and Faster Large Language Models via Multi-Token Prediction](https://arxiv.org/abs/2404.19737)
+[New startup sells coffee through SSH](https://www.terminal.shop/)
 
-[Kolmogorov-Arnold Networks](https://github.com/KindXiaoming/pykan)
+[McDonald's and other big brands warn that low-income consumers starting to crack](https://www.cnbc.com/2024/04/30/companies-from-mcdonalds-to-3m-warn-inflation-is-squeezing-consumers.html)
 
-[Invisible Stitch: Generating Smooth 3D Scenes with Depth Inpainting](https://research.paulengstler.com/invisible-stitch/)
+[2markdown – Transform Websites into Markdown](https://2markdown.com/)
 
-[500 Byte Images: The Haiku Vector Icon Format (2016)](http://blog.leahhanson.us/post/recursecenter2016/haiku_icons.html)
+[Mux (YC W16) is hiring a Senior Product Designer that's excited about devtools](https://mux.com/jobs?j=product-designer)
 
-[Printing Music with CSS Grid](https://cruncher.ch/blog/printing-music-with-css-grid/)
+[Dune 3D 1.1.0 Released](https://github.com/dune3d/dune3d/releases/tag/v1.1.0)
 
-[The LaserDisc](https://www.abortretry.fail/p/the-laserdisc)
-
-[Show HN: I made an app that helps you find where to stream movies and TV shows](https://whereto.stream)
+[Roblox players to start seeing video ads in its virtual realms](https://www.reuters.com/technology/roblox-players-start-seeing-video-ads-its-virtual-realms-2024-05-01/)

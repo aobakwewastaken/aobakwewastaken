@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[The Snapdragon 855's iGPU](https://chipsandcheese.com/2024/05/01/inside-the-snapdragon-855s-igpu/)
+
 [Cognition: A new antisyntax language redefining metaprogramming](https://ret2pop.nullring.xyz/blog/cognition.html)
 
 [Horizontal running inside circular walls of Moon settlements](https://royalsocietypublishing.org/doi/10.1098/rsos.231906)
 
-[Uno: Create Beautiful Cross Platform .NET Apps Faster](https://platform.uno/)
-
 [ESpeak-ng: speech synthesizer with more than one hundred languages and accents](https://github.com/espeak-ng/espeak-ng)
 
-[The Scientific Method Part 5: Illusions, Delusions, and Dreams](http://blog.rongarret.info/2024/04/the-scientific-method-part-5-illusions.html)
+[A recent security incident involving Dropbox Sign](https://sign.dropbox.com/blog/a-recent-security-incident-involving-dropbox-sign)
 
-[NSA: Tales of the Krypt (KRYPTOS Society news letters 1994-2003) [pdf]](https://www.governmentattic.org/53docs/NSAkryptosSocNwsltrs1994-2003.pdf)
+[Uno: Create Beautiful Cross Platform .NET Apps Faster](https://platform.uno/)
 
-[Ask HN: Who is hiring? (May 2024)]()
+[Fast, simple, hard real time allocator for Rust](https://github.com/pcwalton/offset-allocator)
 
-[Not all graphs are trees](https://buttondown.email/jaffray/archive/not-all-graphs-are-trees/)
+[Typewise (YC S22) is hiring a Full-Stack Engineer for AI writing assistant](https://www.ycombinator.com/companies/typewise/jobs/U40CJ60-senior-full-stack-engineer-f-m-x)
 
-[New startup sells coffee through SSH](https://www.terminal.shop/)
+[Tesla slashes its summer internship program](https://fortune.com/2024/05/01/tesla-slashes-summer-internship-program/)
 
-[Ask HN: How do people create those sleek looking demos for startups?]()
+[Dissecting LockBit v3 Ransomware](https://blog.calif.io/p/dissecting-lockbit-v3-ransomware)

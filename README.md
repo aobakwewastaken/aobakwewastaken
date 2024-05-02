@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Show HN: An extension to track your Wikipedia adventures](https://chromewebstore.google.com/detail/wiki-journey/lehenbcbjcnkhkikgopniimobmmdcfog)
+[Second Boeing Whistleblower Dies in Less Than Two Months](https://www.newshub.co.nz/home/world/2024/05/whistleblower-josh-dean-of-boeing-supplier-spirit-aerosystems-dies-of-sudden-illness.html)
 
-[How did Ancient Greek music sound?](https://twitter.com/classicstudies/status/1652226935718658051)
+[Making a 3D modeler in C in a week](https://danielchasehooper.com/posts/shapeup/)
+
+[Building a rocket engine from scratch](https://blog.ablspacesystems.com/p/building-e2)
+
+[The world's loudest Lisp program to the rescue](https://blog.funcall.org//lisp%20psychoacoustics/2024/05/01/worlds-loudest-lisp-program/)
+
+[Piccolo – A Stackless Lua Interpreter](https://kyju.org/blog/piccolo-a-stackless-lua-interpreter/)
+
+[Gene banks aren’t enough to save the world’s food](https://longnow.org/ideas/to-save-it-eat-it/)
+
+[They thought they were joining an accelerator – instead they lost their startups](https://techcrunch.com/2024/05/02/they-thought-they-were-joining-an-accelerator-instead-they-lost-their-startups/)
+
+[Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 
 [Teranoptia – a typeface that allows you to imagine chimeric creatures](https://www.tunera.xyz/fonts/teranoptia/)
 
-[The Snapdragon 855's iGPU](https://chipsandcheese.com/2024/05/01/inside-the-snapdragon-855s-igpu/)
-
-[A blue mineral that grows on buried bodies and confuses archaeologists (2016)](https://www.atlasobscura.com/articles/vivianite-blue-human-remains)
-
-[A Knight's Tale](https://blogs.bl.uk/digitisedmanuscripts/2024/04/a-knights-tale.html)
-
-[Fast, simple, hard real time allocator for Rust](https://github.com/pcwalton/offset-allocator)
-
-[Backblaze Drive Stats for Q1 2024](https://www.backblaze.com/blog/backblaze-drive-stats-for-q1-2024/)
-
-[Cognition: A new antisyntax language redefining metaprogramming](https://ret2pop.nullring.xyz/blog/cognition.html)
-
-[Professor Megalow's Dinosaur Bones: Richard Owen and Victorian Literature](https://publicdomainreview.org/essay/richard-owen-and-victorian-literature)
+[Got an old Raspberry Pi spare? Try RISC OS. It is, something else](https://www.theregister.com/2024/05/02/rool_530_is_here/)

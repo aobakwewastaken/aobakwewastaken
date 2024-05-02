@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[The Snapdragon 855's iGPU](https://chipsandcheese.com/2024/05/01/inside-the-snapdragon-855s-igpu/)
+[Show HN: I built a tool for repeatable checklists](https://steplist.app/)
 
-[Jane Street is big. Like, big](https://www.ft.com/content/54671865-4c7f-4692-a879-867ef68f0bde)
+[Teranoptia – a typeface that allows you to imagine chimeric creatures](https://www.tunera.xyz/fonts/teranoptia/)
+
+[Johnson and Johnson announces $6.5B settlement over ovarian cancer allegations](https://www.axios.com/2024/05/01/johnson-johnson-talc-baby-powder-settlement-ovarian-cancer)
+
+[The Snapdragon 855's iGPU](https://chipsandcheese.com/2024/05/01/inside-the-snapdragon-855s-igpu/)
 
 [The Vivid Blue Mineral That Grows on Buried Bodies and Confuses Archaeologists](https://www.atlasobscura.com/articles/vivianite-blue-human-remains)
 
+[Show HN: An extension to track your Wikipedia adventures](https://chromewebstore.google.com/detail/wiki-journey/lehenbcbjcnkhkikgopniimobmmdcfog)
+
+[Jane Street is big. Like, big](https://www.ft.com/content/54671865-4c7f-4692-a879-867ef68f0bde)
+
 [Cognition: A new antisyntax language redefining metaprogramming](https://ret2pop.nullring.xyz/blog/cognition.html)
 
-[ESpeak-ng: speech synthesizer with more than one hundred languages and accents](https://github.com/espeak-ng/espeak-ng)
+[Professor Megalow's Dinosaur Bones: Richard Owen and Victorian Literature](https://publicdomainreview.org/essay/richard-owen-and-victorian-literature)
 
 [Fast, simple, hard real time allocator for Rust](https://github.com/pcwalton/offset-allocator)
-
-[Optery (YC W22) – Engineering Tech Lead with Django and Python Experience (Remote)](https://www.ycombinator.com/companies/optery/jobs/Jwe23jD-engineering-tech-lead-full-time-contract)
-
-[Horizontal running inside circular walls of Moon settlements](https://royalsocietypublishing.org/doi/10.1098/rsos.231906)
-
-[Are young people smarter than adults? Research shows differences diminishing](https://theconversation.com/are-young-people-smarter-than-older-adults-my-research-shows-cognitive-differences-between-generations-are-diminishing-229132)
-
-[Uno: Create Beautiful Cross Platform .NET Apps Faster](https://platform.uno/)

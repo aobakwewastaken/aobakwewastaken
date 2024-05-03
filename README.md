@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[How to Use JSON Path](https://bump.sh/blog/how-to-use-json-path)
+[DNS traffic can leak outside the VPN tunnel on Android](https://mullvad.net/en/blog/dns-traffic-can-leak-outside-the-vpn-tunnel-on-android)
 
-[Deletion of user account (€ 19,90)](https://www.soflow.com/eu/product/deletion-of-user-account/)
+[Unique volumes of Brothers Grimm fairy tales discovered in Poland](https://english.nv.ua/life/27-unique-volumes-of-grimm-brothers-fairy-tales-were-found-in-poland-50415035.html)
 
-[I'm writing a new vector search SQLite Extension](https://alexgarcia.xyz/blog/2024/building-new-vector-search-sqlite/index.html)
+[00Key a 75% Keyboard](https://github.com/ZeroZeroOne-dev/00Key)
 
-[Woodworking as an Escape from the Absurdity of Software](https://alinpanaitiu.com/blog/woodworking-escape-from-software-absurdity/)
+[Lowercase – A simple way to take and share notes](https://www.lowercase.app/)
 
-[A Single Div](https://a.singlediv.com/)
+[CSS Text Box Trim](https://github.com/jantimon/text-box-trim-examples)
 
-[Ribbon Health (YC S17) Is Hiring a Data Acquisition Tech Lead](https://www.ribbonhealth.com/open-roles?gh_jid=5118848004)
+[Woodworking as an escape from the absurdity of software](https://alinpanaitiu.com/blog/woodworking-escape-from-software-absurdity/)
 
-[Stirling PDF: Self-hosted, web-based PDF manipulation tool](https://github.com/Stirling-Tools/Stirling-PDF)
+[Creating a low-cost EV charging station with Arduino](https://blog.arduino.cc/2024/04/23/creating-a-low-cost-ev-charging-station-with-arduino/)
 
-[Goodyear Inflatoplane](https://en.wikipedia.org/wiki/Goodyear_Inflatoplane)
+[I’m writing a new vector search SQLite Extension](https://alexgarcia.xyz/blog/2024/building-new-vector-search-sqlite/index.html)
 
-[How to Make More Money Renting a GPU Than Nvidia Makes Selling It](https://www.nextplatform.com/2024/05/02/how-to-make-more-money-renting-a-gpu-than-nvidia-makes-selling-it/)
+[Blue-Recorder, a Simple Screen Recorder Written in Rust](https://github.com/xlmnxp/blue-recorder)
 
-[Silk Helped the Armies of Genghis Khan Conquer Asia](https://lithub.com/how-silk-helped-the-armies-of-genghis-khan-conquer-asia/)
+[The Nature of Code (2nd Edition)](https://natureofcode.com/introduction/)

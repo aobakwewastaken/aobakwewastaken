@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Show HN: Dillo 3.1.0 released after 9 years](https://dillo-browser.github.io/latest.html)
+
+[Verified Rust for low-level systems code](https://github.com/verus-lang/verus)
+
+[How to Build a $20B Semiconductor Fab](https://www.construction-physics.com/p/how-to-build-a-20-billion-semiconductor)
+
+[Porting HPC Applications to AMD Instinct MI300A Using Unified Memory and OpenMP](https://arxiv.org/abs/2405.00436)
+
 [The Mirror Fusion Test Facility (2023)](https://www.beautifulpublicdata.com/the-mirror-fusion-test-facility/)
 
 [CBMC: C bounded model checker (2021)](http://www.cprover.org/cbmc/)
 
-[Vulture shortage threatens Zoroastrian burial rites](https://www.theguardian.com/world/article/2024/may/04/vulture-shortage-threatens-zoroastrian-burial-rites-india-iran-pakistan)
+[Atari's Mike Jang](https://arcadeblogger.com/2024/02/13/ataris-mike-jang/)
 
-[The Matrix: A Bayesian learning model for LLMs](https://arxiv.org/abs/2402.03175)
+[Streak (YC S11) is hiring a staff UI engineer](https://www.streak.com/careers/staff-ui-engineer)
 
-[Folding and One Straight Cut Suffice [pdf] (1999)](https://www.imsc.res.in/~hbar/PDFs_2017/Paper_by_Demaine_Demaine_Lubiw.pdf)
+[The Hidden-Pregnancy Experiment: Could I Hide My Pregnancy from My Phone?](https://www.newyorker.com/culture/the-weekend-essay/the-hidden-pregnancy-experiment)
 
-[Spotify getting into enterprise IT tools](https://techcrunch.com/2024/04/30/spotifys-getting-serious-about-its-enterprise-and-dev-tools-business-play/)
-
-[Show HN: BandMatch – “Tinder” but for finding musicians to create bands/collab](https://bandmatch.app)
-
-[Trayd (YC S23) Is Hiring Technical Customer Success Associate](https://www.ycombinator.com/companies/trayd/jobs/mWFq6En-technical-customer-success-associate)
-
-[Unique volumes of Brothers Grimm fairy tales discovered in Poland](https://english.nv.ua/life/27-unique-volumes-of-grimm-brothers-fairy-tales-were-found-in-poland-50415035.html)
-
-[Figma’s Journey to TypeScript](https://www.figma.com/blog/figmas-journey-to-typescript-compiling-away-our-custom-programming-language/)
+[He Lost $36B in a Week. Now Bill Hwang Is Fighting to Avoid Prison](https://www.bloomberg.com/news/features/2024-05-01/bill-hwang-fights-prison-time-after-hastening-credit-suisse-collapse)

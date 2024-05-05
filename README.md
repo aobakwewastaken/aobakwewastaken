@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Machine unlearning: ML model minus the information to be unlearned](https://ai.stanford.edu/~kzliu/blog/unlearning)
+[Bollards: Why and What](https://josh.works/bollards)
 
-[First 'tooth regrowth medicine' to be tested in Japan from Sept. 2024](https://mainichi.jp/english/articles/20240503/p2a/00m/0sc/012000c)
+[Alert for Social Engineering Takeovers of Open Source Projects](https://openssf.org/blog/2024/04/15/open-source-security-openssf-and-openjs-foundations-issue-alert-for-social-engineering-takeovers-of-open-source-projects/)
 
-[A History of C Compilers – Part 1: Performance, Portability and Freedom](https://thechipletter.substack.com/p/a-history-of-c-compilers-part-1-performance)
+[Monitoring energy usage with smart plugs, Prometheus and Grafana](https://ounapuu.ee/posts/2024/05/02/smartplugs/)
 
-[Small Things](https://rishad.substack.com/p/small-things)
+[Designing furniture using the CSS grid (2023)](https://alnvdl.github.io/2023/01/07/designing-furniture-using-the-css-grid.html)
 
-[Rewriting the Technical Interview (2020)](https://aphyr.com/posts/353-rewriting-the-technical-interview)
+[Infini-Gram: Scaling unbounded n-gram language models to a trillion tokens](https://arxiv.org/abs/2401.17377)
 
-[Take a look at traefik, even if you don't use containers](https://j6b72.de/article/why-you-should-take-a-look-at-traefik/)
+[Flying planes in Microsoft Flight Simulator with a JavaScript autopilot (2023)](https://pomax.github.io/are-we-flying/)
 
-[Time-Based CSS Animations](https://yuanchuan.dev/time-based-css-animations)
+[ESP32-S3 has a few SIMD instructions](https://bitbanksoftware.blogspot.com/2024/01/surprise-esp32-s3-has-few-simd.html)
 
-[Automated integer hash function discovery](https://github.com/skeeto/hash-prospector)
+[TheDesk Desktop Environment](https://github.com/theCheeseboard/thedesk)
 
-[Rusty.hpp: A Borrow Checker and Memory Ownership System for C++20](https://github.com/Jaysmito101/rusty.hpp)
+[Tasmota: Open-source firmware for ESP devices](https://tasmota.github.io/docs/)
 
-[Cylon: JavaScript framework for robotics, drones, and the Internet of Things](https://github.com/hybridgroup/cylon)
+[MIT abandons requirement of DEI statements for hiring and promotions](https://whyevolutionistrue.com/2024/05/04/mit-abandons-use-of-dei-statements/)

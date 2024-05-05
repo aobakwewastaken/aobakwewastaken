@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Show HN: Dillo 3.1.0 released after 9 years](https://dillo-browser.github.io/latest.html)
+[Automated integer hash function discovery](https://github.com/skeeto/hash-prospector)
 
-[Verified Rust for low-level systems code](https://github.com/verus-lang/verus)
+[Time-Based CSS Animations](https://yuanchuan.dev/time-based-css-animations)
 
-[How to Build a $20B Semiconductor Fab](https://www.construction-physics.com/p/how-to-build-a-20-billion-semiconductor)
+[Vera Rubin's primary mirror gets its first reflective coating](https://www.universetoday.com/166842/vera-rubins-primary-mirror-gets-its-first-reflective-coating/)
 
-[Porting HPC Applications to AMD Instinct MI300A Using Unified Memory and OpenMP](https://arxiv.org/abs/2405.00436)
-
-[The Mirror Fusion Test Facility (2023)](https://www.beautifulpublicdata.com/the-mirror-fusion-test-facility/)
-
-[CBMC: C bounded model checker (2021)](http://www.cprover.org/cbmc/)
+[Cylon: JavaScript framework for robotics, drones, and the Internet of Things](https://github.com/hybridgroup/cylon)
 
 [Atari's Mike Jang](https://arcadeblogger.com/2024/02/13/ataris-mike-jang/)
 
-[Streak (YC S11) is hiring a staff UI engineer](https://www.streak.com/careers/staff-ui-engineer)
+[Emerge (YC W21) is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
 
-[The Hidden-Pregnancy Experiment: Could I Hide My Pregnancy from My Phone?](https://www.newyorker.com/culture/the-weekend-essay/the-hidden-pregnancy-experiment)
+[Verified Rust for low-level systems code](https://github.com/verus-lang/verus)
 
-[He Lost $36B in a Week. Now Bill Hwang Is Fighting to Avoid Prison](https://www.bloomberg.com/news/features/2024-05-01/bill-hwang-fights-prison-time-after-hastening-credit-suisse-collapse)
+[Understanding Stein's Paradox (2021)](https://joe-antognini.github.io/machine-learning/steins-paradox)
+
+[Show HN: gpudeploy.com – "Airbnb" for GPUs](https://www.gpudeploy.com)
+
+[Show HN: Dillo 3.1.0 released after 9 years](https://dillo-browser.github.io/latest.html)

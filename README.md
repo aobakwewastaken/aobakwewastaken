@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Bollards: Why and What](https://josh.works/bollards)
+[Social engineering takeovers of open source projects](https://openssf.org/blog/2024/04/15/open-source-security-openssf-and-openjs-foundations-issue-alert-for-social-engineering-takeovers-of-open-source-projects/)
 
-[Alert for Social Engineering Takeovers of Open Source Projects](https://openssf.org/blog/2024/04/15/open-source-security-openssf-and-openjs-foundations-issue-alert-for-social-engineering-takeovers-of-open-source-projects/)
+[Remnants of a legendary typeface have been rescued from the Thames](https://news.artnet.com/art-world/doves-typeface-2454807)
+
+[Deep Reinforcement Learning: Zero to Hero](https://github.com/alessiodm/drl-zh)
+
+[Giant Compressed-Air Battery in the Australian Outback](https://www.wired.com/story/hydrostor-compressed-air-battery-california-australia-energy-climate/)
+
+[X.org on NetBSD – The State of Things](https://blog.netbsd.org/tnf/entry/x_org_on_netbsd_the)
 
 [Monitoring energy usage with smart plugs, Prometheus and Grafana](https://ounapuu.ee/posts/2024/05/02/smartplugs/)
 
-[Designing furniture using the CSS grid (2023)](https://alnvdl.github.io/2023/01/07/designing-furniture-using-the-css-grid.html)
-
-[Infini-Gram: Scaling unbounded n-gram language models to a trillion tokens](https://arxiv.org/abs/2401.17377)
+[Why Choose ULIDs over Traditional UUIDs or IDs for Database Identification?](https://sotergreco.com/why-choose-ulids-over-traditional-uuids-or-ids-for-database-identification)
 
 [Flying planes in Microsoft Flight Simulator with a JavaScript autopilot (2023)](https://pomax.github.io/are-we-flying/)
 
-[ESP32-S3 has a few SIMD instructions](https://bitbanksoftware.blogspot.com/2024/01/surprise-esp32-s3-has-few-simd.html)
+[Bollards: Why and What](https://josh.works/bollards)
 
-[TheDesk Desktop Environment](https://github.com/theCheeseboard/thedesk)
-
-[Tasmota: Open-source firmware for ESP devices](https://tasmota.github.io/docs/)
-
-[MIT abandons requirement of DEI statements for hiring and promotions](https://whyevolutionistrue.com/2024/05/04/mit-abandons-use-of-dei-statements/)
+[A High-Level Technical Overview of Homomorphic Encryption](https://www.jeremykun.com/2024/05/04/fhe-overview/)

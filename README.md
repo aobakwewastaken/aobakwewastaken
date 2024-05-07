@@ -1,5 +1,5 @@
 # Top Stories on hackernews <br />
-[My husband has become a Vim peasant – please advise](https://old.reddit.com/r/emacs/comments/1ck8w2g/my_husband_has_become_a_vim_peasant_please_advise/)
+[Caniwebview.com – Like Caniuse but for Webviews](https://caniwebview.com/)
 
 [Caniemail.com – like caniuse but for email content](https://www.caniemail.com/)
 
@@ -9,12 +9,12 @@
 
 [Attackers can decloak routing-based VPNs](https://www.leviathansecurity.com/blog/tunnelvision)
 
-[A book Stanley Kubrick didn’t want anyone to read is being published](https://www.theguardian.com/film/2024/apr/21/stanley-kubrick-director-book-block-flaws-films-published)
+[What Is in a Rust Allocator?](https://blog.sulami.xyz/posts/what-is-in-a-rust-allocator/)
 
 [We've been put in the vibe space](https://vickiboykis.com/2024/05/06/weve-been-put-in-the-vibe-space/)
 
+[Dotfiles: Unofficial Guide to Dotfiles on GitHub](https://dotfiles.github.io/)
+
 [How Python asyncio works: recreating it from scratch](https://jacobpadilla.com/articles/recreating-asyncio)
 
-[CodeCrafters (YC S22) Is Hiring Asia-Based SDRs / BDRs](https://www.ycombinator.com/companies/codecrafters/jobs/7ljWFvU-sdr-for-enterprise-influencer-partnerships-manager)
-
-[The best way to have complex discussions?](https://cq2.co/blog/the-best-way-to-have-complex-discussions)
+[Decompiling Hyper-V Manager to rebuild it from source](https://awakecoding.com/posts/decompiling-hyper-v-manager-to-rebuild-it-from-source/)

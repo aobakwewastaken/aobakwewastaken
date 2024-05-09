@@ -1,9 +1,5 @@
 # Top Stories on hackernews <br />
-[Microsoft PlayReady – Complete Client Identity Compromise](https://seclists.org/fulldisclosure/2024/May/5)
-
 [Algebraic Data Types for C99](https://github.com/Hirrolot/datatype99)
-
-[Tracking Illicit Brazilian Beef from the Amazon to Your Burger](https://e360.yale.edu/features/marcel-gomes-interview)
 
 [Exploring HN by mapping and analyzing 40M posts and comments for fun](https://blog.wilsonl.in/hackerverse/)
 
@@ -11,10 +7,14 @@
 
 [Show HN: An SQS Alternative on Postgres](https://github.com/tembo-io/pgmq)
 
-[UTC, Tai, and Unix Time (2001)](https://cr.yp.to/proto/utctai.html)
+[Microsoft PlayReady – Complete Client Identity Compromise](https://seclists.org/fulldisclosure/2024/May/5)
+
+[Show HN: Open-Source SlackAI app for those who don't want to pay $10/user/month](https://github.com/meetbryce/open-source-slack-ai)
 
 [What I mean when I say that machine learning in Elixir is production-ready](https://cigrainger.com/elixirconf-eu-2024-keynote/)
 
-[Show HN: Browser-based knitting (pattern) software](https://github.com/alefore/knit)
+[Launch HN: Muddy (YC S19) – Multiplayer browser for getting work done]()
 
-[No "Zero-Shot" Without Exponential Data](https://arxiv.org/abs/2404.04125)
+[Show HN: Timmerse.com (YC W22) Easily create immersive real-time interactions](https://timmerse.com/)
+
+[UTC, Tai, and Unix Time (2001)](https://cr.yp.to/proto/utctai.html)

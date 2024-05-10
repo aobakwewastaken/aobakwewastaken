@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [Roman Tyrian purple snail dye found in UK for first time](https://www.bbc.com/news/articles/cjje132jvygo)
 
-[The most backdoor-looking bug I've ever seen (2021)](https://words.filippo.io/dispatches/telegram-ecdh/)
-
-[Player-Driven Emergence in LLM-Driven Game Narrative](https://arxiv.org/abs/2404.17027)
+[Elvish, expressive programming language and a versatile interactive shell](https://elv.sh)
 
 [It's always TCP_NODELAY](https://brooker.co.za/blog/2024/05/09/nagle.html)
 
-[Object oriented design patterns in the Linux kernel (2011)](https://lwn.net/Articles/444910/)
+[Logicola 3](https://medium.com/@malikpiara/introducing-logicola-3-1aa4047ee335)
 
-[Bloop (YC S21) Is Hiring AI Engineers. Devin for Legacy Code (London, Onsite)](https://www.ycombinator.com/companies/bloop/jobs/iCrEllp-ai-engineer)
-
-[Energy-Efficient Llama 2 Inference on FPGAs via High Level Synthesis](https://arxiv.org/abs/2405.00738)
+[Sound-suppressing silk can create quiet spaces](https://news.mit.edu/2024/sound-suppressing-silk-can-create-quiet-spaces-0507)
 
 [I was at the clapperboard for Orson Welles' drunk wine commercial (2021)](https://melmagazine.com/en-us/story/orson-welles-drunk-wine-commercial)
 
-[Medieval Icelanders were likely hunting blue whales long industrial technology](https://hakaimagazine.com/features/how-viking-age-hunters-took-down-the-biggest-animal-on-earth/)
+[Player-Driven Emergence in LLM-Driven Game Narrative](https://arxiv.org/abs/2404.17027)
 
-[Launch HN: Muddy (YC S19) – Multiplayer browser for getting work done]()
+[Is the largest root of a random polynomial more likely to be real than complex?](https://mathoverflow.net/questions/470951/is-the-largest-root-of-a-random-polynomial-more-likely-to-be-real-than-complex)
+
+[Apple apologizes for iPad 'Crush' ad that 'missed the mark'](https://www.theverge.com/2024/5/9/24153113/apple-ipad-ad-crushing-apology)
+
+[Object oriented design patterns in the Linux kernel (2011)](https://lwn.net/Articles/444910/)

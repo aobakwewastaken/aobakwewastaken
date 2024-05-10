@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Roman Tyrian purple snail dye found in UK for first time](https://www.bbc.com/news/articles/cjje132jvygo)
+
+[The most backdoor-looking bug I've ever seen (2021)](https://words.filippo.io/dispatches/telegram-ecdh/)
+
+[Player-Driven Emergence in LLM-Driven Game Narrative](https://arxiv.org/abs/2404.17027)
+
 [It's always TCP_NODELAY](https://brooker.co.za/blog/2024/05/09/nagle.html)
 
-[How bad are satellite megaconstellations for astronomy?](https://www.leonarddavid.com/blinded-by-the-light-megaconstellation-clash-with-astronomical-peer-groups/)
+[Object oriented design patterns in the Linux kernel (2011)](https://lwn.net/Articles/444910/)
 
-[Sioyek is a PDF viewer with a focus on textbooks and research papers](https://github.com/ahrm/sioyek)
+[Bloop (YC S21) Is Hiring AI Engineers. Devin for Legacy Code (London, Onsite)](https://www.ycombinator.com/companies/bloop/jobs/iCrEllp-ai-engineer)
+
+[Energy-Efficient Llama 2 Inference on FPGAs via High Level Synthesis](https://arxiv.org/abs/2405.00738)
+
+[I was at the clapperboard for Orson Welles' drunk wine commercial (2021)](https://melmagazine.com/en-us/story/orson-welles-drunk-wine-commercial)
+
+[Medieval Icelanders were likely hunting blue whales long industrial technology](https://hakaimagazine.com/features/how-viking-age-hunters-took-down-the-biggest-animal-on-earth/)
 
 [Launch HN: Muddy (YC S19) – Multiplayer browser for getting work done]()
-
-[ESP32 Drum Synth Machine](https://github.com/zircothc/DRUM_2004_V1)
-
-[Algebraic Data Types for C99](https://github.com/Hirrolot/datatype99)
-
-[Show HN: Exploring HN by mapping and analyzing 40M posts and comments for fun](https://blog.wilsonl.in/hackerverse/)
-
-[Show HN: Ellipsis – Automated PR reviews and bug fixes](https://www.ellipsis.dev/)
-
-[Show HN: An SQS Alternative on Postgres](https://github.com/tembo-io/pgmq)
-
-[DNSecure – a configuration tool of DoT and DoH for iOS and iPadOS](https://github.com/kkebo/DNSecure)

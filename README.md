@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Show HN: A web debugger an ex-Cloudflare team has been working on for 4 years]()
+
+[Popover API](https://developer.mozilla.org/en-US/docs/Web/API/Popover_API)
+
+[Life-like particle system](https://ventrella.com/Clusters/)
+
 [Is the largest root of a random polynomial more likely to be real than complex?](https://mathoverflow.net/questions/470951/is-the-largest-root-of-a-random-polynomial-more-likely-to-be-real-than-complex)
+
+[Superfile – A fancy, pretty terminal file manager](https://github.com/MHNightCat/superfile)
 
 [Roman Tyrian purple snail dye found in UK for first time](https://www.bbc.com/news/articles/cjje132jvygo)
 
-[Elvish, expressive programming language and a versatile interactive shell](https://elv.sh)
-
-[It's always TCP_NODELAY](https://brooker.co.za/blog/2024/05/09/nagle.html)
-
-[I was at the clapperboard for Orson Welles' drunk wine commercial (2021)](https://melmagazine.com/en-us/story/orson-welles-drunk-wine-commercial)
-
-[Logicola 3](https://medium.com/@malikpiara/introducing-logicola-3-1aa4047ee335)
-
 [Apple apologizes for iPad 'Crush' ad that 'missed the mark'](https://www.theverge.com/2024/5/9/24153113/apple-ipad-ad-crushing-apology)
 
-[Trip C++Now 2024 – think-cell](https://www.think-cell.com/en/career/devblog/trip-report-cpp-now-2024)
+[Tine Text Editor](https://github.com/travisdoor/tine)
 
-[Player-Driven Emergence in LLM-Driven Game Narrative](https://arxiv.org/abs/2404.17027)
+[OpenBSD Desktop](https://x61.ar/log/2024/05/06052024135732-openbsd_desktop.html)
 
-[Sound-suppressing silk can create quiet spaces](https://news.mit.edu/2024/sound-suppressing-silk-can-create-quiet-spaces-0507)
+[Show HN: A simple 2D fluid and gravity simulation with WASM and WebGL](https://aestuans.github.io/blob/)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Jim Simons has died](https://www.simonsfoundation.org/2024/05/10/simons-foundation-co-founder-mathematician-and-investor-jim-simons-dies-at-86/)
+
 [Show HN: A web debugger an ex-Cloudflare team has been working on for 4 years]()
+
+[Spider-Man (Neversoft) Decompilation Project Progress Checkpoint – May 2024](https://krystalgamer.github.io/spidey-decomp-status-may/)
+
+[UK Government AI Saftey Institute Launches Inspect](https://ukgovernmentbeis.github.io/inspect_ai/)
 
 [Superfile – A fancy, pretty terminal file manager](https://github.com/MHNightCat/superfile)
 
-[OpenBSD Desktop](https://x61.ar/log/2024/05/06052024135732-openbsd_desktop.html)
+[Deno KV internals: building a database for the modern web](https://deno.com/blog/building-deno-kv)
 
-[Mathematician and Investor Jim Simons Dies at 86](https://www.simonsfoundation.org/2024/05/10/simons-foundation-co-founder-mathematician-and-investor-jim-simons-dies-at-86/)
+[Nasa’s Roman Mission Will Hunt for Primordial Black Holes](https://www.nasa.gov/missions/roman-space-telescope/how-nasas-roman-mission-will-hunt-for-primordial-black-holes/)
 
 [Life-like particle system](https://ventrella.com/Clusters/)
 
-[Largest root of a random real polynomial: likely to be real than complex?](https://mathoverflow.net/questions/470951/is-the-largest-root-of-a-random-polynomial-more-likely-to-be-real-than-complex)
-
-[Roman Tyrian purple snail dye found in UK for first time](https://www.bbc.com/news/articles/cjje132jvygo)
-
-[Popover API](https://developer.mozilla.org/en-US/docs/Web/API/Popover_API)
+[Laudatio Turiae](https://en.wikipedia.org/wiki/Laudatio_Turiae)
 
 [Apple apologizes for iPad 'Crush' ad that 'missed the mark'](https://www.theverge.com/2024/5/9/24153113/apple-ipad-ad-crushing-apology)
-
-[Tine Text Editor](https://github.com/travisdoor/tine)

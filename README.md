@@ -9,12 +9,12 @@
 
 [Show HN: Wag, MFA and Enrollment for WireGuard](https://github.com/NHAS/wag)
 
-[Jim Simons has died](https://www.simonsfoundation.org/2024/05/10/simons-foundation-co-founder-mathematician-and-investor-jim-simons-dies-at-86/)
+[Lessons learned reinventing the Python notebook](https://marimo.io/blog/lessons-learned)
 
-[Unix and Multics](https://www.multicians.org/unix.html)
-
-[Coronal mass ejection impact imminent, two more earth-directed CMEs](https://www.spaceweatherlive.com/en/news/view/533/20240510-cme-impact-imminent-two-more-earth-directed-cmes.html)
-
-[Supreme Court: There's No 'Time Limit' on Copyright Infringement Claims](https://torrentfreak.com/supreme-court-theres-no-time-limit-on-copyright-infringement-claims-240510/)
+[Unix and Multics (2019)](https://www.multicians.org/unix.html)
 
 [The Emacs Window Management Almanac](https://karthinks.com/software/emacs-window-management-almanac/)
+
+[Pyramid3D Real-time Graphics Processor (1997) [pdf]](https://vgamuseum.info/images/doc/unreleased/pyramid3d/tritechpyramid3dpresentation.pdf)
+
+[Unix Viruses 25th Anniversary Edition](https://tmpout.sh/3/03.html)

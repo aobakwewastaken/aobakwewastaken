@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Show HN: A WireGuard Powered Remote Shell](https://github.com/noisysockets/nsh)
+[Professional Corner-Cutting (2016)](https://blog.ometer.com/2016/05/04/professional-corner-cutting/)
 
-[Show HN: Open-Source Video Editor Web App]()
+[Becoming an Amateur Polyglot](https://www.lesswrong.com/posts/BPpeBH8brSCRvZajs/how-to-be-an-amateur-polyglot)
 
-[Immersive Linear Algebra (2015)](http://immersivemath.com/ila/index.html)
+[The Alternative Implementation Problem](https://pointersgonewild.com/2024/04/20/the-alternative-implementation-problem/)
 
-[Automatically Detecting Under-Trained Tokens in Large Language Models](https://arxiv.org/abs/2405.05417)
+[Homoiconic Python](https://aljamal.substack.com/p/homoiconic-python)
 
-[Virtualizing the 6502 on a 6502 with 6o6](http://oldvcr.blogspot.com/2024/04/virtualizing-6502-with-6o6-and.html)
+[Page Dewarping (2016)](https://mzucker.github.io/2016/08/15/page-dewarping.html)
 
-[Show HN: es6_maps, new Elixir syntax feature via runtime compiler hacking](https://github.com/kzemek/es6_maps)
+[Assembly](https://assembly.louve.systems/)
 
-[Flatcar: OS Innovation with Systemd-Sysext](https://www.flatcar.org/blog/2024/04/os-innovation-with-systemd-sysext/)
+[Peter Jackson on how Tolkien stopped a Beatles LOTR film (2021)](https://www.bbc.com/news/entertainment-arts-59387182)
 
-[Ancient Egyptian Stone-Drilling (1983)](https://www.penn.museum/sites/expedition/ancient-egyptian-stone-drilling/)
+[Learning K programming: idiom by idiom [pdf]](http://nsl.com/papers/idioms_K3.pdf)
 
-[An unexpected detour into partially symbolic, sparsity-expoiting autodiff](https://dansblog.netlify.app/posts/2024-05-08-laplace/laplace)
+[Eventual (YC W22) Is Hiring Software Engineers to Build a Query Engine in Rust](https://jobs.ashbyhq.com/eventualcomputing?utm_source=Ox4R0k6rPN)
 
-[UpCodes (YC S17) is hiring remote SWEs, PMs to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
+[Whole-body magnetic resonance imaging at 0.05 Tesla](https://www.science.org/doi/10.1126/science.adm7168)

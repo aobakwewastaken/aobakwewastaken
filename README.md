@@ -1,4 +1,6 @@
 # Top Stories on hackernews <br />
+[Automatically Detecting Under-Trained Tokens in Large Language Models](https://arxiv.org/abs/2405.05417)
+
 [Show HN: Open-Source Video Editor Web App]()
 
 [Immersive Linear Algebra (2015)](http://immersivemath.com/ila/index.html)
@@ -11,10 +13,8 @@
 
 [Binius: Highly efficient proofs over binary fields](https://vitalik.eth.link/general/2024/04/29/binius.html)
 
-[Farewell, Chuck E. Cheese Animatronic Band](https://www.nytimes.com/2024/05/11/business/chuck-e-cheese-animatronic-band.html)
+[Emoji History: The Missing Years](https://blog.gingerbeardman.com/2024/05/10/emoji-history-the-missing-years/)
+
+[Show HN: Multilspy – Cross platform framework to develop Language Server Clients](https://github.com/microsoft/monitors4codegen)
 
 [PeaZip: Open-source file compression and encryption software](https://peazip.github.io/)
-
-[100k Stars](https://stars.chromeexperiments.com/)
-
-[Why the CORDIC algorithm lives rent-free in my head](https://github.com/francisrstokes/githublog/blob/main/2024/5/10/cordic.md)

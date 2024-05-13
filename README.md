@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Professional Corner-Cutting (2016)](https://blog.ometer.com/2016/05/04/professional-corner-cutting/)
+[GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2024-05-12-tk)
 
-[Becoming an Amateur Polyglot](https://www.lesswrong.com/posts/BPpeBH8brSCRvZajs/how-to-be-an-amateur-polyglot)
+[NPM package is-even has over 140k weekly downloads](https://www.npmjs.com/package/is-even)
+
+[A Slower Speed of Light (2012)](http://gamelab.mit.edu/games/a-slower-speed-of-light/)
+
+[PicoMEM by FreddyV – All in One 8-Bit ISA Expansion Card](https://texelec.com/product/picomem/)
+
+[Show HN: CarCheck – Car Buying Checklist App](https://usefulchecklists.com/)
+
+[Meticulous (YC S21) Is Hiring to Eliminate E2E UI Tests]()
+
+[MacRelix – Unix-like features for classic Mac OS](https://www.macrelix.org/)
 
 [The Alternative Implementation Problem](https://pointersgonewild.com/2024/04/20/the-alternative-implementation-problem/)
 
 [Homoiconic Python](https://aljamal.substack.com/p/homoiconic-python)
 
-[Page Dewarping (2016)](https://mzucker.github.io/2016/08/15/page-dewarping.html)
-
-[Assembly](https://assembly.louve.systems/)
-
-[Peter Jackson on how Tolkien stopped a Beatles LOTR film (2021)](https://www.bbc.com/news/entertainment-arts-59387182)
-
-[Learning K programming: idiom by idiom [pdf]](http://nsl.com/papers/idioms_K3.pdf)
-
-[Eventual (YC W22) Is Hiring Software Engineers to Build a Query Engine in Rust](https://jobs.ashbyhq.com/eventualcomputing?utm_source=Ox4R0k6rPN)
-
-[Whole-body magnetic resonance imaging at 0.05 Tesla](https://www.science.org/doi/10.1126/science.adm7168)
+[I built an online PDF management platform using open-source software](https://www.pdfequips.com/)

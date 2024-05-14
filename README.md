@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Blazingly fast linked lists](https://dygalo.dev/blog/blazingly-fast-linked-lists/)
+[Veo](https://deepmind.google/technologies/veo/)
 
-[The 1871 Samuel Morse Statue (2014)](http://daytoninmanhattan.blogspot.com/2014/06/the-1871-samuel-morse-statue-central.html)
+[Glider – open-source eInk monitor with an emphasis on low latency](https://github.com/Modos-Labs/Glider)
 
-[Wasp-193B, a giant planet with a density similar to that of cotton candy](https://www.exotic.uliege.be/cms/c_12662566/en/wasp-193b-a-giant-planet-with-a-density-similar-to-that-of-cotton-candy)
+[Gemini Flash](https://deepmind.google/technologies/gemini/flash/)
 
-[Disney's Robots Use Rockets to Stick the Landing](https://spectrum.ieee.org/disney-robot-2668135204)
+[Most common PIN codes](https://informationisbeautiful.net/visualizations/most-common-pin-codes/)
 
-[New work extends the thermodynamic theory of computation](https://www.santafe.edu/news-center/news/new-work-extends-the-thermodynamic-theory-of-computation)
+[GPT-4o's Memory Breakthrough – Needle in a Needlestack](http://nian.llmonpy.ai/)
 
-[Commodore 64 runs AI to generate images](https://www.tomshardware.com/tech-industry/artificial-intelligence/commodore-64-can-use-ai-to-generate-8x8-sprites-takes-20-minutes-for-90-iterations)
+[Model Explorer: intuitive and hierarchical visualization of model graphs](https://ai.google.dev/edge/model-explorer)
 
-[Timekeeping Before Clocks](https://worldhistory.substack.com/p/to-cut-and-hack-my-days)
+[Sir, there's a cat in your mirror dimension](https://lcamtuf.substack.com/p/sir-theres-a-cat-in-your-mirror-dimension)
 
-[The Notifier Pattern for Applications That Use Postgres](https://brandur.org/notifier)
+[The new APT 3.0 solver](https://blog.jak-linux.org/2024/05/14/solver3/)
 
-[GPT-4o](https://openai.com/index/hello-gpt-4o/)
+[Contact of Containership Dali with the Key Bridge and Subsequent Bridge Collapse [pdf]](https://static01.nyt.com/newsgraphics/documenttools/6119296c8c79713a/0e214c46-full.pdf)
 
-[Pen Plotter Programming: The Basics (2017)](https://medium.com/@fogleman/pen-plotter-programming-the-basics-ec0407ab5929)
+[Dart 3.4 (WASM and Macros preview)](https://medium.com/dartlang/dart-3-4-bd8d23b4462a)

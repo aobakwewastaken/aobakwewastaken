@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [GPT-4o](https://openai.com/index/hello-gpt-4o/)
 
-[A review on protein languauge models](https://www.apoorva-srinivasan.com/plms/)
+[Using ARG in a Dockerfile – beware the gotcha](https://qmacro.org/blog/posts/2024/05/13/using-arg-in-a-dockerfile-beware-the-gotcha/)
 
-[Static Chess](https://www.val.town/v/maxm/staticChess)
+[Claude is now available in Europe](https://www.anthropic.com/news/claude-europe)
 
-[A Pattern Language](https://patternlanguage.cc/)
+[The Notifier Pattern for Applications That Use Postgres](https://brandur.org/notifier)
 
-[Apple and Google deliver support for unwanted tracking alerts in iOS and Android](https://www.apple.com/ca/newsroom/2024/05/apple-and-google-deliver-support-for-unwanted-tracking-alerts-in-ios-and-android/)
+[Commodore 64 runs AI to generate images](https://www.tomshardware.com/tech-industry/artificial-intelligence/commodore-64-can-use-ai-to-generate-8x8-sprites-takes-20-minutes-for-90-iterations)
 
 [SEQUEL: A Structured English Query Language (1974)](https://dl.acm.org/doi/epdf/10.1145/800296.811515)
 
+[Static Chess](https://www.val.town/v/maxm/staticChess)
+
+[Apple and Google deliver support for unwanted tracking alerts in iOS and Android](https://www.apple.com/ca/newsroom/2024/05/apple-and-google-deliver-support-for-unwanted-tracking-alerts-in-ios-and-android/)
+
+[A review on protein language models](https://www.apoorva-srinivasan.com/plms/)
+
 [Upstreaming Linux kernel support for the Snapdragon X Elite](https://www.qualcomm.com/developer/blog/2024/05/upstreaming-linux-kernel-support-for-the-snapdragon-x-elite)
-
-[The First Nuclear Microreactor Company Listed in the USA](https://nanonuclearenergy.com/)
-
-[Show HN: Pi-C.A.R.D, a Raspberry Pi Voice Assistant](https://github.com/nkasmanoff/pi-card)
-
-[Unitree G1 Humanoid Agent](https://www.unitree.com/g1/)

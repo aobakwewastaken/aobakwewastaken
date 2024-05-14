@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[My VM is lighter (and safer) than your container](https://dl.acm.org/doi/10.1145/3132747.3132763)
+
 [GPT-4o](https://openai.com/index/hello-gpt-4o/)
 
 [Using ARG in a Dockerfile – beware the gotcha](https://qmacro.org/blog/posts/2024/05/13/using-arg-in-a-dockerfile-beware-the-gotcha/)
 
+[Disney's Robots Use Rockets to Stick the Landing](https://spectrum.ieee.org/disney-robot-2668135204)
+
 [Claude is now available in Europe](https://www.anthropic.com/news/claude-europe)
 
-[The Notifier Pattern for Applications That Use Postgres](https://brandur.org/notifier)
+[Unriddle (YC S24) Is Hiring a Founding Engineer](https://www.workatastartup.com/jobs/66506)
 
 [Commodore 64 runs AI to generate images](https://www.tomshardware.com/tech-industry/artificial-intelligence/commodore-64-can-use-ai-to-generate-8x8-sprites-takes-20-minutes-for-90-iterations)
 
-[SEQUEL: A Structured English Query Language (1974)](https://dl.acm.org/doi/epdf/10.1145/800296.811515)
+[The Notifier Pattern for Applications That Use Postgres](https://brandur.org/notifier)
 
-[Static Chess](https://www.val.town/v/maxm/staticChess)
+[Turn Your Android Tablet into an IDE with VSCode and Nix](https://www.50-nuances-octets.fr/en/posts/turn-android-tablet-into-ide-with-vscode-nix/)
 
-[Apple and Google deliver support for unwanted tracking alerts in iOS and Android](https://www.apple.com/ca/newsroom/2024/05/apple-and-google-deliver-support-for-unwanted-tracking-alerts-in-ios-and-android/)
-
-[A review on protein language models](https://www.apoorva-srinivasan.com/plms/)
-
-[Upstreaming Linux kernel support for the Snapdragon X Elite](https://www.qualcomm.com/developer/blog/2024/05/upstreaming-linux-kernel-support-for-the-snapdragon-x-elite)
+[Pen Plotter Programming: The Basics (2017)](https://medium.com/@fogleman/pen-plotter-programming-the-basics-ec0407ab5929)

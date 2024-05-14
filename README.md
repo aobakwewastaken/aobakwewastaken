@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[GPT-4o](https://openai.com/index/hello-gpt-4o/)
+
+[A review on protein languauge models](https://www.apoorva-srinivasan.com/plms/)
+
 [Static Chess](https://www.val.town/v/maxm/staticChess)
 
-[Release of Fugaku-LLM – a large language model trained on supercomputer Fugaku](https://www.fujitsu.com/global/about/resources/news/press-releases/2024/0510-01.html)
+[A Pattern Language](https://patternlanguage.cc/)
 
 [Apple and Google deliver support for unwanted tracking alerts in iOS and Android](https://www.apple.com/ca/newsroom/2024/05/apple-and-google-deliver-support-for-unwanted-tracking-alerts-in-ios-and-android/)
 
+[SEQUEL: A Structured English Query Language (1974)](https://dl.acm.org/doi/epdf/10.1145/800296.811515)
+
+[Upstreaming Linux kernel support for the Snapdragon X Elite](https://www.qualcomm.com/developer/blog/2024/05/upstreaming-linux-kernel-support-for-the-snapdragon-x-elite)
+
+[The First Nuclear Microreactor Company Listed in the USA](https://nanonuclearenergy.com/)
+
 [Show HN: Pi-C.A.R.D, a Raspberry Pi Voice Assistant](https://github.com/nkasmanoff/pi-card)
 
-[GPT-4o](https://openai.com/index/hello-gpt-4o/)
-
-[Show HN: An open source framework for voice assistants](https://github.com/pipecat-ai/pipecat)
-
-[New Earliest Emoji Sets from 1988 and 1990 Uncovered](https://blog.emojipedia.org/new-earliest-emoji-sets-from-1988-and-1990-uncovered/)
-
-[Svix (YC W21) Is Hiring a Product Marketing Manager (US Remote)](https://www.svix.com/careers/)
-
-[Deblur-GS: 3D Gaussian splatting from camera motion blurred images](https://chaphlagical.icu/Deblur-GS/)
-
-[It’s an age of marvels](https://blog.plover.com/tech/its-an-age-of-marvels.html)
+[Unitree G1 Humanoid Agent](https://www.unitree.com/g1/)

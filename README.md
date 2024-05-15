@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[New exponent functions that make SiLU and SoftMax 2x faster, at full accuracy](https://github.com/ggerganov/llama.cpp/pull/7154)
+
 [Adobe Photoshop Source Code (2013)](https://computerhistory.org/blog/adobe-photoshop-source-code/)
 
-[Raspberry Pi Ltd is considering an IPO](https://www.londonstockexchange.com/news-article/market-news/expected-intention-to-float/16470316)
+[Project Gameface Launches on Android](https://developers.googleblog.com/en/project-gameface-launches-on-android/)
 
-[What went wrong with UniSuper and Google Cloud?](https://danielcompton.net/google-cloud-unisuper)
+[In medicine what's the difference between an -ectomy, an -ostomy, and an -otomy? (1986)](https://www.straightdope.com/21341781/in-medicine-what-s-the-difference-between-an-ectomy-an-ostomy-and-an-otomy)
 
-[Translation of the Rust's core and alloc crates to Coq for formal verification](https://formal.land/blog/2024/04/26/translation-core-alloc-crates)
+[A 'plague' comes before the fall: lessons from Roman history](https://thebulletin.org/2024/05/a-plague-comes-before-the-fall-lessons-from-roman-history/)
 
-[The Worst Website in the Entire World](https://matduggan.com/the-worst-website-in-the-entire-world/)
+[Making a Postgres query 1k times faster](https://mattermost.com/blog/making-a-postgres-query-1000-times-faster/)
 
-[I Coded Something Dumb and I'm Proud of It](https://plbrault.com/blog-posts/i-coded-something-dumb-and-im-proud-of-it-en/)
+[Jepsen: Datomic Pro 1.0.7075](https://jepsen.io/analyses/datomic-pro-1.0.7075)
 
-[Show HN: I wrote a symmetry game with a daily puzzle](https://www.hidden-mirrors.com)
+[Dragonfly: An optical telescope built from an array of off-the-shelf Canon lens](https://www.dunlap.utoronto.ca/instrumentation/dragonfly/)
 
-[A low budget consumer hardware espionage implant: a GSM device hidden in (2018)](https://ha.cking.ch/s8_data_line_locator/)
+[Show HN: Open-source BI and analytics for engineers](https://github.com/quarylabs/quary)
 
-[Prague Astronomical Clock Simulator (2022)](https://github.com/kshetline/prague-clock)
-
-[Proteins in blood could provide early cancer warning 'by more than seven years'](https://www.theguardian.com/society/article/2024/may/15/proteins-blood-cancer-warning-seven-years-study)
+[Show HN: Tarsier – Vision utilities for web interaction agents](https://github.com/reworkd/tarsier)

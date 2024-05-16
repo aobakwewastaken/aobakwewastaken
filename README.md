@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Llama3.np: pure NumPy implementation of Llama3](https://github.com/likejazz/llama3.np)
+[Winamp has announced that it is "opening up" its source code](https://about.winamp.com/press/article/winamp-open-source-code)
 
-[F* – A Proof-Oriented Programming Language](https://www.fstar-lang.org/)
+[Llama 3 implemented in pure NumPy](https://docs.likejazz.com/llama3.np/)
 
-[Egypt's Pyramids May Have Been Built on a Long-Lost Branch of the Nile](https://www.nature.com/articles/s43247-024-01379-7)
+[Egypt's pyramids may have been built on a long-lost branch of the Nile](https://www.nature.com/articles/d41586-024-01449-y)
 
-[The spy who flunked it: Kurt Gödel's forgotten part in the atom-bomb story](https://www.nature.com/articles/d41586-024-00644-1)
+[Google Gemini: Context Caching](https://ai.google.dev/gemini-api/docs/caching)
 
-[Sprint, T-Mobile Merger Killed Wireless Price Competition in U.S.](https://www.techdirt.com/2024/05/16/report-sprint-t-mobile-merger-immediately-killed-wireless-price-competition-in-u-s/)
+[Wind farms can offset their emissions within two years, new study shows](https://newsroom.taylorandfrancisgroup.com/wind-farms-can-offset-their-emissions-within-two-years-new-study-shows/)
 
-[What's New in Neovim 0.10](https://gpanders.com/blog/whats-new-in-neovim-0.10/)
+[The Tragic Downfall of the Internet's Art Gallery](https://slate.com/technology/2024/05/deviantart-what-happened-ai-decline-lawsuit-stability.html)
 
-[D3 in Depth](https://www.d3indepth.com/)
+[Germany's Sovereign Tech Fund Now Supporting FFmpeg](https://www.phoronix.com/news/Germany-STF-For-FFmpeg)
 
-[Some notes on Rust, mutable aliasing and formal verification](https://graydon2.dreamwidth.org/312681.html)
+[Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations – Is Hiring](https://skio.com/careers/)
 
-[Promoted.ai (YC W21) Is Hiring a Apache Flink Expert Staff Engineer](https://www.ycombinator.com/companies/promoted/jobs/1dLskWr-staff-engineer-apache-flink-expert)
+[Build WebGPU Apps Today with PlayCanvas](https://blog.playcanvas.com/build-webgpu-apps-today-with-playcanvas/)
 
-[Things I won't work with: the higher states of bromine (2019)](https://blogs.sciencemag.org/pipeline/archives/2019/11/21/the-higher-states-of-bromine)
+[JEP Draft: Support HTTP/3 in the HttpClient](https://openjdk.org/jeps/8291976)

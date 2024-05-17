@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Winamp has announced that it is "opening up" its source code](https://about.winamp.com/press/article/winamp-open-source-code)
+[100 Exercises to Learn Rust](https://rust-exercises.com/)
 
-[Llama 3 implemented in pure NumPy](https://docs.likejazz.com/llama3.np/)
+[A forged Apple employee badge](https://cabel.com/2024/05/16/the-forged-apple-employee-badge/)
 
-[Egypt's pyramids may have been built on a long-lost branch of the Nile](https://www.nature.com/articles/d41586-024-01449-y)
+[Computer scientists invent an efficient new way to count](https://www.quantamagazine.org/computer-scientists-invent-an-efficient-new-way-to-count-20240516/)
 
-[Google Gemini: Context Caching](https://ai.google.dev/gemini-api/docs/caching)
+[A transport protocol's view of Starlink](https://www.potaroo.net/ispcol/2024-05/starlink-tcp.html)
 
-[Wind farms can offset their emissions within two years, new study shows](https://newsroom.taylorandfrancisgroup.com/wind-farms-can-offset-their-emissions-within-two-years-new-study-shows/)
+[Visualizing algorithms for rate limiting](https://smudge.ai/blog/ratelimit-algorithms)
 
-[The Tragic Downfall of the Internet's Art Gallery](https://slate.com/technology/2024/05/deviantart-what-happened-ai-decline-lawsuit-stability.html)
+[Deutsche Bahn introduces "MetaWindow"](https://www.railtarget.eu/technologies-and-infrastructure/deutsche-bahn-introduces-metawindow-a-gamechanger-in-noise-reduction-for-railways-8449.html)
 
-[Germany's Sovereign Tech Fund Now Supporting FFmpeg](https://www.phoronix.com/news/Germany-STF-For-FFmpeg)
+[Jike: The obscure social media app beloved by China's tech scene](https://restofworld.org/2023/china-tech-workers-investors-founders-app/)
 
-[Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations – Is Hiring](https://skio.com/careers/)
+[Growing sodium chloride crystals at home](https://crystalverse.com/sodium-chloride-crystals/)
 
-[Build WebGPU Apps Today with PlayCanvas](https://blog.playcanvas.com/build-webgpu-apps-today-with-playcanvas/)
+[Simplifying Join Syntax](https://github.com/SPLWare/esProc/wiki/Simplifying-JOIN-syntax-(JOIN-Simplification-and-Acceleration-Series-3))
 
-[JEP Draft: Support HTTP/3 in the HttpClient](https://openjdk.org/jeps/8291976)
+[Slack AI Training with Customer Data](https://slack.com/trust/data-management/privacy-principles?nojsmode=1)

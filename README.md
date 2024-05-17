@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Toon3D: Seeing Cartoons from a New Perspective](https://toon3d.studio/)
+
+[Beekeeper furious over destruction of $2M honey crop](https://www.rnz.co.nz/news/business/516930/beekeeper-steven-brown-furious-over-destruction-of-2m-honey-crop)
+
+[BIMI and DMARC Can't Save You: The Overlooked DKIM Exploit](https://www.zone.eu/blog/2024/05/17/bimi-and-dmarc-cant-save-you/)
+
+[Ideas and Creativity (2019)](https://bastian.rieck.me/blog/2019/ideas/)
+
+[Demystifying the protobuf wire format](https://kreya.app/blog/protocolbuffers-wire-format/)
+
+[Non-Euclidean Doom: what happens to a game when pi is not 3.14159 (2022) [video]](https://media.ccc.de/v/mch2022-236-non-euclidean-doom-what-happens-to-a-game-when-pi-is-not-3-14159-)
+
 [Computer scientists invent an efficient new way to count](https://www.quantamagazine.org/computer-scientists-invent-an-efficient-new-way-to-count-20240516/)
 
-[Why neural networks struggle with the Game of Life](https://bdtechtalks.com/2020/09/16/deep-learning-game-of-life/)
+[Ambitious but at peace](https://jugheadjones10.github.io/kim-young-jin/posts/ambitious-and-content.html)
 
-[How to read C type declarations (2003)](http://www.unixwiz.net/techtips/reading-cdecl.html)
+[LoRA Learns Less and Forgets Less](https://arxiv.org/abs/2405.09673)
 
-[A forged Apple employee badge](https://cabel.com/2024/05/16/the-forged-apple-employee-badge/)
-
-[Exercises to Learn Rust](https://rust-exercises.com/)
-
-[OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/4360841006)
-
-[Visualizing algorithms for rate limiting](https://smudge.ai/blog/ratelimit-algorithms)
-
-[Extracting Words from Scanned Books: A Step-by-Step Tutorial with Python, OpenCV](https://github.com/feitgemel/Open-CV/tree/main/Words-Segmentation)
-
-[Random Attractors – Found Using Lyapunov Exponents (2001)](https://paulbourke.net/fractals/lyapunov/)
-
-[Welcome to the Parallel Future of Computation](https://hvm-page.pages.dev)
+[Confronting Another Axis? History, Humility, and Wishful Thinking](https://tnsr.org/2024/05/confronting-another-axis-history-humility-and-wishful-thinking/)

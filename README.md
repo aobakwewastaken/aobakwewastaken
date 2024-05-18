@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Gio UI – Cross-Platform GUI for Go](https://gioui.org/)
+[Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)
 
-[OpenAI departures: Why can’t former employees talk?](https://www.vox.com/future-perfect/2024/5/17/24158478/openai-departures-sam-altman-employees-chatgpt-release)
+[Show HN: Peanut Butter Spinner](https://cdaringe.com/peanut-butter-spinner/)
 
-[Bend: a high-level language that runs on GPUs (via HVM2)](https://github.com/HigherOrderCO/Bend)
+[I organized a 20-acre game of Capture the Flag](https://www.ntnbr.com/61/)
 
-[Malleable software in the age of LLMs (2023)](https://www.geoffreylitt.com/2023/03/25/llm-end-user-programming.html)
+[Show HN: A Golang CP/M emulator](https://github.com/skx/cpmulator)
 
-[Aggregating all cinema showtimes in Germany with Clojure](https://tonsky.me/blog/allekinos/)
+[500-year-old maths problem turns out to apply to coffee and clocks](https://www.newscientist.com/article/2430522-500-year-old-maths-problem-turns-out-to-apply-to-coffee-and-clocks/)
 
-[Cyber Security: A Pre-War Reality Check](https://berthub.eu/articles/posts/cyber-security-pre-war-reality-check/)
+[A trustworthy, free (libre), Linux capable, self-hosting 64bit RISC-V computer](https://www.contrib.andrew.cmu.edu/~somlo/BTCP/)
 
-[Zoraxy: Open-Source, All in one homelab network routing solution](https://zoraxy.arozos.com/)
+[Scrabble, Anonymous](https://www.theparisreview.org/blog/2024/05/15/scrabble-anonymous/)
 
-[Non-Euclidean Doom: what happens to a game when pi is not 3.14159 (2022) [video]](https://media.ccc.de/v/mch2022-236-non-euclidean-doom-what-happens-to-a-game-when-pi-is-not-3-14159-)
+[Streak (YC W22) is hiring a staff web UI engineer (remote)](https://www.streak.com/careers/staff-ui-engineer)
 
-[Wuffs: Wrangling Untrusted File Formats Safely](https://github.com/google/wuffs)
+[Floor796](https://floor796.com/)
 
-[Toon3D: Seeing cartoons from a new perspective](https://toon3d.studio/)
+[Gio UI – Cross-platform GUI for Go](https://gioui.org/)

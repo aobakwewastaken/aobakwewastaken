@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Llama3 implemented from scratch](https://github.com/naklecha/llama3-from-scratch)
+
+[Stanford CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
+
+[Coding My Handwriting](https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript)
+
+[Unprojecting Text with Ellipses (2016)](https://mzucker.github.io/2016/10/11/unprojecting-text-with-ellipses.html)
+
+[AI doppelgänger experiment – Part 1: The training](https://julienposture.substack.com/p/the-ai-doppelganger-experiment-part)
+
 [Swarming Proxima Centauri: Picospacecraft Swarms over Interstellar Distances](https://astrobiology.com/2024/05/swarming-proxima-centauri-coherent-picospacecraft-swarms-over-interstellar-distances.html)
 
-[Transforming a QLC SSD into an SLC SSD](https://theoverclockingpage.com/2024/05/13/tutorial-transforming-a-qlc-ssd-into-an-slc-ssd-dramatically-increasing-the-drives-endurance/?lang=en)
+[Beating Jeff's 3.14 Ghz Raspberry Pi 5](https://jonatron.github.io/randomstuff/pivolt/)
 
-[Show HN: Digital player board for Terraforming Mars](https://terraforming-mars-player-board.netlify.app/)
+[Meteor Just Seen in Portugal](https://old.reddit.com/r/interestingasfuck/comments/1cva6j6/meteor_just_seen_in_portugal_23h45/)
 
-[Show HN: Brawshot – Basic temporal denoise for videos in BRAW format](https://github.com/hackyourlife/brawshot)
+[Meringue Philosophy](https://meringue.readthedocs.io/en/latest/meringue_philosophy.html)
 
-[Compilers for Free with Weval](https://bernsteinbear.com/blog/weval/)
-
-[Riven](https://www.filfre.net/2024/05/riven/)
-
-[Katy – 68000 Linux on a Solderless Breadboard (2014)](https://www.bigmessowires.com/2014/11/17/68-katy-68000-linux-on-a-solderless-breadboard/)
-
-[Nitrogen dioxide exposure due to gas and propane combustion by U.S. stoves](https://www.science.org/doi/10.1126/sciadv.adm8680)
-
-[Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)
-
-[Building a Waitlist (The Wrong Way)](https://jrhizor.dev/posts/building-a-waitlist-the-wrong-way/)
+[A floppy disk MIDI boombox: The Yamaha MDP-10](https://nicole.express/2024/elementary-midi-watson.html)

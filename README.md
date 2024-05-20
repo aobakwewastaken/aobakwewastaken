@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Enlightenmentware](https://mmapped.blog/posts/28-enlightenmentware.html)
+
+[Rethinking Text Resizing on Web](https://medium.com/airbnb-engineering/rethinking-text-resizing-on-web-1047b12d2881)
+
+[pg_timeseries: Open-source time-series extension for PostgreSQL](https://tembo.io/blog/pg-timeseries)
+
+[How terminal works. Part 1: Xterm, user input](https://kevroletin.github.io/terminal/2021/12/11/how-terminal-works-in.html)
+
 [Grothendieck’s use of equality](https://arxiv.org/abs/2405.10387)
 
 [Llama3 implemented from scratch](https://github.com/naklecha/llama3-from-scratch)
 
-[How a 64k intro is made (2017)](https://www.lofibucket.com/articles/64k_intro.html)
+[Racket v8.13](https://blog.racket-lang.org/2024/05/racket-v8-13.html)
 
-[Scrabble and the Nature of Expertise (2015)](https://www.scientificamerican.com/article/winning-scrabble-and-the-nature-of-expertise/)
+[Etleap (YC W13) Is Hiring Software Engineer – Integrations (Remote in Brazil)](https://etleap.com/careers/software-engineer-integrations/)
 
-[Coding My Handwriting](https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript)
+[Ask HN: Hacker News-like forum, specific to Game Development?]()
 
-[Modernizing the AntennaPod Code Structure](https://antennapod.org/blog/2024/05/modernizing-the-code-structure)
-
-[Cognitive reflection, intelligence, and cognitive abilities: A meta-analysis](https://www.sciencedirect.com/science/article/pii/S0160289621000982)
-
-[D-Expressions: Lisp power, Dylan style [pdf]](http://people.csail.mit.edu/jrb/Projects/dexprs.pdf)
-
-[DB-19: Resurrecting an Obsolete Connector (2016)](https://www.bigmessowires.com/2016/06/04/db-19-resurrecting-an-obsolete-connector/)
-
-[Overflow in consistent hashing (2018)](https://rmarcus.info/blog/2018/09/14/consistent-hashing-overflow.html)
+[ICC seeks arrest warrants against Sinwar and Netanyahu for war crimes](https://www.cnn.com/2024/05/20/middleeast/icc-israel-hamas-arrest-warrant-war-crimes-intl/index.html)

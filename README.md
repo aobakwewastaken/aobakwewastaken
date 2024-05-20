@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Llama3 implemented from scratch](https://github.com/naklecha/llama3-from-scratch)
+[Konrad Zuse's Homepage](https://web.archive.org/web/20090214083953/http://user.cs.tu-berlin.de/~zuse/Konrad_Zuse/index.html)
 
-[The Lunacy of Artemis](https://idlewords.com/2024/5/the_lunacy_of_artemis.htm)
+[Linux 6.10 Will Print the Number of Populated Memory Slots at Boot Time](https://www.phoronix.com/news/Linux-6.10-Prints-Memory-Slots)
+
+[Llama3 implemented from scratch](https://github.com/naklecha/llama3-from-scratch)
 
 [Coding My Handwriting](https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript)
 
+[The Lunacy of Artemis](https://idlewords.com/2024/5/the_lunacy_of_artemis.htm)
+
+[This USB flash drive can only store 8KB of data, but will last you 200 years](https://www.tomshardware.com/pc-components/usb-flash-drives/this-usb-flash-drive-can-only-store-8kb-of-data-but-will-last-you-200-years)
+
+[Unicode CLDR Project](https://cldr.unicode.org/)
+
+[Overflow in Consistent Hashing](https://rmarcus.info/blog/2018/09/14/consistent-hashing-overflow.html)
+
 [What Is Generative Art? (2022)](https://www.amygoodchild.com/blog/what-is-generative-art)
 
-[British engineering giant Arup revealed as $25M deepfake scam victim](https://www.cnn.com/2024/05/16/tech/arup-deepfake-scam-loss-hong-kong-intl-hnk/index.html)
-
-[DB-19: Resurrecting an Obsolete Connector (2016)](https://www.bigmessowires.com/2016/06/04/db-19-resurrecting-an-obsolete-connector/)
-
-[Beating Jeff's 3.14 Ghz Raspberry Pi 5](https://jonatron.github.io/randomstuff/pivolt/)
-
-[1001 Representations of Syntax with Binding (2021)](https://jesper.cx/posts/1001-syntax-representations.html)
-
-[The Myth of Medieval Small Beer (2017)](https://www.ianvisits.co.uk/articles/the-myth-of-medieval-small-beer-19763/)
-
-[Swift Tooling: Windows Edition](https://speakinginswift.substack.com/p/swift-tooling-windows-edition)
+[Uber Migrates 1T Records from DynamoDB to LedgerStore to Save $6M Annually](https://www.infoq.com/news/2024/05/uber-dynamodb-ledgerstore/)

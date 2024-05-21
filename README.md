@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Google announces Firebase Genkit with Ollama support](https://ollama.com/blog/firebase-genkit)
+
+[Going Dark: The war on encryption is on the rise](https://mullvad.net/en/why-privacy-matters/going-dark)
+
 [Shipbreaking](https://www.edwardburtynsky.com/projects/photographs/shipbreaking)
 
-[An Ode to Deluxe Paint (2023)](https://www.datagubbe.se/dpaint/)
-
-[How Might We Learn?](https://andymatuschak.org/hmwl/)
+[One dead as London-Singapore flight hit by turbulence](https://www.bbc.com/news/articles/c8889d7x8j4o)
 
 [Erlang/OTP 27 Highlights](https://www.erlang.org/blog/highlights-otp-27/)
 
-[Enlightenmentware](https://mmapped.blog/posts/28-enlightenmentware.html)
+[BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 
-[Bento3D](https://polar-tadpole-97b.notion.site/Bento3D-e40483712b304d389d7c2da26196e113#d7f452d3ffd94cd1a0a9e70e361efb63)
+[An Ode to Deluxe Paint (2023)](https://www.datagubbe.se/dpaint/)
 
-[Modos Paper Monitor Pre-Launch on Crowd Supply](https://www.modos.tech/blog/modos-paper-monitor-pre-launch-on-crowd-supply)
+[Trying out the Panel-of-Experts prompting strategy for LLMs](https://sourcery.ai/blog/panel-of-experts/)
 
-[waxolotl – a small language that compiles to WebAssembly text format](https://github.com/eliot-akira/waxolotl)
+[We created the first open source implementation of Meta's TestGen–LLM](https://www.codium.ai/blog/we-created-the-first-open-source-implementation-of-metas-testgen-llm/)
 
-[Chameleon: Meta's New Multi-Modal LLM](https://arxiv.org/abs/2405.09818)
-
-[Langfuse (YC W23) is hiring engineers in Berlin: open-source LLM devtool](https://github.com/langfuse/langfuse/blob/main/careers)
+[NoTunes is a macOS application that will prevent Apple Music from launching](https://github.com/tombonez/noTunes)

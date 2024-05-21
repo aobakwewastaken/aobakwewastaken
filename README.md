@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Gordon Bell has died](https://arstechnica.com/gadgets/2024/05/gordon-bell-an-architect-of-our-digital-age-dies-at-age-89/)
+
+[The curious case of the missing period](https://tjaart.substack.com/p/the-curious-case-of-the-missing-period)
+
 [What UI density means and how to design for it](https://matthewstrom.com/writing/ui-density/)
 
-[40-Year old BASICA utility code for teaching](https://github.com/norton120/educator-tools-87)
+[Wikimedia Enterprise – APIs for LLMs, AI Training, and More](https://enterprise.wikimedia.com/)
 
-[Show HN: I built a game to help you learn neural network architectures](https://graphgame.sabrina.dev/)
+[CADmium: A local-first CAD program built for the browser](https://mattferraro.dev/posts/cadmium)
 
-[Gifski: Optimized GIF Encoder](https://github.com/ImageOptim/gifski)
+[Storing knowledge in a single long plain text file](https://breckyunits.com/scrollsets.html)
 
-[We created the first open source implementation of Meta's TestGen–LLM](https://www.codium.ai/blog/we-created-the-first-open-source-implementation-of-metas-testgen-llm/)
+[Show HN: Pls Fix – Hire big tech employees to appeal account suspensions](https://plsfix.co/)
 
-[CADmium: A Local-First CAD Program Built for the Browser](https://mattferraro.dev/posts/cadmium)
+[EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 
-[Shipbreaking](https://www.edwardburtynsky.com/projects/photographs/shipbreaking)
+[Dyson Sphere Candidates from Gaia DR3, 2MASS, and Wise](https://academic.oup.com/mnras/article/531/1/695/7665761)
 
-[U.S. Congress Live Net Worth Tracker](https://www.quiverquant.com/congress-live-net-worth/)
-
-[Building an AI game studio: what we've learned so far](https://braindump.me/blog-posts/building-an-ai-game-studio)
-
-[Reversing Choplifter](https://blondihacks.com/reversing-choplifter/)
+[Business Booms and Depressions Since 1775 (1943)](https://fraser.stlouisfed.org/title/business-booms-depressions-since-1775-145)

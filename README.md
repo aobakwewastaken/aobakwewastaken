@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Google announces Firebase Genkit with Ollama support](https://ollama.com/blog/firebase-genkit)
+[What UI density means and how to design for it](https://matthewstrom.com/writing/ui-density/)
 
-[Going Dark: The war on encryption is on the rise](https://mullvad.net/en/why-privacy-matters/going-dark)
-
-[Shipbreaking](https://www.edwardburtynsky.com/projects/photographs/shipbreaking)
-
-[One dead as London-Singapore flight hit by turbulence](https://www.bbc.com/news/articles/c8889d7x8j4o)
-
-[Erlang/OTP 27 Highlights](https://www.erlang.org/blog/highlights-otp-27/)
-
-[BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-
-[An Ode to Deluxe Paint (2023)](https://www.datagubbe.se/dpaint/)
-
-[Trying out the Panel-of-Experts prompting strategy for LLMs](https://sourcery.ai/blog/panel-of-experts/)
+[40-Year old BASICA utility code for teaching](https://github.com/norton120/educator-tools-87)
 
 [We created the first open source implementation of Meta's TestGen–LLM](https://www.codium.ai/blog/we-created-the-first-open-source-implementation-of-metas-testgen-llm/)
 
+[Gifski: Optimized GIF Encoder](https://github.com/ImageOptim/gifski)
+
+[Show HN: I built a game to help you learn neural network architectures](https://graphgame.sabrina.dev/)
+
+[Shipbreaking](https://www.edwardburtynsky.com/projects/photographs/shipbreaking)
+
+[Show HN: WebApp to filter WhoIsHiring by tags and live text search]()
+
 [NoTunes is a macOS application that will prevent Apple Music from launching](https://github.com/tombonez/noTunes)
+
+[Reversing Choplifter](https://blondihacks.com/reversing-choplifter/)
+
+[An Ode to Deluxe Paint (2023)](https://www.datagubbe.se/dpaint/)

@@ -3,18 +3,18 @@
 
 [40-Year old BASICA utility code for teaching](https://github.com/norton120/educator-tools-87)
 
-[We created the first open source implementation of Meta's TestGen–LLM](https://www.codium.ai/blog/we-created-the-first-open-source-implementation-of-metas-testgen-llm/)
+[Show HN: I built a game to help you learn neural network architectures](https://graphgame.sabrina.dev/)
 
 [Gifski: Optimized GIF Encoder](https://github.com/ImageOptim/gifski)
 
-[Show HN: I built a game to help you learn neural network architectures](https://graphgame.sabrina.dev/)
+[We created the first open source implementation of Meta's TestGen–LLM](https://www.codium.ai/blog/we-created-the-first-open-source-implementation-of-metas-testgen-llm/)
+
+[CADmium: A Local-First CAD Program Built for the Browser](https://mattferraro.dev/posts/cadmium)
 
 [Shipbreaking](https://www.edwardburtynsky.com/projects/photographs/shipbreaking)
 
-[Show HN: WebApp to filter WhoIsHiring by tags and live text search]()
+[U.S. Congress Live Net Worth Tracker](https://www.quiverquant.com/congress-live-net-worth/)
 
-[NoTunes is a macOS application that will prevent Apple Music from launching](https://github.com/tombonez/noTunes)
+[Building an AI game studio: what we've learned so far](https://braindump.me/blog-posts/building-an-ai-game-studio)
 
 [Reversing Choplifter](https://blondihacks.com/reversing-choplifter/)
-
-[An Ode to Deluxe Paint (2023)](https://www.datagubbe.se/dpaint/)

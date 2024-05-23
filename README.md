@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Tom Waits vs. Frito-Lay, Inc (2003)](http://tomwaitslibrary.info/biography/copyright/frito-lay/)
-
-[BB(3, 4) > Ack(14)](https://www.sligocki.com//2024/05/22/bb-3-4-a14.html)
-
-[Making EC2 boot time 8x faster](https://depot.dev/blog/faster-ec2-boot-time)
-
 [The Space Quest II Master Disk Blunder](https://lanceewing.github.io/blog/sierra/agi/sq2/2024/05/22/do-you-own-this-space-quest-2-disk.html)
 
-[amber, a code search & replace tool](https://github.com/dalance/amber)
+[Daylight Computer – New 60fps e-paper tablet](https://daylightcomputer.com/product)
 
-[Bytehound: Memory Profiler for Linux](https://github.com/koute/bytehound)
+[Show HN: Porter Cloud – PaaS with an eject button]()
 
-[Windows 10 wallpaper was physically built and photographed (2015)](https://gmunk.com/Windows-10-Desktop/)
+[Cement recycling method could help solve one of the big climate challenges](https://www.cam.ac.uk/stories/cement-recycling)
 
-[First pictures from Euclid satellite reveal billions of orphan stars](https://www.nottingham.ac.uk/news/first-pictures-from-euclid-satellite-reveal-billions-of-orphan-stars)
+[FTX bankruptcy examiner's report [pdf]](https://restructuring.ra.kroll.com/FTX/Home-DownloadPDF?id1=MzExMDk4OQ==&id2=-1)
 
-[Probabilistic Filters by Example](https://bdupras.github.io/filter-tutorial/)
+[US Army researched the health effects of radioactivity in St Louis 1945-1970 (2011)](https://mospace.umsystem.edu/xmlui/handle/10355/13170)
 
-[A Designer's Guide to Documenting Accessibility and User Interactions](https://stephaniewalter.design/blog/a-designers-guide-to-documenting-accessibility-user-interactions/)
+[Tom Waits vs. Frito-Lay, Inc (2003)](http://tomwaitslibrary.info/biography/copyright/frito-lay/)
+
+[Checkr (YC S14) is hiring a staff software engineer for Checkr Pay](https://www.ycombinator.com/companies/checkr/jobs/ixzdle1-staff-software-engineer-checkr-pay)
+
+[Launch HN: Metriport (YC S22) – Open-source API for healthcare data exchange]()
+
+[Why did Tom Lehrer swap fame for obscurity?](https://www.theguardian.com/music/article/2024/may/22/my-songs-spread-like-herpes-why-did-satirical-genius-tom-lehrer-swap-worldwide-fame-for-obscurity)

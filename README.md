@@ -3,18 +3,18 @@
 
 [Daylight Computer – New 60fps e-paper tablet](https://daylightcomputer.com/product)
 
-[The Washington Post Tells Staff It's Pivoting to AI](https://futurism.com/washington-post-pivot-ai)
+[Voxel Displacement Renderer – Modernizing the Retro 3D Aesthetic](https://blog.danielschroeder.me/2024/05/voxel-displacement-modernizing-retro-3d/)
 
-[Lewis Carroll – computing the day of the week for any given date (1887)](https://www.futilitycloset.com/2024/05/24/day-tripper/)
+[Low-Cost Shield ArdEEG to Measure EEG with Arduino Uno R4 WiFi](https://www.preprints.org/manuscript/202405.1643/v1)
 
-[Apple's M4 Has Reportedly Adopted the ARMv9 Architecture](https://wccftech.com/apple-m4-adopts-armv9-run-complex-workloads-efficiently/)
+[Advancing Our Bet on Asymmetric Cryptography](https://blog.chromium.org/2024/05/advancing-our-amazing-bet-on-asymmetric.html)
 
 [Perplexica: Open-Source Perplexity Alternative](https://github.com/ItzCrazyKns/Perplexica)
 
-[Kabosu, the Dog Behind the 'Doge' Meme, Has Died](https://www.ign.com/articles/kabosu-the-dog-behind-the-doge-meme-has-died)
-
 [The Space Quest II Master Disk Blunder](https://lanceewing.github.io/blog/sierra/agi/sq2/2024/05/22/do-you-own-this-space-quest-2-disk.html)
+
+[Motion (YC W20) is hiring senior engineers looking for their next challenge](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 
 [Show HN: Porter Cloud – PaaS with an eject button]()
 
-["Unacceptable": Spotify bricking Car Thing devices in Dec. without refunds](https://arstechnica.com/gadgets/2024/05/pleas-for-open-sourcing-refunds-as-spotify-plans-to-brick-car-thing-devices/)
+[New Regular expression (Regex) functions in Excel](https://insider.microsoft365.com/en-us/blog/new-regular-expression-regex-functions-in-excel)

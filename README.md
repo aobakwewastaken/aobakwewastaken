@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Extend your battery life with scx_rustland](http://arighi.blogspot.com/2024/05/extend-your-battery-life-with.html)
+
 [Abusing Go's Infrastructure](https://reverse.put.as/2024/05/24/abusing-go-infrastructure/)
 
-[Lapis: A Web Framework for Lua](https://leafo.net/lapis/)
+[So good, it works on barbed wire (2001)](https://www.sigcon.com/Pubs/edn/SoGoodBarbedWire.htm)
+
+[Medieval Bologna was full of tall towers](https://www.openculture.com/2024/05/why-medieval-bologna-was-full-of-tall-towers-and-what-happened-to-them.html)
+
+[Show HN: I built an Obsidian plugin to create notes from BibTeX](https://github.com/akopdev/obsidian-bibtex-manager)
 
 [The Cognitive Design of Tools of Thought (2014) [pdf]](http://gjgreenberg.bol.ucla.edu/docs/rpp/04_tversky.pdf)
 
-[Kombucha-associated microbes alter host metabolism & suppress lipid accumulation](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011003)
+[Fathom AI Notetaker (YC W21) Is Hiring Full-Stack Engineers (Remote)](https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-full-stack-engineer-remote)
+
+[The Fall of the House of Etsy](https://spy.com/articles/lifestyle/gifts/etsy-downfall-1203000173/)
 
 [Goodix Fingerprint Drivers for Linux (Or at Least Debian)](https://github.com/tcsenpai/goodix-debian-linux-drivers-fingerprint-by-dell)
 
-[Google labeled "an illegal monopolist" by US federal judge](https://www.notebookcheck.net/Google-labeled-an-illegal-monopolist-by-US-federal-judge.841019.0.html)
-
-[The Prophet Who Failed – After the apocalypse that wasn't](https://harpers.org/archive/2024/06/the-prophet-who-wasnt-after-the-apocalypse-that-failed-emily-harnett/)
-
-[100BASE-T4 over barbed wire (2001)](https://www.sigcon.com/Pubs/edn/SoGoodBarbedWire.htm)
-
-[A shrinking life: Why some Asian youth withdraw from the world](https://www.cnn.com/interactive/2024/05/world/hikikomori-asia-personal-stories-wellness/)
-
-[Financial Statement Analysis with Large Language Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4835311)
+[Voxel Displacement Renderer – Modernizing the Retro 3D Aesthetic](https://blog.danielschroeder.me/2024/05/voxel-displacement-modernizing-retro-3d/)

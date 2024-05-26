@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Extend your battery life with scx_rustland](http://arighi.blogspot.com/2024/05/extend-your-battery-life-with.html)
+[Hurl, the Exceptional Language](https://hurl.wtf/)
+
+[Helen Keller on her life before self-consciousness](http://scentofdawn.blogspot.com/2011/07/before-soul-dawn-helen-keller-on-her.html)
+
+[Diffusion Models](https://andrewkchan.dev/posts/diffusion.html)
+
+[GRC SpinRite](https://computer.rip/2024-05-25-grc-spinrite.html)
+
+[Majorana, the search for the most elusive neutrino of all](https://newscenter.lbl.gov/2012/05/16/majorana-demonstrator/)
 
 [Abusing Go's Infrastructure](https://reverse.put.as/2024/05/24/abusing-go-infrastructure/)
 
-[So good, it works on barbed wire (2001)](https://www.sigcon.com/Pubs/edn/SoGoodBarbedWire.htm)
+[Why is x & -x equal to the largest power of 2 that divides x?](https://arunmani.in/articles/highest-two-power-to-divide-a-number/)
 
-[Medieval Bologna was full of tall towers](https://www.openculture.com/2024/05/why-medieval-bologna-was-full-of-tall-towers-and-what-happened-to-them.html)
+[How to monitor steel alloys with Grafana](https://grafana.com/blog/2024/05/24/how-to-monitor-steel-alloys-with-grafana-the-story-of-a-golden-grot-awards-winner/)
 
-[Show HN: I built an Obsidian plugin to create notes from BibTeX](https://github.com/akopdev/obsidian-bibtex-manager)
+[How do layer 2s differ from execution sharding?](https://vitalik.eth.limo/general/2024/05/23/l2exec.html)
 
-[The Cognitive Design of Tools of Thought (2014) [pdf]](http://gjgreenberg.bol.ucla.edu/docs/rpp/04_tversky.pdf)
-
-[Fathom AI Notetaker (YC W21) Is Hiring Full-Stack Engineers (Remote)](https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-full-stack-engineer-remote)
-
-[The Fall of the House of Etsy](https://spy.com/articles/lifestyle/gifts/etsy-downfall-1203000173/)
-
-[Goodix Fingerprint Drivers for Linux (Or at Least Debian)](https://github.com/tcsenpai/goodix-debian-linux-drivers-fingerprint-by-dell)
-
-[Voxel Displacement Renderer – Modernizing the Retro 3D Aesthetic](https://blog.danielschroeder.me/2024/05/voxel-displacement-modernizing-retro-3d/)
+[I was at Woodstock '99 and it destroyed my innocence (2022)](https://www.kerrang.com/i-was-at-woodstock-99-and-it-destroyed-my-innocence)

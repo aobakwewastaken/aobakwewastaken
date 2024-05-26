@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [Hurl, the Exceptional Language](https://hurl.wtf/)
 
-[How Home Assistant is being used to protect from missile and drone attacks](https://denysdovhan.com/home-assistant-config/config/war/)
-
-[Turn Your iPhone into a Dumb Phone](https://dumbph.com/turn-iphone-into-dumb-phone)
+[Show HN: I made a online free tool to enhance and auto-crop your screenshots](https://socialscreenshots.com)
 
 [Braid: Synchronization for HTTP](https://braid.org/)
 
-[Effects of $9 Price Endings in Retail: Evidence from Field Experiments [pdf]](https://www.kellogg.northwestern.edu/faculty/anderson_e/htm/PersonalPage_Files/Papers/Effects_of_9_Price_Endings_on_Retail_Sales.pdf)
+[Understanding how the brain reads code versus language](https://learnhub.top/understanding-how-the-brain-reads-code-versus-language/)
 
-[Call to Action: Fediverse Media Server](https://shlee.fedipress.au/2024/call-to-action-fediverse-media-server/)
+[Helen Keller on her life before self-consciousness (1908)](http://scentofdawn.blogspot.com/2011/07/before-soul-dawn-helen-keller-on-her.html)
+
+[Never use a warning when you mean undo (2007)](https://alistapart.com/article/neveruseawarning/)
 
 ['I was misidentified as shoplifter by facial recognition tech'](https://www.bbc.co.uk/news/technology-69055945)
 
 [Diffusion Models](https://andrewkchan.dev/posts/diffusion.html)
 
-[Helen Keller on her life before self-consciousness (1908)](http://scentofdawn.blogspot.com/2011/07/before-soul-dawn-helen-keller-on-her.html)
+[How Home Assistant is being used to protect from missile and drone attacks](https://denysdovhan.com/home-assistant-config/config/war/)
 
-[Simplicity – Google SRE Handbook (2017)](https://sre.google/sre-book/simplicity/)
+[Turn Your iPhone into a Dumb Phone](https://dumbph.com/turn-iphone-into-dumb-phone)

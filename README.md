@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Feynman's Garden](https://www.marginalia.nu/log/a_108_feynman_revisited/)
+[AI firms mustn’t govern themselves, say ex-members of OpenAI’s board](https://www.economist.com/by-invitation/2024/05/26/ai-firms-mustnt-govern-themselves-say-ex-members-of-openais-board)
 
-[Hurl, the Exceptional Language](https://hurl.wtf/)
+[llama-fs: A self-organizing file system with llama 3](https://github.com/iyaja/llama-fs)
 
-[Integrating AI CodeGen with Low Code Application Development](https://blog.codesolvent.com/2024/05/integrating-ai-codegen-with-low-code.html)
+[What the damaged Svalbard cable looked like when it came up from the depths](https://www.nrk.no/tromsogfinnmark/this-is-what-the-damaged-svalbard-cable-looked-like-when-it-came-up-from-the-depths-1.16895904)
 
-[Periodic Table of the Elements, in Pictures and Words](https://elements.wlonk.com/)
+[The Evolution of Lisp (1993) [pdf]](https://redirect.cs.umbc.edu/courses/331/resources/papers/Evolution-of-Lisp.pdf)
+
+[The CompCert C Compiler](https://compcert.org/compcert-C.html)
+
+[FILE_ID.DIZ Description (1994)](http://pcmicro.com/getdiz/file_id.html)
 
 [Show HN: Boldly go where Gradient Descent has never gone before with DiscoGrad](https://github.com/DiscoGrad/DiscoGrad)
 
-[Braid: Synchronization for HTTP](https://braid.org/)
+[Self-hosted offline transcription and diarization service with LLM summary](https://github.com/transcriptionstream/transcriptionstream)
 
-[Helen Keller on her life before self-consciousness (1908)](http://scentofdawn.blogspot.com/2011/07/before-soul-dawn-helen-keller-on-her.html)
+[LO – simple WASM native language](https://github.com/glebbash/LO)
 
-[To the brain, reading computer code is not the same as reading language (2020)](https://news.mit.edu/2020/brain-reading-computer-code-1215)
-
-[LuaX – Lua interpreter, REPL, and useful packages](https://github.com/CDSoft/luax)
-
-[UpCodes (YC S17) is hiring remote SWEs, PMs to automate construction compliance](https://up.codes/careers?utm_source=HN)
+[macOS Sonoma silently enabled iCloud Keychain despite my precautions](https://lapcatsoftware.com/articles/2024/5/4.html)

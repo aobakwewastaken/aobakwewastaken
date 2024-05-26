@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Feynman's Garden](https://www.marginalia.nu/log/a_108_feynman_revisited/)
+
+[To the brain, reading computer code is not the same as reading language](https://news.mit.edu/2020/brain-reading-computer-code-1215)
+
 [Hurl, the Exceptional Language](https://hurl.wtf/)
 
-[Show HN: I made a online free tool to enhance and auto-crop your screenshots](https://socialscreenshots.com)
+[VBScript deprecation: Timelines and next steps](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/vbscript-deprecation-timelines-and-next-steps/ba-p/4148301)
+
+[LuaX – Lua interpreter, REPL, and useful packages](https://github.com/CDSoft/luax)
 
 [Braid: Synchronization for HTTP](https://braid.org/)
 
-[Understanding how the brain reads code versus language](https://learnhub.top/understanding-how-the-brain-reads-code-versus-language/)
-
 [Helen Keller on her life before self-consciousness (1908)](http://scentofdawn.blogspot.com/2011/07/before-soul-dawn-helen-keller-on-her.html)
 
-[Never use a warning when you mean undo (2007)](https://alistapart.com/article/neveruseawarning/)
+[Understanding how the brain reads code versus language](https://learnhub.top/understanding-how-the-brain-reads-code-versus-language/)
 
-['I was misidentified as shoplifter by facial recognition tech'](https://www.bbc.co.uk/news/technology-69055945)
+[Nikon Z 28-400mm f/4-8 VR: The Best All-Purpose Lens I've Ever Used](https://petapixel.com/2024/05/19/nikon-z-28-400mm-f-4-8-vr-the-best-all-purpose-lens-ive-ever-used/)
 
-[Diffusion Models](https://andrewkchan.dev/posts/diffusion.html)
-
-[How Home Assistant is being used to protect from missile and drone attacks](https://denysdovhan.com/home-assistant-config/config/war/)
-
-[Turn Your iPhone into a Dumb Phone](https://dumbph.com/turn-iphone-into-dumb-phone)
+[UpCodes (YC S17) is hiring remote SWEs, PMs to automate construction compliance](https://up.codes/careers?utm_source=HN)

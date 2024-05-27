@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Instead of "auth", we should say "permissions" and "login"](https://ntietz.com/blog/lets-say-instead-of-auth/)
+[Controlling the Taylor Swift Eras Tour wristbands with Flipper Zero](https://blog.jgc.org/2024/05/controlling-taylor-swift-eras-tour.html)
 
-[My new PSU burns out I fix it, and torture it by cracking water](https://tomscii.sig7.se/2024/05/PSU-burnout-and-torture-cracking-water)
+[Regular Expression Matching with a Trigram Index (2012)](https://swtch.com/~rsc/regexp/regexp4.html)
 
-[Should I Use jwts For Authentication Tokens?](https://blog.ploetzli.ch/2024/should-i-use-jwt-for-authentication/)
+[GTFL – A Graphical Terminal for Common Lisp](http://www.martin-loetzsch.de/gtfl/)
 
-[Rete Algorithm](https://en.wikipedia.org/wiki/Rete_algorithm)
+[Should I use JWTs for authentication tokens?](https://blog.ploetzli.ch/2024/should-i-use-jwt-for-authentication/)
 
-[What the damaged Svalbard cable looked like](https://www.nrk.no/tromsogfinnmark/this-is-what-the-damaged-svalbard-cable-looked-like-when-it-came-up-from-the-depths-1.16895904)
+[Surveilling the masses with wi-fi-based positioning systems](https://arxiv.org/abs/2405.14975)
 
-[Giant structure in space challenges understanding of the universe](https://cosmosmagazine.com/space/astronomy/giant-structure-space-universe/)
+[Tantivy – full-text search engine library inspired by Apache Lucene](https://github.com/quickwit-oss/tantivy)
 
-[Cobalt – lightweight HTML5 application container from YouTube](https://developers.google.com/youtube/cobalt)
+[Recently increased prevalence of human forearm median artery: Microevolution](https://onlinelibrary.wiley.com/doi/10.1111/joa.13224)
 
-[The t-test was invented at the Guinness brewery](https://www.scientificamerican.com/article/how-the-guinness-brewery-invented-the-most-important-statistical-method-in/)
+[Helix-gpui: A simple GUI for the Helix editor](https://github.com/polachok/helix-gpui)
 
-[Big data is dead (2023)](https://motherduck.com/blog/big-data-is-dead/)
+[The future of foundation models is closed-source](https://blog.johnluttig.com/p/the-future-of-foundation-models-is)
 
-[Reclaiming IPv4 Class E's 240.0.0.0/4](https://blog.benjojo.co.uk/post/class-e-addresses-in-the-real-world)
+[Evolution of the ELF object file format](https://maskray.me/blog/2024-05-26-evolution-of-elf-object-file-format)

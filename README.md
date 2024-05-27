@@ -3,18 +3,18 @@
 
 [A Big Ring on the Sky](https://cosmosmagazine.com/space/astronomy/giant-structure-space-universe/)
 
+[My new PSU burns out I fix it, and torture it by cracking water](https://tomscii.sig7.se/2024/05/PSU-burnout-and-torture-cracking-water)
+
 [What the damaged Svalbard cable looked like](https://www.nrk.no/tromsogfinnmark/this-is-what-the-damaged-svalbard-cable-looked-like-when-it-came-up-from-the-depths-1.16895904)
-
-[Twitter is now attention roulette and ultimately meaningless](https://playpermissionless.substack.com/p/twitter-is-now-attention-roulette)
-
-[Is regulated BGP security coming?](https://blog.apnic.net/2024/05/23/is-regulated-bgp-security-coming/)
 
 [The t-test was invented at the Guinness brewery](https://www.scientificamerican.com/article/how-the-guinness-brewery-invented-the-most-important-statistical-method-in/)
 
+[Rete Algorithm](https://en.wikipedia.org/wiki/Rete_algorithm)
+
+[Is regulated BGP security coming?](https://blog.apnic.net/2024/05/23/is-regulated-bgp-security-coming/)
+
+[Resume Tip: Hacking "AI" screening of resumes](https://www.solipsys.co.uk/images/ResumeTip.png)
+
+[An Introduction to Low-Latency Scripting for Game Engines](https://fwsgonzo.medium.com/an-introduction-to-low-latency-scripting-with-libriscv-ad0619edab40)
+
 [FILE_ID.DIZ Description (1994)](http://pcmicro.com/getdiz/file_id.html)
-
-[PcTattletale leaks victims' screen recordings to entire Internet](https://www.ericdaigle.ca/pctattletale-leaking-screen-captures/)
-
-[Alaska's Pristine Waterways Are Turning Orange](https://www.sciencealert.com/alaskas-pristine-waterways-are-turning-a-shocking-orange)
-
-[The CompCert C Compiler](https://compcert.org/compcert-C.html)

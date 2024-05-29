@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[20 Years of Blogging on my own website](https://jeena.net/20-years-blogging)
+[Kino: Pro Video Camera](https://www.lux.camera/introducing-kino-pro-video-camera/)
 
-[Codestral: Mistral's Code Model](https://mistral.ai/news/codestral/)
+[New attention mechanisms that outperform standard multi-head attention](https://arxiv.org/abs/2403.01643)
 
-[AI headphones let you listen to a single person in crowd, by looking at them](https://www.washington.edu/news/2024/05/23/ai-headphones-noise-cancelling-target-speech-hearing/)
+[Vector indexing all of Wikipedia on a laptop](https://foojay.io/today/indexing-all-of-wikipedia-on-a-laptop/)
 
-[AdFlush](https://dl.acm.org/doi/abs/10.1145/3589334.3645698)
+[DuckDB Doesn't Need Data to Be a Database](https://www.nikolasgoebel.com/2024/05/28/duckdb-doesnt-need-data.html)
 
-[Canada wants the power to create backdoors in telecom networks for surveillance](https://www.theglobeandmail.com/opinion/article-ottawa-wants-the-power-to-create-secret-backdoors-in-our-networks-to/)
+[Era3D: High-Resolution Multiview Diffusion Using Efficient Row-Wise Attention](https://penghtyx.github.io/Era3D/)
 
-[TTE: Terminal Text Effects](https://chrisbuilds.github.io/terminaltexteffects/showroom/)
+[IBDNS: Intentionally Broken DNS server](https://www.afnic.fr/en/observatory-and-resources/news/afnic-launches-ibdns-the-intentionally-broken-dns-server/)
 
-[The Biggest Bookstore. 10 years after closing, it has a grip on readers](https://www.thestar.com/news/gta/going-to-the-world-s-biggest-bookstore-was-an-event-10-years-after-closing-it/article_5c3647a0-01a7-11ef-b85d-33ecf09526c7.html)
+[Google releases smart watch for kids](https://store.google.com/US/product/fitbit_ace_lte?hl=en-US)
 
-[In one of the US's hottest deserts, utilities push gas rather than solar](https://www.theguardian.com/us-news/article/2024/may/23/gas-peaker-plant-republicans-fort-mohave-arizona)
+[Tesorio (YC S15) Is Hiring – 100% Remote](https://www.tesorio.com/careers#job-openings)
 
-[Training is not the same as chatting: LLMs don’t remember everything you say](https://simonwillison.net/2024/May/29/training-not-chatting/)
+[I sold TinyPilot, my first successful business](https://mtlynch.io/i-sold-tinypilot/)
 
-[Show HN: Slipshow – A presentation tool not based on slides](https://github.com/panglesd/slipshow)
+[First Bioprocessor Powered by Human Brain Organoids](https://www.tomshardware.com/pc-components/cpus/worlds-first-bioprocessor-uses-16-human-brain-organoids-for-a-million-times-less-power-consumption-than-a-digital-chip)

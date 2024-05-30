@@ -1,5 +1,11 @@
 # Top Stories on hackernews <br />
-[FrankenPHP: Modern PHP App Server](https://frankenphp.dev/)
+[PG: "I got tired of hearing that YC fired Sam, so here's what happened"](https://twitter.com/paulg/status/1796107666265108940)
+
+[Why, after 6 years, I'm over GraphQL](https://bessey.dev/blog/2024/05/24/why-im-over-graphql/)
+
+[How Actors Remember Their Lines](https://thereader.mitpress.mit.edu/how-actors-remember-their-lines/)
+
+[Meaningful Nonsense: How I generate sentences](https://www.amygoodchild.com/blog/meaningful-nonsense-sentences)
 
 [SVG Gobbler – Find, optimize, edit, and export SVGs](https://github.com/rossmoody/svg-gobbler)
 
@@ -7,14 +13,8 @@
 
 [Donating forks to the dining hall](https://1.coc0o44.preview.ben.page/forks)
 
-[How Actors Remember Their Lines](https://thereader.mitpress.mit.edu/how-actors-remember-their-lines/)
+[A seventh-grader student found a beautiful proof to Thales' Theorem](https://www.cut-the-knot.org/pythagoras/ThalesTheorem.shtml)
 
-[Vector indexing all of Wikipedia on a laptop](https://foojay.io/today/indexing-all-of-wikipedia-on-a-laptop/)
+[Ultrasonic Coffee](https://www.theguardian.com/food/article/2024/may/29/ultrasonic-coffee-australia-scientists-unsw)
 
-[New attention mechanisms that outperform standard multi-head attention](https://arxiv.org/abs/2403.01643)
-
-[Fast Shadow Stacks for Go](https://blog.felixge.de/blazingly-fast-shadow-stacks-for-go/)
-
-[DuckDB Doesn't Need Data to Be a Database](https://www.nikolasgoebel.com/2024/05/28/duckdb-doesnt-need-data.html)
-
-[The Pen Hospital in Kolkata will nurse your broken fountain pen back](https://www.vogue.in/content/pen-hospital-in-kolkata-will-nurse-your-broken-fountain-pen-back-to-health)
+[FrankenPHP: Modern PHP App Server](https://frankenphp.dev/)

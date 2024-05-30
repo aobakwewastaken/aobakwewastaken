@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Show HN: ChatGPT UI for Rabbit Holes](https://delve.a9.io/)
+[The Pumpkin Eclipse](https://blog.lumen.com/the-pumpkin-eclipse/)
 
-[How I run a software book club](https://notes.eatonphil.com/2025-05-30-how-i-run-book-clubs.html)
+[Don't DRY Your Code Prematurely](https://testing.googleblog.com/2024/05/dont-dry-your-code-prematurely.html)
+
+[Show HN: ChatGPT UI for rabbit holes](https://delve.a9.io/)
+
+[Unexpected anti-patterns for engineering leaders](https://review.firstround.com/unexpected-anti-patterns-for-engineering-leaders-lessons-from-stripe-uber-carta/)
+
+[Geometry for Entertainment (1950)](https://archive.org/details/yakov-perelman-geometry-for-entertainment-mir-titles-2024)
+
+[I run a software book club](https://notes.eatonphil.com/2025-05-30-how-i-run-book-clubs.html)
 
 ['Operation Endgame' Hits Malware Delivery Platforms](https://krebsonsecurity.com/2024/05/operation-endgame-hits-malware-delivery-platforms/)
 
-[How Actors Remember Their Lines](https://thereader.mitpress.mit.edu/how-actors-remember-their-lines/)
+[Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 
-[Why, after 6 years, I'm over GraphQL](https://bessey.dev/blog/2024/05/24/why-im-over-graphql/)
+[Is Target selling its excess inventory on eBay and Poshmark?](https://www.modernretail.co/technology/is-target-selling-its-excess-inventory-on-ebay-poshmark/)
 
-[Show HN: I built a tiny-VPS friendly RSS aggregator and reader](https://github.com/0x2E/fusion)
-
-[Kino: Pro Video Camera](https://www.lux.camera/introducing-kino-pro-video-camera/)
-
-[Donating forks to the dining hall](https://1.coc0o44.preview.ben.page/forks)
-
-[FrankenPHP: Modern PHP App Server](https://frankenphp.dev/)
-
-[Meaningful Nonsense: How I generate sentences](https://www.amygoodchild.com/blog/meaningful-nonsense-sentences)
+[Better RAG Results with Reciprocal Rank Fusion and Hybrid Search](https://www.assembled.com/blog/better-rag-results-with-reciprocal-rank-fusion-and-hybrid-search)

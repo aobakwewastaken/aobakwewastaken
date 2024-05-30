@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[PG: "I got tired of hearing that YC fired Sam, so here's what happened"](https://twitter.com/paulg/status/1796107666265108940)
+[PyPy has been working for me for several years now](https://utcc.utoronto.ca/~cks/space/blog/python/PyPyQuietlyWorking)
 
-[Why, after 6 years, I'm over GraphQL](https://bessey.dev/blog/2024/05/24/why-im-over-graphql/)
+[I love my wife. My wife is dead (1946)](https://lettersofnote.com/2012/02/15/i-love-my-wife-my-wife-is-dead/)
+
+[I got tired of hearing that YC fired Sam, so here's what actually happened](https://twitter.com/paulg/status/1796107666265108940)
+
+[Infections Correlate with Entrepreneurship](https://www.researchgate.net/publication/326608642_Risky_business_Linking_Toxoplasma_gondii_infection_and_entrepreneurship_behaviours_across_individuals_and_countries)
 
 [How Actors Remember Their Lines](https://thereader.mitpress.mit.edu/how-actors-remember-their-lines/)
 
-[Meaningful Nonsense: How I generate sentences](https://www.amygoodchild.com/blog/meaningful-nonsense-sentences)
+[FrankenPHP: Modern PHP App Server](https://frankenphp.dev/)
 
 [SVG Gobbler – Find, optimize, edit, and export SVGs](https://github.com/rossmoody/svg-gobbler)
 
 [Kino: Pro Video Camera](https://www.lux.camera/introducing-kino-pro-video-camera/)
 
-[Donating forks to the dining hall](https://1.coc0o44.preview.ben.page/forks)
+[Show HN: I made a pixel art editor for Windows desktop](https://www.lightcube.art/)
 
-[A seventh-grader student found a beautiful proof to Thales' Theorem](https://www.cut-the-knot.org/pythagoras/ThalesTheorem.shtml)
-
-[Ultrasonic Coffee](https://www.theguardian.com/food/article/2024/may/29/ultrasonic-coffee-australia-scientists-unsw)
-
-[FrankenPHP: Modern PHP App Server](https://frankenphp.dev/)
+[Meaningful Nonsense: How I generate sentences](https://www.amygoodchild.com/blog/meaningful-nonsense-sentences)

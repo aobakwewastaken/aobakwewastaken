@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Standard Ebooks' 1,000th title: Ulysses](https://standardebooks.org/ebooks/james-joyce/ulysses)
+[Show HN: Every mountain, building and tree shadow mapped for any date and time](https://shademap.app)
 
-[How to Copy a File From a 30-year-old Laptop](https://www.unterminated.com/random-fun/how-to-copy-a-file-from-a-30-year-old-laptop)
+[Snowflake breach: Hacker confirms access through infostealer infection](https://www.hudsonrock.com/blog/snowflake-massive-breach-access-through-infostealer-infection)
 
-[Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
+[Heroku Postgres is now based on AWS Aurora](https://blog.heroku.com/heroku-postgres-essential-launch)
 
-[Show HN: CommitAsync – $100K+ dev jobs 100% remote only](https://www.commitasync.com/)
+[Armor from Mycenaean Greece turns out to have been effective](https://arstechnica.com/science/2024/05/researchers-get-modern-marines-to-test-ancient-greek-armor/)
 
-[Data allegedly stolen from 560M Ticketmaster users](https://www.bbc.com/news/articles/c899pz84d8zo)
+[Bento: Open-source fork of the project formerly known as Benthos](https://www.warpstream.com/blog/announcing-bento-the-open-source-fork-of-the-project-formerly-known-as-benthos)
 
-[Every mountain, building and tree shadow in the world simulated for any time](https://shademap.app)
+[GNU Nano 8 comes with modern key bindings](https://www.nano-editor.org/news.php)
 
-[Civil society in Latvia, Lithuania, and Poland targeted with Pegasus spyware](https://www.accessnow.org/publication/civil-society-in-exile-pegasus/)
+[DataFusion Comet: Apache Spark Accelerator](https://github.com/apache/datafusion-comet)
 
-[Intel's Anti-Upgrade Tricks Defeated with Kapton Tape](https://hackaday.com/2024/05/31/intels-anti-upgrade-tricks-defeated-with-kapton-tape/)
+[Why does searching Google for random hex lead to car dealers? [video]](https://tmp.tonybox.net/hexgoog.mp4)
 
-[“Imprecise” language models are smaller, speedier, and nearly as accurate](https://spectrum.ieee.org/1-bit-llm)
+[How to copy a file from a 30-year-old laptop](https://www.unterminated.com/random-fun/how-to-copy-a-file-from-a-30-year-old-laptop)
 
-[Spots, stripes and more: Working out the logic of animal patterns](https://knowablemagazine.org/content/article/living-world/2024/animal-patterns-spots-stripes-explained-turing-mechanism)
+[Debian KDE: Right Linux distribution for professional digital painting in 2024](https://www.davidrevoy.com/article1030/debian-12-kde-plasma-2024-install-guide)

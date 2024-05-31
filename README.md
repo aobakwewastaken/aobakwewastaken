@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[The Pumpkin Eclipse](https://blog.lumen.com/the-pumpkin-eclipse/)
+[Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
+
+[A man ordered to hide his boat painted the boat on his fence](https://news.artnet.com/art-world/fence-boat-painting-artist-hanif-panni-2487875)
+
+[“Imprecise” language models are smaller, speedier, and nearly as accurate](https://spectrum.ieee.org/1-bit-llm)
+
+[Things you wish you didn't need to know about S3](https://blog.plerion.com/things-you-wish-you-didnt-need-to-know-about-s3/)
+
+[Show HN: Wadzilla. Play DOOM in Zork](https://github.com/scottvr/wadzilla/wiki)
 
 [Don't DRY Your Code Prematurely](https://testing.googleblog.com/2024/05/dont-dry-your-code-prematurely.html)
 
+[The Pumpkin Eclipse](https://blog.lumen.com/the-pumpkin-eclipse/)
+
+[Japan's push to make all research open access](https://www.nature.com/articles/d41586-024-01493-8)
+
+[YOLOv5 on FPGA with Hailo-8 and 4 Pi Cameras](https://www.fpgadeveloper.com/multi-camera-yolov5-on-zynq-ultrascale-with-hailo-8-ai-acceleration/)
+
 [Show HN: ChatGPT UI for rabbit holes](https://delve.a9.io/)
-
-[Unexpected anti-patterns for engineering leaders](https://review.firstround.com/unexpected-anti-patterns-for-engineering-leaders-lessons-from-stripe-uber-carta/)
-
-[Geometry for Entertainment (1950)](https://archive.org/details/yakov-perelman-geometry-for-entertainment-mir-titles-2024)
-
-[I run a software book club](https://notes.eatonphil.com/2025-05-30-how-i-run-book-clubs.html)
-
-['Operation Endgame' Hits Malware Delivery Platforms](https://krebsonsecurity.com/2024/05/operation-endgame-hits-malware-delivery-platforms/)
-
-[Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
-
-[Is Target selling its excess inventory on eBay and Poshmark?](https://www.modernretail.co/technology/is-target-selling-its-excess-inventory-on-ebay-poshmark/)
-
-[Better RAG Results with Reciprocal Rank Fusion and Hybrid Search](https://www.assembled.com/blog/better-rag-results-with-reciprocal-rank-fusion-and-hybrid-search)

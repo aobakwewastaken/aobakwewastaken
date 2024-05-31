@@ -3,18 +3,18 @@
 
 [A man ordered to hide his boat painted the boat on his fence](https://news.artnet.com/art-world/fence-boat-painting-artist-hanif-panni-2487875)
 
+[Half-Ass It](https://everythingchanges.us/blog/half-ass-it/)
+
+[Every mountain, building and tree shadow in the world simulated for any time](https://shademap.app)
+
 [“Imprecise” language models are smaller, speedier, and nearly as accurate](https://spectrum.ieee.org/1-bit-llm)
 
-[Things you wish you didn't need to know about S3](https://blog.plerion.com/things-you-wish-you-didnt-need-to-know-about-s3/)
-
-[Show HN: Wadzilla. Play DOOM in Zork](https://github.com/scottvr/wadzilla/wiki)
+[Maybe This Is Too Cool](https://radarblog.substack.com/p/maybe-this-is-too-cool)
 
 [Don't DRY Your Code Prematurely](https://testing.googleblog.com/2024/05/dont-dry-your-code-prematurely.html)
 
-[The Pumpkin Eclipse](https://blog.lumen.com/the-pumpkin-eclipse/)
+[Spots, stripes and more: Working out the logic of animal patterns](https://knowablemagazine.org/content/article/living-world/2024/animal-patterns-spots-stripes-explained-turing-mechanism)
 
-[Japan's push to make all research open access](https://www.nature.com/articles/d41586-024-01493-8)
+[Show HN: Wadzilla. Play DOOM in Zork](https://github.com/scottvr/wadzilla/wiki)
 
-[YOLOv5 on FPGA with Hailo-8 and 4 Pi Cameras](https://www.fpgadeveloper.com/multi-camera-yolov5-on-zynq-ultrascale-with-hailo-8-ai-acceleration/)
-
-[Show HN: ChatGPT UI for rabbit holes](https://delve.a9.io/)
+[Things you wish you didn't need to know about S3](https://blog.plerion.com/things-you-wish-you-didnt-need-to-know-about-s3/)

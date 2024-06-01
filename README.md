@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[CERN Root](https://root.cern/)
+[LLMs Aren't "Trained on the Internet" Anymore](https://allenpike.com/2024/llms-trained-on-internet)
 
-[UI elements with a hand-drawn, sketchy look](https://wiredjs.com/)
+[This Message Does Not Exist](https://www.kmjn.org/notes/message_existence.html)
 
-[Space secrets leak disclosure](https://huggingface.co/blog/space-secrets-disclosure)
+[Repairing my mug with Kintsugi](https://fellerts.no/projects/kintsugi.php)
 
-[Napster sparked a file-sharing revolution 25 years ago](https://torrentfreak.com/napster-sparked-a-file-sharing-revolution-25-years-ago-250601/)
+[Frances Hesselbein's leadership story (2022)](https://davidepstein.substack.com/p/year-end-remembrances-part-3-the)
 
-[60 kHz (2022)](https://ben.page/wwvb)
+[What we've learned from a year of building with LLMs](https://eugeneyan.com/writing/llm-lessons/)
 
-[Nginx Unit: open-source, lightweight and versatile application runtime](https://unit.nginx.org/)
+[The Forgotten History of Chinese Keyboards](https://spectrum.ieee.org/chinese-keyboard)
 
-[How to copy a file from a 30-year-old laptop](https://www.unterminated.com/random-fun/how-to-copy-a-file-from-a-30-year-old-laptop)
+[Show HN: I built an interactive cloth solver for Apple Vision Pro](https://www.youtube.com/watch?v=kpD2J85WjzM)
 
-[Armor from Mycenaean Greece turns out to have been effective](https://arstechnica.com/science/2024/05/researchers-get-modern-marines-to-test-ancient-greek-armor/)
+[ROOT: analyzing petabytes of data scientifically](https://root.cern/)
 
-[(some) good corporate engineering blogs are written](https://danluu.com/corp-eng-blogs/)
+[The quest to craft the perfect artificial eye through the ages](https://www.popsci.com/health/artificial-eye-history/)
 
-[Heroku Postgres is now based on AWS Aurora](https://blog.heroku.com/heroku-postgres-essential-launch)
+[X is justifiably slow (2022)](https://zeux.io/2024/05/31/justifiably-slow/)

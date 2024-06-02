@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Nuclear material left in "Swap Shop" at UK Hacker camp emfcamp](https://meow.social/@tryst/112546598851850261)
+
+[Upgrading my Chumby 8 kernel part 10: RTC](https://www.downtowndougbrown.com/2024/06/upgrading-my-chumby-8-kernel-part-10-rtc/)
+
+[Everything I know about the fast inverse square root algorithm](https://github.com/francisrstokes/githublog/blob/main/2024%2F5%2F29%2Ffast-inverse-sqrt.md)
+
+[Why is Snapshot Isolation not enough?](http://concurrencyfreaks.blogspot.com/2023/12/why-is-snapshot-isolation-not-enough.html)
+
+[HN-text: an easy-to-use, text-first Hacker News terminal client](https://github.com/piqoni/hn-text)
+
 [SPI Flash](https://trmm.net/SPI_flash/)
 
-[A secure embedded operating system for microcontrollers](https://tockos.org/)
+[Horseshoe crab counting with New York’s citizen scientists](https://www.thecity.nyc/2024/05/29/horseshoe-crab-jamaica-bay-festival/)
 
-[Copy-and-patch: Fast compilation technique that also produces good code (2020)](https://arxiv.org/abs/2011.13127)
+[An intuitive guide to Maxwell's equations (2020)](https://photonlines.substack.com/p/an-intuitive-guide-to-maxwells-equations)
 
-[Lord Kelvin and His Analog Computer](https://spectrum.ieee.org/tide-predictions)
+[L(O*62).ONG: Make your URL longer](https://loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong)
 
-[This Message Does Not Exist](https://www.kmjn.org/notes/message_existence.html)
-
-[Circle C++ with Memory Safety](https://www.circle-lang.org/site/intro/)
-
-[Milvus Lite: The Lightweight Version of Milvus](https://milvus.io/blog/introducing-milvus-lite.md)
-
-[Unlocking the Duron and Athlon using the pencil (2007)](http://computer-communication.blogspot.com/2007/06/unlocking-duron-and-athlon-using-pencil_08.html)
-
-[Repairing my mug with Kintsugi](https://fellerts.no/projects/kintsugi.php)
-
-[How do our brains adapt to control an extra body part?](https://www.cam.ac.uk/stories/third-thumb)
+[Copy-and-Patch: Fast compilation for high-level languages and bytecode (2020)](https://arxiv.org/abs/2011.13127)

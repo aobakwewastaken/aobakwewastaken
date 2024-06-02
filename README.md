@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[LLMs Aren't "Trained on the Internet" Anymore](https://allenpike.com/2024/llms-trained-on-internet)
+[How do our brains adapt to control an extra body part?](https://www.cam.ac.uk/stories/third-thumb)
+
+[Unlocking the Duron and Athlon Using the Pencil](http://computer-communication.blogspot.com/2007/06/unlocking-duron-and-athlon-using-pencil_08.html)
+
+[Signal: Will leave the EU market rather than undermine our privacy guarantees](https://twitter.com/mer__edith/status/1796508893822238881)
 
 [This Message Does Not Exist](https://www.kmjn.org/notes/message_existence.html)
 
+[84–24](https://84-24.org/)
+
 [Repairing my mug with Kintsugi](https://fellerts.no/projects/kintsugi.php)
 
-[Frances Hesselbein's leadership story (2022)](https://davidepstein.substack.com/p/year-end-remembrances-part-3-the)
+[Parable of the Sofa](https://www.tbray.org/ongoing/When/202x/2024/06/01/Parable-of-the-Sofa)
 
-[What we've learned from a year of building with LLMs](https://eugeneyan.com/writing/llm-lessons/)
+[Show HN: Open-Source Load Balancer for Llama.cpp](https://github.com/distantmagic/paddler)
 
-[The Forgotten History of Chinese Keyboards](https://spectrum.ieee.org/chinese-keyboard)
+[Lisp: Icing or Cake?](https://dthompson.us/posts/lisp-icing-or-cake.html)
 
-[Show HN: I built an interactive cloth solver for Apple Vision Pro](https://www.youtube.com/watch?v=kpD2J85WjzM)
-
-[ROOT: analyzing petabytes of data scientifically](https://root.cern/)
-
-[The quest to craft the perfect artificial eye through the ages](https://www.popsci.com/health/artificial-eye-history/)
-
-[X is justifiably slow (2022)](https://zeux.io/2024/05/31/justifiably-slow/)
+[CSS written in pure Go](https://github.com/AccentDesign/gcss)

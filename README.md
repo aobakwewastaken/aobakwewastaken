@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Nuclear material left in "Swap Shop" at UK Hacker camp emfcamp](https://meow.social/@tryst/112546598851850261)
+[Learn CSS Grid with a virtual garden game](https://cssgridgarden.com/)
 
-[Upgrading my Chumby 8 kernel part 10: RTC](https://www.downtowndougbrown.com/2024/06/upgrading-my-chumby-8-kernel-part-10-rtc/)
-
-[Everything I know about the fast inverse square root algorithm](https://github.com/francisrstokes/githublog/blob/main/2024%2F5%2F29%2Ffast-inverse-sqrt.md)
-
-[Why is Snapshot Isolation not enough?](http://concurrencyfreaks.blogspot.com/2023/12/why-is-snapshot-isolation-not-enough.html)
-
-[HN-text: an easy-to-use, text-first Hacker News terminal client](https://github.com/piqoni/hn-text)
-
-[SPI Flash](https://trmm.net/SPI_flash/)
-
-[Horseshoe crab counting with New York’s citizen scientists](https://www.thecity.nyc/2024/05/29/horseshoe-crab-jamaica-bay-festival/)
+[Quake in 13kb (2021)](https://js13kgames.com/entries/q1k3)
 
 [An intuitive guide to Maxwell's equations (2020)](https://photonlines.substack.com/p/an-intuitive-guide-to-maxwells-equations)
 
-[L(O*62).ONG: Make your URL longer](https://loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong)
+[AMD Unveils Ryzen 9000 CPUs for Desktop, Zen 5](https://www.anandtech.com/show/21415/amd-unveils-ryzen-9000-cpus-for-desktop-zen-5-takes-center-stage-at-computex-2024)
 
-[Copy-and-Patch: Fast compilation for high-level languages and bytecode (2020)](https://arxiv.org/abs/2011.13127)
+[Will we have a negative leap second? [pdf]](https://www.gps.gov/cgsic/meetings/2022/matsakis.pdf)
+
+[Everything I know about the fast inverse square root algorithm](https://github.com/francisrstokes/githublog/blob/main/2024%2F5%2F29%2Ffast-inverse-sqrt.md)
+
+[HN-text: an easy-to-use, text-first Hacker News terminal client](https://github.com/piqoni/hn-text)
+
+[Ask HN: What was your most humbling learning moment?]()
+
+[Lowering resource usage with foot and systemd](https://rgoswami.me/posts/lowering-resource-usage-foot-systemd/)
+
+[The Intellectual Obesity Crisis (2022)](https://www.gurwinder.blog/p/the-intellectual-obesity-crisis)

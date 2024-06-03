@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Fusion tech finds geothermal energy application](https://spectrum.ieee.org/geothermal-energy-gyrotron-quaise)
+
 [How many photons are received per bit transmitted from Voyager 1?](https://physics.stackexchange.com/questions/816698/how-many-photons-are-received-per-bit-transmitted-from-voyager-1)
 
-[Ask HN: Who is hiring? (June 2024)]()
+[Sam Altman, Lately](http://oftheclock.com/sam-altman-lately)
 
-[Ask HN: Who wants to be hired? (June 2024)]()
+[Grokfast: Accelerated Grokking by Amplifying Slow Gradients](https://arxiv.org/abs/2405.20233)
 
-[Show HN: Show HN: Dzero – The fastest globally distributed SQLite database](https://dzero.dev)
+[Oldest largest German Minecraft server shut down and open sourced everything](https://github.com/muxcraftserver/MuxSystem)
 
-[What if they gave an Industrial Revolution and nobody came?](https://rootsofprogress.org/robert-allen-british-industrial-revolution)
+[Libadwaita: Splitting GTK and Design Language](https://tesk.page/2024/06/03/libadwaita-splitting-gtk-and-design-language/)
 
-[Making USB devices – end to end guide to your first gadget](https://popovicu.com/posts/making-usb-devices/)
+[Why YC went to DC](https://www.ycombinator.com/blog/why-yc-went-to-dc/)
 
-[Show HN: 10 Years to Build a Free SQL Editor](https://www.timestored.com/qstudio/release-version-3)
+[SnapMagic (YC S15), the AI copilot for electronics, is hiring a PM](https://careers.snapmagic.com/o/technical-project-manager)
 
-[Ogma: Interpretable Symbolic General Problem-Solving Model](https://ogma.framer.website/)
+[If English was written like Chinese (1999)](https://zompist.com/yingzi/yingzi.htm)
 
-[Learn CSS Grid with a virtual garden game](https://cssgridgarden.com/)
-
-[An intuitive guide to Maxwell's equations (2020)](https://photonlines.substack.com/p/an-intuitive-guide-to-maxwells-equations)
+[Special-Use Domain 'Home.arpa.'](https://datatracker.ietf.org/doc/html/rfc8375)

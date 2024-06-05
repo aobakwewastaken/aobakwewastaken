@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Some Notes on Influenceering](https://lcamtuf.substack.com/p/some-notes-on-influenceering)
+[You'll regret using natural keys](https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/)
+
+[An animated introduction to Fourier series](https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles)
+
+[In defence of swap: common misconceptions](https://chrisdown.name/2018/01/02/in-defence-of-swap.html)
 
 [Why do electronic components have such odd values? (2021)](https://digilent.com/blog/why-do-electronic-components-have-such-odd-values/)
 
-[An animated introduction to Fourier Series](https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles)
-
-[How influencer cartels manipulate social media](https://cepr.org/voxeu/columns/how-influencer-cartels-manipulate-social-media-fraudulent-behaviour-hidden-plain)
-
-[Things the guys who stole my phone have texted me to try to get me to unlock it](https://gothamist.com/news/things-the-guys-who-stole-my-phone-have-texted-me-to-try-to-get-me-to-unlock-it)
-
-[Particle Accelerators for the Microchip Era](https://www.moore.org/article-detail?newsUrlName=particle-accelerators-for-the-microchip-era)
-
-[Deception abilities emerged in large language models](https://www.pnas.org/doi/full/10.1073/pnas.2317967121)
-
-[EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
-
-[Sphere Rendering: Flat Planets](https://emildziewanowski.com/flat-planets/)
-
 [Hacking millions of modems and investigating who hacked my modem](https://samcurry.net/hacking-millions-of-modems)
+
+[How to chop off bytes of an UTF-8 string to fit into a small slot and look nice](https://domm.plix.at/perl/2024_06_chopping_utf8.html)
+
+[Why camera calibration is so important in computer vision](https://www.opencv.ai/blog/camera-calibration)
+
+[Atash Behram – Types of Fire](https://en.wikipedia.org/wiki/Atash_Behram)
+
+[Entropy, a CLI that scans files to find high entropy lines (might be secrets)](https://github.com/EwenQuim/entropy)
+
+[Use context-free grammars instead of parser combinators and PEG](https://safinaskar.writeas.com/)

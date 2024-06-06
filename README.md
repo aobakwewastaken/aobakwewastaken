@@ -5,16 +5,16 @@
 
 [Don Estridge: A misfit who built the IBM PC](https://every.to/the-crazy-ones/the-misfit-who-built-the-ibm-pc)
 
-[St Michael Sword investigation: Are the 7 Cathedrals on a straight line?](https://geospatial.netlify.app/posts/gds-2024-04-20-cathedrals/)
+[AeroSpace is an i3-like tiling window manager for macOS](https://github.com/nikitabobko/AeroSpace)
 
 [The Right Not to Be Subjected to AI Profiling Based on Publicly Available Data](https://link.springer.com/article/10.1007/s13347-023-00616-9)
 
-[AeroSpace is an i3-like tiling window manager for macOS](https://github.com/nikitabobko/AeroSpace)
+[3D Math Primer for Graphics and Game Development](https://gamemath.com/)
+
+[Martha Gellhorn – The Only Woman to Report on the D-Day Landings from the Ground](https://www.smithsonianmag.com/history/martha-gellhorn-was-the-only-woman-to-report-on-the-d-day-landings-from-the-ground-180984456/)
+
+[St Michael Sword investigation: Are the 7 Cathedrals on a straight line?](https://geospatial.netlify.app/posts/gds-2024-04-20-cathedrals/)
 
 [Understanding QEMU Devices (2018)](https://www.qemu.org/2018/02/09/understanding-qemu-devices/)
 
 [How Much Water Is in Earth's Crust? Over 10.5M Cubic Miles](https://www.worldatlas.com/geology/how-much-water-is-in-earth-s-crust.html)
-
-[TPM GPIO fail: How bad OEM firmware ruins Intel TPM security](https://mkukri.xyz/2024/06/01/tpm-gpio-fail.html)
-
-[The Age of the Drone Police Is Here](https://www.wired.com/story/the-age-of-the-drone-police-is-here/)

@@ -1,6 +1,8 @@
 # Top Stories on hackernews <br />
 [Ice - open source bar manager for macOS](https://github.com/jordanbaird/Ice)
 
+[GNU Justified Public License (2007)](http://tom7.org/bovex/JCOPYING)
+
 [CPU Energy Meter: A tool for measuring energy consumption of Intel CPUs](https://github.com/sosy-lab/cpu-energy-meter)
 
 [I learned Vulkan and wrote a small game engine with it](https://edw.is/learning-vulkan/)
@@ -15,6 +17,4 @@
 
 [lsix: Like "ls", but for images](https://github.com/hackerb9/lsix)
 
-[Show HN: 2d web paddle game](https://raould.github.io/pn0gstr0m/)
-
-[US has the highest rate of maternal deaths among rich nations. Norway has zero](https://www.cnn.com/2024/06/04/health/maternal-deaths-high-income-nations/index.html)
+[Don Estridge: A misfit who built the IBM PC](https://every.to/the-crazy-ones/the-misfit-who-built-the-ibm-pc)

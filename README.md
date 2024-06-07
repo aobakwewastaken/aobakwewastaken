@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[LedgerStore Supports Trillions of Indexes at Uber](https://www.uber.com/blog/how-ledgerstore-supports-trillions-of-indexes/?uclick_id=67d612cb-12f8-470a-98fd-e9f7144dfafb)
+[ASCII Silhouettify](https://meatfighter.com/ascii-silhouettify/)
 
-[Recovery after HP tech support bricked my father's laptop](https://github.com/ctag/hp_envy_reviver)
+[Feynman's Razor (if an expert can't understand, you've dumbed it down too much)](https://defenderofthebasic.substack.com/p/feynmans-razor)
 
-[Instruction Sets Should Be Free: The Case for RISC-V [pdf] (2014)](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-146.pdf)
+[Yes, you can play Duck Hunt without a television (but I can't)](https://nicole.express/2024/no-screen-no-cpu-one-problem.html)
 
-[Secret Hand Gestures in Paintings (2019)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7233791/)
+[The aging U.S. power grid is about to get a jolt](https://www.wsj.com/business/energy-oil/the-aging-u-s-power-grid-is-about-to-get-a-jolt-144e7fdc)
 
-[Quieting the Global Growl](https://hakaimagazine.com/features/quieting-the-global-growl/)
+[Alarms in medical equipment](https://th.id.au/alarms/)
 
-[Σ-GPTs: A New Approach to Autoregressive Models](https://arxiv.org/abs/2404.09562)
+[LaTeX is the first PDF/UA-2 compliance accessible PDF producer](https://github.com/latex3/tagging-project/discussions/72)
 
-[How Does GPT-4o Encode Images?](https://www.oranlooney.com/post/gpt-cnn/)
+[Clues to disappearance of North America's large mammals 50k years ago](https://phys.org/news/2024-05-clues-mysterious-north-america-large.html)
 
-[Ice - open source bar manager for macOS](https://github.com/jordanbaird/Ice)
+[OpenSSH introduces options to penalize undesirable behavior](https://undeadly.org/cgi?action=article;sid=20240607042157)
 
-[Saving Three Months of Latency with a Single OpenTelemetry Trace](https://www.checklyhq.com/blog/coralogix-and-opentelemetry-on-checkly/)
+[Xv6, a simple Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2023/xv6.html)
 
-[Attacking NIST SP 800-108 (Loss of Key Control Security)](https://scottarc.blog/2024/06/04/attacking-nist-sp-800-108/)
+[Writing memory safe JIT compilers](https://medium.com/graalvm/writing-truly-memory-safe-jit-compilers-f79ad44558dd)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Cancel Adobe if you are a creative under NDA with your clients](https://twitter.com/Stretchedwiener/status/1798153619285708909)
+[A Picture Is Worth 170 Tokens: How Does GPT-4o Encode Images?](https://www.oranlooney.com/post/gpt-cnn/)
+
+[Instruction Sets Should Be Free: The Case for RISC-V [pdf] (2014)](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-146.pdf)
+
+[Secret Hand Gestures in Paintings](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7233791/)
 
 [Ice - open source bar manager for macOS](https://github.com/jordanbaird/Ice)
 
-[Developer posts secret key on GitHub, loses $40K in 2 minutes](https://cointelegraph.com/news/web3-dev-loses-40k-github-key-leak)
+[Attacking NIST SP 800-108 (Loss of Key Control Security)](https://scottarc.blog/2024/06/04/attacking-nist-sp-800-108/)
 
-[CPU Energy Meter: A tool for measuring energy consumption of Intel CPUs](https://github.com/sosy-lab/cpu-energy-meter)
+[Saving Three Months of Latency with a Single OpenTelemetry Trace](https://www.checklyhq.com/blog/coralogix-and-opentelemetry-on-checkly/)
 
-[I learned Vulkan and wrote a small game engine with it](https://edw.is/learning-vulkan/)
+[Show HN: E-Paper 7-color display showing the current weather](https://github.com/blixt/sol-mate-eink)
 
-[Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
+[Σ-GPTs: A New Approach to Autoregressive Models](https://arxiv.org/abs/2404.09562)
 
-[Samsung union stages its first ever strike](https://www.theregister.com/2024/06/07/samsung_union_strike/)
+[Quieting the Global Growl](https://hakaimagazine.com/features/quieting-the-global-growl/)
 
-[Roman Roads (2017)](https://sashamaps.net/docs/maps/roman-roads-original/)
-
-[AeroSpace is an i3-like tiling window manager for macOS](https://github.com/nikitabobko/AeroSpace)
-
-[Extracting concepts from GPT-4](https://openai.com/index/extracting-concepts-from-gpt-4/)
+[Cracking the Scheduling Code in Hay Day](https://thinhcorner.com/blog/hayday-game-schedule)

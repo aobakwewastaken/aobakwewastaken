@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Our Fight to Keep the Law Free](https://up.codes/free-law)
+[Designing a Lego orrery](https://marian42.de/article/orrery/)
 
-[piku: The tiniest PaaS you've ever seen](https://github.com/piku/piku)
+[Ultrasonic investigations in shopping centres](https://www.windytan.com/2024/06/ultrasonic-investigations-in-shopping.html)
 
-[Show HN: We've open-sourced our LLM attention visualization library](https://github.com/labmlai/inspectus)
+[A Revolution in Biology?](https://www.bitsofwonder.co/p/a-revolution-in-biology)
 
-[The Weird Nerd comes with trade-offs](https://www.writingruxandrabio.com/p/the-weird-nerd-comes-with-trade-offs)
+[Libtree: Ldd as a tree saying why a library is found or not](https://github.com/haampie/libtree)
 
-[Gene therapy restores hearing to children with inherited deafness](https://cosmosmagazine.com/science/biology/gene-therapy-restores-hearing-to-children-with-inherited-deafness/)
+[Piku: Allows git push deployments to your own servers](https://github.com/piku/piku)
 
-[Is there a BNF grammar of the TeX language? (2010)](https://tex.stackexchange.com/questions/4201/is-there-a-bnf-grammar-of-the-tex-language)
+[British Nuclear Warning System](http://www.ringbell.co.uk/ukwmo/Page211.htm)
 
-[The Backrooms of the Internet Archive](https://blog.archive.org/2024/06/01/the-backrooms-of-the-internet-archive/)
+[WARC-GPT: An open-source tool for exploring web archives using AI](https://lil.law.harvard.edu/blog/2024/02/12/warc-gpt-an-open-source-tool-for-exploring-web-archives-with-ai/)
 
-[Scalable MatMul-Free Language Modeling](https://arxiv.org/abs/2406.02528)
+[How a single ChatGPT mistake cost us $10k](https://asim.bearblog.dev/how-a-single-chatgpt-mistake-cost-us-10000/)
 
-[Show HN: I made a web game that makes practicing basic arithmetic fun](https://www.worchle.com/mathic/)
+[Claude's Character](https://www.anthropic.com/research/claude-character)
 
-[Fixing a knockoff Altera USB Blaster that never worked](https://www.downtowndougbrown.com/2024/06/fixing-a-knockoff-altera-usb-blaster-that-never-worked/)
+[Woman set up a table to share her collection of washers. Nothing was for sale](https://twitter.com/revjaydub/status/1799212814646796648)

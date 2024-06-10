@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Show HN: Markdown HN profiles at {user}.at.hn](https://at.hn)
+[New GitHub Organization for the Swift Project](https://www.swift.org/blog/swiftlang-github/)
+
+[Apple Intelligence for iPhone, iPad, and Mac](https://www.apple.com/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
+
+[Controversial pesticide research all but vanished from a major conference](https://usrtk.org/bees-neonics/entomological-society-america-corporate-partners/)
+
+[I built an ROV to solve missing person cases](https://suanto.com/2024/06/06/the-time-I-built-an-ROV-01/)
+
+[Show HN: Probabilistic Tic-Tac-Toe](https://www.csun.io/2024/06/08/probabilistic-tic-tac-toe.html)
+
+[The rarest move in chess [video]](https://www.youtube.com/watch?v=iDnW0WiCqNc)
+
+[Sending emails to my three-year-old](https://blog.haschek.at/2024/leaving-a-digital-legacy.html)
+
+[Trieve (YC W24) Is Hiring an DevRel Software Engineer](https://www.ycombinator.com/companies/trieve/jobs/2jeeXLs-developer-relations-software-engineer)
 
 [Mexican Computers: A Brief Technical and Historical Overview](https://arxiv.org/abs/2406.04912)
 
-[IRS makes Direct File a permanent option to file federal tax returns](https://www.irs.gov/newsroom/irs-makes-direct-file-a-permanent-option-to-file-federal-tax-returns-expanded-access-for-more-taxpayers-planned-for-the-2025-filing-season)
-
-[NetBSD 10 on a Pinebook Pro laptop](https://www.idatum.net/netbsd-10-on-a-pinebook-pro-laptop.html)
-
-[The Mythical Non-Roboticist: Wouldn't it be great if everyone could do robotics?](https://spectrum.ieee.org/the-mythical-non-roboticist)
-
-[Gainax, known for 'Evangelion' anime production, goes bankrupt](https://www.japantimes.co.jp/business/2024/06/08/evangelion-anime-production-company-bankrupt/)
-
-[How cheap, outsourced labour in Africa is shaping AI English](https://www.theguardian.com/technology/2024/apr/16/techscape-ai-gadgest-humane-ai-pin-chatgpt)
-
-[WebKit fix: Quirk news.ycombinator to skip TextAutoSizing](https://github.com/WebKit/WebKit/commit/84ae355619354ee1bfa7daaa1fc95565a6726be3)
-
-[The Magical Mystery Merge Or Why we run FreeBSD-current at Netflix (2023) [pdf]](https://people.freebsd.org/~gallatin/talks/OpenFest2023.pdf)
-
-[Designing a Lego orrery](https://marian42.de/article/orrery/)
+[In the Ruins of Edward Gibbon's Masterpiece](https://newrepublic.com/article/181667/ruins-edward-gibbons-masterpiece-mike-duncan)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Elsevier embeds a hash in the PDF metadata that is unique for each download](https://social.coop/@jonny/107685726645817029)
+
+[WebKit fix: Quirk news.ycombinator to skip TextAutoSizing](https://github.com/WebKit/WebKit/commit/84ae355619354ee1bfa7daaa1fc95565a6726be3)
+
+[Robot Programming: Stop Designing Software for Non-Roboticists](https://spectrum.ieee.org/the-mythical-non-roboticist)
+
 [Designing a Lego orrery](https://marian42.de/article/orrery/)
 
-[It is time for more holistic practices in mental health](https://journals.plos.org/mentalhealth/article?id=10.1371/journal.pmen.0000028)
+[Patrick Breyer and Pirate Party Lose EU Parliament Seats](https://stackdiary.com/patrick-breyer-and-pirate-party-lose-eu-parliament-seats/)
+
+[The Magical Mystery Merge Or Why we run FreeBSD-current at Netflix (2023) [pdf]](https://people.freebsd.org/~gallatin/talks/OpenFest2023.pdf)
 
 [Libtree: Ldd as a tree saying why a library is found or not](https://github.com/haampie/libtree)
 
+[It is time for more holistic practices in mental health](https://journals.plos.org/mentalhealth/article?id=10.1371/journal.pmen.0000028)
+
 [An Introduction to ARM64 Assembly on Apple Silicon Macs](https://github.com/below/HelloSilicon)
 
-[Inline Assembly Dangers](https://fobes.dev/general/2024/02/29/inline-assembly-dangers.html)
-
-[Ultrasonic investigations in shopping centres](https://www.windytan.com/2024/06/ultrasonic-investigations-in-shopping.html)
-
-[Dmv.org](https://computer.rip/2024-06-08-dmv.org.html)
-
-[Monumental snake engravings of the Orinoco River](https://www.cambridge.org/core/journals/antiquity/article/monumental-snake-engravings-of-the-orinoco-river/147F83AA4381153C4D0F4EA4817B3766)
-
-[WARC-GPT: An open-source tool for exploring web archives using AI](https://lil.law.harvard.edu/blog/2024/02/12/warc-gpt-an-open-source-tool-for-exploring-web-archives-with-ai/)
-
-[A Revolution in Biology?](https://www.bitsofwonder.co/p/a-revolution-in-biology)
+[When (if ever) did the Sun set on the British Empire?](https://what-if.xkcd.com/48/)

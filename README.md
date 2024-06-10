@@ -3,18 +3,18 @@
 
 [Mexican Computers: A Brief Technical and Historical Overview](https://arxiv.org/abs/2406.04912)
 
+[IRS makes Direct File a permanent option to file federal tax returns](https://www.irs.gov/newsroom/irs-makes-direct-file-a-permanent-option-to-file-federal-tax-returns-expanded-access-for-more-taxpayers-planned-for-the-2025-filing-season)
+
+[NetBSD 10 on a Pinebook Pro laptop](https://www.idatum.net/netbsd-10-on-a-pinebook-pro-laptop.html)
+
 [The Mythical Non-Roboticist: Wouldn't it be great if everyone could do robotics?](https://spectrum.ieee.org/the-mythical-non-roboticist)
 
-[Canada's Parliament Rocked by Allegations of Treason and Foreign Interference](https://www.politico.com/news/2024/06/10/canada-parliament-treason-allegations-00162163)
+[Gainax, known for 'Evangelion' anime production, goes bankrupt](https://www.japantimes.co.jp/business/2024/06/08/evangelion-anime-production-company-bankrupt/)
 
-["How people fall apart": The Neuroscience of Burnout (2022)](https://yaledailynews.com/blog/2022/03/29/how-people-fall-apart-yale-faculty-discuss-the-impact-of-burnout-on-the-brain/)
+[How cheap, outsourced labour in Africa is shaping AI English](https://www.theguardian.com/technology/2024/apr/16/techscape-ai-gadgest-humane-ai-pin-chatgpt)
 
-[Berkshire Hathaway Doesn't Hold Nvidia Stock](https://www.investopedia.com/berkshire-hathaway-does-not-hold-nvidia-stock-will-warren-buffett-come-to-regret-it-8600072)
-
-[Designing a Lego orrery](https://marian42.de/article/orrery/)
+[WebKit fix: Quirk news.ycombinator to skip TextAutoSizing](https://github.com/WebKit/WebKit/commit/84ae355619354ee1bfa7daaa1fc95565a6726be3)
 
 [The Magical Mystery Merge Or Why we run FreeBSD-current at Netflix (2023) [pdf]](https://people.freebsd.org/~gallatin/talks/OpenFest2023.pdf)
 
-[PiDP-10 – a modern replica of the PDP-10](https://obsolescence.dev/pidp10.html)
-
-[Scratchapixel 4.0, Learn Computer Graphics Programming](https://www.scratchapixel.com/index.html)
+[Designing a Lego orrery](https://marian42.de/article/orrery/)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[New GitHub Organization for the Swift Project](https://www.swift.org/blog/swiftlang-github/)
+[British duo arrested for SMS phishing via homemade cell tower](https://www.cityoflondon.police.uk/news/city-of-london/news/2024/june/two-people-arrested-in-connection-with-investigation-into-homemade-mobile-antenna-used-to-send-thousands-of-smishing-text-messages-to-the-public/)
 
-[Apple Intelligence for iPhone, iPad, and Mac](https://www.apple.com/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
+[Apple's On-Device and Server Foundation Models](https://machinelearning.apple.com/research/introducing-apple-foundation-models)
 
-[Controversial pesticide research all but vanished from a major conference](https://usrtk.org/bees-neonics/entomological-society-america-corporate-partners/)
+[Biodiversity enhances immune regulation among daycare children](https://www.science.org/doi/10.1126/sciadv.aba2578)
 
-[I built an ROV to solve missing person cases](https://suanto.com/2024/06/06/the-time-I-built-an-ROV-01/)
+[Private Cloud Compute: A new frontier for AI privacy in the cloud](https://security.apple.com/blog/private-cloud-compute/)
 
-[Show HN: Probabilistic Tic-Tac-Toe](https://www.csun.io/2024/06/08/probabilistic-tic-tac-toe.html)
+[macOS 15.0 supports Nested Virtualization on M3 chips](https://developer.apple.com/documentation/virtualization/vzgenericplatformconfiguration/4360553-isnestedvirtualizationsupported)
 
-[The rarest move in chess [video]](https://www.youtube.com/watch?v=iDnW0WiCqNc)
+[Blackmagic Cine Immersive Capture for Vision Pro 8160x7200 Resolution per Eye](https://www.newsshooter.com/2024/06/10/blackmagic-ursa-cine-immersive-capture-content-for-apple-vision-pro-with-8160-x-7200-resolution-per-eye/)
 
-[Sending emails to my three-year-old](https://blog.haschek.at/2024/leaving-a-digital-legacy.html)
+[Big Tech's role in enabling link fraud – take 2](https://eligrey.com/blog/link-fraud/)
 
-[Trieve (YC W24) Is Hiring an DevRel Software Engineer](https://www.ycombinator.com/companies/trieve/jobs/2jeeXLs-developer-relations-software-engineer)
+[Ship Something Every Day](https://maxleiter.com/blog/ship-every-day)
 
-[Mexican Computers: A Brief Technical and Historical Overview](https://arxiv.org/abs/2406.04912)
+[Free Quality SoundFonts (Sf2)](https://sites.google.com/site/soundfonts4u/)
 
-[In the Ruins of Edward Gibbon's Masterpiece](https://newrepublic.com/article/181667/ruins-edward-gibbons-masterpiece-mike-duncan)
+[Wooden bowling arm that bested Australian cricketer in 1909 rebuilt](https://www.theguardian.com/technology/article/2024/jun/10/wooden-bowling-arm-john-venn-machine-rebuilt-cambridge-australia-1909-cricket-team)

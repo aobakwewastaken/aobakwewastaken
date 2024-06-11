@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Lynn Conway Has Died](https://en.wikipedia.org/wiki/Lynn_Conway)
+
+[The Rate of Return on Everything, 1870–2015 (2019)](https://academic.oup.com/qje/article/134/3/1225/5435538)
+
 [I like the RP2040](https://dgroshev.com/blog/rp2040/)
 
-[Microsoft's official Minesweeper app has ads, pay-to-win, and is hundreds of MBs](https://tech.lgbt/@nina_kali_nina/112594910070716090)
+[ARC Prize – a $1M+ competition towards open AGI progress](https://arcprize.org/blog/launch)
 
-[Self-Serve Dashboards](https://briefer.cloud/blog/posts/self-serve-bi-myth/)
+[Flameshot – Powerful, yet simple to use open-source screenshot software](https://flameshot.org/)
 
-[POV-Ray – The Persistence of Vision Raytracer (2021)](http://www.povray.org/)
+[Swift Static Linux SDK](https://www.swift.org/documentation/articles/static-linux-getting-started.html)
 
-[SIMD < SIMT < SMT: Parallelism in Nvidia GPUs (2011)](https://yosefk.com/blog/simd-simt-smt-parallelism-in-nvidia-gpus.html)
+[Decade of the Battery](https://www.noahpinion.blog/p/decade-of-the-battery-334)
 
-[Norway discovers Europe's largest deposit of rare earth metals](https://www.cnbc.com/2024/06/11/norway-discovers-europes-largest-deposit-of-rare-earth-metals.html)
+[Tomorrow people: For a century, it felt like telepathy was around the corner](https://aeon.co/essays/for-over-a-century-telepathy-has-been-just-around-the-corner)
 
-[First Came 'Spam.' Now, with A.I., We've Got 'Slop'](https://www.nytimes.com/2024/06/11/style/ai-search-slop.html)
+[Show HN: Revideo – Create Videos with Code](https://github.com/redotvideo/revideo)
 
-[Meta Open-Sources Megalodon LLM for Efficient Long Sequence Modeling – InfoQ](https://www.infoq.com/news/2024/06/meta-llm-megalodon/)
-
-[Motion (YC W20) Is Hiring Senior Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
-
-[Child safety advocates disrupt Apple developers conference](https://www.mercurynews.com/2024/06/10/cupertino-child-safety-advocates-disrupt-apple-developers-conference/)
+[Coqui.ai TTS: A Deep Learning Toolkit for Text-to-Speech](https://github.com/coqui-ai/TTS)

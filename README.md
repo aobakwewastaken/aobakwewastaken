@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[POV-Ray – The Persistence of Vision Raytracer](http://www.povray.org/)
+[I like the RP2040](https://dgroshev.com/blog/rp2040/)
 
-[Exploring Gleam, a type-safe language on the BEAM](https://christopher.engineering/en/blog/gleam-overview/)
+[Norway discovers Europe's largest deposit of rare earth metals](https://www.cnbc.com/2024/06/11/norway-discovers-europes-largest-deposit-of-rare-earth-metals.html)
 
-[NanoGPT: The simplest, fastest repository for training medium-sized GPTs](https://github.com/karpathy/nanoGPT)
+[POV-Ray – The Persistence of Vision Raytracer (2021)](http://www.povray.org/)
+
+[Research on the visual rabbit illusion takes a leap forward](https://www.kyushu-u.ac.jp/en/researches/view/290/)
+
+[Spam, junk ... slop? The latest wave of AI behind the 'zombie internet'](https://www.theguardian.com/technology/article/2024/may/19/spam-junk-slop-the-latest-wave-of-ai-behind-the-zombie-internet)
+
+[The Backbone of Cybersecurity: Hardware Security Modules](https://www.join.tech/blog/2024-0x10-the-backbone-of-cybersecurity-hardware-security-modules.php)
+
+[Motion (YC W20) Is Hiring Senior Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 
 [Apple's On-Device and Server Foundation Models](https://machinelearning.apple.com/research/introducing-apple-foundation-models)
 
-[DuckDB Isn't Just Fast](https://csvbase.com/blog/6)
-
-[OpenRecall](https://github.com/openrecall/openrecall)
-
-[OpenWorm – creating a virtual organism in a computer](https://openworm.org/)
+[Australian Border Force searched phones of 10k travellers in past two years](https://www.theguardian.com/australia-news/article/2024/jun/11/australian-border-force-abf-searching-phones-travellers-data)
 
 [I built an ROV to solve missing person cases](https://suanto.com/2024/06/06/the-time-I-built-an-ROV-01/)
-
-[Free Quality SoundFonts (Sf2)](https://sites.google.com/site/soundfonts4u/)
-
-[Private Cloud Compute: A new frontier for AI privacy in the cloud](https://security.apple.com/blog/private-cloud-compute/)

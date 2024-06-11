@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[British duo arrested for SMS phishing via homemade cell tower](https://www.cityoflondon.police.uk/news/city-of-london/news/2024/june/two-people-arrested-in-connection-with-investigation-into-homemade-mobile-antenna-used-to-send-thousands-of-smishing-text-messages-to-the-public/)
+[POV-Ray – The Persistence of Vision Raytracer](http://www.povray.org/)
+
+[macOS Sequoia to Allow iCloud Logins in Virtual Machines on ARM Macs](https://developer.apple.com/documentation/virtualization/using_icloud_with_macos_virtual_machines?language=objc)
 
 [Apple's On-Device and Server Foundation Models](https://machinelearning.apple.com/research/introducing-apple-foundation-models)
 
-[Biodiversity enhances immune regulation among daycare children](https://www.science.org/doi/10.1126/sciadv.aba2578)
+[Exploring Gleam, a type-safe language on the BEAM](https://christopher.engineering/en/blog/gleam-overview/)
 
-[Private Cloud Compute: A new frontier for AI privacy in the cloud](https://security.apple.com/blog/private-cloud-compute/)
+[Spotify: Droppin' Some Fake Beats](https://lcamtuf.substack.com/p/spotify-droppin-some-fake-beats)
 
-[macOS 15.0 supports Nested Virtualization on M3 chips](https://developer.apple.com/documentation/virtualization/vzgenericplatformconfiguration/4360553-isnestedvirtualizationsupported)
-
-[Blackmagic Cine Immersive Capture for Vision Pro 8160x7200 Resolution per Eye](https://www.newsshooter.com/2024/06/10/blackmagic-ursa-cine-immersive-capture-content-for-apple-vision-pro-with-8160-x-7200-resolution-per-eye/)
-
-[Big Tech's role in enabling link fraud – take 2](https://eligrey.com/blog/link-fraud/)
-
-[Ship Something Every Day](https://maxleiter.com/blog/ship-every-day)
+[NanoGPT: The simplest, fastest repository for training medium-sized GPTs](https://github.com/karpathy/nanoGPT)
 
 [Free Quality SoundFonts (Sf2)](https://sites.google.com/site/soundfonts4u/)
 
-[Wooden bowling arm that bested Australian cricketer in 1909 rebuilt](https://www.theguardian.com/technology/article/2024/jun/10/wooden-bowling-arm-john-venn-machine-rebuilt-cambridge-australia-1909-cricket-team)
+[Private Cloud Compute: A new frontier for AI privacy in the cloud](https://security.apple.com/blog/private-cloud-compute/)
+
+[Ship Something Every Day](https://maxleiter.com/blog/ship-every-day)
+
+[Big Tech's role in enabling link fraud – take 2](https://eligrey.com/blog/link-fraud/)

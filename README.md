@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Lynn Conway Has Died](https://en.wikipedia.org/wiki/Lynn_Conway)
-
-[The Rate of Return on Everything, 1870–2015 (2019)](https://academic.oup.com/qje/article/134/3/1225/5435538)
-
-[I like the RP2040](https://dgroshev.com/blog/rp2040/)
+[Silicon Valley's best kept secret: Founder liquidity](https://www.stefantheard.com/silicon-valleys-best-kept-secret-founder-liquidity/)
 
 [ARC Prize – a $1M+ competition towards open AGI progress](https://arcprize.org/blog/launch)
 
-[Flameshot – Powerful, yet simple to use open-source screenshot software](https://flameshot.org/)
+[I like the RP2040](https://dgroshev.com/blog/rp2040/)
 
-[Swift Static Linux SDK](https://www.swift.org/documentation/articles/static-linux-getting-started.html)
+[Lynn Conway has died](https://en.wikipedia.org/wiki/Lynn_Conway)
 
-[Decade of the Battery](https://www.noahpinion.blog/p/decade-of-the-battery-334)
+[How to Make Colored Fire at Home](https://sciencenotes.org/how-to-make-colored-fire/)
 
-[Tomorrow people: For a century, it felt like telepathy was around the corner](https://aeon.co/essays/for-over-a-century-telepathy-has-been-just-around-the-corner)
+[Show HN: Collaborative ASCII Drawing with Telnet](https://jott.live/markdown/telnet_draw)
 
-[Show HN: Revideo – Create Videos with Code](https://github.com/redotvideo/revideo)
+[When Water Flows Uphill [video]](https://www.youtube.com/watch?v=zzKgnNGqxMw)
 
-[Coqui.ai TTS: A Deep Learning Toolkit for Text-to-Speech](https://github.com/coqui-ai/TTS)
+[T-Mobile users thought they had a lifetime price lock–guess what happened next](https://arstechnica.com/tech-policy/2024/06/t-mobile-users-thought-they-had-a-lifetime-price-lock-guess-what-happened-next/)
+
+[Gruen Transfer](https://en.wikipedia.org/wiki/Gruen_transfer)
+
+[AES-GCM and breaking it on nonce reuse](https://frereit.de/aes_gcm/)

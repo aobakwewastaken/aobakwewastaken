@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Show HN: Restate – low-latency durable workflows for JavaScript/Java, in Rust](https://restate.dev/)
-
-[Silicon Valley's best kept secret: Founder liquidity](https://www.stefantheard.com/silicon-valleys-best-kept-secret-founder-liquidity/)
+[The GJK Algorithm: A weird and beautiful way to do a simple thing](https://computerwebsite.net/writing/gjk)
 
 [Launch HN: Overwatch (YC S22): OSINT platform for cyber and fraud risk]()
 
-[Intel is trucking a 916k-pound 'Super Load' across Ohio to its new fab](https://www.tomshardware.com/pc-components/cpus/intel-is-trucking-a-916000-pound-super-load-across-ohio-to-its-new-fab-spawning-road-closures-over-nine-days)
+[Real-Time Settlers of Catan](https://robert.ocallahan.org/2024/06/real-time-settlers.html)
 
-[Python wheel filenames have no canonical form](https://blog.yossarian.net/2024/06/12/Python-wheel-filenames-have-no-canonical-form)
+[Designing the avocado of uncertainty visualization](https://stamen.com/designing-the-avocado-of-uncertainty/)
+
+[Diffractive Chocolate](https://wp.optics.arizona.edu/oscoutreach/diffractive-chocolate/)
+
+[Etleap (YC W13) Is Hiring Customer Success Manager (SF)](https://etleap.com/careers/customer-success-manager/)
+
+[Silicon Valley's best kept secret: Founder liquidity](https://www.stefantheard.com/silicon-valleys-best-kept-secret-founder-liquidity/)
+
+[Lexbor – An open source HTML Renderer library](https://github.com/lexbor/lexbor)
+
+[Medieval game pieces emerge from the ruins of a German castle](https://news.artnet.com/art-world/medieval-game-pieces-emerge-from-the-ruins-of-a-mysterious-german-castle-2497815)
 
 [How to get the most out of Postgres memory settings](https://tembo.io/blog/optimizing-memory-usage)
-
-[Faxes from the Far Side of the Moon (2018)](https://www.damninteresting.com/faxes-from-the-far-side/)
-
-[Medieval Game Pieces Emerge from the Ruins of a German Castle](https://news.artnet.com/art-world/medieval-game-pieces-emerge-from-the-ruins-of-a-mysterious-german-castle-2497815)
-
-[Wild horses reintroduced to Kazakhstan steppes after absence of two centuries](https://www.theguardian.com/environment/article/2024/jun/10/przewalskis-horses-only-wild-species-return-central-asian-steppes-kazakhstan)
-
-[The Death of the Dining Room](https://www.theatlantic.com/ideas/archive/2024/06/dining-rooms-us-homes-apartments/678633/)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[A look at Apple's technical approach to AI including core model performance etc.](https://www.interconnects.ai/p/apple-intelligence)
+[I Found a 55 Year Old Bug in the First Lunar Lander Game](https://martincmartin.com/2024/06/14/how-i-found-a-55-year-old-bug-in-the-first-lunar-lander-game/)
 
-[Effect of Passenger Position on Crash Injury Risk in Aircraft (2015) [pdf]](https://www.tc.faa.gov/its/worldpac/techrpt/am15-17.pdf)
+[Start Presentations on the Second Slide](https://tidyfirst.substack.com/p/start-presentations-on-the-second)
 
-[Apple's new AI leaves out more than 90% of current iPhone users](https://english.elpais.com/technology/2024-06-14/apples-new-artificial-intelligence-leaves-out-more-than-90-of-current-iphone-users.html)
+[Nvidia Warp: A Python framework for high performance GPU simulation and graphics](https://github.com/NVIDIA/warp)
+
+[Map of Forest Sounds from Around the World](https://timberfestival.org.uk/soundsoftheforest-soundmap/)
+
+[POSIX.1-2024 is published](https://ieeexplore.ieee.org/document/10555529)
+
+[The Problem with OpenTelemetry](https://cra.mr/the-problem-with-otel/)
+
+[Kaprekar's Magic 6174](https://www.oranlooney.com/post/kaprekar/)
 
 [MLow: Meta's low bitrate audio codec](https://engineering.fb.com/2024/06/13/web/mlow-metas-low-bitrate-audio-codec/)
 
-[Scale is a meritocracy, and we must always remain one](https://scale.com/blog/meritocracy-at-scale)
-
-[Land value tax in online games and virtual worlds](https://progressandpoverty.substack.com/p/land-value-tax-in-online-games-and)
-
-[Sustain Open Source, sustain the planet: A new conversation](https://opensource.net/oss-for-climate-podcast/)
-
 [Mouth-based touchpad enables people living with paralysis to use computers](https://news.mit.edu/2024/mouth-based-touchpad-augmental-0605)
 
-[Fungus breaks down ocean plastic](https://www.nioz.nl/en/news/fungus-breaks-down-ocean-plastic)
-
-[From One RSS Feed Entry to 186850 Hits](https://susam.net/from-web-feed-to-186850-hits.html)
+[Driving forward in Android drivers](https://googleprojectzero.blogspot.com/2024/06/driving-forward-in-android-drivers.html)

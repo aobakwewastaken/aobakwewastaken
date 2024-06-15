@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Leveraging Zig's Allocators](https://www.openmymind.net/Leveraging-Zigs-Allocators/)
+[ESASky](https://sky.esa.int/esasky/)
 
-[Threescaper: A website for loading Townscaper models into Three.js](https://github.com/meliharvey/threescaper)
+[Book: Just Enough Software Architecture](https://www.georgefairbanks.com/book/)
 
-[Address Sanitizer Internals](https://blog.gistre.epita.fr/posts/benjamin.peter-2022-10-28-address_sanitizer_internals/)
+[Reverse Engineering a Restaurant Pager System](https://k3xec.com/td158/)
 
-[Exhaustive Survey of Rickrolling in Academic Literature [pdf]](https://arxiv.org/abs/2204.06826)
+[The state of carbon dioxide removal](https://www.stateofcdr.org)
+
+[Two announcements: AI for Math resources, and erdosproblems.com](https://terrytao.wordpress.com/2024/04/19/two-announcements-ai-for-math-resources-and-erdosproblems-com/)
+
+[Show HN: Keydogger – Minimal keyboard macro for Linux (Wayland)](https://github.com/jarusll/keydogger)
 
 [A most profound video game: a good cognitive aid for research](https://thoughtforms.life/a-most-profound-video-game-a-good-cognitive-aid-for-research-at-the-frontier-of-life-and-mind/)
 
-[DARPA Shows Concepts for the Future of VTOL Uncrewed Aerial Systems](https://www.darpa.mil/news-events/2024-05-22)
+[Leveraging Zig's Allocators](https://www.openmymind.net/Leveraging-Zigs-Allocators/)
 
-[Survival Situation: The debate over evolution and its discoverer](https://theamericanscholar.org/survival-situation/)
+[Perplexity AI is lying about their user agent](https://rknight.me/blog/perplexity-ai-is-lying-about-its-user-agent/)
 
-[Can Language Models Serve as Text-Based World Simulators?](https://arxiv.org/abs/2406.06485)
-
-[Diagnosing video signal loss on Wii and GBS-Control](https://nyanpasu64.gitlab.io/blog/wii-gbs-c-sync-loss/)
-
-[Voyager 1 is back online! NASA spacecraft returns data from all 4 instruments](https://www.space.com/voyager-1-fully-operational)
+[Threescaper: A website for loading Townscaper models into Three.js](https://github.com/meliharvey/threescaper)

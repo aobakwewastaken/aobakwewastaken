@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Information Security: "We Can Do It, We Just Choose Not To"](https://www.hezmatt.org/~mpalmer/blog/2024/06/14/information-security-we-can-do-it-right-we-choose-not-to.html)
+[Leveraging Zig's Allocators](https://www.openmymind.net/Leveraging-Zigs-Allocators/)
+
+[Threescaper: A website for loading Townscaper models into Three.js](https://github.com/meliharvey/threescaper)
+
+[Address Sanitizer Internals](https://blog.gistre.epita.fr/posts/benjamin.peter-2022-10-28-address_sanitizer_internals/)
 
 [Voyager 1 is back online! NASA spacecraft returns data from all 4 instruments](https://www.space.com/voyager-1-fully-operational)
 
-[Django SQLite Production Config](https://blog.pecar.me/sqlite-django-config)
+[What About libjpeg v9? (2013)](https://libjpeg-turbo.org/About/Jpeg-9)
 
-[Amazon has a secret way to scrape Microsoft's GitHub and feed its AI model](https://dataconomy.com/2024/06/14/amazon-has-a-secret-way-to-scrape-microsofts-github-and-feed-its-ai-model/)
+[The Four Kinds of Research-and-Development Teams](http://blogs.newardassociates.com/blog/2024/four-kinds-of-rd-teams.html)
 
 [Eden Abhez: The strangest hit songwriter](https://www.honest-broker.com/p/the-strangest-hit-songwriter-in-history)
 
-[Nvidia Warp: A Python framework for high performance GPU simulation and graphics](https://github.com/NVIDIA/warp)
-
-[Exponentially Better Rotations](http://thenumb.at/Exponential-Rotations/)
+[Syzygy: An open standard for low cost, compact and high-performance peripherals](https://syzygyfpga.io/)
 
 [True Defamation [pdf]](https://www.journaloffreespeechlaw.org/helmreich.pdf)
 
-[The sun's magnetic field is about to flip](https://www.space.com/sun-magnetic-field-flip-solar-maximum-2024)
-
-[Syzygy: An open standard for low cost, compact and high-performance peripherals](https://syzygyfpga.io/)
+[Exponentially Better Rotations (2022)](http://thenumb.at/Exponential-Rotations/)

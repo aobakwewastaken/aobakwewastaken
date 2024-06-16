@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[NLRB judge declares non-compete clause is an unfair labor practice](https://www.nlrbedge.com/p/in-first-case-of-its-kind-nlrb-judge)
+[MicroMac, a Macintosh for Under £5](https://axio.ms/projects/2024/06/16/MicroMac.html)
 
-[The Raspberry Pi 5 Is No Match for a Tini-Mini-Micro PC](https://louwrentius.com/the-raspberry-pi-5-is-no-match-for-a-tini-mini-micro-pc.html)
+[Experts vs. Imitators](https://fs.blog/experts-vs-imitators/)
 
-[Sales Happen When Buyers Fear Missing Out](https://tidyfirst.substack.com/p/sales-happen-when-buyers-fear-missing)
+[Bouba/Kiki Effect](https://en.wikipedia.org/wiki/Bouba/kiki_effect)
 
-[PaperTapeReader: A DIY reader for vintage 8-bit paper tapes](https://github.com/dhansel/PaperTapeReader)
+[Building SimCity: How to put the world in a machine](https://mitpress.mit.edu/9780262547482/building-simcity/)
 
-[Simple sabotage for software (2023)](https://erikbern.com/2023/12/13/simple-sabotage-for-software.html)
+[Show HN: SQLite Database Explorer](https://github.com/frectonz/sqlite-studio)
 
-[Show HN: We Made The World's Smallest and Cheapest Network Switch](https://docs.murexrobotics.com/elec/boards/networking/switch)
+[Quake 1 potential original font](https://cohost.org/bekoha/post/2859948-quake-1-potential-or)
 
-[The Theft of the Ghent Altarpiece](https://www.historytoday.com/archive/missing-pieces/theft-ghent-altarpiece)
+[First look at the upcoming Starlink Mini](https://www.starlinkhardware.com/first-look-at-the-upcoming-starlink-mini/)
 
-[The History of DR DOS](https://www.abortretry.fail/p/the-history-of-dr-dos)
+[Quantum entangled photons react to Earth's spin](https://phys.org/news/2024-06-quantum-entangled-photons-react-earth.html)
 
-[What You Get After Running an SSH Honeypot for 30 Days](https://blog.sofiane.cc/ssh_honeypot/)
+[Japanese Words and Names Sound African. Why? (2022)](https://www.farooqkperogi.com/2022/10/japanese-words-and-names-sound-african.html)
 
-[Htmd: A turndown.js inspired HTML-to-Markdown converter for Rust](https://github.com/letmutex/htmd)
+[Why Structure and Interpretation of Computer Programs Matters](https://people.eecs.berkeley.edu/~bh/sicp.html)

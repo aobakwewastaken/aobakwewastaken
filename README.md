@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[NLRB judge declares non-compete clause is an unfair labor practice](https://www.nlrbedge.com/p/in-first-case-of-its-kind-nlrb-judge)
+
+[PaperTapeReader: A DIY reader for vintage 8-bit paper tapes](https://github.com/dhansel/PaperTapeReader)
+
+[Simple sabotage for software (2023)](https://erikbern.com/2023/12/13/simple-sabotage-for-software.html)
+
+[Sales Happen When Buyers Fear Missing Out](https://tidyfirst.substack.com/p/sales-happen-when-buyers-fear-missing)
+
 [Show HN: We Made The World's Smallest and Cheapest Network Switch](https://docs.murexrobotics.com/elec/boards/networking/switch)
 
 [What You Get After Running an SSH Honeypot for 30 Days](https://blog.sofiane.cc/ssh_honeypot/)
 
-[Simple sabotage for software (2023)](https://erikbern.com/2023/12/13/simple-sabotage-for-software.html)
-
-[Making my first embedded Linux system](https://popovicu.com/posts/making-my-first-embedded-linux-system/)
+[The History of DR DOS](https://www.abortretry.fail/p/the-history-of-dr-dos)
 
 [Htmd: A turndown.js inspired HTML-to-Markdown converter for Rust](https://github.com/letmutex/htmd)
 
-[SimCity in the web browser using WebAssembly and OpenGL](https://micropolisweb.com/)
+[Making my first embedded Linux system](https://popovicu.com/posts/making-my-first-embedded-linux-system/)
 
-[Harvard Railroad Economics Exam (1906)](https://www.irwincollier.com/harvard-enrollment-and-final-exam-for-railroad-practice-daggett-1906-1907/)
-
-[When to Write a Simulator (2021)](https://sirupsen.com/napkin/problem-16-simulation)
-
-[Just Enough Software Architecture (2010)](https://www.georgefairbanks.com/book/)
-
-[The Architecture Behind a One-Person Tech Startup (2021)](https://anthonynsimon.com/blog/one-man-saas-architecture/)
+[Flesh-Eating Bacteria That Can Kill in Two Days Spreads in Japan](https://www.bloomberg.com/news/articles/2024-06-15/flesh-eating-bacteria-that-can-kill-in-two-days-spreads-in-japan)

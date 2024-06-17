@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[How I Made Trading Cards with E-Ink Displays](https://howtoware.co/wyldcard)
+[Trading cards with e-ink displays (2023)](https://howtoware.co/wyldcard)
+
+[Group of 17 London secondary schools join up to go smartphone-free](https://www.theguardian.com/technology/article/2024/jun/06/group-of-17-london-secondary-schools-join-up-to-go-smartphone-free)
+
+[Crossing the Impossible FFI Boundary, and My Gradual Descent into Madness](https://verdagon.dev/blog/exploring-seamless-rust-interop-part-2)
 
 [The Programmer's Brain](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/the-programmers-brain)
 
 [MicroMac, a Macintosh for under £5](https://axio.ms/projects/2024/06/16/MicroMac.html)
 
+[Show HN: Create a stunning portrait painting from one photo](https://drawbert.ai)
+
 [Being laid off and unplanned entrepreneurship](https://www.deepsouthventures.com/on-being-laid-off-unplanned-entrepreneurship/)
+
+[BYD and CATL aim to launch new EV batteries with 6C charge rate](https://www.teslarati.com/byd-catl-6c-charge-rate-electric-vehicle-battery/)
 
 [An Interview with AMD CEO Lisa Su About Solving Hard Problems](https://stratechery.com/2024/an-interview-with-amd-ceo-lisa-su-about-solving-hard-problems/)
 
-[Excerpts from Coders at Work: Joe Armstrong Interview (2013)](http://ivory.idyll.org/blog/coders-at-work-joe-armstrong.html)
-
-[Bolivia's little-known African tribal kingdom (2021)](https://www.bbc.com/travel/article/20210310-bolivias-little-known-tribal-kingdom)
-
-[Building SimCity: How to put the world in a machine](https://mitpress.mit.edu/9780262547482/building-simcity/)
-
-[Why "Structure and Interpretation of Computer Programs" matters (2011)](https://people.eecs.berkeley.edu/~bh/sicp.html)
-
-[A discussion of discussions on AI Bias](https://danluu.com/ai-bias/)
+[Pop Culture Has Become an Oligopoly (2022)](https://www.experimental-history.com/p/pop-culture-has-become-an-oligopoly)

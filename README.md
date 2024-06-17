@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[The time keepers: pg_cron and pg_timetable](https://notso.boringsql.com/posts/time-keepers-pg-cron-pg-timetable/)
+[How I Made Trading Cards with E-Ink Displays](https://howtoware.co/wyldcard)
+
+[The Programmer's Brain](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/the-programmers-brain)
 
 [MicroMac, a Macintosh for under £5](https://axio.ms/projects/2024/06/16/MicroMac.html)
 
-[How to get stuff repaired when the manufacturer don't wanna: take 'em to court](https://blog.simonrumble.com/how-to-get-your-stuff-repaired-when-the-retailer-and-manufacturer-dont-wanna-take-em-to-court)
-
-[Backdoor in D-Link routers enables telnet access](https://supportannouncement.us.dlink.com/security/publication.aspx?name=SAP10398)
-
-[OpenBSD, the computer appliance maker's secret weapon](https://hiandrewquinn.github.io/til-site/posts/openbsd-the-computer-appliance-maker-s-secret-weapon/)
-
-[Static arrays are the best vectors](https://mynameistrez.github.io/2024/04/09/static-arrays-are-the-best-vectors.html)
-
-[Nsss: A secure NSS-like implementation for static linking](https://skarnet.org/software/nsss/)
-
-[Building SimCity: How to put the world in a machine](https://mitpress.mit.edu/9780262547482/building-simcity/)
+[Being laid off and unplanned entrepreneurship](https://www.deepsouthventures.com/on-being-laid-off-unplanned-entrepreneurship/)
 
 [An Interview with AMD CEO Lisa Su About Solving Hard Problems](https://stratechery.com/2024/an-interview-with-amd-ceo-lisa-su-about-solving-hard-problems/)
 
+[Excerpts from Coders at Work: Joe Armstrong Interview (2013)](http://ivory.idyll.org/blog/coders-at-work-joe-armstrong.html)
+
+[Bolivia's little-known African tribal kingdom (2021)](https://www.bbc.com/travel/article/20210310-bolivias-little-known-tribal-kingdom)
+
+[Building SimCity: How to put the world in a machine](https://mitpress.mit.edu/9780262547482/building-simcity/)
+
 [Why "Structure and Interpretation of Computer Programs" matters (2011)](https://people.eecs.berkeley.edu/~bh/sicp.html)
+
+[A discussion of discussions on AI Bias](https://danluu.com/ai-bias/)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Visualizing Data on a Mesh with Displacement Mapping in R](https://www.tylermw.com/posts/rayverse/displacement-mapping.html)
+[Show HN: Billard – Generate music from ball collisions in 2D space](https://billard.medusis.com/)
 
-[Framework: A new RISC-V Mainboard from DeepComputing](https://frame.work/blog/introducing-a-new-risc-v-mainboard-from-deepcomputing)
+[Versioning FreeCAD Files with Git](https://blog.lambda.cx/posts/freecad-and-git/)
 
-[TikTag: bypassing ARM CPU MemTag via speculative execution attack](https://arxiv.org/abs/2406.08719)
+[3D Gaussian Splatting as Markov Chain Monte Carlo](https://ubc-vision.github.io/3dgs-mcmc/)
 
-[A New Look: Solar Plant Prospection with Automated Viewshed Analysis](https://www.go-inicio.com/blog/a-new-look-revolutionizing-solar-plant-prospection-with-automated-viewshed-analysis)
+[Amazon fined $5.9M for breaking labor law in California](https://www.washingtonpost.com/technology/2024/06/18/amazon-fine-labor-law-california/)
 
-[YaFSDP from Yandex, 20% faster for pre-training LLMs](https://github.com/yandex/YaFSDP)
+[Enhancing Code Completion for Rust in Cody](https://sourcegraph.com/blog/enhancing-code-completion-for-rust-in-cody)
 
-[Cyber Scarecrow, making your computer look 'scary' to malware](https://www.cyberscarecrow.com/)
+[Sharing new research, models, and datasets from Meta FAIR](https://ai.meta.com/blog/meta-fair-research-new-releases/)
 
-[FTC sues Adobe for hiding fees and inhibiting cancellations](https://www.ftc.gov/news-events/news/press-releases/2024/06/ftc-takes-action-against-adobe-executives-hiding-fees-preventing-consumers-easily-cancelling)
+[Cyber Scarecrow](https://www.cyberscarecrow.com/)
 
-[Understanding the Misunderstood Kessler Syndrome](https://aerospaceamerica.aiaa.org/features/understanding-the-misunderstood-kessler-syndrome/)
+[Hadrius (YC W23) is hiring engineers looking to grow into future founders](https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer)
 
-[Software Friction](https://www.hillelwayne.com/post/software-friction/)
+[Nature retracts paper that claimed adult stem cell could become any type of cell](https://retractionwatch.com/2024/06/18/nature-retracts-highly-cited-2002-paper-that-claimed-adult-stem-cells-could-become-any-type-of-cell/)
 
-[Spur – RISC IV: The Lisp Multiprocessor Workstation](https://thechipletter.substack.com/p/spur-risc-iv-the-lisp-multiprocessor)
+[Sculpting the moon in R: Subdivision surfaces and displacement mapping](https://www.tylermw.com/posts/rayverse/displacement-mapping.html)

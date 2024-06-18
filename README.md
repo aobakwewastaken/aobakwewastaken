@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Chat Control: Incompatible with Fundamental Rights](https://freiheitsrechte.org/en/themen/digitale-grundrechte/chatkontrolle)
-
-[Chat Control Must Be Stopped – Now](https://threema.ch/en/blog/posts/stop-chat-control)
-
-[Cyber Scarecrow, making your computer look 'scary' to malware](https://www.cyberscarecrow.com/)
-
-[TikTag: bypassing ARM CPU MemTag via speculative execution attack](https://arxiv.org/abs/2406.08719)
-
-[FTC sues Adobe for hiding fees and inhibiting cancellations](https://www.ftc.gov/news-events/news/press-releases/2024/06/ftc-takes-action-against-adobe-executives-hiding-fees-preventing-consumers-easily-cancelling)
+[Visualizing Data on a Mesh with Displacement Mapping in R](https://www.tylermw.com/posts/rayverse/displacement-mapping.html)
 
 [Understanding the Misunderstood Kessler Syndrome](https://aerospaceamerica.aiaa.org/features/understanding-the-misunderstood-kessler-syndrome/)
 
-[How to Use Secure Sockets in C on Linux](https://netprivacypro.com/how-to-use-secure-sockets-in-c-on-linux/)
+[TikTag: bypassing ARM CPU MemTag via speculative execution attack](https://arxiv.org/abs/2406.08719)
 
-[An Introduction to CSS-Doodle](https://yuanchuan.github.io/intro-to-css-doodle/)
+[A New Look: Solar Plant Prospection with Automated Viewshed Analysis](https://www.go-inicio.com/blog/a-new-look-revolutionizing-solar-plant-prospection-with-automated-viewshed-analysis)
 
-[A Hollywood star lobbies the EU for more surveillance](https://netzpolitik.org/2022/dude-wheres-my-privacy-how-a-hollywood-star-lobbies-the-eu-for-more-surveillance/)
+[Longer and Longer Freight Trains Drive Up the Odds of Derailment](https://www.scientificamerican.com/article/longer-freight-trains-are-more-likely-to-derail/)
 
-[Understanding SPF, DKIM, and DMARC: A Simple Guide](https://github.com/nicanorflavier/spf-dkim-dmarc-simplified)
+[Framework: A new RISC-V Mainboard from DeepComputing](https://frame.work/blog/introducing-a-new-risc-v-mainboard-from-deepcomputing)
+
+[Tiny beauty: how I make scientific art from behind the microscope](https://www.nature.com/immersive/d41586-024-02011-6/index.html)
+
+[FTC sues Adobe for hiding fees and inhibiting cancellations](https://www.ftc.gov/news-events/news/press-releases/2024/06/ftc-takes-action-against-adobe-executives-hiding-fees-preventing-consumers-easily-cancelling)
+
+[Making a Bignum Library for Fun](https://austinhenley.com/blog/bignum1.html)
+
+[Cyber Scarecrow, making your computer look 'scary' to malware](https://www.cyberscarecrow.com/)

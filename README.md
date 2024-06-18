@@ -5,16 +5,16 @@
 
 [Cyber Scarecrow, making your computer look 'scary' to malware](https://www.cyberscarecrow.com/)
 
+[TikTag: bypassing ARM CPU MemTag via speculative execution attack](https://arxiv.org/abs/2406.08719)
+
 [FTC sues Adobe for hiding fees and inhibiting cancellations](https://www.ftc.gov/news-events/news/press-releases/2024/06/ftc-takes-action-against-adobe-executives-hiding-fees-preventing-consumers-easily-cancelling)
+
+[Understanding the Misunderstood Kessler Syndrome](https://aerospaceamerica.aiaa.org/features/understanding-the-misunderstood-kessler-syndrome/)
+
+[How to Use Secure Sockets in C on Linux](https://netprivacypro.com/how-to-use-secure-sockets-in-c-on-linux/)
 
 [An Introduction to CSS-Doodle](https://yuanchuan.github.io/intro-to-css-doodle/)
 
-[Getting 50% (SoTA) on Arc-AGI with GPT-4o](https://redwoodresearch.substack.com/p/getting-50-sota-on-arc-agi-with-gpt)
+[A Hollywood star lobbies the EU for more surveillance](https://netzpolitik.org/2022/dude-wheres-my-privacy-how-a-hollywood-star-lobbies-the-eu-for-more-surveillance/)
 
 [Understanding SPF, DKIM, and DMARC: A Simple Guide](https://github.com/nicanorflavier/spf-dkim-dmarc-simplified)
-
-[NumPy-style broadcasting in Futhark](https://futhark-lang.org/blog/2024-06-17-automap.html)
-
-[Optical PCIe 7.0 connection hits 128 GT/s](https://www.tomshardware.com/tech-industry/optical-pcie-70-connection-hits-a-blazing-128-gts)
-
-[What happens to latency if service time is cut in half](https://pveentjer.github.io/misc/2022/04/18/service-time-cut-in-half.html)

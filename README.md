@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[KidPix](https://kidpix.app)
+
+[Fern Hollow Bridge should have been closed years before it collapsed](https://practical.engineering/blog/2024/6/18/this-bridge-should-have-been-closed-years-before-it-collapsed)
+
+[Open Source Python ETL](https://amphi.ai/)
+
+[Off-path TCP hijacking in NAT-enabled Wi-Fi networks](https://blog.apnic.net/2024/06/18/off-path-tcp-hijacking-in-nat-enabled-wi-fi-networks/)
+
 [Show HN: Billard – Generate music from ball collisions in 2D space](https://billard.medusis.com/)
 
-[Versioning FreeCAD Files with Git](https://blog.lambda.cx/posts/freecad-and-git/)
+[Ask HN: Who has had a successful PWA product?]()
 
-[3D Gaussian Splatting as Markov Chain Monte Carlo](https://ubc-vision.github.io/3dgs-mcmc/)
+[I'm the hacker that brought down North Korea's Internet for over a week. AMA](https://old.reddit.com/r/IAmA/comments/1divlp3/im_the_hacker_that_brought_down_north_koreas/)
 
-[Amazon fined $5.9M for breaking labor law in California](https://www.washingtonpost.com/technology/2024/06/18/amazon-fine-labor-law-california/)
+[IPC in Rust – A Ping Pong Comparison](https://3tilley.github.io/posts/simple-ipc-ping-pong/)
 
-[Enhancing Code Completion for Rust in Cody](https://sourcegraph.com/blog/enhancing-code-completion-for-rust-in-cody)
+[The enduring mystery of how water freezes](https://www.quantamagazine.org/the-enduring-mystery-of-how-water-freezes-20240617/)
 
-[Sharing new research, models, and datasets from Meta FAIR](https://ai.meta.com/blog/meta-fair-research-new-releases/)
-
-[Cyber Scarecrow](https://www.cyberscarecrow.com/)
-
-[Hadrius (YC W23) is hiring engineers looking to grow into future founders](https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer)
-
-[Nature retracts paper that claimed adult stem cell could become any type of cell](https://retractionwatch.com/2024/06/18/nature-retracts-highly-cited-2002-paper-that-claimed-adult-stem-cells-could-become-any-type-of-cell/)
-
-[Sculpting the moon in R: Subdivision surfaces and displacement mapping](https://www.tylermw.com/posts/rayverse/displacement-mapping.html)
+[Large language model data pipelines and Common Crawl](https://blog.christianperone.com/2023/06/appreciating-llms-data-pipelines/)

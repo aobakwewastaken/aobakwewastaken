@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Arvind, longtime MIT professor and prolific computer scientist, dies at 77](https://news.mit.edu/2024/computer-science-professor-arvind-dies-0618)
+[1/25-scale Cray C90 wristwatch](http://www.chrisfenton.com/1-25-scale-cray-c90-wristwatch/)
 
-[Recovering an Agilent 2000A/3000A Oscilloscope with Corrupt Firmware NAND Flash](https://salvagedcircuitry.com/2000a-nand-recovery.html)
+[The the the the induction of jamais vu: word alienation and semantic satiation](https://www.tandfonline.com/doi/full/10.1080/09658211.2020.1727519)
 
-[Astronomers see a black hole awaken in real time](https://www.eso.org/public/germany/news/eso2409/)
+[EasyOS: An Experimental Linux Distribution](https://easyos.org/)
 
-[There's more to mathematics than rigour and proofs (2007)](https://terrytao.wordpress.com/career-advice/theres-more-to-mathematics-than-rigour-and-proofs/)
+[X debut 40 years ago (1984)](https://www.talisman.org/x-debut.shtml)
 
-[Unraveling the Physics of Knitting](https://research.gatech.edu/unraveling-physics-knitting)
+[Safe Superintelligence Inc.](https://ssi.inc)
 
-[KidPix](https://kidpix.app)
+[The demise of the mildly dynamic website (2022)](https://www.devever.net/~hl/mildlydynamic)
 
-[Mrs Perkins's Quilt (2017)](http://www.squaring.net/quilts/mrs-perkins-quilts.html)
+[What happens to our breath when we type, tap, scroll](https://www.npr.org/2024/06/10/1247296780/screen-apnea-why-screens-cause-shallow-breathing)
 
-[Ask HN: What does RISC-V custom chips for under $100K mean?]()
+[Zep AI (YC W24) is hiring back end engineers to build LLM long-term memory](https://www.ycombinator.com/companies/zep-ai/jobs/J5TD9KW-backend-engineer)
 
-[ExectOS – brand new operating system which derives from NT architecture](https://exectos.eu.org/)
+[Brain circuit scores identify clinically distinct biotypes in depression/anxiety](https://www.nature.com/articles/s41591-024-03057-9)
 
-[Monitoring marine litter from space is now a reality](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Monitoring_marine_litter_from_space_is_now_a_reality)
+[The growing pains of science](https://www.theguardian.com/science/political-science/2016/jun/08/how-should-we-treat-sciences-growing-pains)

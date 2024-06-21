@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Ladybird browser spreads its wings](https://lwn.net/Articles/976822/)
+[From Infocom to 80 Days: An oral history of text games and interactive fiction](https://arstechnica.com/gaming/2024/06/from-infocom-to-80-days-an-oral-history-of-text-games-and-interactive-fiction/)
+
+[How does a computer/calculator compute logarithms?](https://zachartrand.github.io/SoME-3-Living/)
+
+[Why Innovation Heroes Are a Sign of a Dysfunctional Organization](https://steveblank.substack.com/p/why-innovation-heroes-are-a-sign)
+
+[Allan McDonald Refused To Approve Challenger Launch, Exposed Cover-Up (2021)](https://www.npr.org/2021/03/07/974534021/remembering-allan-mcdonald-he-refused-to-approve-challenger-launch-exposed-cover)
+
+[Electromechanical Lunar Lander](http://www.chrisfenton.com/electromechanical-lunar-lander/)
 
 [MeshAnything – converts 3D representations into efficient 3D meshes](https://buaacyw.github.io/mesh-anything/)
 
-[The Engineer Who Refused to Approve the Challenger Launch](https://www.npr.org/2021/03/07/974534021/remembering-allan-mcdonald-he-refused-to-approve-challenger-launch-exposed-cover)
+[Show HN: I made a puzzle game that gently introduces my favorite math mysteries](https://www.rahulilango.com/coloring/)
 
-[Show HN: A collection of front end Learning Resources](https://github.com/requestly/awesome-frontend-resources)
-
-[Bessemer Venture Partners' Anti-Portfolio](https://www.bvp.com/anti-portfolio)
+[Code Models](https://openjdk.org/projects/babylon/articles/code-models)
 
 [Athelas (YC S16) Is Hiring a Senior Full-Stack Software Engineer](https://www.athelas.com/careers?ashby_jid=55c6a105-80be-40b1-8644-cd44f48f1d08)
 
-[Show HN: I made a puzzle game that gently introduces my favorite math mysteries](https://www.rahulilango.com/coloring/)
-
-[The Pre-Scheme Restoration project is now underway](https://prescheme.org/posts/announcing-the-pre-scheme-restoration.html)
-
-[Pornhub prepares to block five more states rather than check IDs](https://arstechnica.com/tech-policy/2024/06/adult-sites-blocking-more-states-this-summer-to-protest-age-verification-laws/)
-
-[Chasing a Bug in a SAT Solver](https://ochagavia.nl/blog/chasing-a-bug-in-a-sat-solver/)
+[Advanced Text Features and PDF](https://nibblestew.blogspot.com/2024/06/advanced-text-features-and-pdf.html)

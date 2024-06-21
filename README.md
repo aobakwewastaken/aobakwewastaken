@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[MeshAnything – converts 3D representations into efficient 3D meshes](https://buaacyw.github.io/mesh-anything/)
+
 [Show HN: I made a puzzle game that gently introduces my favorite math mysteries](https://www.rahulilango.com/coloring/)
 
-[Fuzz Map](https://www.fuzzmap.io/)
+[Bomb Jack display hardware](https://github.com/martinpiper/BombJack/blob/master/README.md)
+
+[How babies and young children learn to understand language](https://lithub.com/how-babies-and-young-children-learn-to-understand-language/)
+
+[The Vulture and the Little Girl](https://en.wikipedia.org/wiki/The_Vulture_and_the_Little_Girl)
 
 [Tetris Font](https://erikdemaine.org/fonts/tetris/)
 
-[Atkinson Dithering (2021)](https://beyondloom.com/blog/dither.html)
+[How to Live with Dying (2020)](https://theamericanscholar.org/how-to-live-with-dying/)
 
-[Gilead shot prevents all HIV cases in trial](https://www.bloomberg.com/news/articles/2024-06-20/gilead-shot-prevents-100-of-hiv-cases-in-trial-of-african-women)
+[Fuzz Map](https://www.fuzzmap.io/)
 
-[More Disabled Americans Are Employed, Thanks to Remote Work](https://www.bloomberg.com/news/articles/2024-06-20/remote-work-helps-more-people-with-disabilities-get-employed)
+[Stellarium Web Online Star Map](https://stellarium-web.org/)
 
-[Wc2: Investigates optimizing 'wc', the Unix word count program](https://github.com/robertdavidgraham/wc2)
-
-[Promoted.ai (YC W21) Is Hiring a Sales Engineer](https://www.ycombinator.com/companies/promoted/jobs/5moymju-sales-engineer-new-grad)
-
-[Small claims court became Meta's customer service hotline](https://www.engadget.com/how-small-claims-court-became-metas-customer-service-hotline-160224479.html)
-
-[Free software hijacked Philip Hazel's life](https://lwn.net/SubscriberLink/978463/608c876c1153fd31/)
+[We no longer use LangChain for building our AI agents](https://www.octomind.dev/blog/why-we-no-longer-use-langchain-for-building-our-ai-agents)

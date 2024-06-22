@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[HH70, the first high-temperature superconducting Tokamak achieves first plasma](https://www.energysingularity.cn/en/hh70-the-worlds-first-high-temperature-superconducting-tokamak-achieves-first-plasma/)
+
+[Show HN: Simple script to cripple personalized targeting from Facebook](https://gist.github.com/HyperCrowd/edc9b461ec23cf2454ea4d1e910fd1c6)
+
 [After my dad died, I ran and sold his company (2018)](https://anandsanwal.me/2018/06/19/dad-company-sale/)
 
+[The biggest CRT ever made: Sony's PVM-4300 – The Silicon Underground](https://dfarq.homeip.net/the-biggest-crt-ever-made-sonys-pvm-4300/)
+
+[Testing AMD's Bergamo: Zen 4c](https://chipsandcheese.com/2024/06/22/testing-amds-bergamo-zen-4c-spam/)
+
+[Waymo the Leapfrog](https://loeber.substack.com/p/20-waymo-the-leapfrog)
+
+[Solar generates fifth of global electricity on summer solstice midday peak](https://ember-climate.org/insights/in-brief/the-global-solar-revolution/)
+
+[Charge Robotics (YC S21) is hiring SWEs to build solar construction robots](https://www.workatastartup.com/jobs/51266)
+
+[Babylon's Mystery Goddess](https://www.historytoday.com/archive/great-debates/babylons-mystery-goddess)
+
 [HybridNeRF: Efficient Neural Rendering](https://haithemturki.com/hybrid-nerf/)
-
-[Own Constant Folder in C/C++](https://www.neilhenning.dev/posts/yourownconstantfolder/)
-
-[Training AI](https://lmnt.me/blog/training-ai.html)
-
-[Reconstructing Public Keys from Signatures](https://keymaterial.net/2024/06/15/reconstructing-public-keys-from-signatures/)
-
-[Show HN: Envelope – A modern environment variable cli tool](https://github.com/mattrighetti/envelope)
-
-[Eight million pixels and counting: improving texture atlas allocation in Firefox (2021)](https://nical.github.io/posts/etagere.html)
-
-[Technical Marvels, Part 3: The Yupana](https://cacm.acm.org/blogcacm/technical-marvels-part-3-the-yupana/)
-
-[Farm: Fast vite compatible build tool written in Rust](https://www.farmfe.org/)
-
-[Atari 520ST Review in Creative Computing – By Paul Lefebvre](https://www.goto10retro.com/p/atari-520st-review-in-creative-computing)

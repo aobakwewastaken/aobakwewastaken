@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Show HN: I am using AI to drop hats outside my window onto New Yorkers](https://dropofahat.zone/)
+[The tiny chip that powers Montreal subway tickets](http://www.righto.com/2024/06/montreal-mifare-ultralight-nfc.html)
+
+[I am using AI to drop hats outside my window onto New Yorkers](https://dropofahat.zone/)
+
+[The Crazy Economics of the Most Coveted Handbag](https://www.wsj.com/style/fashion/hermes-birkin-bag-investment-031c215c)
+
+[LINQPad – The .NET Programmer's Playground](https://www.linqpad.net/)
+
+[Detecting hallucinations in large language models using semantic entropy](https://www.nature.com/articles/s41586-024-07421-0)
+
+[Y combinator codex](https://phoe.github.io/codex.html)
 
 [Llama.ttf: A font which is also an LLM](https://fuglede.github.io/llama.ttf/)
 
-[Asynchronous Consensus Without Trusted Setup or Public-Key Cryptography](https://eprint.iacr.org/2024/677)
+[Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 
-[Picolisp a Railroad Simulation](https://picolisp-explored.com/a-railroad-simulation-with-des)
+[82 Copies of Shakespeare's First Folio on Display at Folger Shakespeare Library](https://www.npr.org/2024/06/19/nx-s1-4950096/folger-shakespeare-library-renovation)
 
-[Of Psion and Symbian](https://www.abortretry.fail/p/of-psion-and-symbian)
-
-[Napoleon: An Extraordinary Rendition (2010)](https://www.historytoday.com/archive/feature/napoleon-extraordinary-rendition)
-
-[Tonight with the Impressionists](https://mssv.net/2024/06/18/tonight-with-the-impressionists/)
-
-[Traffic engineers build roads inviting crashes on outdated research, faulty data](https://theconversation.com/traffic-engineers-build-roads-that-invite-crashes-because-they-rely-on-outdated-research-and-faulty-data-223710)
-
-[I found an 8 years old bug in Xorg](https://trace.yshui.dev/2024-06-xorg-bug.html)
-
-[I've Stopped Using Box Plots. Should You? (2021)](https://nightingaledvs.com/ive-stopped-using-box-plots-should-you/)
+[Singapore doubles down on lab-grown meat as Silicon Valley backs off](https://restofworld.org/2024/lab-grown-meat-singapore/)

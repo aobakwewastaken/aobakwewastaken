@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Asynchronous Consensus Without Trusted Setup or Public-Key Cryptography](https://eprint.iacr.org/2024/677)
+[Show HN: I am using AI to drop hats outside my window onto New Yorkers](https://dropofahat.zone/)
 
 [Llama.ttf: A font which is also an LLM](https://fuglede.github.io/llama.ttf/)
 
-[Show HN: I am using AI to drop hats outside my window onto New Yorkers](https://dropofahat.zone/)
+[Asynchronous Consensus Without Trusted Setup or Public-Key Cryptography](https://eprint.iacr.org/2024/677)
 
-[Traffic engineers build roads inviting crashes on outdated research, faulty data](https://theconversation.com/traffic-engineers-build-roads-that-invite-crashes-because-they-rely-on-outdated-research-and-faulty-data-223710)
+[Picolisp a Railroad Simulation](https://picolisp-explored.com/a-railroad-simulation-with-des)
 
 [Of Psion and Symbian](https://www.abortretry.fail/p/of-psion-and-symbian)
 
-[Tonight with the Impressionists](https://mssv.net/2024/06/18/tonight-with-the-impressionists/)
-
 [Napoleon: An Extraordinary Rendition (2010)](https://www.historytoday.com/archive/feature/napoleon-extraordinary-rendition)
 
-[CHART: The Hackable Amateur Radio Telescope](https://astrochart.github.io/main_page)
+[Tonight with the Impressionists](https://mssv.net/2024/06/18/tonight-with-the-impressionists/)
 
-[Fresh water on Earth emerged 500M years earlier than previously thought](https://www.curtin.edu.au/news/media-release/fresh-findings-earliest-evidence-of-life-bringing-fresh-water-on-earth/)
+[Traffic engineers build roads inviting crashes on outdated research, faulty data](https://theconversation.com/traffic-engineers-build-roads-that-invite-crashes-because-they-rely-on-outdated-research-and-faulty-data-223710)
+
+[I found an 8 years old bug in Xorg](https://trace.yshui.dev/2024-06-xorg-bug.html)
 
 [I've Stopped Using Box Plots. Should You? (2021)](https://nightingaledvs.com/ive-stopped-using-box-plots-should-you/)

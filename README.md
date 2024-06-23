@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Why your brain is 3 milion more times efficient than GPT-4](https://grski.pl/vdb)
+
+[I've Stopped Using Box Plots. Should You?](https://nightingaledvs.com/ive-stopped-using-box-plots-should-you/)
+
+[Never* Use Datagrams](https://quic.video/blog/never-use-datagrams/)
+
+[Richard Stallman, su, and the 'wheel' group (2004)](https://www.meisterplanet.com/journal/2004/05/09/richard-stallman-su-and-the-wheel-group/)
+
 [TinyLetter Shut Down by Mailchimp, So I Built the LetterDrop](https://github.com/i365dev/LetterDrop)
 
-[Ruby: A great language for shell scripts](https://lucasoshiro.github.io/posts-en/2024-06-17-ruby-shellscript/)
+[DOS game "F15 SE II" reversing: more stories and now on GitHub](https://github.com/neuviemeporte/f15se2-re)
 
 [SSH as a Sudo Replacement](https://whynothugo.nl/journal/2024/06/13/ssh-as-a-sudo-replacement/)
+
+[Explained: The secret City of London which is not part of London](https://www.thevintagenews.com/2016/08/02/explained-the-secret-city-of-london-which-is-not-part-of-london/)
 
 [The biggest CRT ever made: Sony's PVM-4300](https://dfarq.homeip.net/the-biggest-crt-ever-made-sonys-pvm-4300/)
 
 [Shape Rotation 101: An Intro to Einsum and Jax Transformers](https://sankalp.bearblog.dev/einsum-new/)
-
-[ECMA-17: Graphical representation of control characters (1968) [pdf]](https://ecma-international.org/wp-content/uploads/ECMA-17_1st_edition_november_1968.pdf)
-
-[The Pre-Scheme Restoration](https://prescheme.org/posts/announcing-the-pre-scheme-restoration.html)
-
-[Flambda2 Ep. 2: Loopifying Tail-Recursive Functions](https://ocamlpro.com/blog/2024_05_07_the_flambda2_snippets_2/)
-
-[Native American Indian Star Charts](https://www.californiaindianeducation.org/science_lab/indian_stars.html)
-
-[Testing AMD's Bergamo: Zen 4c](https://chipsandcheese.com/2024/06/22/testing-amds-bergamo-zen-4c-spam/)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Apple's Silicon Fab Next to Homes](https://www.ashleygjovik.com/3250scott.html)
+
 [The tiny chip that powers Montreal subway tickets](http://www.righto.com/2024/06/montreal-mifare-ultralight-nfc.html)
+
+[Formal methods: Just good engineering practice?](https://brooker.co.za/blog/2024/04/17/formal.html)
 
 [I am using AI to drop hats outside my window onto New Yorkers](https://dropofahat.zone/)
 
-[The Crazy Economics of the Most Coveted Handbag](https://www.wsj.com/style/fashion/hermes-birkin-bag-investment-031c215c)
+[You can now write React in Lua](https://github.com/jsdotlua/react-lua)
+
+[Cosmopolitan v3.5.0](https://github.com/jart/cosmopolitan/releases/tag/3.5.0)
 
 [LINQPad – The .NET Programmer's Playground](https://www.linqpad.net/)
 
-[Detecting hallucinations in large language models using semantic entropy](https://www.nature.com/articles/s41586-024-07421-0)
-
-[Y combinator codex](https://phoe.github.io/codex.html)
-
 [Llama.ttf: A font which is also an LLM](https://fuglede.github.io/llama.ttf/)
 
-[Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
+[Benjamin Thorpe: The Man Who Translated Almost All Old English Texts](https://thijsporck.com/2016/04/08/benjamin-thorpe-the-man-who-translated-almost-all-old-english-texts/)
 
-[82 Copies of Shakespeare's First Folio on Display at Folger Shakespeare Library](https://www.npr.org/2024/06/19/nx-s1-4950096/folger-shakespeare-library-renovation)
-
-[Singapore doubles down on lab-grown meat as Silicon Valley backs off](https://restofworld.org/2024/lab-grown-meat-singapore/)
+[Y combinator codex (2021)](https://phoe.github.io/codex.html)

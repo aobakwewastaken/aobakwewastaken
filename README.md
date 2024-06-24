@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Apple's Silicon Fab Next to Homes](https://www.ashleygjovik.com/3250scott.html)
+[US prosecutors recommend Justice Department criminally charge Boeing](https://www.voanews.com/a/us-prosecutors-recommend-justice-department-criminally-charge-boeing-as-deadline-looms/7667194.html)
 
 [The tiny chip that powers Montreal subway tickets](http://www.righto.com/2024/06/montreal-mifare-ultralight-nfc.html)
 
-[Formal methods: Just good engineering practice?](https://brooker.co.za/blog/2024/04/17/formal.html)
+[Cosmopolitan v3.5.0](https://github.com/jart/cosmopolitan/releases/tag/3.5.0)
 
-[I am using AI to drop hats outside my window onto New Yorkers](https://dropofahat.zone/)
+[CentOS Linux 7 will reach EOL on Sunday](https://www.redhat.com/en/topics/linux/centos-linux-eol)
 
 [You can now write React in Lua](https://github.com/jsdotlua/react-lua)
 
-[Cosmopolitan v3.5.0](https://github.com/jart/cosmopolitan/releases/tag/3.5.0)
+[I am using AI to drop hats outside my window onto New Yorkers](https://dropofahat.zone/)
+
+[Apple found in breach of EU competition rules](https://www.theguardian.com/technology/article/2024/jun/24/apple-breach-eu-competition-rules-digital-markets-act)
+
+[Commission opens additional DMA investigation against Apple](https://ec.europa.eu/commission/presscorner/detail/en/ip_24_3433)
 
 [LINQPad – The .NET Programmer's Playground](https://www.linqpad.net/)
 
-[Llama.ttf: A font which is also an LLM](https://fuglede.github.io/llama.ttf/)
-
-[Benjamin Thorpe: The Man Who Translated Almost All Old English Texts](https://thijsporck.com/2016/04/08/benjamin-thorpe-the-man-who-translated-almost-all-old-english-texts/)
-
-[Y combinator codex (2021)](https://phoe.github.io/codex.html)
+[Gren 0.4: New Foundations](https://gren-lang.org/news/240624_gren_04/)

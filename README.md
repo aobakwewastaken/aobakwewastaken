@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Car dealerships revert to pens and paper after cyberattacks on software provider](https://apnews.com/article/car-dealerships-cyberattack-cdk-outage-3f7c81f6be0e212172b33cdc9f49feba)
+[Ask HN: Those of you who've left the SWE world, what did you transition into?]()
 
-[Counterscale and the New Self-Hosted](https://benv.ca/blog/posts/counterscale-and-the-new-self-hosted)
+[More Memory Safety for Let's Encrypt: Deploying ntpd-rs](https://letsencrypt.org/2024/06/24/ntpd-rs-deployment.html)
 
-[The tiny chip that powers Montreal subway tickets](http://www.righto.com/2024/06/montreal-mifare-ultralight-nfc.html)
+[Weighing Up Galileo's Evidence](https://www.historytoday.com/archive/great-debates/weighing-galileos-evidence)
 
-[Cosmopolitan v3.5.0](https://github.com/jart/cosmopolitan/releases/tag/3.5.0)
+[Komorebi: Tiling Window Management for Windows](https://github.com/LGUG2Z/komorebi)
 
-[Microfeatures I love in blogs and personal websites](https://danilafe.com/blog/blog_microfeatures/)
+[Windows 11 is now enabling OneDrive folder backup without asking permission](https://www.neowin.net/news/windows-11-is-now-automatically-enabling-onedrive-folder-backup-without-asking-permission/)
 
-[I am using AI to drop hats outside my window onto New Yorkers](https://dropofahat.zone/)
+[Porting Python to a $3 smartwatch [video]](https://www.youtube.com/watch?v=sv58aPvIonw)
 
-[Benjamin Thorpe translated almost all Old English texts (2016)](https://thijsporck.com/2016/04/08/benjamin-thorpe-the-man-who-translated-almost-all-old-english-texts/)
+[Carmakers File Challenge to Parts of New Automatic-Braking Rule](https://www.wsj.com/business/autos/carmakers-file-challenge-to-parts-of-new-automatic-braking-rule-ebb653e9)
 
-[React Lua](https://github.com/jsdotlua/react-lua)
+[Finley (YC W21) is hiring our first Sales Ops team member (SF, NY, Remote)](https://jobs.lever.co/FinleyTechnologies/ef9b46ab-6c97-4401-b7d1-8535c262f246)
 
-[UpCodes (YC S17) is hiring remote engineers across the Americas](https://up.codes/careers?utm_source=HN)
+[The case for not sanitising fairy tales](https://www.plough.com/en/topics/culture/literature/the-case-for-not-sanitizing-fairy-tales)
 
-[LINQPad – The .NET Programmer's Playground](https://www.linqpad.net/)
+[Uber Is Locking Out NYC Drivers Mid-Shift to Lower Minimum Pay](https://www.bloomberg.com/news/articles/2024-06-24/uber-is-locking-out-new-york-city-drivers-mid-shift-to-lower-minimum-pay)

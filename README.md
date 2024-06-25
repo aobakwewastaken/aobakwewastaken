@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Ask HN: Those of you who've left the SWE world, what did you transition into?]()
+[SIMD-accelerated computer vision on a $2 microcontroller](https://shraiwi.github.io/read.html?md=blog/simd-fast-esp32s3.md)
+
+[Julian Assange has reached a plea deal with the U.S., allowing him to go free](https://www.nbcnews.com/politics/justice-department/julian-assange-reached-plea-deal-us-allowing-go-free-rcna158695)
+
+[Twonkie: A USB-PD sniffer/injector/sink based on Google's Twinkie open hardware](https://github.com/dojoe/Twonkie)
+
+[Wave activity on Titan strong enough to erode the coastlines of lakes and seas](https://phys.org/news/2024-06-titan-strong-erode-coastlines-lakes.html)
 
 [More Memory Safety for Let's Encrypt: Deploying ntpd-rs](https://letsencrypt.org/2024/06/24/ntpd-rs-deployment.html)
 
-[Weighing Up Galileo's Evidence](https://www.historytoday.com/archive/great-debates/weighing-galileos-evidence)
+[Round Rects Are Everywhere](https://www.folklore.org/Round_Rects_Are_Everywhere.html)
 
-[Komorebi: Tiling Window Management for Windows](https://github.com/LGUG2Z/komorebi)
+[Researchers invent 100% biodegradable 'barley plastic'](https://phys.org/news/2024-06-biodegradable-barley-plastic.html)
 
-[Windows 11 is now enabling OneDrive folder backup without asking permission](https://www.neowin.net/news/windows-11-is-now-automatically-enabling-onedrive-folder-backup-without-asking-permission/)
+[What scripting languages come out of the box on Debian 12?](https://hiandrewquinn.github.io/til-site/posts/what-programming-languages-come-out-of-the-box-on-debian-12/)
 
-[Porting Python to a $3 smartwatch [video]](https://www.youtube.com/watch?v=sv58aPvIonw)
+[The Sun Ra Arkestra's Maestro Hits One Hundred](https://www.newyorker.com/magazine/2024/07/01/the-sun-ra-arkestras-maestro-hits-one-hundred)
 
-[Carmakers File Challenge to Parts of New Automatic-Braking Rule](https://www.wsj.com/business/autos/carmakers-file-challenge-to-parts-of-new-automatic-braking-rule-ebb653e9)
-
-[Finley (YC W21) is hiring our first Sales Ops team member (SF, NY, Remote)](https://jobs.lever.co/FinleyTechnologies/ef9b46ab-6c97-4401-b7d1-8535c262f246)
-
-[The case for not sanitising fairy tales](https://www.plough.com/en/topics/culture/literature/the-case-for-not-sanitizing-fairy-tales)
-
-[Uber Is Locking Out NYC Drivers Mid-Shift to Lower Minimum Pay](https://www.bloomberg.com/news/articles/2024-06-24/uber-is-locking-out-new-york-city-drivers-mid-shift-to-lower-minimum-pay)
+[The First Hedge Fund](https://commoncog.com/c/cases/aw-jones-hedge-fund/)

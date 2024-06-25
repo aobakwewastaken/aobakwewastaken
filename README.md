@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[From Dotenv to Dotenvx: Next Generation Config Management](https://dotenvx.com/blog/2024/06/24/dotenvx-next-generation-config-management.html)
+[Show HN: Glasskube – Open Source Kubernetes Package Manager, alternative to Helm](https://github.com/glasskube/glasskube)
 
-[Testing AMD's Giant MI300X](https://chipsandcheese.com/2024/06/25/testing-amds-giant-mi300x/)
+[I found a 1-click exploit in South Korea's biggest mobile chat app](https://stulle123.github.io/posts/kakaotalk-account-takeover/)
 
-[Show HN: I built a large JavaScript powered flipdisc display. Here's a guide](https://flipdisc.io/http://localhost:4321/)
+[Show HN: I built a JavaScript-powered flipdisc display](https://flipdisc.io/)
 
-[Remembering the LAN (2020)](https://tailscale.com/blog/remembering-the-lan)
+[Fixing QuickLook (2023)](https://foon.uk/fixing-quicklook/)
 
-[A reckless introduction to Hindley-Milner type inference (2019)](https://reasonableapproximation.net/2019/05/05/hindley-milner.html)
+[Microsoft breached antitrust rules by bundling Teams and Office, EU says](https://apnews.com/article/microsoft-teams-eu-european-union-antitrust-26d11ada00f504d537d1b054dd6f6bbf)
 
-[Why we must seek a widely-applicable Science of Systems.](https://www.hiranmay.xyz/blog/complex-systems)
+[Show HN: Triplit – Open-source syncing database that runs on server and client](https://github.com/aspen-cloud/triplit)
 
-[Israeli documents show expansive government effort to shape US discourse](https://www.theguardian.com/world/article/2024/jun/24/israel-fund-us-university-protest-gaza-antisemitism)
+[How Cathode Ray Tubes Work. [video]](https://www.youtube.com/watch?v=3A-Td0i4_Kc)
 
-[Julian Assange has reached a plea deal with the U.S., allowing him to go free](https://www.nbcnews.com/politics/justice-department/julian-assange-reached-plea-deal-us-allowing-go-free-rcna158695)
+[Supabase (YC S20) Is Hiring Postgres SREs](https://boards.greenhouse.io/supabase/jobs/5162509004)
 
-[SIMD-accelerated computer vision on a $2 microcontroller](https://shraiwi.github.io/read.html?md=blog/simd-fast-esp32s3.md)
+[Ball: A ball that lives in your dock](https://github.com/nate-parrott/ball)
 
-[Wave activity on Titan strong enough to erode the coastlines of lakes and seas](https://phys.org/news/2024-06-titan-strong-erode-coastlines-lakes.html)
+[Stalin, Eisenstein, Walt Disney and Ivan the Terrible (1992)](https://www.cliomuse.com/stalin-disney-eisenstein--ivan-the-terrible.html)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Show HN: Glasskube – Open Source Kubernetes Package Manager, alternative to Helm](https://github.com/glasskube/glasskube)
+[Ball: A ball that lives in your dock](https://github.com/nate-parrott/ball)
 
-[I found a 1-click exploit in South Korea's biggest mobile chat app](https://stulle123.github.io/posts/kakaotalk-account-takeover/)
+[The many faces of undefined in JavaScript](https://mortoray.com/the-many-faces-of-undefined-in-javascript/)
+
+[HyperCard Simulator](https://hcsimulator.com/)
+
+[A brief introduction to interval arithmetic](https://buttondown.email/hillelwayne/archive/a-brief-introduction-to-interval-arithmetic/)
+
+[The album art of Phil Hartman(n) (2022)](https://www.conorherbert.com/music/the-album-art-of-phil-hartmann)
 
 [Show HN: I built a JavaScript-powered flipdisc display](https://flipdisc.io/)
 
-[Fixing QuickLook (2023)](https://foon.uk/fixing-quicklook/)
+[Show HN: Glasskube – Open Source Kubernetes Package Manager, alternative to Helm](https://github.com/glasskube/glasskube)
 
-[Microsoft breached antitrust rules by bundling Teams and Office, EU says](https://apnews.com/article/microsoft-teams-eu-european-union-antitrust-26d11ada00f504d537d1b054dd6f6bbf)
+[Fixing QuickLook (2023)](https://foon.uk/fixing-quicklook/)
 
 [Show HN: Triplit – Open-source syncing database that runs on server and client](https://github.com/aspen-cloud/triplit)
 
-[How Cathode Ray Tubes Work. [video]](https://www.youtube.com/watch?v=3A-Td0i4_Kc)
-
-[Supabase (YC S20) Is Hiring Postgres SREs](https://boards.greenhouse.io/supabase/jobs/5162509004)
-
-[Ball: A ball that lives in your dock](https://github.com/nate-parrott/ball)
-
-[Stalin, Eisenstein, Walt Disney and Ivan the Terrible (1992)](https://www.cliomuse.com/stalin-disney-eisenstein--ivan-the-terrible.html)
+[The rarest book in American literature: Poe's Tamerlane](https://lithub.com/in-search-of-the-rarest-book-in-american-literature-edgar-allan-poes-tamerlane/)

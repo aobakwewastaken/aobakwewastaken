@@ -1,4 +1,6 @@
 # Top Stories on hackernews <br />
+[American Singapore(s): Competent city governance hiding in plain sight](https://www.population.fyi/p/american-singapores-effective-city)
+
 [Ball: A ball that lives in your dock](https://github.com/nate-parrott/ball)
 
 [Elixir Gotchas](https://pragtob.wordpress.com/2024/05/01/10-elixir-gotchas/)
@@ -7,14 +9,12 @@
 
 [A brief introduction to interval arithmetic](https://buttondown.email/hillelwayne/archive/a-brief-introduction-to-interval-arithmetic/)
 
-[Show HN: Glasskube – Open Source Kubernetes Package Manager, alternative to Helm](https://github.com/glasskube/glasskube)
-
-[Show HN: I built a JavaScript-powered flipdisc display](https://flipdisc.io/)
+[Show HN: a Rust lib to trigger actions based on your screen activity (with LLMs)](https://github.com/louis030195/screen-pipe)
 
 [The album art of Phil Hartman(n) (2022)](https://www.conorherbert.com/music/the-album-art-of-phil-hartmann)
 
-[Banach–Tarski Paradox](https://en.wikipedia.org/wiki/Banach%E2%80%93Tarski_paradox)
+[Show HN: I built a JavaScript-powered flipdisc display](https://flipdisc.io/)
 
-[Google dropping continuous scroll in search results](https://searchengineland.com/google-dropping-continuous-scroll-in-search-results-443529)
+[Show HN: Glasskube – Open Source Kubernetes Package Manager, alternative to Helm](https://github.com/glasskube/glasskube)
 
-[Show HN: Triplit – Open-source syncing database that runs on server and client](https://github.com/aspen-cloud/triplit)
+[What Happens When You Put a Database in the Browser?](https://motherduck.com/blog/olap-database-in-browser/)

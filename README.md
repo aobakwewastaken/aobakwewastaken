@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[A modern 8 bit design, built using 1950s thermionic valves](https://www.valve.computer/)
+
 [Launch HN: Hatchet (YC W24) – Open-source task queue, now with a cloud version]()
 
-[Google Sheets ported its calculation worker from JavaScript to WasmGC](https://web.dev/case-studies/google-sheets-wasmgc)
+[Show HN: Dorkly – Open source feature flags](https://github.com/dorklyorg/dorkly/wiki)
 
-[Is Everything BS?](https://behavioralscientist.org/is-everything-bs/)
+[200 people charged in $2.7B health care fraud crackdown](https://apnews.com/article/justice-department-health-care-fraud-garland-24948b951896d0f265c29ba3fcacf858)
 
-[Gemma 2: Improving Open Language Models at a Practical Size [pdf]](https://storage.googleapis.com/deepmind-media/gemma/gemma-2-report.pdf)
+[Remembering Larry Finger, who made Linux wireless work](https://arstechnica.com/gadgets/2024/06/larry-finger-linux-wireless-hero-was-a-persistent-patient-coder-and-mentor/)
 
-[Lessons I Wish I Had Been Taught (1997) [pdf]](https://www.ams.org/notices/199701/comm-rota.pdf)
+[Spudguns: Potato Cannon Guide](http://www.spudguns.org/)
 
-[Open Sourcing Kinopio](https://pketh.org/open-sourcing-kinopio.html)
+[Supreme Court blocks controversial Purdue Pharma opioid settlement](https://www.washingtonpost.com/politics/2024/06/27/purdue-pharma-supreme-court-opioid-bankruptcy/)
 
-[Show HN: A Modern Palletization App](https://github.com/VladM7/Stack-Solver)
+[Tesorio (YC S15) Is Hiring a Senior GenAI/LLM Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
 
-[Eplot: A new package for making charts in Emacs](https://lars.ingebrigtsen.no/2024/06/26/a-new-package-for-making-charts-in-emacs-eplot/)
+[A dev's thoughts on developer productivity (2022)](https://sourcegraph.com/blog/developer-productivity-thoughts)
 
-[Ask HN: Have coders made stuff complicated on purpose?]()
-
-[Flow Charts with CSS Anchor Positioning](https://coryrylan.com/blog/flow-charts-with-css-anchor-positioning)
+[Lessons I Wish I Had Been Taught (1996) [pdf]](https://www.ams.org/notices/199701/comm-rota.pdf)

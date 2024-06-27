@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Gemma 2: Improving Open Language Models at a Practical Size [pdf]](https://storage.googleapis.com/deepmind-media/gemma/gemma-2-report.pdf)
+[Launch HN: Hatchet (YC W24) – Open-source task queue, now with a cloud version]()
 
 [Google Sheets ported its calculation worker from JavaScript to WasmGC](https://web.dev/case-studies/google-sheets-wasmgc)
 
+[Is Everything BS?](https://behavioralscientist.org/is-everything-bs/)
+
+[Gemma 2: Improving Open Language Models at a Practical Size [pdf]](https://storage.googleapis.com/deepmind-media/gemma/gemma-2-report.pdf)
+
 [Lessons I Wish I Had Been Taught (1997) [pdf]](https://www.ams.org/notices/199701/comm-rota.pdf)
 
-[New Whistleblower Files FAA and OSHA Complaints Against Boeing and Spirit](https://katzbanks.com/news/kbk-spirit-787-bulkheads/)
+[Open Sourcing Kinopio](https://pketh.org/open-sourcing-kinopio.html)
 
-[Supreme Court blocks Purdue Pharma opioid settlement](https://www.nbcnews.com/politics/supreme-court/supreme-court-blocks-purdue-pharma-opioid-settlement-rcna139066)
+[Show HN: A Modern Palletization App](https://github.com/VladM7/Stack-Solver)
 
 [Eplot: A new package for making charts in Emacs](https://lars.ingebrigtsen.no/2024/06/26/a-new-package-for-making-charts-in-emacs-eplot/)
 
-[We need to accelerate carbon removal and decarb simultaneously](https://charmindustrial.com/blog/more-better-more-faster)
+[Ask HN: Have coders made stuff complicated on purpose?]()
 
 [Flow Charts with CSS Anchor Positioning](https://coryrylan.com/blog/flow-charts-with-css-anchor-positioning)
-
-[How to think about creating a dataset for LLM fine-tuning evaluation](https://mlops.systems/posts/2024-06-25-evaluation-finetuning-manual-dataset.html)
-
-[The Forth Deck mini: a portable Forth computer with a discrete CPU](http://mynor.org/my4th_forthdeck.htm)

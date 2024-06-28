@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Conway's Game of Life, in checkboxes for some reason](https://huth.me/checkbox-life/)
+
+[A Novel way to curb poaching, injecting radioisotopes into 20 live rhinoceros](https://www.wits.ac.za/news/latest-news/general-news/2024/2024-06/a-novel-way-to-save-rhinos-.html)
+
 [Software galaxies](https://anvaka.github.io/pm/)
 
-[Ask HN: What is the best code base you ever worked on?]()
+[Orbital Mechanics and Astrodynamics](https://orbital-mechanics.space/intro.html)
 
-[Frame.work laptop now available in Denmark, Finland, and Sweden](https://community.frame.work/t/now-available-in-denmark-finland-and-sweden/53690)
+[Understanding React Compiler](https://tonyalicea.dev/blog/understanding-react-compiler/)
+
+[Substack Is Hiring Systems Engineers to Build a New Economic Engine for Culture](https://grnh.se/4f362fed5us)
+
+[Two million checkboxes (written in Elixir)](https://twomillioncheckboxes.com)
+
+[Parkinson's Link to Gut Bacteria Suggests Unexpected, Simple Treatment](https://www.sciencealert.com/parkinsons-link-to-gut-bacteria-suggests-unexpected-simple-treatment)
 
 [A modern 8 bit design, built using 1950s thermionic valves](https://www.valve.computer/)
 
-[Investigating SSMEC's (State Micro) 486s with the UCA](https://x86.fr/investigating-ssmecs-state-micro-486s-with-the-uca/)
-
-[Aeon: OpenSUSE for Lazy Developers](https://lwn.net/Articles/977987/)
-
-[Launch HN: Hatchet (YC W24) – Open-source task queue, now with a cloud version]()
-
-[Navigating Starlink's FCC Paper Trail](https://blog.apnic.net/2024/06/26/navigating-starlinks-fcc-paper-trail/)
-
-[Infrastructure set-up & open-source scripts to train a 70B model from bare metal](https://imbue.com/research/70b-infrastructure/)
-
-[Moving objects precisely with sound](https://actu.epfl.ch/news/moving-objects-precisely-with-sound-2/)
+[Frame.work laptop now available in Denmark, Finland, and Sweden](https://community.frame.work/t/now-available-in-denmark-finland-and-sweden/53690)

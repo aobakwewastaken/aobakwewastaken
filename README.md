@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Thousands of Pablo Picasso’s works in a new online archive](https://www.smithsonianmag.com/smart-news/thousands-of-pablo-picassos-works-are-now-online-180984597/)
+
 [Bytecode Breakdown: Unraveling Factorio's Lua Security Flaws](https://memorycorruption.net/posts/rce-lua-factorio/)
 
-[Show HN: Protect your links with a password](https://www.protectmylink.xyz/)
+[USB HID deevice class definition [pdf]](https://www.usb.org/sites/default/files/hid1_11.pdf)
 
-[A Hex Editor for Reverse Engineers](https://github.com/WerWolv/ImHex)
+[Python toolkit for quantitative finance](https://github.com/goldmansachs/gs-quant)
 
-[The Flexipede Revisited](https://www.chilton-computing.org.uk/acl/htmls/flexipede/flexipede.htm)
+[Imhex: A hex editor for reverse engineers](https://github.com/WerWolv/ImHex)
 
-[To Be Real: On Emily Nussbaum's "Cue the Sun "](https://lareviewofbooks.org/article/to-be-real-on-emily-nussbaums-cue-the-sun/)
+[Anatomy of a cryptocurrency scam](https://practicalsecurity.substack.com/p/anatomy-of-a-cryptocurrency-scam)
 
-[A Bunch of Programming Advice I'd Give to Myself 15 Years Ago](https://mbuffett.com/posts/programming-advice-younger-self/)
+[Researchers at ETH Zurich develop the fastest possible flow algorithm](https://ethz.ch/en/news-and-events/eth-news/news/2024/06/researchers-at-eth-zurich-develop-the-fastest-possible-flow-algorithm.html)
 
-[The XAES-256-GCM extended-nonce AEAD](https://words.filippo.io/dispatches/xaes-256-gcm/)
+[The economics of writing technical books](https://architectelevator.com/strategy/book-author-economics/)
 
-[The story, as best I can remember, of the origin of Mosaic and Netscape [video]](https://pmarca.substack.com/p/the-true-story-as-best-i-can-remember)
+[James Joyce was a complicated man](https://www.thefitzwilliam.com/p/james-joyce-was-a-complicated-man)
 
-[Texture Enhancement for Video Super-Resolution](https://github.com/DachunKai/EvTexture)
-
-[The Economics of Writing Technical Books](https://architectelevator.com/strategy/book-author-economics/)
+[The Dream of an Alpine Waterway](https://blog.nationalmuseum.ch/en/2024/06/the-dream-of-an-alpine-waterway/)

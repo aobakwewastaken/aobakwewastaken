@@ -3,18 +3,18 @@
 
 [Weekend projects: getting silly with C](https://lcamtuf.substack.com/p/weekend-projects-getting-silly-with)
 
-[Trilobites killed by volcanic ash](https://www.bristol.ac.uk/news/2024/june/prehistoric-pompeii.html)
+[Neo Geo Architecture: A practical analysis](https://www.copetti.org/writings/consoles/neogeo/)
 
-[Bytecode Breakdown: Unraveling Factorio's Lua Security Flaws](https://memorycorruption.net/posts/rce-lua-factorio/)
+[Anti-aging molecule successfully restores multiple markers of youth](https://newatlas.com/biology/tac-anti-aging-molecule/)
 
 [Show HN: I am building an open-source Confluence and Notion alternative](https://github.com/docmost/docmost)
 
-[Neo Geo Architecture: A practical analysis](https://www.copetti.org/writings/consoles/neogeo/)
+[Bytecode Breakdown: Unraveling Factorio's Lua Security Flaws](https://memorycorruption.net/posts/rce-lua-factorio/)
 
-[Alphatab.net](https://alphatab.net/)
+[Trilobites killed by volcanic ash](https://www.bristol.ac.uk/news/2024/june/prehistoric-pompeii.html)
 
 [Imhex: A hex editor for reverse engineers](https://github.com/WerWolv/ImHex)
 
-[The Operational Wargame Series: The best game not in stores now (2021)](https://nodicenoglory.com/2021/06/23/the-operational-wargame-series-the-best-game-not-in-stores-now/)
+[Figma defaults to train AI models on personal data](https://help.figma.com/hc/en-us/articles/17725942479127-Control-AI-features-and-content-training-settings)
 
-[The economics of writing technical books](https://architectelevator.com/strategy/book-author-economics/)
+[CVE-2021-4440: A Linux CNA Case Study](https://grsecurity.net/cve-2021-4440_linux_cna_case_study)

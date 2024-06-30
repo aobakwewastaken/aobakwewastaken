@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Show HN: Drop-In SQS Replacement Based on SQLite](https://github.com/poundifdef/SmoothMQ)
+[Show HN: Drop-in SQS replacement based on SQLite](https://github.com/poundifdef/SmoothMQ)
 
-[Inside a $1 radar motion sensor](https://10maurycy10.github.io/projects/motion_sensor_hacking/)
+[Convolutions, Fast Fourier Transform and Polynomials](https://www.alvarorevuelta.com/posts/fft-polynomials)
 
-[How the 1904 Marathon Became One of the Weirdest Olympic Events of All Time](https://www.smithsonianmag.com/history/how-the-1904-marathon-became-one-of-the-weirdest-olympic-events-of-all-time-14910747/)
+[A simplified Python simulation of diffusion](https://www.thepythoncodingstack.com/p/python-diffusion-simulation-demo-turtle)
 
-[Buried Ancient Egyptian Port Reveals Hidden Connections () Distant Civilizations](https://www.smithsonianmag.com/history/hidden-ancient-egyptian-port-reveals-180984485/)
+[The weirdest QNX bug I've encountered (2021)](https://mental-reverb.com/blog.php?id=29)
 
-[Weekend projects: getting silly with C](https://lcamtuf.substack.com/p/weekend-projects-getting-silly-with)
+[Semantics and scheduling for machine knitting compilers (2023)](https://textiles-lab.github.io/publications/2023-knitout-semantics/)
 
-[Show HN: I am building an open-source Confluence and Notion alternative](https://github.com/docmost/docmost)
+[Postzegelcode](https://en.wikipedia.org/wiki/Postzegelcode)
 
-[Neo Geo Architecture: A practical analysis](https://www.copetti.org/writings/consoles/neogeo/)
+[The good, the bad, and the weird (2018)](https://blog.trailofbits.com/2018/10/26/the-good-the-bad-and-the-weird/)
 
-[Bytecode Breakdown: Unraveling Factorio's Lua Security Flaws](https://memorycorruption.net/posts/rce-lua-factorio/)
+[LosslessCut: The Swiss army knife of lossless video/audio editing](https://github.com/mifi/lossless-cut)
 
-[Text for Proofing Fonts (2020)](https://www.typography.com/blog/text-for-proofing-fonts)
+[Butterflies flew 2,600 miles across the Atlantic without stopping](https://www.smithsonianmag.com/smart-news/these-stunning-butterflies-flew-2600-miles-across-the-atlantic-ocean-without-stopping-180984602/)
 
-[Imhex: A hex editor for reverse engineers](https://github.com/WerWolv/ImHex)
+[The super effectiveness of Pokémon embeddings using only raw JSON and images](https://minimaxir.com/2024/06/pokemon-embeddings/)

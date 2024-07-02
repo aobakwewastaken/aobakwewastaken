@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Welcome to Ladybird, a truly independent web browser](https://ladybird.org/index.html)
-
-[Htmx does not play well with content security policy](https://www.sjoerdlangkemper.nl/2024/06/26/htmx-content-security-policy/)
+[Why Is Chile So Long?](https://unchartedterritories.tomaspueyo.com/p/why-is-chile-so-long)
 
 [Diff-pdf: tool to visually compare two PDFs](https://github.com/vslavik/diff-pdf)
 
-[Mako – fast, production-grade web bundler based on Rust](https://makojs.dev/blog/mako-open-sourced)
+[Show HN: Adding Mistral Codestral and GPT-4o to Jupyter Notebooks](https://github.com/pretzelai/pretzelai/blob/main/README.md)
 
 [Digital public archaeology: Excavating data from digs done decades ago](https://phys.org/news/2024-06-digital-archaeology-excavating-decades-today.html)
 
 [Booting Linux Off of Google Drive](https://ersei.net/en/blog/fuse-root)
 
-[Raku Dynamic Language Features You Didn't Know You Needed – Curtis Poe](https://www.youtube.com/watch?v=bYgX4aP0W3o)
+[Mako – fast, production-grade web bundler based on Rust](https://makojs.dev/blog/mako-open-sourced)
 
-[DETRs Beat YOLOs on Real-Time Object Detection](https://zhao-yian.github.io/RTDETR/)
+[Trying Kolmogorov-Arnold Networks in Practice](https://cprimozic.net/blog/trying-out-kans/)
+
+[The Soviet Union's Monster Mi-6 Helicopter Airliner](https://www.twz.com/news-features/the-story-of-the-monster-mi-6-helicopter-airliner)
+
+[Lago – Open-Source Usage Based Billing Is Hiring a Data Scientist (EU-Based)](https://www.ycombinator.com/companies/lago/jobs/O7dCOie-data-scientist)
 
 [Getting the World Record in Hatetris (2022)](https://hallofdreams.org/posts/hatetris/)
-
-[Did Turing prove the undecidability of the halting problem?](https://arxiv.org/abs/2407.00680)

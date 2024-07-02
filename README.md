@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Why Is Chile So Long?](https://unchartedterritories.tomaspueyo.com/p/why-is-chile-so-long)
+[Why is Chile so long?](https://unchartedterritories.tomaspueyo.com/p/why-is-chile-so-long)
+
+[Meta 3D Gen](https://ai.meta.com/research/publications/meta-3d-gen/)
 
 [With fifth busy beaver, researchers approach computation's limits](https://www.quantamagazine.org/amateur-mathematicians-find-fifth-busy-beaver-turing-machine-20240702/)
 
-[8cc.vim: Pure Vim script C Compiler](https://github.com/rhysd/8cc.vim)
+[Explainability Is Not a Game](https://cacm.acm.org/research/explainability-is-not-a-game/)
 
-[Show HN: Adding Mistral Codestral and GPT-4o to Jupyter Notebooks](https://github.com/pretzelai/pretzelai/blob/main/README.md)
+[Apple Poised to Get OpenAI Board Observer Role as Part of AI Pact](https://www.bloomberg.com/news/articles/2024-07-02/apple-to-get-openai-board-observer-role-as-part-of-ai-agreement)
 
 [Diff-pdf: tool to visually compare two PDFs](https://github.com/vslavik/diff-pdf)
 
-[Booting Linux Off of Google Drive](https://ersei.net/en/blog/fuse-root)
+[An epigenetic editor to silence genes](https://www.science.org/doi/10.1126/science.adq3334)
 
-[Ant Design – the second most popular React UI framework](https://github.com/ant-design/ant-design)
+[Ladybird Web Browser becomes a non-profit with $1M from GitHub Founder](https://lunduke.locals.com/post/5812560/ladybird-web-browser-becomes-a-non-profit-with-1-million-from-github-founder)
 
-[The Soviet Union's Monster Mi-6 Helicopter Airliner](https://www.twz.com/news-features/the-story-of-the-monster-mi-6-helicopter-airliner)
+[Show HN: Adding Mistral Codestral and GPT-4o to Jupyter Notebooks](https://github.com/pretzelai/pretzelai/blob/main/README.md)
 
-[Digital public archaeology: Excavating data from digs done decades ago](https://phys.org/news/2024-06-digital-archaeology-excavating-decades-today.html)
-
-[Trying Kolmogorov-Arnold Networks in Practice](https://cprimozic.net/blog/trying-out-kans/)
+[8cc.vim: Pure Vim script C Compiler](https://github.com/rhysd/8cc.vim)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Do not taunt happy fun branch predictor](https://www.mattkeeter.com/blog/2023-01-25-branch/)
-
-[Aboriginal ritual passed down over 12,000 years, cave find shows](https://phys.org/news/2024-07-aboriginal-ritual-years-cave.html)
+[Do not taunt happy fun branch predictor (2023)](https://www.mattkeeter.com/blog/2023-01-25-branch/)
 
 [Living in a Lucid Dream](https://www.noemamag.com/living-in-a-lucid-dream/)
 
-[What Counts as "Strategic"?](https://capitalgains.thediff.co/p/strategy)
+[Man-Computer Symbiosis by J. C. R. Licklider (1960)](https://groups.csail.mit.edu/medg/people/psz/Licklider.html)
+
+[Aboriginal ritual passed down over 12,000 years, cave find shows](https://phys.org/news/2024-07-aboriginal-ritual-years-cave.html)
 
 [Show HN: Jb / json.bash – Command-line tool (and bash library) that creates JSON](https://github.com/h4l/json.bash)
 
 [Proton launches its own version of Google Docs](https://www.engadget.com/proton-launches-its-own-version-of-google-docs-100044471.html)
 
-[Python programming for Nintendo 8 bits](https://github.com/gutomaia/pyNES)
+[Goodwatch – A Ham Radio Wristwatch (2020)](https://kk4vcz.com/goodwatch/)
 
-[Meta 3D Gen](https://ai.meta.com/research/publications/meta-3d-gen/)
+[Python programming for Nintendo 8 bits (2018)](https://github.com/gutomaia/pyNES)
 
-[Why Bridges Don't Sink](https://practical.engineering/blog/2024/7/2/why-bridges-dont-sink)
+[Ask HN: Has anyone successfully pivoted from web dev to AI/ML development?]()
 
-[The first 10k games at bgammon.org, an open source online backgammon service](https://bgammon.org/blog/20240701-the-first-ten-thousand-games/)
+[Ryzen 7 Mini-PC makes a power-efficient VM host](https://michael.stapelberg.ch/posts/2024-07-02-ryzen-7-mini-pc-low-power-proxmox-hypervisor/)

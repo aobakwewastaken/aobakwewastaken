@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Show HN: Xcapture-BPF – like Linux top, but with Xray vision](https://0x.tools/)
+
+[A practical introduction to constraint programming using CP-SAT and Python](https://pganalyze.com/blog/a-practical-introduction-to-constraint-programming-using-cp-sat)
+
+[Engine Sound Simulator](https://markeasting.github.io/engine/)
+
 [Do not taunt happy fun branch predictor (2023)](https://www.mattkeeter.com/blog/2023-01-25-branch/)
 
-[Living in a Lucid Dream](https://www.noemamag.com/living-in-a-lucid-dream/)
+[Effective YouTube Kids: Quality Content in Small Doses](https://abparenting.substack.com/p/effective-youtube-kids)
 
-[Man-Computer Symbiosis by J. C. R. Licklider (1960)](https://groups.csail.mit.edu/medg/people/psz/Licklider.html)
+[The Cheapest NAS](https://sigwait.org/~alex/blog/2024/07/01/the-cheapest-nas.html)
 
-[Aboriginal ritual passed down over 12,000 years, cave find shows](https://phys.org/news/2024-07-aboriginal-ritual-years-cave.html)
+[Luakit: A fast, extensible, and customizable web browser](https://luakit.github.io/)
 
-[Show HN: Jb / json.bash – Command-line tool (and bash library) that creates JSON](https://github.com/h4l/json.bash)
+[Man-Computer Symbiosis (1960)](https://groups.csail.mit.edu/medg/people/psz/Licklider.html)
 
-[Proton launches its own version of Google Docs](https://www.engadget.com/proton-launches-its-own-version-of-google-docs-100044471.html)
+[Making a Linux-managed network switch](https://blog.brixit.nl/making-a-linux-managed-network-switch/)
 
-[Goodwatch – A Ham Radio Wristwatch (2020)](https://kk4vcz.com/goodwatch/)
-
-[Python programming for Nintendo 8 bits (2018)](https://github.com/gutomaia/pyNES)
-
-[Ask HN: Has anyone successfully pivoted from web dev to AI/ML development?]()
-
-[Ryzen 7 Mini-PC makes a power-efficient VM host](https://michael.stapelberg.ch/posts/2024-07-02-ryzen-7-mini-pc-low-power-proxmox-hypervisor/)
+[Architectural cross-section of Kowloon Walled City](https://cohost.org/belarius/post/6677850-architectural-cross)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Analyzing My Electricity Consumption](https://zdimension.fr/analyzing-my-electricity-consumption/)
+[NexDock turns your smartphone into a laptop](https://nexdock.com/)
 
-[Oldest cave art found showing humans and pig](https://www.bbc.com/news/articles/c0vewjq4dxwo)
+[SCIM: Ncurses based, Vim-like spreadsheet](https://github.com/andmarti1424/sc-im)
 
-[Building a data compression utility in Haskell using Huffman codes](https://lazamar.github.io/haskell-data-compression-with-huffman-codes/)
+[Gravitational wave researchers cast new light on Antikythera mechanism mystery](https://www.gla.ac.uk/news/headline_1086643_en.html)
 
-[Jeffrey Snover and the Making of PowerShell](https://corecursive.com/building-powershell-with-jeffrey-snover/)
+[Mechanical computer relies on kirigami cubes, not electronics](https://news.ncsu.edu/2024/06/kirigami-mechanical-computer/)
 
-[Should this be a map or 500 maps?](https://escapethealgorithm.substack.com/p/should-this-be-a-map-or-500-maps)
+[Analyzing my electricity consumption](https://zdimension.fr/analyzing-my-electricity-consumption/)
 
-[Shipt's Algorithm Squeezed Gig Workers. They Fought Back](https://spectrum.ieee.org/shipt)
+[Batteries: How cheap can they get?](https://aukehoekstra.substack.com/p/batteries-how-cheap-can-they-get)
 
-[The Origins of DS_store (2006)](https://www.arno.org/on-the-origins-of-ds-store)
+[The sad state of property-based testing libraries](https://stevana.github.io/the_sad_state_of_property-based_testing_libraries.html)
 
-[Show HN: Xcapture-BPF – like Linux top, but with Xray vision](https://0x.tools/)
+[Rollstack (YC W23) Is Hiring TypeScript Engineers in Europe](https://www.ycombinator.com/companies/rollstack-2/jobs/)
 
-[Twilio Confirms Data Breach After Hackers Leak 33M Authy User Phone Numbers](https://www.securityweek.com/twilio-confirms-data-breach-after-hackers-leak-33m-authy-user-phone-numbers/)
+[Oldest cave art found](https://www.bbc.com/news/articles/c0vewjq4dxwo)
 
-[Finding near-duplicates with Jaccard similarity and MinHash](https://blog.nelhage.com/post/fuzzy-dedup/)
+[Japan introduces enormous humanoid robot to maintain train lines](https://www.theguardian.com/world/article/2024/jul/04/japan-train-robot-maintain-railway-lines)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Building a data compression utility in Haskell using Huffman codes](https://lazamar.github.io/haskell-data-compression-with-huffman-codes/)
+
+[Sans-IO: The secret to effective Rust for network services](https://www.firezone.dev/blog/sans-io)
+
+[Should this be a map or 500 maps?](https://escapethealgorithm.substack.com/p/should-this-be-a-map-or-500-maps)
+
 [Show HN: Xcapture-BPF – like Linux top, but with Xray vision](https://0x.tools/)
 
-[A practical introduction to constraint programming using CP-SAT and Python](https://pganalyze.com/blog/a-practical-introduction-to-constraint-programming-using-cp-sat)
+[Beating NumPy matrix multiplication in 150 lines of C](https://salykova.github.io/matmul-cpu)
 
-[Engine Sound Simulator](https://markeasting.github.io/engine/)
+[The Origins of DS_store (2006)](https://www.arno.org/on-the-origins-of-ds-store)
 
-[Do not taunt happy fun branch predictor (2023)](https://www.mattkeeter.com/blog/2023-01-25-branch/)
+[The Joy of Reading Books You Don't Understand](https://reactormag.com/the-joy-of-reading-books-you-dont-entirely-understand/)
 
-[Effective YouTube Kids: Quality Content in Small Doses](https://abparenting.substack.com/p/effective-youtube-kids)
+[Shipt's Algorithm Squeezed Gig Workers. They Fought Back](https://spectrum.ieee.org/shipt)
 
-[The Cheapest NAS](https://sigwait.org/~alex/blog/2024/07/01/the-cheapest-nas.html)
+[Diffusion Forcing: Next-Token Prediction Meets Full-Sequence Diffusion](https://boyuan.space/diffusion-forcing/)
 
-[Luakit: A fast, extensible, and customizable web browser](https://luakit.github.io/)
-
-[Man-Computer Symbiosis (1960)](https://groups.csail.mit.edu/medg/people/psz/Licklider.html)
-
-[Making a Linux-managed network switch](https://blog.brixit.nl/making-a-linux-managed-network-switch/)
-
-[Architectural cross-section of Kowloon Walled City](https://cohost.org/belarius/post/6677850-architectural-cross)
+[Katharine Way, John Wheeler, and the Dawn of Nuclear Fission](https://www.amphilsoc.org/blog/katharine-way-john-wheeler-and-dawn-nuclear-fission)

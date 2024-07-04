@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Jeffrey Snover and the Making of PowerShell](https://corecursive.com/building-powershell-with-jeffrey-snover/)
+[Analyzing My Electricity Consumption](https://zdimension.fr/analyzing-my-electricity-consumption/)
+
+[Oldest cave art found showing humans and pig](https://www.bbc.com/news/articles/c0vewjq4dxwo)
 
 [Building a data compression utility in Haskell using Huffman codes](https://lazamar.github.io/haskell-data-compression-with-huffman-codes/)
+
+[Jeffrey Snover and the Making of PowerShell](https://corecursive.com/building-powershell-with-jeffrey-snover/)
 
 [Should this be a map or 500 maps?](https://escapethealgorithm.substack.com/p/should-this-be-a-map-or-500-maps)
 
 [Shipt's Algorithm Squeezed Gig Workers. They Fought Back](https://spectrum.ieee.org/shipt)
 
+[The Origins of DS_store (2006)](https://www.arno.org/on-the-origins-of-ds-store)
+
 [Show HN: Xcapture-BPF – like Linux top, but with Xray vision](https://0x.tools/)
 
-[Breaking transatlantic sailing record by more than a day (2016)](https://www.yachtingworld.com/extraordinary-boats/faster-than-the-weather-how-comanche-took-more-than-a-day-off-the-transatlantic-record-99160)
+[Twilio Confirms Data Breach After Hackers Leak 33M Authy User Phone Numbers](https://www.securityweek.com/twilio-confirms-data-breach-after-hackers-leak-33m-authy-user-phone-numbers/)
 
 [Finding near-duplicates with Jaccard similarity and MinHash](https://blog.nelhage.com/post/fuzzy-dedup/)
-
-[Beating NumPy matrix multiplication in 150 lines of C](https://salykova.github.io/matmul-cpu)
-
-[Sans-IO: The secret to effective Rust for network services](https://www.firezone.dev/blog/sans-io)
-
-[BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)

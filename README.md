@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Today's Cheap AI Services Won't Last](https://www.vincentschmalbach.com/todays-cheap-ai-services-wont-last/)
+[I Have No Constructor, and I Must Initialize](https://consteval.ca/2024/07/03/initialization/)
 
 [Moving to a RTOS on the RP2040](https://blog.brixit.nl/moving-to-a-rtos-on-the-rp2040/)
 
-[Shapeways Files for Bankruptcy](https://hackaday.com/2024/07/04/shapeways-files-for-bankruptcy/)
-
 [SCIM: Ncurses based, Vim-like spreadsheet](https://github.com/andmarti1424/sc-im)
 
-[Show HN: Perplexity (llama3 70B) Inline Bot on Telegram](https://www.telegrambots.ai/llama3-on-telegram)
+[Unlocking a Gary TL-15 Round-Door Safe](https://www.locksmithledger.com/keys-tools/article/10229247/unlocking-a-gary-tl-15-round-door-safe)
 
-[The EU should be the heat-pump pioneer](https://www.economist.com/europe/2024/07/04/the-eu-should-be-the-worlds-heat-pump-pioneer)
+[Confido (YC S21) Is Hiring](https://www.ycombinator.com/companies/confido/jobs/xyw5xRU-full-stack-engineer)
 
-[Bone tissue reparation using coral and marine sponges](https://web.stanford.edu/group/mota/education/Physics%2087N%20Final%20Projects/Group%20Gamma/bone.htm)
+[Male dance moves that catch a woman's eye](https://royalsocietypublishing.org/doi/abs/10.1098/rsbl.2010.0619)
+
+[Hydrothermal Environment Discovered Deep Beneath the Ocean](https://www.sciencealert.com/incredible-hydrothermal-environment-discovered-deep-beneath-the-ocean)
+
+[Analyzing my electricity consumption](https://zdimension.fr/analyzing-my-electricity-consumption/)
 
 [The Snapdragon X Elite's Adreno iGPU](https://chipsandcheese.com/2024/07/04/the-snapdragon-x-elites-adreno-igpu/)
 
-[The sad state of property-based testing libraries](https://stevana.github.io/the_sad_state_of_property-based_testing_libraries.html)
-
-[Analyzing my electricity consumption](https://zdimension.fr/analyzing-my-electricity-consumption/)
+[Mechanical computer relies on kirigami cubes, not electronics](https://news.ncsu.edu/2024/06/kirigami-mechanical-computer/)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[PostgreSQL and UUID as Primary Key](https://maciejwalkowiak.com/blog/postgres-uuid-primary-key/)
+
+[Philip Morris International has funded Japanese academics](https://www.bath.ac.uk/announcements/philip-morris-international-has-secretly-funded-japanese-academics/)
+
+[Volcanoes can affect climate](https://www.usgs.gov/programs/VHP/volcanoes-can-affect-climate)
+
 [Put the DVD logo in the corner (2023)](https://eieio.games/game-diary/game-6-get-the-dvd-logo-into-the-corner/)
 
-[Map of Pontypandy in Fireman Sam](https://two-wrongs.com/map-of-pontypandy-in-fireman-sam.html)
+[Ente Auth: open-source Authy alternative for 2FA](https://ente.io/auth/)
 
-[Debian GNU/Hurd now can compile 71% of the packages from the Debian archive](https://www.gnu.org/software/hurd/news/2024-q2.html)
+[Let's stop counting centuries](https://dynomight.net/centuries/)
 
-[I have no constructor, and I must initialize](https://consteval.ca/2024/07/03/initialization/)
+[Five Things to Know About the Diamond Sutra, the Oldest Dated Printed Book](https://www.smithsonianmag.com/smart-news/Five-things-to-know-about-diamond-sutra-worlds-oldest-dated-printed-book-180959052/)
 
-[Show HN: SQL Explorer – Open-source reporting tool that Just Works](https://github.com/explorerhq/django-sql-explorer)
+[Emerge Tools (YC W21) Is Hiring a Product Engineer (iOS, Full-Stack)](https://www.emergetools.com/careers/jobs/product-engineer-ios-full-stack)
 
-[Unlocking a Gary TL-15 Round-Door Safe (2009)](https://www.locksmithledger.com/keys-tools/article/10229247/unlocking-a-gary-tl-15-round-door-safe)
+[Research into homeopathy: data falsification, fabrication and manipulation](https://www.skeptic.org.uk/2024/07/research-into-homeopathy-data-falsification-fabrication-and-manipulation/)
 
-[Moving to a RTOS on the RP2040](https://blog.brixit.nl/moving-to-a-rtos-on-the-rp2040/)
-
-[SCIM: Ncurses based, Vim-like spreadsheet](https://github.com/andmarti1424/sc-im)
-
-[A landscape of consciousness: Toward a taxonomy of explanations and implications](https://www.sciencedirect.com/science/article/pii/S0079610723001128)
-
-[Fresh wind blows from historical supernova](https://www.u-tokyo.ac.jp/focus/en/press/z0508_00361.html)
+[What if everything is conscious?](https://www.vox.com/future-perfect/353430/what-if-absolutely-everything-is-conscious)

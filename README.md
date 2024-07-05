@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[NexDock turns your smartphone into a laptop](https://nexdock.com/)
+[General Electric HTRE-3 Nuclear Jet Engine](https://planehistoria.com/general-electric-htre-3-nuclear-jet-engine/)
+
+[Moving to a RTOS on the RP2040](https://blog.brixit.nl/moving-to-a-rtos-on-the-rp2040/)
+
+["Technical" Skills](https://sashalaundy.com/writing/technical-skills/)
 
 [SCIM: Ncurses based, Vim-like spreadsheet](https://github.com/andmarti1424/sc-im)
 
-[Gravitational wave researchers cast new light on Antikythera mechanism mystery](https://www.gla.ac.uk/news/headline_1086643_en.html)
+[How random are TOTP codes?](https://shkspr.mobi/blog/2024/07/how-random-are-totp-codes/)
+
+[The Snapdragon X Elite's Adreno iGPU](https://chipsandcheese.com/2024/07/04/the-snapdragon-x-elites-adreno-igpu/)
 
 [Mechanical computer relies on kirigami cubes, not electronics](https://news.ncsu.edu/2024/06/kirigami-mechanical-computer/)
 
-[Analyzing my electricity consumption](https://zdimension.fr/analyzing-my-electricity-consumption/)
-
-[Batteries: How cheap can they get?](https://aukehoekstra.substack.com/p/batteries-how-cheap-can-they-get)
-
 [The sad state of property-based testing libraries](https://stevana.github.io/the_sad_state_of_property-based_testing_libraries.html)
 
-[Rollstack (YC W23) Is Hiring TypeScript Engineers in Europe](https://www.ycombinator.com/companies/rollstack-2/jobs/)
+[Bone tissue reparation using coral and marine sponges](https://web.stanford.edu/group/mota/education/Physics%2087N%20Final%20Projects/Group%20Gamma/bone.htm)
 
-[Oldest cave art found](https://www.bbc.com/news/articles/c0vewjq4dxwo)
-
-[Japan introduces enormous humanoid robot to maintain train lines](https://www.theguardian.com/world/article/2024/jul/04/japan-train-robot-maintain-railway-lines)
+[Analyzing my electricity consumption](https://zdimension.fr/analyzing-my-electricity-consumption/)

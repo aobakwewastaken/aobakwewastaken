@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Shoplifters Love Lego](https://www.cnn.com/2024/06/29/business/lego-most-stolen-items/index.html)
+
+[Build and train GPT-2 from scratch using PyTorch](https://differ.blog/p/here-s-how-you-can-build-and-train-gpt-2-from-scratch-using-pytorch-ace4ba)
+
+[Tao Te Ching translated by Ursula Le Guin (1997)](https://github.com/nrrb/tao-te-ching/blob/master/Ursula%20K%20Le%20Guin.md)
+
+[Private firms and open sources are giving spies a run for their money](https://www.economist.com/technology-quarterly/2024/07/01/private-firms-and-open-sources-are-giving-spies-a-run-for-their-money)
+
 [PostgreSQL and UUID as Primary Key](https://maciejwalkowiak.com/blog/postgres-uuid-primary-key/)
 
-[Philip Morris International has funded Japanese academics](https://www.bath.ac.uk/announcements/philip-morris-international-has-secretly-funded-japanese-academics/)
-
-[Volcanoes can affect climate](https://www.usgs.gov/programs/VHP/volcanoes-can-affect-climate)
-
-[Put the DVD logo in the corner (2023)](https://eieio.games/game-diary/game-6-get-the-dvd-logo-into-the-corner/)
-
-[Ente Auth: open-source Authy alternative for 2FA](https://ente.io/auth/)
+[Preserving a floppy disk with a logic analyzer and a serial cable](https://www.chzsoft.de/site/hardware/preserving-a-floppy-disk-with-a-logic-analyzer/)
 
 [Let's stop counting centuries](https://dynomight.net/centuries/)
 
-[Five Things to Know About the Diamond Sutra, the Oldest Dated Printed Book](https://www.smithsonianmag.com/smart-news/Five-things-to-know-about-diamond-sutra-worlds-oldest-dated-printed-book-180959052/)
+[RadioSide turns your spare device into a radio](https://radioside.com)
 
-[Emerge Tools (YC W21) Is Hiring a Product Engineer (iOS, Full-Stack)](https://www.emergetools.com/careers/jobs/product-engineer-ios-full-stack)
+[HTML5 Differences from HTML4 (2014)](https://www.w3.org/TR/html5-diff/)
 
-[Research into homeopathy: data falsification, fabrication and manipulation](https://www.skeptic.org.uk/2024/07/research-into-homeopathy-data-falsification-fabrication-and-manipulation/)
-
-[What if everything is conscious?](https://www.vox.com/future-perfect/353430/what-if-absolutely-everything-is-conscious)
+[Radio Garden](https://radio.garden/)

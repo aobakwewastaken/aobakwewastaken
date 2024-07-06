@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Anxious Generation – How Safetyism and Social Media Are Damaging the Kids](https://matija.eu/posts/anxious-generation-safetyism-social-media/)
+[First anode-free sodium solid-state battery](https://pme.uchicago.edu/news/uchicago-prof-shirley-mengs-laboratory-energy-storage-and-conversion-creates-worlds-first)
 
-[He might have been the first jazz star](https://www.honest-broker.com/p/he-might-have-been-the-first-jazz)
+[Kivy – a cross platform Python UI framework](https://kivy.org)
 
-[Properly testing concurrent data structures](https://matklad.github.io/2024/07/05/properly-testing-concurrent-data-structures.html)
+[Flet – multi-platform apps in Python powered by Flutter](https://flet.dev/)
 
-[Visually navigate code as stars and galaxies](https://anvaka.github.io/pm/#/?_k=2i4b46)
+[The African workers driving the AI revolution, for about a dollar an hour](https://www.theguardian.com/technology/article/2024/jul/06/mercy-anita-african-workers-ai-artificial-intelligence-exploitation-feeding-machine)
 
-[Writing GUI applications on the Raspberry Pi without a desktop environment (2019)](https://avikdas.com/2019/01/23/writing-gui-applications-on-raspberry-pi-without-x.html)
+[How to Think in Writing](https://www.henrikkarlsson.xyz/p/writing-to-think)
 
-[GPU-Friendly Stroke Expansion](https://arxiv.org/abs/2405.00127)
+[Show HN: Bash Dungeon – An educational dungeon crawler in the shell](https://github.com/wolandark/bash-dungeon)
 
-[Ask HN: What is your favorite rolling Linux distro?]()
+[Optimizing Large-Scale OpenStreetMap Data with SQLite](https://jtarchie.com/posts/2024-07-02-optimizing-large-scale-openstreetmap-data-with-sqlite)
 
-[Radio Garden](https://radio.garden/)
+[Charge Robotics (YC S21) is hiring full-stack devs to deploy solar robots](https://www.ycombinator.com/companies/charge-robotics/jobs/gbIFjoq-senior-software-engineer-full-stack)
 
-[Let's stop counting centuries](https://dynomight.net/centuries/)
+[Teaching general problem-solving skills is not a substitute for teaching math [pdf] (2010)](https://www.ams.org/notices/201010/rtx101001303p.pdf)
 
-[Hadrius (YC W23) Is Hiring Founding Engineers in NYC](https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer)
+[Against the Burden of Knowledge](https://www.theseedsofscience.pub/p/against-the-burden-of-knowledge)

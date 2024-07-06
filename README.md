@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Summary of Major Changes Between Python Versions](https://www.nicholashairs.com/posts/major-changes-between-python-versions/)
+[He might have been the first jazz star](https://www.honest-broker.com/p/he-might-have-been-the-first-jazz)
 
-[Build and train GPT-2 from scratch using PyTorch](https://differ.blog/p/here-s-how-you-can-build-and-train-gpt-2-from-scratch-using-pytorch-ace4ba)
+[Properly testing concurrent data structures](https://matklad.github.io/2024/07/05/properly-testing-concurrent-data-structures.html)
 
-[U.S. SEC Wins 'Shadow Insider Trading' Trial](https://www.akingump.com/en/insights/alerts/the-sec-wins-shadow-insider-trading-trial)
-
-[Tao Te Ching translated by Ursula Le Guin (1997)](https://github.com/nrrb/tao-te-ching/blob/master/Ursula%20K%20Le%20Guin.md)
+[Writing GUI applications on the Raspberry Pi without a desktop environment (2019)](https://avikdas.com/2019/01/23/writing-gui-applications-on-raspberry-pi-without-x.html)
 
 [GPU-Friendly Stroke Expansion](https://arxiv.org/abs/2405.00127)
 
-[Hadrius (YC W23) Is Hiring Founding Engineers in NYC](https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer)
-
-[RadioSide turns your spare device into a radio](https://radioside.com)
-
-[Preserving a floppy disk with a logic analyzer and a serial cable](https://www.chzsoft.de/site/hardware/preserving-a-floppy-disk-with-a-logic-analyzer/)
+[Radio Garden](https://radio.garden/)
 
 [Let's stop counting centuries](https://dynomight.net/centuries/)
 
+[Preserving a floppy disk with a logic analyzer and a serial cable](https://www.chzsoft.de/site/hardware/preserving-a-floppy-disk-with-a-logic-analyzer/)
+
+[Ente Auth: open-source Authy alternative for 2FA](https://ente.io/auth/)
+
 [Graph-Based Ceramics](https://www.alexreichert.com/blog/graph-based-ceramics)
+
+[Hadrius (YC W23) Is Hiring Founding Engineers in NYC](https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer)

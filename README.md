@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[I'm Funding Ladybird Because I Can't Fund Firefox](http://jackkelly.name/blog/archives/2024/07/06/im_funding_ladybird_because_i_cant_fund_firefox/)
+
+[Show HN: A modern Jupyter client for macOS](https://satyrn.app/)
+
+[Reasoning in Large Language Models: A Geometric Perspective](https://arxiv.org/abs/2407.02678)
+
+[Sharedrop: Easy P2P file transfer powered by WebRTC – inspired by Apple AirDrop](https://github.com/szimek/sharedrop)
+
+[Standard cells: Looking at individual gates in the Pentium processor](http://www.righto.com/2024/07/pentium-standard-cells.html)
+
 [A reawakening of systems programming meetups](https://notes.eatonphil.com/2024-07-07-systems-meetups.html)
 
-[Mongo but on Postgres and with strong consistency benefits](https://github.com/event-driven-io/Pongo)
+[Synchronization Is Bad for Scale](https://wippler.dev/posts/synchronization-is-bad-for-scale)
 
-[Talent Search versus Talent Development [pdf]](https://community.ams.org/journals/notices/201909/rnoti-p1471.pdf)
+[Continue (YC S23) Is Hiring a Full-Stack Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-full-stack-engineer)
 
-[Execute JavaScript in a WebAssembly QuickJS Sandbox](https://github.com/sebastianwessel/quickjs)
+[VDEv2: Virtual Distributed Ethernet](https://github.com/virtualsquare/vde-2)
 
-[How the 18th-Century French Media Stoked a Werewolf Panic](https://www.openculture.com/2024/06/how-the-18th-century-french-media-stoked-a-werewolf-panic.html)
-
-[Malloc broke Serenity's JPGLoader, or: how to win the lottery (2021)](https://sin-ack.github.io/posts/jpg-loader-bork/)
-
-[Numeronymize](https://leancrew.com/all-this/2024/07/numeronymize/)
-
-[Show HN: BeaconDB – An Alternative to Mozilla Location Services](https://beacondb.net/)
-
-[The staggering science and art behind Wimbledon's legendary grass courts](https://abcnews.go.com/US/staggering-science-art-wimbledons-legendary-grass-courts/story?id=111433116)
-
-[Artificial LIfe ENvironment (ALIEN) is an artificial life simulation tool](https://alien-project.gitbook.io/docs)
+[Amazon is bricking $2,350 Astro robots 10 months after release](https://arstechnica.com/gadgets/2024/07/amazon-is-bricking-2350-astro-robots-10-months-after-release/)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Show HN: Open-sourced Webflow for your own app](https://github.com/onlook-dev/studio)
+
 [Xpra: Persistent Remote Applications for X11](https://github.com/Xpra-org/xpra)
 
-[NanoKVM: Affordable, Multifunctional, Nano RISC-V IP-KVM](https://github.com/sipeed/NanoKVM)
+[For the first time in more than 150 years, Alberta's electricity is coal free](https://www.theglobeandmail.com/canada/alberta/article-for-the-first-time-in-more-than-150-years-albertas-electricity-is-coal/)
+
+[Birds in Space II: Quails in the Cosmos (2011)](https://finchwench.wordpress.com/2011/09/06/cosmoquails/)
 
 [Show HN: Simulating 20M Particles in JavaScript](https://dgerrells.com/blog/how-fast-is-javascript-simulating-20-000-000-particles)
 
-[Dark mode is not as good for your eyes as you believe](https://www.wired.com/story/dark-mode-chrome-android-ios-science/)
-
-[Do Skis Get Blunt?](https://brooker.co.za/misc-blog/2024/01/23/skis.html)
+[Show HN: A modern Jupyter client for macOS](https://satyrn.app/)
 
 [UpCodes (YC S17) is hiring remote SWEs, PMs to help make buildings cheap](https://up.codes/careers?utm_source=HN)
 
-[Show HN: A modern Jupyter client for macOS](https://satyrn.app/)
+[Do Skis Get Blunt?](https://brooker.co.za/misc-blog/2024/01/23/skis.html)
 
-[Crystal Fragment Turns Everything You See into 8-Bit Pixel Art](https://www.yankodesign.com/2024/07/04/this-crystal-fragment-turns-everything-you-see-into-8-bit-pixel-art-and-its-fascinating/)
+[Ode to a world-saving idea: attribution error and cognitive empathy](https://nonzero.substack.com/p/ode-to-a-world-saving-idea-f4b)
 
-[Reasoning in Large Language Models: A Geometric Perspective](https://arxiv.org/abs/2407.02678)
-
-[Alexander Abian](https://en.wikipedia.org/wiki/Alexander_Abian)
+[Cold shipping might be the next industry that batteries disrupt](https://techcrunch.com/2024/06/28/cold-shipping-might-be-the-next-industry-that-batteries-disrupt/)

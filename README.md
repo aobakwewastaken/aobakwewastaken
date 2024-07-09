@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[No more boot loader: Please use the kernel instead](https://pretalx.com/devconf-cz-2024/talk/W3AVCT/)
+[Nearly 2M metric tons of wild fish used to feed Norwegian farmed salmon](https://www.seafoodsource.com/news/aquaculture/report-nearly-2-million-metric-tons-of-wild-fish-used-to-feed-norwegian-farmed-salmon-annually)
 
-[Entering text in the terminal is complicated](https://jvns.ca/blog/2024/07/08/readline/)
+[No more boot loader: Please use the kernel instead](https://pretalx.com/devconf-cz-2024/talk/W3AVCT/)
 
 [Reverse engineering Ticketmaster's rotating barcodes](https://conduition.io/coding/ticketmaster/)
 
+[The Zombie Misconception of Theoretical Computer Science](https://scottaaronson.blog/?p=8106)
+
+[Rye: A Hassle-Free Python Experience](https://rye.astral.sh/)
+
+[DB Browser for SQLite (Windows, macOS, and Most Versions of Linux)](https://sqlitebrowser.org/)
+
+[Guide to attending a space launch in person](https://countdowntoignition.com/guide-to-attending-launch)
+
 [C++ patterns for low-latency applications including high-frequency trading](https://arxiv.org/abs/2309.04259)
 
-[The Right Kind of Stubborn](https://paulgraham.com/persistence.html)
+[LightRAG: The PyTorch Library for Large Language Model Applications](https://github.com/SylphAI-Inc/LightRAG)
 
-[How we tamed Node.js event loop lag: a deepdive](https://trigger.dev/blog/event-loop-lag)
-
-[How I turned seemingly 'failed' experiments into a successful PhD](https://www.science.org/content/article/how-i-turned-seemingly-failed-experiments-into-a-successful-phd)
-
-[Record 4 Camera Angles at Once Using Only iPhones and iPads](https://www.pcmag.com/news/hands-on-apple-final-cut-camera-final-cut-pro-2-multicam)
-
-[Making My Own Wedding Rings](https://geoff.greer.fm/2024/07/07/making-my-own-wedding-rings/)
-
-[Show HN: Open-sourced Webflow for your own app](https://github.com/onlook-dev/studio)
+[Another Silicon Valley institution died spring of 2019: Halted/HSC](http://halted.com)

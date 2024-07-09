@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Nearly 2M metric tons of wild fish used to feed Norwegian farmed salmon](https://www.seafoodsource.com/news/aquaculture/report-nearly-2-million-metric-tons-of-wild-fish-used-to-feed-norwegian-farmed-salmon-annually)
+[Surprising Gender Biases in GPT](https://osf.io/preprints/psyarxiv/mp27q)
+
+[The zombie misconception of theoretical computer science](https://scottaaronson.blog/?p=8106)
 
 [No more boot loader: Please use the kernel instead](https://pretalx.com/devconf-cz-2024/talk/W3AVCT/)
 
 [Reverse engineering Ticketmaster's rotating barcodes](https://conduition.io/coding/ticketmaster/)
 
-[The Zombie Misconception of Theoretical Computer Science](https://scottaaronson.blog/?p=8106)
+[Show HN: Tegon: Open-source alternative to Jira, Linear](https://github.com/tegonhq/tegon)
 
-[Rye: A Hassle-Free Python Experience](https://rye.astral.sh/)
+[HP discontinues online-only LaserJet printers in response to backlash](https://www.tomshardware.com/peripherals/printers/hp-discontinues-online-only-laserjet-printers-in-response-to-backlash)
+
+[Microsoft's Xandr grants GDPR rights at a rate of 0%](https://noyb.eu/en/microsofts-xandr-grants-gdpr-rights-rate-0)
 
 [DB Browser for SQLite (Windows, macOS, and Most Versions of Linux)](https://sqlitebrowser.org/)
 
-[Guide to attending a space launch in person](https://countdowntoignition.com/guide-to-attending-launch)
+[The Race to Seal Helium HDDs](https://blog.westerndigital.com/race-to-seal-helium/)
 
-[C++ patterns for low-latency applications including high-frequency trading](https://arxiv.org/abs/2309.04259)
-
-[LightRAG: The PyTorch Library for Large Language Model Applications](https://github.com/SylphAI-Inc/LightRAG)
-
-[Another Silicon Valley institution died spring of 2019: Halted/HSC](http://halted.com)
+[Rye: A Hassle-Free Python Experience](https://rye.astral.sh/)

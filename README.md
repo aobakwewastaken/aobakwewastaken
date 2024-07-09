@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Another AI company wrote us and here’s our response](https://warandpeas.com/2024/07/09/another-ai-company-wrote-us-and-heres-our-response/)
+[A small studio made a game based on Stanislaw Lem's novel](https://invinciblethegame.com/)
+
+[Daylight eInk Computer](https://daylightcomputer.com)
+
+[How CD Pregaps Gained Their Hidden Track Superpowers](https://tedium.co/2024/07/06/compact-disc-pregap-history/)
+
+[Russia Leverages AI-enhanced "Meliorator" software for foreign malign influence](https://www.cyber.gc.ca/en/news-events/russian-state-sponsored-media-organization-leverages-ai-enhanced-meliorator-software-foreign-malign-influence-activity)
 
 [Scoped Propagators](https://www.orionreed.com/posts/scoped-propagators)
 
-[Docs as Code](https://www.writethedocs.org/guide/docs-as-code/)
-
-[Dynamic translation of Smalltalk to WebAssembly](https://thiscontext.com/2023/07/26/dynamic-translation-of-smalltalk-to-webassembly/)
+[Tim Doucette, a blind astronomer who built the Deep Sky Eye Observatory](https://www.amiplus.ca/m/eCGPTwFA/deep-sky-eye?seriesId=Show%2FOur+Community)
 
 [Circos – Circular Visualization](https://circos.ca/)
 
-[MobileLLM: Optimizing Sub-Billion Parameter Language Models for On-Device Use](https://github.com/facebookresearch/MobileLLM)
+[Dynamic translation of Smalltalk to WebAssembly](https://thiscontext.com/2023/07/26/dynamic-translation-of-smalltalk-to-webassembly/)
 
-[PySkyWiFi: Free stupid wi-fi on long-haul flights](https://robertheaton.com/pyskywifi/)
+[Show HN → Parallel DOM: Upgrade your DOM to be multithreaded](https://www.pdom.dev/)
 
-[The coming eBPF revolution and why Kubernetes monitoring will never be the same](https://getanteon.com/blog/the-coming-ebpf-revolution-and-why-kubernetes-monitoring-will-never-be-the-same/)
-
-[Sljit: Platform independent low-level JIT compiler](https://github.com/zherczeg/sljit)
-
-[End-to-end congestion control cannot avoid latency spikes (2022)](https://blog.apnic.net/2022/01/26/beyond-bufferbloat-end-to-end-congestion-control-cannot-avoid-latency-spikes/)
+[Ask HN: How do browsers isolate internal audio from microphone input?]()

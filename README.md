@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[A small studio made a game based on Stanislaw Lem's novel](https://invinciblethegame.com/)
+[RADIUS protocol susceptible to forgery attacks](https://www.blastradius.fail/)
 
-[Daylight eInk Computer](https://daylightcomputer.com)
+[Well, it's just an AWS Account ID](https://mail.cloudsecurity.club/p/well-just-aws-account-id)
+
+[Website Themes with uBlock Origin](https://darekkay.com/blog/ublock-website-themes/)
+
+[RouteLLM: A framework for serving and evaluating LLM routers](https://github.com/lm-sys/RouteLLM)
+
+[Awsviz.dev simplifying AWS IAM policies](https://www.awsviz.dev/)
+
+[Google is (not) bringing Fuchsia OS to Android devices](https://www.androidauthority.com/microfuchsia-on-android-3457788/)
 
 [How CD Pregaps Gained Their Hidden Track Superpowers](https://tedium.co/2024/07/06/compact-disc-pregap-history/)
 
-[Russia Leverages AI-enhanced "Meliorator" software for foreign malign influence](https://www.cyber.gc.ca/en/news-events/russian-state-sponsored-media-organization-leverages-ai-enhanced-meliorator-software-foreign-malign-influence-activity)
+[Automate Project Environments with Devbox and Direnv](https://www.jetify.com/blog/automated-dev-envs-with-devbox-and-direnv/)
 
-[Scoped Propagators](https://www.orionreed.com/posts/scoped-propagators)
+[How to validate a market with development boards and SD cards](https://flyingcarcomputer.com/posts/how-to-validate-market-with-development-board/)
 
-[Tim Doucette, a blind astronomer who built the Deep Sky Eye Observatory](https://www.amiplus.ca/m/eCGPTwFA/deep-sky-eye?seriesId=Show%2FOur+Community)
-
-[Circos – Circular Visualization](https://circos.ca/)
-
-[Dynamic translation of Smalltalk to WebAssembly](https://thiscontext.com/2023/07/26/dynamic-translation-of-smalltalk-to-webassembly/)
-
-[Show HN → Parallel DOM: Upgrade your DOM to be multithreaded](https://www.pdom.dev/)
-
-[Ask HN: How do browsers isolate internal audio from microphone input?]()
+[The Seal Failure in the SRB That Doomed Challenger (2021)](https://exrocketman.blogspot.com/2021/12/the-seal-failure-in-srb-that-doomed.html)

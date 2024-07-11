@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Weird things I learned while writing an x86 emulator](https://www.timdbg.com/posts/useless-x86-trivia/)
+[Scientists discover a cause of lupus, possible way to reverse it](https://news.feinberg.northwestern.edu/2024/07/10/scientists-discover-a-cause-of-lupus-and-a-possible-way-to-reverse-it/)
 
-[Vision language models are blind](https://vlmsareblind.github.io/)
+[Show HN: Dut, a fast Linux disk usage calculator](https://codeberg.org/201984/dut)
+
+[Engineering principles for building financial systems](https://substack.wasteman.codes/p/engineering-principles-and-best-practices)
+
+[Things I learned while writing an x86 emulator (2013)](https://www.timdbg.com/posts/useless-x86-trivia/)
+
+[Supabase (YC S20) Is Hiring an Auth Engineer (Remote)](https://boards.greenhouse.io/supabase/jobs/5225004004)
 
 [Big Ball of Mud (1999)](http://laputan.org/mud/)
 
-[Brian Kernighan on "The Practice of Programming" [video]](https://www.youtube.com/watch?v=_QQ7k5sn2-o)
+[Brian Kernighan on “The Practice of Programming” [video]](https://www.youtube.com/watch?v=_QQ7k5sn2-o)
 
-[Dola Decoding by Contrasting Layers Improves Factuality in Large Language Models](https://arxiv.org/abs/2309.03883)
+[Vision language models are blind](https://vlmsareblind.github.io/)
 
 [Multi-agent chatbot murder mystery](https://ai-murder-mystery.onrender.com/)
 
-[AMD to buy Silo AI for $665M](https://www.ft.com/content/7b8d2057-2687-45b3-bae4-1488a75ac5b2)
-
-[SimSig: Railway Signalling Simulations](https://www.simsig.co.uk/)
-
-[Zed on Linux Is Here](https://zed.dev/linux)
-
-[The magic of small engineering teams](https://newsletter.posthog.com/p/the-magic-of-small-engineering-teams)
+[An Abundance of Katherines: The Game Theory of Baby Naming](https://arxiv.org/abs/2404.00732)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[WebVM is a server-less virtual Linux environment running client-side](https://webvm.io/)
+
+[FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-Precision](https://www.together.ai/blog/flashattention-3)
+
+[How to Survive 3 Years in North Korea as a Foreigner](https://mydiplomaticlife.com/how-to-survive-3-years-in-north-korea-as-a-foreigner/)
+
 [The Typeset of Wall·E (2018)](https://typesetinthefuture.com/2018/12/04/walle/)
 
-[Qualcomm's Oryon core: A long time in the making](https://chipsandcheese.com/2024/07/09/qualcomms-oryon-core-a-long-time-in-the-making/)
+[Korvus: Single-Query RAG with Postgres](https://github.com/postgresml/korvus)
 
-[Scientists discover a cause of lupus, possible way to reverse it](https://news.feinberg.northwestern.edu/2024/07/10/scientists-discover-a-cause-of-lupus-and-a-possible-way-to-reverse-it/)
+[Charm creates a potent therapy candidate for fatal prion diseases](https://news.mit.edu/2024/charmed-collaboration-creates-therapy-candidate-fatal-prion-diseases-0627)
 
-[Binance built a 100PB log service with Quickwit](https://quickwit.io/blog/quickwit-binance-story)
+[Physicists have created the most fiendishly difficult maze](https://www.sciencealert.com/physicists-have-created-the-worlds-most-fiendishly-difficult-maze)
 
-[A relativistic framework to establish coordinate time on the Moon and beyond](https://arxiv.org/abs/2402.11150)
+[Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager]()
 
-[Show HN: Dut – a fast Linux disk usage calculator](https://codeberg.org/201984/dut)
+[Rulers of the Ancient World: period correct measuring tools](https://www.burn-heart.com/rulers-of-the-ancient-world)
 
-[Engineering principles for building financial systems](https://substack.wasteman.codes/p/engineering-principles-and-best-practices)
-
-[Second Factor SMS: Worse Than Its Reputation](https://www.ccc.de/en/updates/2024/2fa-sms)
-
-[The Overengineered Resume with Zola, JSON Resume, Weasyprint, and Nix (2023)](https://ktema.org/articles/the-overengineered-resume/)
-
-[Things I learned while writing an x86 emulator (2013)](https://www.timdbg.com/posts/useless-x86-trivia/)
+[Capturing Linux SSL/TLS plaintext without a CA certificate using eBPF](https://github.com/gojue/ecapture)

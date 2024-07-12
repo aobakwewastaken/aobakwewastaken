@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Windows NT for Power Macintosh](https://github.com/Wack0/maciNTosh)
+
+[So you want to rent an NVIDIA H100 cluster? 2024 Consumer Guide](https://www.photoroom.com/inside-photoroom/so-you-want-to-rent-an-nvidia-h100-cluster-2024-consumer-guide?slug=inside-photoroom/so-you-want-to-rent-an-nvidia-h100-cluster-2024-consumer-guide&_storyblok_published=511470179&)
+
+[WildGaussians: 3D Gaussian Splatting in the Wild](https://arxiv.org/abs/2407.08447)
+
+[Beating the L1 cache with value speculation (2021)](https://mazzo.li/posts/value-speculation.html)
+
+[Cradle: Empowering Foundation Agents Towards General Computer Control](https://baai-agents.github.io/Cradle/)
+
 [Arm Accuracy Super Resolution](https://community.arm.com/arm-community-blogs/b/graphics-gaming-and-vr-blog/posts/introducing-arm-accuracy-super-resolution)
-
-[Using S3 as a Container Registry](https://ochagavia.nl/blog/using-s3-as-a-container-registry/)
-
-[Deno 1.45: Workspace and Monorepo Support](https://deno.com/blog/v1.45)
-
-[WebVM is a server-less virtual Linux environment running client-side](https://webvm.io/)
 
 [Show HN: Daminik – An Open source digital asset manager](https://daminik.com)
 
-[Legion Health (YC S21) Is Hiring a Technical Product Marketing Lead](https://www.ycombinator.com/companies/legion-health/jobs/9JHdQqJ-technical-product-marketing-lead-legion-health-y-combinator-startup)
+[The Forth Methodology of Charles Moore (2001)](https://www.ultratechnology.com/method.htm)
 
-[GE Aerospace Successfully Develops and Tests New Hypersonic Dual-Mode Ramjet](https://www.geaerospace.com/news/press-releases/ge-aerospace-successfully-develops-and-tests-new-hypersonic-dual-mode-ramjet)
+[Using S3 as a Container Registry](https://ochagavia.nl/blog/using-s3-as-a-container-registry/)
 
-[Physics-Based Deep Learning Book](https://physicsbaseddeeplearning.org/intro.html)
-
-[The Forth Methodology of Charles Moore](https://www.ultratechnology.com/method.htm)
-
-[Some thoughts on the web. On web engines, content, and web rent (2023)](https://liberda.nl/weblog/javascript-was-a-mistake/)
+[WebVM is a server-less virtual Linux environment running client-side](https://webvm.io/)

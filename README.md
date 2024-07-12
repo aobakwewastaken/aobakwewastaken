@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Free-threaded CPython is ready to experiment with](https://labs.quansight.org/blog/free-threaded-python-rollout)
+
+[What could explain the gallium anomaly?](https://www.quantamagazine.org/what-could-explain-the-gallium-anomaly-20240712/)
+
+[Responsive bar charts in HTML and CSS](https://9elements.com/blog/responsive-bar-charts-in-html-and-css/)
+
+[Tau: Open-source PaaS – A self-hosted Vercel / Netlify / Cloudflare alternative](https://github.com/taubyte/tau)
+
+[AT&T says criminals stole phone records of 'nearly all' customers in data breach](https://techcrunch.com/2024/07/12/att-phone-records-stolen-data-breach/)
+
+[Beating the Compiler](https://www.mattkeeter.com/blog/2024-07-12-interpreter/)
+
+[Show HN: Dropbase AI – A Prompt-Based Python Web App Builder](https://github.com/DropbaseHQ/dropbase)
+
+[Cosmic Updates (Feat. Community)](https://blog.system76.com/post/cosmic-july-2024)
+
 [Windows NT for Power Macintosh](https://github.com/Wack0/maciNTosh)
 
-[Born into slavery, he rose to the top of France's art world](https://www.washingtonpost.com/entertainment/art/2024/07/12/guillaume-lethiere-exhibition-life/)
-
-[WildGaussians: 3D Gaussian Splatting in the Wild](https://arxiv.org/abs/2407.08447)
-
-[So you want to rent an NVIDIA H100 cluster? 2024 Consumer Guide](https://www.photoroom.com/inside-photoroom/so-you-want-to-rent-an-nvidia-h100-cluster-2024-consumer-guide?slug=inside-photoroom/so-you-want-to-rent-an-nvidia-h100-cluster-2024-consumer-guide&_storyblok_published=511470179&)
-
-[Beating the L1 cache with value speculation (2021)](https://mazzo.li/posts/value-speculation.html)
-
-[Arm Accuracy Super Resolution](https://community.arm.com/arm-community-blogs/b/graphics-gaming-and-vr-blog/posts/introducing-arm-accuracy-super-resolution)
-
-[Show HN: Daminik – An Open source digital asset manager](https://daminik.com)
-
-[Using S3 as a Container Registry](https://ochagavia.nl/blog/using-s3-as-a-container-registry/)
-
-[The Forth Methodology of Charles Moore (2001)](https://www.ultratechnology.com/method.htm)
-
-[Cradle: Empowering Foundation Agents Towards General Computer Control](https://baai-agents.github.io/Cradle/)
+[Common Expression Language interpreter written in Rust](https://github.com/clarkmcc/cel-rust)

@@ -5,16 +5,16 @@
 
 [Introduction to Calvin and Hobbes: Sunday Pages 1985-1995 (2001)](http://timhulsizer.com/cwords/cintro.html)
 
-[Wireless Amiga Tank Mouse](https://lyonsden.net/wireless-tank-mouse/)
-
-[Someone is wrong on the internet (AGI Doom edition)](http://addxorrol.blogspot.com/2024/07/someone-is-wrong-on-internet-agi-doom.html)
+[The Birth of Standard Error (2013)](https://www2.dmst.aueb.gr/dds/blog/20131211/index.html)
 
 [Crocotile3D low poly modelling tool](https://crocotile3d.com/)
 
-[What's the deal with the blue "robins" in gacha games?](https://jgeekstudies.org/2024/07/08/whats-the-deal-with-the-blue-robins-in-gacha-games/)
+[Wireless Amiga Tank Mouse](https://lyonsden.net/wireless-tank-mouse/)
 
 [Crafting Interpreters](https://craftinginterpreters.com/)
 
+[WebContainers: Dev environments. In your web app](https://webcontainers.io/)
+
 [Show HN: 30ms latency screen sharing in Rust](https://github.com/bitwhip/bitwhip)
 
-[WebContainers: Dev environments. In your web app](https://webcontainers.io/)
+[For the Colonel, It Was Finger-Lickin’ Bad (2016)](https://kottke.org/16/08/for-the-colonel-it-was-fingerlickin-bad)

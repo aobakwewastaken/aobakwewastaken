@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Optimizing the Lichess Tablebase Server](https://lichess.org/@/revoof/blog/optimizing-the-tablebase-server/MetV0ZQd)
+[A Philosophy Professor's Final Class (2023)](https://www.newyorker.com/culture/annals-of-inquiry/a-philosophy-professors-final-class)
 
-[Summing ASCII encoded integers on Haswell at almost the speed of memcpy](http://blog.mattstuchlik.com/2024/07/12/summing-integers-fast.html)
+[The Illustrated AlphaFold](https://elanapearl.github.io/blog/2024/the-illustrated-alphafold/)
+
+[Firing Myself](https://backintyme.substack.com/p/firing-myself)
+
+[Give people something to link to](https://simonwillison.net/2024/Jul/13/give-people-something-to-link-to/)
+
+[Jelly Star – The Smallest Android 13 Smartphone](https://www.unihertz.com/en-de/products/jelly-star)
 
 [Disruptor-rs: better latency and throughput than crossbeam](https://github.com/nicholassm/disruptor-rs)
 
-[The Birth of Standard Error (2013)](https://www2.dmst.aueb.gr/dds/blog/20131211/index.html)
+[Where is the most densely populated square kilometre in the UK? (2023)](http://www.statsmapsnpix.com/2023/02/where-is-most-densely-populated-square.html)
 
-[Universal Code Execution by Chaining Messages in Browser Extensions](https://spaceraccoon.dev/universal-code-execution-browser-extensions/)
+[Dear AWS, please let me be a cloud engineer again](https://lucvandonkersgoed.com/2024/07/13/dear-aws-please-let-me-be-a-cloud-engineer-again/)
 
-[STEMFIE, a 3D-printable construction set toy](https://www.stemfie.org/)
+[Disney's Internal Slack Breached? NullBulge Leaks 1.1 TiB of Data](https://hackread.com/disneys-internal-slack-breached-nullbulge-leak-data/)
 
-[Introduction to Calvin and Hobbes: Sunday Pages 1985-1995 (2001)](http://timhulsizer.com/cwords/cintro.html)
-
-[Crocotile3D low poly modelling tool](https://crocotile3d.com/)
-
-[Crafting Interpreters](https://craftinginterpreters.com/)
-
-[Use a work journal](https://fev.al/posts/work-journal/)
+[Roblox Open Sources Real-Time Voice Safety Model](https://research.roblox.com/)

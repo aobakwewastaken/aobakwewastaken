@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Fitting an Elephant with Four Non-Zero Parameters](https://arxiv.org/abs/2407.07909)
+[Grind – An epic first person shooter for Amiga 500 gets another playable tease](https://www.indieretronews.com/2024/07/grind-epic-first-person-shooter-for.html)
+
+[Calculating position from raw GPS data (2017)](https://www.telesens.co/2017/07/17/calculating-position-from-raw-gps-data/)
+
+[Book Review: The Family That Couldn't Sleep](https://www.astralcodexten.com/p/your-book-review-the-family-that)
+
+[Fitting an elephant with four non-zero parameters](https://arxiv.org/abs/2407.07909)
+
+[Leaked payroll data show how much Valve pays staff and how few people it employs](https://www.theverge.com/2024/7/13/24197477/valve-employs-few-hundred-people-payroll-redacted)
 
 [Show HN: I built a Jeopardy game maker with buzzer support](https://buzzinga.io/)
 
-[Musical Notation for Modular Synthesizers](https://www.perfectcircuit.com/signal/modular-synthesizer-notation)
+[Just Be Rich (2021)](https://keenen.xyz/just-be-rich/)
 
-[On Building Systems That Will Fail (1991)](http://larch-www.lcs.mit.edu:8001/~corbato/turing91/)
+[California Grid Breezes Through Heatwave with Batteries](https://thinc.blog/2024/07/14/california-grid-breezes-through-heat-wave-due-to-renewables-batteries/)
 
-[Building and scaling Notion's data lake](https://www.notion.so/de-de/blog/building-and-scaling-notions-data-lake)
+[Disqualified (1954)](https://www.gutenberg.org/cache/epub/30251/pg30251-images.html)
 
-[Writing a BIOS bootloader for 64-bit mode from scratch](https://thasso.xyz/2024/07/13/setting-up-an-x86-cpu.html)
-
-[Firmware update hides a device’s Bluetooth fingerprint](https://today.ucsd.edu/story/a-simple-firmware-update-completely-hides-a-devices-bluetooth-fingerprint)
-
-[Nevada’s public employee pension fund invests passively and beats peers (2016)](https://www.wsj.com/articles/what-does-nevadas-35-billion-fund-manager-do-all-day-nothing-1476887420)
-
-[Building the Bell System](https://www.construction-physics.com/p/building-the-bell-system)
-
-[Git-PR: patch requests over SSH](https://pr.pico.sh/)
+[How to Know When It's Time to Go](https://thecodist.com/how-to-know-when-its-time-to-go/)

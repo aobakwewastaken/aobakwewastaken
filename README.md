@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[A Philosophy Professor's Final Class (2023)](https://www.newyorker.com/culture/annals-of-inquiry/a-philosophy-professors-final-class)
+[No reasonable expectation of privacy in one's Google location data](https://fourthamendment.com/?p=58338)
 
-[The Illustrated AlphaFold](https://elanapearl.github.io/blog/2024/the-illustrated-alphafold/)
+[Firmware Update Hides a Device's Bluetooth Fingerprint](https://today.ucsd.edu/story/a-simple-firmware-update-completely-hides-a-devices-bluetooth-fingerprint)
 
-[Firing Myself](https://backintyme.substack.com/p/firing-myself)
+[ULID: Like UUID but Sortable](https://github.com/ulid/spec)
 
-[Give people something to link to](https://simonwillison.net/2024/Jul/13/give-people-something-to-link-to/)
+[Nvidia Warp: Python framework for high-performance simulation and graphics code](https://nvidia.github.io/warp/)
+
+[Don’t try to sanitize input. Escape output (2020)](https://benhoyt.com/writings/dont-sanitize-do-escape/)
+
+[Talos: Secure, immutable, and minimal Linux OS for running Kubernetes](https://www.talos.dev)
+
+[After initially rejecting it, Apple has approved the first PC emulator for iOS](https://www.theverge.com/2024/7/13/24198015/apple-utm-se-pc-os-emulator-for-ios)
 
 [Jelly Star – The Smallest Android 13 Smartphone](https://www.unihertz.com/en-de/products/jelly-star)
 
-[Disruptor-rs: better latency and throughput than crossbeam](https://github.com/nicholassm/disruptor-rs)
+[Show HN: Procedural Art –– 'Pulse'](https://soham-saha.github.io/ProceduralArt/Pulse/Pulse.html)
 
-[Where is the most densely populated square kilometre in the UK? (2023)](http://www.statsmapsnpix.com/2023/02/where-is-most-densely-populated-square.html)
-
-[Dear AWS, please let me be a cloud engineer again](https://lucvandonkersgoed.com/2024/07/13/dear-aws-please-let-me-be-a-cloud-engineer-again/)
-
-[Disney's Internal Slack Breached? NullBulge Leaks 1.1 TiB of Data](https://hackread.com/disneys-internal-slack-breached-nullbulge-leak-data/)
-
-[Roblox Open Sources Real-Time Voice Safety Model](https://research.roblox.com/)
+[Give people something to link to](https://simonwillison.net/2024/Jul/13/give-people-something-to-link-to/)

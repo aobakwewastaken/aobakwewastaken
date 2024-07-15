@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Rust for Filesystems](https://lwn.net/Articles/978738/)
-
 [We need visual programming. No, not like that](https://blog.sbensu.com/posts/demand-for-visual-programming/)
 
-[Firefox 128 enables "privacy-preserving" ad measurements by default](https://mstdn.social/@Lokjo/112772496939724214)
+[Soviet Calculators History (1998)](https://xnumber.com/xnumber/russian_calcs.htm)
 
-[Fusion – A hobby OS implemented in Nim](https://github.com/khaledh/fusion)
+[I'm Not a Fan of Strlcpy(3)](https://nrk.neocities.org/articles/not-a-fan-of-strlcpy)
+
+[Cosmic simulation reveals how black holes grow and evolve](https://www.caltech.edu/about/news/cosmic-simulation-reveals-how-black-holes-grow-and-evolve)
+
+[Rust for Filesystems](https://lwn.net/Articles/978738/)
+
+[Samsung's abandoned NX cameras can be brought online with a $20 LTE stick](https://arstechnica.com/gadgets/2024/07/samsungs-abandoned-nx-cameras-can-be-brought-online-with-a-20-lte-stick/)
 
 [The fascinating and complicated sex lives of white-throated sparrows](https://www.audubon.org/news/the-fascinating-and-complicated-sex-lives-white-throated-sparrows)
 
-[A rock that might hold the oldest form of complex life on Earth](https://news.unsw.edu.au/en/erica-picked-up-a-rock-10-years-ago-it-might-hold-the-oldest-form-of-complex-life-on-earth)
+[Fusion – A hobby OS implemented in Nim](https://github.com/khaledh/fusion)
 
-[Virginia Woolf's list-making paved the way for her literary experiments](https://www.ft.com/content/6c7e3cc3-f66b-4998-ad55-5f58d151a761)
+[Pi calculation world record with over 202T digits](https://www.storagereview.com/news/storagereview-lab-breaks-pi-calculation-world-record-with-over-202-trillion-digits)
 
-[Calculating position from raw GPS data (2017)](https://www.telesens.co/2017/07/17/calculating-position-from-raw-gps-data/)
-
-[Lagrange: LAser GRavitational-wave ANtenna at GEo-lunar Lagrange points](https://arxiv.org/abs/1111.5264)
-
-[Fitting an elephant with four non-zero parameters](https://arxiv.org/abs/2407.07909)
+[Lagrange: LAser GRavitational-wave ANtenna at GEo-lunar Lagrange points (2011)](https://arxiv.org/abs/1111.5264)

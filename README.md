@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[How the Rise of the Camera Launched a Fight to Protect Gilded Age Privacy](https://www.smithsonianmag.com/history/how-the-rise-of-the-camera-launched-a-fight-to-protect-gilded-age-americans-privacy-180984656/)
+[Run CUDA, unmodified, on AMD GPUs](https://docs.scale-lang.com/)
 
-[Cosmic simulation reveals how black holes grow and evolve](https://www.caltech.edu/about/news/cosmic-simulation-reveals-how-black-holes-grow-and-evolve)
+[Amiga 2000 – Codename: Tesseract (2021)](https://retrohax.net/amiga-2000-codename-tesseract/)
 
-[We need visual programming. No, not like that](https://blog.sbensu.com/posts/demand-for-visual-programming/)
+[The rise of the camera launched a fight to protect Gilded Age privacy](https://www.smithsonianmag.com/history/how-the-rise-of-the-camera-launched-a-fight-to-protect-gilded-age-americans-privacy-180984656/)
 
-[Rust for Filesystems](https://lwn.net/Articles/978738/)
+[The Open Collaboration Tools](https://www.typefox.io/blog/open-collaboration-tools-announcement/)
 
-[I'm Not a Fan of Strlcpy(3)](https://nrk.neocities.org/articles/not-a-fan-of-strlcpy)
+[Quartz: A Deterministic Time Testing Library for Go](https://coder.com/blog/introducing-quartz)
 
-[Soviet Calculators History (1998)](https://xnumber.com/xnumber/russian_calcs.htm)
+[Researchers: Weak Security Defaults Enabled Squarespace Domains Hijacks](https://krebsonsecurity.com/2024/07/researchers-weak-security-defaults-enabled-squarespace-domains-hijacks/)
 
-[Creature that washed up on New Zealand beach may be rarest whale](https://www.cbsnews.com/news/creature-that-washed-up-on-new-zealand-beach-may-be-worlds-rarest-whale-a-spade-toothed-whale/)
+[Transformer Layers as Painters](https://arxiv.org/abs/2407.09298)
 
-[HTML Tags Memory Test](https://codepen.io/plfstr/full/zYqQeRw)
+[Artie (YC S23) Is Hiring](https://www.ycombinator.com/companies/artie/jobs/N3AosVU-founding-engineer)
 
-[The fascinating and complicated sex lives of white-throated sparrows](https://www.audubon.org/news/the-fascinating-and-complicated-sex-lives-white-throated-sparrows)
+[Immunotherapy Is Changing Cancer Treatment Forever](https://nymag.com/intelligencer/article/cancer-treatment-immunotherapy-oncology-tcells-brain-tumor.html)
 
-[Fusion – A hobby OS implemented in Nim](https://github.com/khaledh/fusion)
+[Samsung's abandoned NX cameras can be brought online with a $20 LTE stick](https://op-co.de/blog/posts/samsung_nx_mastodon/)

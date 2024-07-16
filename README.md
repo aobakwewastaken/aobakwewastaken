@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[IQM achieves 99.9% 2-qubit gate fidelity and 1 millisecond coherence time](https://www.meetiqm.com/newsroom/press-releases/iqm-achieves-new-technology-milestones)
-
-[The Engineer's Guide to Deep Learning: Understanding the Transformer Model](https://www.interdb.jp/dl/)
-
-[PS-HTTPD: a web server written in PostScript](https://www.pugo.org/projects/pshttpd/)
+[People person: the greatness of Andrey Platonov](https://www.prospectmagazine.co.uk/culture/67208/people-person-the-greatness-of-andrey-platonov)
 
 [Run CUDA, unmodified, on AMD GPUs](https://docs.scale-lang.com/)
 
-[Exo: Run your own AI cluster at home with everyday devices](https://github.com/exo-explore/exo)
-
-[A Review of Linux on Surface Pro 4](https://www.binwang.me/2024-07-12-A-Review-of-Linux-on-Surface-Pro-4.html)
+[Golang disables Nagle's algorithm, making it evil on shitty networks](https://withinboredom.info/2022/12/29/golang-is-evil-on-shitty-networks/)
 
 [Automated Test-Case Reduction](https://www.cs.cornell.edu/~asampson/blog/autoreduction.html)
 
-[New Gaussian Splatting viewer that allows code modification during runtime](https://github.com/Florian-Barthel/splatviz)
+[Exo: Run your own AI cluster at home with everyday devices](https://github.com/exo-explore/exo)
 
 [Decoding DME aircraft radio navigation system with the LimeSDR](https://destevez.net/2024/07/recording-dme-with-the-limesdr/)
 
-[For advertising: Firefox now collects user data by default](https://www.heise.de/en/news/For-advertising-Firefox-now-collects-user-data-by-default-9801345.html)
+[New Gaussian Splatting viewer that allows code modification during runtime](https://github.com/Florian-Barthel/splatviz)
+
+[The Second Law of Thermodynamics (2011)](https://franklambert.net/secondlaw.com/)
+
+[KUtrace: Low-overhead Linux kernel tracing facility](https://github.com/dicksites/KUtrace)
+
+[The All-American Delusion of the Polygraph](https://lithub.com/what-the-all-american-delusion-of-the-polygraph-says-about-our-relationship-to-fact-and-fiction/)

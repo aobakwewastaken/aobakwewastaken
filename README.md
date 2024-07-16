@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [Run CUDA, unmodified, on AMD GPUs](https://docs.scale-lang.com/)
 
-[Amiga 2000 – Codename: Tesseract (2021)](https://retrohax.net/amiga-2000-codename-tesseract/)
+[A Review of Linux on Surface Pro 4](https://www.binwang.me/2024-07-12-A-Review-of-Linux-on-Surface-Pro-4.html)
+
+[Exo: Run your own AI cluster at home with everyday devices](https://github.com/exo-explore/exo)
+
+[How do jewellers capture every last particle of gold dust? (2017)](https://www.ft.com/content/0512638c-b7c2-11e6-961e-a1acd97f622d)
+
+[The Second Law of Thermodynamics](https://franklambert.net/secondlaw.com/)
+
+[KUtrace: Low-overhead Linux kernel tracing facility](https://github.com/dicksites/KUtrace)
 
 [The rise of the camera launched a fight to protect Gilded Age privacy](https://www.smithsonianmag.com/history/how-the-rise-of-the-camera-launched-a-fight-to-protect-gilded-age-americans-privacy-180984656/)
 
-[The Open Collaboration Tools](https://www.typefox.io/blog/open-collaboration-tools-announcement/)
+[Amiga 2000 – Codename: Tesseract (2021)](https://retrohax.net/amiga-2000-codename-tesseract/)
 
-[Quartz: A Deterministic Time Testing Library for Go](https://coder.com/blog/introducing-quartz)
+[Ask HN: Any tools to do generic WiFi imaging?]()
 
-[Researchers: Weak Security Defaults Enabled Squarespace Domains Hijacks](https://krebsonsecurity.com/2024/07/researchers-weak-security-defaults-enabled-squarespace-domains-hijacks/)
-
-[Transformer Layers as Painters](https://arxiv.org/abs/2407.09298)
-
-[Artie (YC S23) Is Hiring](https://www.ycombinator.com/companies/artie/jobs/N3AosVU-founding-engineer)
-
-[Immunotherapy Is Changing Cancer Treatment Forever](https://nymag.com/intelligencer/article/cancer-treatment-immunotherapy-oncology-tcells-brain-tumor.html)
-
-[Samsung's abandoned NX cameras can be brought online with a $20 LTE stick](https://op-co.de/blog/posts/samsung_nx_mastodon/)
+[Shapeshift: Semantically map JSON objects using key-level vector embeddings](https://github.com/rectanglehq/Shapeshift)

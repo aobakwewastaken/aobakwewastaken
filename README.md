@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Import and Export Markdown in Google Docs](https://workspaceupdates.googleblog.com/2024/07/import-and-export-markdown-in-google-docs.html)
+
+[Java Virtual Threads: A Case Study](https://www.infoq.com/articles/java-virtual-threads-a-case-study/)
+
+[Eight Years of GraphQL](https://www.magiroux.com/eight-years-of-graphql)
+
+[Darwin Machines](https://vedgie.net/writing/darwin_machines.md)
+
 [XLSTMTime: Long-Term Time Series Forecasting with xLSTM](https://arxiv.org/abs/2407.10240)
 
-[Codestral Mamba](https://mistral.ai/news/codestral-mamba/)
+[Data Formats: 3D, Audio, Image](https://paulbourke.net/dataformats/)
+
+[Win your fantasy league using operations research](https://www.alexmolas.com/2024/07/15/fantasy-knapsack.html)
+
+[I am starting an AI+Education company](https://twitter.com/karpathy/status/1813263734707790301)
 
 [Optimizing a bignum library for fun](https://austinhenley.com/blog/bignum2.html)
 
-[Johannes Hartlieb's Book of Herbs (1462)](https://publicdomainreview.org/collection/hartlieb-book-of-herbs/)
-
-[Electric Clouds This Summer](https://nautil.us/dont-miss-the-electric-clouds-this-summer-704313/)
-
-[Video Ethnography of "Icarus " on the Xerox Alto [video] (2017)](https://www.youtube.com/watch?v=BauuOoB6EIU)
-
-[Sync Labs (YC W24) Is Hiring a Staff Engineer](https://www.ycombinator.com/companies/sync-labs/jobs/CrRfnKu-founding-staff-engineer)
-
-[Ly: Display Manager with Console UI](https://github.com/fairyglade/ly)
-
-[Inside an IBM/Motorola mainframe controller chip from 1981](http://www.righto.com/2024/07/ibm-3274-keystone-chip.html)
-
-[Deconstructing the Role-Playing Video Game](https://olano.dev/blog/deconstructing-the-role-playing-videogame/)
+[The golden age of scammers: AI-powered phishing](https://www.mailgun.com/blog/email/ai-phishing/)

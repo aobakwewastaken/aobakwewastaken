@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Panic at the Tech Job Market](https://matt.sh/panic-at-the-job-market)
+[Jailbreaking RabbitOS: Uncovering secret logs, and GPL violations](https://www.da.vidbuchanan.co.uk/blog/r1-jailbreak.html)
 
-[Launch HN: Traceloop (YC W23) – Detecting LLM Hallucinations with OpenTelemetry]()
+[Panic at the Job Market](https://matt.sh/panic-at-the-job-market)
 
-[Reverse-Engineering an IP Camera](https://dalpix.com/reverse-engineering-ip-camera-part-1)
+[A brief interview with Awk creator Dr. Brian Kernighan (2022)](https://pldb.io/blog/brianKernighan.html)
 
-[Import and Export Markdown in Google Docs](https://workspaceupdates.googleblog.com/2024/07/import-and-export-markdown-in-google-docs.html)
+[TinyPod – Apple Watch case with scroll wheel](https://thetinypod.com/)
 
-[Puerto Rico files $1B suit against fossil fuel companies](https://www.theverge.com/2024/7/16/24199686/puerto-rico-fossil-fuel-industry-lawsuit-climate-change)
+[Little Languages (1986) [pdf]](https://staff.um.edu.mt/afra1/seminar/little-languages.pdf)
 
-[Vulnerable transistors threaten to upend Europa Clipper mission](https://www.science.org/content/article/vulnerable-transistors-threaten-upend-europa-clipper-mission)
+[NVIDIA Transitions Fully Towards Open-Source Linux GPU Kernel Modules](https://developer.nvidia.com/blog/nvidia-transitions-fully-towards-open-source-gpu-kernel-modules/)
 
-[Bhutan's first AI startup is seven college kids in a dorm](https://restofworld.org/2024/bhutan-first-ai-startup/)
+[The unexpected poetry of PhD acknowledgements](https://science.anu.edu.au/news-events/news/unexpected-poetry-phd-acknowledgements)
 
-[The Last Avant-Garde](https://lareviewofbooks.org/article/the-last-avant-garde/)
+[Draftaid (YC W24) Is Hiring](https://www.ycombinator.com/companies/draftaid/jobs/7d48v4k-software-engineer)
 
-[Tom Lehrer and Santa Cruz: the trail of one of America's premier satirists](https://lookout.co/tom-lehrer-and-santa-cruz-sleuthing-the-trail-of-one-of-americas-premier-satirists/)
+[Show HN: Product Hunt for Music](https://tracklist.it/)
 
-[NSCopyObject, the griefer that keeps on griefing](https://wadetregaskis.com/nscopyobject-the-griefer-that-keeps-on-griefing/)
+[Prover-Verifier Games improve legibility of language model outputs](https://openai.com/index/prover-verifier-games-improve-legibility/)

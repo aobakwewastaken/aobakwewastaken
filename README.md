@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Mistral NeMo](https://mistral.ai/news/mistral-nemo/)
+[Devzat – Chat over SSH, with some nice quality-of-life features](https://github.com/quackduck/devzat)
 
-[The Objects of Our Life](https://stevejobsarchive.com/exhibits/objects-of-our-life)
+[Type in Morse code by repeatedly slamming your laptop shut](https://github.com/veggiedefender/open-and-shut)
 
-[Hash-Based Bisect Debugging in Compilers and Runtimes](https://research.swtch.com/bisect)
+[The Objects of Our Life (1983)](https://stevejobsarchive.com/exhibits/objects-of-our-life)
 
-[Jailbreaking RabbitOS](https://www.da.vidbuchanan.co.uk/blog/r1-jailbreak.html)
+[Hash-based bisect debugging in compilers and runtimes](https://research.swtch.com/bisect)
 
-[Panic at the Job Market](https://matt.sh/panic-at-the-job-market)
+[Transcribro: On-device Accurate Speech-to-text](https://github.com/soupslurpr/Transcribro)
 
-[Ask HN: What's Prolog Like in 2024?]()
+[Polychromatic Pixels](https://compoundsemiconductor.net/article/119170/Polychromatic_pixels)
 
-[TinyPod – Apple Watch case with scroll wheel](https://thetinypod.com/)
+[Writing an MP4 Muxer for Fun and Profit](https://obsproject.com/blog/obs-studio-hybrid-mp4)
 
-[Jigsaw Puzzle Robot, Or: How We Solved a Puzzle in 15 Months [pdf]](https://cdn.shopify.com/s/files/1/0634/1535/3575/files/Puzzle_Robot_-_Technical_Writeup-compressed.pdf?v=1720839813)
+[Mutable.ai (YC W22) is hiring to build an AI codebase expert]()
 
-[Sparrows may be 'canary in the coal mine' for lead poisoning in children: study](https://www.abc.net.au/news/science/2024-07-18/sparrows-lead-poisoning-children-blood-levels-health-mining/104075894)
+[What would it take to recreate Bell Labs?](https://www.construction-physics.com/p/what-would-it-take-to-recreate-bell)
 
-[Elligator: Elliptic-curve points indistinguishable from uniform random strings (2013)](https://dl.acm.org/doi/10.1145/2508859.2516734)
+[USPS shared customer postal addresses with Meta, LinkedIn and Snap](https://techcrunch.com/2024/07/18/usps-shared-customer-postal-addresses-with-meta-linkedin-and-snap/)

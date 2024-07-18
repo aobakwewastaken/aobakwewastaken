@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Jailbreaking RabbitOS: Uncovering secret logs, and GPL violations](https://www.da.vidbuchanan.co.uk/blog/r1-jailbreak.html)
+[Jailbreaking RabbitOS](https://www.da.vidbuchanan.co.uk/blog/r1-jailbreak.html)
+
+[Money and Happiness: Extended Evidence Against Satiation](https://happiness-science.org/money-happiness-satiation/)
 
 [Panic at the Job Market](https://matt.sh/panic-at-the-job-market)
 
-[A brief interview with Awk creator Dr. Brian Kernighan (2022)](https://pldb.io/blog/brianKernighan.html)
+[A RP2040 based DECstation 3000 emulator that can run DECWindows](https://github.com/rscott2049/DECstation2040)
 
 [TinyPod – Apple Watch case with scroll wheel](https://thetinypod.com/)
 
-[Little Languages (1986) [pdf]](https://staff.um.edu.mt/afra1/seminar/little-languages.pdf)
-
-[NVIDIA Transitions Fully Towards Open-Source Linux GPU Kernel Modules](https://developer.nvidia.com/blog/nvidia-transitions-fully-towards-open-source-gpu-kernel-modules/)
+[SAPwned: SAP AI vulnerabilities expose customers' cloud environments and privat](https://www.wiz.io/blog/sapwned-sap-ai-vulnerabilities-ai-security)
 
 [The unexpected poetry of PhD acknowledgements](https://science.anu.edu.au/news-events/news/unexpected-poetry-phd-acknowledgements)
 
-[Draftaid (YC W24) Is Hiring](https://www.ycombinator.com/companies/draftaid/jobs/7d48v4k-software-engineer)
+[A brief interview with Awk creator Dr. Brian Kernighan (2022)](https://pldb.io/blog/brianKernighan.html)
 
-[Show HN: Product Hunt for Music](https://tracklist.it/)
+[Releasing an Album on Floppy Disk](https://www.michaelgale.dev/blog/releasing-an-album-on-floppy-disk)
 
-[Prover-Verifier Games improve legibility of language model outputs](https://openai.com/index/prover-verifier-games-improve-legibility/)
+[Closed form arc length parametrization is impossible for quadratic Bézier curves](https://ninjakoa.la/curly_curves/posts/quadratic_bezier_arc_length_parametrization/)

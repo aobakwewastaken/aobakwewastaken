@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Jellyfin: We're Good, Seriously](https://forum.jellyfin.org/t-we-re-good-seriously)
-
-[Parse, Don't Validate (2019)](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
+[Mermaid Gantt diagrams are great for displaying distributed traces in Markdown (2023)](https://brycemecum.com/2023/03/31/til-mermaid-tracing/)
 
 [Jiff: A brand new Datetime library for Rust, from the author of ripgrep](https://github.com/BurntSushi/jiff)
 
+[No More Blue Fridays](https://www.brendangregg.com/blog/2024-07-22/no-more-blue-fridays.html)
+
 [Show HN: A Source Available billing system I've spent 18 months building](https://billabear.com/)
 
-[Orch: a Rust framework for LLM orchestration](https://github.com/guywaldman/orch)
+[Wide angle lens distortion correction from lines](https://hh409.user.srcf.net/blog/lens-distortion-correction-lines.html)
 
-[Bash-Oneliners: A collection of terminal tricks for Linux](https://github.com/onceupon/Bash-Oneliner)
+[rrweb – record and replay debugger for the web](https://www.rrweb.io/)
 
-[How to Become a Registrar](https://www.icann.org/resources/pages/accreditation-2012-02-25-en)
+[So you think you know box shadows?](https://dgerrells.com/blog/how-not-to-use-box-shadows)
 
-[What's the point of std:monostate? You can't do anything with it](https://devblogs.microsoft.com/oldnewthing/20240708-00/?p=109959)
+[Pin](https://without.boats/blog/pin/)
 
-[FastDoom – Performance Gains on Slow 386 and 486 CPUs](https://www.youtube.com/watch?v=9zAI8K7OzDQ)
+[How fast can a human possibly run 100 meters?](https://bigthink.com/starts-with-a-bang/fast-human-run-100-meters/)
 
-[Eza: A modern, maintained replacement for ls](https://github.com/eza-community/eza)
+[UpCodes (YC S17) Is Hiring SWEs Across the Americas](https://up.codes/careers?utm_source=HN)

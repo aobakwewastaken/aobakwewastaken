@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[The Linux audio stack demystified (and more)](https://blog.rtrace.io/posts/the-linux-audio-stack-demystified/)
+
 [Kawaii – A Keychain-Sized Nintendo Wii](https://bitbuilt.net/forums/index.php?threads/kawaii.6474/)
 
-[Copying is the way design works](https://matthewstrom.com/writing/copying/)
-
-[Scientists discover a new hormone that can build strong bones](https://www.ucsf.edu/news/2024/07/428011/scientists-discover-new-hormone-can-build-strong-bones)
-
-[Glasgow 2024 Hugo Awards Statement – 22 July, 2024](https://glasgow2024.org/hugo-awards/statement-22-july-2024/)
-
-[July 2024 Update on Instability Reports on Intel Core 13th/14th Gen Desktop CPUs](https://community.intel.com/t5/Processors/July-2024-Update-on-Instability-Reports-on-Intel-Core-13th-and/m-p/1617113#M74792)
-
-[Maestro: Netflix's Workflow Orchestrator](https://netflixtechblog.com/maestro-netflixs-workflow-orchestrator-ee13a06f9c78)
-
-[What Is Entropy?](https://johncarlosbaez.wordpress.com/2024/07/20/what-is-entropy/)
+[Cure for male pattern baldness given boost by sugar discovery](https://www.sheffield.ac.uk/news/cure-male-pattern-baldness-given-boost-sugar-discovery)
 
 [Timeshift: System Restore Tool for Linux](https://github.com/linuxmint/timeshift)
 
-[July 2024 Update on Instability Reports on Intel Core Processors](https://community.intel.com/t5/Processors/July-2024-Update-on-Instability-Reports-on-Intel-Core-13th-and/m-p/1617116)
+[Copying is the way design works](https://matthewstrom.com/writing/copying/)
 
-[A Gentle Introduction to SAML](https://ssoready.com/blog/engineering/a-gentle-intro-to-saml/)
+[Scientists discover a new hormone that can build strong bones in mice](https://www.ucsf.edu/news/2024/07/428011/scientists-discover-new-hormone-can-build-strong-bones)
+
+[Button Stealer](https://anatolyzenkov.com/stolen-buttons/button-stealer)
+
+[The Elegance of the ASCII Table](https://danq.me/2024/07/21/ascii/)
+
+[Show HN: Lisp in C#](https://github.com/codr7/sharpl)
+
+[What Is Entropy?](https://johncarlosbaez.wordpress.com/2024/07/20/what-is-entropy/)

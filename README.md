@@ -1,9 +1,11 @@
 # Top Stories on hackernews <br />
+[Database Design for Google Calendar: A Tutorial](https://kb.databasedesignbook.com/posts/google-calendar/)
+
 [The Linux audio stack demystified (and more)](https://blog.rtrace.io/posts/the-linux-audio-stack-demystified/)
 
 [Kawaii – A Keychain-Sized Nintendo Wii](https://bitbuilt.net/forums/index.php?threads/kawaii.6474/)
 
-[Cure for male pattern baldness given boost by sugar discovery](https://www.sheffield.ac.uk/news/cure-male-pattern-baldness-given-boost-sugar-discovery)
+[Types as Interfaces](https://two-wrongs.com/types-as-interfaces)
 
 [Timeshift: System Restore Tool for Linux](https://github.com/linuxmint/timeshift)
 
@@ -16,5 +18,3 @@
 [The Elegance of the ASCII Table](https://danq.me/2024/07/21/ascii/)
 
 [Show HN: Lisp in C#](https://github.com/codr7/sharpl)
-
-[What Is Entropy?](https://johncarlosbaez.wordpress.com/2024/07/20/what-is-entropy/)

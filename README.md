@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Database Design for Google Calendar: A Tutorial](https://kb.databasedesignbook.com/posts/google-calendar/)
+[Llama 3.1 Official Launch](https://llama.meta.com/)
 
-[Strace Revisited: Simple Is Beautiful](https://debugagent.com/strace-revisited-simple-is-beautiful)
+[A free tool to quickly detect counterfeit flash (2017)](https://fight-flash-fraud.readthedocs.io/en/latest/introduction.html#correcting-capacity-to-actual-size-with-f3fix)
 
-[Kawaii – A Keychain-Sized Nintendo Wii](https://bitbuilt.net/forums/index.php?threads/kawaii.6474/)
+[Median filtering (2022)](https://www.crisluengo.net/archives/1138/)
+
+[Trunk: Build, bundle and ship your Rust WASM application to the web](https://trunkrs.dev/)
 
 [Types as Interfaces](https://two-wrongs.com/types-as-interfaces)
 
-[The Linux audio stack demystified (and more)](https://blog.rtrace.io/posts/the-linux-audio-stack-demystified/)
+[Kawaii – A Keychain-Sized Nintendo Wii](https://bitbuilt.net/forums/index.php?threads/kawaii.6474/)
+
+[Ruby Methods Are Colorless](https://jpcamara.com/2024/07/15/ruby-methods-are.html)
+
+[A (not so) small library for terminal based game development](https://github.com/pygamelib/pygamelib)
 
 [Timeshift: System Restore Tool for Linux](https://github.com/linuxmint/timeshift)
 
-[U.S. maternal death rate increasing at an alarming rate](https://news.northwestern.edu/stories/2024/03/u-s-maternal-death-rate-increasing-at-an-alarming-rate/)
-
 [Copying is the way design works](https://matthewstrom.com/writing/copying/)
-
-[Scientists discover a new hormone that can build strong bones in mice](https://www.ucsf.edu/news/2024/07/428011/scientists-discover-new-hormone-can-build-strong-bones)
-
-[Button Stealer](https://anatolyzenkov.com/stolen-buttons/button-stealer)

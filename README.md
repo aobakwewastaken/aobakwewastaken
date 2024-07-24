@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Anyone can access deleted and private repository data on GitHub](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github)
+
+[A Multimodal Dataset with One Trillion Tokens](https://github.com/mlfoundations/MINT-1T)
+
+[Dungeons and Dragons taught me how to write alt text](https://ericwbailey.website/published/dungeons-and-dragons-taught-me-how-to-write-alt-text/)
+
+[Phish-friendly domain registry ".top" put on notice](https://krebsonsecurity.com/2024/07/phish-friendly-domain-registry-top-put-on-notice/)
+
+[Alexa is in millions of households and Amazon is losing billions](https://www.wsj.com/tech/amazon-alexa-devices-echo-losses-strategy-25f2581a)
+
 [Large Enough – Mistral AI](https://mistral.ai/news/mistral-large-2407/)
 
-[Crash Course in Deep Learning (For Computer Graphics)](https://gpuopen.com/learn/deep_learning_crash_course/)
+[Hiding Linux Processes with Bind Mounts](https://righteousit.com/2024/07/24/hiding-linux-processes-with-bind-mounts/)
 
 [InteractiVenn – Interactive Venn Diagrams](https://interactivenn.net/index.html)
 
-[Open source AI is the path forward](https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/)
+[Physicists may now have a way to make element 120](https://www.newscientist.com/article/2440445-physicists-may-now-have-a-way-to-make-element-120-the-heaviest-ever/)
 
-[The algebra (and calculus) of algebraic data types](https://codewords.recurse.com/issues/three/algebra-and-calculus-of-algebraic-data-types)
-
-[CrowdStrike offers a $10 apology gift card to say sorry for outage](https://techcrunch.com/2024/07/24/crowdstrike-offers-a-10-apology-gift-card-to-say-sorry-for-outage/)
-
-[Visual explanation of saml authentication](https://www.sheshbabu.com/posts/visual-explanation-of-saml-authentication/)
-
-[Solving the out-of-context chunk problem for RAG](https://d-star.ai/solving-the-out-of-context-chunk-problem-for-rag)
-
-[Learn in Public (2018)](https://www.swyx.io/learn-in-public)
-
-[You got a null result. Will anyone publish it?](https://www.nature.com/articles/d41586-024-02383-9)
+[Space-filling curves, constructively](https://math.andrej.com/2024/01/30/space-filling-curves-constructively/)

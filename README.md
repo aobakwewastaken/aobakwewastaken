@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[AI solves IMO problems at silver medal level](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/)
+
+[Reverse Engineering for Everyone](https://0xinfection.github.io/reversing/)
+
+[The CAP theorem Is Irrelevant for Cloud Systems](https://brooker.co.za/blog/2024/07/25/cap-again.html)
+
 [Node.js adds experimental support for TypeScript](https://github.com/nodejs/node/pull/53725)
+
+[Launch HN: Undermind (YC S24) – AI agent for discovering scientific papers]()
 
 [Anyone can access deleted and private repository data on GitHub](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github)
 
 [My Favorite Algorithm: Linear Time Median Finding (2018)](https://rcoh.me/posts/linear-time-median-finding/)
 
-[Generating sudokus for fun and no profit](https://tn1ck.com/blog/how-to-generate-sudokus)
+[Show HN: Tiny Moon – Swift library to calculate the moon phase](https://github.com/mannylopez/TinyMoon)
 
 [Investigating corrupt Winamp skins](https://jordaneldredge.com/notes/corrupted-skins/)
 
-[Humans 1, Chimps 0: Correcting the Record](https://www.jasoncollins.blog/posts/humans-1-chimps-0-correcting-the-record)
-
-[Defense of Lisp Macros](https://mihaiolteanu.me/defense-of-lisp-macros)
-
-[Every company should be owned by its employees](https://www.elysian.press/p/employee-ownership)
-
-[Veles: Open-source tool for binary data analysis](https://codisec.com/veles/)
-
-[Supabase (YC S20) Is Hiring Auth Engineers (Fully Remote)](https://boards.greenhouse.io/supabase/jobs/5225004004)
+[Memory Mapping an FPGA from an STM32](https://serd.es/2024/07/24/Memory-mapping-an-FPGA-from-a-STM32.html)

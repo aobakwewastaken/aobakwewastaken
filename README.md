@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[AI solves IMO problems at silver medal level](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/)
+[AI solves International Math Olympiad problems at silver medal level](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/)
+
+[A Clone of Deluxe Paint II Written in Python](https://github.com/mriale/PyDPainter)
+
+[U.S. Department of Defense – Detecting Agile BS [pdf]](https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF)
+
+[Jacek Karpińśki, the computer genius the communists couldn't stand (2017)](https://culture.pl/en/article/jacek-karpinski-the-computer-genius-the-communists-couldnt-stand)
 
 [Reverse Engineering for Everyone](https://0xinfection.github.io/reversing/)
 
-[The CAP theorem Is Irrelevant for Cloud Systems](https://brooker.co.za/blog/2024/07/25/cap-again.html)
+[Show HN: Haystack – an IDE for exploring and editing code on an infinite canvas](https://haystackeditor.com/)
 
-[Node.js adds experimental support for TypeScript](https://github.com/nodejs/node/pull/53725)
+[Show HN: Wat – Deep inspection of Python objects](https://github.com/igrek51/wat)
 
 [Launch HN: Undermind (YC S24) – AI agent for discovering scientific papers]()
 
-[Anyone can access deleted and private repository data on GitHub](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github)
+[Real-Time Procedural Generation with GPU Work Graphs [pdf]](https://gpuopen.com/download/publications/Real-Time_Procedural_Generation_with_GPU_Work_Graphs-GPUOpen_preprint.pdf)
 
 [My Favorite Algorithm: Linear Time Median Finding (2018)](https://rcoh.me/posts/linear-time-median-finding/)
-
-[Show HN: Tiny Moon – Swift library to calculate the moon phase](https://github.com/mannylopez/TinyMoon)
-
-[Investigating corrupt Winamp skins](https://jordaneldredge.com/notes/corrupted-skins/)
-
-[Memory Mapping an FPGA from an STM32](https://serd.es/2024/07/24/Memory-mapping-an-FPGA-from-a-STM32.html)

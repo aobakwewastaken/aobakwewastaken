@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Pongamia trees grow where citrus once flourished](https://phys.org/news/2024-07-pongamia-trees-citrus-flourished-renewable.html)
+[Bayesian Statistics: The three cultures](https://statmodeling.stat.columbia.edu/2024/07/10/three-cultures-bayes-subjective-objective-pragmatic/)
 
-[AI solves International Math Olympiad problems at silver medal level](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/)
+[Why does the chromaticity diagram look like that?](https://jlongster.com/why-chromaticity-shape)
 
-[NASA Graphics Standards Manual](https://standardsmanual.com/products/nasa-graphics-standards-manual)
+[Call the compiler, fax it your code [video]](https://www.youtube.com/watch?v=pJ-25-pRhpY)
 
-[Show HN: Haystack – an IDE for exploring and editing code on an infinite canvas](https://haystackeditor.com/)
+[Zen 5's 2-Ahead Branch Predictor: How a 30 Year Old Idea Allows for New Tricks](https://chipsandcheese.com/2024/07/26/zen-5s-2-ahead-branch-predictor-unit-how-30-year-old-idea-allows-for-new-tricks/)
 
-[Launch HN: Undermind (YC S24) – AI agent for discovering scientific papers]()
+[Show HN: Patchwork – Open-source framework to automate development gruntwork](https://github.com/patched-codes/patchwork)
 
-[A hash table by any other name](https://lwn.net/Articles/972580/)
+[Monumental proof settles geometric Langlands conjecture](https://www.quantamagazine.org/monumental-proof-settles-geometric-langlands-conjecture-20240719/)
 
-[Show HN: Wat – Deep inspection of Python objects](https://github.com/igrek51/wat)
+[Repulsive Shells [video]](https://www.youtube.com/watch?v=qDM6bCt1Gic)
 
-[When British Railways Deliberately Crashed a Train](https://www.therailwayhub.co.uk/67072/from-the-archive-operation-smash-hit-84/)
+[Tesorio (YC S15) Is Hiring a Senior GenAI/LLM Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
 
-[OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/4381552006)
+[A simple procedural animation technique [video]](https://www.youtube.com/watch?v=qlfh_rv6khY)
 
-[A Swiss Town Banned Billboards. Zurich, Bern May Soon Follow](https://www.bloomberg.com/news/articles/2024-07-26/zurich-bern-consider-billboard-bans-after-vernier-outlaws-visual-pollution)
+[Finding a random seed that solves a LeetCode problem (2023)](https://mcognetta.github.io/posts/leetcode-random-seed/)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Free DDNS with Cloudflare and a Cronjob](https://github.com/devrim/cloudflare-noip)
+[An experiment in UI density created with Svelte](https://cybernetic.dev/grid)
 
-[Oscar Zariski  was one of the founders of modern algebraic geometry](https://boogiemath.org/meta/meta-9.html)
+[Managarm: Pragmatic microkernel-based OS with asynchronous I/O](https://github.com/managarm/managarm)
 
-[Bashsimplecurses: Simple curses library made in bash to draw terminal interfaces](https://github.com/metal3d/bashsimplecurses)
+[Show HN: Semantic Grep – A Word2Vec-powered search tool](https://github.com/arunsupe/semantic-grep)
 
-[Evidence for global cultural diffusion](https://www.vectorsofmind.com/p/evidence-for-global-cultural-diffusion)
+[Göttingen was one of the most productive centers of mathematics](https://theconversation.com/how-one-german-city-developed-and-then-lost-generations-of-math-geniuses-106750)
+
+[Tritone Substitutions](https://johncarlosbaez.wordpress.com/2024/07/27/tritone-substitutions/)
+
+[The secret of Minecraft (2014)](https://medium.com/message/the-secret-of-minecraft-97dfacb05a3c)
+
+[Roguecraft Devs on Developing for Amiga in 2024](https://www.timeextension.com/features/interview-its-easy-to-get-a-bit-over-ambitious-roguecraft-devs-on-developing-for-amiga-in-2024)
+
+[An Interview with Robert Caro and Kurt Vonnegut (1999)](https://www.robertcaro.org/post/an-interview-with-robert-caro-and-kurt-vonnegut)
+
+[Oscar Zariski forgot about his own wedding](https://boogiemath.org/meta/meta-9.html)
 
 [Learning about PCI-e: Driver and DMA](https://blog.davidv.dev/posts/pcie-driver-dma/)
-
-[In the Beginning Was the Command Line (1999)](https://web.stanford.edu/class/cs81n/command.txt)
-
-[Adobe exec compared Creative Cloud cancellation fees to 'heroin'](https://www.theverge.com/2024/7/25/24205774/adobe-ftc-lawsuit-creative-cloud-cancellation-fees-heroin)
-
-[Oh man! Our entire team has been replaced by Vietnam developers.](https://old.reddit.com/r/developersIndia/comments/1eckee9/oh_man_our_entire_team_has_been_replaced_by/)
-
-[The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
-
-[Was early modern writing paper expensive? (2018)](https://www.rpvl.cz/en/)

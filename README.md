@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
+
+[Windows recovery environment and bootable USB creator in 200kb](https://github.com/joshuacline/windick)
+
+[Paper cuttings made by 17th-century schoolgirls discovered beneath floorboards](https://www.smithsonianmag.com/smart-news/rare-350-year-old-paper-cuttings-from-a-london-girls-school-go-on-display-180984712/)
+
+[In the Beginning Was the Command Line](https://web.stanford.edu/class/cs81n/command.txt)
+
+[Reverse-engineering my speakers' API to get reasonable volume control](https://jamesbvaughan.com/volume-controller-1/)
+
+[Twenty (YC S23) Is Hiring a Software Engineer in Paris](https://www.ycombinator.com/companies/twenty/jobs/b1Uku7w-senior-software-engineer)
+
+[Mastering Ruby Code Navigation: Ruby LSP Enhancements in the First Half of 2024](https://railsatscale.com/2024-07-18-mastering-ruby-code-navigation-major-enhancements-in-ruby-lsp-2024/)
+
+[Zen 5's 2-ahead branch predictor: how a 30 year old idea allows for new tricks](https://chipsandcheese.com/2024/07/26/zen-5s-2-ahead-branch-predictor-unit-how-30-year-old-idea-allows-for-new-tricks/)
+
 [Bayesian Statistics: The three cultures](https://statmodeling.stat.columbia.edu/2024/07/10/three-cultures-bayes-subjective-objective-pragmatic/)
 
-[Why does the chromaticity diagram look like that?](https://jlongster.com/why-chromaticity-shape)
-
-[Call the compiler, fax it your code [video]](https://www.youtube.com/watch?v=pJ-25-pRhpY)
-
-[Zen 5's 2-Ahead Branch Predictor: How a 30 Year Old Idea Allows for New Tricks](https://chipsandcheese.com/2024/07/26/zen-5s-2-ahead-branch-predictor-unit-how-30-year-old-idea-allows-for-new-tricks/)
-
-[Show HN: Patchwork – Open-source framework to automate development gruntwork](https://github.com/patched-codes/patchwork)
-
-[Monumental proof settles geometric Langlands conjecture](https://www.quantamagazine.org/monumental-proof-settles-geometric-langlands-conjecture-20240719/)
-
-[Repulsive Shells [video]](https://www.youtube.com/watch?v=qDM6bCt1Gic)
-
-[Tesorio (YC S15) Is Hiring a Senior GenAI/LLM Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
-
-[A simple procedural animation technique [video]](https://www.youtube.com/watch?v=qlfh_rv6khY)
-
-[Finding a random seed that solves a LeetCode problem (2023)](https://mcognetta.github.io/posts/leetcode-random-seed/)
+[Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/)

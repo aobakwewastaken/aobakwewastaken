@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[My favorite tools and techniques for procedural gamedev](https://cprimozic.net/blog/tools-and-techniques-for-procedural-gamedev/)
+[Show HN: A football/soccer pass visualizer made with Three.js](https://statsbomb-3d-viz.vercel.app/)
 
-[Show HN: CeLLama – Single cell annotation with local Large Language Models](https://github.com/CelVoxes/ceLLama)
+[How many children had Lady Macbeth?](https://lifeandletters.substack.com/p/how-many-children-had-lady-macbeth)
 
-[Irrational hungry judge effect: magnitude is overestimated (2023)](https://www.cambridge.org/core/journals/judgment-and-decision-making/article/irrational-hungry-judge-effect-revisited-simulations-reveal-that-the-magnitude-of-the-effect-is-overestimated/61CE825D4DC137675BB9CAD04571AE58)
+[How simultaneous multithreading works under the hood](https://blog.codingconfessions.com/p/simultaneous-multithreading)
 
-[How to debug your battery design](https://github.com/ionworks/how-to-debug-your-battery)
+[Show HN: I built an open-source tool to make on-call suck less](https://github.com/opslane/opslane)
 
-[An experiment in UI density created with Svelte](https://cybernetic.dev/grid)
+[Italy's Sun Motorway (2021)](https://www.domusweb.it/en/architecture/gallery/2021/07/16/the-sun-motorway-is-65-years-old-a-short-story-of-an-extraordinary-infrastructure.html)
 
-[The Ridgway: Hike the 5k-year-old pathway that's Britain's oldest road](https://www.bbc.com/travel/article/20240723-the-ridgway-hike-the-5000-year-old-pathway-thats-britains-oldest-road)
+[Don't blindly prefer `emplace_back` to `push_back`](https://quuxplusone.github.io/blog/2021/03/03/push-back-emplace-back/)
 
-[What Visa earnings tell us about the state of the payments industry](https://www.popularfintech.com/p/what-visa-earnings-really-tell-us)
+[Coulomb explosion](https://en.wikipedia.org/wiki/Coulomb_explosion)
 
-[Show HN: Semantic Grep – A Word2Vec-powered search tool](https://github.com/arunsupe/semantic-grep)
+[FurtherAI (YC W24) Is Hiring Founding Software Engineers in Bay Area](https://www.ycombinator.com/companies/furtherai/jobs/YZZvimn-founding-software-engineer)
 
-[PermitFlow (YC W22) Is Hiring Senior/Staff+ Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
+[Show HN: I made a tool to receive alerts when answers change](https://www.alertfor.com/)
 
-[Göttingen was one of the most productive centers of mathematics (2019)](https://theconversation.com/how-one-german-city-developed-and-then-lost-generations-of-math-geniuses-106750)
+[Show HN: CeLLama – Single cell annotation with local LLMs](https://github.com/CelVoxes/ceLLama)

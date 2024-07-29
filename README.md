@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Show HN: A football/soccer pass visualizer made with Three.js](https://statsbomb-3d-viz.vercel.app/)
+[tolower() with AVX-512](https://dotat.at/@/2024-07-28-tolower-avx512.html)
 
-[How many children had Lady Macbeth?](https://lifeandletters.substack.com/p/how-many-children-had-lady-macbeth)
-
-[How simultaneous multithreading works under the hood](https://blog.codingconfessions.com/p/simultaneous-multithreading)
+[ps aux written in bash without forking](https://github.com/izabera/ps)
 
 [Show HN: I built an open-source tool to make on-call suck less](https://github.com/opslane/opslane)
 
-[Italy's Sun Motorway (2021)](https://www.domusweb.it/en/architecture/gallery/2021/07/16/the-sun-motorway-is-65-years-old-a-short-story-of-an-extraordinary-infrastructure.html)
+[Show HN: Vdm, a sane alternative to e.g. Git submodules](https://github.com/opensourcecorp/vdm)
 
-[Don't blindly prefer `emplace_back` to `push_back`](https://quuxplusone.github.io/blog/2021/03/03/push-back-emplace-back/)
+[The Tech of Planetary Annihilation: ChronoCam (2013)](https://www.forrestthewoods.com/blog/tech_of_planetary_annihilation_chrono_cam/)
 
-[Coulomb explosion](https://en.wikipedia.org/wiki/Coulomb_explosion)
+[Higher-kinded bounded polymorphism in OCaml (2021)](https://okmij.org/ftp/ML/higher-kind-poly.html)
 
-[FurtherAI (YC W24) Is Hiring Founding Software Engineers in Bay Area](https://www.ycombinator.com/companies/furtherai/jobs/YZZvimn-founding-software-engineer)
+[How simultaneous multithreading works under the hood](https://blog.codingconfessions.com/p/simultaneous-multithreading)
 
-[Show HN: I made a tool to receive alerts when answers change](https://www.alertfor.com/)
+[LeanDojo: Theorem Proving in Lean Using LLMs](https://leandojo.org/)
 
-[Show HN: CeLLama – Single cell annotation with local LLMs](https://github.com/CelVoxes/ceLLama)
+[Show HN: A football/soccer pass visualizer made with Three.js](https://statsbomb-3d-viz.vercel.app/)
+
+[Ask HN: Strategies to Reduce AI Hallucinations?]()

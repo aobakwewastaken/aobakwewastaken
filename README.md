@@ -3,18 +3,18 @@
 
 [Movable tree CRDTs and Loro's implementation](https://loro.dev/blog/movable-tree)
 
-[Show HN: Tea-tasting, a Python package for the statistical analysis of A/B tests](https://e10v.me/tea-tasting-analysis-of-experiments/)
+[Yark: YouTube Archiver with Offline UI](https://github.com/Owez/yark)
 
-[Launch HN: Roame (YC S23) – flight search engine for your credit card points]()
+[Launch HN: Roame (YC S23) – Flight search engine for your credit card points]()
+
+[Show HN: Tea-tasting, a Python package for the statistical analysis of A/B tests](https://e10v.me/tea-tasting-analysis-of-experiments/)
 
 [Virtual Apollo Guidance Computer](https://github.com/virtualagc/virtualagc)
 
+[Lambda: The Gathering](https://esolangs.org/wiki/Lambda:_the_Gathering)
+
 [SVG Triangle of Compromise](https://me.micahrl.com/blog/svg-triangle-of-compromise/)
 
-[Columbia's near-miss: Why we should always expect the unexpected in space](https://www.theregister.com/2024/07/26/space_shuttle_columbia_near_miss/)
+[How to build highly-debuggable C++ binaries](https://dhashe.com/how-to-build-highly-debuggable-c-binaries.html)
 
-[Confido (YC S21) Is Hiring]()
-
-[ps aux written in bash without forking](https://github.com/izabera/ps)
-
-[tolower() with AVX-512](https://dotat.at/@/2024-07-28-tolower-avx512.html)
+[Designing the Super Nintendo Video System](https://fabiensanglard.net/snes_video/index.html)

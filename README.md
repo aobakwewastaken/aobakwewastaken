@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[The Four Theories of Truth as a Method for Critical Thinking](https://imfeld.dev/notes/article_the_four_theories_of_truth_as_a_method_for_critical_thinking)
+[My mental model of setf was wrong](https://simondobson.org/2024/07/27/my-mental-model-of-setf-was-wrong/)
+
+[Movable tree CRDTs and Loro's implementation](https://loro.dev/blog/movable-tree)
+
+[Show HN: Tea-tasting, a Python package for the statistical analysis of A/B tests](https://e10v.me/tea-tasting-analysis-of-experiments/)
+
+[Launch HN: Roame (YC S23) – flight search engine for your credit card points]()
+
+[Virtual Apollo Guidance Computer](https://github.com/virtualagc/virtualagc)
 
 [SVG Triangle of Compromise](https://me.micahrl.com/blog/svg-triangle-of-compromise/)
 
-[tolower() with AVX-512](https://dotat.at/@/2024-07-28-tolower-avx512.html)
+[Columbia's near-miss: Why we should always expect the unexpected in space](https://www.theregister.com/2024/07/26/space_shuttle_columbia_near_miss/)
+
+[Confido (YC S21) Is Hiring]()
 
 [ps aux written in bash without forking](https://github.com/izabera/ps)
 
-[Typewise (YC S22) Is Hiring a DevOps Engineer (Europe Timezone)](https://www.ycombinator.com/companies/typewise/jobs/lXycM81-devops-engineer-f-m-x)
-
-[Show HN: I built an open-source tool to make on-call suck less](https://github.com/opslane/opslane)
-
-[Columbia's near-miss: Why we should always expect the unexpected in space](https://www.theregister.com/2024/07/26/space_shuttle_columbia_near_miss/)
-
-[LeanDojo: Theorem Proving in Lean Using LLMs](https://leandojo.org/)
-
-[The Tech of Planetary Annihilation: ChronoCam (2013)](https://www.forrestthewoods.com/blog/tech_of_planetary_annihilation_chrono_cam/)
-
-[Higher-kinded bounded polymorphism in OCaml (2021)](https://okmij.org/ftp/ML/higher-kind-poly.html)
+[tolower() with AVX-512](https://dotat.at/@/2024-07-28-tolower-avx512.html)

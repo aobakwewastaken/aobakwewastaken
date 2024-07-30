@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[CrowdStrike's impact on aviation](https://heavymeta.org/2024/07/28/crowdstrikes-impact-on-aviation.html)
+[SAM 2: Segment Anything in Images and Videos](https://github.com/facebookresearch/segment-anything-2)
 
-[Julia for Economists Bootcamp](https://github.com/cpfiffer/julia-bootcamp-2022)
+[Diffusion Training from Scratch on a Micro-Budget](https://arxiv.org/abs/2407.15811)
 
-[TreeSeg: Hierarchical Topic Segmentation of Large Transcripts](https://augmend.com/blog/TreeSeg)
+[Lewis Lapham has died](https://www.nytimes.com/2024/07/24/business/media/lewis-h-lapham-dead.html)
 
-[Movable tree CRDTs and Loro's implementation](https://loro.dev/blog/movable-tree)
+[FastHTML – Modern web applications in pure Python](https://fastht.ml/)
 
-[Launch HN: Roame (YC S23) – Flight search engine for your credit card points]()
+[Four billion years in four minutes – Simulating worlds on the GPU](https://davidar.io/post/sim-glsl)
 
-[Notes on Taylor and Maclaurin Series](https://eli.thegreenplace.net/2024/notes-on-taylor-and-maclaurin-series/)
+[Orca: WebAssembly Apps Without the Web](https://orca-app.dev/index.html)
 
-[Memory Efficient Data Streaming to Parquet Files](https://estuary.dev/memory-efficient-streaming-parquet/)
+[LG and Samsung are making TV screens disappear](https://spectrum.ieee.org/transparent-tv)
 
-[Do Penguins Have Knees? (2019)](https://www.penguinsinternational.org/do-penguins-have-knees-and-other-frequently-asked-questions/)
+[Video is a language for making movies](https://lang.video/)
 
-[My mental model of setf was wrong](https://simondobson.org/2024/07/27/my-mental-model-of-setf-was-wrong/)
+[Ask HN: What are you using to parse PDFs for RAG?]()
 
-[Virtual Apollo Guidance Computer](https://github.com/virtualagc/virtualagc)
+[Microjs](http://microjs.com/)

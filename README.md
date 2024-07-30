@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[A Eulogy for Dark Sky, a Data Visualization Masterpiece (2023)](https://nightingaledvs.com/dark-sky-weather-data-viz/)
+[Porffor: A from-scratch ahead-of-time JS engine](https://porffor.dev/)
 
-[Was the Internet created to survive a nuclear strike?](https://siliconfolklore.com/internet-history/)
+[Launch HN: SSOReady (YC W24) – Making SAML SSO painless and open source]()
 
-[DARPA: Translating All C to Rust (Tractor)](https://www.darpa.mil/program/translating-all-c-to-rust)
+[The Truth About Linear Regression (2015)](https://www.stat.cmu.edu/~cshalizi/TALR/)
 
-[Making Machines Move](https://fly.io/blog/machine-migrations/)
+[Missing Henry VIII portrait found after random X post](https://www.bbc.com/news/articles/ckdgp7r5y11o)
 
-[Meta Launches AI Studio in US](https://ai.meta.com/ai-studio/)
+[Swift Homomorphic Encryption](https://www.swift.org/blog/announcing-swift-homomorphic-encryption/)
 
-[Dear AI Companies, instead of scraping OpenStreetMap, how about a $10k donation?](https://en.osm.town/@Firefishy/112875549871566269)
+[The Hitchhiker's Guide to Logical Verification [pdf]](https://browncs1951x.github.io/static/files/hitchhikersguide.pdf)
 
-[Butterflies accumulate static electricity to attract pollen without contact](https://www.bristol.ac.uk/news/2024/july/butterflies-static-electricity.html)
+[Functional programming languages should be better at mutation than they are](https://cohost.org/prophet/post/7083950-functional-programming)
 
-[Calculating the Cost of a Google Deepmind Paper](https://152334H.github.io/blog/scaling-exponents/)
+[Show HN: Stempad – Fast Online Scientific Writing](https://www.stempad.io/editor/85b7f0fc-c865-4011-89a8-216d8b88b249?copy=true)
 
-[Show HN: A Video Editing SDK That Runs in the Browser](https://rendley.com/)
+[Was the Internet created to survive a nuclear strike? (2022)](https://siliconfolklore.com/internet-history/)
 
-[C Macro Reflection in Zig – Zig Has Better C Interop Than C Itself](https://jstrieb.github.io/posts/c-reflection-zig/)
+[Translating All C to Rust (TRACTOR)](https://www.darpa.mil/program/translating-all-c-to-rust)

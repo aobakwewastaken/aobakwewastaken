@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Porffor: A from-scratch ahead-of-time JS engine](https://porffor.dev/)
+[Rustgo: Calling Rust from Go with near-zero overhead (2017)](https://words.filippo.io/rustgo/)
 
-[Launch HN: SSOReady (YC W24) – Making SAML SSO painless and open source]()
+[Our audit of Homebrew](https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/)
 
-[The Truth About Linear Regression (2015)](https://www.stat.cmu.edu/~cshalizi/TALR/)
+[`find` + `mkdir` is Turing complete](https://ogiekako.vercel.app/blog/find_mkdir_tc)
 
-[Missing Henry VIII portrait found after random X post](https://www.bbc.com/news/articles/ckdgp7r5y11o)
+[macOS in Docker Container](https://github.com/sickcodes/Docker-OSX)
 
-[Swift Homomorphic Encryption](https://www.swift.org/blog/announcing-swift-homomorphic-encryption/)
+[Meta introduces Segment Anything Model 2](https://ai.meta.com/sam2/)
 
-[The Hitchhiker's Guide to Logical Verification [pdf]](https://browncs1951x.github.io/static/files/hitchhikersguide.pdf)
+[It's not just us: Other animals change their social habits in old age](https://knowablemagazine.org/content/article/mind/2024/animals-change-social-habits-old-age-macaques-deer-sheep)
 
-[Functional programming languages should be better at mutation than they are](https://cohost.org/prophet/post/7083950-functional-programming)
+[Deep-Tempest: Using Deep Learning to Eavesdrop on HDMI](https://arxiv.org/abs/2407.09717)
 
-[Show HN: Stempad – Fast Online Scientific Writing](https://www.stempad.io/editor/85b7f0fc-c865-4011-89a8-216d8b88b249?copy=true)
+[Porffor: A from-scratch experimental ahead-of-time JS engine](https://porffor.dev/)
 
-[Was the Internet created to survive a nuclear strike? (2022)](https://siliconfolklore.com/internet-history/)
+[Superconducting Microprocessors? Turns Out They're Ultra-Efficient (2021)](https://spectrum.ieee.org/new-superconductor-microprocessor-yields-a-substantial-boost-in-efficiency)
 
-[Translating All C to Rust (TRACTOR)](https://www.darpa.mil/program/translating-all-c-to-rust)
+[Construction of the AT&T Long Lines "Cheshire" underground site](https://coldwar-ct.com/Home_Page_S1DO.html)

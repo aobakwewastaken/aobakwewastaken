@@ -1,9 +1,7 @@
 # Top Stories on hackernews <br />
-[Meta introduces Segment Anything Model 2](https://ai.meta.com/sam2/)
+[macOS in Docker Container](https://github.com/sickcodes/Docker-OSX)
 
 [Rustgo: Calling Rust from Go with near-zero overhead (2017)](https://words.filippo.io/rustgo/)
-
-[macOS in Docker Container](https://github.com/sickcodes/Docker-OSX)
 
 [Our audit of Homebrew](https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/)
 
@@ -17,4 +15,6 @@
 
 [Porffor: A from-scratch experimental ahead-of-time JS engine](https://porffor.dev/)
 
-[Cargo Cult Science (1974)](https://fermatslibrary.com/s/cargo-cult-science)
+[80% of developers are unhappy. The problem is not AI, nor is coding](https://shiftmag.dev/unhappy-developers-stack-overflow-survey-3896/)
+
+[Creativity fundamentally comes from memorization](https://shwin.co/blog/creativity-fundamentally-comes-from-memorization)

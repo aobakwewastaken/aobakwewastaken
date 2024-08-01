@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Suspicious data pattern in recent Venezuelan election](https://statmodeling.stat.columbia.edu/2024/07/31/suspicious-data-pattern-in-recent-venezuelan-election/)
+[Just Disconnect the Internet](https://computer.rip/2024-07-31-just-disconnect-the-internet.html)
 
-[How great was the Great Oxidation Event?](https://eos.org/science-updates/how-great-was-the-great-oxidation-event)
+[The Genomic Code: The genome instantiates a generative model of the organism](https://arxiv.org/abs/2407.15908)
 
-[Launch HN: Martin (YC S23) – Using LLMs to Make a Better Siri]()
+[Building a Local Perplexity Alternative with Perplexica, Ollama, and SearXNG](https://jointerminus.medium.com/building-a-local-perplexity-alternative-with-perplexica-ollama-and-searxng-71602523e256)
 
-[macOS in QEMU in Docker](https://github.com/sickcodes/Docker-OSX)
+[PyTorch – Torchchat: Chat with LLMs Everywhere](https://github.com/pytorch/torchchat)
 
-[An affordable, portable and focused device for music, writing and coding](https://tulip.computer/)
+[This month in Servo: console logging, parallel tables, OpenXR, and more](https://servo.org/blog/2024/07/31/this-month-in-servo/)
 
-[Health industry company sues to prevent certificate revocation](https://www.hezmatt.org/~mpalmer/blog/2024/07/31/healthcare-company-sues-to-stop-certificate-revocation.html)
+[Langfuse (YC W23) Is Hiring a Open Source Product Engineer in Berlin](https://github.com/langfuse/langfuse/blob/main/careers)
 
-[Amazon's exabyte-scale migration from Apache Spark to Ray on EC2](https://aws.amazon.com/blogs/opensource/amazons-exabyte-scale-migration-from-apache-spark-to-ray-on-amazon-ec2/)
+[Don't Let Your Domain Name Become a "Sitting Duck"](https://krebsonsecurity.com/2024/07/dont-let-your-domain-name-become-a-sitting-duck/)
 
-[Andi (YC W22) is hiring an AI Engineer to build the future of search]()
+[Cardie – An open source business card designer and sharing platform](https://github.com/nfoert/cardie)
 
-[Tell HN: I am going to host "Real Analysis" book club meetings]()
+[Differences in cancer rates among adults born between 1920 and 1990](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(24)00156-7/fulltext)
 
-[Crafting Interpreters with Rust: On Garbage Collection](https://www.tunglevo.com/note/crafting-interpreters-with-rust-on-garbage-collection/)
+[SnowflakeOS: Beginner friendly and GUI focused NixOS variant](https://snowflakeos.org/)

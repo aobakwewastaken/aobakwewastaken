@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Magnetically levitated space elevator to low-earth orbit [pdf] (2001)](https://publications.anl.gov/anlpubs/2001/07/39886.pdf)
+[Researchers develop treatment that can kill glioblastoma cells in brain pathway](https://medicalxpress.com/news/2024-08-therapy-treatment-glioblastoma-cells-newly.html)
+
+[The future of kdb+?](https://www.timestored.com/b/the-future-of-kdb/)
 
 [Hackberry-Pi_Zero – A handheld Linux terminal using Raspberry Pi Zero 2W](https://github.com/ZitaoTech/Hackberry-Pi_Zero)
 
-[The Marshmallow Test does not reliably predict adult functioning](https://srcd.onlinelibrary.wiley.com/doi/10.1111/cdev.14129)
+[Show HN: Hanon Pro – piano technique and exercises for the digital age](https://furnacecreek.org/hanon/)
 
-[Towards userspaceification of POSIX – part I: signal handling and IO](https://www.redox-os.org/news/kernel-11/)
+[The medieval 'New England' on the north-eastern Black Sea coast (2015)](https://www.caitlingreen.org/2015/05/medieval-new-england-black-sea.html)
 
 [ArchiveTeam Warrior](http://warrior.archiveteam.org/)
 
-[Common I/O Tasks in Modern Java](https://dev.java/learn/modernio/)
+[IBM Audible Random Timer](https://oldbytes.space/@jgeorge/112888250526493150)
 
-[Kepler's 400-year-old sunspot sketches helped solve a modern mystery](https://arstechnica.com/science/2024/07/how-keplers-400-year-old-sunspot-sketches-helped-solve-a-modern-mystery/)
+[1991 WWW-NeXT Implementation](https://github.com/simonw/1991-WWW-NeXT-Implementation)
 
-[Considerations when building embedded databases](https://interrupt.memfault.com/blog/choosing-or-building-an-embedded-db)
+[Australia starts peanut allergy treatment for babies](https://www.bbc.com/news/articles/c0xj3xq5l1vo)
 
-[Show HN: Ell – A command-line interface for LLMs written in Bash](https://github.com/simonmysun/ell)
-
-[The non-Riemannian nature of perceptual color space (2022)](https://www.pnas.org/doi/10.1073/pnas.2119753119)
+[Ray Dalio's "The Changing World Order" [pdf]](https://economicprinciples.org/DalioChangingWorldOrderCharts.pdf)

@@ -3,7 +3,11 @@
 
 [An FPGA built with 7400 series logic [video]](https://media.ccc.de/v/cosin2024-56234-fpga-selber-bauen-mit-74)
 
+[Back dating Git commits based on file modification dates](https://til.simonwillison.net/git/backdate-git-commits)
+
 [Primitive Recursive Functions for a Working Programmer](https://matklad.github.io/2024/08/01/primitive-recursive-functions.html)
+
+[How to Escape from the Simulation [pdf]](https://files.theseedsofscience.org/2023/How_to_Escape_From_the_Simulation.pdf)
 
 [Tzero: Social Timeboxing for IRC Channels](https://github.com/susam/tzero)
 
@@ -11,10 +15,6 @@
 
 [p5.js](https://p5js.org/)
 
-[A* search: optimized implementation in Lisp](https://gitlab.com/lockie/cl-astar)
-
 [Show HN: Hanon Pro – piano technique and exercises for the digital age](https://furnacecreek.org/hanon/)
 
-[Go Donut: Convert Live Streaming to WebRTC](https://github.com/flavioribeiro/donut)
-
-[I Made an Extended Version of Vimtutor – Introducing Vimtutor Sequel](https://github.com/micahkepe/vimtutor-sequel)
+[Clang vs. Clang](https://blog.cr.yp.to/20240803-clang.html)

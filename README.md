@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Written by a 16 year old, a book on how computers work](https://github.com/hackclub/RAM-a-thon)
+
 [Evaluating a class of infinite sums in closed form](https://www.johndcook.com/blog/2024/08/03/polylog/)
 
-[Belenios: A Verifiable Online Voting System](https://www.belenios.org/)
+[I miss Lorina Bulwer: A hand-stitched letter of note](https://news.lettersofnote.com/p/i-miss-lorina-bulwer)
 
 [Open Source Farming Robot](https://farm.bot/)
+
+[SNES Coprocessors: DSP-1 and Friends](https://jsgroth.dev/blog/posts/snes-coprocessors-part-1/)
+
+[The Hype Around Photobiomodulation](https://www.mcgill.ca/oss/article/medical-critical-thinking/hype-around-photobiomodulation)
 
 ["We ran out of columns"](https://jimmyhmiller.github.io/ugliest-beautiful-codebase)
 
 [USB Sniffer Lite for RP2040](https://github.com/ataradov/usb-sniffer-lite)
 
-[The Untold Story of How US Spies Sabotaged Soviet Technology](https://www.politico.com/news/magazine/2024/08/04/us-spies-soviet-technology-00164126)
-
-[Could AI robots with lasers make herbicides – and farm workers – obsolete?](https://www.latimes.com/environment/story/2024-07-22/are-robots-the-answer-to-harmful-agricultural-herbicides)
-
 [You can contribute to KDE with non-C++ code](https://rabbitictranslator.com/contribute-to-kde-without-cpp/)
 
-[HamClock – a real time space weather dashboard](https://www.clearskyinstitute.com/ham/HamClock/)
-
-[Reverse engineering the 59-pound printer onboard the Space Shuttle](http://www.righto.com/2024/08/space-shuttle-interim-teleprinter.html)
+[The Untold Story of How US Spies Sabotaged Soviet Technology](https://www.politico.com/news/magazine/2024/08/04/us-spies-soviet-technology-00164126)

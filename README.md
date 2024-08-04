@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Open Source Farming Robot](https://farm.bot/)
+
+[Tomato nostalgia as I relive my Croatian island childhood](https://www.croatiaweek.com/tomatoes-croatian-island-taste/)
+
+[racket/rhombus: "We're now officially in the "integration" phase for Rhombus."](https://github.com/racket/rhombus/discussions/521)
+
 ["We ran out of columns"](https://jimmyhmiller.github.io/ugliest-beautiful-codebase)
 
-[Migration from loot boxes to gambling in a longitudinal study of young adults [pdf]](https://gamblingresearch.sites.olt.ubc.ca/files/2023/03/BrooksClark_LootBoxMigration_PostprintDec2022.pdf)
-
-[Make Your Electronics Tamper-Evident](https://www.anarsec.guide/posts/tamper/)
+[The Introverts Are Winning](https://newhumanist.org.uk/articles/6306/the-introverts-are-winning)
 
 [Reverse engineering the 59-pound printer onboard the Space Shuttle](http://www.righto.com/2024/08/space-shuttle-interim-teleprinter.html)
 
-[Monetagium – monetary extortion in feudal Europe](http://jpkoning.blogspot.com/2024/05/monetagium.html)
+[LLM as Database Administrator (2023)](https://arxiv.org/abs/2312.01454)
 
-[Parsing Protobuf Definitions with Tree-sitter](https://relistan.com/parsing-protobuf-files-with-treesitter)
+[Can reading make you happier? (2015)](https://www.newyorker.com/culture/cultural-comment/can-reading-make-you-happier)
 
-[How to build quickly](https://learnhowtolearn.org/how-to-build-extremely-quickly/)
+[Reverse engineering XC2064, the first FPGA  (2020)](https://www.righto.com/2020/09/reverse-engineering-first-fpga-chip.html)
 
-[An FPGA built with 7400 series logic [video]](https://media.ccc.de/v/cosin2024-56234-fpga-selber-bauen-mit-74)
-
-[San Francisco Takes Harder Line Against Homeless Camps, Defying Its Reputation](https://www.nytimes.com/2024/08/03/us/san-francisco-homeless-london-breed.html)
-
-[Primitive Recursive Functions for a Working Programmer](https://matklad.github.io/2024/08/01/primitive-recursive-functions.html)
+[Clang vs. Clang](https://blog.cr.yp.to/20240803-clang.html)

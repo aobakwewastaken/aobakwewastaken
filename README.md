@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Launch HN: Airhart Aeronautics (YC S22) – A modern personal airplane]()
+
 [Andy Warhol's lost Amiga art found](https://dfarq.homeip.net/andy-warhols-lost-amiga-art-found/)
 
-[Uncovered Euripides fragments are 'kind of a big deal'](https://www.colorado.edu/asmagazine/2024/08/01/uncovered-euripides-fragments-are-kind-big-deal)
+[A new type of neural network is more interpretable](https://spectrum.ieee.org/kan-neural-network)
 
-[How Postgres stores data on disk – this one's a page turner](https://drew.silcock.dev/blog/how-postgres-stores-data-on-disk/)
+[Below the Root: A story, a computer game and my lifelong obsession (2015)](https://blog.stahlmandesign.com/below-the-root-a-story-a-computer-game-and-my-lifelong-obsession/)
 
-[A cryptographically secure bootloader for RISC-V in Rust](https://www.codethink.co.uk/articles/2024/secure_bootloader/)
+[Google loses antitrust suit over search deals on phones](https://www.bloomberg.com/news/articles/2024-08-05/google-loses-doj-antitrust-suit-over-search)
 
-[Weak Soft Skills: Why you are stuck at the Senior engineer level](https://pathtostaff.substack.com/p/weak-soft-skills-why-you-are-stuck)
+[Can we stop the decline of monarch butterflies and other pollinators?](https://www.wisfarmer.com/story/news/2024/08/05/can-we-stop-the-decline-of-monarch-butterflies-and-other-pollinators/74638545007/)
 
-[Show HN: Free e-book about WebGPU Programming](https://shi-yan.github.io/webgpuunleashed/)
+[Replacing Liquid Metal on an Asus Zephyrus G15's CPU](https://flemesre.github.io/posts/liquid-metal-replacement/)
 
-[Largest Geothermal Development in America Taking Shape in Utah](https://mymodernmet.com/california-geothermal-project/)
+[Reflex (YC W23) Is Hiring a Staff Infrastructure Engineer](https://www.ycombinator.com/companies/reflex/jobs/uBt9ZNP-senior-staff-engineer-infrastructure)
 
-[Jailbroke my Kindle to use it as an e-ink monitor](https://gist.github.com/adtac/eb639d3c707b55a28f0ee9a420aa7e0c)
+[Show HN: Iso20022.js – Create payments in 3 lines of code](https://www.iso20022js.com/)
 
-[Porting my JavaScript game engine to C for no reason](https://phoboslab.org/log/2024/08/high_impact)
-
-[Age is a simple, modern and secure file encryption tool, format, and Go library](https://github.com/FiloSottile/age)
+[Undark and the Radium Girls (2006)](https://www.damninteresting.com/undark-and-the-radium-girls/)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Show HN: I built a simple, open-source tool to manage servers and SSH keys](https://github.com/d3witt/viking)
+[Structured Outputs in the API](https://openai.com/index/introducing-structured-outputs-in-the-api/)
 
-[Crafting Formulas: Lambdas All the Way Down](https://text.marvinborner.de/2024-04-16-10.html)
+[YC is doing a first ever Fall batch – applications due by 8/27](https://www.ycombinator.com/blog/yc-fall-2024#)
 
-[Speedrunning 30yrs of lithography technology [video]](https://www.youtube.com/watch?v=RuVS7MsQk4Y)
+[Show HN: 1-FPS encrypted screen sharing for introverts](https://1fps.video/)
 
-[Launch HN: Airhart Aeronautics (YC S22) – A modern personal airplane]()
+[AI agents but they're working in big tech](https://alexsima.substack.com/p/ai-multi-agents-with-corporate-structures)
 
-[We’re ending production of Chromecast](https://blog.google/products/google-nest/chromecast-history/)
+[What purpose did the lower-right Enter key serve on original Mac 128k keyboard?](https://retrocomputing.stackexchange.com/questions/30478/what-purpose-did-the-lower-right-enter-key-serve-on-the-original-mac-128k-keyb)
 
-[The Soul of Maintaining a New Machine](https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/1)
+[Tracking supermarket prices with Playwright](https://www.sakisv.net/2024/08/tracking-supermarket-prices-playwright/)
 
-[Stereographer](https://www.engineersneedart.com/stereographer/stereographer.html)
+[Systemd, 10 years later: a historical and technical retrospective](https://blog.darknedgy.net/technology/2020/05/02/0/)
 
-[Plunk: The open source email platform](https://github.com/useplunk/plunk)
+[Emerge Tools (YC W21) Is Hiring a Product Engineer (iOS, Full-Stack)](https://www.emergetools.com/careers/jobs/product-engineer-ios-full-stack)
 
-[Andy Warhol's lost Amiga art found](https://dfarq.homeip.net/andy-warhols-lost-amiga-art-found/)
+[Full text search over Postgres: Elasticsearch vs. alternatives](https://blog.paradedb.com/pages/elasticsearch_vs_postgres)
 
-[Hazel (YC W24) Is Hiring](https://www.ycombinator.com/companies/hazel-2/jobs/kw9CiUM-founding-engineer-full-stack-or-ai-ml)
+[Launch HN: Firezone (YC W22) – Zero-trust access platform built on WireGuard]()

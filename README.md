@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[OpenAI co-founder John Schulman says he will leave and join rival Anthropic](https://www.cnbc.com/2024/08/06/openai-co-founder-john-schulman-says-he-will-join-rival-anthropic.html)
+
 [Launch HN: Airhart Aeronautics (YC S22) – A modern personal airplane]()
-
-[A Different Kind of Disc Brake: 1949 Chrysler](https://www.macsmotorcitygarage.com/a-completely-different-kind-of-disc-brake-1949-chrysler/)
-
-[Can we stop the decline of monarch butterflies and other pollinators?](https://www.wisfarmer.com/story/news/2024/08/05/can-we-stop-the-decline-of-monarch-butterflies-and-other-pollinators/74638545007/)
 
 [The Soul of Maintaining a New Machine](https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/1)
 
-[Writing a tile server in Python](https://www.grulic.org.ar/~mdione/glob/posts/writing-a-tile-server-in-python/)
+[Can we stop the decline of monarch butterflies and other pollinators?](https://www.wisfarmer.com/story/news/2024/08/05/can-we-stop-the-decline-of-monarch-butterflies-and-other-pollinators/74638545007/)
 
 [Andy Warhol's lost Amiga art found](https://dfarq.homeip.net/andy-warhols-lost-amiga-art-found/)
 
 [Building rqlite 9.0: Cutting disk usage by half](https://www.philipotoole.com/building-rqlite-9-0-cutting-disk-usage-by-half/)
 
-[No Salt](https://jakeseliger.com/2024/08/05/no-salt/)
+[Writing a tile server in Python](https://www.grulic.org.ar/~mdione/glob/posts/writing-a-tile-server-in-python/)
 
-[A new type of neural network is more interpretable](https://spectrum.ieee.org/kan-neural-network)
+[How old is your globe? [pdf]](https://replogleglobes.com/app/uploads/2023/09/How-old-is-your-globerv.pdf)
 
-[Debugging a rustc segfault on Illumos](https://sunshowers.io/posts/rustc-segfault-illumos/)
+[A Different Kind of Disc Brake: 1949 Chrysler](https://www.macsmotorcitygarage.com/a-completely-different-kind-of-disc-brake-1949-chrysler/)
+
+[IP.network: Check IP Address](https://www.ip.network)

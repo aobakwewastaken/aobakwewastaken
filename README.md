@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [Launch HN: Airhart Aeronautics (YC S22) – A modern personal airplane]()
 
-[Andy Warhol's lost Amiga art found](https://dfarq.homeip.net/andy-warhols-lost-amiga-art-found/)
-
-[A new type of neural network is more interpretable](https://spectrum.ieee.org/kan-neural-network)
-
-[Below the Root: A story, a computer game and my lifelong obsession (2015)](https://blog.stahlmandesign.com/below-the-root-a-story-a-computer-game-and-my-lifelong-obsession/)
-
-[Google loses antitrust suit over search deals on phones](https://www.bloomberg.com/news/articles/2024-08-05/google-loses-doj-antitrust-suit-over-search)
+[A Different Kind of Disc Brake: 1949 Chrysler](https://www.macsmotorcitygarage.com/a-completely-different-kind-of-disc-brake-1949-chrysler/)
 
 [Can we stop the decline of monarch butterflies and other pollinators?](https://www.wisfarmer.com/story/news/2024/08/05/can-we-stop-the-decline-of-monarch-butterflies-and-other-pollinators/74638545007/)
 
-[Replacing Liquid Metal on an Asus Zephyrus G15's CPU](https://flemesre.github.io/posts/liquid-metal-replacement/)
+[The Soul of Maintaining a New Machine](https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/1)
 
-[Reflex (YC W23) Is Hiring a Staff Infrastructure Engineer](https://www.ycombinator.com/companies/reflex/jobs/uBt9ZNP-senior-staff-engineer-infrastructure)
+[Writing a tile server in Python](https://www.grulic.org.ar/~mdione/glob/posts/writing-a-tile-server-in-python/)
 
-[Show HN: Iso20022.js – Create payments in 3 lines of code](https://www.iso20022js.com/)
+[Andy Warhol's lost Amiga art found](https://dfarq.homeip.net/andy-warhols-lost-amiga-art-found/)
 
-[Undark and the Radium Girls (2006)](https://www.damninteresting.com/undark-and-the-radium-girls/)
+[Building rqlite 9.0: Cutting disk usage by half](https://www.philipotoole.com/building-rqlite-9-0-cutting-disk-usage-by-half/)
+
+[No Salt](https://jakeseliger.com/2024/08/05/no-salt/)
+
+[A new type of neural network is more interpretable](https://spectrum.ieee.org/kan-neural-network)
+
+[Debugging a rustc segfault on Illumos](https://sunshowers.io/posts/rustc-segfault-illumos/)

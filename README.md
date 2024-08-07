@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Medieval](https://teenage.engineering/products/ep-1320)
+
 [Structured Outputs in the API](https://openai.com/index/introducing-structured-outputs-in-the-api/)
 
-[YC is doing a first ever Fall batch – applications due by 8/27](https://www.ycombinator.com/blog/yc-fall-2024#)
+[The Private Life: On James Baldwin](https://www.theparisreview.org/blog/2024/08/02/the-private-life-on-james-baldwin/)
 
-[Show HN: 1-FPS encrypted screen sharing for introverts](https://1fps.video/)
+[MNT Pocket Reform first impressions and hardware](https://andypiper.co.uk/2024/08/06/mnt-pocket-reform-first-impressions/)
 
-[AI agents but they're working in big tech](https://alexsima.substack.com/p/ai-multi-agents-with-corporate-structures)
-
-[What purpose did the lower-right Enter key serve on original Mac 128k keyboard?](https://retrocomputing.stackexchange.com/questions/30478/what-purpose-did-the-lower-right-enter-key-serve-on-the-original-mac-128k-keyb)
+[Tsung-Dao Lee, physicist who challenged a law of nature, has died](https://www.nytimes.com/2024/08/05/science/tsung-dao-lee-dead.html)
 
 [Tracking supermarket prices with Playwright](https://www.sakisv.net/2024/08/tracking-supermarket-prices-playwright/)
 
-[Systemd, 10 years later: a historical and technical retrospective](https://blog.darknedgy.net/technology/2020/05/02/0/)
-
-[Emerge Tools (YC W21) Is Hiring a Product Engineer (iOS, Full-Stack)](https://www.emergetools.com/careers/jobs/product-engineer-ios-full-stack)
+[Electric chainsaws and the gorge of misery](https://lcamtuf.substack.com/p/electric-chainsaws-and-the-gorge)
 
 [Full text search over Postgres: Elasticsearch vs. alternatives](https://blog.paradedb.com/pages/elasticsearch_vs_postgres)
 
-[Launch HN: Firezone (YC W22) – Zero-trust access platform built on WireGuard]()
+[Show HN: 1-FPS encrypted screen sharing for introverts](https://1fps.video/)
+
+[Twitter kills its San Francisco headquarters, will relocate to South Bay](https://sfstandard.com/2024/08/05/x-officially-kills-its-san-francisco-headquarters-will-relocate-workers-to-south-bay/)

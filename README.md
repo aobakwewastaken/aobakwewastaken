@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Prevention of HIV](https://www.science.org/content/blog-post/prevention-hiv)
+
+[Tony Hawk's Pro Strcpy](https://icode4.coffee/?p=954)
+
+[Puppeteer Support for Firefox](https://hacks.mozilla.org/2024/08/puppeteer-support-for-firefox/)
+
 [How French Drains Work](https://practical.engineering/blog/2024/8/6/how-french-drains-work)
 
-[Show HN: Play with an interactive heatmap of SF crime (and other cities)](https://safemap.io/sf/map)
+[1970 Clean Air Act was intended to cover carbon dioxide](https://e360.yale.edu/digest/clean-air-act-climate-change)
 
-[Gear Acquisition Syndrome – Consumption of Instruments and Technology (2021)](https://library.oapen.org/handle/20.500.12657/48282)
+[Don't Pivot into AI Research](https://maged.com/pivot-to-ai)
 
-[Show HN: BudgetFlow – Budget planning using interactive Sankey diagrams](https://www.budgetflow.cc/)
+[Show HN: I've spent nearly 5y on a web app that creates 3D apartments](https://roometron.com)
 
-[Smashing idea: how East Germany invented 'unbreakable' drinking glasses](https://www.theguardian.com/artanddesign/article/2024/aug/06/superfest-unbreakable-drinking-glasses-east-germany)
+[Meticulous (YC S21) is hiring to eliminate E2E UI tests]()
 
-[Launch HN: Release (YC W20) – Orchestrate AI Infrastructure and Applications]()
+[Official proposal for Type Unions in C#](https://github.com/dotnet/csharplang/blob/18a527bcc1f0bdaf542d8b9a189c50068615b439/proposals/TypeUnions.md)
 
-[Medieval](https://teenage.engineering/products/ep-1320)
-
-[Blackhouses of Scotland](https://www.amusingplanet.com/2016/04/blackhouses-of-scotland.html)
-
-[Emotional about X11: I'm creating a pure X11 “emoji keyboard”](https://github.com/Zirias/xmoji)
-
-[I Got a Sleep Study in My 30s. It Probably Saved My Life](https://www.gq.com/story/sleep-apnea-study)
+[What Are the Olympics Shooting Competitors Wearing on Their Faces?](https://www.core77.com/posts/133176/What-are-the-Olympics-Shooting-Competitors-Wearing-On-Their-Faces)

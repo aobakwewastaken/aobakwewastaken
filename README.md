@@ -5,16 +5,16 @@
 
 [Puppeteer Support for Firefox](https://hacks.mozilla.org/2024/08/puppeteer-support-for-firefox/)
 
+[In ‘The Book Against Death,’ Elias Canetti rants against mortality](https://www.washingtonpost.com/books/2024/08/02/book-against-death-elias-canetti-review/)
+
 [How French Drains Work](https://practical.engineering/blog/2024/8/6/how-french-drains-work)
 
-[1970 Clean Air Act was intended to cover carbon dioxide](https://e360.yale.edu/digest/clean-air-act-climate-change)
+[Quantum Physicists Found a New, Safer Way to Navigate](https://www.wired.com/story/quantum-physicists-found-a-new-safer-way-to-navigate/)
 
-[Don't Pivot into AI Research](https://maged.com/pivot-to-ai)
+[NASA Says Boeing Starliner Astronauts May Fly Home on SpaceX in 2025](https://www.nytimes.com/2024/08/07/science/boeing-starliner-nasa-spacex.html)
 
 [Show HN: I've spent nearly 5y on a web app that creates 3D apartments](https://roometron.com)
 
-[Meticulous (YC S21) is hiring to eliminate E2E UI tests]()
+[Google and Meta struck secret ads deal to target teenagers](https://www.ft.com/content/b3bb80f4-4e01-4ce6-8358-f4f8638790f8)
 
-[Official proposal for Type Unions in C#](https://github.com/dotnet/csharplang/blob/18a527bcc1f0bdaf542d8b9a189c50068615b439/proposals/TypeUnions.md)
-
-[What Are the Olympics Shooting Competitors Wearing on Their Faces?](https://www.core77.com/posts/133176/What-are-the-Olympics-Shooting-Competitors-Wearing-On-Their-Faces)
+[Argdown, like Markdown for argument mapping](https://argdown.org/)

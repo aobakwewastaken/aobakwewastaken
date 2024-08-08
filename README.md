@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Firefox Sidebar and Vertical tabs: try them out in Nightly Firefox Labs 131](https://blog.nightly.mozilla.org/2024/08/07/firefox-sidebar-and-vertical-tabs-try-them-out-in-nightly-firefox-labs-131/)
+[LibreCUDA – Launch CUDA code on Nvidia GPUs without the proprietary runtime](https://github.com/mikex86/LibreCuda)
 
-[Cosmic: A New Desktop Environment](https://system76.com/cosmic)
+[Launch HN: Stack Auth (YC S24) – An Open-Source Auth0/Clerk Alternative](https://github.com/stack-auth/stack)
 
-[Qwen2-Math](https://qwenlm.github.io/blog/qwen2-math/)
+[Do quests, not goals](https://www.raptitude.com/2024/08/do-quests-not-goals/)
 
-[Introducing the RP2350](https://dmitry.gr/?r=06.%20Thoughts&proj=11.%20RP2350)
+[I got almost all of my wishes granted with RP2350](https://dmitry.gr/?r=06.%20Thoughts&proj=11.%20RP2350)
 
-[How we found and fixed an eBPF Linux Kernel Vulnerability](https://bughunters.google.com/blog/6303226026131456/a-deep-dive-into-cve-2023-2163-how-we-found-and-fixed-an-ebpf-linux-kernel-vulnerability)
+[The ancient art of roasting agave](https://www.atlasobscura.com/articles/the-ancient-art-of-roasting-agave)
 
-[Maximal Min() and Max()](https://lwn.net/SubscriberLink/983965/3266dc25bf5c68d7/)
+[Recent Performance Improvements in Function Calls in CPython](https://blog.codingconfessions.com/p/are-function-calls-still-slow-in-python)
 
-[A Better Light Source for Scanning Color Negative Film](https://jackw01.github.io/scanlight/)
+[The Miniature Engineering Craftsmanship Museum](https://craftsmanshipmuseum.com/exhibit/)
 
-[Activeloop (YC S18): Hiring Senior C++ Engineers to Scale Database for AI](https://careers.activeloop.ai/)
+[GPUDrive: Data-driven, multi-agent driving simulation at 1M FPS](https://arxiv.org/abs/2408.01584)
 
-[Review – Ford's First Engine](https://sites.google.com/site/lagadoacademy/machining---lathes-mills-etc/review---ford-s-first-engine)
+[How we migrated onto K8s in less than 12 months](https://www.figma.com/blog/migrating-onto-kubernetes/)
 
-[Raspberry Pi Pico 2, our new $5 microcontroller board, on sale now](https://www.raspberrypi.com/news/raspberry-pi-pico-2-our-new-5-microcontroller-board-on-sale-now/)
+[Mysteries of the Griffin iMate and the Apple Extended Keyboard II](https://www.projectgus.com/2023/04/griffin-imate/)

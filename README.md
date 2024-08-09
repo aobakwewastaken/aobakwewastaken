@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [LibreCUDA – Launch CUDA code on Nvidia GPUs without the proprietary runtime](https://github.com/mikex86/LibreCuda)
 
-[Launch HN: Stack Auth (YC S24) – An Open-Source Auth0/Clerk Alternative](https://github.com/stack-auth/stack)
+[Public Work: a search engine for public domain images](https://public.work)
 
 [Do quests, not goals](https://www.raptitude.com/2024/08/do-quests-not-goals/)
 
+[Sonic Pi: Ruby as a Composition Tool](https://bhmt.dev/blog/sonic_pi/)
+
+[Launch HN: Stack Auth (YC S24) – An Open-Source Auth0/Clerk Alternative](https://github.com/stack-auth/stack)
+
 [I got almost all of my wishes granted with RP2350](https://dmitry.gr/?r=06.%20Thoughts&proj=11.%20RP2350)
 
-[The ancient art of roasting agave](https://www.atlasobscura.com/articles/the-ancient-art-of-roasting-agave)
+[I built a second brain tool for college students](https://ainotebook.app/)
 
-[Recent Performance Improvements in Function Calls in CPython](https://blog.codingconfessions.com/p/are-function-calls-still-slow-in-python)
+[SQLite FTS5 Extension](https://www.sqlite.org/fts5.html)
 
-[The Miniature Engineering Craftsmanship Museum](https://craftsmanshipmuseum.com/exhibit/)
+[USPS Text Scammers Duped His Wife, So He Hacked Their Operation](https://www.wired.com/story/usps-scam-text-smishing-triad/)
 
-[GPUDrive: Data-driven, multi-agent driving simulation at 1M FPS](https://arxiv.org/abs/2408.01584)
-
-[How we migrated onto K8s in less than 12 months](https://www.figma.com/blog/migrating-onto-kubernetes/)
-
-[Mysteries of the Griffin iMate and the Apple Extended Keyboard II](https://www.projectgus.com/2023/04/griffin-imate/)
+[National Park Service Will Cite AWD Drivers for Driving on 4WD-Only Trails](https://jalopnik.com/national-park-service-will-cite-drivers-of-awd-cars-for-1851617315)

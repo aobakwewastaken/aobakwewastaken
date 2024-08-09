@@ -3,7 +3,9 @@
 
 [LibreCUDA – Launch CUDA code on Nvidia GPUs without the proprietary runtime](https://github.com/mikex86/LibreCuda)
 
-[Ask HN: Changing my mind about JavaScript]()
+[1935: Britain's First Milk Bar Opens](https://www.historytoday.com/archive/months-past/britains-first-milk-bar-opens)
+
+[Solar energy breakthrough could reduce need for solar farms](https://www.ox.ac.uk/news/2024-08-09-solar-energy-breakthrough-could-reduce-need-solar-farms)
 
 [Public Work: a search engine for public domain images](https://public.work)
 
@@ -13,8 +15,6 @@
 
 [Launch HN: Stack Auth (YC S24) – An Open-Source Auth0/Clerk Alternative](https://github.com/stack-auth/stack)
 
-[XMPP vs. Matrix]()
-
 [I got almost all of my wishes granted with RP2350](https://dmitry.gr/?r=06.%20Thoughts&proj=11.%20RP2350)
 
-[USPS Text Scammers Duped His Wife, So He Hacked Their Operation](https://www.wired.com/story/usps-scam-text-smishing-triad/)
+[SQLite FTS5 Extension](https://www.sqlite.org/fts5.html)

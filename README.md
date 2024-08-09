@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[OTranscribe: A free and open tool for transcribing audio interviews](https://otranscribe.com/)
+[Show HN: LLM-aided OCR – Correcting Tesseract OCR errors with LLMs](https://github.com/Dicklesworthstone/llm_aided_ocr)
 
-[Base 3 Computing Beats Binary](https://www.quantamagazine.org/how-base-3-computing-beats-binary-20240809/)
+[TR1X: Open-source re-implementation of Tomb Raider 1](https://github.com/LostArtefacts/TR1X)
 
-[LibreCUDA – Launch CUDA code on Nvidia GPUs without the proprietary runtime](https://github.com/mikex86/LibreCuda)
+[Show HN: Attaching to a virtual GPU over TCP](https://www.thundercompute.com/)
 
-['Agua, Agua'](https://www.altaonline.com/dispatches/a43145605/sonoran-desert-survival-julian-smith-pablo-valencia-bill-broyles/)
+[DARPA wants to bypass the thermal middleman in nuclear power systems](https://www.ans.org/news/article-6276/darpa-wants-to-bypass-the-thermal-middleman-in-nuclear-power-systems/)
 
-[1935: Britain's First Milk Bar Opens](https://www.historytoday.com/archive/months-past/britains-first-milk-bar-opens)
+[Voice is a garden: Margaret Watts Hughes's Victorian sound visualizations](https://www.themarginalian.org/2024/08/08/margaret-watts-hughes-voice-figures/)
 
-[Public Work: a search engine for public domain images](https://public.work)
+[Hacking a Virtual Power Plant](https://rya.nc/vpp-hack.html)
 
-[Sonic Pi: Ruby as a Composition Tool](https://bhmt.dev/blog/sonic_pi/)
+[Urchin Software Corp: The unlikely origin story of Google Analytics, 1996–2005](https://urchin.biz/urchin-software-corp-89a1f5292999)
 
-[State Monad for the Rest of Us](https://arialdomartini.github.io/state-monad-for-the-rest-of-us)
+[Tesorio (YC S15) Is Hiring a Senior GenAI/LLM Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
 
-[USPS Text Scammers Duped His Wife, So He Hacked Their Operation](https://www.wired.com/story/usps-scam-text-smishing-triad/)
+[Qlot: Common Lisp Library Manager](https://github.com/fukamachi/qlot)
 
-[Launch HN: Stack Auth (YC S24) – An Open-Source Auth0/Clerk Alternative](https://github.com/stack-auth/stack)
+[.INTERNAL is now reserved for private-use applications](https://www.icann.org/en/board-activities-and-meetings/materials/approved-resolutions-special-meeting-of-the-icann-board-29-07-2024-en#section2.a)

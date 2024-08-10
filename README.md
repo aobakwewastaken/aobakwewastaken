@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[A wonderful coincidence or an expected connection: why π² ≈ g](https://roitman.io/blog/91)
+[Interval parsing grammars for file format parsing (2023)](https://dl.acm.org/doi/10.1145/3591264)
 
 [OpenSnitch is a GNU/Linux interactive application firewall](https://github.com/evilsocket/opensnitch)
 
-[Deep Live Cam: Real-time face swapping and one-click video deepfake tool](https://deeplive.cam)
+[Things I Won't Work With: Dimethylcadmium](https://www.science.org/content/blog-post/things-i-won-t-work-dimethylcadmium)
 
-[.INTERNAL is now reserved for private-use applications](https://www.icann.org/en/board-activities-and-meetings/materials/approved-resolutions-special-meeting-of-the-icann-board-29-07-2024-en#section2.a)
+[DEF CON's response to the badge controversy](https://old.reddit.com/r/Defcon/comments/1ep00ln/def_cons_response_to_the_badge_controversy/)
+
+[A wonderful coincidence or an expected connection: why π² ≈ g](https://roitman.io/blog/91)
+
+[Show HN: Pg_replicate – Build Postgres replication applications in Rust](https://github.com/supabase/pg_replicate)
+
+[A 1940 Letter of André Weil on Analogy in Mathematics (2003) [pdf]](https://www.ams.org/notices/200503/fea-weil.pdf)
 
 [Ask HN: Resources about math behind A/B testing]()
 
-[Show HN: Attaching to a virtual GPU over TCP](https://www.thundercompute.com/)
-
-[Hal Hickel on Creating Tarkin for Rogue One](http://fxrant.blogspot.com/2024/06/hal-hickel-on-creating-tarkin.html)
-
-[Urchin Software Corp: The unlikely origin story of Google Analytics (2016)](https://urchin.biz/urchin-software-corp-89a1f5292999)
-
 [Caltech Develops First Noninvasive Method to Continually Measure Blood Pressure](https://www.caltech.edu/about/news/caltech-team-develops-first-noninvasive-method-to-continually-measure-true-blood-pressure)
 
-[Show HN: LLM-aided OCR – Correcting Tesseract OCR errors with LLMs](https://github.com/Dicklesworthstone/llm_aided_ocr)
+[Ray Tracing Harmonic Functions](https://markjgillespie.com/Research/harnack-tracing/index.html)

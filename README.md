@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [Verso – web browser built on top of the Servo web engine](https://github.com/versotile-org/verso)
 
-[Firefox Browser Ported to HaikuOS](https://discuss.haiku-os.org/t/progress-on-porting-firefox/13493?page=7)
+[Server Mono: A Typeface Inspired by Typewriters, Apple's SF Mono, and CLIs](https://servermono.com/)
 
-[A high energy hadron collider on the Moon](https://iopscience.iop.org/article/10.1088/1367-2630/ac4921/meta)
+[OpenBSD 7.5 via QEMU on Hetzner physical machine (no phys. access / KVM console)](https://hackmd.gfuzz.de/s/Qsk14kc3i)
+
+[Genetics solves a thorny problem: how plants have prickles](https://cosmosmagazine.com/nature/plants/thorns-prickles-roses-plants/)
+
+[Firefox Browser Ported to HaikuOS](https://discuss.haiku-os.org/t/progress-on-porting-firefox/13493?page=7)
 
 [Things I've learned building a modern TUI Framework](https://www.textualize.io/blog/7-things-ive-learned-building-a-modern-tui-framework/)
 
-[OpenDevin: An Open Platform for AI Software Developers as Generalist Agents](https://arxiv.org/abs/2407.16741)
+[Segment Anything Model and Friends](https://www.lightly.ai/post/segment-anything-model-and-friends)
 
-[Building data infrastructure that will last](https://seattledataguy.substack.com/p/why-your-data-stack-wont-last-and)
+[Trolltech's Documentation Process](https://rant.gulbrandsen.priv.no/udoc/trolltech-documentation-process)
 
-[Show HN: Rust GUI Library via Flutter](https://cjycode.com/posts/rust-ui-flutter/)
+[Show HN: Pixeltune, a nicer chiptune and VGM player](https://pixeltune.org)
 
-[Limits to running speed in dogs, horses and human](https://journals.biologists.com/jeb/article/211/24/3836/18013/Limits-to-running-speed-in-dogs-horses-and-humans)
-
-[I Created 175 Fonts Using Rust](https://chevyray.dev/blog/creating-175-fonts/)
-
-[Finite State Machine Designer](https://madebyevan.com/fsm/)
+[Another variable-length integer encoding (2021)](https://dcreager.net/2021/03/a-better-varint/)

@@ -11,10 +11,10 @@
 
 [Building data infrastructure that will last](https://seattledataguy.substack.com/p/why-your-data-stack-wont-last-and)
 
-[The Imminent Student-Loan Disaster](https://www.jamesgmartin.center/2024/08/the-imminent-student-loan-disaster-were-not-talking-about/)
+[Show HN: Rust GUI Library via Flutter](https://cjycode.com/posts/rust-ui-flutter/)
 
 [Limits to running speed in dogs, horses and human](https://journals.biologists.com/jeb/article/211/24/3836/18013/Limits-to-running-speed-in-dogs-horses-and-humans)
 
-[Show HN: Rust GUI Library via Flutter](https://cjycode.com/posts/rust-ui-flutter/)
-
 [I Created 175 Fonts Using Rust](https://chevyray.dev/blog/creating-175-fonts/)
+
+[Finite State Machine Designer](https://madebyevan.com/fsm/)

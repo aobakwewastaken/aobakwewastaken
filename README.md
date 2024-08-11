@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[OpenStreetMap Is Turning 20](https://stevecoast.substack.com/p/the-days-are-long-but-the-years-are)
+[Firefox Browser Ported to HaikuOS](https://discuss.haiku-os.org/t/progress-on-porting-firefox/13493?page=7)
+
+[The Gervais Principle, or the Office According to "The Office" (2009)](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/)
 
 [Show HN: Rust GUI Library via Flutter](https://cjycode.com/posts/rust-ui-flutter/)
 
-[Online Dating](https://geohot.github.io//blog/jekyll/update/2024/08/02/online-dating.html)
+[Bevy's Game Engine Fourth Birthday](https://bevyengine.org/news/bevys-fourth-birthday/)
 
 [I Created 175 Fonts Using Rust](https://chevyray.dev/blog/creating-175-fonts/)
 
-[RFC 9180: Hybrid Public Key Encryption](https://www.rfc-editor.org/rfc/rfc9180.html)
+[OpenStreetMap Is Turning 20](https://stevecoast.substack.com/p/the-days-are-long-but-the-years-are)
+
+[Segment Anything 2: Demo-First Model Development](https://www.latent.space/p/sam2)
+
+[Open Letter to the European Commission](https://nixos.org/blog/announcements/2024/letter/)
+
+[What is the ideal chapter length? (2023)](https://www.penguin.co.uk/articles/2023/03/what-is-the-ideal-chapter-length)
 
 [Things I Won't Work With: Dimethylcadmium (2013)](https://www.science.org/content/blog-post/things-i-won-t-work-dimethylcadmium)
-
-[Entropic Engineering DEFCON 32 Statement](https://www.entropicengineering.com/defcon-32-statement)
-
-[ANTSDR: Low-cost SDR Alternatives for Ettus Research and Lime Microsystems](https://github.com/MicroPhase/antsdr-fw-patch)
-
-[Stapler: I remade a 32 year old classic Macintosh app](https://blog.gingerbeardman.com/2024/08/10/stapler-i-remade-a-32-year-old-classic-macintosh-app/)
-
-[OpenSnitch is a GNU/Linux interactive application firewall](https://github.com/evilsocket/opensnitch)

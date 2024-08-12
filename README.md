@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Blitz: A lightweight, modular, extensible web renderer](https://github.com/DioxusLabs/blitz)
+
+[How to avoid losing items? Holding pens](https://blog.alexwendland.com/2024-07-07-holding-pens/)
+
+[Isometric Projection in Game Development](https://pikuma.com/blog/isometric-projection-in-games)
+
+[Show HN: Anycast+ – An AI-powered podcast app](https://anycast.website/)
+
 [Verso – web browser built on top of the Servo web engine](https://github.com/versotile-org/verso)
+
+[Generating Simpson's Paradox with Z3](https://kevinlynagh.com/z3-simpsons-paradox/)
+
+[Adbfs-rootless – Mount Android phones on Linux with adb. No root required](https://github.com/spion/adbfs-rootless)
+
+[GIL Become Optional in Python 3.13](https://geekpython.in/gil-become-optional-in-python)
 
 [Server Mono: A Typeface Inspired by Typewriters, Apple's SF Mono, and CLIs](https://servermono.com/)
 
-[OpenBSD 7.5 via QEMU on Hetzner physical machine (no phys. access / KVM console)](https://hackmd.gfuzz.de/s/Qsk14kc3i)
-
-[Genetics solves a thorny problem: how plants have prickles](https://cosmosmagazine.com/nature/plants/thorns-prickles-roses-plants/)
-
-[Firefox Browser Ported to HaikuOS](https://discuss.haiku-os.org/t/progress-on-porting-firefox/13493?page=7)
-
-[Things I've learned building a modern TUI Framework](https://www.textualize.io/blog/7-things-ive-learned-building-a-modern-tui-framework/)
-
-[Segment Anything Model and Friends](https://www.lightly.ai/post/segment-anything-model-and-friends)
-
-[Trolltech's Documentation Process](https://rant.gulbrandsen.priv.no/udoc/trolltech-documentation-process)
-
-[Show HN: Pixeltune, a nicer chiptune and VGM player](https://pixeltune.org)
-
-[Another variable-length integer encoding (2021)](https://dcreager.net/2021/03/a-better-varint/)
+[It took my savings and 14 years but I’m about to beat arthritis](https://www.thetimes.com/uk/science/article/i-lost-my-job-so-spent-14-years-searching-for-osteoarthritis-cure-d6d69wwxz)

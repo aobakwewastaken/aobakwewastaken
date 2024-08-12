@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[There Is No Antimemetics Division (2018)](https://qntm.org/scp)
+
+[Okay, I Like WezTerm](https://alexplescan.com/posts/2024/08/10/wezterm/)
+
+[US Government wants to make it easier for you to click the 'unsubscribe' button](https://apnews.com/article/consumer-protection-ftc-fcc-biden-250f6eece6e2665535019128e8fa38da)
+
+[What startup founders have in common](https://slimsaas.com/blog/data-driven-analysis-startup-success)
+
+[Show HN: PGlite – in-browser WASM Postgres with pgvector and live sync](https://pglite.dev/)
+
 [Blitz: A lightweight, modular, extensible web renderer](https://github.com/DioxusLabs/blitz)
 
-[Show HN: OSM – self host the entire planet in ~30 minutes](https://gist.github.com/markuman/230af4cc11333ca3efc22eed60575adc)
+[Keeping Secrets (2014)](https://stanfordmag.org/contents/keeping-secrets)
 
-[Isometric Projection in Game Development](https://pikuma.com/blog/isometric-projection-in-games)
+[Ask HN: What code editors or IDE's are easily scriptable?]()
 
-[Verso – web browser built on top of the Servo web engine](https://github.com/versotile-org/verso)
+[Show HN: OpenStreetMaps – Self host the entire planet](https://github.com/markuman/sms)
 
-[Interstellar movie is implemented with Einstein's equations in 40k lines C++](https://twitter.com/bitfield/status/1020632237493112833)
-
-[Generating Simpson's Paradox with Z3](https://kevinlynagh.com/z3-simpsons-paradox/)
-
-[Adbfs-rootless – Mount Android phones on Linux with adb. No root required](https://github.com/spion/adbfs-rootless)
-
-[It took my savings and 14 years but I’m about to beat arthritis](https://www.thetimes.com/uk/science/article/i-lost-my-job-so-spent-14-years-searching-for-osteoarthritis-cure-d6d69wwxz)
-
-[Server Mono: A Typeface Inspired by Typewriters, Apple's SF Mono, and CLIs](https://servermono.com/)
-
-[Show HN: Anycast+ – An AI-powered podcast app](https://anycast.website/)
+[Creating the largest protein-protein interaction dataset in the world](https://www.owlposting.com/p/creating-the-largest-protein-protein)

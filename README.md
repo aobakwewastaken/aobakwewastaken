@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[A C/C++ library for audio and music analysis](https://github.com/libAudioFlux/audioFlux)
+[All of Earth's water in a single sphere](https://www.usgs.gov/media/images/all-earths-water-a-single-sphere)
+
+[Google Pixel 9 Pro](https://store.google.com/us/product/pixel_9_pro?hl=en-US)
+
+[Ozempic Is Changing People's Skin, Say Plastic Surgeons](https://www.allure.com/story/ozempics-effects-on-skin)
 
 [Launch HN: Trellis (YC W24) – AI-powered workflows for unstructured data]()
 
-[Launch HN: Shaped (YC W22) – AI-Powered Recommendations and Search]()
-
-[The Webb Telescope Further Deepens the Biggest Controversy in Cosmology](https://www.quantamagazine.org/the-webb-telescope-further-deepens-the-biggest-controversy-in-cosmology-20240813/)
-
-[You should make a new programming language](https://ntietz.com/blog/you-should-make-a-new-terrible-programming-language/)
+[The Webb Telescope further deepens the Hubble tension controversy in cosmology](https://www.quantamagazine.org/the-webb-telescope-further-deepens-the-biggest-controversy-in-cosmology-20240813/)
 
 [From object transition to RCE in the Chrome renderer](https://github.blog/security/vulnerability-research/from-object-transition-to-rce-in-the-chrome-renderer/)
 
+[AudioFlux: A C/C++ library for audio and music analysis](https://github.com/libAudioFlux/audioFlux)
+
+[EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+
+[ARPA-H announces awards to develop novel technologies for precise tumor removal](https://arpa-h.gov/news-and-events/arpa-h-announces-awards-develop-novel-technologies-precise-tumor-removal)
+
 [You've got to hide your myopia away: John Lennon's contact lenses](https://onlinelibrary.wiley.com/doi/10.1111/opo.13351)
-
-[An open-source flow battery kit](https://dualpower.supply/posts/rfb-kit-workshop/)
-
-[Callisto: Reverse polish notation programming language inspired by YSL-C3, Forth](https://github.com/callisto-lang/compiler)
-
-[Serena: An experimental operating system for 32bit Amiga computers](https://github.com/dplanitzer/Serena)

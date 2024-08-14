@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Examples of Great URL Design (2023)](https://blog.jim-nielsen.com/2023/examples-of-great-urls/)
+
+[Show HN: Open-source LLM provider price comparison](https://github.com/arc53/llm-price-compass)
+
+[The Syndicated Actor Model](https://syndicate-lang.org/about/)
+
+[Vaultwarden: Unofficial Bitwarden compatible server written in Rust](https://github.com/dani-garcia/vaultwarden)
+
 [All of Earth's water in a single sphere (2019)](https://www.usgs.gov/media/images/all-earths-water-a-single-sphere)
 
-[MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images](https://donydchen.github.io/mvsplat/)
+[Circle Medical (YC S15) Is Hiring Ruby/Rails Engineers in Montreal](https://jobs.lever.co/circlemedical/980b39bf-38a3-4b0d-802c-442394b48bf2)
+
+[Larry Tesler, Inventor of Cut/Paste, Has Died](https://www.bbc.com/news/world-us-canada-51567695)
+
+[Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
 
 [Safe curves for Elliptic Curve Cryptography [pdf]](https://eprint.iacr.org/2024/1265.pdf)
 
-[An approach to optimizing TypeScript type checking performance](https://www.edgedb.com/blog/an-approach-to-optimizing-typescript-type-checking-performance#how-do-we-quantify-the-type-checker-s-workload)
-
-[ARPA-H announces awards to develop novel technologies for precise tumor removal](https://arpa-h.gov/news-and-events/arpa-h-announces-awards-develop-novel-technologies-precise-tumor-removal)
-
-[Launch HN: Trellis (YC W24) – AI-powered workflows for unstructured data]()
-
-[The Webb Telescope further deepens the Hubble tension controversy in cosmology](https://www.quantamagazine.org/the-webb-telescope-further-deepens-the-biggest-controversy-in-cosmology-20240813/)
-
-[SD/MMC cards, a year later (2010)](http://lists.laptop.org/pipermail/devel/2010-August/029503.html)
-
-[Things I learned from teaching (2023)](https://claytonwramsey.com/blog/learned-from-teaching)
-
-[SponsorBlock – skip sponsor segments on YouTube](https://sponsor.ajay.app/)
+[Kubernetes Cost Management with the New OpenCost Plugin for Headlamp](https://headlamp.dev/blog/2024/08/08/opencost-plugin)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [Show HN: If YouTube had actual channels](https://ytch.xyz)
 
-[Sort, sweep, and prune: Collision detection algorithms](https://leanrada.com/notes/sweep-and-prune/)
+[Inside the "3 billion people" national public data breach](https://www.troyhunt.com/inside-the-3-billion-people-national-public-data-breach/)
 
-[Dune Scientists Observe First Neutrinos with Prototype Detector at Fermilab](https://newscenter.lbl.gov/2024/08/12/dune-scientists-observe-first-neutrinos-with-prototype-detector-at-fermilab/)
+[How I won $2,750 using JavaScript, AI, and a can of WD-40](https://davekiss.com/blog/how-i-won-2750-using-javascript-ai-and-a-can-of-wd-40)
 
-[The Syndicated Actor Model](https://syndicate-lang.org/about/)
+[Font with Built-In Syntax Highlighting](https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/)
 
-[Larry Tesler pioneered cut-and-paste, the one-button mouse, WYSIWIG (2005)](https://spectrum.ieee.org/of-modes-and-men)
+[How one ED mobilized his department during a mass casualty incident (2017)](https://epmonthly.com/article/not-heroes-wear-capes-one-las-vegas-ed-saved-hundreds-lives-worst-mass-shooting-u-s-history/)
 
-[All of Earth's water in a single sphere (2019)](https://www.usgs.gov/media/images/all-earths-water-a-single-sphere)
+[Reading Akkadian cuneiform using natural language processing (2020)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0240511)
 
-[Show HN: We made a tool to help developers improve OpenAPI specs](https://github.com/zuplo/rate-my-openapi)
+[Sort, sweep, and prune: Collision detection algorithms (2023)](https://leanrada.com/notes/sweep-and-prune/)
 
-[Re-fixing Servo's event-loop](https://medium.com/@polyglot_factotum/re-fixing-servos-event-loop-e00bdf267385)
+[Some thoughts on OpenSSH 9.8's PerSourcePenalties feature](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHPerSourcePenaltiesThings)
 
-[Approximating sum types in Python with Pydantic](https://blog.yossarian.net/2024/08/12/Approximating-sum-types-in-Python-with-Pydantic)
+[AltStore PAL receives Epic Games MegaGrant, will no longer require subscription](https://fosstodon.org/@altstore/112962388607680148)
 
-[Circle Medical (YC S15) Is Hiring Ruby/Rails Engineers in Montreal](https://jobs.lever.co/circlemedical/980b39bf-38a3-4b0d-802c-442394b48bf2)
+[Poor Richard's Almanack](https://blog.plover.com/calendar/poor-richards-almanack.html)

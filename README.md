@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Show HN: High-precision date/time in SQLite](https://antonz.org/sqlean-time/)
+[One Man's Quest to Restore the First-Ever Air Force One](https://www.atlasobscura.com/articles/first-air-force-one)
 
 [Galois Theory](https://golem.ph.utexas.edu/category/2024/08/galois_theory.html)
 
-[YouTube Video to Tabs and Lyrics](https://github.com/JoinMusic/fish)
+[Launch HN: Manaflow (YC S24) – Automate repetitive office work in tables]()
 
-[Kim Dotcom's extradition to the U.S. given green light by New Zealand](https://torrentfreak.com/kim-dotcoms-extradition-to-the-u-s-given-green-light-by-new-zealand-240815/)
+[Launch HN: Hamming (YC S24) – Automated Testing for Voice Agents]()
 
-[Gemlite: Towards Building Custom Low-Bit Fused CUDA Kernels](https://mobiusml.github.io/gemlite_blogpost/)
+[Detecting Sign Language in News Videos](https://vrroom.github.io/blog/2024/08/11/sign-detection.html)
 
-[Nomad, communicate off-grid mesh, forward secrecy and extreme privacy](https://github.com/markqvist/NomadNet)
+[Show HN: High-precision date/time in SQLite](https://antonz.org/sqlean-time/)
 
-[Show HN: COBOL-REKT, a toolkit for analysing and reverse-engineering COBOL](https://github.com/avishek-sen-gupta/cobol-rekt)
+[Unix file access rwx permissions are simple but tricky](https://igoro.pro/a-reminder-unix-file-access-rwx-permissions-are-simple-but-tricky/)
 
-[Exact Polygonal Filtering: Using Green's Theorem and Clipping for Anti-Aliasing](https://jonathanolson.net/exact-polygonal-filtering)
+[Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager]()
 
-[CockroachDB License Change](https://www.cockroachlabs.com/enterprise-license-update/)
+[Hermes 3: The First Fine-Tuned Llama 3.1 405B Model](https://lambdalabs.com/blog/unveiling-hermes-3-the-first-fine-tuned-llama-3.1-405b-model-is-on-lambdas-cloud)
 
-[The History of Orthogonal Frequency Division Multiplexing (OFDM)](https://ieeexplore.ieee.org/abstract/document/4698465)
+[Show HN: Denormalized – Embeddable Stream Processing in Rust and DataFusion](https://github.com/probably-nothing-labs/denormalized)

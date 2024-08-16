@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[CSS Grid Areas](https://ishadeed.com/article/css-grid-area/)
+[Crafting a 13KB Game: The Story of Space Huggers](https://frankforce.com/space-huggers-how-i-made-a-game-in-13-kilobytes/)
+
+[JPlag – Detecting Software Plagiarism](https://github.com/jplag/JPlag)
+
+[Cleed – simple feed reader for the command line](https://github.com/radulucut/cleed)
 
 [PyScript: An open source platform for Python in the browser](https://pyscript.net/)
 
-[Automating My /Now Page](https://akashgoswami.dev/posts/automating-my-now-page/)
+[Show HN: Wikipedia Browser a La Andy Matuschak's Evergreen Notes](https://steezeburger.com/wikipedia-browser/)
 
-[The TRS-80 Pocket Computer](http://www.trs-80.org/pocket-computer-1/)
+[Supporting game design with evolutionary algorithms](https://www.gamedeveloper.com/design/supporting-game-design-with-evolutionary-algorithms)
+
+[From Bede (731) to BONE (1991-2004): A sparrow's flight through the ages](https://thijsporck.com/2020/07/27/from-bede-731-to-bone-1991-2004-a-sparrows-flight-through-the-ages/)
 
 [Reversing the AMD Secure Processor (PSP) – Part 2: Cryptographic Co-Processor](https://dayzerosec.com/blog/2023/04/22/reversing-the-amd-secure-processor-psp-part-2-cryptographic-co-processor-ccp.html)
 
-[VCs don't care if you're nice, they want founders who take risks](https://www.businessinsider.com/startup-success-secret-vcs-founders-nate-silver-on-the-edge-2024-8)
+[Show HN: I made an open-source personal dashboard builder](https://github.com/tryglow/glow)
 
-[One man's quest to restore the first-ever Air Force One](https://www.atlasobscura.com/articles/first-air-force-one)
-
-[RP2350 PicoDVI Preview](https://github.com/Wren6991/PicoDVI/commit/ca941baf37e3f04738b8e641896d85feb3430385)
-
-[A practitioner's guide to testing and running GPU clusters](https://www.together.ai/blog/a-practitioners-guide-to-testing-and-running-large-gpu-clusters-for-training-generative-ai-models)
-
-[Aristotle – How to live a good life](https://ralphammer.com/aristotle-how-to-live-a-good-life/)
+[Automating My /Now Page](https://akashgoswami.dev/posts/automating-my-now-page/)

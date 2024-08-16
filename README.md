@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Crafting a 13KB Game: The Story of Space Huggers](https://frankforce.com/space-huggers-how-i-made-a-game-in-13-kilobytes/)
+[ThreadPlotter – toolkit for punch needle embroidery with X-Y plotters (2020)](https://github.com/LiciaHe/threadPlotter)
 
-[Cleed – simple feed reader for the command line](https://github.com/radulucut/cleed)
+[A Texas "moth man" photographed 550 species in his own yard](https://www.texasmonthly.com/travel/curtis-eckerman-photographer-moth-man/)
 
-[JPlag – Detecting Software Plagiarism](https://github.com/jplag/JPlag)
+[Disrupting a covert Iranian influence operation](https://openai.com/index/disrupting-a-covert-iranian-influence-operation/)
 
-[PyScript: An open source platform for Python in the browser](https://pyscript.net/)
+[What Is a Knowledge Graph?](https://neo4j.com/blog/what-is-knowledge-graph/)
 
-[Show HN: Wikipedia Browser a La Andy Matuschak's Evergreen Notes](https://steezeburger.com/wikipedia-browser/)
+[Discrete Mathematics – An Open Introduction, 4th edition](https://discrete.openmathbooks.org/dmoi4.html)
 
-[Supporting game design with evolutionary algorithms](https://www.gamedeveloper.com/design/supporting-game-design-with-evolutionary-algorithms)
+[The Apple IIGS Megahertz Myth](https://www.userlandia.com/home/iigs-mhz-myth)
 
-[Apple's Hold on the App Store Is Loosening, at Least in Europe](https://www.wsj.com/tech/epic-games-apple-app-store-europe-44ceda50)
+[Does Reasoning Emerge? Probabilities of Causation in Large Language Models](https://arxiv.org/abs/2408.08210)
 
-[Show HN: I made an open-source personal dashboard builder](https://github.com/tryglow/glow)
+[Jerry (YC S17) Is Hiring Lead Product (New Product,B2B GenAI Platform)](https://jobs.ashbyhq.com/Jerry/d972d5ea-c671-49a9-b964-5fe829f075cf)
 
-[Reversing the AMD Secure Processor (PSP) – Part 2: Cryptographic Co-Processor](https://dayzerosec.com/blog/2023/04/22/reversing-the-amd-secure-processor-psp-part-2-cryptographic-co-processor-ccp.html)
+[Building a GATT Server on Pi Pico W](https://vanhunteradams.com/Pico/BLE/GATT_Server.html)
 
-[Automating My /Now Page](https://akashgoswami.dev/posts/automating-my-now-page/)
+[MIFARE Classic: exposing the static encrypted nonce variant [pdf]](https://eprint.iacr.org/2024/1275.pdf)

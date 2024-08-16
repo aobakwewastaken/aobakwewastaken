@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[One Man's Quest to Restore the First-Ever Air Force One](https://www.atlasobscura.com/articles/first-air-force-one)
+[CSS Grid Areas](https://ishadeed.com/article/css-grid-area/)
+
+[Former Google CEO Eric Schmidt's Leaked Stanford Talk](https://github.com/ociubotaru/transcripts/blob/main/Stanford_ECON295%E2%A7%B8CS323_I_2024_I_The_Age_of_AI%2C_Eric_Schmidt.txt)
+
+[Total War: Rome II and Creative Assembly – My Statement Ten Years On](https://medium.com/@julianmckinlay/total-war-rome-ii-and-creative-assembly-my-statement-ten-years-on-d964f65b0a8f)
+
+[RP2350 PicoDVI Preview](https://github.com/Wren6991/PicoDVI/commit/ca941baf37e3f04738b8e641896d85feb3430385)
+
+[One man's quest to restore the first-ever Air Force One](https://www.atlasobscura.com/articles/first-air-force-one)
+
+[A practitioner's guide to testing and running GPU clusters](https://www.together.ai/blog/a-practitioners-guide-to-testing-and-running-large-gpu-clusters-for-training-generative-ai-models)
+
+[What I Learned Writing an Album in Just Intonation](https://www.osar.fr/notes/justintonation/)
+
+[Cryptominers made $100k from mining at an Airbnb for three weeks](https://www.tomshardware.com/tech-industry/cryptomining/cryptominers-made-100000-dollars-from-mining-at-an-airbnb-for-three-weeks)
+
+[How does it feel to test a compiler?](https://medium.com/@zakharenko/how-does-it-feel-to-test-a-compiler-fa1ff5d86065)
 
 [Galois Theory](https://golem.ph.utexas.edu/category/2024/08/galois_theory.html)
-
-[Launch HN: Manaflow (YC S24) – Automate repetitive office work in tables]()
-
-[Launch HN: Hamming (YC S24) – Automated Testing for Voice Agents]()
-
-[Detecting Sign Language in News Videos](https://vrroom.github.io/blog/2024/08/11/sign-detection.html)
-
-[Show HN: High-precision date/time in SQLite](https://antonz.org/sqlean-time/)
-
-[Unix file access rwx permissions are simple but tricky](https://igoro.pro/a-reminder-unix-file-access-rwx-permissions-are-simple-but-tricky/)
-
-[Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager]()
-
-[Hermes 3: The First Fine-Tuned Llama 3.1 405B Model](https://lambdalabs.com/blog/unveiling-hermes-3-the-first-fine-tuned-llama-3.1-405b-model-is-on-lambdas-cloud)
-
-[Show HN: Denormalized – Embeddable Stream Processing in Rust and DataFusion](https://github.com/probably-nothing-labs/denormalized)

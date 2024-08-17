@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Xapian Is an Open Source Search Engine Library](https://xapian.org/)
-
-[Just use Postgres](https://mccue.dev/pages/8-16-24-just-use-postgres)
-
-[Google Removed Organic Maps from the Playstore](https://twitter.com/organicmapsapp/status/1824727403580596260)
+[Increasing Retention Without Increasing Study Time [pdf]](https://files.eric.ed.gov/fulltext/ED505647.pdf)
 
 [Interviewing the Interviewer: Questions to Uncover a Company's True Culture](https://praachi.work/blog/questions-to-ask-in-a-job-interview)
 
-[Epic Games Store and Fortnite Arrive on EU iPhones](https://arstechnica.com/gadgets/2024/08/epic-games-store-and-fortnite-arrive-on-eu-iphones/)
+[Hacking with PDF (2022)](https://0xcybery.github.io/blog/hacking-with-pdf)
 
-[NIST Announces Post-Quantum Cryptography Standards](https://spectrum.ieee.org/post-quantum-cryptography-2668949802)
+[Xapian: Open source search engine library](https://xapian.org/)
+
+[NSA tracks Google ads to find Tor users](https://www.cnet.com/news/privacy/nsa-tracks-google-ads-to-find-tor-users/)
 
 [VanillaJSX.com](https://vanillajsx.com/)
 
-[X to pay €550k to employee fired for not replying to yes-or-resign ultimatum](https://fortune.com/europe/2024/08/14/x-ordered-to-pay-550000-to-irish-employee-fired-for-not-replying-to-elon-musk-yes-or-resign-extremely-hardcore-ultimatum/)
+["Frost crack" sounds may come from sky, not trees](https://nautil.us/how-the-night-sky-speaks-to-us-772258/)
 
-['Kafkaesque': bank blocks cash transfer, saying it could be an AI scam](https://www.theguardian.com/money/article/2024/aug/17/bank-blocks-cash-transfer-ai-scam-fraud)
+[Discrete Mathematics – An Open Introduction, 4th edition](https://discrete.openmathbooks.org/dmoi4.html)
 
-[Smol Business](https://smoldungeon.com/biz)
+[Slackdump](https://github.com/rusq/slackdump)
+
+[Nu-Klear Fallout Detector (ca. 1962-1968)](https://www.orau.org/health-physics-museum/collection/civil-defense/citizens/nuklear.html)

@@ -3,18 +3,18 @@
 
 [Magic Wormhole: get things from one computer to another, safely](https://github.com/magic-wormhole/magic-wormhole)
 
-[Blockbuster Video VHS insert template](https://github.com/rfinnie/blockbuster)
+[Ask for Advice, Not Permission (2015)](https://boz.com/articles/advice-not-permission)
+
+[Games People Play with Cash Flow (2020)](https://commoncog.com/cash-flow-games/)
 
 [FlightAware Leaks Customer Data (Name, Email Addresses and Passwords)](https://loyaltylobby.com/2024/08/16/flightaware-leaks-customer-data-name-email-addresses-passwords/)
 
-[Show HN: Grug Notes, a simple take on text notes](https://grugnotes.com)
+[Blockbuster Video VHS insert template](https://github.com/rfinnie/blockbuster)
 
-[Yesterday's Pixels, Today](https://nas.sr/text/yesterdays-pixels-today/)
+[Postmortem of my 9 year journey at Google](https://tinystruggles.com/posts/google_postmortem/)
+
+[Abel, the Mozart of Mathematics](https://www.privatdozent.co/p/abel-the-mozart-of-mathematics)
 
 [Flaw has Microsoft Authenticator overwriting MFA accounts, locking users out](https://www.csoonline.com/article/3480918/design-flaw-has-microsoft-authenticator-overwriting-mfa-accounts-locking-users-out.html)
 
-[Alien – CUDA-powered artificial life simulation program](https://github.com/chrxh/alien)
-
-[Basic MetaProgramming in Zig](https://www.openmymind.net/Basic-MetaProgramming-in-Zig/)
-
-[Surgeons Cut a Giant Tumor Out of My Head. Is There a Better Way?](https://www.bloomberg.com/news/features/2024-08-14/a-neurosurgeon-who-operated-on-biden-wants-to-treat-disease-with-sound)
+[Yesterday's Pixels, Today](https://nas.sr/text/yesterdays-pixels-today/)

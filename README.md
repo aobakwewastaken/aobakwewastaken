@@ -5,16 +5,16 @@
 
 [Blockbuster Video VHS insert template](https://github.com/rfinnie/blockbuster)
 
-[Photon entanglement could explain the rapid brain signals behind consciousness](https://phys.org/news/2024-08-photon-entanglement-rapid-brain-consciousness.html)
+[FlightAware Leaks Customer Data (Name, Email Addresses and Passwords)](https://loyaltylobby.com/2024/08/16/flightaware-leaks-customer-data-name-email-addresses-passwords/)
 
-[Increasing Retention Without Increasing Study Time [pdf]](https://files.eric.ed.gov/fulltext/ED505647.pdf)
+[Show HN: Grug Notes, a simple take on text notes](https://grugnotes.com)
 
-[The Blue Collar Jobs of Philip Glass](https://www.honest-broker.com/p/the-blue-collar-jobs-of-philip-glass)
+[Yesterday's Pixels, Today](https://nas.sr/text/yesterdays-pixels-today/)
+
+[Flaw has Microsoft Authenticator overwriting MFA accounts, locking users out](https://www.csoonline.com/article/3480918/design-flaw-has-microsoft-authenticator-overwriting-mfa-accounts-locking-users-out.html)
 
 [Alien – CUDA-powered artificial life simulation program](https://github.com/chrxh/alien)
 
-[DifuzCam: Replacing Camera Lens with a Mask and a Diffusion Model](https://arxiv.org/abs/2408.07541)
+[Basic MetaProgramming in Zig](https://www.openmymind.net/Basic-MetaProgramming-in-Zig/)
 
-[Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
-
-[Are you smarter than a language model?](https://joel.tools/smarter/)
+[Surgeons Cut a Giant Tumor Out of My Head. Is There a Better Way?](https://www.bloomberg.com/news/features/2024-08-14/a-neurosurgeon-who-operated-on-biden-wants-to-treat-disease-with-sound)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [Show HN: PgQueuer – Transform PostgreSQL into a Job Queue](https://github.com/janbjorge/PgQueuer)
 
-[Interposer to Fix the Symmetricom SyncServer S200 GPS Week Rollover Problem](https://tomverbeure.github.io/2024/08/18/Fixing-the-Symmetricom-S200-GPS-Week-Number-Rollover-Problem.html)
+[Renderings Created with Only a Pencil](https://www.core77.com/posts/133324/Fighting-Through-Mental-Struggles-Incredible-Renderings-Created-with-Only-a-Pencil)
+
+[Trainwreck Design](https://j3s.sh/thought/trainwreck-design.html)
+
+[The Curious Case of QUEENCREEK](https://mobeigi.com/blog/security/malware/the-curious-case-of-queencreek/)
+
+[Odigos (YC W23) Is Hiring Lead Product Manager](https://www.ycombinator.com/companies/keyval/jobs/L2pKnWr-lead-product-manager)
 
 [Dasel: Select, put and delete data from JSON, TOML, YAML, XML and CSV](https://github.com/TomWright/dasel)
 
-[Debugging operating systems with time-traveling virtual machines [pdf]](https://www.usenix.org/legacy/events/usenix05/tech/general/king/king.pdf)
+[Roblox is the biggest game in the world, but is unprofitable](https://www.matthewball.co/all/roblox2024)
 
-[Linux Memory Overcommit (2007)](http://opsmonkey.blogspot.com/2007/01/linux-memory-overcommit.html)
+[Can a Rust binary use incompatible versions of the same library?](https://github.com/brannondorsey/rust-incompatible-transitive-dependencies)
 
-[Police Cannot Seize Property Indefinitely After an Arrest, Federal Court Rules](https://reason.com/2024/08/16/police-cannot-seize-property-indefinitely-after-an-arrest-federal-court-rules/)
+[Markov chains are funnier than LLMs](https://emnudge.dev/blog/markov-chains-are-funny/)
 
-[Energy economics and rocket science with Casey Handmer](https://www.complexsystemspodcast.com/episodes/solar-economics/)
-
-[Leaving Neovim for Zed](https://stevedylan.dev/posts/leaving-neovim-for-zed/)
-
-[Parents outraged at Snoo after smart bassinet company charges fee to rock crib](https://www.independent.co.uk/news/world/americas/snoo-bassinet-baby-sleeping-subscription-b2597869.html)
-
-[How the instrument landing system at Antarctica's McMurdo Station works](https://www.flightradar24.com/blog/transponder-landing-system/)
+[Google took three months to remove scam app that stole over $5M](https://www.theblock.co/post/311707/google-took-three-months-to-remove-scam-app-that-stole-over-5-million-in-crypto-lawsuit)

@@ -7,14 +7,14 @@
 
 [Archiving "The Famous Computer Cafe"](https://blog.archive.org/2024/08/19/archiving-the-famous-computer-cafe/)
 
-[Stripe's Monorepo Developer Environment](https://blog.nelhage.com/post/stripe-dev-environment/)
-
 [FindMy Flipper – AirTag and SmartTag Emulator](https://github.com/MatthewKuKanich/FindMyFlipper)
-
-[The Charming, Eccentric, Blessed Life of Lee Maxwell](https://www.5280.com/the-charming-eccentric-blessed-life-of-lee-maxwell/)
 
 [Show HN: PgQueuer – Transform PostgreSQL into a Job Queue](https://github.com/janbjorge/PgQueuer)
 
+[The Charming, Eccentric, Blessed Life of Lee Maxwell](https://www.5280.com/the-charming-eccentric-blessed-life-of-lee-maxwell/)
+
 [Seven basic rules for causal inference](https://pedermisager.org/blog/seven_basic_rules_for_causal_inference/)
 
-[Bitmovin (YC S15) Is Hiring Software Engineers in Austria](https://bitmovin.com/careers)
+[Dasel: Select, put and delete data from JSON, TOML, YAML, XML and CSV](https://github.com/TomWright/dasel)
+
+[Show HN: FlowVision – Waterfall-Style Image Browser for macOS (Open-Source)](https://github.com/netdcy/FlowVision)

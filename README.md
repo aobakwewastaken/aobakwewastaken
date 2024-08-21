@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [I've built my first successful side project, and I hate it](https://switowski.com/blog/i-have-built-my-first-successful-side-project-and-i-hate-it/)
 
-[How to Build a 50K Ton Forging Press](https://www.construction-physics.com/p/how-to-build-a-50000-ton-forging)
+[Euclid's Proof that √2 is Irrational](https://www.mathsisfun.com/numbers/euclid-square-root-2-irrational.html)
 
-[Show HN: Handwriter.ttf – Handwriting Synthesis with Harfbuzz WASM](https://github.com/hsfzxjy/handwriter.ttf)
+[Py5, a Python version of Processing for your creative coding projects](http://py5coding.org/index.html)
 
-[The Discovery of the Celendrical Date Line](https://webspace.science.uu.nl/~gent0113/idl/idl_discovery.htm)
+[How to build a 50k ton forging press](https://www.construction-physics.com/p/how-to-build-a-50000-ton-forging)
 
-[Zen, a Arc-like open-source browser based on the Firefox engine](https://www.zen-browser.app/)
+[Better Living Through Algorithms (2023)](https://clarkesworldmagazine.com/kritzer_05_23/)
 
-[Calling All Hackers](https://phrack.org/issues/71/17.html#article)
+[Do low-level optimizations matter? Faster quicksort with cmov](http://cantrip.org/sortfast.html)
 
-[Data Exfiltration from Slack AI via indirect prompt injection](https://promptarmor.substack.com/p/data-exfiltration-from-slack-ai-via)
+[Launch HN: Outerport (YC S24) – Instant hot-swapping for AI model weights]()
 
-[Australian government approves AAPowerLink project to export solar to Singapore](https://www.pv-tech.org/australian-government-approves-aapowerlink-project-to-export-solar-to-singapore/)
+[Meticulous (YC S21) is hiring to eliminate E2E UI tests]()
 
-[The weird of function-local types in Rust](https://elastio.github.io/bon/blog/the-weird-of-function-local-types-in-rust)
+[Midjourney web experience is now open to everyone](https://www.midjourney.com/)
 
-[Sieve (YC W22) Is hiring engineers to build AI [video] developer tools](https://www.sievedata.com/)
+[US hospital told family their daughter had checked out when in fact she'd died](https://www.theguardian.com/us-news/article/2024/aug/21/sacramento-hospital-patient-death-checked-out)

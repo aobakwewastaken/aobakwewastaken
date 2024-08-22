@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Designing my own watch (2020)](https://willem.com/blog/2020-11-30_designing-my-own-watch/)
+
 [I've built my first successful side project, and I hate it](https://switowski.com/blog/i-have-built-my-first-successful-side-project-and-i-hate-it/)
 
-[Euclid's Proof that √2 is Irrational](https://www.mathsisfun.com/numbers/euclid-square-root-2-irrational.html)
+[SIMD Matters: Graph Coloring](https://box2d.org/posts/2024/08/simd-matters/)
 
-[Py5, a Python version of Processing for your creative coding projects](http://py5coding.org/index.html)
+[A 20-part deep dive into how linkers work](https://lwn.net/Articles/276782/)
 
 [How to build a 50k ton forging press](https://www.construction-physics.com/p/how-to-build-a-50000-ton-forging)
 
-[Better Living Through Algorithms (2023)](https://clarkesworldmagazine.com/kritzer_05_23/)
+[Do low-level optimizations matter? Faster quicksort with cmov (2020)](http://cantrip.org/sortfast.html)
 
-[Do low-level optimizations matter? Faster quicksort with cmov](http://cantrip.org/sortfast.html)
+[Celebrating 6 years since Valve announced Steam Play Proton for Linux](https://www.gamingonlinux.com/2024/08/celebrating-6-years-since-valve-announced-steam-play-proton-for-linux/)
 
 [Launch HN: Outerport (YC S24) – Instant hot-swapping for AI model weights]()
 
-[Meticulous (YC S21) is hiring to eliminate E2E UI tests]()
+[Euphemisms are best changed frequently (2016)](https://aeon.co/essays/euphemisms-are-like-underwear-best-changed-frequently)
 
-[Midjourney web experience is now open to everyone](https://www.midjourney.com/)
-
-[US hospital told family their daughter had checked out when in fact she'd died](https://www.theguardian.com/us-news/article/2024/aug/21/sacramento-hospital-patient-death-checked-out)
+[I'm tired of fixing customers' AI generated code](https://medium.com/@thetateman/im-tired-of-fixing-customers-ai-generated-code-94816bde4ceb)

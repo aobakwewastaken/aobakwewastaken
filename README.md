@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Show HN: AI Tool Is Now Supporting React, Angular, CSS, Svelte, Vue](https://www.webcrumbs.org/frontend-ai)
+[Adding 16 kb page size to Android](https://android-developers.googleblog.com/2024/08/adding-16-kb-page-size-to-android.html)
 
-[SurrealEngine: Open-source reimplementation of Unreal Engine with playable UT99](https://github.com/dpjudas/SurrealEngine)
+[We have reached OpenBSD of Theseus](https://marc.info/?l=openbsd-cvs&m=172443408727088&w=2)
 
-[Nanolog supports logging with 7 ns median latency](https://github.com/PlatformLab/NanoLog)
+[My IRC client runs on Kubernetes](https://xeiaso.net/blog/2024/k8s-irc-client/)
 
-[Show HN: InstantDB – A Modern Firebase](https://github.com/instantdb/instant)
+[OpenSSH Backdoors](https://blog.isosceles.com/openssh-backdoors/)
+
+[Accident Forgiveness](https://fly.io/blog/accident-forgiveness/)
 
 [Launch HN: Moonglow (YC S24) – Serverless Jupyter Notebooks]()
 
-[17-Year-Old Student Exposes Germany's 'Secret' Pirate Site Blocklist](https://torrentfreak.com/17-year-old-student-exposes-germanys-secret-pirate-site-blocklist-240822/)
-
-[Valve New Employee Handbook (2012) [pdf]](https://steamcdn-a.akamaihd.net/apps/valve/Valve_NewEmployeeHandbook.pdf)
-
-[SnapDiagram – Instantly Convert Hand-Drawn Diagrams to Digital with AI](https://snapdiagram.xyz/)
-
 [Vega – A declarative language for interactive visualization designs](https://vega.github.io/vega/)
 
-[The staggering death toll of scientific lies](https://www.vox.com/future-perfect/368350/scientific-research-fraud-crime-jail-time)
+[Tesorio Is Hiring a Senior GenAI Engineer and Django Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
+
+[Playing Sudoku in TypeScript while the type checker highlights mistakes](https://github.com/gruhn/typescript-sudoku)
+
+[SurrealEngine: Open-source reimplementation of Unreal Engine with playable UT99](https://github.com/dpjudas/SurrealEngine)

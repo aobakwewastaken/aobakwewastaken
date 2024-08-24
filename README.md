@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Adding 16 kb page size to Android](https://android-developers.googleblog.com/2024/08/adding-16-kb-page-size-to-android.html)
+[Did you lose your AirPods?](https://alexyancey.com/lost-airpods/)
+
+[The UX of HTML (2023)](https://www.htmhell.dev/adventcalendar/2023/1/)
+
+[I sped up serde_json strings by 20%](https://purplesyringa.moe/blog/i-sped-up-serde-json-strings-by-20-percent/)
 
 [We have reached OpenBSD of Theseus](https://marc.info/?l=openbsd-cvs&m=172443408727088&w=2)
 
-[My IRC client runs on Kubernetes](https://xeiaso.net/blog/2024/k8s-irc-client/)
+[Microsoft formally deprecates the Windows Control Panel](https://arstechnica.com/gadgets/2024/08/microsoft-formally-deprecates-the-39-year-old-windows-control-panel/)
 
-[OpenSSH Backdoors](https://blog.isosceles.com/openssh-backdoors/)
+[An Overview of Datalog (2010)](https://clojure.github.io/clojure-contrib/doc/datalog.html)
+
+[Adding 16 kb page size to Android](https://android-developers.googleblog.com/2024/08/adding-16-kb-page-size-to-android.html)
+
+[Author-paid publication fees corrupt science and should be abandoned](https://osf.io/preprints/osf/3ez9v)
 
 [Accident Forgiveness](https://fly.io/blog/accident-forgiveness/)
 
-[Launch HN: Moonglow (YC S24) – Serverless Jupyter Notebooks]()
-
-[Vega – A declarative language for interactive visualization designs](https://vega.github.io/vega/)
-
-[Tesorio Is Hiring a Senior GenAI Engineer and Django Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
-
-[Playing Sudoku in TypeScript while the type checker highlights mistakes](https://github.com/gruhn/typescript-sudoku)
-
-[SurrealEngine: Open-source reimplementation of Unreal Engine with playable UT99](https://github.com/dpjudas/SurrealEngine)
+[Canon R5 Mk Ii Drops Pixel Shift High Res – Is Canon Missing the AI Big Picture?](https://kguttag.com/2024/08/22/canon-r5-mk-ii-drops-pixel-shift-high-res-is-canon-missing-the-ai-big-picture/)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Small Strings in Rust: smolstr vs. smartstring](https://fasterthanli.me/articles/small-strings-in-rust)
+
 [Hot Page – a graphical site builder](https://hot.page/)
+
+[You Are Not Dumb, You Just Lack the Prerequisites](https://lelouch.dev/blog/you-are-probably-not-dumb/)
 
 [Did you lose your AirPods?](https://alexyancey.com/lost-airpods/)
 
+[Pipe Syntax in SQL](https://research.google/pubs/sql-has-problems-we-can-fix-them-pipe-syntax-in-sql/)
+
+[Death Cafe](https://deathcafe.com/what/)
+
 [Microwaves: A Haven for Bacterial Diversity](https://tecscience.tec.mx/en/biotechnology/bacteria-in-microwave/)
+
+[Random Thoughts about Unity](https://aras-p.info/blog/2024/08/11/Random-thoughts-about-Unity/)
 
 [I sped up serde_json strings by 20%](https://purplesyringa.moe/blog/i-sped-up-serde-json-strings-by-20-percent/)
 
-[Against all odds, an asteroid mining company appears to be making headway](https://arstechnica.com/space/2024/08/against-all-odds-an-asteroid-mining-company-appears-to-be-making-headway/)
-
 [Don't obsess over tax and legal structures](https://emeaentrepreneurs.com/anti/dont-obsess-over-tax/)
-
-[We have reached OpenBSD of Theseus](https://marc.info/?l=openbsd-cvs&m=172443408727088&w=2)
-
-[Author-paid publication fees corrupt science and should be abandoned](https://osf.io/preprints/osf/3ez9v)
-
-[Adding 16 kb page size to Android](https://android-developers.googleblog.com/2024/08/adding-16-kb-page-size-to-android.html)
-
-[Substack (YC W18) Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)

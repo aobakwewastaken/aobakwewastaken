@@ -3,18 +3,18 @@
 
 [Did you lose your AirPods?](https://alexyancey.com/lost-airpods/)
 
-[The UX of HTML (2023)](https://www.htmhell.dev/adventcalendar/2023/1/)
+[Microwaves: A Haven for Bacterial Diversity](https://tecscience.tec.mx/en/biotechnology/bacteria-in-microwave/)
 
 [I sped up serde_json strings by 20%](https://purplesyringa.moe/blog/i-sped-up-serde-json-strings-by-20-percent/)
 
-[Why Ed-Tech Startups Don't Scale (2022)](https://giansegato.com/essays/why-edtech-startups-dont-scale)
+[Against all odds, an asteroid mining company appears to be making headway](https://arstechnica.com/space/2024/08/against-all-odds-an-asteroid-mining-company-appears-to-be-making-headway/)
 
-[Observe HN: ChatGPT Fills in My Memory]()
-
-[Microsoft formally deprecates the Windows Control Panel](https://arstechnica.com/gadgets/2024/08/microsoft-formally-deprecates-the-39-year-old-windows-control-panel/)
+[Don't obsess over tax and legal structures](https://emeaentrepreneurs.com/anti/dont-obsess-over-tax/)
 
 [We have reached OpenBSD of Theseus](https://marc.info/?l=openbsd-cvs&m=172443408727088&w=2)
 
 [Author-paid publication fees corrupt science and should be abandoned](https://osf.io/preprints/osf/3ez9v)
 
 [Adding 16 kb page size to Android](https://android-developers.googleblog.com/2024/08/adding-16-kb-page-size-to-android.html)
+
+[Substack (YC W18) Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Anthropic Claude 3.5 can create icalendar files, so I did this](https://gregsramblings.com/stupid-but-useful-ai-tricks-creating-calendar-entries-from-an-image-using-anthropic-claude-35)
+[Strandbeest](https://www.strandbeest.com/)
+
+[Modern Wardriving (2023)](https://simonroses.com/2023/12/modern-wardriving/)
 
 [Ask HN: What are you working on (August 2024)?]()
 
-[MavenGate gets it all wrong and hurts open source](http://day-to-day-stuff.blogspot.com/2024/08/mavengate-gets-it-all-wrong-and-hurts.html)
-
 [Defenders think in lists, attackers think in graphs (2015)](https://github.com/JohnLaTwC/Shared/blob/master/Defenders%20think%20in%20lists.%20Attackers%20think%20in%20graphs.%20As%20long%20as%20this%20is%20true%2C%20attackers%20win.md)
-
-[Postgres as a Search Engine](https://anyblockers.com/posts/postgres-as-a-search-engine)
 
 [Neurotechnology numbers worth knowing (2022)](https://milan.cvitkovic.net/writing/neurotechnology_numbers_worth_knowing/)
 
-[A World Split Apart – Aleksandr Solzhenitsyn (1978)](https://www.solzhenitsyncenter.org/a-world-split-apart)
-
-[Degrees of Kevin Bacon Using Postgres](https://www.crunchydata.com/blog/six-degrees-of-kevin-bacon-postgres-style)
-
 [You are not dumb, you just lack the prerequisites](https://lelouch.dev/blog/you-are-probably-not-dumb/)
+
+[Lessons in Mannerism at the Palazzo Del Te](https://daily.jstor.org/lessons-in-mannerism-at-the-palazzo-del-te/)
+
+[Sticker on caption phone says that using the captions can be illegal. Why?](https://law.stackexchange.com/questions/104642/sticker-on-caption-phone-says-that-using-the-captions-can-be-illegal-why)
+
+[A 4096 channel event-based multielectrode array with asynchronous outputs](https://www.nature.com/articles/s41467-024-50783-2)
 
 [AMD's Radeon 890M: Strix Point's Bigger iGPU](https://chipsandcheese.com/2024/08/24/amds-radeon-890m-strix-points-bigger-igpu/)

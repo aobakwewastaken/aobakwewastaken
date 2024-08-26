@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Why am I writing a Rust compiler in C?](https://notgull.net/announcing-dozer/)
+[Removing stuff is never obvious yet often better](https://www.gkogan.co/removing-stuff/)
+
+[Database "sharding" came from Ultima Online? (2009)](https://www.raphkoster.com/2009/01/08/database-sharding-came-from-uo/)
+
+[Why Does Elisp Suck](https://www.emacswiki.org/emacs/WhyDoesElispSuck)
+
+[Avante.nvim: Use Your Neovim Like Using Cursor AI IDE](https://github.com/yetone/avante.nvim)
 
 [TIL: Versions of UUID and when to use them](https://ntietz.com/blog/til-uses-for-the-different-uuid-versions/)
 
-[Database "sharding" came from Ultima Online?](https://www.raphkoster.com/2009/01/08/database-sharding-came-from-uo/)
+[Degas: Detailed Expressions on Full-Body Gaussian Avatars](https://initialneil.github.io/DEGAS)
+
+[How WW2 bombs across the Pacific are found and destroyed, decades after war](https://www.theguardian.com/world/2024/apr/05/ww2-hidden-bombs-clearing-disposal-pacific-marshall-islands-unexploded-ordnance-uxo)
+
+[Senior Intel CPU architects splinter to develop RISC-V processors](https://www.tomshardware.com/tech-industry/senior-intel-cpu-architects-splinter-to-develop-risc-v-processors-veterans-establish-aheadcomputing)
+
+[Linux Pipes Are Slow](https://qsantos.fr/2024/08/25/linux-pipes-are-slow/)
 
 [Is Telegram really an encrypted messaging app?](https://blog.cryptographyengineering.com/2024/08/25/telegram-is-not-really-an-encrypted-messaging-app/)
-
-[The Power of Attraction: How Beauty Influences Startup Investments](https://www.unisg.ch/en/newsdetail/news/the-power-of-attraction-study-about-attractiveness-bias/)
-
-[Strandbeest](https://www.strandbeest.com/)
-
-[Rollstack (YC W23) Is Hiring TypeScript Engineers – US/Canada (East Coast Only)](https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-middle-senior-software-engineer-typescript-us-canada-east-coast-only)
-
-[MacOS X Malware Development](https://0xf00sec.github.io/0x1A)
-
-[Why is a Guillotine blade diagonal?](http://pepijndevos.nl/2024/08/24/why-is-a-guillotine-blade-diagonal.html)
-
-[Pi Pico 2 Extreme Teardown](http://electronupdate.blogspot.com/2024/08/pi-pico-2-extreme-teardown.html)

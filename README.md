@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Why Rust?](https://rerun.io/blog/why-rust)
+[Dokku: My favorite personal serverless platform](https://hamel.dev/blog/posts/dokku/)
 
-[Fixing a Bug in Google Chrome as a First-Time Contributor](https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/)
+[Linux: We need tiling desktop environments](https://linuxblog.io/linux-tiling-desktop-environments/)
+
+[Launch HN: Parity (YC S24) – AI for on-call engineers working with Kubernetes]()
+
+[Fixing a bug in Google Chrome as a first-time contributor](https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/)
+
+[DOJ Files Antitrust Suit Against RealPage, Maker of Rent-Setting Algorithm](https://www.propublica.org/article/realpage-lawsuit-doj-antitrustdoj-files-antitrust-suit-against-maker-of-rent-setting-algorithm)
+
+[NSA releases 1982 Grace Hopper lecture](https://www.nsa.gov/helpful-links/nsa-foia/declassification-transparency-initiatives/historical-releases/view/article/3880193/capt-grace-hopper-on-future-possibilities-data-hardware-software-and-people-1982/)
 
 [Removing stuff is never obvious yet often better](https://www.gkogan.co/removing-stuff/)
 
-[Emmanuel Macron on the Arrest of Pavel Durov](https://twitter.com/EmmanuelMacron/status/1828077245606342672)
+[Frontier is about to offer 7-gig fiber across several states](https://www.theverge.com/2024/8/26/24228639/frontier-7-gig-fiber-speed-rollout-plan-pricing)
 
-[Love them or hate them, this couple reign in Russian literature](https://www.nytimes.com/2024/08/26/books/larissa-volokhonsky-richard-pevear.html)
-
-[Avante.nvim: Use Your Neovim Like Using Cursor AI IDE](https://github.com/yetone/avante.nvim)
-
-[Peng – a minimal Rust-based quadrotor simulation pipeline](https://github.com/makeecat/Peng)
+[Coolify’s rise to fame, and why it could be a big deal](https://blog.api-fiddle.com/posts/coolify-revolution)
 
 [Activeloop (YC S18) Seeks an AI Search Engineer to Build Most Accurate Search](https://careers.activeloop.ai/?ashby_jid=0b60f11e-1775-4aed-9a2e-f44df0f3da0c)
-
-[Database "sharding" came from Ultima Online? (2009)](https://www.raphkoster.com/2009/01/08/database-sharding-came-from-uo/)
-
-[Linux Pipes Are Slow](https://qsantos.fr/2024/08/25/linux-pipes-are-slow/)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[New 0-Day Attacks Linked to China's 'Volt Typhoon'](https://krebsonsecurity.com/2024/08/new-0-day-attacks-linked-to-chinas-volt-typhoon/)
+[Microsoft donates the Mono Project to the Wine team](https://www.mono-project.com/)
 
-[MiniJinja: Learnings from Building a Template Engine in Rust](https://lucumr.pocoo.org/2024/8/27/minijinja/)
+[5000x Faster CRDTs](https://josephg.com/blog/crdts-go-brrr/)
 
-[Box64 and RISC-V in 2024: What It Takes to Run the Witcher 3 on RISC-V](https://box86.org/2024/08/box64-and-risc-v-in-2024/)
+[A Collection of Free Public APIs That Is Tested Daily](https://www.freepublicapis.com/)
 
 [Sainsbury Wing contractors find 1990 letter from donor](https://www.theartnewspaper.com/2024/08/27/sainsbury-wing-contractors-find-1990-letter-from-donor-anticipating-their-demolition-of-false-columns)
 
-[Eazel, ex-Apple led Linux startup](https://en.wikipedia.org/wiki/Eazel)
+[DisTrO – a family of low latency distributed optimizers](https://github.com/NousResearch/DisTrO)
 
-[Launch HN: Bucket Robotics (YC S24) – Defect detection for molded and cast parts]()
+[The Monospace Web](https://owickstrom.github.io/the-monospace-web/)
 
-[Splatt3R: Zero-Shot Gaussian Splatting from Uncalibrated Image Pairs](https://splatt3r.active.vision/)
+[Blitzortung – real time lightning strikes around the world](https://www.blitzortung.org/en/live_lightning_maps.php)
 
-[Ruby in Jupyter Notebook](https://nbviewer.org/github/SciRuby/sciruby-notebooks/blob/master/getting_started.ipynb)
+[EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 
-[Caltech, long a bastion of male students, enrolls first class of majority women](https://www.latimes.com/california/story/2024-08-27/caltech-long-male-bastion-to-enroll-majority-women-for-first-time)
+[Taskwarrior – CLI Task Management](https://taskwarrior.org/)
 
-[QuestDB (YC S20) Is Hiring a Core Database Engineer](https://questdb.io/careers/core-database-engineer/)
+[The Simple Algorithm That Ants Use to Build Bridges (2018)](https://www.quantamagazine.org/the-simple-algorithm-that-ants-use-to-build-bridges-20180226/)

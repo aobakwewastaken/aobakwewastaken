@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Diffusion Models Are Real-Time Game Engines](https://gamengen.github.io)
+
 [Microsoft donates the Mono Project to the Wine team](https://www.mono-project.com/)
 
-[5000x Faster CRDTs](https://josephg.com/blog/crdts-go-brrr/)
+[Are We Anti-Cheat Yet?](https://areweanticheatyet.com/)
+
+[Cosmic Alpha Released](https://blog.system76.com/post/cosmic-alpha-released-heres-what-people-are-saying/)
+
+[Faster CRDTs (2021)](https://josephg.com/blog/crdts-go-brrr/)
 
 [A Collection of Free Public APIs That Is Tested Daily](https://www.freepublicapis.com/)
 
-[Sainsbury Wing contractors find 1990 letter from donor](https://www.theartnewspaper.com/2024/08/27/sainsbury-wing-contractors-find-1990-letter-from-donor-anticipating-their-demolition-of-false-columns)
+[Boxxy puts bad Linux applications in a box with only their files](https://github.com/queer/boxxy)
 
-[DisTrO – a family of low latency distributed optimizers](https://github.com/NousResearch/DisTrO)
+[Tesla's TTPoE at Hot Chips 2024: Replacing TCP for Low Latency Applications](https://chipsandcheese.com/2024/08/27/teslas-ttpoe-at-hot-chips-2024-replacing-tcp-for-low-latency-applications/)
+
+[Rerun: Visualize Multimodal Data over Time](https://rerun.io)
 
 [The Monospace Web](https://owickstrom.github.io/the-monospace-web/)
-
-[Blitzortung – real time lightning strikes around the world](https://www.blitzortung.org/en/live_lightning_maps.php)
-
-[EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
-
-[Taskwarrior – CLI Task Management](https://taskwarrior.org/)
-
-[The Simple Algorithm That Ants Use to Build Bridges (2018)](https://www.quantamagazine.org/the-simple-algorithm-that-ants-use-to-build-bridges-20180226/)

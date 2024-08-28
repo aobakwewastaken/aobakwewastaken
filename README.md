@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[The journey of an internet packet: Exploring networks with traceroute](https://sebastianmarines.com/post/journey-of-a-packet-exploring-networks-with-traceroute/)
+[Twenty Years of Valgrind (2022)](https://nnethercote.github.io/2022/07/27/twenty-years-of-valgrind.html)
 
-[US appeals court rules geofence warrants are unconstitutional](https://techcrunch.com/2024/08/13/us-appeals-court-rules-geofence-warrants-are-unconstitutional/)
+[The Future of TLA+ [pdf]](https://lamport.azurewebsites.net/tla/future.pdf)
 
-[Diffusion Models Are Real-Time Game Engines](https://gamengen.github.io)
+[Window Maker: X11 window manager with the look and feel of the NeXTSTEP UI](https://www.windowmaker.org/)
 
-[Formal CHERI: rigorous engineering and design-time proof of full-scale architect](https://www.lightbluetouchpaper.org/2022/07/22/formal-cheri/)
+[Maker Skill Trees](https://github.com/sjpiper145/MakerSkillTree)
 
-[Show HN: IPA, a GUI for exploring inner details of PDF (Rust)](https://github.com/seekbytes/IPA)
+[The 4-chan Go programmer](https://www.dolthub.com/blog/2024-08-23-the-4-chan-go-programmer/)
 
-[Typing Lists and Tuples in Elixir](https://elixir-lang.org/blog/2024/08/28/typing-lists-and-tuples/)
+[Many Small Queries Are Efficient in SQLite](https://www.sqlite.org/np1queryprob.html)
 
-[A dishwasher can make or break a restaurant](https://www.washingtonpost.com/sf/style/2017/08/07/chefs-say-a-dishwasher-can-make-or-break-a-restaurant-so-i-signed-up-for-a-shift/)
+[Show HN: Skip – Build native iOS and Android apps from a single Swift codebase](https://skip.tools/)
 
-[French prosecutors say Telegram CEO freed from custody, will appear in court](https://apnews.com/article/france-telegram-pavel-durov-arrest-6e213d227458f330ed16e7fe221a696c)
+[Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
 
-[Show HN: Every open source tool from the "What's HN working on" thread](https://github.com/getomni-ai/datasets/blob/main/hn_projects.md)
+[Kotlin for Data Analysis](https://kotlinlang.org/docs/data-analysis-overview.html)
 
-[Cosmic Alpha Released](https://blog.system76.com/post/cosmic-alpha-released-heres-what-people-are-saying/)
+[Scaling Rails and Postgres to Users at Microsoft: Lessons and Takeaways](https://stepchange.work/blog/scaling-rails-postgres-to-millions-of-users-at-microsoft-lessons-takeaways)

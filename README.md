@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[The journey of an internet packet: Exploring networks with traceroute](https://sebastianmarines.com/post/journey-of-a-packet-exploring-networks-with-traceroute/)
+
+[Formal CHERI: rigorous engineering and design-time proof of full-scale architect](https://www.lightbluetouchpaper.org/2022/07/22/formal-cheri/)
+
 [Diffusion Models Are Real-Time Game Engines](https://gamengen.github.io)
+
+[Show HN: IPA, a GUI for exploring inner details of PDF (Rust)](https://github.com/seekbytes/IPA)
 
 [Microsoft donates the Mono Project to the Wine team](https://www.mono-project.com/)
 
-[Wp2hugo: Best WordPress to Hugo migrator (written in Go)](https://github.com/ashishb/wp2hugo)
+[Typing Lists and Tuples in Elixir](https://elixir-lang.org/blog/2024/08/28/typing-lists-and-tuples/)
 
-[The journey of an internet packet: Exploring networks with traceroute](https://sebastianmarines.com/post/journey-of-a-packet-exploring-networks-with-traceroute/)
-
-[Final two communications from MH370 support controlled descent scenario (2021)](https://www.researchgate.net/publication/355242503_Final_Two_Communications_from_MH370_Supports_Controlled_Eastward_Descent_Scenario)
+[A dishwasher can make or break a restaurant](https://www.washingtonpost.com/sf/style/2017/08/07/chefs-say-a-dishwasher-can-make-or-break-a-restaurant-so-i-signed-up-for-a-shift/)
 
 [Cosmic Alpha Released](https://blog.system76.com/post/cosmic-alpha-released-heres-what-people-are-saying/)
 
-[A Collection of Free Public APIs That Is Tested Daily](https://www.freepublicapis.com/)
+[US appeals court rules geofence warrants are unconstitutional](https://techcrunch.com/2024/08/13/us-appeals-court-rules-geofence-warrants-are-unconstitutional/)
 
-[Faster CRDTs (2021)](https://josephg.com/blog/crdts-go-brrr/)
-
-[The Monospace Web](https://owickstrom.github.io/the-monospace-web/)
-
-[Tesla's TTPoE at Hot Chips 2024: Replacing TCP for Low Latency Applications](https://chipsandcheese.com/2024/08/27/teslas-ttpoe-at-hot-chips-2024-replacing-tcp-for-low-latency-applications/)
+[Wp2hugo: Best WordPress to Hugo migrator (written in Go)](https://github.com/ashishb/wp2hugo)

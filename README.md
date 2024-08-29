@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[OpenAI is shockingly good at unminifying code](https://glama.ai/blog/2024-08-29-reverse-engineering-minified-code-using-openai)
+[Bypassing airport security via SQL injection](https://ian.sh/tsa)
 
-[Update on Llama adoption](https://ai.meta.com/blog/llama-usage-doubled-may-through-july-2024/)
+[Elasticsearch is open source, again](https://www.elastic.co/blog/elasticsearch-is-open-source-again)
 
-[Show HN: Low Cost Mini PCs](https://lowcostminipcs.com/)
+[Hawai'i-Issued Real IDs Can Be Added to Apple Wallet Beginning August 28](https://hidot.hawaii.gov/blog/2024/08/28/hawai%ca%bbi-issued-real-ids-can-be-added-to-apple-wallet-beginning-august-28/)
 
-[Launch HN: Patchwork (YC W24) – Automatically add structured logs to your code]()
+[Launch HN: CodeViz (YC S24) – Visual maps of your codebase in VS Code]()
 
-[Air Con: $1697 for an on/off switch](https://blog.hopefullyuseful.com/blog/advantage-air-ezone-tablet-diy-repair/)
+[Chrome is entrenching third-party cookies that will mislead users](https://brave.com/blog/related-website-sets/)
 
-[How I learned to stop worrying and love userspace networking](https://friendshipcastle.zip/blog/glaceon)
+[Raspberry Pi Pico does line rate 100M Ethernet](https://github.com/rscott2049/pico-rmii-ethernet_nce)
 
-[From Julia to Rust](https://miguelraz.github.io/blog/juliatorust/index.html)
+[Can solar costs keep shrinking?](https://unchartedterritories.tomaspueyo.com/p/can-solar-costs-keep-shrinking)
 
-[Farewell Pandas, and thanks for all the fish](https://ibis-project.org/posts/farewell-pandas/)
+[Poly (YC S22) is hiring Rust experts in SF to build "Arc browser for files"](https://www.ycombinator.com/companies/poly/jobs/L4ObRgn-founding-platform-full-stack-front-end-engineer)
 
-[Show HN: An open-source, local-first Webflow for your own app](https://github.com/onlook-dev/onlook)
+[Dawn of a new era in Search: Balancing innovation, competition, and public good](https://blog.kagi.com/dawn-new-era-search)
 
-[Show HN: Homemade Automated Solar Concentrator](https://github.com/remipch/solar_concentrator)
+[The secret inside One Million Checkboxes](https://eieio.games/essays/the-secret-in-one-million-checkboxes/)

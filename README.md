@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Twenty Years of Valgrind (2022)](https://nnethercote.github.io/2022/07/27/twenty-years-of-valgrind.html)
+[Air Con: $1697 for an on/off switch](https://blog.hopefullyuseful.com/blog/advantage-air-ezone-tablet-diy-repair/)
 
-[The Future of TLA+ [pdf]](https://lamport.azurewebsites.net/tla/future.pdf)
+[Deterministic Replay of QEMU Emulation](https://www.qemu.org/docs/master/system/replay.html)
 
-[Window Maker: X11 window manager with the look and feel of the NeXTSTEP UI](https://www.windowmaker.org/)
+[What Life Means to Einstein (1929) [pdf]](https://www.saturdayeveningpost.com/wp-content/uploads/satevepost/what_life_means_to_einstein.pdf)
+
+[Docusaurus – Build optimized websites quickly, focus on your content](https://docusaurus.io/)
 
 [Maker Skill Trees](https://github.com/sjpiper145/MakerSkillTree)
 
-[The 4-chan Go programmer](https://www.dolthub.com/blog/2024-08-23-the-4-chan-go-programmer/)
+[Window Maker: X11 window manager with the look and feel of the NeXTSTEP UI](https://www.windowmaker.org/)
 
-[Many Small Queries Are Efficient in SQLite](https://www.sqlite.org/np1queryprob.html)
+[Google's new pipe syntax in SQL](https://simonwillison.net/2024/Aug/24/pipe-syntax-in-sql/)
 
-[Show HN: Skip – Build native iOS and Android apps from a single Swift codebase](https://skip.tools/)
+[Show HN: Firebuilder: A complete Firefox customization tool](https://github.com/Explosion-Scratch/firebuilder)
 
-[Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
+[The Future of TLA+ [pdf]](https://lamport.azurewebsites.net/tla/future.pdf)
 
-[Kotlin for Data Analysis](https://kotlinlang.org/docs/data-analysis-overview.html)
-
-[Scaling Rails and Postgres to Users at Microsoft: Lessons and Takeaways](https://stepchange.work/blog/scaling-rails-postgres-to-millions-of-users-at-microsoft-lessons-takeaways)
+[Monumental architecture in Atlantic Europe: fifth-millennium BC enclosure](https://www.cambridge.org/core/journals/antiquity/article/emergence-of-monumental-architecture-in-atlantic-europe-a-fortified-fifthmillennium-bc-enclosure-in-western-france/8ED741E657BCBE5522E7EC273F7D697D)

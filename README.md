@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [CIEL Is an Extended Lisp](http://ciel-lang.org/)
 
-[End of the Road: An AnandTech Farewell](https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell)
+[AnandTech Farewell](https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell)
 
-[Resilient Anonymous Communication for Everyone (Race)](https://www.darpa.mil/program/resilient-anonymous-communication-for-everyone)
+[Using Fibonacci numbers to convert from miles to kilometers and vice versa](https://catonmat.net/fibonacci-miles-kilometers)
 
-[Emacs-like editor written in Common Lisp](https://lem-project.github.io/#)
+[500 Python Interpreters](https://izzys.casa/2024/08/463-python-interpreters/)
 
-[The secret inside One Million Checkboxes](https://eieio.games/essays/the-secret-in-one-million-checkboxes/)
+[Language and shell in Go with 92% test coverage and instant CI/CD [video]](https://www.youtube.com/watch?v=YzIiUjgnSsA)
 
-[Leader Election with S3 Conditional Writes](https://www.morling.dev/blog/leader-election-with-s3-conditional-writes/)
+[Hadrius (YC W23) Is Hiring a Rising-Star Engineer to Champion Customer Success](https://www.ycombinator.com/companies/hadrius/jobs/m6sc1Vl-customer-success-engineer)
 
-[Bypassing airport security via SQL injection](https://ian.sh/tsa)
+[Lem: Emacs-like editor written in Common Lisp](https://lem-project.github.io/#)
 
-[Rearchiving 2M hours of digital radio, a comprehensive process](https://digitalpreservation-blog.nb.no/blog/2024-08-28-rearchiving-2-million-hours-of-digital-radio/)
+[Home Assistant Presence Simulation](https://github.com/slashback100/presence_simulation)
 
-[Sail and Muddy: A Retrospective](https://feelmuddy.notion.site/Sail-Muddy-A-Retrospective-388a528951de4da58e66940c5fb85b8a)
+[Pocket-Godot: Starter Kit for mobile game development using Godot](https://github.com/lukky-nl/Pocket-Godot)
 
-[Marketing to Engineers (2001)](https://www.bly.com/Pages/documents/STIKFS.html)
+[Regex Crossword](https://mathspp.com/blog/problems/regex-crossword)

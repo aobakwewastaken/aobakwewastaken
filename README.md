@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Harder Drive: hard drives we didn't want, or need [video]](http://tom7.org/harder/)
+[Harder Drive: hard drives we didn't want, or need [video] (2022)](http://tom7.org/harder/)
+
+[Did your car witness a crime?](https://www.sfchronicle.com/crime/article/tesla-sentry-mode-police-evidence-19731000.php)
+
+[WatchYourLAN: Lightweight Network IP Scanner](https://github.com/aceberg/WatchYourLAN)
+
+[Meta enforces purpose limitation via Privacy Aware Infrastructure at scale](https://engineering.fb.com/2024/08/27/security/privacy-aware-infrastructure-purpose-limitation-meta/)
+
+[Greece announces new rules banning mobile phones in schools from September](https://www.euronews.com/my-europe/2024/08/31/greece-announces-new-rules-banning-mobile-phones-in-schools-from-september)
+
+[Signals for Tailwind CSS (styling based on ancestor state via style queries)](https://github.com/brandonmcconnell/tailwindcss-signals)
+
+[Compilation of JavaScript to WASM, Part 2: Ahead-of-Time vs. JIT](https://cfallin.org/blog/2024/08/27/aot-js/)
+
+[Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
+
+[Landlords Face a $1.5T Commercial Real Estate Maturity Wall](https://www.bloomberg.com/news/articles/2024-08-31/landlords-face-a-1-5-trillion-commercial-real-estate-maturity-wall)
 
 [Lucee: A light-weight dynamic CFML scripting language for the JVM](https://www.lucee.org/)
-
-[Is my vision that bad? No, it's just a bug in Apple's Calculator](https://martin.wojtczyk.de/2024/08/31/is-my-vision-that-bad-no-its-just-a-bug-in-apples-calculator/)
-
-[Why Medieval Women Sometimes Fought in Bloody Trials by Combat](https://www.atlasobscura.com/articles/trial-by-combat-man-woman)
-
-[Show HN: A retro terminal text editor for GNU/Linux coded in C (C-edit)](https://github.com/velorek1/C-edit)
-
-[Deepwater Sub Recovers Roman Battering Ram Used in Carthage in Punic Wars Battle](https://gizmodo.com/deepwater-submarine-recovers-roman-battering-ram-from-ancient-battle-2000493180)
-
-[Texas State Police Gear Up for Expansion of Surveillance Tech](https://www.texasobserver.org/texas-dps-surveillance-tangle-cobwebs/)
-
-[Sisk – Lightweight .NET Web Framework](https://www.sisk-framework.org/)
-
-[About synchronous disk replication](https://cloud.google.com/compute/docs/disks/about-regional-persistent-disk)
-
-[Changes in Need for Uniqueness From 2000 Until 2020](https://online.ucpress.edu/collabra/article/10/1/121937/202992/Changes-in-Need-for-Uniqueness-From-2000-Until)

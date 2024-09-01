@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Building LLMs from the Ground Up: A 3-Hour Coding Workshop](https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up)
+
+[Playstation 2 GS emulation – the final frontier of Vulkan compute emulation](https://themaister.net/blog/2024/07/03/playstation-2-gs-emulation-the-final-frontier-of-vulkan-compute-emulation/)
+
+[Taming the beast that is the Django ORM – An introduction](https://www.davidhang.com/blog/2024-09-01-taming-the-django-orm/)
+
 [Harder Drive: hard drives we didn't want, or need [video] (2022)](http://tom7.org/harder/)
 
 [Did your car witness a crime?](https://www.sfchronicle.com/crime/article/tesla-sentry-mode-police-evidence-19731000.php)
 
+[Making an atomic trampoline [video]](https://www.youtube.com/watch?v=jLX1-tNnvEo)
+
+[MapRoulette: the micro-tasking tool for OpenStreetMap](https://maproulette.org/)
+
+[A brief history of barbed wire fence telephone networks](https://loriemerson.net/2024/08/31/a-brief-history-of-barbed-wire-fence-telephone-networks/)
+
 [WatchYourLAN: Lightweight Network IP Scanner](https://github.com/aceberg/WatchYourLAN)
 
-[Meta enforces purpose limitation via Privacy Aware Infrastructure at scale](https://engineering.fb.com/2024/08/27/security/privacy-aware-infrastructure-purpose-limitation-meta/)
-
-[Greece announces new rules banning mobile phones in schools from September](https://www.euronews.com/my-europe/2024/08/31/greece-announces-new-rules-banning-mobile-phones-in-schools-from-september)
-
-[Signals for Tailwind CSS (styling based on ancestor state via style queries)](https://github.com/brandonmcconnell/tailwindcss-signals)
-
-[Compilation of JavaScript to WASM, Part 2: Ahead-of-Time vs. JIT](https://cfallin.org/blog/2024/08/27/aot-js/)
-
-[Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
-
-[Landlords Face a $1.5T Commercial Real Estate Maturity Wall](https://www.bloomberg.com/news/articles/2024-08-31/landlords-face-a-1-5-trillion-commercial-real-estate-maturity-wall)
-
-[Lucee: A light-weight dynamic CFML scripting language for the JVM](https://www.lucee.org/)
+[The Atari 7800](https://www.goto10retro.com/p/inside-the-atari-7800)

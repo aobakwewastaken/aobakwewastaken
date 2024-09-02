@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[1M Users](https://blog.spacehey.com/entry?id=1245177)
+
+[How the Oldest Company in the World Survived Nearly 1,500 Years](https://www.openculture.com/2024/08/how-the-oldest-company-in-the-world-has-survived-nearly-1500-years.html)
+
 [Extreme Pi Boot Optimization](https://kittenlabs.de/blog/2024/09/01/extreme-pi-boot-optimization/)
 
-[Founder Mode](https://paulgraham.com/foundermode.html)
+[Vampires and Arithmomania](https://oddathenaeum.com/vampires-arithmomania/)
 
-[Using the moiré effect to show different arrows to each observer (2018)](https://www.popularmechanics.com/technology/infrastructure/a19091534/inogon-leading-mark-moire-effect-light/)
+[Tbsp – treesitter-based source processing language](https://git.peppe.rs/languages/tbsp/)
 
-[The vagus nerve orchestrates the mind-body connection](https://www.quantamagazine.org/how-our-longest-nerve-orchestrates-the-mind-body-connection-20240826/)
+[OrbStack: The fast, light, and easy way to run Docker containers and Linux](https://orbstack.dev/)
 
-[Postgres Webhooks with Pgstream](https://xata.io/blog/postgres-webhooks-with-pgstream)
+[Programming Zero Knowledge Proofs: From Zero to Hero](https://zkintro.com/articles/programming-zkps-from-zero-to-hero)
 
-[Show HN: Linkpreview, see how your sites looks in social media and chat apps](https://linkpreview.xyz)
+[The Pentium as a Navajo Weaving](https://www.righto.com/2024/08/pentium-navajo-fairchild-shiprock.html)
 
-[Electrified thermochemical systems with high-frequency metamaterial reactors](https://www.cell.com/joule/fulltext/S2542-4351(24)00346-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2542435124003465%3Fshowall%3Dtrue)
+['Amazing' Viking-age treasure travelled half the world to Scotland](https://www.theguardian.com/science/article/2024/sep/01/amazing-viking-age-treasure-travelled-half-the-world-to-scotland-analysis-finds)
 
-[The web's clipboard, and how it stores data of different types](https://alexharri.com/blog/clipboard)
-
-[Honey, I shrunk {fmt}: bringing binary size to 14k and ditching the C++ runtime](https://vitaut.net/posts/2024/binary-size/)
-
-[Einstein's Other Theory of Everything](https://nautil.us/einsteins-other-theory-of-everything-823245/)
+[Parsing Awk Is Tricky](https://www.raygard.net/awkdoc/pages/awk_parsing_is_tricky.html)

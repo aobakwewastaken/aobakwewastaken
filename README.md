@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[DOjS – A DOS JavaScript Canvas with Sound](https://github.com/SuperIlu/DOjS)
+[The Art of Finishing](https://www.bytedrum.com/posts/art-of-finishing/)
+
+[Show HN: A modern way to type in African languages](https://github.com/pythonbrad/afrim)
+
+[Big Tech Sees Like a State (2020)](https://www.thediff.co/archive/big-tech-sees-like-a-state/)
+
+[Launch HN: Fortress (YC S24) – Database platform for multi-tenant SaaS]()
 
 [Sleep on it: How the brain processes many experiences – even when 'offline'](https://news.yale.edu/2024/08/14/sleep-it-how-brain-processes-many-experiences-even-when-offline)
 
-[Full Text, Full Archive RSS Feeds for Any Blog](https://www.dogesec.com/blog/full_text_rss_atom_blog_feeds/)
+[Ask HN: Who wants to be hired? (September 2024)]()
 
-[Show HN: Defrag the Game](https://defrag-game.com)
+[Massachusetts Bodged Transistor Authority](https://tris.fyi/blog/mbta-cab-signaling-indicator.html)
 
-[1M Users](https://blog.spacehey.com/entry?id=1245177)
+[Owners of 1-Time Passcode Theft Service Plead Guilty](https://krebsonsecurity.com/2024/09/owners-of-1-time-passcode-theft-service-plead-guilty/)
 
-[Show HN: Open-Source Software for Designing 3D-Printable Luneburg Lenses for RF](https://github.com/jboirazian/LuneForge)
+[DOjS – A DOS JavaScript Canvas with Sound](https://github.com/SuperIlu/DOjS)
 
-[Upgrading a Toshiba NAS HDD Firmware on Linux](https://syscall.eu/blog/2024/08/28/toshiba_hdd_firmware/)
-
-[Telephone Line Rural Outside Plant](http://cityinfrastructure.com/single.php?d=RuralOutsidePlant&t=Rural%20Outside%20Plant)
-
-[What Does It Mean to Learn?](https://www.newyorker.com/culture/open-questions/what-does-it-really-mean-to-learn)
-
-[Extreme Pi Boot Optimization](https://kittenlabs.de/blog/2024/09/01/extreme-pi-boot-optimization/)
+[Ask HN: Who is hiring? (September 2024)]()

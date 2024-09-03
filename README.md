@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Synchronizing pong to music with constrained optimization](https://victortao.substack.com/p/song-pong)
+
+[IBM 305 RAMAC and the 1960 Winter Olympics](https://pncnmnp.github.io/blogs/ibm-ramac-and-1960-winter-olympics.html)
+
 [Greppability is an underrated code metric](https://morizbuesing.com/blog/greppability-code-metric/)
+
+[Show HN: PlasCAD: Open-source plasmid editor](https://github.com/David-OConnor/plascad)
 
 [Is My Blue Your Blue?](https://ismy.blue/)
 
-[Getting price-gouged by private equity in the UK's happiest resort (2023)](https://www.netincome.co/p/getting-price-gouged-by-private-equity)
+[Why bother with argv[0]?](https://www.wietzebeukema.nl/blog/why-bother-with-argv0)
+
+[Steve Ballmer's incorrect binary search interview question](https://blog.jgc.org/2024/09/steve-ballmers-binary-search-interview.html)
+
+[Mobile phones not linked to brain cancer, biggest study to date finds](https://www.theguardian.com/science/article/2024/sep/04/mobile-phones-not-linked-to-brain-cancer-biggest-study-to-date-finds)
 
 [IPMI](https://computer.rip/2024-08-31-ipmi.html)
 
-[The Art of Finishing](https://www.bytedrum.com/posts/art-of-finishing/)
-
-[Diffusion Is Spectral Autoregression](https://sander.ai/2024/09/02/spectral-autoregression.html)
-
-[Wizardry Co-Creator Andrew Greenberg Has Passed Away](https://www.timeextension.com/news/2024/09/wizardry-co-creator-andrew-greenberg-has-passed-away)
-
-[Web scraping with GPT-4o: powerful but expensive](https://blancas.io/blog/ai-web-scraper/)
-
-[Sleep on it: How the brain processes many experiences, even when 'offline'](https://news.yale.edu/2024/08/14/sleep-it-how-brain-processes-many-experiences-even-when-offline)
-
-[Economist Eugene Fama: 'Efficient markets is a hypothesis. It's not reality](https://www.ft.com/content/ec06fe06-6150-4f39-8175-37b9b61a5520)
+[The occult technology of the rollercoaster](https://simonindelicate.substack.com/p/the-occult-technology-of-the-rollercoaster)

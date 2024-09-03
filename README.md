@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Show HN: PlasCAD: Open-source plasmid editor](https://github.com/David-OConnor/plascad)
+[EUCLEAK Side-Channel Attack on the YubiKey 5 Series](https://ninjalab.io/eucleak/)
 
-[Synchronizing pong to music with constrained optimization](https://victortao.substack.com/p/song-pong)
+[Writing a book in the age of open source](https://blog.incrementalforgetting.tech/p/sculpting-a-book-the-chisel)
 
-[Greppability is an underrated code metric](https://morizbuesing.com/blog/greppability-code-metric/)
+[Show HN: Hestus – AI Copilot for CAD](https://www.hestus.co/)
 
-[Is My Blue Your Blue?](https://ismy.blue/)
+[The Engineering of Landfills](https://practical.engineering/blog/2024/9/3/the-hidden-engineering-of-landfills)
 
-[IBM 305 RAMAC and the 1960 Winter Olympics](https://pncnmnp.github.io/blogs/ibm-ramac-and-1960-winter-olympics.html)
+[Mondragon as the New City-State](https://www.elysian.press/p/mondragon-as-the-new-city-state)
 
-[Why bother with argv[0]?](https://www.wietzebeukema.nl/blog/why-bother-with-argv0)
+[Chromatone – Visual Music Language](https://chromatone.center/)
 
-[Steve Ballmer's incorrect binary search interview question](https://blog.jgc.org/2024/09/steve-ballmers-binary-search-interview.html)
+[Anthropic Quickstarts](https://github.com/anthropics/anthropic-quickstarts)
 
-[The occult technology of the rollercoaster](https://simonindelicate.substack.com/p/the-occult-technology-of-the-rollercoaster)
+[PropelAuth (YC W22) is hiring engineers who love to write](https://www.ycombinator.com/companies/propelauth/jobs/pLMnFlZ-technical-content-creator)
 
-[IPMI](https://computer.rip/2024-08-31-ipmi.html)
+[Show HN: Repaint – a WebGL based website builder](https://repaint.com)
 
-[The Art of Finishing](https://www.bytedrum.com/posts/art-of-finishing/)
+[How the Higgs field gives mass to elementary particles](https://www.quantamagazine.org/how-the-higgs-field-actually-gives-mass-to-elementary-particles-20240903/)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[State of S3 – Your Laptop is no Laptop anymore – a personal Rant](https://blog.jeujeus.de/blog/hardware/laptops-will-not-sleep-anymore/)
+[Interactive NixOS Tests](https://paperless.blog/interactive-nixos-tests)
+
+[Make Your Own CDN with NetBSD](https://it-notes.dragas.net/2024/09/03/make-your-own-cdn-netbsd/)
 
 [EUCLEAK Side-Channel Attack on the YubiKey 5 Series](https://ninjalab.io/eucleak/)
 
-[Interactive NixOS Tests](https://paperless.blog/interactive-nixos-tests)
+[Show HN: Open-source pull request review agent]()
 
-[Simplifying programming with AI-tutors](https://www.edmigo.in/)
+[Britain's reliance on coal-fired power set to end after 140 years](https://www.ft.com/content/5164185d-b0d6-40d1-99b4-59f8039111c2)
 
 [We built the city of Colombo in Cities:Skylines](https://github.com/team-watchdog/colombo-skylines)
 
-[Keeping CALM: When distributed consistency is easy (2019)](https://arxiv.org/abs/1901.01930)
-
 [Faster Integer Programming](https://cacm.acm.org/news/faster-integer-programming/)
 
-[Show HN: OBS Live-streaming with 120ms latency](https://github.com/Glimesh/broadcast-box)
+[Keeping CALM: When distributed consistency is easy (2019)](https://arxiv.org/abs/1901.01930)
 
-[Chromatone – Visual Music Language](https://chromatone.center/)
+[Setting up a cache server for apt packages](https://qmacro.org/blog/posts/2024/09/03/setting-up-a-cache-server-for-apt-packages/)
 
-[Llms.txt](https://llmstxt.org/)
+[Simplifying programming with AI-tutors](https://www.edmigo.in/)

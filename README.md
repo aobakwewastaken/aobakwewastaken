@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[DAGitty – draw and analyze causal diagrams](https://dagitty.net/)
+
+[Programming the Convergent WorkSlate's spreadsheet microcassette future](http://oldvcr.blogspot.com/2024/09/programming-convergent-workslates.html)
+
+[Small asteroid to hit Earth's atmosphere today](https://earthsky.org/space/small-asteroid-hit-earth-philippines-sept-4-5-2024/)
+
+[Ilya Sutskever's SSI Inc raises $1B](https://www.reuters.com/technology/artificial-intelligence/openai-co-founder-sutskevers-new-safety-focused-ai-startup-ssi-raises-1-billion-2024-09-04/)
+
+[Generalized Carlos Scales](https://arxiv.org/abs/2408.14551)
+
+[ReMarkable Paper Pro](https://remarkable.com/)
+
 [EUCLEAK Side-Channel Attack on the YubiKey 5 Series](https://ninjalab.io/eucleak/)
 
 [We built the city of Colombo in Cities:Skylines](https://github.com/team-watchdog/colombo-skylines)
 
-[Faster Integer Programming](https://cacm.acm.org/news/faster-integer-programming/)
+[PlayHT (YC W23) Is Hiring Fullstack Engineers](https://jobs.ashbyhq.com/playht/b6f0fedd-78e4-4525-8aa4-931cd91027ae)
 
-[Keeping CALM: When distributed consistency is easy (2019)](https://arxiv.org/abs/1901.01930)
-
-[Show HN: OBS Live-streaming with 120ms latency](https://github.com/Glimesh/broadcast-box)
-
-[Chromatone – Visual Music Language](https://chromatone.center/)
-
-[The Engineering of Landfills](https://practical.engineering/blog/2024/9/3/the-hidden-engineering-of-landfills)
-
-[Typewriter Interview with Elisa Gabbert](https://austinkleon.substack.com/p/typewriter-interview-with-elisa-gabbert)
-
-[Photoroom (YC S20) Is Hiring a Django Back End Lead in Paris (PostgreSQL, REST)](https://jobs.ashbyhq.com/photoroom/ddf2ab84-6e90-4026-9622-6e92cb96722f)
-
-[Synchronizing Pong to music with constrained optimization](https://victortao.substack.com/p/song-pong)
+['Dancing' raisins − a simple kitchen experiment](https://theconversation.com/dancing-raisins-a-simple-kitchen-experiment-reveals-how-objects-can-extract-energy-from-their-environment-and-come-to-life-223255)

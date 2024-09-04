@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[State of S3 – Your Laptop is no Laptop anymore – a personal Rant](https://blog.jeujeus.de/blog/hardware/laptops-will-not-sleep-anymore/)
+
 [EUCLEAK Side-Channel Attack on the YubiKey 5 Series](https://ninjalab.io/eucleak/)
 
-[Writing a book in the age of open source](https://blog.incrementalforgetting.tech/p/sculpting-a-book-the-chisel)
+[Interactive NixOS Tests](https://paperless.blog/interactive-nixos-tests)
 
-[Show HN: Hestus – AI Copilot for CAD](https://www.hestus.co/)
+[Simplifying programming with AI-tutors](https://www.edmigo.in/)
 
-[The Engineering of Landfills](https://practical.engineering/blog/2024/9/3/the-hidden-engineering-of-landfills)
+[We built the city of Colombo in Cities:Skylines](https://github.com/team-watchdog/colombo-skylines)
 
-[Mondragon as the New City-State](https://www.elysian.press/p/mondragon-as-the-new-city-state)
+[Keeping CALM: When distributed consistency is easy (2019)](https://arxiv.org/abs/1901.01930)
+
+[Faster Integer Programming](https://cacm.acm.org/news/faster-integer-programming/)
+
+[Show HN: OBS Live-streaming with 120ms latency](https://github.com/Glimesh/broadcast-box)
 
 [Chromatone – Visual Music Language](https://chromatone.center/)
 
-[Anthropic Quickstarts](https://github.com/anthropics/anthropic-quickstarts)
-
-[PropelAuth (YC W22) is hiring engineers who love to write](https://www.ycombinator.com/companies/propelauth/jobs/pLMnFlZ-technical-content-creator)
-
-[Show HN: Repaint – a WebGL based website builder](https://repaint.com)
-
-[How the Higgs field gives mass to elementary particles](https://www.quantamagazine.org/how-the-higgs-field-actually-gives-mass-to-elementary-particles-20240903/)
+[Llms.txt](https://llmstxt.org/)

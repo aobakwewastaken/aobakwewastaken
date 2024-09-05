@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Launch HN: Maitai (YC S24) – Self-Optimizing LLM Platform]()
+[UE5 Nanite in WebGPU](https://github.com/Scthe/nanite-webgpu)
+
+[OAuth from First Principles](https://stack-auth.com/blog/oauth-from-first-principles)
+
+[Phind-405B and faster, high quality AI answers for everyone](https://www.phind.com/blog/introducing-phind-405b-and-better-faster-searches)
 
 [AlphaProteo generates novel proteins for biology and health research](https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/)
 
-[Show HN: AnythingLLM – The Open-Source, All-in-One Desktop AI Assistant]()
+[Deploying Rust in Existing Firmware Codebases](https://security.googleblog.com/2024/09/deploying-rust-in-existing-firmware.html)
 
-[Here a Bee, There a Bee, Everywhere a Wild Bee](https://hakaimagazine.com/features/here-a-bee-there-a-bee-everywhere-a-wild-bee/)
+[serverless-registry: A Docker registry backed by Workers and R2](https://github.com/cloudflare/serverless-registry)
 
-[AI-powered music scam nets musician $10M in royalties–and federal charges](https://arstechnica.com/information-technology/2024/09/fbi-busts-musicians-elaborate-ai-powered-10m-streaming-royalty-heist/)
+[Launch HN: Maitai (YC S24) – Self-Optimizing LLM Platform]()
 
-[How the Hourglass Won](https://systemsapproach.org/2024/08/19/how-the-hourglass-won/)
+[The 'Freakish Radio Writings' of 1924](https://www.centauri-dreams.org/2024/09/05/the-freakish-radio-writings-of-1924/)
 
-[The Internet Archive has lost its appeal in Hachette vs. Internet Archive](https://storage.courtlistener.com/recap/gov.uscourts.ca2.60988/gov.uscourts.ca2.60988.306.1.pdf)
+[Show HN: AnythingLLM – Open-Source, All-in-One Desktop AI Assistant](https://github.com/Mintplex-Labs/anything-llm)
 
-[How to Read Deep Learning Paper as a Software Engineer](https://www.youtube.com/watch?v=nL7lAo95D-o)
-
-[Yi-Coder: A Small but Mighty LLM for Code](https://01-ai.github.io/blog.html?post=en/2024-09-05-A-Small-but-Mighty-LLM-for-Code.md)
-
-[Giving C++ std:regex a C makeover](https://nullprogram.com/blog/2024/09/04/)
+[Common food dye found to make skin and muscle temporarily transparent](https://www.theguardian.com/science/article/2024/sep/05/common-food-dye-found-to-make-skin-and-muscle-temporarily-transparent)

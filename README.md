@@ -5,16 +5,16 @@
 
 [Dance Choreography Notation (2017)](https://adafrobinson.wordpress.com/2017/02/22/keeping-score/)
 
+[Conservative GC can be faster than precise GC](https://wingolog.org/archives/2024/09/07/conservative-gc-can-be-faster-than-precise-gc)
+
 [The Beginnings of FM Radio Broadcasting (2018)](http://www.theradiohistorian.org/fm/fm.html)
 
 [Hardware Acceleration of LLMs: A comprehensive survey and comparison](https://arxiv.org/abs/2409.03384)
 
+[Jacquard lab notebook: Version control and provenance for empirical research](https://www.inkandswitch.com/jacquard/notebook/)
+
 [Show HN: Wealthfolio: Private, open-source investment tracker](https://wealthfolio.app)
 
-[Working Methods (Of a Historian)](https://www.lrb.co.uk/the-paper/v32/n11/keith-thomas/diary)
+[Sieve (YC W22) Is hiring full stack engineers to build AI developer tools](https://www.sievedata.com/)
 
-[QtCS2024: Compile once, Run everywhere](https://wiki.qt.io/QtCS2024_Compile_once._Run_everywhere)
-
-[The Theory of Topos-Theoretic 'Bridges' – A Conceptual Introduction (2016)](https://www.glass-bead.org/article/the-theory-of-topos-theoretic-bridges-a-conceptual-introduction/)
-
-[Natural Piezoelectric Effect May Build Gold Deposits](https://arstechnica.com/science/2024/09/natural-piezoelectric-effect-may-build-gold-deposits/)
+[Richard Feynman and the Connection Machine](https://longnow.org/essays/richard-feynman-and-connection-machine/)

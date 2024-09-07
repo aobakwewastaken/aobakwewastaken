@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[WebP: The WebPage Compression Format](https://purplesyringa.moe/blog/webp-the-webpage-compression-format/)
+
+[A new rare high-rank elliptic curve, and an orchard of Diophantine equations](https://thehighergeometer.wordpress.com/2024/09/08/two-items-a-new-rare-high-rank-elliptic-curve-and-a-beautifully-organised-orchard-of-diophantine-equations/)
+
+[Ten Things to Know about the Great Wave](https://www.artic.edu/articles/1139/10-things-to-know-about-the-great-wave)
+
+[Hallelujah, Leonard Cohen, and a Pulitzer Prize-winning writer's suicide](https://subtledigressions.substack.com/p/hallelujah-leonard-cohen-and-a-pulitzer)
+
+[Dogs can remember names of toys years after not seeing them, study shows](https://www.theguardian.com/science/article/2024/sep/04/dogs-remember-names-toys-years-study-pets-memory)
+
+[My new rust binary search](https://chadnauseam.com/coding/random/my-new-rust-binary-search)
+
+[Nonstandard Analysis (1972)](https://sci-hub.se/https://www.jstor.org/stable/24927363)
+
 [Keyhole – Forge own Windows Store licenses](https://massgrave.dev/blog/keyhole)
 
+[Tire-related chemical is largely responsible for salmon deaths in urban streams](https://www.washington.edu/news/2020/12/03/tire-related-chemical-largely-responsible-for-adult-coho-salmon-deaths-in-urban-streams/)
+
 [The PERQ Computer](https://graydon2.dreamwidth.org/313862.html)
-
-[Conservative GC can be faster than precise GC](https://wingolog.org/archives/2024/09/07/conservative-gc-can-be-faster-than-precise-gc)
-
-[Dance Choreography Notation (2017)](https://adafrobinson.wordpress.com/2017/02/22/keeping-score/)
-
-[The Beginnings of FM Radio Broadcasting (2018)](http://www.theradiohistorian.org/fm/fm.html)
-
-[Jacquard lab notebook: Version control and provenance for empirical research](https://www.inkandswitch.com/jacquard/notebook/)
-
-[Hardware Acceleration of LLMs: A comprehensive survey and comparison](https://arxiv.org/abs/2409.03384)
-
-[Show HN: Wealthfolio: Private, open-source investment tracker](https://wealthfolio.app)
-
-[Richard Feynman and the Connection Machine (1989)](https://longnow.org/essays/richard-feynman-and-connection-machine/)
-
-[X Exec Who Defended Restoring Account with Child Abuse Content Resigns](https://gizmodo.com/x-twitter-exec-who-defended-restoring-account-that-posted-child-sexual-abuse-material-leaves-the-company-2000495687)

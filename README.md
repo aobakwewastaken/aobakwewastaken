@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Asynchronous IO: the next billion-dollar mistake?](https://yorickpeterse.com/articles/asynchronous-io-the-next-billion-dollar-mistake/)
+[Keyhole – Forge own Windows Store licenses](https://massgrave.dev/blog/keyhole)
 
 [Hardware Acceleration of LLMs: A comprehensive survey and comparison](https://arxiv.org/abs/2409.03384)
 
-[What's new in C++26 (part 1)](https://mariusbancila.ro/blog/2024/09/06/whats-new-in-c26-part-1/)
-
-[Browsing Hacker News in the Terminal](https://hnterm.ggerganov.com/)
+[Show HN: Wealthfolio: Private, open-source investment tracker](https://wealthfolio.app)
 
 [Malaysia started mandating ISPs to redirect DNS queries to local servers](https://thesun.my/local-news/mcmc-addresses-misinformation-on-dns-redirection-internet-access-restrictions-BN12972452)
 
-[Show HN: Wealthfolio: Private, open-source investment tracker](https://wealthfolio.app)
+[Natural Piezoelectric Effect May Build Gold Deposits](https://arstechnica.com/science/2024/09/natural-piezoelectric-effect-may-build-gold-deposits/)
 
 [QtCS2024: Compile once, Run everywhere](https://wiki.qt.io/QtCS2024_Compile_once._Run_everywhere)
 
-[Ford Patents In-Car System That Eavesdrops So It Can Play You Ads](https://www.motortrend.com/news/ford-in-vehicle-advertising-patent/)
+[Mapping 20k ships that sank during WW II](https://storymaps.arcgis.com/stories/41d4bd6029044afbb1b9ad805a4731d8)
 
-[Check for malicious IPs using DNS](https://ipshield.dev/)
+[Show HN: Using SQL's Turing completeness to build Tetris](https://github.com/nuno-faria/tetris-sql)
 
-[gRPC: The Ugly Parts](https://kmcd.dev/posts/grpc-the-ugly-parts/)
+[How to evaluate performance of LLM inference frameworks](https://www.lamini.ai/blog/evaluate-performance-llm-inference-frameworks)
+
+[Show HN: Infinity – Realistic AI characters that can speak]()

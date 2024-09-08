@@ -5,16 +5,16 @@
 
 [PC Floppy Copy Protection: Softguard Superlok](https://martypc.blogspot.com/2024/08/pc-floppy-copy-protection-softguard.html)
 
-[Asking the wrong questions (2017)](https://www.ben-evans.com/benedictevans/2017/01/11/wrongquestions)
+[LibrePythonista allows running IPython code in a LibreOffice spreadsheet](https://github.com/Amourspirit/python_libre_pythonista_ext)
 
 [How a 16th Century Explorer's Sailing Ship Works](https://www.youtube.com/watch?v=3pYqXrFx6S8)
+
+[Asking the wrong questions (2017)](https://www.ben-evans.com/benedictevans/2017/01/11/wrongquestions)
 
 [WebP: The WebPage Compression Format](https://purplesyringa.moe/blog/webp-the-webpage-compression-format/)
 
 [Baiting the bot](https://conspirator0.substack.com/p/baiting-the-bot)
 
-[Cruise ships chopped in half are a license to print money](https://newatlas.com/marine/how-to-stretch-cruise-ship/)
+[Have ‘hobby’ apps become the new social networks?](https://www.theguardian.com/technology/article/2024/sep/08/goodbye-tinder-hello-strava-have-hobby-apps-become-the-new-social-networks)
 
 [Cracking an old ZIP file to help open source the ANC's "Vula" secret crypto code](https://blog.jgc.org/2024/09/cracking-old-zip-file-to-help-open.html)
-
-[Keyhole – Forge own Windows Store licenses](https://massgrave.dev/blog/keyhole)

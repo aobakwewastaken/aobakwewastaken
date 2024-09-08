@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[An open discussion forum for ArXiv papers](https://www.alphaxiv.org/)
+[Core: New way to develop video games](https://github.com/damn/core)
 
-[Concrete clickbait: next time you share a spomenik photo, think abt what it mean (2016)](https://www.new-east-archive.org/articles/show/7269/spomenik-yugoslav-monument-owen-hatherley)
+["Unstripping" binaries: Restoring debugging information in GDB with Pwndbg](https://blog.trailofbits.com/2024/09/06/unstripping-binaries-restoring-debugging-information-in-gdb-with-pwndbg/)
 
-[PC Floppy Copy Protection: Softguard Superlok](https://martypc.blogspot.com/2024/08/pc-floppy-copy-protection-softguard.html)
+[Unconventional Case Study of Neoadjuvant Oncolytic Virotherapy for Breast Cancer](https://www.mdpi.com/2076-393X/12/9/958#)
+
+[Business Moleskine Mania: How a Notebook Conquered the Digital Era](https://thewalrus.ca/moleskine/)
+
+[Creating a Git Commit: The Hard Way](https://avestura.dev/blog/creating-a-git-commit-the-hard-way)
+
+[alphaXiv: Open research discussion on top of arXiv](https://www.alphaxiv.org/)
+
+[Serving AI from the Basement – 192GB of VRAM Setup](https://ahmadosman.com/blog/serving-ai-from-basement/)
 
 [LibrePythonista allows running IPython code in a LibreOffice spreadsheet](https://github.com/Amourspirit/python_libre_pythonista_ext)
 
-[How a 16th Century Explorer's Sailing Ship Works](https://www.youtube.com/watch?v=3pYqXrFx6S8)
+[White House asks agencies to step up internet routing security efforts](https://www.reuters.com/world/us/white-house-asks-agencies-step-up-internet-routing-security-efforts-2024-09-03/)
 
-[Asking the wrong questions (2017)](https://www.ben-evans.com/benedictevans/2017/01/11/wrongquestions)
-
-[WebP: The WebPage Compression Format](https://purplesyringa.moe/blog/webp-the-webpage-compression-format/)
-
-[Baiting the bot](https://conspirator0.substack.com/p/baiting-the-bot)
-
-[Have ‘hobby’ apps become the new social networks?](https://www.theguardian.com/technology/article/2024/sep/08/goodbye-tinder-hello-strava-have-hobby-apps-become-the-new-social-networks)
-
-[Cracking an old ZIP file to help open source the ANC's "Vula" secret crypto code](https://blog.jgc.org/2024/09/cracking-old-zip-file-to-help-open.html)
+[LuaJIT PR: Add Support for RISC-V 64](https://github.com/LuaJIT/LuaJIT/pull/1267)

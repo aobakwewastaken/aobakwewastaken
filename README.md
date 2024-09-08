@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [An open discussion forum for ArXiv papers](https://www.alphaxiv.org/)
 
-[Malaysia backtracks on DNS redirection decision](https://thesun.my/local-news/mcmc-asked-not-to-proceed-with-dns-redirection-method-fahmi-LN12977194)
+[Concrete clickbait: next time you share a spomenik photo, think abt what it mean (2016)](https://www.new-east-archive.org/articles/show/7269/spomenik-yugoslav-monument-owen-hatherley)
 
 [PC Floppy Copy Protection: Softguard Superlok](https://martypc.blogspot.com/2024/08/pc-floppy-copy-protection-softguard.html)
 
-[Why OpenStack and Kata Containers are both seeing a resurgence of adoption](https://www.zdnet.com/article/why-openstack-and-kata-containers-are-both-seeing-a-resurgence-of-adoption/)
+[Asking the wrong questions (2017)](https://www.ben-evans.com/benedictevans/2017/01/11/wrongquestions)
 
-[FutureRack: Server racks are everywhere. Now you can find them in your home](https://futurerack.info/main.php)
+[How a 16th Century Explorer's Sailing Ship Works](https://www.youtube.com/watch?v=3pYqXrFx6S8)
 
 [WebP: The WebPage Compression Format](https://purplesyringa.moe/blog/webp-the-webpage-compression-format/)
 
 [Baiting the bot](https://conspirator0.substack.com/p/baiting-the-bot)
 
-[Minimal Web](https://mnmlist.com/w/)
+[Cruise ships chopped in half are a license to print money](https://newatlas.com/marine/how-to-stretch-cruise-ship/)
 
 [Cracking an old ZIP file to help open source the ANC's "Vula" secret crypto code](https://blog.jgc.org/2024/09/cracking-old-zip-file-to-help-open.html)
 
-[Asking the Wrong Questions (2017)](https://www.ben-evans.com/benedictevans/2017/01/11/wrongquestions)
+[Keyhole – Forge own Windows Store licenses](https://massgrave.dev/blog/keyhole)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[QUIC Is Not Quick Enough over Fast Internet](https://dl.acm.org/doi/10.1145/3589334.3645323)
+[QUIC is not quick enough over fast internet](https://dl.acm.org/doi/10.1145/3589334.3645323)
+
+[ATProto for distributed system engineers](https://atproto.com/articles/atproto-for-distsys-engineers)
 
 [Reclaim the Stack](https://reclaim-the-stack.com)
-
-[ATProto for Distributed System Engineers](https://atproto.com/articles/atproto-for-distsys-engineers)
-
-[Linux's Bedtime Routine](https://tookmund.com/2024/09/hibernation-preparation)
 
 [Sleep duration, chronotype, health and lifestyle factors affect cognition [pdf]](https://bmjpublichealth.bmj.com/content/bmjph/2/1/e001000.full.pdf)
 
 [Creating a Git Commit: The Hard Way](https://avestura.dev/blog/creating-a-git-commit-the-hard-way)
 
-[DevHub.app – Developer Utilities for macOS](https://github.com/jaywcjlove/DevHub)
+[Linux's Bedtime Routine](https://tookmund.com/2024/09/hibernation-preparation)
 
-[Please Stop Inventing New Software Licences](https://shkspr.mobi/blog/2020/09/please-stop-inventing-new-software-licences/)
+[Bitten by Unicode](https://pyatl.dev/2024/09/01/bitten-by-unicode/)
 
-[Exploiting CI / CD Pipelines for fun and profit](https://blog.razzsecurity.com/2024/09/08/exploitation-research/exploiting-ci-cd-pipelines-for-fun-and-profit/)
+[Please stop inventing new software licences (2020)](https://shkspr.mobi/blog/2020/09/please-stop-inventing-new-software-licences/)
 
-[The Fennel Programming Language](https://fennel-lang.org/)
+[The Many SHAs of a GitHub Pull Request](https://www.kenmuse.com/blog/the-many-shas-of-a-github-pull-request/)
+
+[Which open-source projects are widely used but maintained by just a few people?]()

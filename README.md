@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[ESPN AI-generated recap of retiring player's final match fails to mention them](https://awfulannouncing.com/espn/alex-morgan-ai-generated-recap-mention.html)
+[iPhone 16 Pro and iPhone 16 Pro Max](https://www.apple.com/newsroom/2024/09/apple-debuts-iphone-16-pro-and-iphone-16-pro-max/)
 
-[Why I Wrote Data Science for Crime Analysis with Python](https://crimede-coder.com/blogposts/2023/EarlyReleasePython)
+[Launch HN: Deepsilicon (YC S24) – Software and hardware for ternary transformers]()
 
-[The short history of global living conditions and why it matters that we know it](https://ourworldindata.org/a-history-of-global-living-conditions)
+[Project Hammer: reduce collusion in the Canadian grocery sector](https://jacobfilipp.com/hammer/)
 
-[QUIC is not quick enough over fast internet](https://dl.acm.org/doi/10.1145/3589334.3645323)
+[Windows NT vs. Unix: A design comparison](https://blogsystem5.substack.com/p/windows-nt-vs-unix-design)
 
-[Show HN: Io_uring for Ruby](https://github.com/digital-fabric/iou)
+[Cecilia Payne-Gaposchkin discovered that stars are mostly made of hydrogen](https://www.aps.org/people/cecilia-payne-gaposchkin)
 
-[A tiny self-remaking C program](https://www.humprog.org/~stephen/blog/2024/09/05/)
+[Synthetic diamonds are now purer, more beautiful, and cheaper than mined](https://worksinprogress.co/issue/lab-grown-diamonds/)
 
-[A Pipeline Made of Airbags](https://ferd.ca/a-pipeline-made-of-airbags.html)
+[Transfusion: Predict the next token and diffuse images with one multimodal model](https://www.arxiv.org/abs/2408.11039)
 
-[Paper types ranked by likelihood of paper cuts](https://phys.org/news/2024-08-paper-likelihood.html)
+[James Earl Jones, voice of Darth Vader, dies aged 93](https://www.bbc.co.uk/news/articles/ce81rkg87w8o)
 
-[Sleep duration, chronotype, health and lifestyle factors affect cognition [pdf]](https://bmjpublichealth.bmj.com/content/bmjph/2/1/e001000.full.pdf)
+[Hacking misconfigured AWS S3 buckets: A complete guide](https://blog.intigriti.com/hacking-tools/hacking-misconfigured-aws-s3-buckets-a-complete-guide)
 
-[Tempted by the Dark Side, I now have a Commodore 128](https://www.goto10retro.com/p/tempted-by-the-dark-side-i-now-have)
+[James Earl Jones Dies at 93](https://variety.com/2024/film/news/james-earl-jones-dead-darth-vader-lion-king-1236138656/)

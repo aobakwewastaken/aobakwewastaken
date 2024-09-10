@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Why Not Comments](https://buttondown.com/hillelwayne/archive/why-not-comments/)
+
 [A good day to trie-hard: saving compute 1% at a time](https://blog.cloudflare.com/pingora-saving-compute-1-percent-at-a-time/)
 
-[GPTs and Hallucination](https://queue.acm.org/detail.cfm?id=3688007)
+[Another police raid in Germany](https://forum.torproject.org/t/tor-relays-artikel-5-e-v-another-police-raid-in-germany-general-assembly-on-sep-21st-2024/14533)
 
-[Ford seeks patent for tech that listens to driver conversations to serve ads](https://therecord.media/ford-patent-application-in-vehicle-listening-advertising)
+[Tutorial on diffusion models for imaging and vision](https://arxiv.org/abs/2403.18103)
 
-[Debugging in the Multiverse](https://antithesis.com/blog/multiverse_debugging/)
+[Git Bash Is My Preferred Windows Shell](https://www.ii.com/git-bash-is-my-preferred-windows-shell/)
 
-[How We Made Jupyter Notebooks Load 10 Times Faster](https://www.singlestore.com/blog/how-we-made-notebooks-load-10-times-faster/)
+[Lottery Simulator (2023)](https://perthirtysix.com/tool/lottery-simulator)
 
-[Multispectral Imaging and the Voynich Manuscript](https://manuscriptroadtrip.wordpress.com/2024/09/08/multispectral-imaging-and-the-voynich-manuscript/)
+[Satellites Spotting Aircraft](https://tech.marksblogg.com/ai-sar-satellites-umbra-aircraft-detection.html)
 
-[Sapling: Source control that's user-friendly and scalable](https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/)
+[Google Illuminate: Books and papers turned into audio](https://illuminate.google.com/home)
 
-[An NFC movie library for my kids](https://simplyexplained.com/blog/how-i-built-an-nfc-movie-library-for-my-kids/)
+[Rust in Illumos](https://wegmueller.it/blog/posts/2024-09-02-rust-on-illumos)
 
-[Memorizing the first 100 perfect squares (2022)](https://dzhu.page/mathematics/memorizing-100-perfect-squares/)
-
-[Results (Don't) Speak for Themselves: A Case for Documentation](https://www.population.fyi/p/results-dont-speak-for-themselves)
+[Among the Moss Piglets: The First Image of a Tardigrade (1773)](https://publicdomainreview.org/collection/tardigrade/)

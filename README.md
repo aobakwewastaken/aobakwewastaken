@@ -3,18 +3,18 @@
 
 [Radiology-specific foundation model](https://harrison.ai/harrison-rad-1/)
 
-[Synthetic diamonds are now purer, more beautiful, and cheaper than mined](https://worksinprogress.co/issue/lab-grown-diamonds/)
+[Make Your Own Read-Only Device with NetBSD](https://it-notes.dragas.net/2024/09/10/make-your-own-readonly-device-with-netbsd/)
 
-[Warner Brothers Cartoon Companion](http://www.warnercompanion.com/eowbcc-d.html)
+[Don't defer Close() on writable files (2017)](https://www.joeshaw.org/dont-defer-close-on-writable-files/)
+
+[Show HN: Vomitorium – all of your project in 1 text file](https://www.npmjs.com/package/vomitorium)
 
 [Windows NT vs. Unix: A design comparison](https://blogsystem5.substack.com/p/windows-nt-vs-unix-design)
 
-[Affordable DE10-Nano compatible boards for MiSTer FPGA retro platform](https://www.retrorgb.com/mister-pi-de-10-nano-clone-up-for-sale-today.html)
-
 [Carpentopod: A Walking Table Project](https://www.decarpentier.nl/carpentopod)
 
-[Sigrok – a portable, cross-platform, FOSS signal analysis software suite](https://sigrok.org/wiki/Main_Page)
+[Taildrop lets you send files between your personal devices on Tailscale network](https://tailscale.com/kb/1106/taildrop)
 
-[API Complexity Is a Lie](https://apichangelog.substack.com/p/api-complexity-is-a-lie)
+[Affordable DE10-Nano compatible boards for MiSTer FPGA retro platform](https://www.retrorgb.com/mister-pi-de-10-nano-clone-up-for-sale-today.html)
 
-[DOJ claims Google has "trifecta of monopolies" on Day 1 of ad tech trial](https://arstechnica.com/tech-policy/2024/09/doj-claims-google-has-trifecta-of-monopolies-on-day-1-of-ad-tech-trial/)
+[Warner Brothers Cartoon Companion](http://www.warnercompanion.com/eowbcc-d.html)

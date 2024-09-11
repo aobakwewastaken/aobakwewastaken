@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [We spent $20 to achieve RCE and accidentally became the admins of .mobi](https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/)
 
-[The magic of DC-DC voltage conversion](https://lcamtuf.substack.com/p/the-magic-of-dc-dc-voltage-conversion)
+[AppleWatchAmmeter](https://github.com/jp3141/AppleWatchAmmeter)
 
-[ZX Spectrum Documentary 'The Rubber Keyed Wonder' Gets London Premiere](https://www.timeextension.com/news/2024/09/zx-spectrum-documentary-the-rubber-keyed-wonder-gets-london-premiere-next-month)
+[Max Headroom and the World of Pseudo-CGI (2013)](https://www.cartoonbrew.com/cgi/max-headroom-and-the-strange-world-of-pseudo-cgi-82745.html)
 
-[Possibly all the ways to get loop-finding in graphs wrong](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/findloop/)
+[Building a browser using Servo as a web engine](https://servo.org/blog/2024/09/11/building-browser/)
 
-[UK Shops can refuse to take cash even though it's legal tender (2023)](https://fullfact.org/online/legal-tender-cash-in-shops/)
+[The Golden Road: How Ancient India Transformed the World](https://www.lrb.co.uk/the-paper/v46/n17/ferdinand-mount/one-way-traffic)
 
-[On over-engineering; finding the right balance](https://www.16elt.com/2024/09/07/future-proof-code/)
+[OpenSSH Keystroke Obfuscation Bypass](https://crzphil.github.io/posts/ssh-obfuscation-bypass/)
 
-[Chai-1: Decoding the molecular interactions of life](https://www.chaidiscovery.com/blog/introducing-chai-1)
+[The magic of DC-DC voltage conversion (2023)](https://lcamtuf.substack.com/p/the-magic-of-dc-dc-voltage-conversion)
 
-[How economical is your local Taco Bell?](https://taconomical.com)
+[The Art of the Brew: Exploring Hops and Other Plant Ingredients That Define Beer](https://worldsensorium.com/the-art-of-the-brew-exploring-hops-and-other-plant-ingredients-that-define-beer/)
 
-[Google Illuminate: Books and papers turned into audio](https://illuminate.google.com/home)
+[Soft Cells and the Geometry of Seashells](https://academic.oup.com/pnasnexus/article/3/9/pgae311/7754698)
 
-[Breaking Bell's Inequality with Monte Carlo Simulations in Python](https://bytepawn.com/quantum-entanglement-bell-inequality-python.html)
+[Binsider – A TUI for analyzing Linux binaries](https://binsider.dev/)

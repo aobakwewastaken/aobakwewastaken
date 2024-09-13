@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Zero-Click Calendar invite – Critical zero-click vulnerability chain in macOS](https://mikko-kenttala.medium.com/zero-click-calendar-invite-critical-zero-click-vulnerability-chain-in-macos-a7a434fc887b)
+
+[Lisp Implemented in Rust Macros](https://github.com/RyanWelly/lisp-in-rs-macros)
+
+[OpenAI threatens to revoke o1 access for asking it about its chain of thought](https://twitter.com/SmokeAwayyy/status/1834641370486915417)
+
 [Porting SBCL to the Nintendo Switch](https://reader.tymoon.eu/article/437)
 
-[Show HN: FlowTracker – Track data flowing through Java programs](https://github.com/coekie/flowtracker)
+[CrowdStrike ex-employees: 'Quality control was not part of our process'](https://www.semafor.com/article/09/12/2024/ex-crowdstrike-employees-detail-rising-technical-errors-before-july-outage)
 
-[JG Ballard's Apocalyptic Art](https://www.newstatesman.com/culture/2024/09/jg-ballards-apocalyptic-art)
+[Defend against vampires with 10 gbps network encryption](https://www.synacktiv.com/en/publications/defend-against-vampires-with-10-gbps-network-encryption)
 
-[Nature’s Ghosts: The World We Lost and How to Bring it Back](https://www.nature.com/articles/d41586-024-02761-3)
+[Janet Jackson had the power to crash laptop computers (2022)](https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994)
 
-[Build Simple Fuzzer (2020)](https://carstein.github.io/fuzzing/2020/04/18/writing-simple-fuzzer-1.html)
+[Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
 
-[FDA Authorizes First Over-the-Counter Hearing Aid Software](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-over-counter-hearing-aid-software)
+[Martin Luther King Jr. In Berlin](https://www.german-way.com/notable-people/featured-bios/martin-luther-king-jr-in-berlin/)
 
-[Better-performing “25519” elliptic-curve cryptography](https://www.amazon.science/blog/better-performing-25519-elliptic-curve-cryptography)
-
-[Using Android Without a Google Account](https://theprivacydad.com/using-android-without-a-google-account/)
-
-[Breaking Down OnlyFans' Economics](https://www.matthewball.co/all/fansprofitandloss)
-
-[How to Spot NASA's Solar Sail Demonstration Streaking Through the Night Sky](https://www.smithsonianmag.com/smart-news/how-to-spot-nasas-solar-sail-demonstration-streaking-through-the-night-sky-180985052/)
+[I Added SVG Maps to My Travel Posts](https://cyberb.space/notes/2024/how-i-added-maps-to-my-travel-posts/)

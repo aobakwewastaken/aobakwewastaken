@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Learning to Reason with LLMs](https://openai.com/index/learning-to-reason-with-llms/)
+[Notes on OpenAI's new o1 chain-of-thought models](https://simonwillison.net/2024/Sep/12/openai-o1/)
 
-[Intel is on life support. Can anything save it?](https://www.economist.com/business/2024/09/12/intel-is-on-life-support-can-anything-save-it)
+[Data sleuths who spotted research misconduct cleared of defamation](https://arstechnica.com/science/2024/09/court-clears-researchers-of-defamation-for-identifying-manipulated-data/)
 
-[Local Privilege Escalation via MSI Installer](https://sec-consult.com/vulnerability-lab/advisory/local-privilege-escalation-via-msi-installer-in-softmaker-office-freeoffice/)
+[Better-performing "25519" elliptic-curve cryptography](https://www.amazon.science/blog/better-performing-25519-elliptic-curve-cryptography)
 
-[Show HN: iFixit created a new USB-C, repairable soldering system](https://hackaday.com/2024/09/12/review-ifixits-fixhub-may-be-the-last-soldering-iron-you-ever-buy/)
+[FDA Authorizes First Over-the-Counter Hearing Aid Software](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-over-counter-hearing-aid-software)
 
-[Defusedxml – defusing XML bombs and other exploits](https://github.com/tiran/defusedxml)
+[Does Your Startup Need Complex Cloud Infrastructure?](https://www.hadijaveed.me/2024/09/08/does-your-startup-really-need-complex-cloud-infrastructure/)
 
-[GAZEploit: Remote keystroke inference attack by gaze estimation in VR/MR devices](https://www.wired.com/story/apple-vision-pro-persona-eye-tracking-spy-typing/)
+[Swimmable Cities](https://www.swimmablecities.org)
 
-[Kolmogorov-Arnold networks may make neural networks more understandable](https://www.quantamagazine.org/novel-architecture-makes-neural-networks-more-understandable-20240911/)
+[Boeing workers vote to strike in resounding defeat for troubled company](https://www.washingtonpost.com/business/2024/09/13/boeing-union-contract-strike/)
 
-[EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+[Entire staff of game publisher Annapurna Interactive has reportedly resigned](https://www.theverge.com/games/2024/9/12/24243317/annapurna-interactive-staff-reportedly-resigns)
 
-[Exploding Head Syndrome: What We Know About This Mysterious Disorder](https://www.sciencealert.com/exploding-head-syndrome-what-we-know-about-this-mysterious-disorder)
+[The Magnetic Field of the Milky Way](https://lweb.cfa.harvard.edu/~reid/bfield.html)
 
-[OpenAI o1 System Card [pdf]](https://cdn.openai.com/o1-system-card.pdf)
+[Understanding Concurrency, Parallelism and JavaScript](https://www.rugu.dev/en/blog/concurrency-and-parallelism/)

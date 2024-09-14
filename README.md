@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Zero-Click Calendar invite – Critical zero-click vulnerability chain in macOS](https://mikko-kenttala.medium.com/zero-click-calendar-invite-critical-zero-click-vulnerability-chain-in-macos-a7a434fc887b)
+[My 71 TiB ZFS NAS After 10 Years and Zero Drive Failures](https://louwrentius.com/my-71-tib-zfs-nas-after-10-years-and-zero-drive-failures.html)
 
-[Lisp Implemented in Rust Macros](https://github.com/RyanWelly/lisp-in-rs-macros)
+[Lisp implemented in Rust macros](https://github.com/RyanWelly/lisp-in-rs-macros)
 
-[OpenAI threatens to revoke o1 access for asking it about its chain of thought](https://twitter.com/SmokeAwayyy/status/1834641370486915417)
+[Techniques I Use to Create a Great User Experience for Shell Scripts](https://nochlin.com/blog/6-techniques-i-use-to-create-a-great-user-experience-for-shell-scripts)
+
+[Void captures over a million Android TV boxes](https://news.drweb.com/show/?i=14900)
+
+[The Legend of Holy Sword: An Immersive Experience for Concentration Enhancement](https://arxiv.org/abs/2408.16782)
 
 [Porting SBCL to the Nintendo Switch](https://reader.tymoon.eu/article/437)
 
+[Billiards is a good game (1975)](https://mag.uchicago.edu/billiards)
+
 [CrowdStrike ex-employees: 'Quality control was not part of our process'](https://www.semafor.com/article/09/12/2024/ex-crowdstrike-employees-detail-rising-technical-errors-before-july-outage)
 
+[OpenAI o1 Results on ARC-AGI-Pub](https://arcprize.org/blog/openai-o1-results-arc-prize)
+
 [Defend against vampires with 10 gbps network encryption](https://www.synacktiv.com/en/publications/defend-against-vampires-with-10-gbps-network-encryption)
-
-[Janet Jackson had the power to crash laptop computers (2022)](https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994)
-
-[Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
-
-[Martin Luther King Jr. In Berlin](https://www.german-way.com/notable-people/featured-bios/martin-luther-king-jr-in-berlin/)
-
-[I Added SVG Maps to My Travel Posts](https://cyberb.space/notes/2024/how-i-added-maps-to-my-travel-posts/)

@@ -3,18 +3,18 @@
 
 [OpenSCAD: The Programmer's Solid 3D CAD Modeller](https://openscad.org/)
 
-[Show HN: Bullshit Remover](https://www.bullshitremover.com/)
+[AT&T's Hobbit Microprocessor (2023)](https://thechipletter.substack.com/p/at-and-ts-crisp-hobbits)
 
 [Lazarus Group laundered $200M from 25 crypto hacks to fiat](https://zachxbt.mirror.xyz/B0-UJtxN41cJhpPtKv0v2LZ8u-0PwZ4ecMPEdX4l8vE)
 
-[A Time Consuming Pitfall for 32-Bit Applications on AArch64](https://sigma-star.at/blog/2024/02/aarch64-32-bit-compat-pitfall/)
-
-[One in five genetics papers contains errors thanks to Microsoft Excel (2016)](https://www.science.org/content/article/one-five-genetics-papers-contains-errors-thanks-microsoft-excel)
+[Carma (YC W24) Is Hiring Software Engineers to Get Fleets Same-Day Auto Repair]()
 
 [Mastering Null Semantics: Translating SQL Expressions to OpenSearch DSL](https://coralogix.com/blog/mastering-null-semantics-translating-sql-expressions-to-opensearch-dsl/)
 
-[We're not going to run out of new anatomy anytime soon](https://svpow.com/2024/09/07/were-not-going-to-run-out-of-new-anatomy-anytime-soon/)
+[Show HN: Bullshit Remover](https://www.bullshitremover.com/)
+
+[One in five genetics papers contains errors thanks to Microsoft Excel (2016)](https://www.science.org/content/article/one-five-genetics-papers-contains-errors-thanks-microsoft-excel)
+
+[Where are programming languages created? A zoomable map](https://pldb.io/blog/whereInnovation.html)
 
 [Writing a Lisp compiler (Lisp to assembly) from scratch in JavaScript (2018)](https://notes.eatonphil.com/compiler-basics-lisp-to-assembly.html)
-
-[Terence Tao on O1](https://mathstodon.xyz/@tao/113132502735585408)

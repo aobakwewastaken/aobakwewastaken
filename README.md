@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Terence Tao on O1](https://mathstodon.xyz/@tao/113132502735585408)
+[OpenSCAD: The Programmer's Solid 3D CAD Modeller](https://openscad.org/)
 
-[Falsehoods programmers believe about TCP](https://lwn.net/Articles/990281/)
+[Lazarus Group laundered $200M from 25 crypto hacks to fiat](https://zachxbt.mirror.xyz/B0-UJtxN41cJhpPtKv0v2LZ8u-0PwZ4ecMPEdX4l8vE)
 
-[Installing Arch Linux on a Laptop](https://giacomo.coletto.io/blog/arch-amd/)
+[Show HN: Wordllama – Things you can do with the token embeddings of an LLM](https://github.com/dleemiller/WordLlama)
+
+[A Time Consuming Pitfall for 32-Bit Applications on AArch64](https://sigma-star.at/blog/2024/02/aarch64-32-bit-compat-pitfall/)
+
+[Writing a Lisp compiler (Lisp to assembly) from scratch in JavaScript (2018)](https://notes.eatonphil.com/compiler-basics-lisp-to-assembly.html)
 
 [One in five genetics papers contains errors thanks to Microsoft Excel (2016)](https://www.science.org/content/article/one-five-genetics-papers-contains-errors-thanks-microsoft-excel)
 
-[Writing an OS in Rust](https://github.com/phil-opp/blog_os)
+[Terence Tao on O1](https://mathstodon.xyz/@tao/113132502735585408)
+
+[CSCI 181G PO: Game Engine Programming](https://cs.pomona.edu/classes/cs181g/)
 
 [The Bastard Operator from Hell (1999)](https://bofh.bjash.com/)
 
-[Making a rickroll laser: A parametric speaker](https://10maurycy10.github.io/projects/speaker/)
-
-[Hadrius (YC W23) Is Hiring New Grads Engineers in NYC](https://www.ycombinator.com/companies/hadrius/jobs/4E0eW8N-customer-success-engineer)
-
-[Show HN: Meet.hn – Meet the Hacker News community in your city]()
-
-[LLMs Will Always Hallucinate, and We Need to Live with This](https://arxiv.org/abs/2409.05746)
+[Writing an OS in Rust](https://github.com/phil-opp/blog_os)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[K340A: The Brain Computer of Chernobyl Duga Radar [video]](https://www.youtube.com/watch?v=kHiCHRB-RlA)
+
 [Launch HN: Silurian (YC S24) – Simulate the Earth]()
 
-[Product management is hosting a party, not playing chess](https://tidyfirst.substack.com/p/product-is-a-party-not-chess)
+[Amazon tells employees to return to office five days a week](https://www.cnbc.com/2024/09/16/amazon-jassy-tells-employees-to-return-to-office-five-days-a-week.html)
 
-[Stephen Fry – AI: A Means to an End or a Means to Our End?](https://stephenfry.substack.com/p/ai-a-means-to-an-end-or-a-means-to)
+[A Spreadsheet and a Debugger Walk into a Shell](https://arcan-fe.com/2024/09/16/a-spreadsheet-and-a-debugger-walks-into-a-shell/)
 
-[How to Succeed in Mr Beast Production (Leaked PDF)](https://simonwillison.net/2024/Sep/15/how-to-succeed-in-mrbeast-production/)
+[Intel lost the Sony Playstation business to AMD](https://www.reuters.com/technology/how-intel-lost-sony-playstation-business-2024-09-16/)
 
-[Matrix Multiplication in Finite Fields](https://fileforma.substack.com/p/update-ffgemm-finite-field-general)
+[Datomic and Content Addressable Techniques](https://www.latacora.com/blog/2024/09/13/datomic-and-content-addressable-techniques/)
+
+[macOS Sequoia is available today](https://www.apple.com/newsroom/2024/09/macos-sequoia-is-available-today/)
+
+[Apple Watch sleep apnea detection gets FDA approval](https://techcrunch.com/2024/09/16/apple-watch-sleep-apnea-detection-gets-fda-approval/)
+
+[Provable Security of Linux-DRBG in the Seedless Robustness Model [pdf]](https://eprint.iacr.org/2024/1421.pdf)
 
 [Fair: A Go library for serving resources fairly](https://github.com/satmihir/fair)
-
-[Fractran: Computer architecture based on the multiplication of fractions](https://wiki.xxiivv.com/site/fractran.html)
-
-[Show HN: Sisi – Semantic Image Search CLI tool, locally without third party APIs](https://github.com/frost-beta/sisi)
-
-[D&D is Anti-Medieval](https://www.blogofholding.com/?p=7182)
-
-[Attacking PowerShell Clixml Deserialization](https://www.truesec.com/hub/blog/attacking-powershell-clixml-deserialization)

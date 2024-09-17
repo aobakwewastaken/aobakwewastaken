@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Signatures of Gravitational Atoms from Black Hole Mergers](https://physics.aps.org/articles/v17/133)
+
 [Fixing an Elgato HD60 S HDMI capture device with the help of Ghidra](https://www.downtowndougbrown.com/2024/09/fixing-an-elgato-hd60-s-hdmi-capture-device-with-the-help-of-ghidra/)
 
 [Show HN: Void, an open-source Cursor/GitHub Copilot alternative](https://voideditor.com)
+
+[A Curried Composition Puzzle](https://franklin.dyer.me/post/212)
 
 [Show HN: Electrico – Electron Without Node and Chrome (Rust / Wry)](https://github.com/thomastschurtschenthaler/electrico)
 
 [Chain of Thought Empowers Transformers to Solve Inherently Serial Problems](https://arxiv.org/abs/2402.12875)
 
-[FreeBSD 13.4-Release](https://www.freebsd.org/releases/13.4R/announce/)
+[Launch HN: Silurian (YC S24) – Simulate the Earth]()
 
 [Why to Not Write a Book](https://gwern.net/book-writing)
 
-[ChessDream, a place for chess players to improve](https://chessdream.vercel.app)
+[User-Space Interrupts (2021)](https://lwn.net/Articles/871113/)
 
-[Launch HN: Silurian (YC S24) – Simulate the Earth]()
-
-[Amazon tells employees to return to office five days a week](https://www.cnbc.com/2024/09/16/amazon-jassy-tells-employees-to-return-to-office-five-days-a-week.html)
-
-[47-year-old Voyager 1 fired up thrusters it hasn't used in decades](https://www.cnn.com/2024/09/16/science/voyager-1-thruster-issue/index.html)
+[Rainfrog – a database management TUI for Postgres](https://github.com/achristmascarl/rainfrog)

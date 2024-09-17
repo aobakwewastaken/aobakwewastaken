@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[K340A: The Brain Computer of Chernobyl Duga Radar [video]](https://www.youtube.com/watch?v=kHiCHRB-RlA)
+[Fixing an Elgato HD60 S HDMI capture device with the help of Ghidra](https://www.downtowndougbrown.com/2024/09/fixing-an-elgato-hd60-s-hdmi-capture-device-with-the-help-of-ghidra/)
+
+[Chain of Thought Empowers Transformers to Solve Inherently Serial Problems](https://twitter.com/denny_zhou/status/1835761801453306089)
+
+[Why to Not Write a Book](https://gwern.net/book-writing)
+
+[Show HN: Void, an open-source Cursor/GitHub Copilot alternative](https://voideditor.com)
+
+[Chain of Thought Empowers Transformers to Solve Inherently Serial Problems](https://arxiv.org/abs/2402.12875)
+
+[FreeBSD 13.4-Release Announcement](https://www.freebsd.org/releases/13.4R/announce/)
+
+[Nyxpsi – A Next-Gen Network Protocol for Extreme Packet Loss](https://github.com/nyxpsi/nyxpsi)
 
 [Launch HN: Silurian (YC S24) – Simulate the Earth]()
 
-[Amazon tells employees to return to office five days a week](https://www.cnbc.com/2024/09/16/amazon-jassy-tells-employees-to-return-to-office-five-days-a-week.html)
+[What are the best options for Amazon SDEs thinking about leaving over RTO policy]()
 
-[A Spreadsheet and a Debugger Walk into a Shell](https://arcan-fe.com/2024/09/16/a-spreadsheet-and-a-debugger-walks-into-a-shell/)
-
-[Intel lost the Sony Playstation business to AMD](https://www.reuters.com/technology/how-intel-lost-sony-playstation-business-2024-09-16/)
-
-[Datomic and Content Addressable Techniques](https://www.latacora.com/blog/2024/09/13/datomic-and-content-addressable-techniques/)
-
-[macOS Sequoia is available today](https://www.apple.com/newsroom/2024/09/macos-sequoia-is-available-today/)
-
-[Apple Watch sleep apnea detection gets FDA approval](https://techcrunch.com/2024/09/16/apple-watch-sleep-apnea-detection-gets-fda-approval/)
-
-[Provable Security of Linux-DRBG in the Seedless Robustness Model [pdf]](https://eprint.iacr.org/2024/1421.pdf)
-
-[Fair: A Go library for serving resources fairly](https://github.com/satmihir/fair)
+[Bionicle – my actual part in its origins (2015)](https://alastairswinnerton.com/2015/09/07/bionicle-my-actual-part-in-its-origins/)

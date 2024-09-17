@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-["Four Seconds to Hot Up the Disintegrator, Google Had Told Me It Wasn't Enough"](https://quoteinvestigator.com/2024/09/16/hot-sf/)
+[macOS Sequoia 15 may bypass DNS encryption](https://www.obdev.at/blog/warning-macos-sequoia-15-may-bypass-dns-encryption/)
 
-[Rio-labs/rio: WebApps in pure Python. No JavaScript, HTML and CSS needed](https://github.com/rio-labs/rio)
+[GraalPy – A high-performance embeddable Python 3 runtime for Java](https://www.graalvm.org/python/)
 
-[Things you should know about Windows Input, but would rather not](https://ph3at.github.io/posts/Windows-Input/)
+[The Double Irish Dutch Sandwich: End of a Tax Evasion Strategy](https://conversableeconomist.com/2024/09/12/the-double-irish-dutch-sandwich-end-of-a-tax-evasion-strategy/)
 
-[The Centrality of Stupidity in Mathematics](https://mathforlove.com/2024/09/the-centrality-of-stupidity-in-mathematics/)
+[Atkinson Hyperlegible Font](https://www.brailleinstitute.org/freefont/)
 
-[Launch HN: Marblism (YC W24) – Generate full-stack web apps from a prompt]()
+[The Lego Great Ball Contraption](https://kottke.org/24/09/the-lego-great-ball-contraption)
 
-[Dozens of Hezbollah members said to be seriously injured  as devices explode](https://www.timesofisrael.com/liveblog_entry/dozens-of-hezbollah-members-said-serious-injured-in-beirut-as-devices-explode-in-alleged-israeli-op/)
+[TexTube: Chat with any YouTube video transcript in ChatGPT fast](https://chatgpt.com/g/g-2KencLm4f-textube)
+
+[Swift 6](https://www.swift.org/blog/announcing-swift-6/)
+
+[Show HN: Open Scanner, an open-source document scanning app for iPhone](https://github.com/pencilresearch/OpenScanner)
 
 [Rga: Ripgrep, but also search in PDFs, E-Books, Office documents, zip, etc.](https://github.com/phiresky/ripgrep-all)
 
-[Show HN: Finic – Open source platform for building browser automations](https://github.com/finic-ai/finic)
-
-[Signatures of Gravitational Atoms from Black Hole Mergers](https://physics.aps.org/articles/v17/133)
-
-[Why Gauss wanted a heptadecagon on his tombstone](https://www.scientificamerican.com/article/why-this-great-mathematician-wanted-a-heptadecagon-on-his-tombstone/)
+[WonderWorld: Interactive 3D Scene Generation from a Single Image](https://kovenyu.com/wonderworld/)

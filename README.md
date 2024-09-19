@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Have you ever seen soldering this close? [video]](https://www.youtube.com/watch?v=m3Ny3j5nH0U)
+[Show HN: Chili. Rust port of Spice, a low-overhead parallelization library](https://github.com/dragostis/chili)
 
-[Why wordfreq will not be updated](https://github.com/rspeer/wordfreq/blob/master/SUNSET.md)
+[Drift towards danger and the normalization of deviance (2017)](https://risk-engineering.org/concept/Rasmussen-practical-drift)
+
+[Diatom Arrangements](https://www.trebeljahr.com/posts/diatoms)
+
+[Glass Antenna Turns windows into 5G Base Stations](https://spectrum.ieee.org/5g-antenna-transparent-window)
+
+[JVM statistics cause garbage collection pauses (2015)](https://www.evanjones.ca/jvm-mmap-pause.html)
+
+[Show HN: A CLI tool I made to self-host any app with two commands on a VPS](https://github.com/MightyMoud/sidekick)
+
+[I Revived 3-Axis CNC Mill G-Code Simulator](https://github.com/Harvie/cnc-simulator)
+
+[Pivotal Tracker will shut down](https://www.pivotaltracker.com/blog/2024-09-18-end-of-life)
 
 [Is Tor still safe to use?](https://blog.torproject.org/tor-is-still-safe/)
 
-[Comic Mono](https://dtinth.github.io/comic-mono-font/)
-
-[An In-Depth Guide to Contrastive Learning: Techniques, Models, and Applications](https://myscale.com/blog/what-is-contrastive-learning/)
-
-[Remote Book Scanning with 1DollarScan and Optimizing Scanned PDFs](https://type.cyhsu.xyz/2024/09/1dollarscan/)
-
-[ADHD headband treats symptoms in 20 minutes per day](https://newatlas.com/science/adhd-autism/adhd-device-neurode/)
-
-[Llama 3.1 Omni Model](https://github.com/ictnlp/LLaMA-Omni)
-
-[Show HN: ts-remove-unused – Remove unused code from your TypeScript project](https://github.com/line/ts-remove-unused)
-
-[Nintendo Files Suit for Infringement of Patent Rights Against Pocketpair, Inc](https://www.nintendo.co.jp/corporate/release/en/2024/240919.html)
+[Seeing Like a Network](https://www.strangeloopcanon.com/p/seeing-like-a-network)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[We have lift-off Element X, Call and Server Suite are ready](https://element.io/blog/we-have-lift-off-element-x-call-and-server-suite-are-ready/)
+[Linux/4004: booting Linux on Intel 4004 for fun, art, and no profit](https://dmitry.gr/?r=05.Projects&proj=35.%20Linux4004)
 
-[No same site = None cookies for iOS18](https://github.com/WebKit/WebKit/pull/33164)
+[Training Language Models to Self-Correct via Reinforcement Learning](https://arxiv.org/abs/2409.12917)
 
-[The Architecture of Open Source Applications](https://aosabook.org/en/)
+[Openpilot – Operating system for robotics](https://github.com/commaai/openpilot)
 
-[3K free SVG icons for popular brands](https://simpleicons.org/)
+[Gaining access to anyones Arc browser without them even visiting a website](https://kibty.town/blog/arc/)
 
-[GitHub Notification Emails Hijacked to Send Malware](https://ianspence.com/blog/2024-09/github-email-hijack/)
+[Parallel PNG Proposal (2021)](https://github.com/DavidBuchanan314/parallel-png-proposal)
 
-[Gaining access to anyones browser without them even visiting a website](https://kibty.town/blog/arc/)
+[3D Reconstruction with Spatial Memory](https://hengyiwang.github.io/projects/spanner)
 
-[Visual guide to SSH tunneling and port forwarding (2023)](https://ittavern.com/visual-guide-to-ssh-tunneling-and-port-forwarding/)
+[Contextual Retrieval](https://www.anthropic.com/news/contextual-retrieval)
 
-[Stop Designing Your Web Application for Millions of Users When You Dont Have 100](https://www.darrenhorrocks.co.uk/stop-designing-web-applications-for-millions/)
+[Zb: An Early-Stage Build System](https://www.zombiezen.com/blog/2024/09/zb-early-stage-build-system/)
 
-[Anthropic – Introducing Contextual Retrieval](https://www.anthropic.com/news/contextual-retrieval)
+[Glass Antenna Turns windows into 5G Base Stations](https://spectrum.ieee.org/5g-antenna-transparent-window)
 
-[Disable Sequoia's monthly screen recording permission prompt](https://tinyapps.org/blog/202409180700_disable_sequoia_nag.html)
+[Forbes Marketplace: The Parasite SEO Company Trying to Devour Its Host](https://larslofgren.com/forbes-marketplace/)

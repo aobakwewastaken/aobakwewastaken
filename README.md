@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Hy 1.0.0, the Lisp dialect for Python, has been released](https://github.com/hylang/hy/discussions/2608)
+[Rawdrawandroid – Build Android apps without any Java, in C and Make](https://github.com/cnlohr/rawdrawandroid)
 
 [HTTP: , FTP:, and Dict:?](https://shkspr.mobi/blog/2024/09/http-ftp-and-dict/)
 
+[Desktop Windowing on Android Tablets](https://android-developers.googleblog.com/2024/09/developer-preview-desktop-windowing-on-android-tablets.html)
+
 [Sanding UI](https://blog.jim-nielsen.com/2024/sanding-ui/)
 
-[Show HN: I built a chatbot to converse with 3M SaaS product reviews](https://reviewradar.ai/)
+[Hy 1.0 – Lisp dialect for Python](https://github.com/hylang/hy/discussions/2608)
 
-[Flappy Bird for Android, only C, under 100KB](https://github.com/VadimBoev/FlappyBird)
+[Ask HN: Is Nextcloud a Great Alternative to Dropbox/Google Drive for Startups?]()
+
+[Bricked iPhone 16 Can Be Restored Wirelessly Using Another iPhone](https://www.macrumors.com/2024/09/18/iphone-16-restored-wirelessly-another-iphone/)
 
 [Trove of dinosaur fossils found high in B.C. mountains](https://www.cbc.ca/news/canada/british-columbia/b-c-researchers-fossil-trove-1.7325926)
 
-[Machine Learning Model Homotopy](https://win-vector.com/2024/09/17/machine-learning-model-homotopy/)
+[Our digital lives need data centers. What goes on inside them?](https://www.washingtonpost.com/dc-md-va/interactive/2024/data-centers-tour-northern-virginia/)
 
-[What happened to the Japanese PC platforms?](https://www.mistys-internet.website/blog/blog/2024/09/21/what-happened-to-the-japanese-pc-platforms/)
-
-[Nextcloud: Open-Source Cloud Apps](https://nextcloud.com/)
-
-[Fable at 20: a uniquely British video game with a complex legacy](https://www.theguardian.com/games/2024/sep/18/fable-at-20-a-uniquely-british-video-game-with-a-complex-legacy)
+[Mathematicians discover new class of shape seen throughout nature](https://www.nature.com/articles/d41586-024-03099-6)

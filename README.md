@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[How the iPhone 16's electrically-released adhesive works](https://www.ifixit.com/News/100352/we-hot-wired-the-iphone-16)
+[I Designed a Dieter Rams Inspired iPhone Dock](https://arslan.io/2024/09/23/dieter-rams-inspired-iphone-dock/)
 
-[Qocker is a user-friendly Qt GUI application for managing Docker containers](https://github.com/xlmnxp/Qocker)
-
-[What's inside the QR code menu at this cafe?](https://peabee.substack.com/p/whats-inside-the-qr-code-menu-at)
-
-[Low Cost CO2 Sensors Comparison: Photo-Acoustic vs. NDIR](https://www.airgradient.com/blog/co2-sensors-photo-acoustic-vs-ndir-updated/)
+[Alan Turing's 1950 manual for the Mark I electronic computer [pdf]](https://archive.computerhistory.org/resources/text/Knuth_Don_X4100/PDF_index/k-4-pdf/k-4-u2780-Manchester-Mark-I-manual.pdf)
 
 [GPU Puzzles](https://github.com/srush/GPU-Puzzles)
 
-[Dot (YC S21) Is Hiring an Engineer to Automate Analytics (Remote)](https://www.ycombinator.com/companies/dot/jobs/VdiEzXq-founding-engineer-ai-analytics-remote)
+[Show HN: Media Hoarder v1.4.0 Supporting TV Series, Introducing Episode Heatmaps](https://github.com/theMK2k/Media-Hoarder/releases/tag/v1.4.0)
+
+[Cloudflare's new marketplace lets websites charge AI bots for scraping](https://techcrunch.com/2024/09/23/cloudflares-new-marketplace-lets-websites-charge-ai-bots-for-scraping/)
 
 [Brainfuck Enterprise Solutions](https://github.com/bf-enterprise-solutions)
 
-[Ask HN: Good Sites for/with AI Enthusiasts?]()
-
-[AWS claims its cloud faces competition from on-premises IT](https://www.theregister.com/2024/09/17/aws_cma_investigation/)
-
 [The Palletrone is a robotic hovercart for moving stuff anywhere](https://spectrum.ieee.org/cargo-drone-2669117300)
+
+[Dot (YC S21) Is Hiring an Engineer to Automate Analytics (Remote)](https://www.ycombinator.com/companies/dot/jobs/VdiEzXq-founding-engineer-ai-analytics-remote)
+
+[Rust panics under the hood, and implementing them in .NET](https://fractalfir.github.io/generated_html/rustc_codegen_clr_v0_2_1.html)
+
+[Show HN: Time Flies](https://time-flies.koenvangilst.nl/)

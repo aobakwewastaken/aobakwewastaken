@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Show HN: I Wrote a Book on Java]()
+[Colocation: Non-Clown Hosting](http://rachelbythebay.com/w/2024/09/23/colo/)
 
-[I designed a Dieter Rams-inspired iPhone dock](https://arslan.io/2024/09/23/dieter-rams-inspired-iphone-dock/)
+[iPhone 16 Pro Storage Expansion 128GB to 1TB [video]](https://www.youtube.com/watch?v=KRRNR4HyYaw)
 
 [In 1870, Lord Rayleigh used oil and water to calculate the size of molecules](https://www.atomsonly.news/p/franklin-oil)
 
-[Inside a Ferroelectric RAM Chip](http://www.righto.com/2024/09/ramtron-ferroelectric-fram-die.html)
+[You'll own nothing and be happy- Jaguar Land Rover now offer a car subscription](https://www.drivepivotal.com/)
 
-[What, Me Worry? The Art and Humor of Mad Magazine](https://www.nrm.org/2024/08/mad/)
+[Show HN: I Wrote a Book on Java]()
 
-[Averaging is a convenient fiction of neuroscience](https://www.thetransmitter.org/neural-coding/averaging-is-a-convenient-fiction-of-neuroscience/)
+[A brief look at the new Kamal Proxy](https://nts.strzibny.name/kamal-proxy/)
 
-[Launch HN: Panora (YC S24) – Data Integration API for LLMs](https://github.com/panoratech/Panora)
+[Maker Pipe – Structural Pipe Fittings for DIY Builders](https://makerpipe.com/)
 
-[Free-form floor plan design using differentiable Voronoi diagram](https://github.com/nobuyuki83/floor_plan)
+[We fine-tuned Llama 405B on AMD GPUs](https://publish.obsidian.md/felafax/pages/Tune+Llama3+405B+on+AMD+MI300x+(our+journey))
 
-[Developing a go bot embedding ichiban Prolog](https://rogersm.net/posts/developing-a-go-bot-embedding-ichiban-prolog/)
+[I designed a Dieter Rams-inspired iPhone dock](https://arslan.io/2024/09/23/dieter-rams-inspired-iphone-dock/)
 
-[Alan Turing's 1950 manual for the Mark I electronic computer [pdf]](https://archive.computerhistory.org/resources/text/Knuth_Don_X4100/PDF_index/k-4-pdf/k-4-u2780-Manchester-Mark-I-manual.pdf)
+[Typhoid spreads in Pakistan as antibiotics fail](https://www.theguardian.com/global-development/2024/sep/24/drug-resistant-typhoid-disease-pakistan-antibiotics-superbugs-children)

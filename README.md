@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Winamp Legacy player source code is now open](https://github.com/WinampDesktop/winamp)
+
+[Show HN: OpenFreeMap – Open-Source Map Hosting](https://openfreemap.org/)
+
+[Move Fast and Abandon Things](https://engineersneedart.com/blog/movefast/movefast.html)
+
+[Jetstream: Shrinking the AT Protocol Firehose by >99%](https://jazco.dev/2024/09/24/jetstream/)
+
+[Evan Prodromou Launches the Social Web Foundation](https://wedistribute.org/2024/09/social-web-foundation-launch/)
+
 [Fully documented source code for Lander on the Acorn Archimedes](https://lander.bbcelite.com/)
 
-[3D-Stacked CMOS Takes Moore's Law to New Heights](https://spectrum.ieee.org/3d-cmos)
+[Finish Your Projects](https://github.com/readme/guides/finish-your-projects)
 
-[In 1870, Lord Rayleigh used oil and water to calculate the size of molecules](https://www.atomsonly.news/p/franklin-oil)
+[The Quest to Build a Telescope on the Moon](https://www.newyorker.com/science/elements/the-quest-to-build-a-telescope-on-the-moon)
 
-[Radioactive Tape Dispenser (1970s)](https://www.orau.org/health-physics-museum/collection/consumer/miscellaneous/tape-dispenser.html)
+[Show HN: JSON For You – Visualize JSON in graph or table views](https://github.com/loggerhead/json4u)
 
-[Maker Pipe – Structural Pipe Fittings for DIY Builders](https://makerpipe.com/)
-
-[Show HN: I Wrote a Book on Java]()
-
-[Tracy: A real time, nanosecond resolution frame profiler](https://github.com/wolfpld/tracy)
-
-[EzAudio: Enhancing Text-to-Audio Generation with Efficient Diffusion Transformer](https://haidog-yaqub.github.io/EzAudio-Page/)
-
-[I designed a Dieter Rams-inspired iPhone dock](https://arslan.io/2024/09/23/dieter-rams-inspired-iphone-dock/)
-
-[We fine-tuned Llama 405B on AMD GPUs](https://publish.obsidian.md/felafax/pages/Tune+Llama3+405B+on+AMD+MI300x+(our+journey))
+[Show HN: Oodle – serverless, fully-managed, drop-in replacement for Prometheus](https://blog.oodle.ai/building-a-high-performance-low-cost-metrics-observability-system/)

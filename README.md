@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Beyond the route: Introducing granular MTA bus speed data](https://new.mta.info/article/beyond-route-introducing-granular-mta-bus-speed-data)
+[SQL Tips and Tricks](https://github.com/ben-n93/SQL-tips-and-tricks)
+
+[Doom on a modified rotary phone](https://tamulaitis.lt/project/dialrhea/)
+
+[NIST to forbid requirement of specific passwords character composition](https://mastodon.social/@LukaszOlejnik/113193089731407165)
+
+[XBill for PalmOS receives an update after 25 years](https://ctrl-c.club/~captain/posts/2024-09-24-xbill-for-palmos-receives-an-update-after-25-years.html)
+
+[Hack GPON – how to access, change and edit fibre ONTs](https://hack-gpon.org/)
 
 [On Impactful AI Research](https://github.com/okhat/blog/blob/main/2024.09.impact.md)
 
-[Show HN: OpenFreeMap – Open-Source Map Hosting](https://openfreemap.org/)
+[Show HN: Hosting my website using my C web server](https://github.com/cozis/blogtech)
 
-[Launch HN: Modern Realty (YC S24) – AI Real Estate Agent for Home Buyers]()
+[Insights after 11 years with Datomic [video]](https://www.youtube.com/watch?v=YSgTQzHYeLU)
 
-[Move Fast and Abandon Things](https://engineersneedart.com/blog/movefast/movefast.html)
+[No more blurry fonts in Linux (2023)](https://blog.aktsbot.in/no-more-blurry-fonts.html)
 
-[Google Cache Is Fully Dead](https://www.seroundtable.com/google-cache-dead-38112.html)
-
-[Death of the Department Store](https://www.lrb.co.uk/the-paper/v46/n18/rosemary-hill/at-the-musee-des-arts-decoratifs)
-
-[GSoC'24: Differentiable Logic for Interactive Systems and Generative Music](https://ijc8.me/2024/08/26/gsoc-difflogic/)
-
-[Winamp Legacy player source code](https://github.com/WinampDesktop/winamp)
-
-["Creounity Time Machine", the universal date converter for coin collectors](https://creounity.com/apps/time_machine/index.php?go=&lang=en)
+[Firefox tracks you with "privacy preserving" feature](https://noyb.eu/en/firefox-tracks-you-privacy-preserving-feature)

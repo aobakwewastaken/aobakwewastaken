@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[The Lost Language Extensions of MetaWare's High C Compiler](https://duriansoftware.com/joe/the-lost-language-extensions-of-metaware%27s-high-c-compiler)
+[Orion, our first true augmented reality glasses](https://about.fb.com/news/2024/09/introducing-orion-our-first-true-augmented-reality-glasses/)
 
-[Why I still blog after 15 years](https://www.jonashietala.se/blog/2024/09/25/why_i_still_blog_after_15_years/)
+[Show HN: Httpdbg – A tool to trace the HTTP requests sent by your Python code](https://github.com/cle-b/httpdbg)
 
-[Audio Masking](https://www.cryptomuseum.com/covert/bugs/masking/)
+[Llama 3.2: Revolutionizing edge AI and vision with open, customizable models](https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/?_fb_noscript=1)
 
 [Launch HN: Haystack (YC S24) – Visualize and edit code on an infinite canvas](https://github.com/haystackeditor/haystack-editor)
 
-[Scheduling threads like Thomas Jefferson](https://stevana.github.io/scheduling_threads_like_thomas_jefferson.html)
+[The lost language extensions of MetaWare's High C compiler (2023)](https://duriansoftware.com/joe/the-lost-language-extensions-of-metaware%27s-high-c-compiler)
 
-[NASA spacecraft to probe possibility of life in Europa's salty ocean](https://www.science.org/content/article/nasa-spacecraft-probe-possibility-life-europa-s-salty-ocean)
+[How to avoid a BSOD on your 2B dollar spacecraft](https://clarkwakeland.com/blog/2024/avoiding-a-BSOD-on-your-satellite/)
 
-[Optimizing Guile Scheme](https://dthompson.us/posts/optimizing-guile-scheme.html)
+[Audio Masking](https://www.cryptomuseum.com/covert/bugs/masking/)
 
-[Show HN: Coros – A Modern C++ Library for Task Parallelism](https://github.com/mtmucha/coros)
+[Clara (YC S24) Is Hiring a Head of Growth](https://www.ycombinator.com/companies/clara/jobs/bB9fgEH-head-of-growth)
 
-[Rearchitecting: Redis to SQLite](https://wafris.org/blog/rearchitecting-for-sqlite)
+[Mira Murati leaves OpenAI](https://twitter.com/miramurati/status/1839025700009030027)
 
-[Show HN: Test your website on 180+ device viewports (with multi-device mode)](https://viewport-tester.com/)
+[Show HN: Fast and Exact Algorithm for Image Merging](https://github.com/C-Naoki/image-stitcher)

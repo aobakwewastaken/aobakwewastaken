@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[SQL Tips and Tricks](https://github.com/ben-n93/SQL-tips-and-tricks)
+[NASA spacecraft to probe possibility of life in Europa's salty ocean](https://www.science.org/content/article/nasa-spacecraft-probe-possibility-life-europa-s-salty-ocean)
 
-[Doom on a modified rotary phone](https://tamulaitis.lt/project/dialrhea/)
-
-[NIST to forbid requirement of specific passwords character composition](https://mastodon.social/@LukaszOlejnik/113193089731407165)
-
-[XBill for PalmOS receives an update after 25 years](https://ctrl-c.club/~captain/posts/2024-09-24-xbill-for-palmos-receives-an-update-after-25-years.html)
+[FRED: New Zealand open-access and crowdsource database of fossil records](https://fred.org.nz/)
 
 [Hack GPON – how to access, change and edit fibre ONTs](https://hack-gpon.org/)
+
+[Insights after 11 years with Datomic [video]](https://www.youtube.com/watch?v=YSgTQzHYeLU)
 
 [On Impactful AI Research](https://github.com/okhat/blog/blob/main/2024.09.impact.md)
 
 [Show HN: Hosting my website using my C web server](https://github.com/cozis/blogtech)
 
-[Insights after 11 years with Datomic [video]](https://www.youtube.com/watch?v=YSgTQzHYeLU)
+[Furnace – the biggest multi-system chiptune tracker ever made](https://github.com/tildearrow/furnace)
 
-[No more blurry fonts in Linux (2023)](https://blog.aktsbot.in/no-more-blurry-fonts.html)
+[Beyond the route: Introducing granular MTA bus speed data](https://new.mta.info/article/beyond-route-introducing-granular-mta-bus-speed-data)
 
-[Firefox tracks you with "privacy preserving" feature](https://noyb.eu/en/firefox-tracks-you-privacy-preserving-feature)
+[Launch HN: Modern Realty (YC S24) – AI Real Estate Agent for Home Buyers]()
+
+[Why are the violins the biggest section in the orchestra?](https://phys.org/news/2024-09-violins-biggest-section-orchestra.html)

@@ -3,18 +3,18 @@
 
 [Orion, our first true augmented reality glasses](https://about.fb.com/news/2024/09/introducing-orion-our-first-true-augmented-reality-glasses/)
 
-[Show HN: Cronexpr, a Rust library to parse and iter crontab expression](https://docs.rs/cronexpr/latest/cronexpr/)
+[Llama 3.2: Revolutionizing edge AI and vision with open, customizable models](https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/?_fb_noscript=1)
 
 [Git-absorb: Git commit –fixup, but automatic](https://github.com/tummychow/git-absorb)
 
-[Llama 3.2: Revolutionizing edge AI and vision with open, customizable models](https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/?_fb_noscript=1)
+[Show HN: Cronexpr, a Rust library to parse and iter crontab expression](https://docs.rs/cronexpr/latest/cronexpr/)
 
-[Wordpress.org bans WP Engine, blocks it from accessing its resources](https://techcrunch.com/2024/09/25/wordpress-org-bans-wp-engine-blocks-it-from-accessing-its-resources/)
-
-[WiFi suspended at big UK train stations after 'cybersecurity incident'](https://www.theguardian.com/uk-news/2024/sep/26/wifi-suspended-big-uk-train-stations-cybersecurity-incident)
+[Poka Labs (YC S24) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/poka-labs/jobs/ao5FevM-founding-engineer)
 
 [Hoodmaps: Publicly Annotated City Maps](https://hoodmaps.com)
 
-[Rewriting Rust](https://josephg.com/blog/rewriting-rust/)
+[Sam Altman: Long con was "child's play for me"](https://old.reddit.com/r/AskReddit/comments/3cs78i/whats_the_best_long_con_you_ever_pulled/cszwpgq/)
 
 [Launch HN: Haystack (YC S24) – Visualize and edit code on an infinite canvas](https://github.com/haystackeditor/haystack-editor)
+
+[Eliminating Memory Safety Vulnerabilities at the Source](https://security.googleblog.com/2024/09/eliminating-memory-safety-vulnerabilities-Android.html)

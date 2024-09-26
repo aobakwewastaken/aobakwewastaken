@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[End of an era: Landsat 7 mission takes final images](https://www.usgs.gov/news/national-news-release/end-era-historic-landsat-7-mission-takes-final-images)
+
+[Tcl 9.0](https://www.tcl-lang.org/software/tcltk/9.0.html?post=new)
+
+[Critical Mass and Tipping Points](https://fs.blog/critical-mass/)
+
 [NKRYPT Sculpture](https://www.meme.net.au/nkrypt/)
 
-[Xkcd 1425 (Tasks) turns ten years old today](https://simonwillison.net/2024/Sep/24/xkcd-1425-turns-ten-years-old-today/)
+[I have 2000 old VHS tapes in my garage and I don't know what to do with them](https://takes.jamesomalley.co.uk/p/my-vhs-nightmare)
 
-[Italian Music Through the Lens of Complex Networks](https://www.michelecoscia.com/?p=2372)
+[Why the U.S. can't build icebreaking ships](https://www.construction-physics.com/p/why-the-us-cant-build-icebreaking)
 
-[AWS Nitro Enclaves: Attack Surface](https://blog.trailofbits.com/2024/09/24/notes-on-aws-nitro-enclaves-attack-surface/)
+[FCC Unlocks Spectrum to Support Advanced Satellite Services](https://www.fcc.gov/document/fcc-unlocks-spectrum-support-advanced-satellite-services)
 
-[DoNotPay has to pay $193K for falsely touting untested AI lawyer, FTC says](https://arstechnica.com/tech-policy/2024/09/startup-behind-worlds-first-robot-lawyer-to-pay-193k-for-false-ads-ftc-says/)
+[OpenAI to become for-profit company](https://www.reuters.com/technology/artificial-intelligence/openai-remove-non-profit-control-give-sam-altman-equity-sources-say-2024-09-25/)
 
-[Orion, our first true augmented reality glasses](https://about.fb.com/news/2024/09/introducing-orion-our-first-true-augmented-reality-glasses/)
+[U.S. court orders LibGen to pay $30M to publishers, issues broad injunction](https://torrentfreak.com/u-s-court-orders-libgen-to-pay-30m-to-publishers-issues-broad-injunction-240925/)
 
-[Ask HN: What tools should I use to manage secrets from env files?]()
-
-[OpenAI to Become For-Profit Company](https://www.wsj.com/tech/ai/openai-chief-technology-officer-resigns-7a8b4639)
-
-[Llama 3.2: Revolutionizing edge AI and vision with open, customizable models](https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/?_fb_noscript=1)
-
-[Raylib Project Creator](https://github.com/raysan5/raylib_project_creator)
+[Hacking Kia: Remotely Controlling Cars with Just a License Plate](https://samcurry.net/hacking-kia)

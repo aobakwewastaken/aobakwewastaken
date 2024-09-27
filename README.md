@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[CNN and USA Today Have Fake Websites, I Believe Forbes Marketplace Runs Them](https://larslofgren.com/cnn-usa-today-forbes-marketplace/)
+
+[Everything we know about spies is wrong](https://lithub.com/why-everything-we-think-we-know-about-spies-is-wrong/)
+
+[Money-Laundering Practices in the Online Scam Industry](https://globalchinapulse.net/moving-bricks-money-laundering-practices-in-the-online-scam-industry/)
+
 [It's hard to write code for computers, but it's harder to write code for humans](https://erikbern.com/2024/09/27/its-hard-to-write-code-for-humans.html)
 
-[TSMC execs allegedly dismissed OpenAI CEO Sam Altman as 'podcasting bro'](https://www.tomshardware.com/tech-industry/tsmc-execs-allegedly-dismissed-openai-ceo-sam-altman-as-podcasting-bro)
+[Raft: Understandable Distributed Consensus](https://thesecretlivesofdata.com/raft/)
 
-[You're probably not vulnerable to the CUPS CVE](https://xeiaso.net/notes/2024/cups-cve/)
+[WordPress Drama: From the Sidelines](https://eric.mann.blog/wordpress-drama-from-the-sidelines/)
+
+[Collaborative Text Editing with e.g.-Walker: Better, Faster, Smaller](https://arxiv.org/abs/2409.14252)
+
+[The CRPG Book Project](https://crpgbook.wordpress.com/)
+
+[MTA Open Data Challenge](https://new.mta.info/article/mta-open-data-challenge)
 
 [Legalizing Sports Gambling Was a Mistake](https://www.theatlantic.com/ideas/archive/2024/09/legal-sports-gambling-was-mistake/679925/)
-
-[I Am Tired of AI](https://www.ontestautomation.com/i-am-tired-of-ai/)
-
-[End of an era: Landsat 7 mission takes final images](https://www.usgs.gov/news/national-news-release/end-era-historic-landsat-7-mission-takes-final-images)
-
-[Small3dlib: Suckless PD 3D software rasterizer](https://codeberg.org/drummyfish/small3dlib)
-
-[I have 2000 old VHS tapes in my garage and don't know what to do with them](https://takes.jamesomalley.co.uk/p/my-vhs-nightmare)
-
-[Hacking Kia: Remotely controlling cars with just a license plate](https://samcurry.net/hacking-kia)
-
-[Two kinds of LLM responses: Informational vs. Instructional](https://shabie.github.io/2024/09/23/two-kinds-llm-responses.html)

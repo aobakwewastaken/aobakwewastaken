@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Money-Laundering Practices in the Online Scam Industry](https://globalchinapulse.net/moving-bricks-money-laundering-practices-in-the-online-scam-industry/)
+[Fraud, so much fraud](https://www.science.org/content/blog-post/fraud-so-much-fraud)
 
-[MTA Open Data Challenge](https://new.mta.info/article/mta-open-data-challenge)
+[SAML: A Technical Primer](https://ssoready.com/docs/saml/saml-technical-primer)
+
+[How AlphaChip transformed computer chip design](https://deepmind.google/discover/blog/how-alphachip-transformed-computer-chip-design/)
+
+[Notify a Slack room when Sonos music is playing too loud](https://github.com/SageBrushes/TurnDownForWhat)
+
+[Obsessed with Cuttle: Parametric CAD for prototyping, producing, and procrastin](https://hannahilea.com/blog/cuttle-obsession/)
+
+[The Architecture of London Pubs (1966)](https://thelondonmagazine.org/archive-the-architecture-of-london-pubs-by-stephen-gardiner/)
+
+[Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
 
 [It's hard to write code for computers, but it's harder to write code for humans](https://erikbern.com/2024/09/27/its-hard-to-write-code-for-humans.html)
 
-[CNN and USA Today Have Fake Websites, I Believe Forbes Marketplace Runs Them](https://larslofgren.com/cnn-usa-today-forbes-marketplace/)
+[Refactoring Python with Tree-sitter and Jedi](https://jackevans.bearblog.dev/refactoring-python-with-tree-sitter-jedi/)
 
-[Collaborative Text Editing with e.g.-Walker: Better, Faster, Smaller](https://arxiv.org/abs/2409.14252)
-
-[Raft: Understandable Distributed Consensus](https://thesecretlivesofdata.com/raft/)
-
-[The CRPG Book Project](https://crpgbook.wordpress.com/)
-
-[Legalizing Sports Gambling Was a Mistake](https://www.theatlantic.com/ideas/archive/2024/09/legal-sports-gambling-was-mistake/679925/)
-
-[LlamaF: An Efficient Llama2 Architecture Accelerator on Embedded FPGAs](https://arxiv.org/abs/2409.11424)
-
-[Binance founder 'CZ' leaves prison on Friday–along with his $60B fortune](https://fortune.com/crypto/2024/09/26/cz-changpeng-zhao-crypto-release-date-binance-founder/)
+[MTA Open Data Challenge](https://new.mta.info/article/mta-open-data-challenge)

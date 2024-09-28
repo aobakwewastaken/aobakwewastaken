@@ -1,17 +1,17 @@
 # Top Stories on hackernews <br />
+[Amusing Ourselves to Death](https://otpok.com/2014/01/03/amusing-ourselves-to-death/)
+
 [Fraud, so much fraud](https://www.science.org/content/blog-post/fraud-so-much-fraud)
+
+[Everything you need to know about Python 3.13 – JIT and GIL went up the hill](https://drew.silcock.dev/blog/everything-you-need-to-know-about-python-3-13/)
 
 [SAML: A Technical Primer](https://ssoready.com/docs/saml/saml-technical-primer)
 
 [How AlphaChip transformed computer chip design](https://deepmind.google/discover/blog/how-alphachip-transformed-computer-chip-design/)
 
-[Notify a Slack room when Sonos music is playing too loud](https://github.com/SageBrushes/TurnDownForWhat)
+[Lion Cove: Intel's P-Core Roars](https://chipsandcheese.com/2024/09/27/lion-cove-intels-p-core-roars/)
 
 [Obsessed with Cuttle: Parametric CAD for prototyping, producing, and procrastin](https://hannahilea.com/blog/cuttle-obsession/)
-
-[The Architecture of London Pubs (1966)](https://thelondonmagazine.org/archive-the-architecture-of-london-pubs-by-stephen-gardiner/)
-
-[Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
 
 [It's hard to write code for computers, but it's harder to write code for humans](https://erikbern.com/2024/09/27/its-hard-to-write-code-for-humans.html)
 

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[The perils of transition to 64-bit time_t](https://blogs.gentoo.org/mgorny/2024/09/28/the-perils-of-transition-to-64-bit-time_t/)
+[Too much efficiency makes everything worse (2022)](https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html)
 
-[Reverse-engineering a three-axis attitude indicator from the F-4 fighter plane](http://www.righto.com/2024/09/f4-attitude-indicator.html)
+[SpaceX launches mission for 2 NASA astronauts who are stuck on the ISS](https://apnews.com/article/spacex-launch-boeing-nasa-stuck-astronauts-e179d0dc6c77d224278fd0430148ff8b)
 
-[Show HN: Mitata – Benchmarking tooling for JavaScript](https://github.com/evanwashere/mitata)
+[How Discord stores trillions of messages (2023)](https://discord.com/blog/how-discord-stores-trillions-of-messages)
+
+[Notes on the Crystal Language](https://wiki.alopex.li/CrystalNotes)
+
+[How can a jigsaw have two distinct solutions? [video]](https://www.youtube.com/watch?v=b5nElEbbnfU)
+
+[Cores That Don't Count [pdf]](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s01-hochschild.pdf)
 
 [FFT-based ocean-wave rendering, implemented in Godot](https://github.com/2Retr0/GodotOceanWaves)
 
-[The Little Typer (2018)](https://thelittletyper.com/)
+[Measuring Developers' Jobs-to-be-done](https://substack.com/@abinoda/p-148270749)
 
-[SunVox: Powerful Modular Synthesizer and DAW](https://www.warmplace.ru/soft/sunvox/)
+[Apple's homework is due Monday no matter what, says judge](https://www.theverge.com/2024/9/28/24256684/apple-epic-lawsuit-document-production-delay-denied)
 
-[Autossh – automatically restart SSH sessions and tunnels](https://github.com/Autossh/autossh)
-
-[The human heart shows signs of ageing after just a month in space](https://www.nature.com/articles/d41586-024-03105-x)
-
-[REPL for Dart: supporting 3rd party packages, hot reload, and full grammar](https://github.com/fzyzcjy/dart_interactive)
-
-[MtCellEdit – Lightweight Spreadsheet Program](https://www.marktyler.org/ced/)
+[Show HN: htmgo - build simple and scalable systems with golang + htmx](https://htmgo.dev)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[NotebookLM's automatically generated podcasts are surprisingly effective](https://simonwillison.net/2024/Sep/29/notebooklm-audio-overview/)
-
 [Bop Spotter](https://walzr.com/bop-spotter)
 
-[Gavin Newsom vetoes SB 1047](https://www.gov.ca.gov/wp-content/uploads/2024/09/SB-1047-Veto-Message.pdf)
+[NotebookLM's automatically generated podcasts are surprisingly effective](https://simonwillison.net/2024/Sep/29/notebooklm-audio-overview/)
 
-[How we built ngrok's data platform](https://ngrok.com/blog-post/how-we-built-ngroks-data-platform)
+[Phrase Matching in Marginalia Search](https://www.marginalia.nu/log/a_111_phrase_matching/)
 
-[David Brin – The Dogma of Otherness (1986)](https://www.davidbrin.com/nonfiction/dogmaofotherness.html)
+[Show HN: A macOS app to prevent sound quality degradation on AirPods](https://apps.apple.com/us/app/crystalclear-sound/id6695723746?mt=12)
+
+[Launch HN: Inkeep (YC W23) – Copilot for Support (Think Cursor for Help Desks)]()
+
+[Normans and Slavery: Breaking the Bonds](https://www.historytoday.com/archive/normans-and-slavery-breaking-bonds)
+
+[Screenpipe: 24/7 local AI screen and mic recording](https://github.com/mediar-ai/screenpipe)
+
+[Typewise (YC S22) Is Hiring a Senior AI Back End Engineer (Python, Europe)](https://www.ycombinator.com/companies/typewise/jobs/NH0WiMZ-senior-backend-engineer-f-m-x)
 
 [Keep Track: 3D Satellite Toolkit](https://app.keeptrack.space)
 
-[Tips for Building and Deploying Robots](https://rodneybrooks.com/tips-for-building-and-deploying-robots/)
-
-[Map with public fruit trees](https://mundraub.org/map)
-
-[Visual Studio Code is designed to fracture (2022)](https://ghuntley.com/fracture/)
-
-[Awala: The computer network on which humankind can rely](https://awala.network/)
+[Gavin Newsom vetoes SB 1047](https://www.gov.ca.gov/wp-content/uploads/2024/09/SB-1047-Veto-Message.pdf)

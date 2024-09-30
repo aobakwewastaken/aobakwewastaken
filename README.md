@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [Bop Spotter](https://walzr.com/bop-spotter)
 
-[Launch HN: Inkeep (YC W23) – Copilot for Support (Think Cursor for Help Desks)]()
+[MusicBrainz: An open music encyclopedia](https://musicbrainz.org/)
 
-[Library of Congress Pre-1915 Japanese Woodblock Prints and Drawings](https://www.loc.gov/collections/japanese-fine-prints-pre-1915/about-this-collection/)
+[Ask HN: Any good essays/books/advice about software sales?]()
 
-[Phrase Matching in Marginalia Search](https://www.marginalia.nu/log/a_111_phrase_matching/)
+[Launch HN: Inkeep (YC W23) – Copilot for Support (think Cursor for help desks)]()
 
-[Screenpipe: 24/7 local AI screen and mic recording](https://github.com/mediar-ai/screenpipe)
+[Phrase matching in Marginalia Search](https://www.marginalia.nu/log/a_111_phrase_matching/)
 
-[Normans and Slavery: Breaking the Bonds](https://www.historytoday.com/archive/normans-and-slavery-breaking-bonds)
+[GnuCash 5.9 Released](https://www.gnucash.org/news.phtml)
+
+[No such thing as exactly-once delivery](https://blog.sequinstream.com/at-most-once-at-least-once-and-exactly-once-delivery/)
+
+[California bans legacy admissions at private universities](https://www.nytimes.com/2024/09/30/us/california-bans-legacy-admissions-private-universities.html)
 
 [Gavin Newsom vetoes SB 1047](https://www.gov.ca.gov/wp-content/uploads/2024/09/SB-1047-Veto-Message.pdf)
 
-[Keep Track: 3D Satellite Toolkit](https://app.keeptrack.space)
-
-[Typewise (YC S22) Is Hiring a Senior AI Back End Engineer (Python, Europe)](https://www.ycombinator.com/companies/typewise/jobs/NH0WiMZ-senior-backend-engineer-f-m-x)
-
-[New research on anesthesia and microtubules gives new clues about consciousness](https://www.sciencedaily.com/releases/2024/09/240905120923.htm)
+[Deep Learning with Jax](https://www.manning.com/books/deep-learning-with-jax)

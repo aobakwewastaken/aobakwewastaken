@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[The Liberating Experience of Common Lisp](https://ds9soft.com/blog/2024/06/the-liberating-experience-of-common-lisp/)
+[A $1k Wheelchair](https://newmobility.com/not-a-wheelchair/)
 
-[Should you use Rust in LLM based tools for performance?](https://bosun.ai/posts/rust-for-genai-performance/)
+[COBOL has been "dead" for so long, my grandpa wrote about it](https://wumpus-cave.net/post/2024/10/2024-10-01-death-of-cobol/index.html)
 
-[The Netherlands has returned some stolen artifacts to Indonesia](https://www.smithsonianmag.com/smart-news/the-netherlands-returned-288-stolen-artifacts-to-indonesia-180985137/)
-
-[ESO telescope captures the most detailed infrared map of the Milky Way](https://www.eso.org/public/news/eso2413/)
+[Is the world really running out of sand?](https://practical.engineering/blog/2024/10/1/is-the-world-really-running-out-of-sand)
 
 [Ask HN: Who is hiring? (October 2024)]()
 
-[Ask HN: Who wants to be hired? (October 2024)]()
+[A Local-First Case Study](https://jakelazaroff.com/words/a-local-first-case-study/)
 
-[Comedy Theory (2022)](https://rpgadventures.io/post/comedy-theory)
+[Don't build your castle in other people's kingdoms (2021)](https://howtomarketagame.com/2021/11/01/dont-build-your-castle-in-other-peoples-kingdoms/)
 
-[Boris Vallejo and the pixel art of the demoscene](https://marincomics.com/vallejo-pixelart.html)
+[Show HN: A real time AI video agent with under 1 second of latency]()
 
-[I Quit Teaching Because of ChatGPT](https://time.com/7026050/chatgpt-quit-teaching-ai-essay/)
+[Verdn (YC W22) is hiring software engineers to build next-gen donation APIs](https://www.ycombinator.com/companies/verdn/jobs/aGevsKd-full-stack-engineer)
 
-[Bop Spotter](https://walzr.com/bop-spotter)
+[Juno for YouTube has been removed from the App Store](https://christianselig.com/2024/10/juno-removed/)
+
+[Mullenweg threatens corporate takeover of WP Engine](https://www.therepository.email/mullenweg-threatens-corporate-takeover-of-wp-engine)

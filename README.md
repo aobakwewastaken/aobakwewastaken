@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [ESO telescope captures the most detailed infrared map of the Milky Way](https://www.eso.org/public/news/eso2413/)
 
+[Dead Internet (2023)](https://darkfutura.substack.com/p/dead-internet)
+
+[Comedy Theory (2022)](https://rpgadventures.io/post/comedy-theory)
+
 [Boris Vallejo and the pixel art of the demoscene](https://marincomics.com/vallejo-pixelart.html)
+
+[Bots, So Many Bots](https://wakatime.com/blog/67-bots-so-many-bots)
 
 [Bop Spotter](https://walzr.com/bop-spotter)
 
-["Comedy is search" – theory on how jokes work](https://rpgadventures.io/post/comedy-theory)
+[The Netherlands Has Returned 288 Stolen Artifacts to Indonesia](https://www.smithsonianmag.com/smart-news/the-netherlands-returned-288-stolen-artifacts-to-indonesia-180985137/)
 
-[Why strength training? A programmer's perspective](https://fhur.me/posts/2024/why-strength-training-a-programmers-perspective)
-
-[NewsCatcher News API (YC S22) Is Hiring](https://www.newscatcherapi.com/careers)
-
-[SQLitebrowser: First update in three years (July 2024)](https://github.com/sqlitebrowser/sqlitebrowser/releases/tag/v3.13.0)
-
-[Multiversion Python Thoughts](https://lucumr.pocoo.org/2024/9/9/multiversion-python/)
-
-[Show HN: qrframe – generate beautiful qr codes with javascript code](https://github.com/zhengkyl/qrframe)
+[Sea robins use leg-like fins to taste, navigate seafloor, researchers discover](https://phys.org/news/2024-09-sea-robins-leg-fins-seafloor.html)
 
 [Ask HN: Should you reply STOP to unwanted texts?]()
+
+[NewsCatcher News API (YC S22) Is Hiring](https://www.newscatcherapi.com/careers)

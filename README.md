@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[We need more zero config tools](https://arne.me/blog/we-need-more-zero-config-tools)
+[Show HN: I made a game you can play without anyone knowing (No Visuals/Sound)](https://apps.apple.com/us/app/tik/id6720712299)
+
+[Cups Remote Code Execution Vulnerability Fix Available](https://ubuntu.com/blog/cups-remote-code-execution-vulnerability-fix-available)
+
+[Why I'm leaving Medium: AI policy](https://medium.com/@jpolak/why-im-leaving-medium-ai-policy-ce925cffb91c)
+
+[Tapia, Tabbi, Tabique, Tabby](https://placesjournal.org/article/tabby-concrete-black-indigenous-history/)
 
 [A $1k Wheelchair](https://newmobility.com/not-a-wheelchair/)
 
 [Serialization Is the Secret](https://www.zachdaniel.dev/p/serialization-is-the-secret)
 
+[Notcursus v3.0.10 Released](https://github.com/dankamongmen/notcurses/releases)
+
+[TurtleSpaces Web Logo – online 3D Logo implementation](https://turtlespaces.org/weblogo/)
+
 [Math from Three to Seven](https://www.thepsmiths.com/p/review-math-from-three-to-seven-by)
 
 [COBOL has been “dead” for so long, my grandpa wrote about it](https://wumpus-cave.net/post/2024/10/2024-10-01-death-of-cobol/index.html)
-
-[Hatchet (YC W24) is hiring a developer-focused product engineer](https://www.ycombinator.com/companies/hatchet-2/jobs/eopXhc4-product-engineer)
-
-[Why TCP needs 3 handshakes](https://www.pixelstech.net/article/1727412048-Why-TCP-needs-3-handshakes)
-
-[You Too Could Have Made Curl](https://daniel.haxx.se/blog/2024/02/06/fosdem-2024-you-too-could-have-made-curl/)
-
-[How CERN serves 1EB of data via FUSE [video]](https://kernel-recipes.org/en/2024/schedule/how-cern-serves-1eb-of-data-via-fuse/)
-
-[Ask HN: Who is hiring? (October 2024)]()

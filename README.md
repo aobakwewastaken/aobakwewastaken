@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[NixOS is a good server OS, except when it isn't](https://sidhion.com/blog/posts/nixos_server_issues/)
+
 [A $1k Wheelchair](https://newmobility.com/not-a-wheelchair/)
 
-[COBOL has been "dead" for so long, my grandpa wrote about it](https://wumpus-cave.net/post/2024/10/2024-10-01-death-of-cobol/index.html)
+[Math from Three to Seven](https://www.thepsmiths.com/p/review-math-from-three-to-seven-by)
 
-[Is the world really running out of sand?](https://practical.engineering/blog/2024/10/1/is-the-world-really-running-out-of-sand)
+[Serialization Is the Secret](https://www.zachdaniel.dev/p/serialization-is-the-secret)
 
-[Ask HN: Who is hiring? (October 2024)]()
+[Show HN: Weird Books to Read](https://bizarrebookshelf.com/)
 
-[A Local-First Case Study](https://jakelazaroff.com/words/a-local-first-case-study/)
+[Show HN: Quilt – Powerful RAG UI for Document QA](https://quilt.fly.dev/)
 
-[Don't build your castle in other people's kingdoms (2021)](https://howtomarketagame.com/2021/11/01/dont-build-your-castle-in-other-peoples-kingdoms/)
+[COBOL has been “dead” for so long, my grandpa wrote about it](https://wumpus-cave.net/post/2024/10/2024-10-01-death-of-cobol/index.html)
 
 [Show HN: A real time AI video agent with under 1 second of latency]()
 
-[Verdn (YC W22) is hiring software engineers to build next-gen donation APIs](https://www.ycombinator.com/companies/verdn/jobs/aGevsKd-full-stack-engineer)
+[Why TCP needs 3 handshakes](https://www.pixelstech.net/article/1727412048-Why-TCP-needs-3-handshakes)
 
-[Juno for YouTube has been removed from the App Store](https://christianselig.com/2024/10/juno-removed/)
-
-[Mullenweg threatens corporate takeover of WP Engine](https://www.therepository.email/mullenweg-threatens-corporate-takeover-of-wp-engine)
+[How CERN serves 1EB of data via FUSE [video]](https://kernel-recipes.org/en/2024/schedule/how-cern-serves-1eb-of-data-via-fuse/)

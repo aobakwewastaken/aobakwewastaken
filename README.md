@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[EU: Definition of "potential terrorists" opens door to broad information-sharing](https://www.statewatch.org/news/2024/october/eu-definition-of-potential-terrorists-opens-door-to-broad-information-sharing/)
+[Image Editing with Gaussian Splatting](https://www.unite.ai/image-editing-with-gaussian-splatting/)
 
-[Terminal Colours Are Tricky](https://jvns.ca/blog/2024/10/01/terminal-colours/)
+[Solving methane mysteries with satellite imagery](https://blog.datadesk.eco/p/methane-mysteries)
 
-[France's oldest treasure hunt has been solved](https://goldenowlhunt.com/)
+[Serving 70B-Scale LLMs Efficiently on Low-Resource Edge Devices [pdf]](https://arxiv.org/abs/2410.00531)
+
+[LG Chem develops material capable of suppressing thermal runaway in batteries](https://www.ess-news.com/2024/10/01/lg-chem-develops-material-capable-of-suppressing-thermal-runaway-in-batteries/)
+
+[Patent troll Sable pays up, dedicates all its patents to the public](https://blog.cloudflare.com/patent-troll-sable-pays-up/)
 
 [The Fastest Mutexes](https://justine.lol/mutex/)
 
-[Penguin Tutorial: How Tux was created on a 486 DX2](https://isc.tamu.edu/~lewing/linux/notes.html)
+[France's oldest treasure hunt has been solved](https://goldenowlhunt.com/)
 
-[Trayd (YC S23) Is Hiring](https://buildtrayd.notion.site/Part-time-Product-Designer-20-hrs-week-2c30587405df4edc9f24f714922105d9)
-
-[Code Generation in Rust vs. C++26](https://brevzin.github.io/c++/2024/09/30/annotations/)
-
-[An adult fruit fly brain has been mapped](https://www.economist.com/science-and-technology/2024/10/02/an-adult-fruit-fly-brain-has-been-mapped-human-brains-could-follow)
+[Determinism in League of Legends: Implementation (2017)](https://technology.riotgames.com/news/determinism-league-legends-implementation)
 
 [Ever: Exact Volumetric Ellipsoid Rendering for Real-Time View Synthesis](https://half-potato.gitlab.io/posts/ever/)
 
-[What Excessive Screen Time Does to the Adult Brain](https://longevity.stanford.edu/lifestyle/2024/05/30/what-excessive-screen-time-does-to-the-adult-brain/)
+[An adult fruit fly brain has been mapped](https://www.economist.com/science-and-technology/2024/10/02/an-adult-fruit-fly-brain-has-been-mapped-human-brains-could-follow)

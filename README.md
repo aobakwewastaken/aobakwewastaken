@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
 [Getting my daily news from a dot matrix printer](https://aschmelyun.com/blog/getting-my-daily-news-from-a-dot-matrix-printer/)
 
-[Show HN: Chebyshev approximation calculator (open source web app)](https://stuffmatic.com/chebyshev/)
+[Meta Movie Gen](https://ai.meta.com/research/movie-gen/?_fb_noscript=1)
 
-[Experimental web browser optimized for rabbit-holing](https://szymonkaliski.com/projects/cartographist/)
+[Show HN: One – A new React framework unifying web, native and local-first](https://onestack.dev)
 
 [12 Months of Mandarin](https://isaak.net/mandarin/)
 
-[NumPy QuadDType: Quadruple Precision for Everyone](https://labs.quansight.org/blog/numpy-quaddtype-blog)
+[Show HN: The Gmail unsubscribe tool with bulk deletion and personal data removal](https://againstdata.com)
 
-[Why does man print "gimme gimme gimme" at 00:30? (2017)](https://unix.stackexchange.com/questions/405783/why-does-man-print-gimme-gimme-gimme-at-0030)
+[Bureaucrat Mode](https://andrewchen.substack.com/p/bureaucrat-mode)
 
-[Show HN: A tool for creating chord charts on the go](https://tiniuc.com/chord-chart-memo/)
+[Upstream containers with compiler toolchains from kernel.org](https://gtucker.io/posts/2024-09-30-korg-containers/)
 
-[Show HN: kew – A Terminal Music Player for Linux](https://github.com/ravachol/kew)
+[Carma (YC W24) Is Hiring Software Engineers to Get Fleets Same-Day Auto Repair]()
 
-[ESP8266 Analog Broadcast Television Interface](https://github.com/cnlohr/channel3)
+[How were 70s versions of games like Pong built without a programmable computer?](https://retrocomputing.stackexchange.com/questions/30698/how-were-the-70s-versions-of-pong-and-similar-games-implemented-without-a-progra)
 
-[Meta Movie Gen](https://ai.meta.com/research/movie-gen/?_fb_noscript=1)
+[Show HN: FFmpeg-over-IP – Connect to remote FFmpeg servers](https://github.com/steelbrain/ffmpeg-over-ip)

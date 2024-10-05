@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[CoRncrete: A corn starch based building material](https://research.tudelft.nl/en/publications/corncrete-a-corn-starch-based-building-material)
+
+[What is the history of the use of "foo" and "bar" in source code examples? (2012)](https://softwareengineering.stackexchange.com/questions/69788/what-is-the-history-of-the-use-of-foo-and-bar-in-source-code-examples)
+
+[The Data Visualisation Catalogue: find the right method for your data](https://datavizcatalogue.com/search.html)
+
+[Wikidata Is a Giant Crosswalk File](https://www.dbreunig.com/2024/10/04/wikidata-is-a-giant-crosswalk-file.html)
+
+[The Remarkable Life of Ibelin](https://www.thetimes.com/life-style/parenting/article/we-only-learnt-of-our-sons-secret-online-life-after-he-died-at-20-rj3bqfnqn)
+
+[Statisticians use a technique that leverages randomness to deal with the unknown](https://www.quantamagazine.org/when-data-is-missing-scientists-guess-then-guess-again-20241002/)
+
+[An Intuitive Explanation of Black–Scholes](https://gregorygundersen.com/blog/2024/09/28/black-scholes/)
+
+[Continue (YC S23) Is Hiring a Developer Relations Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/il3YrJC-developer-relations-engineer)
+
 [The Globus INK: a mechanical navigation computer for Soviet spaceflight](https://www.righto.com/2023/01/inside-globus-ink-mechanical-navigation.html)
 
-[The profit-obsessed monster destroying American emergency rooms](https://www.vox.com/health-care/374820/emergency-rooms-private-equity-hospitals-profits-no-surprises)
-
-[Noise](https://noise.jake.fun/)
-
-[Linux from Scratch](https://www.linuxfromscratch.org/index.html)
-
-[Gen AI Makes Legal Action Cheap – and Companies Need to Prepare](https://hbr.org/2024/10/gen-ai-makes-legal-action-cheap-and-companies-need-to-prepare)
-
-[Getting my daily news from a dot matrix printer](https://aschmelyun.com/blog/getting-my-daily-news-from-a-dot-matrix-printer/)
-
-[Matt Mullenweg trying to change /r/Wordpress to /r/WordPress](https://old.reddit.com/r/Wordpress/comments/1fwnybm/lets_capitalize_the_p/)
-
-[Meta Movie Gen](https://ai.meta.com/research/movie-gen/?_fb_noscript=1)
-
-[It's Time to Stop Taking Sam Altman at His Word](https://www.theatlantic.com/technology/archive/2024/10/sam-altman-mythmaking/680152/)
-
-[Popular gut probiotic craps out in randomized controlled trial](https://arstechnica.com/health/2024/10/popular-gut-probiotic-completely-craps-out-in-randomized-controlled-trial/)
+[Playing with BOLT and Postgres](https://vondra.me/posts/playing-with-bolt-and-postgres/)

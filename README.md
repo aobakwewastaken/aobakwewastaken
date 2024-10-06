@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[The Medieval Masterpiece, the Book of Kells, Now Digitized and Available Online](https://www.openculture.com/2024/09/the-medieval-masterpiece-the-book-of-kells-is-now-digitized-and-available-online.html)
+[XFCE 4.20 Aims to Bring Preliminary Wayland Support](https://ostechnix.com/xfce-4-20-aims-to-bring-preliminary-wayland-support/)
 
-[When Earth Had Rings](https://nautil.us/when-earth-had-rings-920177/)
+[Rust needs a web framework for lazy developers](https://ntietz.com/blog/rust-needs-a-web-framework-for-lazy-developers/)
 
-[HPy – A better C API for Python](https://hpyproject.org/)
+[AVX Bitwise ternary logic instruction busted](https://arnaud-carre.github.io/2024-10-06-vpternlogd/)
 
-[Imagining faces in tree trunks and your morning eggs? AI can see them, too](https://www.science.org/content/article/imagining-faces-tree-trunks-and-your-morning-eggs-ai-can-see-them-too)
+[The Book of Kells, now digitized and available online](https://www.openculture.com/2024/09/the-medieval-masterpiece-the-book-of-kells-is-now-digitized-and-available-online.html)
 
-[Meta Is Probably Training AI on Images Taken by Meta Ray-Bans](https://www.macrumors.com/2024/10/01/meta-ray-bans-ai-training/)
+[Shedding light on alcohol's long shadow](https://news.harvard.edu/gazette/story/2024/10/shedding-light-on-alcohols-long-shadow/)
 
-[Wi-Fi Goes Long Range on New WiLo Standard](https://spectrum.ieee.org/wi-fi-lora-hybrid)
+[Popular Science Magazine Archives May 1872-March 2009](https://books.google.com/books/about/Popular_Science.html?id=qR8DAAAAMBAJ)
 
-[Life, death, and retirement](https://randomascii.wordpress.com/2024/10/01/life-death-and-retirement/)
+[Whence '\n'?](https://rodarmor.com/blog/whence-newline/)
 
-[Mathematical Writing Style Guide for Stanford EE 364B [pdf] (2014)](https://web.stanford.edu/class/ee364b/latex_templates/template_notes.pdf)
+[UpCodes (YC S17) is hiring recruiters to build out remote team](https://up.codes/careers?utm_source=HN)
 
-[Whence '\N'?](https://rodarmor.com/blog/whence-newline/)
+[Gleam Is Pragmatic](https://blog.drewolson.org/gleam-is-pragmatic/)
 
-[Fuzzing 101](https://github.com/antonio-morales/Fuzzing101)
+[Sailfish Mobile OS](https://sailfishos.org/)

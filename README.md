@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[What's New in Ruby on Rails 8](https://blog.appsignal.com/2024/10/07/whats-new-in-ruby-on-rails-8.html)
+[Jazz – Apps with Distributed State](https://jazz.tools/)
 
-[Can You Get Root with Only a Cigarette Lighter?](https://www.da.vidbuchanan.co.uk/blog/dram-emfi.html)
+[uBlock Origin supports filtering CNAME cloaking sites on Firefox now](https://github.com/gorhill/uBlock/commit/6acf97bf51)
 
-[Silicon Valley, the New Lobbying Monster](https://www.newyorker.com/magazine/2024/10/14/silicon-valley-the-new-lobbying-monster)
+[Gunter's Space Page](https://space.skyrocket.de/index.html)
 
-[Longwriter – Increase llama3.1 output to 10k words](https://github.com/THUDM/LongWriter)
+[Virtualizing iOS on Apple Silicon](https://nickb.website/blog/virtualizing-ios-on-apple-silicon)
 
-[Show HN: Visualization of website accessibility tree](https://chromewebstore.google.com/detail/aria-devtools/dneemiigcbbgbdjlcdjjnianlikimpck)
+[Can you get root with only a cigarette lighter?](https://www.da.vidbuchanan.co.uk/blog/dram-emfi.html)
 
-[Abacus Machines [pdf]](https://carstenfuehrmann.org/lectures/computability-10.pdf)
+[Is the attack helicopter dead?](https://hushkit.net/2024/10/07/is-the-attack-helicopter-dead/)
 
-[An RKRM-style reference of AmigaDOS/dos.library](https://github.com/thorfdbg/rkrm-dos)
+[Wigle.net: All the networks, found by everyone](https://wigle.net/)
 
-[Homemade AI Drone Software Finds People When Search and Rescue Teams Can't](https://www.wired.com/story/this-homemade-ai-drone-software-finds-bodies-when-search-and-rescue-teams-cant/)
+[The Rise of Worse Is Better (1991)](https://www.dreamsongs.com/RiseOfWorseIsBetter.html)
 
-[AT&T, Verizon reportedly hacked to target US govt wiretapping platform](https://www.bleepingcomputer.com/news/security/atandt-verizon-reportedly-hacked-to-target-us-govt-wiretapping-platform/)
+[EuroBSDcon 2024: Some notes after the conference](https://blog.netbsd.org/tnf/entry/eurobsdcon_2024_in_dublin_ireland)
 
-[NASA Made the Hubble Telescope to Be Remade](https://spectrum.ieee.org/hubble-space-telescope-re-invention)
+[Google must open Android for third-party stores, rules Epic judge](https://www.theverge.com/policy/2024/10/7/24243316/epic-google-permanent-injunction-ruling-third-party-stores)

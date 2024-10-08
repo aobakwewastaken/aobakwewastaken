@@ -1,5 +1,13 @@
 # Top Stories on hackernews <br />
+[Differential Transformer](https://arxiv.org/abs/2410.05258)
+
+[The Atlantic Did Me Dirty](https://cmsthomas.substack.com/p/the-atlantic-did-me-dirty)
+
+[Kotlin Money](https://blog.eriksen.com.br/en/introducing-kotlin-money)
+
 [Nobel Prize in Physics Awarded for Machine Learning and Neural Networks](https://www.nobelprize.org/prizes/physics/2024/summary/)
+
+[GLP-1 pills are coming, and they could revolutionize weight-loss treatment](https://www.cnn.com/2024/09/17/health/glp-1-pills-weight-loss-treatment/index.html)
 
 [Unseen Thunderbirds film reels found in garden shed](https://www.bbc.co.uk/news/articles/c1e848ewnlno)
 
@@ -7,14 +15,6 @@
 
 [Video Surveillance with YOLO+llava](https://github.com/PsyChip/machina)
 
+[(Re)Using rustc components in gccrs](https://rust-gcc.github.io/2024/09/20/reusing-rustc-components.html)
+
 [Roame (YC S23) Is Hiring](https://www.ycombinator.com/companies/roame/jobs/J6cqHa6-lead-full-stack-engineer)
-
-[Jazz – Apps with Distributed State](https://jazz.tools/)
-
-[Kernighan's Lever (2012)](https://www.linusakesson.net/programming/kernighans-lever/index.php)
-
-[Can you get root with only a cigarette lighter?](https://www.da.vidbuchanan.co.uk/blog/dram-emfi.html)
-
-[Virtualizing iOS on Apple Silicon](https://nickb.website/blog/virtualizing-ios-on-apple-silicon)
-
-[An e-waste dumping ground](https://www.npr.org/sections/goats-and-soda/2024/10/05/g-s1-6411/electronics-public-health-waste-ghana-phones-computers)

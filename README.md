@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[My first game with Carimbo, my homemade engine](https://nullonerror.org/2024/10/08/my-first-game-with-carimbo/)
+
+[Show HN: Winamp and other media players, rebuilt for the web with Web Components](https://player.style)
+
+["Now What?" by John Hopfield (2018) [pdf]](https://pni.princeton.edu/sites/g/files/toruqf321/files/documents/John%20Hopfield%20Now%20What%203_0.pdf)
+
+[Rabbit hole: stumbling across two Portuguese punched cards](https://blog.jgc.org/2024/10/rabbit-hole-stumbling-across-two.html)
+
 [Differential Transformer](https://arxiv.org/abs/2410.05258)
 
-[Kotlin Money](https://blog.eriksen.com.br/en/introducing-kotlin-money)
+[A modest critique of Htmx](https://chrisdone.com/posts/htmx-critique/)
 
-[Nobel Prize in Physics Awarded for Machine Learning and Neural Networks](https://www.nobelprize.org/prizes/physics/2024/summary/)
+[Canvases versus Documents](https://kaiwenwang.com/writing/canvases-versus-documents)
 
-[(Re)Using rustc components in gccrs](https://rust-gcc.github.io/2024/09/20/reusing-rustc-components.html)
+[Instant (YC S22) is hiring a founding engineer to help build a modern Firebase]()
 
-[Unseen Thunderbirds film reels found in garden shed](https://www.bbc.co.uk/news/articles/c1e848ewnlno)
+[Show HN: Kotlin Money](https://blog.eriksen.com.br/en/introducing-kotlin-money)
 
-[An illustrated proof of the CAP theorem (2018)](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/)
-
-[Show HN: Squey, an open-source GPU-accelerated data visualization software](https://squey.org)
-
-[Video Surveillance with YOLO+llava](https://github.com/PsyChip/machina)
-
-[Kernighan's Lever (2012)](https://www.linusakesson.net/programming/kernighans-lever/index.php)
-
-[Jazz – Apps with Distributed State](https://jazz.tools/)
+[Car brands are collecting and sharing your data with third parties](https://www.abc.net.au/news/science/2024-10-09/car-brands-are-tracking-and-sharing-your-data-with-third-parties/104440742)

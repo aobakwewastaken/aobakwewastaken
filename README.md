@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Chemistry Nobel: Computational protein design and protein structure prediction](https://www.nobelprize.org/prizes/chemistry/2024/press-release/)
+[Internet Archive: Security breach alert](https://www.theverge.com/2024/10/9/24266419/internet-archive-ddos-attack-pop-up-message)
+
+[Dookie Demastered](https://www.dookiedemastered.com/)
+
+[On 17th century "cocaine"](https://resobscura.substack.com/p/on-17th-century-cocaine)
 
 [An n-ball Between n-balls](https://www.arnaldur.be/writing/about/an-n-ball-between-n-balls)
 
-[John Carmack on Inlined Code (2014)](http://number-none.com/blow/blog/programming/2014/09/26/carmack-on-inlined-code.html)
+[The Internet Archive takes over foreign dissertations from Leiden University](https://www.library.universiteitleiden.nl/news/2024/10/he-internet-archive-takes-over-foreign-dissertations-from-ubl)
 
-[Show HN: I made an SSH tunnel manager to learn Go](https://github.com/alebeck/boring)
+[Dito – an advanced Layer 7 reverse proxy server written in Go](https://github.com/andrearaponi/dito)
 
-[Show HN: Itineraries.io – I built a joint trip planner in between surgeries](https://itineraries.io)
+[Software Engineer Pay Heatmap Across the US](https://levels.fyi/heatmap)
 
-[The Surprising Backstory Behind Gustav Klimt's Obsession with Gold](https://news.artnet.com/art-world-archives/gustav-klimt-gold-2543498)
+[Quantum Advantage for NP Approximation](https://scottaaronson.blog/?p=8375)
 
-[PEP 760: No more bare excepts](https://discuss.python.org/t/pep-760-no-more-bare-excepts/67182)
+[Zod: TypeScript-first schema validation with static type inference](https://zod.dev/)
 
-[Addition Is All You Need for Energy-Efficient Language Models](https://arxiv.org/abs/2410.00907)
-
-[Germans decry influence of English as 'idiot's apostrophe' gets approval](https://www.theguardian.com/world/2024/oct/07/germany-influence-of-english-idiots-apostrophe)
-
-[How a Gas Compressor Station Works](https://kimray.com/training/how-gas-compressor-station-works)
+[Chemistry Nobel: Computational protein design and protein structure prediction](https://www.nobelprize.org/prizes/chemistry/2024/press-release/)

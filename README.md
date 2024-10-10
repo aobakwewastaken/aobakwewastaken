@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Internet Archive: Security breach alert](https://www.theverge.com/2024/10/9/24266419/internet-archive-ddos-attack-pop-up-message)
+[Why we're helping more wikis move away from Fandom](https://weirdgloop.org/blog/why-were-helping-more-wikis-move-away-from-fandom)
+
+[Show HN: Tenno – Markdown and JavaScript = an Hybrid of Word and Excel](https://tenno.app)
 
 [Let's talk about Animation Quality](https://theorangeduck.com/page/animation-quality)
 
+[Internet Archive: Security breach alert](https://www.theverge.com/2024/10/9/24266419/internet-archive-ddos-attack-pop-up-message)
+
+[Fun with Go Iterators](https://xnacly.me/posts/2024/fun-with-iterators/)
+
 [Dookie Demastered](https://www.dookiedemastered.com/)
-
-[OS/2 TCPBEUI Name Resolution](https://www.os2museum.com/wp/os-2-tcpbeui-name-resolution/)
-
-[Nixiesearch: Running Lucene over S3, and why we're building a new search engine](https://nixiesearch.substack.com/p/nixiesearch-running-lucene-over-s3)
 
 [Why Gov.uk's Exit this Page component doesn't use the Escape key](https://beeps.website/blog/2024-10-09-why-govuk-exit-this-page-doesnt-use-escape/)
 
-[On 17th century "cocaine"](https://resobscura.substack.com/p/on-17th-century-cocaine)
-
 [Automating Processes with Software Is Hard](https://hardcoresoftware.learningbyshipping.com/p/222-automating-processes-with-software)
 
-[An n-ball Between n-balls](https://www.arnaldur.be/writing/about/an-n-ball-between-n-balls)
+[Thunderbird Android client is K-9 Mail reborn, and it's in solid beta](https://arstechnica.com/gadgets/2024/10/thunderbird-android-client-is-k-9-mail-reborn-and-its-in-solid-beta/)
 
-[Scrum's "Product Owner" Problem – By Adam Ard](https://rethinkingsoftware.substack.com/p/scrums-product-owner-problem)
+[Owe Your Banker £1k You Are at His Mercy; Owe Him £1M the Position Is Reversed](https://quoteinvestigator.com/2019/04/23/bank/)

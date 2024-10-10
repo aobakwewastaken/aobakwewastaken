@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Why we're helping more wikis move away from Fandom](https://weirdgloop.org/blog/why-were-helping-more-wikis-move-away-from-fandom)
+[DeskPad – A virtual monitor for screen sharing](https://github.com/Stengo/DeskPad)
 
-[Show HN: Tenno – Markdown and JavaScript = an Hybrid of Word and Excel](https://tenno.app)
+[The Copenhagen Book: general guideline on implementing auth in web applications](https://thecopenhagenbook.com/)
 
-[Let's talk about Animation Quality](https://theorangeduck.com/page/animation-quality)
+[Uxn](https://100r.co/site/uxn.html)
 
-[The science behind on-the-wrist blood pressure tracking](https://www.empirical.health/blog/apple-watch-blood-pressure/)
+[AAA Gaming on Asahi Linux](https://rosenzweig.io/blog/aaa-gaming-on-m1.html)
 
-[Internet Archive: Security breach alert](https://www.theverge.com/2024/10/9/24266419/internet-archive-ddos-attack-pop-up-message)
+[Show HN: HTML for People](https://htmlforpeople.com)
 
-[Fun with Go Iterators](https://xnacly.me/posts/2024/fun-with-iterators/)
+[Game Programming in Prolog](https://thingspool.net/morsels/page-10.html)
 
-[Automating Processes with Software Is Hard](https://hardcoresoftware.learningbyshipping.com/p/222-automating-processes-with-software)
+[Show HN: Tenno – Markdown and JavaScript = a hybrid of Word and Excel](https://tenno.app)
 
-[Dookie Demastered](https://www.dookiedemastered.com/)
+[The FBI created a coin to investigate crypto pump-and-dump schemes](https://www.theverge.com/2024/10/10/24267098/fbi-coin-crypto-token-nexgenai-sec-doj-fraud-investigation)
 
-[Why Gov.uk's Exit this Page component doesn't use the Escape key](https://beeps.website/blog/2024-10-09-why-govuk-exit-this-page-doesnt-use-escape/)
+[Helping wikis move away from Fandom](https://weirdgloop.org/blog/why-were-helping-more-wikis-move-away-from-fandom)
 
-[Owe Your Banker £1k You Are at His Mercy; Owe Him £1M the Position Is Reversed (2019)](https://quoteinvestigator.com/2019/04/23/bank/)
+[Let's talk about animation quality](https://theorangeduck.com/page/animation-quality)

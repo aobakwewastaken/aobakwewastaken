@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Show HN: Pocache, preemptive optimistic caching for Go](https://github.com/naughtygopher/pocache)
+
+[Show HN: NotesHub: cross-platform, Markdown-based note-taking app](https://about.noteshub.app)
+
+[A Lisp compiler to RISC-V written in Lisp](http://www.ulisp.com/show?4Y20)
+
+[Manifest v2 is now removed from Chrome canary](https://developer.chrome.com/docs/extensions/develop/migrate/mv2-deprecation-timeline)
+
+[Initial CUDA Performance Lessons](https://probablydance.com/2024/10/07/initial-cuda-performance-lessons/)
+
 [DeskPad – A virtual monitor for screen sharing](https://github.com/Stengo/DeskPad)
 
 [Nurdle Patrol](https://www.nurdlepatrol.org/app/)
 
+[Join-Accumulate Machine: A Semi-Coherent Scalable Trustless VM](https://graypaper.com/)
+
 [The Copenhagen Book: general guideline on implementing auth in web applications](https://thecopenhagenbook.com/)
 
-[AAA Gaming on Asahi Linux](https://rosenzweig.io/blog/aaa-gaming-on-m1.html)
-
-[Scuda – Virtual GPU over IP](https://github.com/kevmo314/scuda)
-
-[Show HN: HTML for People](https://htmlforpeople.com)
-
-[AP5 -  Declarative Programming Library For Common Lisp (1995)](https://oceanpark.com/ap5.html)
-
-[Uxn](https://100r.co/site/uxn.html)
-
-[Game Programming in Prolog](https://thingspool.net/morsels/page-10.html)
-
-[ARIA: An Open Multimodal Native Mixture-of-Experts Model](https://arxiv.org/abs/2410.05993)
+[Understanding the Limitations of Mathematical Reasoning in Large Language Models](https://arxiv.org/abs/2410.05229)

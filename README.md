@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Show HN: Dead man's switch without reliance on your infra](https://github.com/adamdecaf/deadcheck)
+[Started a guide to writing FUSE filesystems in Python](https://gwolf.org/2024/10/started-a-guide-to-writing-fuse-filesystems-in-python.html)
 
-[Show HN: Pocache, preemptive optimistic caching for Go](https://github.com/naughtygopher/pocache)
+[Lm.rs: Minimal CPU LLM inference in Rust with no dependency](https://github.com/samuel-vitorino/lm.rs)
 
-[A Lisp compiler to RISC-V written in Lisp](http://www.ulisp.com/show?4Y20)
+[Working from home is powering productivity](https://www.imf.org/en/Publications/fandd/issues/2024/09/working-from-home-is-powering-productivity-bloom)
 
-[Show HN: NotesHub: cross-platform, Markdown-based note-taking app](https://about.noteshub.app)
+[Conway's Gradient of Life](https://hardmath123.github.io/conways-gradient.html)
 
-[Initial CUDA Performance Lessons](https://probablydance.com/2024/10/07/initial-cuda-performance-lessons/)
+[Windows dynamic linking depends on the active code page](https://nullprogram.com/blog/2024/10/07/)
 
-[DeskPad – A virtual monitor for screen sharing](https://github.com/Stengo/DeskPad)
+["Bad Apple" in Minecraft](https://purplesyringa.moe/blog/we-built-the-best-bad-apple-in-minecraft/)
 
-[Nurdle Patrol](https://www.nurdlepatrol.org/app/)
+[An exoskeleton let a paralyzed man walk, then its maker refused repairs](https://www.washingtonpost.com/nation/2024/10/08/exoskeleton-paralyzed-repairs-michael-straight/)
 
-[The Copenhagen Book: general guideline on implementing auth in web applications](https://thecopenhagenbook.com/)
+[Machines of loving grace: How AI could transform the world for the better](https://darioamodei.com/machines-of-loving-grace)
 
-[AAA Gaming on Asahi Linux](https://rosenzweig.io/blog/aaa-gaming-on-m1.html)
+[Run Llama locally with only PyTorch on CPU](https://github.com/anordin95/run-llama-locally)
 
-[Scuda – Virtual GPU over IP](https://github.com/kevmo314/scuda)
+[Show HN: I made a URL expander because short links are too mainstream](https://urlshortenersaresoyesterdaytrythisamazingsuperlongurlexpander.site/)

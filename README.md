@@ -1,5 +1,11 @@
 # Top Stories on hackernews <br />
+[The Nobel Peace Prize 2024](https://www.nobelprize.org/press-release-peace-2024/)
+
 [DeskPad – A virtual monitor for screen sharing](https://github.com/Stengo/DeskPad)
+
+[Scuda – Virtual GPU over IP](https://github.com/kevmo314/scuda)
+
+[Nurdle Patrol](https://www.nurdlepatrol.org/app/)
 
 [The Copenhagen Book: general guideline on implementing auth in web applications](https://thecopenhagenbook.com/)
 
@@ -7,14 +13,8 @@
 
 [Show HN: HTML for People](https://htmlforpeople.com)
 
-[Scuda – Virtual GPU over IP](https://github.com/kevmo314/scuda)
-
 [Uxn](https://100r.co/site/uxn.html)
-
-[A Photo of the Moon](https://www.thisiscolossal.com/2024/10/darya-kawa-mirza-moon-photos/)
-
-[$2 H100s: How the GPU Rental Bubble Burst](https://www.latent.space/p/gpu-bubble)
 
 [Game Programming in Prolog](https://thingspool.net/morsels/page-10.html)
 
-[Show HN: Tenno – Markdown and JavaScript = a hybrid of Word and Excel](https://tenno.app)
+[Switching to 5Ghz WiFi made the Raspberry Pi fly again](http://moritzhamann.com/blog/2024-10-08-raspberrypi-wifi-freq.html)

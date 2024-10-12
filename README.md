@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Bug, $50k how Zendesk left a backdoor in Fortune 500 companies](https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52)
+
+[PostgreSQL Streaming Replication (WAL); What It Is and How to Configure One](https://mindhub365.com/sql/postgresql-streaming-replication-wal-what-it-is-and-how-to-configure-one/)
+
+[How I Animate 3Blue1Brown](https://www.youtube.com/watch?v=rbu7Zu5X1zI)
+
+[Psilocybin Bests SSRI for Major Depression in First Long-Term Comparison](https://www.medscape.com/viewarticle/psilocybin-bests-ssri-major-depression-first-long-term-2024a1000h77)
+
 [AMD's Turin: 5th Gen EPYC Launched](https://chipsandcheese.com/p/amds-turin-5th-gen-epyc-launched)
 
-[Started a guide to writing FUSE filesystems in Python](https://gwolf.org/2024/10/started-a-guide-to-writing-fuse-filesystems-in-python.html)
-
-[Python and SysV Shared Memory](https://euroquis.nl//blabla/2024/10/08/shm.html)
-
-[Conway's Gradient of Life](https://hardmath123.github.io/conways-gradient.html)
-
-['Shoe doping' changed marathon times in ways we still don't understand](https://www.nytimes.com/athletic/5834953/2024/10/12/shoe-doping-marathon-times-kipchoge/)
+[Six transplant patients in Brazil contract HIV from infected organs](https://www.reuters.com/world/americas/six-transplant-patients-brazil-contract-hiv-infected-organs-2024-10-11/)
 
 [Putting a full power search engine in Ecto](https://moosie.us/parade_db_ecto)
 
-[The Society in Dedham for Apprehending Horse Thieves](https://en.wikipedia.org/wiki/The_Society_in_Dedham_for_Apprehending_Horse_Thieves)
+[DuckStation](https://github.com/stenzek/duckstation)
 
-[Lm.rs: Minimal CPU LLM inference in Rust with no dependency](https://github.com/samuel-vitorino/lm.rs)
+[FreeBSD: How Can We Make It More Attractive to New Users?](https://gyptazy.com/freebsd-how-can-we-make-it-more-attractive-to-new-users/)
 
-[“Bad Apple” in Minecraft](https://purplesyringa.moe/blog/we-built-the-best-bad-apple-in-minecraft/)
-
-[PeachPie Compiler: Compile and run PHP on top of .NET runtime](https://www.peachpie.io/)
+[Started a guide to writing FUSE filesystems in Python](https://gwolf.org/2024/10/started-a-guide-to-writing-fuse-filesystems-in-python.html)

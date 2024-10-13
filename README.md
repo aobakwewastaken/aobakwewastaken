@@ -11,10 +11,10 @@
 
 [1 bug, $50k in bounties, a Zendesk backdoor](https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52)
 
-[Exploring Typst, a new typesetting system similar to LaTeX](https://blog.jreyesr.com/posts/typst/)
+[The Quiet Art of Attention](https://billwear.github.io/art-of-attention.html)
 
 [Plugging abandoned oil wells and stopping methane leaks [video]](https://www.youtube.com/watch?v=m8QWxJhna8Y)
 
-[Eating less can lead to a longer life: study in mice shows why](https://www.nature.com/articles/d41586-024-03277-6)
+[Exploring Typst, a new typesetting system similar to LaTeX](https://blog.jreyesr.com/posts/typst/)
 
 [Can logic programming be liberated from predicates and backtracking? [pdf]](https://www-ps.informatik.uni-kiel.de/~mh/papers/WLP24.pdf)

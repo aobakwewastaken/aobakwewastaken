@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Starship Flight 5 [video]](https://twitter.com/SpaceX/status/1845152255944819015)
+[Starship Flight 5: Launch and booster catch [video]](https://twitter.com/SpaceX/status/1845152255944819015)
 
-[Large language models reduce public knowledge sharing on online Q&A platforms](https://academic.oup.com/pnasnexus/article/3/9/pgae400/7754871)
+[Refurb weekend: the Symbolics MacIvory Lisp machine I have hated](http://oldvcr.blogspot.com/2024/10/refurb-weekend-symbolics-macivory-lisp.html)
+
+[Making the Tibetan language a first-class citizen in the digital world](https://www.bdrc.io/blog/2024/10/10/tech-innovations-to-make-the-tibetan-language-a-first-class-citizen-in-the-digital-world/)
+
+[The quiet art of attention](https://billwear.github.io/art-of-attention.html)
+
+[Show HN: The fastest Ethereum graph explorer (OpenSource)](https://dictynna.com/)
+
+[A Dictionary of Single-Letter Variable Names](http://jackkelly.name/blog/archives/2024/10/12/a_dictionary_of_single-letter_variable_names/)
+
+[CRLF is obsolete and should be abolished](https://fossil-scm.org/home/ext/crlf-harmful.md)
+
+[All asteroids in Solar System, visualized](https://github.com/DarkStar1982/Orbidium)
+
+[The military is an impossible place for hackers, and what to do about it (2018)](https://warontherocks.com/2018/07/fish-out-of-water-how-the-military-is-an-impossible-place-for-hackers-and-what-to-do-about-it/)
 
 [Diffusion for World Modeling](https://diamond-wm.github.io/)
-
-[A Novel Channel Contention Mechanism for Improving Wi-Fi's Reliability](https://arxiv.org/abs/2410.07874)
-
-[Common Lisp implementation of the Forth 2012 Standard](https://github.com/gmpalter/cl-forth)
-
-[1 bug, $50k in bounties, a Zendesk backdoor](https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52)
-
-[The Quiet Art of Attention](https://billwear.github.io/art-of-attention.html)
-
-[Plugging abandoned oil wells and stopping methane leaks [video]](https://www.youtube.com/watch?v=m8QWxJhna8Y)
-
-[Exploring Typst, a new typesetting system similar to LaTeX](https://blog.jreyesr.com/posts/typst/)
-
-[Can logic programming be liberated from predicates and backtracking? [pdf]](https://www-ps.informatik.uni-kiel.de/~mh/papers/WLP24.pdf)

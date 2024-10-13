@@ -3,18 +3,18 @@
 
 [Exploring Typst, a new typesetting system similar to LaTeX](https://blog.jreyesr.com/posts/typst/)
 
-[Germany's 49-euro ticket resulted in significant shift from road to rail](https://www.mcc-berlin.net/en/news/information/information-detail/article/49-euro-ticket-resulted-in-significant-modal-shift-from-road-to-rail.html)
+[Two never-before-seen tools, from same group, infect air-gapped devices](https://arstechnica.com/security/2024/10/two-never-before-seen-tools-from-same-group-infect-air-gapped-devices/)
 
-[PayPal (USA) will automatically share data about you to participating stores](https://www.paypal.com/us/legalhub/upcoming-policies-full)
+[Omni SenseVoice: High-Speed Speech Recognition with Words Timestamps](https://github.com/lifeiteng/OmniSenseVoice)
 
-[Apple macOS 15 Sequoia is officially Unix](https://www.theregister.com/2024/10/11/macos_15_is_unix/)
+[Can logic programming be liberated from predicates and backtracking? [pdf]](https://www-ps.informatik.uni-kiel.de/~mh/papers/WLP24.pdf)
 
 [Every bug/quirk of the Windows resource compiler (rc.exe), probably](https://www.ryanliptak.com/blog/every-rc-exe-bug-quirk-probably/)
 
-[How I animate 3Blue1Brown [video]](https://www.youtube.com/watch?v=rbu7Zu5X1zI)
+[Show HN: A free alternative to Typora –– IF](https://if.openages.com)
 
-[DuckStation](https://github.com/stenzek/duckstation)
+[FLUX is fast and it's open source](https://replicate.com/blog/flux-is-fast-and-open-source)
 
-[First Greenhouse Gas Plumes Detected with NASA-Designed Instrument](https://www.jpl.nasa.gov/news/first-greenhouse-gas-plumes-detected-with-nasa-designed-instrument/)
+[Washington's 'forgotten giant' volcano stirs](https://gizmodo.com/washingtons-forgotten-giant-volcano-stirs-surge-in-quakes-prompts-increased-monitoring-2000509873)
 
-[Machine learning and information theory concepts towards an AI Mathematician](https://arxiv.org/abs/2403.04571)
+[Lessons from Plain Text](https://www.rugu.dev/en/blog/plain-text/)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Busy Status Bar from Flipper Devices](https://busy.bar/?hn)
+[Busy Status Bar](https://busy.bar/?hn)
 
-[Show HN: X11 tool to share a screen area in any video meeting](https://github.com/splitbrain/clipscreen)
+[Gosub – An open-source browser engine](https://github.com/gosub-io/gosub-engine)
 
-[Exploring 120 Years of Timezones (2021)](https://blog.scottlogic.com/2021/09/14/120-years-timezone.html)
+[Commonly used arm positions can overestimate blood pressure readings: study](https://medicalxpress.com/news/2024-10-commonly-arm-positions-substantially-overestimate.html)
 
-[Scientists successfully breed corals to improve their heat tolerance](https://phys.org/news/2024-10-scientists-successfully-corals-tolerance.html)
+[Play 3.0 mini – A lightweight, reliable, cost-efficient Multilingual TTS model](https://play.ht/news/introducing-play-3-0-mini/)
 
-[Show HN: I made a git rebase TUI editor](https://github.com/NyuB/ocli)
+[Splitting engineering teams into defense and offense](https://www.greptile.com/blog/how-we-engineer)
 
-[Upgrading Uber's MySQL Fleet](https://www.uber.com/en-JO/blog/upgrading-ubers-mysql-fleet/)
+[Google Funding Construction of Seven U.S. Nuclear Reactors](https://www.wsj.com/business/energy-oil/google-nuclear-power-artificial-intelligence-87966624)
 
-[Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2024](https://www.nobelprize.org/prizes/economic-sciences/2024/press-release/)
+[Show HN: Vortex – a high-performance columnar file format](https://github.com/spiraldb/vortex)
 
-[NASA's Europa Clipper Launch](https://www.youtube.com/watch?v=lQToTWKwtuw)
+[Turn your Android phone into a modern ham radio transceiver](https://www.kv4p.com/)
 
-[Curly-Cue: Geometric Methods for Highly Coiled Hair](https://www.cs.yale.edu/homes/wu-haomiao/publication/curlyCue.html)
+[Why World War WordPress Will End with a Zombie Fork](https://darnell.day/why-world-war-wordpress-will-end-with-a-zombie-fork)
 
-[Starship Flight 5: Launch and booster catch [video]](https://twitter.com/SpaceX/status/1845152255944819015)
+[DeepSeek: Advancing theorem proving in LLMs through large-scale synthetic data](https://arxiv.org/abs/2405.14333)

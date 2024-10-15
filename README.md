@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Show HN: I built the most over-engineered Deal With It emoji generator](https://emoji.build/deal-with-it-generator/)
+
 [Web Browser Engineering](https://browser.engineering/index.html)
+
+[Show HN: Pumpkin – A Modern Minecraft server written in Rust](https://github.com/Snowiiii/Pumpkin)
 
 [Short films by Lillian F. Schwartz (1927-2024)](http://lillian.com/films/)
 
+[Mothbox 4.0](https://digital-naturalism-laboratories.github.io/Mothbox/)
+
 [Busy Status Bar](https://busy.bar/?hn)
 
-[Cheating alleged after men's world conker champion found with steel chestnut](https://www.theguardian.com/sport/2024/oct/14/cheating-alleged-after-mens-world-conker-champion-found-with-steel-chestnut)
+[World conker champion found with steel chestnut, cleared of cheating](https://www.theguardian.com/sport/2024/oct/14/cheating-alleged-after-mens-world-conker-champion-found-with-steel-chestnut)
 
-[Drawing Graphics on Apple Vision with the Metal Rendering API](https://github.com/gnikoloff/drawing-graphics-on-apple-vision-with-metal-rendering-api)
+[19th century lions preyed on humans and giraffes](https://phys.org/news/2024-10-hidden-teeth-dna-19th-century.html)
 
-[Commonly used arm positions can overestimate blood pressure readings: study](https://medicalxpress.com/news/2024-10-commonly-arm-positions-substantially-overestimate.html)
+[Show HN: Mermaid ASCII Diagrams](https://mermaid-ascii.art/)
 
-[Gosub – An open-source browser engine](https://github.com/gosub-io/gosub-engine)
-
-[A History of Microwave Ovens](https://taylor.town/history-of-microwave-ovens)
-
-[Turn your Android phone into a modern ham radio transceiver](https://www.kv4p.com/)
-
-[Splitting engineering teams into defense and offense](https://www.greptile.com/blog/how-we-engineer)
+[MP3 to EXE (1999)](https://www.rarewares.org/rrw/mp3toexe.php)

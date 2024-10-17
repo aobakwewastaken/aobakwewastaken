@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Crokinole](https://pudding.cool/2024/10/crokinole/)
+
+[NotebookLM launches feature to customize and guide audio overviews](https://blog.google/technology/ai/notebooklm-update-october-2024/)
+
+[Use Prolog to improve LLM's reasoning](https://shchegrikovich.substack.com/p/use-prolog-to-improve-llms-reasoning)
+
+[I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA]()
+
 [Gamedev in Lisp. Part 2: Dungeons and Interfaces](https://gitlab.com/lockie/cl-fast-ecs/-/wikis/tutorial-2)
 
-[Adobe's new image rotation tool is one of the most impressive AI tools seen](https://www.creativebloq.com/design/adobes-new-image-rotation-tool-is-one-of-the-most-impressive-ai-concepts-weve-seen)
+[Amplification of electromagnetic fields by a rotating body](https://www.nature.com/articles/s41467-024-49689-w)
 
-[Study: Cats Are Almost Liquid](https://www.cell.com/iscience/fulltext/S2589-0042(24)02024-8)
+[Grandmaster-Level Chess Without Search](https://github.com/google-deepmind/searchless_chess)
 
-[Escaping the Chrome Sandbox Through DevTools](https://ading.dev/blog/posts/chrome_sandbox_escape.html)
+[Cats are (almost) liquid](https://www.cell.com/iscience/fulltext/S2589-0042(24)02024-8)
 
-[UEVR: An Exploration of Advanced Game Hacking Techniques (2023)](https://praydog.com/reverse-engineering/2023/07/03/uevr.html)
+[Industrious Dice](https://mathenchant.wordpress.com/2024/10/17/industrious-dice/)
 
-[Defining Statistical Models in Jax?](https://statmodeling.stat.columbia.edu/2024/10/08/defining-statistical-models-in-jax/#comments)
-
-[Amazon reveals first color Kindle, new Kindle Scribe, and more](https://www.aboutamazon.com/news/devices/new-kindle-color-scribe-paperwhite-entry)
-
-[Using Cloudflare on your website could be blocking RSS users](https://openrss.org/blog/using-cloudflare-on-your-website-could-be-blocking-rss-users)
-
-[AI PCs Aren't Good at AI: The CPU Beats the NPU](https://github.com/usefulsensors/qc_npu_benchmark)
-
-[The Origin of Samples from Mars](https://samplesfrommars.com/blogs/the-sample-journal/10-years-of-samples-from-mars)
+[Removing PGP from PyPI](https://blog.pypi.org/posts/2023-05-23-removing-pgp/)

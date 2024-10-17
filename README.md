@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Amazon reveals first color Kindle, new Kindle Scribe, and more](https://www.aboutamazon.com/news/devices/new-kindle-color-scribe-paperwhite-entry)
+
 [AI PCs Aren't Good at AI: The CPU Beats the NPU](https://github.com/usefulsensors/qc_npu_benchmark)
 
-[Should We Chat, Too? Security Analysis of WeChat's Mmtls Encryption Protocol](https://citizenlab.ca/2024/10/should-we-chat-too-security-analysis-of-wechats-mmtls-encryption-protocol/)
-
-[We outsmarted CSGO cheaters with IdentityLogger](https://mobeigi.com/blog/gaming/how-we-outsmarted-csgo-cheaters-with-identitylogger/)
+[Why birds do not fall while sleeping](https://news.cnrs.fr/articles/why-birds-do-not-fall-while-sleeping)
 
 [Hofstadter on Lisp (1983)](https://gist.github.com/jackrusher/5139396)
 
-[Show HN: Automated smooth Nth order derivatives of noisy data](https://github.com/hugohadfield/kalmangrad)
+[10B Integers Walk into an Array](https://donraab.medium.com/10-billion-integers-walk-into-an-array-37097386c964)
 
-[ArchiveBox is evolving: the future of self-hosted internet archives](https://docs.sweeting.me/s/archivebox-plugin-ecosystem-announcement)
+[We outsmarted CSGO cheaters with IdentityLogger](https://mobeigi.com/blog/gaming/how-we-outsmarted-csgo-cheaters-with-identitylogger/)
 
-[Reflex (YC W23) Hiring Senior/Staff Engineer – Infrastructure](https://www.ycombinator.com/companies/reflex/jobs/uBt9ZNP-senior-staff-engineer-infrastructure)
+[A solar gravitational lens will be humanity's most powerful telescope (2022)](https://phys.org/news/2022-10-solar-gravitational-lens-humanity-powerful.html)
 
-[Optimizing the Ion compiler back end](https://spidermonkey.dev/blog/2024/10/16/75x-faster-optimizing-the-ion-compiler-backend.html)
-
-[Jank development update – Moving to LLVM IR](https://jank-lang.org/blog/2024-10-14-llvm-ir/)
+[Using Cloudflare on your website could be blocking RSS users](https://openrss.org/blog/using-cloudflare-on-your-website-could-be-blocking-rss-users)
 
 [FTC announces "click-to-cancel" rule making it easier to cancel subscriptions](https://www.ftc.gov/news-events/news/press-releases/2024/10/federal-trade-commission-announces-final-click-cancel-rule-making-it-easier-consumers-end-recurring)
+
+[Cell-Based Architecture Enhances Modern Distributed Systems](https://www.infoq.com/articles/cell-based-architecture-distributed-systems/)

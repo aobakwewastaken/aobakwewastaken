@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Factorio – Visualizing construction material dependencies](https://community.wolfram.com/groups/-/m/t/1793319)
+
+[Using static websites for tiny archives](https://alexwlchan.net/2024/static-websites/)
+
 [Smart pointers for the kernel](https://lwn.net/Articles/992055/)
 
 [Crokinole](https://pudding.cool/2024/10/crokinole/)
 
-[Hacker Typer](https://hackertyper.net)
+[What Is Theoretical Computer Science?](https://cacm.acm.org/opinion/what-is-theoretical-computer-science/)
 
-[Factorio – Visualizing construction material dependencies](https://community.wolfram.com/groups/-/m/t/1793319)
+[Hacker Typer](https://hackertyper.net)
 
 [Grandmaster-level chess without search](https://github.com/google-deepmind/searchless_chess)
 
-[What Is Theoretical Computer Science?](https://cacm.acm.org/opinion/what-is-theoretical-computer-science/)
-
 [NotebookLM launches feature to customize and guide audio overviews](https://blog.google/technology/ai/notebooklm-update-october-2024/)
 
-[DHL pioneered the sharing economy (2016)](https://www.flexport.com/blog/dhl-bills-of-lading/)
-
-[SOFA - Start Often Finish rArely](https://tilde.town/~dozens/sofa/)
-
 [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA]()
+
+[Bugs in LLM Training – Gradient Accumulation Fix](https://unsloth.ai/blog/gradient)

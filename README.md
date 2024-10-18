@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Smart pointers for the kernel](https://lwn.net/Articles/992055/)
+
 [Crokinole](https://pudding.cool/2024/10/crokinole/)
+
+[Hacker Typer](https://hackertyper.net)
+
+[Factorio – Visualizing construction material dependencies](https://community.wolfram.com/groups/-/m/t/1793319)
+
+[Grandmaster-level chess without search](https://github.com/google-deepmind/searchless_chess)
+
+[What Is Theoretical Computer Science?](https://cacm.acm.org/opinion/what-is-theoretical-computer-science/)
 
 [NotebookLM launches feature to customize and guide audio overviews](https://blog.google/technology/ai/notebooklm-update-october-2024/)
 
-[Use Prolog to improve LLM's reasoning](https://shchegrikovich.substack.com/p/use-prolog-to-improve-llms-reasoning)
+[DHL pioneered the sharing economy (2016)](https://www.flexport.com/blog/dhl-bills-of-lading/)
+
+[SOFA - Start Often Finish rArely](https://tilde.town/~dozens/sofa/)
 
 [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA]()
-
-[Gamedev in Lisp. Part 2: Dungeons and Interfaces](https://gitlab.com/lockie/cl-fast-ecs/-/wikis/tutorial-2)
-
-[Amplification of electromagnetic fields by a rotating body](https://www.nature.com/articles/s41467-024-49689-w)
-
-[Grandmaster-Level Chess Without Search](https://github.com/google-deepmind/searchless_chess)
-
-[Cats are (almost) liquid](https://www.cell.com/iscience/fulltext/S2589-0042(24)02024-8)
-
-[Industrious Dice](https://mathenchant.wordpress.com/2024/10/17/industrious-dice/)
-
-[Removing PGP from PyPI](https://blog.pypi.org/posts/2023-05-23-removing-pgp/)

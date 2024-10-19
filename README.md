@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Typst 0.12 is just... better](https://typst.app/blog/2024/typst-0.12/)
+[Have McKinsey and its consulting rivals got too big?](https://www.economist.com/business/2024/03/25/have-mckinsey-and-its-consulting-rivals-got-too-big)
 
 [The long road to lazy preemption in the Linux CPU scheduler](https://lwn.net/SubscriberLink/994322/45aa5211a50bc63a/)
 
-[Knocker uppers: Waking up the workers in industrial Britain (2016)](https://www.bbc.com/news/uk-england-35840393)
-
-[Adding syntax to the CPython interpreter](https://leontrolski.github.io/grammar.html)
-
-[A Simple open-source Phone programmable with Arduino](https://www.wiphone.io)
-
-[Charles Darwin and Associates, Ghostbusters (1996)](https://www.scientificamerican.com/article/charles-darwin-and-assoc/)
+[Blue whale skeleton at New Bedford museum still oozing oil](https://www.wpri.com/news/street-stories/blue-whale-skeleton-at-new-bedford-museum-still-leaking-oil/)
 
 [Show HN: TCP "slow-start" simulation in Go](https://github.com/ritiksahni/cwnd-demo)
 
-[Developers Now Required to Share Phone Number and Address on EU App Store](https://www.macrumors.com/2024/10/17/developers-eu-app-store-trader-requirements/)
+[A Simple open-source Phone programmable with Arduino](https://www.wiphone.io)
 
-[NASA Drops Boeing Starliner from Upcoming Missions](https://jalopnik.com/nasa-drops-boeing-starliner-from-upcoming-missions-1851676293)
+[Adding syntax to the CPython interpreter](https://leontrolski.github.io/grammar.html)
+
+[Charles Darwin and Associates, Ghostbusters (1996)](https://www.scientificamerican.com/article/charles-darwin-and-assoc/)
 
 [New Mersenne Prime discovered (probably)](https://www.mersenne.org/)
+
+[Do Fungi Recognize Shapes?](https://www.tohoku.ac.jp/en/press/do_fungi_recognize_shapes.html)
+
+[Secret 3D scans in the French Supreme Court](https://cosmowenman.substack.com/p/secret-3d-scans-in-the-french-supreme)

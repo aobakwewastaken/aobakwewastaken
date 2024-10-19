@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Have McKinsey and its consulting rivals got too big?](https://www.economist.com/business/2024/03/25/have-mckinsey-and-its-consulting-rivals-got-too-big)
+[QUIC Is Not Quick Enough over Fast Internet](https://arxiv.org/abs/2310.09423)
 
-[The long road to lazy preemption in the Linux CPU scheduler](https://lwn.net/SubscriberLink/994322/45aa5211a50bc63a/)
+[Smurf: Beyond the Test Pyramid](https://testing.googleblog.com/2024/10/smurf-beyond-test-pyramid.html)
 
-[Blue whale skeleton at New Bedford museum still oozing oil](https://www.wpri.com/news/street-stories/blue-whale-skeleton-at-new-bedford-museum-still-leaking-oil/)
+[Ribbonfarm Is Retiring](https://www.ribbonfarm.com/2024/10/10/ribbonfarm-is-retiring/)
 
-[Show HN: TCP "slow-start" simulation in Go](https://github.com/ritiksahni/cwnd-demo)
+[Why do random forests work? They are self-regularizing adaptive smoothers](https://arxiv.org/abs/2402.01502)
 
-[A Simple open-source Phone programmable with Arduino](https://www.wiphone.io)
+[Eliza in SNOBOL4](https://dl.acm.org/doi/pdf/10.1145/987452.987458)
 
-[Adding syntax to the CPython interpreter](https://leontrolski.github.io/grammar.html)
+[Data Version Control](https://dvc.org/)
 
-[Charles Darwin and Associates, Ghostbusters (1996)](https://www.scientificamerican.com/article/charles-darwin-and-assoc/)
+[Language is not essential for the cognitive processes that underlie thought](https://www.scientificamerican.com/article/you-dont-need-words-to-think/)
 
-[New Mersenne Prime discovered (probably)](https://www.mersenne.org/)
+[Svelte 5 Released](https://www.npmjs.com/package/svelte)
 
-[Do Fungi Recognize Shapes?](https://www.tohoku.ac.jp/en/press/do_fungi_recognize_shapes.html)
+[555 Timer Circuits](https://www.555-timer-circuits.com/)
 
-[Secret 3D scans in the French Supreme Court](https://cosmowenman.substack.com/p/secret-3d-scans-in-the-french-supreme)
+[Medley Loops: The Basic System (Lisp Object-Oriented Programming System) [pdf]](https://interlisp.org/documentation/2024-loops-book-1.pdf)

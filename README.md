@@ -1,9 +1,9 @@
 # Top Stories on hackernews <br />
+[Machine conquest: Jules Verne's technocratic worldmaking](https://www.cambridge.org/core/journals/review-of-international-studies/article/machine-conquest-jules-vernes-technocratic-worldmaking/E5897EB8F3FB9A8F0142075EE38D69BC)
+
+[Scratches in 2001: A Space Osyssey (2018)](https://aphelis.net/scratches-kubrick-2001-space-odyssey/)
+
 [Accountability sinks](https://aworkinglibrary.com/writing/accountability-sinks)
-
-[Poor Perception of Friendship Ties Limits the Ability to Promote Change (2016)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0151588)
-
-[The IPv6 Transition](https://www.potaroo.net/ispcol/2024-10/ipv6-transition.html)
 
 [Language is not essential for the cognitive processes that underlie thought](https://www.scientificamerican.com/article/you-dont-need-words-to-think/)
 
@@ -11,10 +11,10 @@
 
 [Why do random forests work? They are self-regularizing adaptive smoothers](https://arxiv.org/abs/2402.01502)
 
-[QUIC is not quick enough over fast internet](https://arxiv.org/abs/2310.09423)
+[A New Artificial Intelligence Tool for Cancer](https://hms.harvard.edu/news/new-artificial-intelligence-tool-cancer)
 
-[Italy's Piracy Shield just blocked one of Google's CDN](https://mil04s43-in-f1.1e100.net)
+[Implementing neural networks on the "3 cent" 8-bit microcontroller](https://cpldcpu.wordpress.com/2024/05/02/machine-learning-mnist-inference-on-the-3-cent-microcontroller/)
 
-[Data Version Control](https://dvc.org/)
+[Origin of 'Daemon' in Computing](https://www.takeourword.com/TOW146/page4.html)
 
-[Show HN: I made a site to quick identify any plant and learn how to care for it](https://frondly.app/)
+[The Languages of English, Math, and Programming](https://github.com/norvig/pytudes/blob/main/ipynb/Triplets.ipynb)

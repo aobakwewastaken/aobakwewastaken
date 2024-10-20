@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Machine conquest: Jules Verne's technocratic worldmaking](https://www.cambridge.org/core/journals/review-of-international-studies/article/machine-conquest-jules-vernes-technocratic-worldmaking/E5897EB8F3FB9A8F0142075EE38D69BC)
+[Using Euro coins as weights (2004)](https://www.rubinghscience.org/surv/euroweights1.html)
+
+[How to do distributed locking (2016)](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
+
+[What Docs-as-Code Means](https://passo.uno/what-docs-as-code-means/)
 
 [Scratches in 2001: A Space Osyssey (2018)](https://aphelis.net/scratches-kubrick-2001-space-odyssey/)
 
-[Accountability sinks](https://aworkinglibrary.com/writing/accountability-sinks)
+[Machine conquest: Jules Verne's technocratic worldmaking](https://www.cambridge.org/core/journals/review-of-international-studies/article/machine-conquest-jules-vernes-technocratic-worldmaking/E5897EB8F3FB9A8F0142075EE38D69BC)
 
 [Language is not essential for the cognitive processes that underlie thought](https://www.scientificamerican.com/article/you-dont-need-words-to-think/)
 
-[555 Timer Circuits](https://www.555-timer-circuits.com/)
+[Accountability sinks](https://aworkinglibrary.com/writing/accountability-sinks)
 
-[Why do random forests work? They are self-regularizing adaptive smoothers](https://arxiv.org/abs/2402.01502)
+[555 Timer Circuits](https://www.555-timer-circuits.com/)
 
 [A New Artificial Intelligence Tool for Cancer](https://hms.harvard.edu/news/new-artificial-intelligence-tool-cancer)
 
-[Implementing neural networks on the "3 cent" 8-bit microcontroller](https://cpldcpu.wordpress.com/2024/05/02/machine-learning-mnist-inference-on-the-3-cent-microcontroller/)
-
-[Origin of 'Daemon' in Computing](https://www.takeourword.com/TOW146/page4.html)
-
-[The Languages of English, Math, and Programming](https://github.com/norvig/pytudes/blob/main/ipynb/Triplets.ipynb)
+[Why do random forests work? They are self-regularizing adaptive smoothers](https://arxiv.org/abs/2402.01502)

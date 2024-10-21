@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[WebGPU-Based WiFi Simulator](https://wifi-solver.com)
+[A step toward fully 3D-printed active electronics](https://news.mit.edu/2024/mit-team-takes-major-step-toward-fully-3d-printed-active-electronics-1015)
 
-[Why I'm skeptical of rewriting JavaScript tools in "faster" languages](https://nolanlawson.com/2024/10/20/why-im-skeptical-of-rewriting-javascript-tools-in-faster-languages/)
+[Show HN: HN Update – Hourly news broadcast of top HN stories](https://hnup.date/)
+
+[WebGPU-Based WiFi Simulator](https://wifi-solver.com)
 
 [Drasi: Microsoft's open source data processing platform for event-driven systems](https://github.com/drasi-project/drasi-platform)
 
-[The Part of PostgreSQL We Hate the Most (2023)](https://www.cs.cmu.edu/~pavlo/blog/2023/04/the-part-of-postgresql-we-hate-the-most.html)
-
 [Kurt Vonnegut's lost board game published](https://www.polygon.com/board-games/467103/kurt-vonnegut-ghq-lost-board-game-publisher-interview)
 
-[Show HN: Create mind maps to learn new things using AI](https://github.com/aotakeda/learn-thing)
+[A Console-Friendly Pastebin with binary support](https://paste.c-net.org/)
 
-[Show HN: HN Update – Hourly News Broadcast of Top HN Stories](https://hnup.date/)
+[IBM Granite 3.0: open enterprise models](https://www.ibm.com/new/ibm-granite-3-0-open-state-of-the-art-enterprise-models)
 
 [Mosaic REALMAP: Explore Prague in detail with 1.26M images](https://www.mosaic51.com/featured/mosaic-realmap-explore-prague-in-unprecedented-detail-with-1-26-million-images/)
 
-[Sampling with SQL](https://blog.moertel.com/posts/2024-08-23-sampling-with-sql.html)
+[Android "Password Store" client for pass discontinued](https://github.com/android-password-store/Android-Password-Store/discussions/3260)
 
-[How to do distributed locking (2016)](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
+[TikTok owner sacks intern for sabotaging AI project](https://www.bbc.com/news/articles/c7v62gg49zro)

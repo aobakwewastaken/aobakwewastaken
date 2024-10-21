@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[An amateur historian has discovered a long-lost short story by Bram Stoker](https://www.bbc.com/news/articles/c4g9119l64qo)
+
+[T-Mobile, AT&T oppose unlocking rule, claim locked phones are good for users](https://arstechnica.com/tech-policy/2024/10/t-mobile-att-oppose-unlocking-rule-claim-locked-phones-are-good-for-users/)
+
+[Overengineering a way to know if people are in my university's CS lab](https://www.amoses.dev/blog/upl-people-counter/)
+
 [Show HN: Epublifier – scrape pages (books, manuals) for offline reading](https://github.com/maoserr/epublifier)
 
-[Ioccc Flight Simulator (2010)](https://blog.aerojockey.com/iocccsim/)
+[Workaround Clang v15 AArch64 miscompile that affects parallel collection](https://github.com/cisco/ChezScheme/pull/879)
 
-[Egypt declared malaria-free after 100-year effort](https://www.bbc.com/news/articles/cm2yl8pjgn2o)
+[The Thought Experiments That Fray the Fabric of Space-Time](https://www.quantamagazine.org/the-thought-experiments-that-fray-the-fabric-of-space-time-20240925/)
 
-[Is It Better to Fail Spectacularly?](https://danielmangum.com/posts/better-to-fail-spectacularly/)
+[Sam's Club CTO to Exit Due to Walmart Relocation Policy](https://www.bloomberg.com/news/articles/2024-10-21/senior-walmart-wmt-executive-to-leave-company-due-to-relocation-policy)
 
-[Intelsat 33e breaks up in geostationary orbit](https://spacenews.com/intelsat-33e-loses-power-in-geostationary-orbit/)
+[Show HN: Floating point arithmetic types in C++ for any size and any base](https://github.com/clemensmanert/fas)
 
-[Waking up science's sleeping beauties (2023)](https://worksinprogress.co/issue/waking-up-sciences-sleeping-beauties/)
+[The Internet Archive is back, in read-only mode](https://blog.archive.org/2024/10/21/internet-archive-services-update-2024-10-21/)
 
-[Show HN: Erin – Open-source and self-hosted TikTok feed for your own videos](https://github.com/will-moss/erin)
-
-[Plankton balloon to six times size in newly discovered mode of oceanic travel](https://phys.org/news/2024-10-plankton-balloon-size-newly-mode.html)
-
-[Show HN: HN Update – Hourly news broadcast of top HN stories](https://hnup.date/)
-
-[A step toward fully 3D-printed active electronics](https://news.mit.edu/2024/mit-team-takes-major-step-toward-fully-3d-printed-active-electronics-1015)
+[IOCCC Flight Simulator (2010)](https://blog.aerojockey.com/iocccsim/)

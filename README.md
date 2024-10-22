@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Show HN: Rust Web Framework](https://github.com/levkk/rwf)
+[USGS uses machine learning to show large lithium potential in Arkansas](https://www.usgs.gov/news/national-news-release/unlocking-arkansas-hidden-treasure-usgs-uses-machine-learning-show-large)
 
 [Computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku](https://www.anthropic.com/news/3-5-models-and-computer-use)
 
+[The Tragedy of Google Books (2017)](https://www.theatlantic.com/technology/archive/2017/04/the-tragedy-of-google-books/523320/)
+
+[Show HN: Rust Web Framework](https://github.com/levkk/rwf)
+
+[Show HN: Open-source Counter-Strike-like game](https://github.com/solcloud/Counter-Strike)
+
+[We built a new powerful JSON data type for ClickHouse](https://clickhouse.com/blog/a-new-powerful-json-data-type-for-clickhouse)
+
 [Tog's Paradox](https://www.votito.com/methods/togs-paradox/)
 
+[An Illustrated Guide to Maritime Signal Flags](https://rabbitwaves.ca/site/flags_maritime.html)
+
+[The PlanetScale vectors public beta](https://planetscale.com/blog/announcing-planetscale-vectors-public-beta)
+
 [FTC's rule banning fake online reviews goes into effect](https://abcnews.go.com/US/wireStory/ftcs-rule-banning-fake-online-reviews-effect-115009298)
-
-[Show HN: Ambulate – Detailed Trip Planning](https://ambulate.app)
-
-[One Plus One Equals Two (2006)](https://blog.plover.com/math/PM.html)
-
-[First images from Euclid are in](https://dlmultimedia.esa.int/download/public/videos/2024/10/023/orig-2410_023_AR_EN.mp4)
-
-[Math is still catching up to the genius of Ramanujan](https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/)
-
-[Understanding Gaussians](https://gestalt.ink/gaussians)
-
-[Numerical Precision Affects Mathematical Reasoning Capabilities of LLMs](https://arxiv.org/abs/2410.13857)

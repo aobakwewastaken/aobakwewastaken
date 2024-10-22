@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Fine-Tuning LLMs: A Review of Technologies, Research, Best Practices, Challenges](https://arxiv.org/abs/2408.13296)
+
+[Math is still catching up to the genius of Ramanujan](https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/)
+
+[First images from Euclid are in](https://dlmultimedia.esa.int/download/public/videos/2024/10/023/orig-2410_023_AR_EN.mp4)
+
+[LTESniffer: An Open-Source LTE Downlink/Uplink Eavesdropper](https://github.com/SysSec-KAIST/LTESniffer)
+
+[Firefox-Passwords-Decryptor: Extracts and decrypts passwords saved in Firefox](https://github.com/Sohimaster/Firefox-Passwords-Decryptor)
+
+[A Controversial Rare-Book Dealer Tries to Rewrite His Own Ending](https://www.newyorker.com/magazine/2024/10/28/a-controversial-rare-book-dealer-tries-to-rewrite-his-own-ending)
+
 [An amateur historian has discovered a long-lost short story by Bram Stoker](https://www.bbc.com/news/articles/c4g9119l64qo)
 
-[T-Mobile, AT&T oppose unlocking rule, claim locked phones are good for users](https://arstechnica.com/tech-policy/2024/10/t-mobile-att-oppose-unlocking-rule-claim-locked-phones-are-good-for-users/)
+[Tesla delays Cybertruck's range extender, reduces its range](https://electrek.co/2024/10/21/tesla-delays-cybertrucks-range-extender-reduces-its-range/)
 
-[Overengineering a way to know if people are in my university's CS lab](https://www.amoses.dev/blog/upl-people-counter/)
+[Civet: A Superset of TypeScript](https://civet.dev/)
 
-[Show HN: Epublifier – scrape pages (books, manuals) for offline reading](https://github.com/maoserr/epublifier)
-
-[Workaround Clang v15 AArch64 miscompile that affects parallel collection](https://github.com/cisco/ChezScheme/pull/879)
-
-[The Thought Experiments That Fray the Fabric of Space-Time](https://www.quantamagazine.org/the-thought-experiments-that-fray-the-fabric-of-space-time-20240925/)
-
-[Sam's Club CTO to Exit Due to Walmart Relocation Policy](https://www.bloomberg.com/news/articles/2024-10-21/senior-walmart-wmt-executive-to-leave-company-due-to-relocation-policy)
-
-[Show HN: Floating point arithmetic types in C++ for any size and any base](https://github.com/clemensmanert/fas)
-
-[The Internet Archive is back, in read-only mode](https://blog.archive.org/2024/10/21/internet-archive-services-update-2024-10-21/)
-
-[IOCCC Flight Simulator (2010)](https://blog.aerojockey.com/iocccsim/)
+[Show HN: Data Formulator – AI-powered data visualization from Microsoft Research](https://github.com/microsoft/data-formulator)

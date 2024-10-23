@@ -3,18 +3,18 @@
 
 [Solving Sudoku in Python Packaging](https://github.com/konstin/sudoku-in-python-packaging)
 
-[The Dawn of a New Era for Supernova 1987a](https://science.nasa.gov/missions/chandra/the-dawn-of-a-new-era-for-supernova-1987a/)
+[Raspberry Pi announces branded range of NVMe SSDs and SSD kit](https://www.tomshardware.com/raspberry-pi/raspberry-pi-announce-branded-range-of-nvme-ssds-and-ssd-kit)
 
 [Computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku](https://www.anthropic.com/news/3-5-models-and-computer-use)
 
+[Walking in short bursts consume 20-60% more energy than walking continuously](https://phys.org/news/2024-10-short-consume-energy-distance.html)
+
 [USGS uses machine learning to show large lithium potential in Arkansas](https://www.usgs.gov/news/national-news-release/unlocking-arkansas-hidden-treasure-usgs-uses-machine-learning-show-large)
 
-[Show HN: I made tool for slicing up samples to Ableton Move presets](https://github.com/alexfedosov/move-tool)
+[The Dawn of a New Era for Supernova 1987a (2017)](https://science.nasa.gov/missions/chandra/the-dawn-of-a-new-era-for-supernova-1987a/)
+
+[Huawei makes divorce from Android official with HarmonyOS NEXT launch](https://www.theregister.com/2024/10/23/huaweis_harmonyos_next_launch/)
+
+[Boeing CEO says the company must fundamentally change as losses surge](https://www.cnn.com/2024/10/23/investing/boeing-losses/index.html)
 
 [Show HN: Open-source Counter-Strike-like game](https://github.com/solcloud/Counter-Strike)
-
-[The Tragedy of Google Books (2017)](https://www.theatlantic.com/technology/archive/2017/04/the-tragedy-of-google-books/523320/)
-
-[How DRAM changed the world](https://www.micron.com/about/blog/memory/dram/how-dram-changed-the-world)
-
-[Solving the Mystery of ARM7TDMI Multiply Carry Flag](https://bmchtech.github.io/post/multiply/)

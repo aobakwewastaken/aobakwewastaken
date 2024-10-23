@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Launch HN: GPT Driver (YC S21) – End-to-end app testing in natural language]()
+[Everything I built with Claude Artifacts this week](https://simonwillison.net/2024/Oct/21/claude-artifacts/)
 
-[Adding row polymorphism to Damas-Hindley-Milner](https://bernsteinbear.com/blog/row-poly/)
+[Playstation Vita Architecture (Part 1)](https://www.copetti.org/writings/consoles/playstation-vita/)
 
-[The Incredible Machine (1968) [video]](https://www.youtube.com/watch?v=iwVu2BWLZqA)
+[What happens when you make a move in lichess.org?](https://www.davidreis.me/2024/what-happens-when-you-make-a-move-in-lichess)
 
-[Solving Sudoku in Python Packaging](https://github.com/konstin/sudoku-in-python-packaging)
+[Show HN: Open-source low-code email editor](https://github.com/dittofeed/dittofeed/tree/main/packages/emailo)
 
-[The Global Surveillance Free-for-All in Mobile Ad Data](https://krebsonsecurity.com/2024/10/the-global-surveillance-free-for-all-in-mobile-ad-data/)
+[Show HN: A macOS Client for HuggingFace Chat](https://github.com/huggingface/chat-macOS)
 
-[Computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku](https://www.anthropic.com/news/3-5-models-and-computer-use)
+[Post-postal: What did we lose when we stopped writing letters?](https://resobscura.substack.com/p/post-postal)
 
-[USGS uses machine learning to show large lithium potential in Arkansas](https://www.usgs.gov/news/national-news-release/unlocking-arkansas-hidden-treasure-usgs-uses-machine-learning-show-large)
-
-[Users say T-Mobile must pay for killing "lifetime" price lock](https://arstechnica.com/tech-policy/2024/10/i-am-still-alive-users-say-t-mobile-must-pay-for-killing-lifetime-price-lock/)
-
-[TCP Fast Open? Not so fast (2021)](https://blog.apnic.net/2021/07/05/tcp-fast-open-not-so-fast/)
+[A DSL for peephole transformation rules of integer operations in the PyPy JIT](https://pypy.org/posts/2024/10/jit-peephole-dsl.html)
 
 [Probably pay attention to tokenizers](https://cybernetist.com/2024/10/21/you-should-probably-pay-attention-to-tokenizers/)
+
+[Parks on the Air](https://parksontheair.com/index.html)
+
+[Bulk optimization of queries in Postgres](https://substack.com/home/post/p-150506520)

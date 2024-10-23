@@ -9,12 +9,12 @@
 
 [USGS uses machine learning to show large lithium potential in Arkansas](https://www.usgs.gov/news/national-news-release/unlocking-arkansas-hidden-treasure-usgs-uses-machine-learning-show-large)
 
-[NewsCatcher (YC S22) Is Hiring Web Scraping/Crawling Engineers](https://www.newscatcherapi.com/career/web-crawling-scraping-engineer)
-
-[Solving the Mystery of ARM7TDMI Multiply Carry Flag](https://bmchtech.github.io/post/multiply/)
-
-[The Tragedy of Google Books (2017)](https://www.theatlantic.com/technology/archive/2017/04/the-tragedy-of-google-books/523320/)
+[Show HN: I made tool for slicing up samples to Ableton Move presets](https://github.com/alexfedosov/move-tool)
 
 [Show HN: Open-source Counter-Strike-like game](https://github.com/solcloud/Counter-Strike)
 
-[One Square Minesweeper](https://onesquareminesweeper.com/)
+[The Tragedy of Google Books (2017)](https://www.theatlantic.com/technology/archive/2017/04/the-tragedy-of-google-books/523320/)
+
+[How DRAM changed the world](https://www.micron.com/about/blog/memory/dram/how-dram-changed-the-world)
+
+[Solving the Mystery of ARM7TDMI Multiply Carry Flag](https://bmchtech.github.io/post/multiply/)

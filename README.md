@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[JetBrains Rider is now free for non-commercial use](https://www.jetbrains.com/rider/)
+[Quantized Llama models with increased speed and a reduced memory footprint](https://ai.meta.com/blog/meta-llama-quantized-lightweight-models/?_fb_noscript=1)
 
-[Developing with Docker](https://danielquinn.org/blog/developing-with-docker/)
+[Launch HN: Skyvern (YC S23) – open-source AI agent for browser automations](https://github.com/Skyvern-AI/Skyvern)
 
-[Sinusoidal Sunlight](https://leancrew.com/all-this/2024/10/sinusoidal-sunlight/)
+[Brush – A new compatible Gaussian splatting engine](https://github.com/ArthurBrussee/brush)
 
-[Pretty.c](https://github.com/aartaka/pretty.c)
+[Security research on Private Cloud Compute](https://security.apple.com/blog/pcc-security-research/)
 
-[Show HN: Satoshi9000 analog BTC key generator (mechanical)]()
+[Show HN: TypeSchema – A JSON specification to describe data models](https://typeschema.org/)
 
-[Zero or Sign Extend](https://fgiesen.wordpress.com/2024/10/23/zero-or-sign-extend/)
+[Zigler: Zig NIFs in Elixir](https://github.com/E-xyza/zigler)
 
-[Show HN: Which Animal Shares Your Body Fat Percentage?](https://animalbodyfatmatch.netlify.app/)
+[Never Missing the Train Again](https://lilymara.xyz/posts/2024/01/transit-kindle/)
 
-[Show HN: Wall-mounted diffusion mirror that turns reflections into paintings](https://www.matthieulc.com/posts/pablonet/)
+[Viva Labs (YC W22) is hiring a video/image AI research lead](https://www.ycombinator.com/companies/viva-labs/jobs/RwBJyRn-video-image-ai-research-lead)
 
-[Show HN: RF Hunter – Find hidden cameras and other devices](https://github.com/RamboRogers/rfhunter)
+[Post World War II Food](https://www.nps.gov/articles/post-wwii-food.htm)
 
-[Optimizing Beer Glass Shapes to Minimize Heat Transfer – New Results](http://www.arxiv.org/pdf/2410.12043)
+[Why Safety Profiles Failed](https://www.circle-lang.org/draft-profiles.html)

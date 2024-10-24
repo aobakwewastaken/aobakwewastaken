@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[AWS data center latencies, visualized](https://benjdd.com/aws/)
+[Developing with Docker](https://danielquinn.org/blog/developing-with-docker/)
 
-[How to Grip Bronze Age Swords](https://www.bookandsword.com/2024/10/19/how-to-grip-bronze-age-swords-response-to-dimicator-and-matt-easton/)
+[Show HN: Which Animal Shares Your Body Fat Percentage?](https://animalbodyfatmatch.netlify.app/)
 
-[Sinusoidal Sunlight](https://leancrew.com/all-this/2024/10/sinusoidal-sunlight/)
+[JetBrains Rider is now free for non-commercial use](https://www.jetbrains.com/rider/)
 
 [Zero or Sign Extend](https://fgiesen.wordpress.com/2024/10/23/zero-or-sign-extend/)
 
+[Sinusoidal Sunlight](https://leancrew.com/all-this/2024/10/sinusoidal-sunlight/)
+
+[Optimizing Beer Glass Shapes to Minimize Heat Transfer – New Results](http://www.arxiv.org/pdf/2410.12043)
+
 [Show HN: Satoshi9000 analog BTC key generator (mechanical)]()
+
+[Pretty.c](https://github.com/aartaka/pretty.c)
 
 [Show HN: Wall-mounted diffusion mirror that turns reflections into paintings](https://www.matthieulc.com/posts/pablonet/)
 
 [Show HN: RF Hunter – Find hidden cameras and other devices](https://github.com/RamboRogers/rfhunter)
-
-[A field guide to the central, creeping section of the San Andreas Fault (2006)](https://www.researchgate.net/publication/262263511_A_field_guide_to_the_central_creeping_section_of_the_San_Andreas_Fault_and_the_San_Andreas_Fault_Observatory_at_Depth)
-
-[NetGuard – rootless Android outbound per-app OSS firewall, like LittleSnitch](https://netguard.me/)
-
-[Playstation Vita Architecture (Part 1)](https://www.copetti.org/writings/consoles/playstation-vita/)

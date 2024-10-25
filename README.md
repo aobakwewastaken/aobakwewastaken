@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Category Theory Illustrated: Logic(2021)](https://abuseofnotation.github.io/category-theory-illustrated/05_logic/)
+[We can now fix McDonald's ice cream machines](https://www.ifixit.com/News/102368/victory-is-sweet-we-can-now-fix-mcdonalds-ice-cream-machines)
 
-[Battleships Logic Puzzle](https://lukerissacher.com/battleships)
+[Detecting when LLMs are uncertain](https://www.thariq.io/blog/entropix/)
 
-[Bitwarden SDK relicensed from proprietary to GPLv3](https://github.com/bitwarden/sdk-internal/commit/db648d7ea85878e9cce03283694d01d878481f6b)
+[Company named "><SCRIPT SRC=HTTPS://MJT.XSS.HT> LTD" forced to change it (2020)](https://www.theguardian.com/uk-news/2020/nov/06/companies-house-forces-business-name-change-to-prevent-security-risk)
 
-[Smartphone buyers meh on AI, care much more about battery life](https://www.cnet.com/tech/mobile/with-apple-intelligence-on-the-horizon-a-quarter-of-smartphone-owners-are-unimpressed-by-ai/)
+[Dijkstra's algorithm prove as universally optimal way to find graph's best route](https://arxiv.org/abs/2311.11793)
 
-[Notes on the new Claude analysis JavaScript code execution tool](https://simonwillison.net/2024/Oct/24/claude-analysis-tool/)
+[OmniParser for Pure Vision Based GUI Agent](https://microsoft.github.io/OmniParser/)
 
-[Quantized Llama models with increased speed and a reduced memory footprint](https://ai.meta.com/blog/meta-llama-quantized-lightweight-models/?_fb_noscript=1)
+[Did too many games release in Q3 of 2024?](https://howtomarketagame.com/2024/10/24/did-too-many-games-release-in-q3-of-2024/)
 
-[Yes, we did discover the Higgs](https://theoryandpractice.org/2024/10/Yes,%20we%20did%20discover%20the%20Higgs!/)
+[Ikigai: The Japanese Secret to a Joyful Life](https://www.japan.go.jp/kizuna/2022/03/ikigai_japanese_secret_to_a_joyful_life.html)
 
-[Ironclad link between red meat and cancer identified](https://newatlas.com/medical/red-meat-iron-colorectal-cancer-mechanism/)
+[Streaming Joins Are Hard](https://estuary.dev/streaming-joins-are-hard/)
 
-[Launch HN: Skyvern (YC S23) – open-source AI agent for browser automations](https://github.com/Skyvern-AI/Skyvern)
+[Electro-agriculture: Revolutionizing farming for a sustainable future](https://www.cell.com/joule/fulltext/S2542-4351(24)00429-X)
 
-[OpenFeature – a vendor-agnostic, community-driven API for feature flagging](https://github.com/open-feature)
+[A deep dive into Linux's new mseal syscall](https://blog.trailofbits.com/2024/10/25/a-deep-dive-into-linuxs-new-mseal-syscall/)

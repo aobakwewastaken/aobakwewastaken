@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Bitwarden SDK relicensed from proprietary to GPLv3](https://github.com/bitwarden/sdk-internal/commit/db648d7ea85878e9cce03283694d01d878481f6b)
+
+[Cerebras Inference now 3x faster: Llama3.1-70B breaks 2,100 tokens/s](https://cerebras.ai/blog/cerebras-inference-3x-faster)
+
 [Quantized Llama models with increased speed and a reduced memory footprint](https://ai.meta.com/blog/meta-llama-quantized-lightweight-models/?_fb_noscript=1)
+
+[Florida Eases Licensing Requirements for Foreign Trained Doctors](https://www.murthy.com/2024/10/17/florida-eases-licensing-requirements-for-foreign-trained-doctors/)
+
+[OpenFeature – a vendor-agnostic, community-driven API for feature flagging](https://github.com/open-feature)
+
+[Italy declares its "web tax" applicable to any digital service worldwide](https://www.reuters.com/markets/europe/italy-stiffens-terms-digital-services-tax-2025-budget-2024-10-16/)
 
 [Launch HN: Skyvern (YC S23) – open-source AI agent for browser automations](https://github.com/Skyvern-AI/Skyvern)
 
-[Brush – A new compatible Gaussian splatting engine](https://github.com/ArthurBrussee/brush)
+[A Primer on Vintage Cassette Decks: How to Find a Good One](https://insheepsclothinghifi.com/a-primer-on-vintage-cassette-decks-how-to-find-a-good-one/)
 
-[Security research on Private Cloud Compute](https://security.apple.com/blog/pcc-security-research/)
-
-[Show HN: TypeSchema – A JSON specification to describe data models](https://typeschema.org/)
-
-[Zigler: Zig NIFs in Elixir](https://github.com/E-xyza/zigler)
-
-[Never Missing the Train Again](https://lilymara.xyz/posts/2024/01/transit-kindle/)
-
-[Viva Labs (YC W22) is hiring a video/image AI research lead](https://www.ycombinator.com/companies/viva-labs/jobs/RwBJyRn-video-image-ai-research-lead)
-
-[Post World War II Food](https://www.nps.gov/articles/post-wwii-food.htm)
+[Rsbuild – A Better Vite?](https://rsbuild.dev/)
 
 [Why Safety Profiles Failed](https://www.circle-lang.org/draft-profiles.html)

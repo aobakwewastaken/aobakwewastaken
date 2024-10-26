@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[New Windows Driver Signature bypass allows kernel rootkit installs](https://www.bleepingcomputer.com/news/security/new-windows-driver-signature-bypass-allows-kernel-rootkit-installs/)
+[Understanding Round Robin DNS](https://blog.hyperknot.com/p/understanding-round-robin-dns)
 
-[We can now fix McDonald's ice cream machines](https://www.ifixit.com/News/102368/victory-is-sweet-we-can-now-fix-mcdonalds-ice-cream-machines)
+[PineNote Community Edition](https://pine64.com/product/pinenote-community-edition-coming-soon/)
+
+[Fundamentals of Radiance Cascades](https://m4xc.dev/articles/fundamental-rc/)
+
+[Saturated fat: the making and unmaking of a scientific consensus (2022)](https://journals.lww.com/co-endocrinology/fulltext/2023/02000/a_short_history_of_saturated_fat__the_making_and.10.aspx)
+
+[Deep dive: the instability of op-amps](https://lcamtuf.substack.com/p/deep-dive-the-instability-of-op-amps)
 
 [Before you buy a domain name, first check to see if it's haunted](https://www.bryanbraun.com/2024/10/25/before-you-buy-a-domain-name-first-check-to-see-if-its-haunted/)
 
-[Should JavaScript be split into two languages? Google proposal divides opinion](https://devclass.com/2024/10/22/should-javascript-be-split-into-two-languages-new-google-driven-proposal-divides-opinion/)
+[Carma (YC W24) hiring founding SWEs (remote) to build the next Uber for auto repair]()
 
-[Live imaging of ovulation in action reveals three distinct phases](https://phys.org/news/2024-10-imaging-ovulation-action-reveals-distinct.html)
+[Bullenweg.com is no longer available following threats of legal action](https://bullenweg.com/)
 
-[How can this 6 axis robot have a static accuracy of 0.05 mm? (2021) [video]](https://www.youtube.com/watch?v=SioCwvR_PYY)
+[Goodhart's law isn't as useful as you might think (2023)](https://commoncog.com/goodharts-law-not-useful/)
 
-[Mdx – Execute Your Markdown Code Blocks, Now in Go](https://github.com/dim0x69/mdx)
-
-[Show HN: Simple Text Blog](https://github.com/jonfraser/simpletext)
-
-[In the US, regenerative farming practices require unlearning past advice](https://investigatemidwest.org/2024/10/11/regenerative-farming-practices-require-unlearning-past-advice/)
-
-[Adventures in algorithmic trading on the Runescape Grand Exchange](https://tristanrhodes.com/blog/Adventures-in-Algorithmic-Trading-on-the-Runescape-Grand-Exchange)
+[Using LLMs to enhance our testing practices](https://www.assembled.com/blog/how-we-saved-hundreds-of-engineering-hours-by-writing-tests-with-llms)

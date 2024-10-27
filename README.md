@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Should elephants have the same rights as people? A Colorado court may decide](https://www.denver7.com/news/state-news/should-elephants-have-the-same-rights-as-people-a-colorado-court-may-decide)
+
+[Shrunked JavaScript monorepo Git size by 94%](https://www.jonathancreamer.com/how-we-shrunk-our-git-repo-size-by-94-percent/)
+
+[I discovered mysterious hidden signals on a public radio channel (2013) [video]](https://media.ccc.de/v/30C3_-_5588_-_en_-_saal_g_-_201312281600_-_my_journey_into_fm-rds_-_oona_raisanen)
+
+[Typeset: An HTML pre-proces­sor for web ty­pog­ra­phy](https://typeset.lllllllllllllllll.com/)
+
+[James Webb Telescope discovers some quasars that seem to exist in isolation](https://scitechdaily.com/james-webb-telescope-discovers-quasars-where-they-shouldnt-exist/)
+
+[Canvas Fingerprinting](https://browserleaks.com/canvas)
+
 [Understanding Round Robin DNS](https://blog.hyperknot.com/p/understanding-round-robin-dns)
 
-[PineNote Community Edition](https://pine64.com/product/pinenote-community-edition-coming-soon/)
+[How JPEG XL compares to other image codecs](https://cloudinary.com/blog/how_jpeg_xl_compares_to_other_image_codecs)
 
-[Fundamentals of Radiance Cascades](https://m4xc.dev/articles/fundamental-rc/)
+[How 'Factorio' seduced Silicon Valley and me](https://www.ft.com/content/b9e419c6-acf1-420b-8ae6-908feb52c94e)
 
-[Saturated fat: the making and unmaking of a scientific consensus (2022)](https://journals.lww.com/co-endocrinology/fulltext/2023/02000/a_short_history_of_saturated_fat__the_making_and.10.aspx)
-
-[Deep dive: the instability of op-amps](https://lcamtuf.substack.com/p/deep-dive-the-instability-of-op-amps)
-
-[Before you buy a domain name, first check to see if it's haunted](https://www.bryanbraun.com/2024/10/25/before-you-buy-a-domain-name-first-check-to-see-if-its-haunted/)
-
-[Carma (YC W24) hiring founding SWEs (remote) to build the next Uber for auto repair]()
-
-[Bullenweg.com is no longer available following threats of legal action](https://bullenweg.com/)
-
-[Goodhart's law isn't as useful as you might think (2023)](https://commoncog.com/goodharts-law-not-useful/)
-
-[Using LLMs to enhance our testing practices](https://www.assembled.com/blog/how-we-saved-hundreds-of-engineering-hours-by-writing-tests-with-llms)
+[ZombAIs: From Prompt Injection to C2 with Claude Computer Use](https://embracethered.com/blog/posts/2024/claude-computer-use-c2-the-zombais-are-coming/)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[New iMac with M4](https://www.apple.com/newsroom/2024/10/apple-introduces-new-imac-supercharged-by-m4-and-apple-intelligence/)
+[A return to hand-written notes by learning to read and write](https://research.google/blog/a-return-to-hand-written-notes-by-learning-to-read-write/)
 
-[How Gothic Architecture Became Spooky](https://www.architecturaldigest.com/story/how-gothic-architecture-became-spooky)
+[Buy payphones and retire](https://computer.rip/2024-10-26-buy-payphones-and-retire.html)
 
-[Using Rust in Non-Rust Servers to Improve Performance](https://github.com/pretzelhammer/rust-blog/blob/master/posts/rust-in-non-rust-servers.md)
+[We're forking Flutter](https://flutterfoundation.dev/blog/posts/we-are-forking-flutter-this-is-why/)
 
-[Ask HN: What Are You Working On? (October 2024)]()
+[Standardizing Automotive Connectivity](https://www.tesla.com/en_CA/blog/standardizing-automotive-connectivity)
 
-[Mill: A fast JVM build tool for Java and Scala](https://mill-build.org/)
+[Study: DNA corroborates "Well-man" tale from Norse saga](https://arstechnica.com/science/2024/10/ancient-dna-sheds-light-on-well-man-from-norse-saga/)
 
-[Psychological Safety vs. High Standards: A Misunderstood Dynamic](https://www.leadingsapiens.com/psychological-safety-vs-high-standards/)
+[Improving Xwayland window resizing](https://blog.vladzahorodnii.com/2024/10/28/improving-xwayland-window-resizing/)
 
-[NewPipe on Linux, Using Android_translation_layer](https://flathub.org/apps/net.newpipe.NewPipe)
+[Glass Health (YC W23) is hiring founding, senior and lead full-stack engineers](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
 
-[A Chopin waltz unearthed after nearly 200 years](https://www.nytimes.com/2024/10/27/arts/music/chopin-waltz-discovery.html)
+[The sins of the 90s: Questioning a puzzling claim about mass surveillance](https://blog.cr.yp.to/20241028-surveillance.html)
 
-[The Use of Knowledge in Society (1945) [pdf]](https://www.kysq.org/docs/Hayek_45.pdf)
+[Steve Ballmer was an underrated CEO](https://danluu.com/ballmer/)
 
-[You-get: Dumb downloader that scrapes the web](https://github.com/soimort/you-get)
+[Why so few Matt Levines?](https://gwern.net/matt-levine)

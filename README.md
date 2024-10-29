@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[GitHub cuts AI deals with Google, Anthropic](https://www.bloomberg.com/news/articles/2024-10-29/microsoft-s-github-unit-cuts-ai-deals-with-google-anthropic)
+
+[OpenAI builds first chip with Broadcom and TSMC, scales back foundry ambition](https://www.reuters.com/technology/artificial-intelligence/openai-builds-first-chip-with-broadcom-tsmc-scales-back-foundry-ambition-2024-10-29/)
+
+[Using an 8K TV as a Monitor](https://daniel.lawrence.lu/blog/y2023m12d15/)
+
+[Digging into PlantStudio, a Bit Late](https://pketh.org/plantstudio.html)
+
 [Writing in Pictures: Richard Scarry and the art of children's literature](https://yalereview.org/article/chris-ware-richard-scarry)
 
-[Launch HN: Integuru (YC W24): Reverse-Engineer Internal APIs Using LLMs](https://github.com/Integuru-AI/Integuru)
+[RIP BotsIn.Space](https://muffinlabs.com/posts/2024/10/29/10-29-rip-botsin-space/)
 
-[A Very Deep History of Halloween](https://resobscura.substack.com/p/a-very-deep-history-of-halloween)
+[Launch HN: Integuru (YC W24) – Reverse-engineer internal APIs using LLMs](https://github.com/Integuru-AI/Integuru)
+
+[Show HN: Kasama – an IntelliJ plugin to keep track of your coding practices](https://plugins.jetbrains.com/plugin/24683-kasama)
+
+[Ancient Monkey: Pwning a 17-Year-Old Version of SpiderMonkey](https://blog.pspaul.de/posts/ancient-monkey-pwning-a-17-year-old-version-of-spidermonkey/)
 
 [How to get the whole planet to send abuse complaints to your best friends](https://delroth.net/posts/spoofed-mass-scan-abuse/)
-
-[OutRun: Open-source, privacy oriented, outdoor fitness tracker](https://outrun.tadris.de/)
-
-[The secret electrostatic world of insects](https://www.wired.com/story/the-secret-electrostatic-world-of-insects/)
-
-[When are two proofs essentially the same? (2007)](https://gowers.wordpress.com/2007/10/04/when-are-two-proofs-essentially-the-same/)
-
-[Why Slight Failed: A Slight Post-Mortem](https://www.colmanhumphrey.com/posts/why-slight-failed/)
-
-[Show HN: Latex.to – LaTeX to image converter running in the browser](https://latex.to)
-
-[Show HN: Basis – a production focused robotics framework](https://github.com/basis-robotics/basis)

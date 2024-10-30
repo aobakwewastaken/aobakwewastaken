@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Apple Introduces M4 Pro and M4 Max](https://www.apple.com/newsroom/2024/10/apple-introduces-m4-pro-and-m4-max/)
+[Chain-of-Thought Can Hurt Performance on Tasks Where Thinking Makes Humans Worse](https://arxiv.org/abs/2410.21333)
 
-[Internal representations of LLMs encode information about truthfulness](https://arxiv.org/abs/2410.02707)
+[AI Flame Graphs](https://www.brendangregg.com/blog//2024-10-29/ai-flame-graphs.html)
+
+[Steam games will need to disclose kernel-level anti-cheat on store pages](https://www.gamingonlinux.com/2024/10/steam-games-will-now-need-to-fully-disclose-kernel-level-anti-cheat-on-store-pages/)
 
 [Australia/Lord_Howe is the weirdest timezone](https://ssoready.com/blog/engineering/truths-programmers-timezones/)
 
-[Dropbox announces 20% global workforce reduction](https://blog.dropbox.com/topics/company/an-update-from-drew)
+[Google's TOS doesn't eliminate a user's Fourth Amendment rights, judge rules [pdf]](https://ww3.ca2.uscourts.gov/decisions/isysquery/0814a460-fe8f-42ef-9e82-cf94f952eb28/1/doc/23-6181_opn.pdf)
 
-[Classic 3D videogame shadow techniques](https://30fps.net/pages/videogame-shadows/)
+[Crafting Painterly Shaders](https://blog.maximeheckel.com/posts/on-crafting-painterly-shaders/)
 
-[M4 MacBook Pro](https://www.apple.com/newsroom/2024/10/new-macbook-pro-features-m4-family-of-chips-and-apple-intelligence/)
+[Rubocop-obsession: RuboCop extension focused on higher-level concepts](https://github.com/jeromedalbert/rubocop-obsession)
 
-[Evolutionary history of the fruits we commonly eat](https://graphallthethings.com/posts/fruits)
+[An Italian 'fruit detective' who investigates centuries-old paintings](https://www.smithsonianmag.com/arts-culture/meet-italian-fruit-detective-who-investigates-centuries-old-paintings-clues-produce-180985227/)
 
-[2-adic numbering for binary tilings](https://11011110.github.io/blog/2024/10/28/2-adic-numbering-binary.html)
+[SimpleQA](https://openai.com/index/introducing-simpleqa/)
 
-[Launch HN: FlyCode (YC S22) – Stop losing revenue due to failed payments]()
-
-[AI Flame Graphs](https://www.brendangregg.com/blog//2024-10-29/ai-flame-graphs.html)
+[Pushing the frontiers of audio generation](https://deepmind.google/discover/blog/pushing-the-frontiers-of-audio-generation/)

@@ -5,16 +5,16 @@
 
 [Org Mode Syntax Cheat Sheet (2017)](https://nhigham.com/2017/11/02/org-mode-syntax-cheat-sheet/)
 
-[Our First Generalist Policy](https://www.physicalintelligence.company/blog/pi0?blog)
-
-[What is the point of an online conference?](https://www.scattered-thoughts.net/writing/what-is-the-point-of-an-online-conference/)
+[34x34x34 Rubik's Cube](https://ruwix.com/blog/34x34x34-rubiks-cube-record/)
 
 [Demystifying the regular expression that checks if a number is prime (2016)](https://illya.sh/the-codeumentary-blog/regular-expression-check-if-number-is-prime/)
 
 [Hazel: A live functional programming environment featuring typed holes](https://hazel.org/)
 
-[The carefulness knob](https://surfingcomplexity.blog/2024/10/29/the-carefulness-knob/)
+[Embeddings Are Underrated](https://technicalwriting.dev/data/embeddings.html)
 
-[A conserved fertilization complex bridges sperm and egg in vertebrates](https://www.cell.com/cell/fulltext/S0092-8674(24)01093-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867424010936%3Fshowall%3Dtrue)
+[Our First Generalist Policy](https://www.physicalintelligence.company/blog/pi0?blog)
 
-[Democratising publishing](https://john.onolan.org/democratising-publishing/)
+[Men Arrested for Transcribing a Movie, Posting Details to a Website](https://torrentfreak.com/men-arrested-for-transcribing-godzilla-minus-one-posting-details-to-a-website-241031/)
+
+[NandGame – Build a computer from scratch](https://www.nandgame.com)

@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Eighty Years of the Finite Element Method (2022)](https://link.springer.com/article/10.1007/s11831-022-09740-9)
+
+[The motor turns too much](https://www.projectgus.com/2024/01/kona-motor-turns/)
+
+[Next Generation Out of Band Garbage Collection](https://railsatscale.com/2024-10-23-next-generation-oob-gc/)
+
+[Sortledton: A Universal, Transactional Graph Data Structure [pdf]](https://www.vldb.org/pvldb/vol15/p1173-fuchs.pdf)
+
+[Show HN: A minimalist (brutalist?) website for sharing all your links](https://lynx.boo)
+
+[Show HN: Someday, Open-Source Calendly Alternative for Gmail / Google App Script](https://github.com/rbbydotdev/someday)
+
+[SpawELO – small free matchmaking system for LAN parties](https://blog.spawek.com/SpawELO)
+
 [Weird Lexical Syntax](https://justine.lol/lex/)
 
-[Cramming Solitaire onto a Nintendo E-Reader card](https://mattgreer.dev/blog/cramming-solitaire-onto-a-nintendo-ereader-card/)
+[The Language of Faces](https://domofutu.substack.com/p/the-language-of-faces)
 
-[Ghosts in the Machine](https://daily.jstor.org/ghosts-in-the-machine/)
-
-[Apple acquires Pixelmator](https://www.pixelmator.com/blog/2024/11/01/a-new-home-for-pixelmator/)
-
-[Hacking the T2S+ Out of Fear: Get Lock-In Thermography for Free](https://dmytroengineering.com/content/projects/t2s-plus-thermal-camera-hacking)
-
-['I grew up with it': readers on the enduring appeal of Microsoft Excel](https://www.theguardian.com/technology/2024/oct/28/microsoft-excel-spreadsheet-program-40-years)
-
-[A Serious Man: On Bruno Latour](https://www.jhiblog.org/2024/10/28/a-serious-man/)
-
-[RCE Vulnerability in QBittorrent](https://sharpsec.run/rce-vulnerability-in-qbittorrent/)
-
-[Show HN: Midnight Reminders via Morse Code](https://github.com/dmd/morse)
-
-[Hokusai's five ghoulish prints for the series Hyaku Monogatari (ca. 1830)](https://publicdomainreview.org/collection/hokusai-s-ghost-stories-ca-1830/)
+[The inventor of the automatic rice cooker](https://spectrum.ieee.org/toshiba-rice-cooker)

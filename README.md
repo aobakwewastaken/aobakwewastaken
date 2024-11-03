@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
+[Auth Wiki](https://auth.wiki/)
+
+[If you need the money, don't take the job](https://bitfieldconsulting.com/posts/need-money)
+
+[Create block devices on your computer backed by Redstone Memory](https://github.com/williambl/blockblockdevice)
+
+[I Waited 10B Cycles and All I Got Was This Loading Screen](https://blog.preyneyv.dev/doing-less-with-more)
+
+[Unix core utilities implemented in Haskell](https://github.com/Gandalf-/coreutils)
+
 [Speed, scale and reliability: 25 years of Google datacenter networking evolution](https://cloud.google.com/blog/products/networking/speed-scale-reliability-25-years-of-data-center-networking)
+
+[Intel might be too big to fail – policymakers discussing potential solutions](https://www.tomshardware.com/tech-industry/intel-might-be-too-big-to-fail-washington-policymakers-are-already-discussing-potential-solutions-if-the-chipmaker-cannot-recover)
 
 [Venvstacks: Virtual Environment Stacks for Python](https://pypi.org/project/venvstacks/)
 
 [The motor turns too much](https://www.projectgus.com/2024/01/kona-motor-turns/)
 
 [Get me out of data hell](https://ludic.mataroa.blog/blog/get-me-out-of-data-hell/)
-
-[Ractor – a Rust Actor Framework](https://slawlor.github.io/ractor/quickstart/)
-
-[Eighty Years of the Finite Element Method (2022)](https://link.springer.com/article/10.1007/s11831-022-09740-9)
-
-[Next Generation Out of Band Garbage Collection](https://railsatscale.com/2024-10-23-next-generation-oob-gc/)
-
-[Weird Lexical Syntax](https://justine.lol/lex/)
-
-[Saving historic cruise ships](https://www.afar.com/magazine/historic-cruise-ships-are-at-risk-peter-knego-saves-them)
-
-[Spann: Highly-Efficient Billion-Scale Approximate Nearest Neighbor Search (2021)](https://arxiv.org/abs/2111.08566)

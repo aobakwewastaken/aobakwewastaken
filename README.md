@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Create block devices on your computer backed by Redstone Memory](https://github.com/williambl/blockblockdevice)
+[Project Sid: Many-agent simulations toward AI civilization](https://github.com/altera-al/project-sid)
 
-[Unix core utilities implemented in Haskell](https://github.com/Gandalf-/coreutils)
+[Moving Off Heroku, Slowly](https://jamie.ideasasylum.com/2024/10/30/moving-off-heroku-slowly)
 
-[Touchscreens Are Out, and Tactile Controls Are Back](https://spectrum.ieee.org/touchscreens)
+[Touchscreens are out, and tactile controls are back](https://spectrum.ieee.org/touchscreens)
 
-[Speed, scale and reliability: 25 years of Google datacenter networking evolution](https://cloud.google.com/blog/products/networking/speed-scale-reliability-25-years-of-data-center-networking)
+[Hacker News Data Map](https://lmcinnes.github.io/datamapplot_examples/hackernews/)
 
-[Venvstacks: Virtual Environment Stacks for Python](https://lmstudio.ai/blog/venvstacks)
+[Bill Atkinson doxxed Douglas Adams in 1987](https://not.withoutdistractions.com/blog/2024/11/03/bill-atkinson-doxxed-douglas-adams-in-1987)
 
-[Get me out of data hell](https://ludic.mataroa.blog/blog/get-me-out-of-data-hell/)
+[The Confusing State of RCS](https://substack.com/home/post/p-151067817)
 
-[Big Data for the Leviathan](https://www.lrb.co.uk/the-paper/v46/n20/tom-johnson/big-data-for-the-leviathan)
+[ToolGit: A collection of scripts that extend Git with various sub-commands](https://github.com/ahmetsait/toolgit)
 
-[The motor turns too much](https://www.projectgus.com/2024/01/kona-motor-turns/)
+[pg_flo – Stream, transform, and re-route PostgreSQL data in real-time](https://www.pgflo.io/)
 
-[Ractor – a Rust Actor Framework](https://slawlor.github.io/ractor/quickstart/)
+[The DeskThing: the perfect desk assistant](https://github.com/ItsRiprod/DeskThing)
 
-[Eighty Years of the Finite Element Method (2022)](https://link.springer.com/article/10.1007/s11831-022-09740-9)
+[Programming Languages That Blew My Mind (2023)](https://yoric.github.io/post/programming-languages-that-blew-my-mind/)

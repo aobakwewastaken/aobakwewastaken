@@ -1,20 +1,20 @@
 # Top Stories on hackernews <br />
-[Eighty Years of the Finite Element Method (2022)](https://link.springer.com/article/10.1007/s11831-022-09740-9)
-
 [The motor turns too much](https://www.projectgus.com/2024/01/kona-motor-turns/)
+
+[Eighty Years of the Finite Element Method (2022)](https://link.springer.com/article/10.1007/s11831-022-09740-9)
 
 [Next Generation Out of Band Garbage Collection](https://railsatscale.com/2024-10-23-next-generation-oob-gc/)
 
-[Sortledton: A Universal, Transactional Graph Data Structure [pdf]](https://www.vldb.org/pvldb/vol15/p1173-fuchs.pdf)
+[Spann: Highly-Efficient Billion-Scale Approximate Nearest Neighbor Search (2021)](https://arxiv.org/abs/2111.08566)
 
-[Show HN: A minimalist (brutalist?) website for sharing all your links](https://lynx.boo)
-
-[Show HN: Someday, Open-Source Calendly Alternative for Gmail / Google App Script](https://github.com/rbbydotdev/someday)
-
-[SpawELO – small free matchmaking system for LAN parties](https://blog.spawek.com/SpawELO)
+[Get me out of data hell](https://ludic.mataroa.blog/blog/get-me-out-of-data-hell/)
 
 [Weird Lexical Syntax](https://justine.lol/lex/)
 
-[The Language of Faces](https://domofutu.substack.com/p/the-language-of-faces)
+[Where Cruise Ships Go to Die. Meet the Man Saving Them](https://www.afar.com/magazine/historic-cruise-ships-are-at-risk-peter-knego-saves-them)
 
-[The inventor of the automatic rice cooker](https://spectrum.ieee.org/toshiba-rice-cooker)
+[Show HN: A minimalist (brutalist?) website for sharing all your links](https://lynx.boo)
+
+[SpawELO – small free matchmaking system for LAN parties](https://blog.spawek.com/SpawELO)
+
+[Ractor – a Rust Actor Framework](https://slawlor.github.io/ractor/quickstart/)
